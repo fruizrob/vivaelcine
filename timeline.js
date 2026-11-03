@@ -1,35 +1,64 @@
-import { clock, endOf, matches } from './core.js?v=20261028-2';
+import { clock, endOf, matches } from './core.js?v=20261103';
 
 export const RANGE = { start: 900, end: 1500 };
-export const escapeHtml = text => String(text ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+export const escapeHtml = text => String(text ?? '').replace(/[&<>"']/g, character => ({
+  '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
+}[character]));
 export const sectionStyle = section => `--event-color:${section.color};--event-edge:${section.edge};--event-ink:${section.ink}`;
+const position = minute => (minute - RANGE.start) / (RANGE.end - RANGE.start) * 100;
+
+function renderEvent(event, room, data, dayEvents) {
+  const film = data.films[event.filmId];
+  const finish = endOf(event, data.films);
+  const isShort = film.duration < 45;
+  const width = film.duration / (RANGE.end - RANGE.start) * 100;
+  const nextInRoom = dayEvents
+    .filter(next => next.roomId === room.id && next.start > event.start)
+    .sort((a, b) => a.start - b.start)[0];
+  // A short film's title uses the empty interval before the next screening.
+  const shortLabel = isShort && nextInRoom
+    ? `--short-label-width:calc(${Math.max(0, nextInRoom.start - finish) / film.duration * 100}% - 12px);`
+    : '';
+  const timeRange = `${clock(event.start)}–${clock(finish, true)}`;
+  const label = `${film.title}. ${timeRange}. ${room.venue}, sala ${room.number}. ${film.duration} minutos. Ver detalle.`;
+  return `
+    <article class="event${isShort ? ' short' : ''}" data-event="${event.id}"
+      style="left:${position(event.start)}%;width:${width}%;${shortLabel}${sectionStyle(data.sections[film.section])}">
+      <button class="event-main" data-detail="${event.id}" aria-label="${escapeHtml(label)}"
+        title="${escapeHtml(`${film.title} · ${timeRange} · ${film.duration} min`)}">
+        <span class="event-time">${isShort ? clock(event.start) : `${clock(event.start)}–${clock(finish)}`}</span>
+        <span class="event-title">${escapeHtml(film.title)}</span>
+        <span class="event-meta">${film.duration} min</span>
+      </button>
+    </article>
+  `;
+}
 
 export function drawTimeline(data, state) {
-  const { rooms, films, events, sections } = data;
-  const dayEvents = events.filter(e => e.date === state.date);
-  const shown = dayEvents.filter(e => matches(e, films[e.filmId], state));
-  const visibleRooms = rooms.filter(r => !state.venue || r.venueId === state.venue);
-  const position = n => (n - RANGE.start) / (RANGE.end - RANGE.start) * 100;
-  let html = '<div class="axis"><div class="axis-label">SEDE / SALA</div><div class="axis-times">';
-  for (let n = RANGE.start; n <= RANGE.end; n += 60) html += `<span class="tick-label" style="left:${position(n)}%">${clock(n)}${n >= 1440 ? '<sup>+1</sup>' : ''}</span>`;
+  const dayEvents = data.events.filter(event => event.date === state.date);
+  const shown = dayEvents.filter(event => matches(event, data.films[event.filmId], state));
+  const visibleRooms = data.rooms.filter(room => !state.venue || room.venueId === state.venue);
+  let html = '<div class="axis"><div class="axis-label">Sala</div><div class="axis-times">';
+  for (let minute = RANGE.start; minute <= RANGE.end; minute += 60) {
+    html += `<span class="tick-label" style="left:${position(minute)}%">${clock(minute)}${minute >= 1440 ? '<sup>+1</sup>' : ''}</span>`;
+  }
   html += '</div></div>';
   let previousVenue = null;
-  visibleRooms.forEach(room => {
-    const isNew = previousVenue !== null && previousVenue !== room.venueId;
+  for (const room of visibleRooms) {
+    const isNewVenue = previousVenue !== null && previousVenue !== room.venueId;
     previousVenue = room.venueId;
-    html += `<div class="room-row${isNew ? ' new-venue' : ''}"><div class="room-label"><span class="venue-name"><span class="venue-dot" aria-hidden="true"></span>${escapeHtml(room.shortVenue)}</span><strong>Sala ${room.number}</strong></div><div class="plot">`;
-    for (const event of shown.filter(e => e.roomId === room.id)) {
-      const film = films[event.filmId], section = sections[film.section], finish = endOf(event, films);
-      const count = events.filter(e => e.filmId === event.filmId).sort((a,b) => a.date.localeCompare(b.date) || a.start-b.start);
-      const order = `${count.findIndex(e => e.id === event.id) + 1}/${count.length}`;
-      const classes = film.duration < 45 ? 'event short' : 'event';
-      const width = film.duration / (RANGE.end - RANGE.start) * 100;
-      const nextInRoom = dayEvents.filter(e => e.roomId === room.id && e.start > event.start).sort((a,b) => a.start-b.start)[0];
-      const shortLabel = film.duration < 45 && nextInRoom ? `--short-label-width:calc(${Math.max(0,nextInRoom.start-finish)/film.duration*100}% - 12px);` : '';
-      const timeRange = `${clock(event.start)}–${clock(finish, true)}`;
-      html += `<article class="${classes}" style="left:${position(event.start)}%;width:${width}%;${shortLabel}${sectionStyle(section)}" data-event="${event.id}"><button class="event-main" data-detail="${event.id}" aria-label="${escapeHtml(`${film.title}. ${timeRange}. ${room.venue}, sala ${room.number}. ${film.duration} minutos. Ver detalle.`)}" title="${escapeHtml(`${film.title} · ${timeRange} · ${film.duration} min`)}"><span class="event-time">${film.duration < 45 ? clock(event.start) : `${clock(event.start)}–${clock(finish)}`}</span><span class="event-title">${escapeHtml(film.title)}</span><span class="event-meta"><span>${film.duration} min${film.durationKind === 'sum' ? '*' : ''}</span><span class="event-order" title="Función ${order}">${order}</span></span></button></article>`;
-    }
-    html += '</div></div>';
-  });
+    html += `
+      <div class="room-row${isNewVenue ? ' new-venue' : ''}">
+        <div class="room-label">
+          <span class="venue-name">${escapeHtml(room.shortVenue)}</span>
+          <strong>Sala ${room.number}</strong>
+        </div>
+        <div class="plot">${shown
+          .filter(event => event.roomId === room.id)
+          .map(event => renderEvent(event, room, data, dayEvents)).join('')}
+        </div>
+      </div>
+    `;
+  }
   return { html, shown, visibleRooms };
 }

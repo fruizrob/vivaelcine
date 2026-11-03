@@ -1,23 +1,30 @@
-# Agenda SANFIC
+# ¡Viva el Cine!
 
-Programación interactiva de SANFIC22, del 2 al 8 de noviembre de 2026.
+SANFIC22, 2–8 de noviembre de 2026. Una grilla: tiempo horizontal, salas verticales, bloques proporcionales al metraje. 100 funciones, siete salas. Búsqueda, filtros, zoom y fichas.
 
-El tiempo avanza horizontalmente; cada fila representa una sala y cada bloque muestra el metraje de una función. Incluye 100 funciones en siete salas, fichas y filtros para consultar los bloques de horarios.
+## Desarrollo
 
-## GitHub Pages
-
-Los archivos ya están en la raíz, listos para publicar. En **Settings → Pages**, selecciona **Deploy from a branch**, la rama **main** y **/(root)**; luego **Save**.
-
-## Vista local
+Sin dependencias ni compilación. Desde la raíz:
 
 ```sh
-python3 -m http.server 8000 --bind 127.0.0.1
+python3 -m http.server 4174 --bind 127.0.0.1
 ```
 
-Abre `http://127.0.0.1:8000/`.
+Abre http://127.0.0.1:4174/. Con Node.js 20+, `npm test` verifica datos, filtros y proporciones. `npm run dev` inicia la misma vista local.
+
+## Archivos
+
+- `data.js`: programación y metadatos; las fuentes están en `assets/`.
+- `core.js`: tiempos y búsqueda, sin DOM.
+- `timeline.js`: genera la grilla, sin DOM.
+- `app.js`: estado e interacciones; `index.html` y `styles.css`: estructura y diseño.
+
+Los cambios de día actualizan `?dia=AAAA-MM-DD`. Los filtros y el zoom viven en memoria. Sin cuentas, almacenamiento ni servicios externos.
+
+## Publicación
+
+GitHub Pages: **Settings → Pages → Deploy from a branch → main → /(root)**. Se publican estos mismos archivos.
 
 ## Datos
 
-Agenda independiente basada en la programación oficial. Datos consultados el 28 de octubre de 2026. Las fuentes están en [assets/fuentes.json](assets/fuentes.json) y el [PDF oficial](assets/programacion-sanfic22.pdf).
-
-Los términos se calculan por metraje y no incluyen presentaciones ni conversatorios.
+Agenda independiente. Datos consultados el 28 de octubre de 2026. [Fuentes](assets/fuentes.json) y [programa oficial](assets/programacion-sanfic22.pdf). Los finales se calculan por metraje; presentaciones y conversatorios pueden extender las funciones.
