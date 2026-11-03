@@ -25,11 +25,13 @@ Open http://127.0.0.1:4174/. With Node.js 20+, `npm test` checks schedule data, 
 - `timeline.js`: generates the timeline, independent of the DOM.
 - `app.js`: state and interactions; `index.html` and `styles.css`: structure and design.
 
-Festival links use `?festival=FID`; changing the day adds `&dia=YYYY-MM-DD`. Existing SANFIC links without a festival parameter still work. Filters and zoom are kept in memory. No accounts, persistent storage, or external services.
+Festival links use `?festival=FID`; changing the day adds `&dia=YYYY-MM-DD`. Existing SANFIC links without a festival parameter still work. Filters and zoom are kept in memory. No accounts or persistent storage.
 
 ## Deployment
 
 GitHub Pages: **Settings → Pages → Deploy from a branch → main → /(root)**. These files are published directly.
+
+Cloudflare Web Analytics measures visits and page views using the official script in `index.html`. View reports in the Cloudflare account under **Observability → Analytics → Web analytics → vivaelcine.cl**. Manual installation supports the current DNS-only setup; no proxy or hosting change is required.
 
 ## Data
 
