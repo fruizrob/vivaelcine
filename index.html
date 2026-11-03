@@ -4,20 +4,23 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#fffaf0">
-  <meta name="description" content="Programación de SANFIC22 del 2 al 8 de noviembre de 2026. Horarios y películas en una grilla por sala.">
-  <title>¡Viva el Cine! · SANFIC22</title>
+  <meta name="description" content="Programación de festivales de cine. Horarios y películas por sala.">
+  <title>¡Viva el Cine!</title>
   <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="./styles.css?v=20261103-4">
-  <script type="module" src="./app.js?v=20261103"></script>
+  <link rel="stylesheet" href="./styles.css?v=20261103-5">
+  <script type="module" src="./app.js?v=20261103-2"></script>
 </head>
 <body>
   <a class="skip-link" href="#schedule">Ir a las funciones</a>
   <header class="masthead">
     <div class="identity">
       <h1><a href="./">¡Viva el Cine!</a></h1>
-      <p>SANFIC22 <span>Santiago · 2–8 nov 2026</span></p>
+      <div class="festival-bar">
+        <nav id="festivals" class="festivals" aria-label="Festival"></nav>
+        <p id="festival-dates"></p>
+      </div>
     </div>
-    <a class="source-link" href="./assets/programacion-sanfic22.pdf" target="_blank" rel="noopener">Programa oficial ↗</a>
+    <a class="source-link" id="program-source" href="./assets/programacion-sanfic22.pdf" target="_blank" rel="noopener">Programa oficial ↗</a>
   </header>
   <main>
     <nav class="days" id="days" aria-label="Día de programación"></nav>
@@ -37,7 +40,7 @@
       <div class="empty-results" id="empty-results" role="status" hidden>Sin resultados. <button id="reset-filters">Quitar filtros</button></div>
     </section>
     <footer class="footer">
-      <div class="footer-links"><a href="https://sanfic.com/esta-edicion/programacion/" target="_blank" rel="noopener">SANFIC22 ↗</a></div>
+      <div class="footer-links"><a id="festival-source" href="https://sanfic.com/esta-edicion/programacion/" target="_blank" rel="noopener">SANFIC22 ↗</a></div>
       <p class="footer-credit"><a href="https://letterboxd.com/fel1g/" target="_blank" rel="noopener"><span class="letterboxd-dots" aria-hidden="true"></span>fel1g en Letterboxd <span aria-hidden="true">↗</span></a></p>
     </footer>
   </main>
@@ -45,6 +48,6 @@
     <div id="film-detail"></div>
     <form method="dialog"><button class="close-dialog" aria-label="Cerrar detalle">×</button></form>
   </dialog>
-  <noscript><p class="noscript">Consulta el <a href="./assets/programacion-sanfic22.pdf">programa oficial en PDF</a>.</p></noscript>
+  <noscript><p class="noscript"><a href="./assets/programacion-sanfic22.pdf">SANFIC22</a> · <a href="https://fidocs.cl/programacion/">FIDOCS 30</a></p></noscript>
 </body>
 </html>

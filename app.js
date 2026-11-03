@@ -1,7 +1,8 @@
-import data from './data.js';
-import { clock, endOf } from './core.js?v=20261103';
-import { drawTimeline, escapeHtml as esc, sectionStyle, RANGE } from './timeline.js?v=20261103';
+import { festivals, festivalFor } from './data.js?v=20261103-2';
+import { clock, durationOf, endOf, roomLocation } from './core.js?v=20261103-2';
+import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261103-2';
 
+const data = festivalFor(location.search);
 const $ = selector => document.querySelector(selector);
 const requestedDay = new URLSearchParams(location.search).get('dia');
 const eventsById = new Map(data.events.map(event => [event.id, event]));
@@ -17,10 +18,25 @@ const dialog = $('#film-dialog');
 let detailEvent = null;
 
 function dateLabel(date, short = false) {
-  const day = data.days.find(day => day.date === date);
-  return short
-    ? `${day.short.toLowerCase()} ${day.number} nov`
-    : `${day.label} ${day.number} de noviembre`;
+  return new Intl.DateTimeFormat('es-CL', {
+    weekday: short ? 'short' : 'long', day: 'numeric', month: short ? 'short' : 'long', timeZone: 'UTC',
+  }).format(new Date(`${date}T12:00:00Z`));
+}
+
+function renderFestival() {
+  document.title = `¡Viva el Cine! · ${data.name}`;
+  document.querySelector('meta[name="description"]').content = `Programación de ${data.name}. Horarios y películas por sala.`;
+  $('#festivals').innerHTML = festivals.map(festival => `
+    <a href="?festival=${festival.id}" ${festival.id === data.id ? 'aria-current="page"' : ''}>${esc(festival.name)}</a>
+  `).join('');
+  const first = data.days[0].date;
+  const last = data.days.at(-1).date;
+  const format = new Intl.DateTimeFormat('es-CL', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' });
+  $('#festival-dates').textContent = format.formatRange(new Date(`${first}T12:00:00Z`), new Date(`${last}T12:00:00Z`));
+  $('#program-source').href = data.programUrl || data.sourceUrl;
+  $('#festival-source').href = data.sourceUrl;
+  $('#festival-source').textContent = `${data.name} ↗`;
+  $('#days').style.setProperty('--day-count', data.days.length);
 }
 
 function renderDays() {
@@ -35,11 +51,13 @@ function renderDays() {
 }
 
 function resizeTimeline() {
+  const range = timelineRange(data, state.date);
   const scroll = $('#timeline-scroll');
   const labelWidth = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--label-width'));
   const width = Math.round(Math.max(850, scroll.clientWidth - labelWidth) * state.zoom);
   $('#timeline').style.setProperty('--plot-width', `${width}px`);
-  $('#timeline').style.setProperty('--hour-width', `${width / ((RANGE.end - RANGE.start) / 60)}px`);
+  $('#timeline').style.setProperty('--hours', (range.end - range.start) / 60);
+  $('#timeline').style.setProperty('--hour-width', `${width / ((range.end - range.start) / 60)}px`);
   $('#zoom-fit').textContent = `${Math.round(state.zoom * 100)}%`;
   $('#zoom-out').disabled = state.zoom <= .8;
   $('#zoom-in').disabled = state.zoom >= 1.8;
@@ -66,7 +84,7 @@ function renderScreenings(filmId) {
     return `
       <button class="screening" data-detail="${event.id}" ${current ? 'aria-current="true"' : ''}>
         <span>${dateLabel(event.date, true)} <strong>${clock(event.start)}</strong></span>
-        <span>${esc(room.venue)} · Sala ${room.number}</span>
+        <span>${esc(roomLocation(room))}${event.title ? ` · ${esc(event.title)}` : ''}</span>
       </button>
     `;
   }).join('');
@@ -77,31 +95,39 @@ function renderDetail() {
   const film = data.films[event.filmId];
   const room = roomsById.get(event.roomId);
   const section = data.sections[film.section];
+  const duration = durationOf(event, data.films);
+  const finish = endOf(event, data.films);
+  const source = event.source || film.source;
+  const ticket = event.ticketUrl || film.ticketUrl;
+  const notes = [...new Set([event.note, film.note].filter(Boolean))];
   $('#film-detail').innerHTML = `
     <p class="film-section" style="color:${section.ink}">${esc(section.label)}</p>
-    <h2 id="film-title">${esc(film.title)}</h2>
+    <h2 id="film-title">${esc(event.title || film.title)}</h2>
     <p class="detail-when">
-      ${dateLabel(event.date)} · ${clock(event.start)}–${clock(endOf(event, data.films), true)}
-      <span>${esc(room.venue)} · Sala ${room.number}</span>
+      ${dateLabel(event.date)} · ${clock(event.start)}${finish === null ? '' : `–${clock(finish, true)}`}
+      <span>${esc(roomLocation(room))}</span>
     </p>
     <dl class="film-facts">
-      <dt>Dirección</dt><dd>${esc(film.director)}</dd>
-      <dt>Duración</dt><dd>${film.duration} min${film.durationKind === 'sum' ? ' · siete cortometrajes' : ''}</dd>
-      <dt>Países</dt><dd>${esc(film.countries)}</dd>
-      <dt>Idioma</dt><dd>${esc(film.language)}</dd>
+      ${film.director ? `<dt>Dirección</dt><dd>${esc(film.director)}</dd>` : ''}
+      <dt>Duración</dt><dd>${duration === null ? 'Por confirmar' : `${duration} min`}${film.durationKind === 'sum' ? ` · ${film.components.length} cortometrajes` : ''}</dd>
+      ${film.countries ? `<dt>Países</dt><dd>${esc(film.countries)}</dd>` : ''}
+      ${film.year ? `<dt>Año</dt><dd>${esc(film.year)}</dd>` : ''}
+      ${film.free ? '<dt>Entrada</dt><dd>Gratuita</dd>' : ''}
+      ${film.language ? `<dt>Idioma</dt><dd>${esc(film.language)}</dd>` : ''}
       ${film.alias ? `<dt>Otro título</dt><dd>${esc(film.alias)}</dd>` : ''}
     </dl>
-    ${film.note ? `<p>${esc(film.note)}</p>` : ''}
-    <a class="detail-source" href="${esc(film.source)}" target="_blank" rel="noopener">${film.components ? 'Programa del bloque' : 'Ficha oficial'} ↗</a>
+    ${notes.map(note => `<p>${esc(note)}</p>`).join('')}
+    <a class="detail-source" href="${esc(source)}" target="_blank" rel="noopener">${source === ticket ? 'Entradas' : film.components ? 'Programa del bloque' : 'Ficha oficial'} ↗</a>
+    ${ticket && ticket !== source ? `<a class="detail-source ticket-link" href="${esc(ticket)}" target="_blank" rel="noopener">Entradas ↗</a>` : ''}
     ${film.components ? `
       <details>
         <summary>Cortometrajes</summary>
         <ul class="short-list">${film.components.map(short => `
-          <li><a href="${esc(short.source)}" target="_blank" rel="noopener">${esc(short.title)}</a> · ${short.duration} min<br>${esc(short.director)}</li>
+          <li><a href="${esc(short.source)}" target="_blank" rel="noopener">${esc(short.title)}</a>${Number.isFinite(short.duration) ? ` · ${short.duration} min` : ''}${short.director ? `<br>${esc(short.director)}` : ''}</li>
         `).join('')}</ul>
       </details>
     ` : ''}
-    <p class="runtime-note">Fin estimado por metraje; sin presentación ni conversatorio.</p>
+    ${finish === null ? '' : '<p class="runtime-note">Fin estimado por metraje.</p>'}
     ${film.aliasSources ? `<p class="alias-sources">${film.aliasSources.map((url, index) => `<a href="${esc(url)}" target="_blank" rel="noopener">${index ? 'Festival de San Sebastián' : 'Distribuidora'} ↗</a>`).join(' · ')}</p>` : ''}
     <section class="screenings" aria-labelledby="screenings-title">
       <h3 id="screenings-title">Funciones</h3>
@@ -195,5 +221,6 @@ $('#legend').innerHTML = Object.entries(data.sections).map(([id, section]) => `
     <span class="legend-dot" aria-hidden="true"></span>${esc(section.label)}
   </button>
 `).join('');
+renderFestival();
 renderDays();
 renderSchedule();

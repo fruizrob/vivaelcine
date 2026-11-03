@@ -13,13 +13,28 @@ export function normalize(value) {
   return String(value || '').normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase();
 }
 
+export function durationOf(event, films) {
+  const duration = Object.hasOwn(event, 'duration') ? event.duration : films[event.filmId]?.duration;
+  return Number.isFinite(duration) && duration > 0 ? duration : null;
+}
+
 export function endOf(event, films) {
-  const duration = films[event.filmId]?.duration;
+  const duration = durationOf(event, films);
   return Number.isFinite(duration) && duration > 0 ? event.start + duration : null;
+}
+
+export function roomName(room) {
+  return room.name || `Sala ${room.number}`;
+}
+
+export function roomLocation(room) {
+  const name = roomName(room);
+  return room.venue === name ? name : `${room.venue} · ${name}`;
 }
 
 export function matches(event, film, filters) {
   if (filters.venue && event.venueId !== filters.venue) return false;
   if (filters.section && film.section !== filters.section) return false;
-  return normalize([film.title, film.originalTitle, film.director, film.countries, film.alias || ''].join(' ')).includes(normalize(filters.search).trim());
+  const components = (film.components || []).flatMap(part => [part.title, part.director]);
+  return normalize([event.title, film.title, film.originalTitle, film.director, film.countries, film.alias, ...components].join(' ')).includes(normalize(filters.search).trim());
 }

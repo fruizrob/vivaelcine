@@ -2,7 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import data from '../data.js';
 import { minutes, clock, endOf, matches } from '../core.js';
-import { drawTimeline, RANGE, escapeHtml } from '../timeline.js';
+import { drawTimeline, timelineRange, escapeHtml } from '../timeline.js';
 
 test('the complete schedule has verified runtimes, unique identities and seven rooms',()=>{
   assert.equal(data.events.length,100);
@@ -42,6 +42,7 @@ test('search ignores accents and supports alias while combining independent filt
 
 
 test('the grid preserves every screening and its exact time interval', () => {
+  const RANGE = timelineRange(data);
   for (const day of data.days) {
     const result = drawTimeline(data, {date: day.date, search: '', venue: '', section: ''});
     assert.equal(result.shown.length, data.events.filter(event => event.date === day.date).length);

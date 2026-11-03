@@ -15,12 +15,15 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,.t
 .masthead{display:flex;align-items:center;justify-content:space-between;gap:20px;padding-block:32px}
 h1{font:400 36px/1.15 Georgia,'Times New Roman',serif;letter-spacing:-1.3px;margin:0}
 h1 a{text-decoration:none}
-.identity p{font-size:12px;font-weight:700;margin:9px 0 0}
-.identity p span{color:var(--muted);font-weight:400}
-.identity p span::before{content:" · "}
+.festival-bar{display:flex;align-items:center;gap:16px;margin-top:14px;flex-wrap:wrap}
+.festivals{display:flex;gap:4px;padding:3px;border:1px solid var(--line);border-radius:7px;background:var(--white)}
+.festivals a{padding:7px 11px;border-radius:4px;text-decoration:none;font-size:12px;color:var(--muted);white-space:nowrap}
+.festivals a:hover{color:var(--ink)}
+.festivals a[aria-current="page"]{background:var(--ink);color:var(--white)}
+#festival-dates{font-size:12px;color:var(--muted);margin:0;font-variant-numeric:tabular-nums}
 .source-link{font-size:12px;text-decoration:none;white-space:nowrap;padding:10px 0}
 .source-link:hover{text-decoration:underline}
-.days{display:grid;grid-template-columns:repeat(7,1fr);gap:6px;margin-bottom:20px}
+.days{display:grid;grid-template-columns:repeat(var(--day-count,7),minmax(0,1fr));gap:6px;margin-bottom:20px}
 .day-button{padding:13px 16px;text-align:left;border:1px solid var(--line);border-radius:6px;display:flex;align-items:baseline;gap:10px;background:var(--white)}
 .day-button:hover{border-color:var(--ink)}
 .day-button[aria-current="date"]{background:var(--orange);color:white;border-color:var(--orange)}
@@ -54,13 +57,13 @@ select{border:1px solid var(--line);border-radius:5px;height:40px;padding:0 30px
 .tick-label{position:absolute;top:12px;font-size:11px;font-weight:500;font-variant-numeric:tabular-nums;transform:translateX(-50%);color:var(--muted)}
 .tick-label:first-child{transform:none;margin-left:6px}
 .tick-label:last-child{transform:translateX(-100%);padding-right:6px}
-.room-row{height:var(--row-height)}
+.room-row{height:calc(var(--row-height)*var(--lanes,1))}
 .room-label{position:sticky;left:0;z-index:7;padding:14px;display:flex;justify-content:center;flex-direction:column;background:var(--white);border-bottom:1px solid var(--line);border-right:1px solid var(--line)}
 .venue-name{font-size:11px;line-height:1.4;color:var(--muted);margin-bottom:6px}
 .room-label strong{font-size:16px;font-weight:600}
 .room-row.new-venue{border-top:2px solid var(--line)}
 .plot{position:relative;border-bottom:1px solid var(--line);background-color:#faf9f4;background-image:linear-gradient(to right,#e0ddd3 1px,transparent 1px),linear-gradient(to right,#eeece4 1px,transparent 1px);background-size:var(--hour-width) 100%,calc(var(--hour-width)/2) 100%}
-.event{position:absolute;top:9px;bottom:9px;z-index:4;border:1px solid var(--event-edge);border-left-width:3px;background:var(--event-color);border-radius:4px;min-width:0}
+.event{position:absolute;top:calc(9px + var(--lane,0)*var(--row-height));height:calc(var(--row-height) - 18px);z-index:4;border:1px solid var(--event-edge);border-left-width:3px;background:var(--event-color);border-radius:4px;min-width:0}
 .event:hover,.event:focus-within{z-index:6;box-shadow:0 3px 12px #29272020}
 .event-main{display:flex;flex-direction:column;align-items:stretch;position:relative;width:100%;height:100%;text-align:left;border:0;padding:9px 7px 7px;color:var(--event-ink);overflow:hidden}
 .event-time{display:block;font-size:10px;white-space:nowrap;font-variant-numeric:tabular-nums;letter-spacing:-.15px;margin-bottom:6px}
@@ -70,6 +73,10 @@ select{border:1px solid var(--line);border-radius:5px;height:40px;padding:0 30px
 .event.short .event-time{font-size:9px}
 .event.short .event-title{position:absolute;left:calc(100% + 6px);top:16px;width:min(139px,var(--short-label-width,139px));max-height:60px;padding:3px 0;font-size:11px;color:var(--ink);background:#faf9f4;z-index:3;-webkit-line-clamp:4}
 .event.short .event-meta{font-size:8px;left:3px}
+.event.unknown{background:none;border:0;border-left:2px dashed var(--event-edge);border-radius:0}
+.event.unknown .event-main{width:min(150px,var(--unknown-label-width,150px));margin-left:3px;padding-left:7px}
+.event.unknown .event-meta{font-size:9px}
+.event.unknown:hover,.event.unknown:focus-within{box-shadow:none}
 .empty-results{text-align:center;padding:24px;font-size:13px;border-top:1px solid var(--line)}
 .empty-results button{border:0;text-decoration:underline;padding:6px}
 .footer{padding:20px 0 30px;font-size:11px;color:var(--muted)}
@@ -91,6 +98,7 @@ dialog .film-section{font-size:12px;margin:0;padding-right:24px}
 .film-facts dt{color:var(--muted)}
 .film-facts dd{margin:0}
 .detail-source{display:inline-block;font-size:13px;margin-bottom:4px}
+.ticket-link{margin-left:16px}
 dialog .runtime-note,dialog .alias-sources{font-size:11px}
 .screenings{border-top:1px solid var(--line);padding-top:20px;margin-top:24px}
 .screenings h3{font-size:13px;margin:0 0 12px}
@@ -115,9 +123,9 @@ summary{cursor:pointer}
 .masthead{padding:24px 16px;align-items:flex-start;gap:12px}
 main{padding-inline:12px}
 h1{font-size:29px;letter-spacing:-1px}
-.identity p{font-size:11px;line-height:1.6;margin-top:6px}
-.identity p span{display:block}
-.identity p span::before{content:none}
+.festival-bar{gap:10px;margin-top:12px}
+.festivals a{padding:7px 9px;font-size:11px}
+#festival-dates{font-size:11px;flex-basis:100%}
 .source-link{font-size:11px;padding-top:8px}
 .days{gap:4px;margin-bottom:14px}
 .day-button{padding:10px 3px;flex-direction:column;align-items:center;gap:4px}
@@ -145,5 +153,5 @@ main{padding:0}
 .schedule-shell{border:0;overflow:visible}
 .timeline-scroll{overflow:visible}
 #day-heading{position:static;width:auto;height:auto;clip:auto;padding:12px}
-.timeline{--plot-width:1000px!important;--hour-width:100px!important;--label-width:130px;--row-height:92px}
+.timeline{--plot-width:1000px!important;--hour-width:calc(1000px/var(--hours))!important;--label-width:130px;--row-height:92px}
 .event{-webkit-print-color-adjust:exact;print-color-adjust:exact}}
