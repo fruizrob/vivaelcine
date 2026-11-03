@@ -1,30 +1,32 @@
 # ¡Viva el Cine!
 
-SANFIC22, 2–8 de noviembre de 2026. Una grilla: tiempo horizontal, salas verticales, bloques proporcionales al metraje. 100 funciones, siete salas. Búsqueda, filtros, zoom y fichas.
+Film festival schedules organized by time and screening room. SANFIC is the project's first agenda; more will be added as new festivals are announced.
 
-## Desarrollo
+SANFIC22 runs November 2–8, 2026. The timeline shows time horizontally and screening rooms vertically, with blocks proportional to each film's runtime. It includes 100 screenings across seven rooms, plus search, filters, zoom, and screening details.
 
-Sin dependencias ni compilación. Desde la raíz:
+## Development
+
+No dependencies or build step. From the repository root:
 
 ```sh
 python3 -m http.server 4174 --bind 127.0.0.1
 ```
 
-Abre http://127.0.0.1:4174/. Con Node.js 20+, `npm test` verifica datos, filtros y proporciones. `npm run dev` inicia la misma vista local.
+Open http://127.0.0.1:4174/. With Node.js 20+, `npm test` checks schedule data, filters, and timeline proportions. `npm run dev` starts the same local preview.
 
-## Archivos
+## Files
 
-- `data.js`: programación y metadatos; las fuentes están en `assets/`.
-- `core.js`: tiempos y búsqueda, sin DOM.
-- `timeline.js`: genera la grilla, sin DOM.
-- `app.js`: estado e interacciones; `index.html` y `styles.css`: estructura y diseño.
+- `data.js`: schedule and metadata; source files are in `assets/`.
+- `core.js`: time calculations and search, independent of the DOM.
+- `timeline.js`: generates the timeline, independent of the DOM.
+- `app.js`: state and interactions; `index.html` and `styles.css`: structure and design.
 
-Los cambios de día actualizan `?dia=AAAA-MM-DD`. Los filtros y el zoom viven en memoria. Sin cuentas, almacenamiento ni servicios externos.
+Changing the day updates `?dia=YYYY-MM-DD`. Filters and zoom are kept in memory. No accounts, persistent storage, or external services.
 
-## Publicación
+## Deployment
 
-GitHub Pages: **Settings → Pages → Deploy from a branch → main → /(root)**. Se publican estos mismos archivos.
+GitHub Pages: **Settings → Pages → Deploy from a branch → main → /(root)**. These files are published directly.
 
-## Datos
+## Data
 
-Agenda independiente. Datos consultados el 28 de octubre de 2026. [Fuentes](assets/fuentes.json) y [programa oficial](assets/programacion-sanfic22.pdf). Los finales se calculan por metraje; presentaciones y conversatorios pueden extender las funciones.
+An independent festival agenda. Data retrieved on October 28, 2026. [Sources](assets/fuentes.json) and [official program](assets/programacion-sanfic22.pdf). End times are calculated from film runtimes; introductions and discussions may extend screenings.
