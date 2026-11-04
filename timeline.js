@@ -59,6 +59,10 @@ function renderEvent(event, lane, room, data, dayEvents, range) {
       </button>
       ${hasRating ? `<a class="event-rating" href="https://letterboxd.com/film/${escapeHtml(slug)}/" target="_blank" rel="noopener"
         aria-label="${escapeHtml(ratingLabel)}" title="${escapeHtml(ratingLabel)}"><span class="letterboxd-dots" aria-hidden="true"></span>${score.toFixed(1)}</a>` : ''}
+      ${unknown ? '' : `<button type="button" class="event-share" data-share="${event.id}"
+        aria-label="${escapeHtml(`Compartir ${title}, ${clock(event.start)}`)}" title="Compartir" aria-controls="share-menu" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M12 16V3m-5 5 5-5 5 5M20 13v6a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-6"/></svg>
+      </button>`}
     </article>
   `;
 }

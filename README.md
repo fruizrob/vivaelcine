@@ -23,9 +23,19 @@ Open http://127.0.0.1:4174/. With Node.js 20+ and Python 3.9+, `npm test` checks
 - `data/`: one independent schedule per festival; source records are in `assets/`.
 - `core.js`: time calculations and search, independent of the DOM.
 - `timeline.js`: generates the timeline, independent of the DOM.
+- `story.js`: draws Story cards and owns the sharing preview, export, and clipboard fallback.
+- `sharing.js`: opens the share menu for a screening, with Story and link actions.
 - `app.js`: state and interactions; `index.html` and `styles.css`: structure and design.
 
 Festival links use `?festival=FID`; changing the day adds `&dia=YYYY-MM-DD`. Without a valid day in the URL, the agenda opens on today's date in the festival's timezone, or its first day when today is outside the schedule. Existing SANFIC links without a festival parameter still work. Filters and zoom are kept in memory. No accounts or persistent storage.
+
+## Share a screening
+
+Select the small share arrow beside a screening's Letterboxd score to open a menu with **Historia de Instagram** and **Copiar enlace**. Supported devices also offer **Compartir enlace**, which opens the device's share sheet with the exact screening URL. The icon is also available in the detail dialog; very narrow blocks and unknown-duration markers keep sharing in their details. Choosing the Story opens a 1080 × 1920 preview with **Compartir**, **Descargar**, and **Copiar enlace**. Image sharing opens the device's share sheet when file sharing is available; downloading remains available. Paste the copied URL into Instagram's link sticker to link to the exact screening.
+
+Screening links include `?festival=FID&dia=YYYY-MM-DD&funcion=EVENT_ID` and open that exact screening. A valid screening takes precedence over the day parameter; an unknown screening falls back to the normal agenda. Closing the detail removes `funcion` from the current URL.
+
+Images are generated locally with Canvas; no backend, login, or external image service. Sharing requires a supported browser and HTTPS (or localhost). The browser cannot choose Instagram as the destination or guarantee its Story composer opens; the user selects the destination. Verify that handoff on physical iOS and Android devices. [Implementation references](docs/instagram-story-sharing.md).
 
 ## Deployment
 
