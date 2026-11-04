@@ -1,4 +1,4 @@
-import { clock, durationOf, endOf, matches, roomName, roomLocation } from './core.js?v=20261103-2';
+import { clock, durationOf, endOf, matches, roomName, roomLocation } from './core.js?v=20261104';
 
 export const escapeHtml = text => String(text ?? '').replace(/[&<>"']/g, character => ({
   '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',

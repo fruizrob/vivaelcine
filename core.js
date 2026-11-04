@@ -13,6 +13,15 @@ export function normalize(value) {
   return String(value || '').normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase();
 }
 
+export function initialDay(data, requestedDay, now = new Date()) {
+  if (data.days.some(day => day.date === requestedDay)) return requestedDay;
+  const parts = new Intl.DateTimeFormat('en', {
+    timeZone: data.timeZone, year: 'numeric', month: '2-digit', day: '2-digit',
+  }).formatToParts(now);
+  const today = ['year', 'month', 'day'].map(type => parts.find(part => part.type === type).value).join('-');
+  return data.days.some(day => day.date === today) ? today : data.days[0].date;
+}
+
 export function durationOf(event, films) {
   const duration = Object.hasOwn(event, 'duration') ? event.duration : films[event.filmId]?.duration;
   return Number.isFinite(duration) && duration > 0 ? duration : null;

@@ -25,7 +25,7 @@ Open http://127.0.0.1:4174/. With Node.js 20+, `npm test` checks schedule data, 
 - `timeline.js`: generates the timeline, independent of the DOM.
 - `app.js`: state and interactions; `index.html` and `styles.css`: structure and design.
 
-Festival links use `?festival=FID`; changing the day adds `&dia=YYYY-MM-DD`. Existing SANFIC links without a festival parameter still work. Filters and zoom are kept in memory. No accounts or persistent storage.
+Festival links use `?festival=FID`; changing the day adds `&dia=YYYY-MM-DD`. Without a valid day in the URL, the agenda opens on today's date in the festival's timezone, or its first day when today is outside the schedule. Existing SANFIC links without a festival parameter still work. Filters and zoom are kept in memory. No accounts or persistent storage.
 
 ## Deployment
 

@@ -1,6 +1,6 @@
 import { festivals, festivalFor } from './data.js?v=20261103-2';
-import { clock, durationOf, endOf, roomLocation } from './core.js?v=20261103-2';
-import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261103-2';
+import { clock, durationOf, endOf, initialDay, roomLocation } from './core.js?v=20261104';
+import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261104';
 
 const data = festivalFor(location.search);
 const $ = selector => document.querySelector(selector);
@@ -8,7 +8,7 @@ const requestedDay = new URLSearchParams(location.search).get('dia');
 const eventsById = new Map(data.events.map(event => [event.id, event]));
 const roomsById = new Map(data.rooms.map(room => [room.id, room]));
 const state = {
-  date: data.days.some(day => day.date === requestedDay) ? requestedDay : data.days[0].date,
+  date: initialDay(data, requestedDay),
   search: '',
   venue: '',
   section: '',

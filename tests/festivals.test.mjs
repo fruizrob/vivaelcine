@@ -2,11 +2,29 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { festivals, festivalFor } from '../data.js';
-import { durationOf, endOf, matches } from '../core.js';
+import { durationOf, endOf, initialDay, matches } from '../core.js';
 import { drawTimeline, timelineRange } from '../timeline.js';
 
 const filters = { search: '', venue: '', section: '' };
 const fidocs = festivals.find(festival => festival.id === 'fidocs-2026');
+
+test('initial day uses the festival timezone rather than the UTC date', () => {
+  const sanfic = festivalFor('');
+  assert.equal(initialDay(sanfic, null, new Date('2026-11-05T01:00:00Z')), '2026-11-04');
+  assert.equal(initialDay(sanfic, null, new Date('2026-11-05T04:00:00Z')), '2026-11-05');
+});
+
+test('valid day links override today; invalid links fall back to today', () => {
+  const sanfic = festivalFor('');
+  const now = new Date('2026-11-04T15:00:00Z');
+  assert.equal(initialDay(sanfic, '2026-11-02', now), '2026-11-02');
+  assert.equal(initialDay(sanfic, '2026-11-99', now), '2026-11-04');
+});
+
+test('festivals outside their dates still open on their first day', () => {
+  assert.equal(initialDay(fidocs, null, new Date('2026-11-04T15:00:00Z')), '2026-11-13');
+  assert.equal(initialDay(fidocs, null, new Date('2026-12-01T15:00:00Z')), '2026-11-13');
+});
 
 test('every official FIDOCS listing and published start maps to a screening', () => {
   const sources = JSON.parse(readFileSync(new URL('../assets/fidocs-2026-sources.json', import.meta.url)));
