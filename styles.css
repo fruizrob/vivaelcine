@@ -63,7 +63,7 @@ select{border:1px solid var(--line);border-radius:5px;height:40px;padding:0 30px
 .room-label strong{font-size:16px;font-weight:600}
 .room-row.new-venue{border-top:2px solid var(--line)}
 .plot{position:relative;border-bottom:1px solid var(--line);background-color:#faf9f4;background-image:linear-gradient(to right,#e0ddd3 1px,transparent 1px),linear-gradient(to right,#eeece4 1px,transparent 1px);background-size:var(--hour-width) 100%,calc(var(--hour-width)/2) 100%}
-.event{position:absolute;top:calc(9px + var(--lane,0)*var(--row-height));height:calc(var(--row-height) - 18px);z-index:4;border:1px solid var(--event-edge);border-left-width:3px;background:var(--event-color);border-radius:4px;min-width:0}
+.event{position:absolute;top:calc(9px + var(--lane,0)*var(--row-height));height:calc(var(--row-height) - 18px);z-index:4;border:1px solid var(--event-edge);border-left-width:3px;background:var(--event-color);border-radius:4px;min-width:0;container-type:inline-size}
 .event:hover,.event:focus-within{z-index:6;box-shadow:0 3px 12px #29272020}
 .event-main{display:flex;flex-direction:column;align-items:stretch;position:relative;width:100%;height:100%;text-align:left;border:0;padding:9px 7px 7px;color:var(--event-ink);overflow:hidden}
 .event-time{display:block;font-size:10px;white-space:nowrap;font-variant-numeric:tabular-nums;letter-spacing:-.15px;margin-bottom:6px}
@@ -84,22 +84,26 @@ select{border:1px solid var(--line);border-radius:5px;height:40px;padding:0 30px
 .footer-credit{display:flex;justify-content:center;margin:24px 0 0;font-size:12px}
 .footer-credit a{display:inline-flex;align-items:center;gap:8px;padding:6px;border-radius:4px}
 .letterboxd-dots{width:8px;height:8px;margin:0 6px;background:#00c030;border-radius:50%;box-shadow:-6px 0 #ff8000,6px 0 #40bcf4}
+.event-rating{position:absolute;bottom:2px;right:4px;display:inline-flex;align-items:center;gap:6px;padding:3px 5px;background:#fffef9b3;border-radius:3px;font-size:10px;font-weight:600;line-height:18px;color:var(--event-ink);text-decoration:none;font-variant-numeric:tabular-nums}
+.event-rating .letterboxd-dots{flex:none;width:5px;height:5px;margin:0 4px;box-shadow:-4px 0 #ff8000,4px 0 #40bcf4}
+.event-rating:hover{background:var(--white);text-decoration:underline}
+@container(max-width:110px){.has-rating .event-meta{display:none}}
 .footer a{text-decoration:none}
 .footer a:hover{text-decoration:underline}
 dialog{border:1px solid var(--line);border-radius:10px;background:var(--paper);color:var(--ink);padding:32px;width:min(580px,calc(100% - 28px));max-height:90vh;overflow:auto;box-shadow:0 18px 80px #19191040}
 dialog::backdrop{background:#22221c70;backdrop-filter:blur(3px)}
 .close-dialog{position:absolute;right:10px;top:8px;border:0;font-size:26px;color:var(--muted);line-height:1;padding:7px 10px}
-dialog h2{font:400 32px/1.15 Georgia,'Times New Roman',serif;letter-spacing:-.5px;margin:10px 0 20px}
+dialog h2{font:400 32px/1.15 Georgia,'Times New Roman',serif;letter-spacing:-.5px;margin:10px 0 12px}
 dialog p{font-size:13px;line-height:1.6;color:var(--muted)}
 dialog .film-section{font-size:12px;margin:0;padding-right:24px}
 .detail-when{font-size:15px;color:var(--ink);border-block:1px solid var(--line);padding:16px 0}
 .detail-when span{display:block;font-size:12px;margin-top:5px}
-.film-facts{display:grid;grid-template-columns:90px 1fr;gap:10px 14px;margin:22px 0;font-size:13px;line-height:1.5}
-.film-facts dt{color:var(--muted)}
-.film-facts dd{margin:0}
-.detail-source{display:inline-block;font-size:13px;margin-bottom:4px}
-.ticket-link{margin-left:16px}
-dialog .runtime-note,dialog .alias-sources{font-size:11px}
+dialog .film-director{color:var(--ink);margin:0 0 6px}
+dialog .film-meta{font-size:12px;margin:0 0 6px;text-wrap:pretty}
+dialog .film-admission{color:var(--ink);margin:12px 0}
+.detail-links{display:flex;flex-wrap:wrap;gap:12px 20px;font-size:13px}
+.letterboxd-rating{display:block;width:100%;height:120px;border:0;margin-top:16px;color-scheme:light}
+dialog .alias-sources{font-size:11px}
 .screenings{border-top:1px solid var(--line);padding-top:20px;margin-top:24px}
 .screenings h3{font-size:13px;margin:0 0 12px}
 .screening{display:flex;flex-direction:column;gap:5px;width:100%;text-align:left;border:0;border-bottom:1px solid var(--line);padding:13px 10px;font-size:12px;border-radius:3px}
@@ -146,7 +150,6 @@ h1{font-size:29px;letter-spacing:-1px}
 .footer{padding:18px 4px 26px}
 dialog{padding:28px 22px}
 dialog h2{font-size:29px}
-.film-facts{grid-template-columns:76px 1fr;font-size:12px;gap:10px}
 .detail-when{font-size:13px}}
 @media print{.masthead,.toolbar,.legend,.footer,.days,.skip-link,dialog{display:none!important}
 main{padding:0}

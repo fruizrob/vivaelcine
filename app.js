@@ -1,6 +1,6 @@
-import { festivals, festivalFor } from './data.js?v=20261103-2';
+import { festivals, festivalFor } from './data.js?v=20261104-letterboxd';
 import { clock, durationOf, endOf, initialDay, roomLocation } from './core.js?v=20261104';
-import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261104';
+import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261104-letterboxd';
 
 const data = festivalFor(location.search);
 const $ = selector => document.querySelector(selector);
@@ -99,35 +99,45 @@ function renderDetail() {
   const finish = endOf(event, data.films);
   const source = event.source || film.source;
   const ticket = event.ticketUrl || film.ticketUrl;
+  const letterboxd = event.letterboxd || film.letterboxd;
+  const ratingTitle = event.letterboxd ? event.title || film.title : film.title;
   const notes = [...new Set([event.note, film.note].filter(Boolean))];
+  const facts = [
+    duration === null ? 'Duración por confirmar' : `${duration} min`,
+    film.durationKind === 'sum' ? `${film.components.length} cortometrajes` : '',
+    film.year, film.countries, film.language,
+  ].filter(Boolean);
   $('#film-detail').innerHTML = `
     <p class="film-section" style="color:${section.ink}">${esc(section.label)}</p>
     <h2 id="film-title">${esc(event.title || film.title)}</h2>
+    ${film.director ? `<p class="film-director">${esc(film.director)}</p>` : ''}
+    <p class="film-meta">${facts.map(esc).join(' · ')}</p>
+    ${film.alias ? `<p class="film-meta">${esc(film.alias)}</p>` : ''}
+    ${film.free ? '<p class="film-admission">Entrada gratuita</p>' : ''}
     <p class="detail-when">
       ${dateLabel(event.date)} · ${clock(event.start)}${finish === null ? '' : `–${clock(finish, true)}`}
       <span>${esc(roomLocation(room))}</span>
     </p>
-    <dl class="film-facts">
-      ${film.director ? `<dt>Dirección</dt><dd>${esc(film.director)}</dd>` : ''}
-      <dt>Duración</dt><dd>${duration === null ? 'Por confirmar' : `${duration} min`}${film.durationKind === 'sum' ? ` · ${film.components.length} cortometrajes` : ''}</dd>
-      ${film.countries ? `<dt>Países</dt><dd>${esc(film.countries)}</dd>` : ''}
-      ${film.year ? `<dt>Año</dt><dd>${esc(film.year)}</dd>` : ''}
-      ${film.free ? '<dt>Entrada</dt><dd>Gratuita</dd>' : ''}
-      ${film.language ? `<dt>Idioma</dt><dd>${esc(film.language)}</dd>` : ''}
-      ${film.alias ? `<dt>Otro título</dt><dd>${esc(film.alias)}</dd>` : ''}
-    </dl>
     ${notes.map(note => `<p>${esc(note)}</p>`).join('')}
-    <a class="detail-source" href="${esc(source)}" target="_blank" rel="noopener">${source === ticket ? 'Entradas' : film.components ? 'Programa del bloque' : 'Ficha oficial'} ↗</a>
-    ${ticket && ticket !== source ? `<a class="detail-source ticket-link" href="${esc(ticket)}" target="_blank" rel="noopener">Entradas ↗</a>` : ''}
+    <div class="detail-links">
+      <a href="${esc(source)}" target="_blank" rel="noopener">${source === ticket ? 'Entradas' : film.components ? 'Programa del bloque' : 'Ficha oficial'} ↗</a>
+      ${ticket && ticket !== source ? `<a href="${esc(ticket)}" target="_blank" rel="noopener">Entradas ↗</a>` : ''}
+      ${letterboxd ? `<a href="https://letterboxd.com/film/${esc(letterboxd)}/" target="_blank" rel="noopener">Letterboxd ↗</a>` : ''}
+    </div>
+    ${letterboxd ? `
+      <iframe class="letterboxd-rating"
+        src="https://embed.letterboxd.com/film/${esc(letterboxd)}/embed-histogram/?theme=light&notitle=true&nobackground=true"
+        title="Valoraciones de ${esc(ratingTitle)} en Letterboxd"
+        width="100%" height="120" loading="lazy"></iframe>
+    ` : ''}
     ${film.components ? `
       <details>
         <summary>Cortometrajes</summary>
         <ul class="short-list">${film.components.map(short => `
-          <li><a href="${esc(short.source)}" target="_blank" rel="noopener">${esc(short.title)}</a>${Number.isFinite(short.duration) ? ` · ${short.duration} min` : ''}${short.director ? `<br>${esc(short.director)}` : ''}</li>
+          <li><a href="${esc(short.source)}" target="_blank" rel="noopener">${esc(short.title)}</a>${Number.isFinite(short.duration) ? ` · ${short.duration} min` : ''}${short.director ? `<br>${esc(short.director)}` : ''}${short.letterboxd ? `<br><a href="https://letterboxd.com/film/${esc(short.letterboxd)}/" target="_blank" rel="noopener" aria-label="${esc(short.title)} en Letterboxd">Letterboxd ↗</a>` : ''}</li>
         `).join('')}</ul>
       </details>
     ` : ''}
-    ${finish === null ? '' : '<p class="runtime-note">Fin estimado por metraje.</p>'}
     ${film.aliasSources ? `<p class="alias-sources">${film.aliasSources.map((url, index) => `<a href="${esc(url)}" target="_blank" rel="noopener">${index ? 'Festival de San Sebastián' : 'Distribuidora'} ↗</a>`).join(' · ')}</p>` : ''}
     <section class="screenings" aria-labelledby="screenings-title">
       <h3 id="screenings-title">Funciones</h3>
