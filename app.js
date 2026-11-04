@@ -1,14 +1,17 @@
 import { festivals, festivalFor } from './data.js?v=20261104-letterboxd';
 import { clock, durationOf, endOf, initialDay, roomLocation } from './core.js?v=20261104';
-import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261104-letterboxd';
+import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261104-share-menu';
+import { screeningUrl } from './story.js?v=20261104-2';
+import { setupSharing } from './sharing.js?v=20261104-share-menu';
 
 const data = festivalFor(location.search);
 const $ = selector => document.querySelector(selector);
 const requestedDay = new URLSearchParams(location.search).get('dia');
 const eventsById = new Map(data.events.map(event => [event.id, event]));
 const roomsById = new Map(data.rooms.map(room => [room.id, room]));
+const requestedScreening = eventsById.get(new URLSearchParams(location.search).get('funcion'));
 const state = {
-  date: initialDay(data, requestedDay),
+  date: requestedScreening?.date || initialDay(data, requestedDay),
   search: '',
   venue: '',
   section: '',
@@ -16,6 +19,7 @@ const state = {
 };
 const dialog = $('#film-dialog');
 let detailEvent = null;
+const showShare = setupSharing($('#share-menu'), $('#story-dialog'), data);
 
 function dateLabel(date, short = false) {
   return new Intl.DateTimeFormat('es-CL', {
@@ -150,6 +154,9 @@ function showDetail(id) {
   if (!eventsById.has(id)) return;
   const wasOpen = dialog.open;
   detailEvent = id;
+  const event = eventsById.get(id);
+  if (state.date !== event.date) changeDay(event.date);
+  history.replaceState(null, '', screeningUrl(data, event, location.href));
   renderDetail();
   if (!wasOpen) dialog.showModal();
   else dialog.querySelector('[aria-current="true"]').focus();
@@ -160,6 +167,7 @@ function changeDay(date, focus = false) {
   state.date = date;
   const url = new URL(location.href);
   url.searchParams.set('dia', date);
+  url.searchParams.delete('funcion');
   history.replaceState(null, '', url);
   renderDays();
   renderSchedule();
@@ -172,6 +180,11 @@ function setZoom(zoom) {
 }
 
 document.addEventListener('click', event => {
+  const shareButton = event.target.closest('[data-share]');
+  if (shareButton) {
+    showShare(eventsById.get(shareButton.dataset.share), shareButton);
+    return;
+  }
   const detailButton = event.target.closest('[data-detail]');
   if (detailButton) {
     showDetail(detailButton.dataset.detail);
@@ -222,6 +235,12 @@ dialog.addEventListener('click', event => {
   const bounds = dialog.getBoundingClientRect();
   if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) dialog.close();
 });
+$('#share-screening').addEventListener('click', event => showShare(eventsById.get(detailEvent), event.currentTarget));
+dialog.addEventListener('close', () => {
+  const url = new URL(location.href);
+  url.searchParams.delete('funcion');
+  history.replaceState(null, '', url);
+});
 window.addEventListener('resize', resizeTimeline);
 
 const venues = new Map(data.rooms.map(room => [room.venueId, room.venue]));
@@ -234,3 +253,4 @@ $('#legend').innerHTML = Object.entries(data.sections).map(([id, section]) => `
 renderFestival();
 renderDays();
 renderSchedule();
+if (requestedScreening) showDetail(requestedScreening.id);
