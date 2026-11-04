@@ -1,4 +1,5 @@
 import { clock, durationOf, endOf, matches, roomName, roomLocation } from './core.js?v=20261104';
+import ratings, { checkedAt } from './data/letterboxd-ratings.js?v=20261104-letterboxd';
 
 export const escapeHtml = text => String(text ?? '').replace(/[&<>"']/g, character => ({
   '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
@@ -43,8 +44,12 @@ function renderEvent(event, lane, room, data, dayEvents, range) {
   const timeRange = unknown ? clock(event.start) : `${clock(event.start)}–${clock(finish, true)}`;
   const length = unknown ? 'Duración por confirmar' : `${duration} min`;
   const label = `${title}. ${timeRange}. ${roomLocation(room)}. ${length}. Ver detalle.`;
+  const slug = event.letterboxd || film.letterboxd;
+  const score = ratings[slug];
+  const hasRating = !isShort && !unknown && Number.isFinite(score);
+  const ratingLabel = hasRating ? `${title}: ${score.toFixed(1)} de 5 en Letterboxd · ${checkedAt}` : '';
   return `
-    <article class="event${unknown ? ' unknown' : isShort ? ' short' : ''}" data-event="${event.id}"
+    <article class="event${unknown ? ' unknown' : isShort ? ' short' : ''}${hasRating ? ' has-rating' : ''}" data-event="${event.id}"
       style="left:${(event.start - range.start) / span * 100}%;width:${unknown ? 0 : duration / span * 100}%;--lane:${lane};${shortLabel}${unknownLabel}${sectionStyle(data.sections[film.section])}">
       <button class="event-main" data-detail="${event.id}" aria-label="${escapeHtml(label)}"
         title="${escapeHtml(`${title} · ${timeRange} · ${length}`)}">
@@ -52,6 +57,8 @@ function renderEvent(event, lane, room, data, dayEvents, range) {
         <span class="event-title">${escapeHtml(title)}</span>
         <span class="event-meta">${escapeHtml(length)}</span>
       </button>
+      ${hasRating ? `<a class="event-rating" href="https://letterboxd.com/film/${escapeHtml(slug)}/" target="_blank" rel="noopener"
+        aria-label="${escapeHtml(ratingLabel)}" title="${escapeHtml(ratingLabel)}"><span class="letterboxd-dots" aria-hidden="true"></span>${score.toFixed(1)}</a>` : ''}
     </article>
   `;
 }

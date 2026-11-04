@@ -15,7 +15,7 @@ No dependencies or build step. From the repository root:
 python3 -m http.server 4174 --bind 127.0.0.1
 ```
 
-Open http://127.0.0.1:4174/. With Node.js 20+, `npm test` checks schedule data, filters, and timeline proportions. `npm run dev` starts the same local preview.
+Open http://127.0.0.1:4174/. With Node.js 20+ and Python 3.9+, `npm test` checks schedule data, Letterboxd identities, filters, and timeline proportions. `npm run dev` starts the same local preview.
 
 ## Files
 
@@ -38,3 +38,5 @@ Cloudflare Web Analytics measures visits and page views using the official scrip
 Independent agendas based on official programs. SANFIC data retrieved on October 28, 2026: [sources](assets/fuentes.json), [official program](assets/programacion-sanfic22.pdf). FIDOCS data and provenance are separate: [research notes](docs/festivals/fidocs-2026.md), [source records](assets/fidocs-2026-sources.json).
 
 End times are calculated from film or session runtimes, excluding introductions and discussions. Multipart works use each part's verified runtime. If a duration is unpublished, the timeline shows a dashed start marker without inventing an end time. Shorts sharing a verified program appear as one block, with individual films in its details and search results.
+
+Screening boxes show a compact Letterboxd score linking to the film when a published average is verified. Scores are dated snapshots; film details load Letterboxd's live ratings widget. Shorts inside programmes have individual links; programmes have no combined rating. No API key, backend, or runtime scraper. Add an optional `letterboxd` slug to a film, component, or separately identified screening. Identity checks, score sources and refresh procedure: [Letterboxd sources](docs/letterboxd.md).

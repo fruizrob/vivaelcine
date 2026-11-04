@@ -30,6 +30,33 @@ def compact(value):
     return json.dumps(value, ensure_ascii=False, separators=(',', ':'))
 
 
+def preserve_letterboxd(path, films, events):
+    """Keep curated identities when regenerating the one-record-per-line dataset."""
+    if not path.exists():
+        return
+    events_by_id = {event['id']:event for event in events}
+    for line in path.read_text().splitlines():
+        if '"letterboxd":' not in line:
+            continue
+        record = line.rstrip(',')
+        if record.startswith('{'):
+            previous = json.loads(record)
+            if previous['id'] in events_by_id:
+                events_by_id[previous['id']]['letterboxd'] = previous['letterboxd']
+        else:
+            film_id, previous = next(iter(json.loads('{'+record+'}').items()))
+            if film_id not in films:
+                continue
+            film = films[film_id]
+            if 'letterboxd' in previous:
+                film['letterboxd'] = previous['letterboxd']
+            components = {item['title']:item for item in previous.get('components',[])}
+            for item in film.get('components',[]):
+                slug = components.get(item['title'],{}).get('letterboxd')
+                if slug:
+                    item['letterboxd'] = slug
+
+
 def main(raw_dir, repo):
     bundle = json.loads((raw_dir / 'source-snapshots-20261103.json').read_text())
     tickets = json.loads((raw_dir / 'all-ticket-links-20261103.json').read_text())['tickets']
@@ -201,6 +228,7 @@ def main(raw_dir, repo):
     assert len({x['id'] for x in events})==len(events)
     for event in events:
         assert event['filmId'] in films and event['roomId'] in {x['id'] for x in rooms}
+    preserve_letterboxd(repo / 'data/fidocs-2026.js', films, events)
     repo.joinpath('data').mkdir(exist_ok=True, parents=True)
     repo.joinpath('assets').mkdir(exist_ok=True)
     # One record per line keeps large, read-only datasets reviewable and below 500 LOC.

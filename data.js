@@ -1,5 +1,5 @@
-import sanfic from './data/sanfic-2026.js';
-import fidocs from './data/fidocs-2026.js';
+import sanfic from './data/sanfic-2026.js?v=20261104-letterboxd';
+import fidocs from './data/fidocs-2026.js?v=20261104-letterboxd';
 
 export const festivals = [
   {
