@@ -59,7 +59,7 @@ Screening boxes show a compact Letterboxd score linking to the film when a publi
 
 Film details show a chronological **Festivales** list when verified history is available. Festival names link to sources; dates keep their published precision, later appearances are marked **Anunciada**, and premiere scopes stay with the named edition. Programme films show their own histories inside their existing details. Initial coverage: 12 films, 14 appearances. [Sources and curation](docs/festival-history-sources.md).
 
-Agenda cards show one compact festival logo beside its name when sourced history is available for a prioritized festival. Narrow cards keep the name alone; very narrow cards keep festival history in details. Cannes comes first, followed by Venice, Berlinale, TIFF and the rest of the editorial list. Hover text names the festival and year; programmes identify the particular short. Full history stays in details. [Priority, behavior and logo sources](docs/festival-marks.md).
+Agenda cards show the festival of the film's confirmed world premiere, or its earliest recorded festival appearance when no world premiere is recorded. Festival ranking does not affect the choice. A compact logo accompanies the name when available; narrow cards keep the name alone, and very narrow cards keep festival history in details. Hover text preserves the premiere scope or identifies the earliest-recorded fallback; programmes identify the particular short. Full history stays in details. [Selection, behavior and logo sources](docs/festival-marks.md).
 
 ### TMDB history
 

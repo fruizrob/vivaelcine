@@ -1,6 +1,6 @@
 import curated from './data/festival-history.js?v=20261104-history-2';
 
-// Editorial display priority, not an official ranking. One mark per screening.
+// Festival identities only; array order never determines the selected appearance.
 export const festivalMarks = [
   { name: 'Cannes', id: 'cannes' },
   { name: 'Venecia', id: 'venice' },
@@ -17,6 +17,10 @@ export const festivalMarks = [
   { name: 'Busan', id: 'busan' },
   { name: 'Ji.hlava', id: 'jihlava' },
   { name: 'Valdivia', id: 'valdivia', extension: 'png' },
+  { name: 'SANFIC', id: 'sanfic', extension: 'png' },
+  { name: 'FIDOCS', id: 'fidocs', extension: 'png' },
+  { name: 'Guadalajara', id: 'guadalajara' },
+  { name: 'Punto de Vista', id: 'punto-de-vista' },
 ];
 
 export function filmHistory(festival, event, component = null) {
@@ -33,15 +37,21 @@ export function filmHistory(festival, event, component = null) {
 export function festivalMark(festival, event) {
   const film = festival.films[event.filmId];
   const members = film.components || [null];
-  for (const mark of festivalMarks) {
-    for (const component of members) {
-      const appearance = filmHistory(festival, event, component).find(item =>
-        item.festival.split(' · ')[0] === mark.name && item.date && item.date <= event.date);
-      if (!appearance) continue;
-      const subject = component?.title;
-      const label = `${subject ? `${subject} · ` : ''}${appearance.festival} · ${appearance.date.slice(0, 4)}`;
-      return { ...mark, label, subject, logo: `./assets/festivals/${mark.id}.${mark.extension || 'svg'}` };
-    }
-  }
-  return null;
+  const appearances = members.flatMap(component => filmHistory(festival, event, component)
+    .filter(item => item.date && item.date <= event.date)
+    .map(appearance => ({ appearance, subject: component?.title })))
+    .sort((a, b) => a.appearance.date.localeCompare(b.appearance.date)
+      || a.appearance.festival.localeCompare(b.appearance.festival)
+      || (a.subject || '').localeCompare(b.subject || ''));
+  const first = appearances.find(({ appearance }) => appearance.premiere === 'Estreno mundial') || appearances[0];
+  if (!first) return null;
+  const { appearance, subject } = first;
+  const name = appearance.festival.split(' · ')[0];
+  const mark = festivalMarks.find(item => item.name === name);
+  const scope = appearance.premiere || 'Primera aparición registrada';
+  const label = `${subject ? `${subject} · ` : ''}${appearance.festival} · ${appearance.date.slice(0, 4)} · ${scope}`;
+  return {
+    name, id: mark?.id || 'other', label, subject,
+    logo: mark ? `./assets/festivals/${mark.id}.${mark.extension || 'svg'}` : null,
+  };
 }

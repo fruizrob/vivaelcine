@@ -1,9 +1,9 @@
 import { festivals, festivalFor } from './data.js?v=20261105-years';
 import { clock, durationOf, endOf, initialDay, roomLocation, yearOf } from './core.js?v=20261105-years';
-import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261105-festival-labels';
+import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261105-premieres';
 import { screeningUrl } from './story.js?v=20261104-2';
 import { setupSharing } from './sharing.js?v=20261104-share-menu';
-import { renderFestivalHistory } from './festival-history.js?v=20261105-cards-2';
+import { renderFestivalHistory } from './festival-history.js?v=20261105-premieres';
 import { renderFilmPoster } from './film-poster.js?v=20261105-posters';
 
 const data = { ...festivalFor(location.search), festivalHistory: {}, filmPosters: {} };
