@@ -1,6 +1,6 @@
 # Film years
 
-Checked November 4, 2026. `year` describes the film's published year, never the festival year or a premiere classification. Cards and details use the same `yearOf` rule. Only a single integer year is displayed; unknown values are omitted without placeholders. Narrow cards shorten the time range to its start to make room for the year. Short-film markers keep the year beside their external title.
+Checked November 4, 2026. `year` describes the film's published year, never the festival year or a premiere classification. Cards and details use the same `yearOf` rule. Only a single integer year is displayed; unknown values are omitted without placeholders. Card headers show only the start time on the left and the release year on the right; narrow headers can wrap the year to keep both readable.
 
 FIDOCS years already come from the official film details recorded in [the import manifest](../assets/fidocs-2026-sources.json). Multi-film programmes retain each component's year in their details; aggregate year ranges are preserved in the source data but do not become a film year on cards or in the main metadata. The separately scheduled parts of [La Batalla de Chile](https://fidocs.cl/programacion/la-batalla-de-chile-parte-i-ii-y-iii/) use 1975, 1977 and 1979 respectively, matching the official title/part order and published year list.
 

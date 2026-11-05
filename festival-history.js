@@ -1,5 +1,5 @@
 import { filmHistory } from './festival-history-data.js?v=20261105-marks';
-import { escapeHtml as esc } from './timeline.js?v=20261105-marks';
+import { escapeHtml as esc } from './timeline.js?v=20261105-cards-2';
 
 const firstDate = date => date.length === 4 ? `${date}-01-01` : date.length === 7 ? `${date}-01` : date;
 

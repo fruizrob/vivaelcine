@@ -52,6 +52,8 @@ End times are calculated from film or session runtimes, excluding introductions 
 
 Cards and screening details show verified film years. Missing years are omitted; a year does not establish premiere status. Shared programmes show individual years in their details, and separately identified parts use their own years. Sources, remaining gaps, and regeneration rules: [film years](docs/film-years.md).
 
+Cards place the start time at the top left and the verified release year at the top right. The title and smaller director/runtime text sit inset below the header, with up to two lines and no ellipses. End times stay in the tooltip and screening details. The footer groups the sourced festival logo, Letterboxd and sharing controls; narrow cards keep additional actions available in details.
+
 Screening boxes show a compact Letterboxd score linking to the film when a published average is verified. Scores are dated snapshots; film details load Letterboxd's live ratings widget. Shorts inside programmes have individual links; programmes have no combined rating. No API key, backend, or runtime scraper. Add an optional `letterboxd` slug to a film, component, or separately identified screening. Identity checks, score sources and refresh procedure: [Letterboxd sources](docs/letterboxd.md).
 
 Film details show a chronological **Festivales** list when verified history is available. Festival names link to sources; dates keep their published precision, later appearances are marked **Anunciada**, and premiere scopes stay with the named edition. Programme films show their own histories inside their existing details. Initial coverage: 12 films, 14 appearances. [Sources and curation](docs/festival-history-sources.md).

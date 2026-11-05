@@ -30,7 +30,7 @@ Cards and details use the same `filmHistory()` lookup: curated records take prec
 
 For programmes, priority is evaluated across individual members. The hover text and screening button's accessible name identify the particular film, e.g. “Incluye La siesta · Cannes · 2019”. The programme never receives a fabricated combined festival history. Separately identified parts only use their own history keys.
 
-The logo uses the existing footer space. Runtime stays available in the details and the card's accessible name and tooltip. On narrow marked cards, sharing moves to the existing detail control; the rating also stays in details when the card cannot accommodate it. Unknown histories leave the original card layout unchanged. Logos load locally; no logo service, tracking request, new font or dependency is required.
+The logo shares the footer with Letterboxd and sharing controls. Runtime sits beside the director below the card title and remains in details, the accessible name, and the tooltip. Narrow cards reduce the logo width, hide the rating when needed, and keep sharing in the existing detail control when it cannot fit. Unknown histories omit the logo. Logos load locally; no logo service, tracking request, new font or dependency is required.
 
 When the optional TMDB JSON arrives, the agenda refreshes while preserving focus on an active card control and its scroll position. Failure to fetch the snapshot leaves curated marks and the schedule working.
 

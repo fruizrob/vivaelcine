@@ -47,7 +47,7 @@ function renderEvent(event, lane, room, data, dayEvents, range) {
   const length = unknown ? 'Duración por confirmar' : `${duration} min`;
   const datedTitle = `${title}${year ? ` (${year})` : ''}`;
   const mark = festivalMark(data, event);
-  const label = `${datedTitle}. ${timeRange}. ${roomLocation(room)}. ${length}.${mark ? ` ${mark.subject ? 'Incluye ' : ''}${mark.label}.` : ''} Ver detalle.`;
+  const label = `${datedTitle}.${film.director ? ` ${film.director}.` : ''} ${timeRange}. ${roomLocation(room)}. ${length}.${mark ? ` ${mark.subject ? 'Incluye ' : ''}${mark.label}.` : ''} Ver detalle.`;
   const slug = event.letterboxd || film.letterboxd;
   const score = ratings[slug];
   const hasRating = !isShort && !unknown && Number.isFinite(score);
@@ -56,18 +56,25 @@ function renderEvent(event, lane, room, data, dayEvents, range) {
     <article class="event${unknown ? ' unknown' : isShort ? ' short' : ''}${hasRating ? ' has-rating' : ''}${year ? ' has-year' : ''}${mark ? ' has-festival' : ''}" data-event="${event.id}"
       style="left:${(event.start - range.start) / span * 100}%;width:${unknown ? 0 : duration / span * 100}%;--lane:${lane};${shortLabel}${unknownLabel}${sectionStyle(data.sections[film.section])}">
       <button class="event-main" data-detail="${event.id}" aria-label="${escapeHtml(label)}"
-        title="${escapeHtml(`${datedTitle} · ${timeRange} · ${length}${mark ? ` · ${mark.label}` : ''}`)}">
-        <span class="event-time"><span>${clock(event.start)}${isShort || unknown ? '' : `<span class="event-end">–${clock(finish)}</span>`}</span>${year && !isShort ? `<span class="event-year">${year}</span>` : ''}</span>
-        <span class="event-title">${escapeHtml(title)}${year && isShort ? ` <span class="event-year">(${year})</span>` : ''}</span>
-        <span class="event-meta">${escapeHtml(length)}</span>
-        ${mark ? `<span class="event-festival" data-festival-mark="${mark.id}" title="${escapeHtml(mark.label)}"><img src="${mark.logo}" alt="${escapeHtml(mark.name === 'Toronto' ? 'TIFF' : mark.name)}" loading="lazy" decoding="async"></span>` : ''}
+        title="${escapeHtml([datedTitle, film.director, timeRange, length, mark?.label].filter(Boolean).join(' · '))}">
+        <span class="event-time"><span class="event-start">${clock(event.start)}</span>${year ? `<span class="event-year">${year}</span>` : ''}</span>
+        <span class="event-content">
+          <span class="event-title">${escapeHtml(title)}</span>
+          <span class="event-credits">
+            ${film.director ? `<span class="event-director">${escapeHtml(film.director)}</span>` : ''}
+            <span class="event-duration">${escapeHtml(length)}</span>
+          </span>
+        </span>
       </button>
+      <div class="event-footer">
+        ${mark ? `<span class="event-festival" data-festival-mark="${mark.id}" title="${escapeHtml(mark.label)}"><img src="${mark.logo}" alt="${escapeHtml(mark.name === 'Toronto' ? 'TIFF' : mark.name)}" loading="lazy" decoding="async"></span>` : ''}
       ${hasRating ? `<a class="event-rating" href="https://letterboxd.com/film/${escapeHtml(slug)}/" target="_blank" rel="noopener"
         aria-label="${escapeHtml(ratingLabel)}" title="${escapeHtml(ratingLabel)}"><span class="letterboxd-dots" aria-hidden="true"></span>${score.toFixed(1)}</a>` : ''}
       ${unknown ? '' : `<button type="button" class="event-share" data-share="${event.id}"
         aria-label="${escapeHtml(`Compartir ${title}, ${clock(event.start)}`)}" title="Compartir" aria-controls="share-menu" aria-expanded="false">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M12 16V3m-5 5 5-5 5 5M20 13v6a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-6"/></svg>
       </button>`}
+      </div>
     </article>
   `;
 }
