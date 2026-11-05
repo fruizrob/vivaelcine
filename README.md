@@ -26,6 +26,7 @@ Open http://127.0.0.1:4174/. With Node.js 20+ and Python 3.9+, `npm test` checks
 - `story.js`: draws Story cards and owns the sharing preview, export, and clipboard fallback.
 - `sharing.js`: opens the share menu for a screening, with Story and link actions.
 - `festival-history.js` and `data/festival-history.js`: sourced film festival appearances and premiere scopes in details.
+- `film-poster.js`: optional TMDB posters in screening details and individual programme entries.
 - `app.js`: state and interactions; `index.html` and `styles.css`: structure and design.
 
 Festival links use `?festival=FID`; changing the day adds `&dia=YYYY-MM-DD`. Without a valid day in the URL, the agenda opens on today's date in the festival's timezone, or its first day when today is outside the schedule. Existing SANFIC links without a festival parameter still work. Filters and zoom are kept in memory. No accounts or persistent storage.
@@ -61,6 +62,10 @@ Film details show a chronological **Festivales** list when verified history is a
 Agenda cards show one compact festival logo beside its name when sourced history is available for a prioritized festival. Narrow cards keep the name alone; very narrow cards keep festival history in details. Cannes comes first, followed by Venice, Berlinale, TIFF and the rest of the editorial list. Hover text names the festival and year; programmes identify the particular short. Full history stays in details. [Priority, behavior and logo sources](docs/festival-marks.md).
 
 ### TMDB history
+
+Screening details show a compact, uncropped poster beside the title when the matched TMDB film has artwork. Programme members show their own posters inside the expanded film list; separately identified parts never inherit the parent film's image. Missing or failed images leave the text details available. The agenda stays focused on times and rooms.
+
+Poster paths and source links are published in the same local snapshot as festival histories, using the existing film identity checks. Images load from TMDB's image CDN only when details are opened (programme images load lazily). No API credentials are sent to visitors. TMDB attribution remains in the page footer.
 
 `npm run import:tmdb` reads the entire dashboard catalogue, saves successful API responses under `assets/tmdb/responses/`, writes a coverage report to `assets/tmdb/coverage.json`, and generates `data/tmdb-festival-history.json` for the site. Repeated screenings count once; programme members and separately identified parts keep their own identities. Unannounced winner slots are reported without querying an invented film. Visitors read only the local JSON; they never contact TMDB's API or need credentials. Curated histories take precedence for the same festival and year.
 

@@ -88,6 +88,24 @@ test('unannounced winners are reported without searching for an invented film id
   assert.equal(result.coverage.queried, 0);
   assert.equal(result.coverage.unannounced, 1);
   assert.deepEqual(result.films, {});
+  assert.deepEqual(result.posters, {});
+});
+
+test('posters publish only for a unique verified identity, independently of festival history', async () => {
+  const key = 'sanfic-2026/el-club';
+  const entries = new Map([[key, filmCatalogue().get(key)]]);
+  for (const [ids, overrides, expected] of [
+    [[1], { poster_path: '/club123.jpg' }, { [key]: { path: '/club123.jpg', source: 'https://www.themoviedb.org/movie/1' } }],
+    [[1, 2], { poster_path: '/club123.jpg' }, {}],
+    [[1], { poster_path: '/wrong123.jpg', runtime: 150 }, {}],
+    [[1], { poster_path: null }, {}],
+    [[1], { poster_path: 'https://example.org/untrusted.jpg' }, {}],
+  ]) {
+    const result = await collectFilms(entries, async path => path === 'search/movie'
+      ? { results: ids.map(id => ({ id })) } : movie(Number(path.split('/')[1]), overrides));
+    assert.deepEqual(result.posters, expected);
+    assert.deepEqual(result.films, {});
+  }
 });
 
 test('cached responses replay without credentials; failed refresh preserves cache and excludes secrets', async () => {
@@ -142,4 +160,5 @@ test('published snapshot reproduces from saved API responses without a token or 
   const result = await collectFilms(filmCatalogue(), tmdbClient({ cacheDir, offline: true, fetcher: () => { throw new Error('Unexpected network request'); } }));
   assert.deepEqual(result.coverage, snapshot.coverage);
   assert.deepEqual(result.films, snapshot.films);
+  assert.deepEqual(result.posters, snapshot.posters);
 });

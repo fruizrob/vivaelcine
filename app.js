@@ -4,8 +4,9 @@ import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './
 import { screeningUrl } from './story.js?v=20261104-2';
 import { setupSharing } from './sharing.js?v=20261104-share-menu';
 import { renderFestivalHistory } from './festival-history.js?v=20261105-cards-2';
+import { renderFilmPoster } from './film-poster.js?v=20261105-posters';
 
-const data = { ...festivalFor(location.search), festivalHistory: {} };
+const data = { ...festivalFor(location.search), festivalHistory: {}, filmPosters: {} };
 const $ = selector => document.querySelector(selector);
 const requestedDay = new URLSearchParams(location.search).get('dia');
 const eventsById = new Map(data.events.map(event => [event.id, event]));
@@ -114,11 +115,16 @@ function renderDetail() {
   ].filter(Boolean);
   $('#film-detail').innerHTML = `
     <p class="film-section" style="color:${section.ink}">${esc(section.label)}</p>
-    <h2 id="film-title">${esc(event.title || film.title)}</h2>
-    ${film.director ? `<p class="film-director">${esc(film.director)}</p>` : ''}
-    <p class="film-meta">${facts.map(esc).join(' · ')}</p>
-    ${film.alias ? `<p class="film-meta">${esc(film.alias)}</p>` : ''}
-    ${film.free ? '<p class="film-admission">Entrada gratuita</p>' : ''}
+    <div class="film-heading">
+      ${renderFilmPoster(data, event)}
+      <div class="film-heading-text">
+        <h2 id="film-title">${esc(event.title || film.title)}</h2>
+        ${film.director ? `<p class="film-director">${esc(film.director)}</p>` : ''}
+        <p class="film-meta">${facts.map(esc).join(' · ')}</p>
+        ${film.alias ? `<p class="film-meta">${esc(film.alias)}</p>` : ''}
+        ${film.free ? '<p class="film-admission">Entrada gratuita</p>' : ''}
+      </div>
+    </div>
     <p class="detail-when">
       ${dateLabel(event.date)} · ${clock(event.start)}${finish === null ? '' : `–${clock(finish, true)}`}
       <span>${esc(roomLocation(room))}</span>
@@ -140,7 +146,7 @@ function renderDetail() {
       <details>
         <summary>Películas del programa</summary>
         <ul class="short-list">${film.components.map(short => `
-          <li><a href="${esc(short.source)}" target="_blank" rel="noopener">${esc(short.title)}</a>${yearOf({}, short) ? ` · ${yearOf({}, short)}` : ''}${Number.isFinite(short.duration) ? ` · ${short.duration} min` : ''}${short.director ? `<br>${esc(short.director)}` : ''}${short.letterboxd ? `<br><a href="https://letterboxd.com/film/${esc(short.letterboxd)}/" target="_blank" rel="noopener" aria-label="${esc(short.title)} en Letterboxd">Letterboxd ↗</a>` : ''}${renderFestivalHistory(data, event, short)}</li>
+          <li><div class="short-heading">${renderFilmPoster(data, event, short)}<div><a href="${esc(short.source)}" target="_blank" rel="noopener">${esc(short.title)}</a>${yearOf({}, short) ? ` · ${yearOf({}, short)}` : ''}${Number.isFinite(short.duration) ? ` · ${short.duration} min` : ''}${short.director ? `<br>${esc(short.director)}` : ''}${short.letterboxd ? `<br><a href="https://letterboxd.com/film/${esc(short.letterboxd)}/" target="_blank" rel="noopener" aria-label="${esc(short.title)} en Letterboxd">Letterboxd ↗</a>` : ''}</div></div>${renderFestivalHistory(data, event, short)}</li>
         `).join('')}</ul>
       </details>
     ` : ''}
@@ -237,6 +243,9 @@ dialog.addEventListener('click', event => {
   const bounds = dialog.getBoundingClientRect();
   if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) dialog.close();
 });
+dialog.addEventListener('error', event => {
+  if (event.target.matches('.film-poster')) event.target.hidden = true;
+}, true);
 $('#share-screening').addEventListener('click', event => showShare(eventsById.get(detailEvent), event.currentTarget));
 dialog.addEventListener('close', () => {
   const url = new URL(location.href);
@@ -258,10 +267,11 @@ renderSchedule();
 if (requestedScreening) showDetail(requestedScreening.id);
 
 // The agenda works immediately, even if the optional local snapshot is unavailable.
-fetch('./data/tmdb-festival-history.json?v=20261105-tmdb-all', { signal: AbortSignal.timeout(5000) })
+fetch('./data/tmdb-festival-history.json?v=20261105-posters', { signal: AbortSignal.timeout(5000) })
   .then(response => { if (!response.ok) throw new Error('History unavailable'); return response.json(); })
   .then(snapshot => {
     data.festivalHistory = snapshot.films || {};
+    data.filmPosters = snapshot.posters || {};
     const active = document.activeElement;
     const focusedEvent = active.closest('[data-event]')?.dataset.event;
     const focusedControl = active.matches('.event-share') ? '.event-share' : active.matches('.event-rating') ? '.event-rating' : '.event-main';

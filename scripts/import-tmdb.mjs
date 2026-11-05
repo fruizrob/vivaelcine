@@ -118,6 +118,7 @@ export function tmdbClient({ cacheDir, token, offline = false, refresh = false, 
 
 export async function collectFilms(entries, request, progress = () => {}) {
   const films = {};
+  const posters = {};
   const report = [];
   for (const [key, film] of entries) {
     if (film.section === 'ganadoras' && !film.director) {
@@ -142,6 +143,9 @@ export async function collectFilms(entries, request, progress = () => {}) {
     const match = matches.length === 1 ? matches[0].movie : null;
     const releases = match ? festivalReleases(match) : { appearances: [], unclassified: [] };
     if (releases.appearances.length) films[key] = releases.appearances;
+    if (/^\/[a-zA-Z0-9]+\.(jpg|png|webp)$/.test(match?.poster_path || '')) {
+      posters[key] = { path: match.poster_path, source: `https://www.themoviedb.org/movie/${match.id}` };
+    }
     report.push({
       key, title: film.title, status: matches.length > 1 ? 'ambiguous' : match ? 'matched' : 'unmatched',
       tmdbId: match?.id || null, appearances: releases.appearances.length,
@@ -160,7 +164,7 @@ export async function collectFilms(entries, request, progress = () => {}) {
     withFestivalHistory: Object.keys(films).length,
     appearances: Object.values(films).flat().length,
   };
-  return { generatedAt: new Date().toISOString(), coverage, films, report };
+  return { generatedAt: new Date().toISOString(), coverage, films, posters, report };
 }
 
 async function main() {
