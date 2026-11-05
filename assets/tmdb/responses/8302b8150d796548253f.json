@@ -1,0 +1,132 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/756396?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:55.475Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 756396,
+    "imdb_id": "tt5815272",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Animales",
+    "overview": "",
+    "popularity": 0.2033,
+    "poster_path": "/gj0zv97GqDxtdserYNCOIzs4V6f.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2018-01-29",
+    "revenue": 0,
+    "runtime": 14,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Animales",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1457176,
+          "known_for_department": "Acting",
+          "name": "Txell Aixendri",
+          "original_name": "Txell Aixendri",
+          "popularity": 0.7685,
+          "profile_path": "/zuTFfG65xExUYLpnfI5ndSVTgFQ.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5f920079278d8a003a39989c",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1430330,
+          "known_for_department": "Writing",
+          "name": "David Muñoz",
+          "original_name": "David Muñoz",
+          "popularity": 0.3904,
+          "profile_path": null,
+          "credit_id": "5f9200d7383df20033aed778",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2826221,
+          "known_for_department": "Directing",
+          "name": "Eugeni Guillem",
+          "original_name": "Eugeni Guillem",
+          "popularity": 0.1379,
+          "profile_path": "/xYbkPsQUNtS7KHCWV04peqGKdVk.jpg",
+          "credit_id": "5f9200edb0cd2000378098b1",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1436717,
+          "known_for_department": "Crew",
+          "name": "Marc Vaíllo",
+          "original_name": "Marc Vaíllo",
+          "popularity": 0.2376,
+          "profile_path": "/jRdL5dFeGJ295oOqNkYYXz5Hzk.jpg",
+          "credit_id": "69ff20167c8e1fddd0316df6",
+          "department": "Crew",
+          "job": "Compositor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1436717,
+          "known_for_department": "Crew",
+          "name": "Marc Vaíllo",
+          "original_name": "Marc Vaíllo",
+          "popularity": 0.2376,
+          "profile_path": "/jRdL5dFeGJ295oOqNkYYXz5Hzk.jpg",
+          "credit_id": "6a1491d769210db8b047626f",
+          "department": "Sound",
+          "job": "Music"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-01-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1553938?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:05.505Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1553938,
+    "imdb_id": null,
+    "origin_country": [
+      "IS"
+    ],
+    "original_language": "en",
+    "original_title": "Einmana á jólanótt",
+    "overview": "",
+    "popularity": 0.3736,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2025-09-28",
+    "revenue": 0,
+    "runtime": 18,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Icelandic",
+        "iso_639_1": "is",
+        "name": "Íslenska"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Einmana á jólanótt",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5717240,
+          "known_for_department": "Directing",
+          "name": "Vangelis Chatzopoulos",
+          "original_name": "Vangelis Chatzopoulos",
+          "popularity": 0.0925,
+          "profile_path": null,
+          "credit_id": "68d9cbb55f0a94b17c38be8d",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5316264,
+          "known_for_department": "Camera",
+          "name": "Tómas Vilhelm Hafliðason",
+          "original_name": "Tómas Vilhelm Hafliðason",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "credit_id": "69ef2e4612c59d03ff6b226c",
+          "department": "Crew",
+          "job": "Cinematography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IS",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Reykjavík International Film Festival",
+              "release_date": "2025-09-28T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1028848?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:16.619Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1028848,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Replica",
+    "overview": "",
+    "popularity": 0.4171,
+    "poster_path": "/79y7mNzLbRKCi1zQqh2aBEaZVky.jpg",
+    "production_companies": [
+      {
+        "id": 183096,
+        "logo_path": null,
+        "name": "C4 Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2022-09-26",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Replica",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1696754,
+          "known_for_department": "Acting",
+          "name": "Sara Cicilian",
+          "original_name": "Sara Cicilian",
+          "popularity": 0.2079,
+          "profile_path": "/wEumXQAVISN4Rcep7Ed5FE1Z7iJ.jpg",
+          "cast_id": 1,
+          "character": "Alyssa",
+          "credit_id": "6331f7f67d2bc100918c074f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3716773,
+          "known_for_department": "Acting",
+          "name": "Jen Lee",
+          "original_name": "Jen Lee",
+          "popularity": 0.1374,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Jessica",
+          "credit_id": "6331f8696f6a990083a55622",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2885367,
+          "known_for_department": "Acting",
+          "name": "Devin Rosni",
+          "original_name": "Devin Rosni",
+          "popularity": 0.1458,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Trust Fund Influencer",
+          "credit_id": "6331f87e6f6a9900804e9d3a",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2885384,
+          "known_for_department": "Acting",
+          "name": "Nick Crestwood",
+          "original_name": "Nick Crestwood",
+          "popularity": 0.1295,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Insufferable Artist",
+          "credit_id": "6331f88fabdafc0084044733",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3716776,
+          "known_for_department": "Acting",
+          "name": "Katherine Olds",
+          "original_name": "Katherine Olds",
+          "popularity": 0.1372,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Balcony Woman",
+          "credit_id": "6331f8cb663b87007db14e63",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2885397,
+          "known_for_department": "Production",
+          "name": "Abigail Jaske",
+          "original_name": "Abigail Jaske",
+          "popularity": 0.1469,
+          "profile_path": "/ikLkFvpZiUuAoJPLjyBjVJPshiC.jpg",
+          "credit_id": "6331f99db54002007d989b0e",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2885403,
+          "known_for_department": "Sound",
+          "name": "Matthew Beyer",
+          "original_name": "Matthew Beyer",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "6331fa12904f6d0082414b2f",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2885402,
+          "known_for_department": "Production",
+          "name": "Zachary Jarvis",
+          "original_name": "Zachary Jarvis",
+          "popularity": 0.1348,
+          "profile_path": null,
+          "credit_id": "6331f9b0c525c4007fee64ac",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2885392,
+          "known_for_department": "Directing",
+          "name": "Christopher Jarvis",
+          "original_name": "Christopher Jarvis",
+          "popularity": 0.2437,
+          "profile_path": "/vCoGdjOco9DtUQnvMPQMnIBoEcz.jpg",
+          "credit_id": "6331f917a5d849007bd4cf8f",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2885397,
+          "known_for_department": "Production",
+          "name": "Abigail Jaske",
+          "original_name": "Abigail Jaske",
+          "popularity": 0.1469,
+          "profile_path": "/ikLkFvpZiUuAoJPLjyBjVJPshiC.jpg",
+          "credit_id": "6331f988b5400200824ad156",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2885392,
+          "known_for_department": "Directing",
+          "name": "Christopher Jarvis",
+          "original_name": "Christopher Jarvis",
+          "popularity": 0.2437,
+          "profile_path": "/vCoGdjOco9DtUQnvMPQMnIBoEcz.jpg",
+          "credit_id": "6331f923a5d849007bd4cf93",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2885392,
+          "known_for_department": "Directing",
+          "name": "Christopher Jarvis",
+          "original_name": "Christopher Jarvis",
+          "popularity": 0.2437,
+          "profile_path": "/vCoGdjOco9DtUQnvMPQMnIBoEcz.jpg",
+          "credit_id": "6331f90767e0f7007bb1ab2d",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2885405,
+          "known_for_department": "Production",
+          "name": "Adam Fuller",
+          "original_name": "Adam Fuller",
+          "popularity": 0.1478,
+          "profile_path": null,
+          "credit_id": "6331f9dacede69007eaf16c5",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2885361,
+          "known_for_department": "Acting",
+          "name": "Alex Meitz",
+          "original_name": "Alex Meitz",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "credit_id": "6331f9e9907f26007b0ce151",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2885402,
+          "known_for_department": "Production",
+          "name": "Zachary Jarvis",
+          "original_name": "Zachary Jarvis",
+          "popularity": 0.1348,
+          "profile_path": null,
+          "credit_id": "6331f9ccd7f46500826637af",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2885392,
+          "known_for_department": "Directing",
+          "name": "Christopher Jarvis",
+          "original_name": "Christopher Jarvis",
+          "popularity": 0.2437,
+          "profile_path": "/vCoGdjOco9DtUQnvMPQMnIBoEcz.jpg",
+          "credit_id": "6331f97a38469a0083eb1e68",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2885392,
+          "known_for_department": "Directing",
+          "name": "Christopher Jarvis",
+          "original_name": "Christopher Jarvis",
+          "popularity": 0.2437,
+          "profile_path": "/vCoGdjOco9DtUQnvMPQMnIBoEcz.jpg",
+          "credit_id": "6331f8ee006b01007e1ab2d9",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2022-09-26T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

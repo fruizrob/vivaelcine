@@ -1,0 +1,177 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1368278?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:54.104Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1368278,
+    "imdb_id": null,
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "48",
+    "overview": "",
+    "popularity": 0.3168,
+    "poster_path": "/m6KOvnj100m7cQIyoZVi9c50V3P.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-08-12",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "48",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4989177,
+          "known_for_department": "Acting",
+          "name": "Thomas Massessi",
+          "original_name": "Thomas Massessi",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6705a3caf4b919f8397790a3",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4989178,
+          "known_for_department": "Acting",
+          "name": "Salomé De La Cruz",
+          "original_name": "Salomé De La Cruz",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "6705a3d4f4b919f8397790b4",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4989179,
+          "known_for_department": "Acting",
+          "name": "Gaïa Leca",
+          "original_name": "Gaïa Leca",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "6705a3f6402be852b3e9cacd",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4989180,
+          "known_for_department": "Acting",
+          "name": "Mattéo Cothenet",
+          "original_name": "Mattéo Cothenet",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "6705a40bf4b919f8397790e1",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4989184,
+          "known_for_department": "Acting",
+          "name": "Kiara Hudes",
+          "original_name": "Kiara Hudes",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "6705a55d373b1be0e0e9caf4",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4989187,
+          "known_for_department": "Acting",
+          "name": "Chloé Camier",
+          "original_name": "Chloé Camier",
+          "popularity": 0.095,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "6705a579abf8ed8565778c0c",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4989188,
+          "known_for_department": "Acting",
+          "name": "Méline",
+          "original_name": "Méline",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "6705a5810000000000585e59",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4989206,
+          "known_for_department": "Directing",
+          "name": "Bisca Prod",
+          "original_name": "Bisca Prod",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6705a858402be852b3e9ce05",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "fr",
+              "note": "",
+              "release_date": "2023-08-12T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

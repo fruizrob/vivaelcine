@@ -1,0 +1,316 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/261527?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:54.971Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 6000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 261527,
+    "imdb_id": "tt3262996",
+    "origin_country": [
+      "NL"
+    ],
+    "original_language": "nl",
+    "original_title": "48 Minuten",
+    "overview": "",
+    "popularity": 0.627,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 21253,
+        "logo_path": null,
+        "name": "48 Days Film Project",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "release_date": "2013-09-26",
+    "revenue": 0,
+    "runtime": 88,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Dutch",
+        "iso_639_1": "nl",
+        "name": "Nederlands"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "48 Minuten",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 27961,
+          "known_for_department": "Acting",
+          "name": "Raymi Sambo",
+          "original_name": "Raymi Sambo",
+          "popularity": 0.4387,
+          "profile_path": "/w1n8N9H4pAWLADCfrJzWiEgwvr5.jpg",
+          "cast_id": 17,
+          "character": "Ruben van der Meer",
+          "credit_id": "5334711dc3a3682a940026ce",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1305133,
+          "known_for_department": "Acting",
+          "name": "Sanne Gloria Verboom",
+          "original_name": "Sanne Gloria Verboom",
+          "popularity": 0.141,
+          "profile_path": "/rPWCrOaysVSQ2d9iFilb3VFJiKe.jpg",
+          "cast_id": 18,
+          "character": "Brenda",
+          "credit_id": "5334712bc3a3682a87002792",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1305134,
+          "known_for_department": "Acting",
+          "name": "Luca Hollestelle",
+          "original_name": "Luca Hollestelle",
+          "popularity": 0.5295,
+          "profile_path": "/9sECD4Q5KF2i4HWMTGIxlmO47Co.jpg",
+          "cast_id": 19,
+          "character": "Laura",
+          "credit_id": "53347136c3a3682ab5002604",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 217261,
+          "known_for_department": "Acting",
+          "name": "Rogier in't Hout",
+          "original_name": "Rogier in't Hout",
+          "popularity": 0.4497,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Willem",
+          "credit_id": "53347143c3a3680a1e002083",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1148076,
+          "known_for_department": "Acting",
+          "name": "Pamela Teves",
+          "original_name": "Pamela Teves",
+          "popularity": 0.2579,
+          "profile_path": "/gZKPEGGH3BvMbTTnW28fMZLwoNN.jpg",
+          "cast_id": 21,
+          "character": "Therapist",
+          "credit_id": "53347150c3a3682a87002799",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 587613,
+          "known_for_department": "Acting",
+          "name": "Jörgen Raymann",
+          "original_name": "Jörgen Raymann",
+          "popularity": 0.2917,
+          "profile_path": "/zYs54l3KMNuHBxHctHR8rahc5Ms.jpg",
+          "cast_id": 22,
+          "character": "Man at bar",
+          "credit_id": "5334715fc3a3682a8700279c",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1305135,
+          "known_for_department": "Acting",
+          "name": "William Spaaij",
+          "original_name": "William Spaaij",
+          "popularity": 0.5671,
+          "profile_path": "/pTwRrQthZ1K38moVlkA4YSS7wP6.jpg",
+          "cast_id": 23,
+          "character": "Vince",
+          "credit_id": "53347174c3a3682abb002641",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1305104,
+          "known_for_department": "Directing",
+          "name": "Fedor van Rossem",
+          "original_name": "Fedor van Rossem",
+          "popularity": 0.1354,
+          "profile_path": null,
+          "credit_id": "53346e71c3a3682a9c0025fd",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 27961,
+          "known_for_department": "Acting",
+          "name": "Raymi Sambo",
+          "original_name": "Raymi Sambo",
+          "popularity": 0.4387,
+          "profile_path": "/w1n8N9H4pAWLADCfrJzWiEgwvr5.jpg",
+          "credit_id": "53346670925141444e002131",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1305128,
+          "known_for_department": "Directing",
+          "name": "Sjoerd de Bont",
+          "original_name": "Sjoerd de Bont",
+          "popularity": 0.8224,
+          "profile_path": null,
+          "credit_id": "53346f09c3a3682aac0025b5",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1305107,
+          "known_for_department": "Directing",
+          "name": "Bart Termorshuizen",
+          "original_name": "Bart Termorshuizen",
+          "popularity": 0.1328,
+          "profile_path": null,
+          "credit_id": "53346e4cc3a3682abb002613",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1305126,
+          "known_for_department": "Writing",
+          "name": "Richard Schut",
+          "original_name": "Richard Schut",
+          "popularity": 0.1324,
+          "profile_path": null,
+          "credit_id": "53346e01c3a3682a8700274a",
+          "department": "Writing",
+          "job": "Creative Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 102523,
+          "known_for_department": "Writing",
+          "name": "Paul de Vrijer",
+          "original_name": "Paul de Vrijer",
+          "popularity": 0.8027,
+          "profile_path": null,
+          "credit_id": "53347564c3a3682a9400272a",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1305108,
+          "known_for_department": "Directing",
+          "name": "Hidde Simons",
+          "original_name": "Hidde Simons",
+          "popularity": 0.1241,
+          "profile_path": null,
+          "credit_id": "53346e81c3a3682aac0025a1",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1060677,
+          "known_for_department": "Camera",
+          "name": "Goof de Koning",
+          "original_name": "Goof de Koning",
+          "popularity": 0.3788,
+          "profile_path": null,
+          "credit_id": "53346e98c3a3682aac0025a5",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1305139,
+          "known_for_department": "Writing",
+          "name": "Peter Sterk",
+          "original_name": "Peter Sterk",
+          "popularity": 0.1923,
+          "profile_path": "/8teDwd5WxUvZuiorKA4FsND6dIp.jpg",
+          "credit_id": "5334756fc3a3682a8e00271c",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1305109,
+          "known_for_department": "Directing",
+          "name": "Jens Rijsdijk",
+          "original_name": "Jens Rijsdijk",
+          "popularity": 0.6844,
+          "profile_path": null,
+          "credit_id": "53346e23c3a3680a1e002041",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-09-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

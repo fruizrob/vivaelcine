@@ -1,0 +1,119 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1526098?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:47.512Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1526098,
+    "imdb_id": "tt1540870",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "El rumor de la arena",
+    "overview": "Fatma no ha visto a su hermano de 30 años, desde que se separaron después de la invasión marroquí del Sáhara Occidental. Ahora que viene en un vuelo de las Naciones Unidas para quedarse por unos días. Mientras Fatma y su familia se prepara para la visita y describen su vida en el peor rincón del desierto argelino, la hammada. Mientras tanto, activistas de derechos humanos en el propio Sahara son perseguidos por las autoridades marroquíes. Personalidades y especialistas en el tema exponen sus teorías para lograr una solución justa a este conflicto, que ya ha seguido durante mucho tiempo.",
+    "popularity": 0.3242,
+    "poster_path": "/gqc1oMcfeT0vw48Ih8qFRmFG5Vf.jpg",
+    "production_companies": [
+      {
+        "id": 270311,
+        "logo_path": null,
+        "name": "Atila Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2008-05-23",
+    "revenue": 0,
+    "runtime": 82,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El rumor de la arena",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1482080,
+          "known_for_department": "Directing",
+          "name": "Jesus Prieto",
+          "original_name": "Jesus Prieto",
+          "popularity": 0.1182,
+          "profile_path": null,
+          "credit_id": "6893480c7c0aed6b6affd329",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1482079,
+          "known_for_department": "Directing",
+          "name": "Daniel Iriarte",
+          "original_name": "Daniel Iriarte",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "credit_id": "6893481a2c69bf607af3f216",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2008-05-23T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Land+of+the+People&include_adult=false&language=es-ES&year=1966",
+  "retrievedAt": "2026-11-05T16:44:59.443Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/iZlHly8gYfrGdBhPBfAm2AzSKdz.jpg",
+        "genre_ids": [],
+        "id": 183714,
+        "title": "Земля людей",
+        "original_language": "ru",
+        "original_title": "Земля людей",
+        "overview": "",
+        "popularity": 0.4099,
+        "poster_path": "/5zrr4NFnV0zS7w4jzuYE3OkUQt0.jpg",
+        "release_date": "1966-01-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 17
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

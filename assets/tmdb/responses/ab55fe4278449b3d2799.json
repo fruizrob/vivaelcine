@@ -1,0 +1,99 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/269591?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:00.076Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 269591,
+    "imdb_id": "tt4149350",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "La Hora de la Siesta",
+    "overview": "",
+    "popularity": 0.5671,
+    "poster_path": "/4SCFufpR9vAxcGh1tGSPD3111lE.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2014-05-09",
+    "revenue": 0,
+    "runtime": 80,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Hora de la Siesta",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 2,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1319061,
+          "known_for_department": "Directing",
+          "name": "Carolina Platt",
+          "original_name": "Carolina Platt",
+          "popularity": 0.1483,
+          "profile_path": null,
+          "credit_id": "5371af73c3a368434900091b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2002881,
+          "known_for_department": "Directing",
+          "name": "Lorena Padilla",
+          "original_name": "Lorena Padilla",
+          "popularity": 0.1695,
+          "profile_path": null,
+          "credit_id": "5ab078e80e0a2676d000411e",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3136402,
+          "known_for_department": "Production",
+          "name": "Alex Briseño",
+          "original_name": "Alex Briseño",
+          "popularity": 0.5337,
+          "profile_path": "/hVHCCyxw9aKxcXR7HP7tn7bIGNd.jpg",
+          "credit_id": "69ac67402d28b3bd1aaa8942",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2014-05-09T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

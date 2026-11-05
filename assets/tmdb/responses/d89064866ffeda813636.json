@@ -1,0 +1,182 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1444535?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:35.155Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/gv1vZjssgSDXz6Vcg5f9g9pHepf.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Música"
+      },
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "homepage": "",
+    "id": 1444535,
+    "imdb_id": null,
+    "origin_country": [
+      "AU"
+    ],
+    "original_language": "en",
+    "original_title": "The Four Seasons: A Music Film",
+    "overview": "",
+    "popularity": 0.9995,
+    "poster_path": "/eTyq0QAKxCmJEQQUnmtFghzWwGd.jpg",
+    "production_companies": [
+      {
+        "id": 255601,
+        "logo_path": null,
+        "name": "ACO StudioCast",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2025-03-01",
+    "revenue": 0,
+    "runtime": 70,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Four Seasons: A Music Film",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 65046,
+          "known_for_department": "Sound",
+          "name": "Richard Tognetti",
+          "original_name": "Richard Tognetti",
+          "popularity": 0.5956,
+          "profile_path": "/e3iWQTGgIunfDArXmqfxUXGD26V.jpg",
+          "cast_id": 1,
+          "character": "Director & Lead Violin",
+          "credit_id": "67cb8573a4df97db964f683c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5289858,
+          "known_for_department": "Acting",
+          "name": "Joseph Tawadros",
+          "original_name": "Joseph Tawadros",
+          "popularity": 0.2969,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Oud",
+          "credit_id": "67cb8584f23e9940105b8eae",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5289861,
+          "known_for_department": "Acting",
+          "name": "James Tawadro",
+          "original_name": "James Tawadro",
+          "popularity": 0.1155,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Riq",
+          "credit_id": "67cb8598e9461adf414f68cb",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5289862,
+          "known_for_department": "Acting",
+          "name": "Members of the Australian Chamber Orchestra",
+          "original_name": "Members of the Australian Chamber Orchestra",
+          "popularity": 1.0342,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Orchestra",
+          "credit_id": "67cb85b7e9461adf414f68d6",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2009721,
+          "known_for_department": "Production",
+          "name": "Matisse Ruby",
+          "original_name": "Matisse Ruby",
+          "popularity": 0.2757,
+          "profile_path": null,
+          "credit_id": "67cb8655f8e1f1bc90f58b09",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 65046,
+          "known_for_department": "Sound",
+          "name": "Richard Tognetti",
+          "original_name": "Richard Tognetti",
+          "popularity": 0.5956,
+          "profile_path": "/e3iWQTGgIunfDArXmqfxUXGD26V.jpg",
+          "credit_id": "67cb86659ef0acdb8b5b8c97",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2009721,
+          "known_for_department": "Production",
+          "name": "Matisse Ruby",
+          "original_name": "Matisse Ruby",
+          "popularity": 0.2757,
+          "profile_path": null,
+          "credit_id": "67cb89bb05adfb9eb95b9287",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2025-03-01T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

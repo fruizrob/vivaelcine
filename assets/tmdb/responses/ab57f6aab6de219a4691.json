@@ -1,0 +1,119 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/446437?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:05.574Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "id": 446437,
+    "imdb_id": "tt0905993",
+    "origin_country": [
+      "PT"
+    ],
+    "original_language": "pt",
+    "original_title": "Domingo",
+    "overview": "",
+    "popularity": 1.8943,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 10447,
+        "logo_path": null,
+        "name": "Fundação Calouste Gulbenkian",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PT",
+        "name": "Portugal"
+      }
+    ],
+    "release_date": "2006-04-28",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Domingo",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 935688,
+          "known_for_department": "Acting",
+          "name": "Ana Brandão",
+          "original_name": "Ana Brandão",
+          "popularity": 0.6873,
+          "profile_path": "/otS3TFwcbOWBoCyuBKAXuUwcdDv.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5dd7faacb5bc210011c40131",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 935692,
+          "known_for_department": "Acting",
+          "name": "Gonçalo Amorim",
+          "original_name": "Gonçalo Amorim",
+          "popularity": 0.1815,
+          "profile_path": "/vFNi3s3vmpkncT6G3X7BSOs5hNz.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5dd7fab5ef8b3200188b5ee5",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1003191,
+          "known_for_department": "Directing",
+          "name": "José Filipe Costa",
+          "original_name": "José Filipe Costa",
+          "popularity": 0.8255,
+          "profile_path": "/eekeJLVfFmGv6wO3QfegpYrDHQP.jpg",
+          "credit_id": "58c4955b9251416342003590",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-04-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

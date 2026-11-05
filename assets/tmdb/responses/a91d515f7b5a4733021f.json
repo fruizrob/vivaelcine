@@ -1,0 +1,309 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/341449?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:36.548Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/i7RT5Ax1dR5k2zJk8uwhkpIUhbB.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "homepage": "",
+    "id": 341449,
+    "imdb_id": "tt0240339",
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Ana Terra",
+    "overview": "",
+    "popularity": 2.2591,
+    "poster_path": "/aMpinxua84oQiUhd8TbkWZwNIel.jpg",
+    "production_companies": [
+      {
+        "id": 103350,
+        "logo_path": null,
+        "name": "DG Filmes",
+        "origin_country": "BR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "1971-05-23",
+    "revenue": 0,
+    "runtime": 100,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ana Terra",
+    "video": false,
+    "vote_average": 9.5,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1167227,
+          "known_for_department": "Acting",
+          "name": "Rossana Ghessa",
+          "original_name": "Rossana Ghessa",
+          "popularity": 0.4089,
+          "profile_path": "/4E6FjwZBWjGQEuqwOCbgQxJMCEW.jpg",
+          "cast_id": 0,
+          "character": "Ana Terra",
+          "credit_id": "5560cba8c3a36868eb006bad",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 230266,
+          "known_for_department": "Acting",
+          "name": "Geraldo del Rey",
+          "original_name": "Geraldo del Rey",
+          "popularity": 0.9135,
+          "profile_path": "/nYR9aTQwKC3ZqXXSHGgISbszLeS.jpg",
+          "cast_id": 1,
+          "character": "Pedro Missioneiro",
+          "credit_id": "5560cbb2c3a36868e00067f4",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1910426,
+          "known_for_department": "Directing",
+          "name": "Pereira Dias",
+          "original_name": "Pereira Dias",
+          "popularity": 0.3253,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Manuel Terra",
+          "credit_id": "625ec369dd731b3289c8c5ce",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3463268,
+          "known_for_department": "Acting",
+          "name": "Vânia Elizabeth",
+          "original_name": "Vânia Elizabeth",
+          "popularity": 0.7711,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Henriqueta",
+          "credit_id": "625ec387229ae2321808cd08",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5408619,
+          "known_for_department": "Acting",
+          "name": "Naide Ribas",
+          "original_name": "Naide Ribas",
+          "popularity": 0.2719,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Antônio Terra",
+          "credit_id": "681378059e95ee0a2390feeb",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5408621,
+          "known_for_department": "Acting",
+          "name": "Antonio Augusto Fernandes",
+          "original_name": "Antonio Augusto Fernandes",
+          "popularity": 0.3319,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Horácio Terra",
+          "credit_id": "681378259e95ee0a2390fef5",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3920309,
+          "known_for_department": "Acting",
+          "name": "Rejane Schumann",
+          "original_name": "Rejane Schumann",
+          "popularity": 0.2938,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Eulália",
+          "credit_id": "6813783b220616fe369b3a97",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1283116,
+          "known_for_department": "Acting",
+          "name": "Carlos Castilho",
+          "original_name": "Carlos Castilho",
+          "popularity": 0.3667,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Major Bandeira",
+          "credit_id": "6813786578ff6c1ed09b3aff",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5408625,
+          "known_for_department": "Acting",
+          "name": "Antônio Augusto Fagundes Filho",
+          "original_name": "Antônio Augusto Fagundes Filho",
+          "popularity": 1.2907,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Pedrinho Terra",
+          "credit_id": "6813787e3f56563b3fb75310",
+          "order": 8
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1910426,
+          "known_for_department": "Directing",
+          "name": "Pereira Dias",
+          "original_name": "Pereira Dias",
+          "popularity": 0.3253,
+          "profile_path": null,
+          "credit_id": "625ec3413dd1263749cadcb0",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1085837,
+          "known_for_department": "Directing",
+          "name": "Carlos Coimbra",
+          "original_name": "Carlos Coimbra",
+          "popularity": 0.2009,
+          "profile_path": "/avAGWCWhZMjev3jDT7kuyRiN5er.jpg",
+          "credit_id": "625ec39cbf09d10066c5f942",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1028402,
+          "known_for_department": "Sound",
+          "name": "José Tavares",
+          "original_name": "José Tavares",
+          "popularity": 0.4754,
+          "profile_path": null,
+          "credit_id": "625ec3de67b613009fdc8084",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1283116,
+          "known_for_department": "Acting",
+          "name": "Carlos Castilho",
+          "original_name": "Carlos Castilho",
+          "popularity": 0.3667,
+          "profile_path": null,
+          "credit_id": "625ec3ade039f100681fd38b",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1469992,
+          "known_for_department": "Production",
+          "name": "Durval Garcia",
+          "original_name": "Durval Garcia",
+          "popularity": 0.5036,
+          "profile_path": null,
+          "credit_id": "5560cbc99251417e51006597",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1175047,
+          "known_for_department": "Camera",
+          "name": "Hélio Silva",
+          "original_name": "Hélio Silva",
+          "popularity": 0.5179,
+          "profile_path": null,
+          "credit_id": "5734bcd09251417b4000001a",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1283101,
+          "known_for_department": "Writing",
+          "name": "Érico Veríssimo",
+          "original_name": "Érico Veríssimo",
+          "popularity": 0.4651,
+          "profile_path": "/4jO2OXLYiEV73b3CkWcXSngWqix.jpg",
+          "credit_id": "58179db69251415d6101dd7c",
+          "department": "Writing",
+          "job": "Novel"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cinemateca",
+              "release_date": "1971-05-23T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/512398?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:41.616Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 512398,
+    "imdb_id": null,
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Terra animata",
+    "overview": "",
+    "popularity": 0.894,
+    "poster_path": "/iwMXO8N9ikqJIGM5QiIGuuZRG2h.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "1967-03-16",
+    "revenue": 0,
+    "runtime": 7,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra animata",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2851631,
+          "known_for_department": "Acting",
+          "name": "Claudio Meldolesi",
+          "original_name": "Claudio Meldolesi",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5fab1f51278d8a003d09b58f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2420117,
+          "known_for_department": "Directing",
+          "name": "Rosa Foschi",
+          "original_name": "Rosa Foschi",
+          "popularity": 0.2917,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5fab1f59bf31f2003fe1966e",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2000440,
+          "known_for_department": "Directing",
+          "name": "Luca Maria Patella",
+          "original_name": "Luca Maria Patella",
+          "popularity": 0.3471,
+          "profile_path": null,
+          "credit_id": "5aad46aa92514116ae01400a",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "it",
+              "note": "",
+              "release_date": "1967-03-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

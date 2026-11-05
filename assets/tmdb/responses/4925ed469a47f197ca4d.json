@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Letter+to+the+Editor&include_adult=false&language=es-ES&year=2019",
+  "retrievedAt": "2026-11-05T16:44:55.322Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/aSMeTKMm4TmDpKL3fKKbprMe6BE.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 621761,
+        "title": "Letter to the Editor",
+        "original_language": "en",
+        "original_title": "Letter to the Editor",
+        "overview": "",
+        "popularity": 0.2502,
+        "poster_path": "/etyINs07DS2wUG7O0jo4xGYEQdl.jpg",
+        "release_date": "2019-09-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

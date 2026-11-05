@@ -1,0 +1,108 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1568648?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:12.453Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1568648,
+    "imdb_id": null,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "The Beginning",
+    "overview": "",
+    "popularity": 1.6972,
+    "poster_path": "/xwjKYDc8vDAghRurl8aDxcRuQSj.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2015-04-16",
+    "revenue": 0,
+    "runtime": 120,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Beginning",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3073408,
+          "known_for_department": "Acting",
+          "name": "凰稀かなめ",
+          "original_name": "凰稀かなめ",
+          "popularity": 0.4122,
+          "profile_path": "/rpIYAotzTYEwVaMWnxAxPcx71jA.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "68fcdf3d1abe9b9008938622",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2356179,
+          "known_for_department": "Acting",
+          "name": "Remi Shirahana",
+          "original_name": "Remi Shirahana",
+          "popularity": 0.3163,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "68fcdf51a114872dc6bbedcd",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4018694,
+          "known_for_department": "Acting",
+          "name": "姿月あさと",
+          "original_name": "姿月あさと",
+          "popularity": 0.6225,
+          "profile_path": "/nVyWfYf9vDoCo7cWhOFOknTkztp.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "68fcdf57f0abe2e2109fa90a",
+          "order": 2
+        }
+      ],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ja",
+              "note": "",
+              "release_date": "2015-04-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1339555?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:59.345Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1339555,
+    "imdb_id": "tt0281193",
+    "origin_country": [
+      "NL"
+    ],
+    "original_language": "en",
+    "original_title": "Siesta, la tetera y la rosa",
+    "overview": "",
+    "popularity": 1.7107,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "release_date": "1998-01-01",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Siesta, la tetera y la rosa",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 235082,
+          "known_for_department": "Editing",
+          "name": "Nathalie Alonso Casale",
+          "original_name": "Nathalie Alonso Casale",
+          "popularity": 1.3934,
+          "profile_path": null,
+          "credit_id": "66cdbc9ff24f64f3ee81aadb",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1998-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

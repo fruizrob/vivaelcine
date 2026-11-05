@@ -1,0 +1,90 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/739694?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:48.560Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 5000,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 739694,
+    "imdb_id": "tt1941523",
+    "origin_country": [
+      "US",
+      "MX"
+    ],
+    "original_language": "en",
+    "original_title": "Extraño rumor de la tierra cuando se abre un surco",
+    "overview": "",
+    "popularity": 0.4757,
+    "poster_path": "/vS6YdKflbvSCQAVZaXljzlTPkcs.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2011-03-30",
+    "revenue": 0,
+    "runtime": 22,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Extraño rumor de la tierra cuando se abre un surco",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1179401,
+          "known_for_department": "Directing",
+          "name": "Juan Manuel Sepulveda",
+          "original_name": "Juan Manuel Sepulveda",
+          "popularity": 0.232,
+          "profile_path": null,
+          "credit_id": "5f52d3a3b3316b0035eb56b4",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "{\"folded_name\"=>\"Spanish; Castilian\", \"english_name\"=>\"Spanish\", \"iso_639_1\"=>\"es\", \"native_name\"=>\"Spanish; Castilian\"}",
+              "note": "",
+              "release_date": "2011-03-30T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

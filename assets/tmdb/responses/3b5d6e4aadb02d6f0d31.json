@@ -1,0 +1,142 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/286344?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:55.221Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 286344,
+    "imdb_id": "tt2179187",
+    "origin_country": [
+      "US",
+      "MX"
+    ],
+    "original_language": "en",
+    "original_title": "Que viva la lucha",
+    "overview": "",
+    "popularity": 0.2787,
+    "poster_path": "/vQzswizv787tRVObhJH1upeCYqI.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2007-10-13",
+    "revenue": 0,
+    "runtime": 54,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Que viva la lucha",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1352232,
+          "known_for_department": "Crew",
+          "name": "Luis Angel Martel",
+          "original_name": "Luis Angel Martel",
+          "popularity": 0.154,
+          "profile_path": null,
+          "credit_id": "53e8f545c3a368398a003b6c",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1352231,
+          "known_for_department": "Sound",
+          "name": "Camilo Landau",
+          "original_name": "Camilo Landau",
+          "popularity": 0.1861,
+          "profile_path": null,
+          "credit_id": "53e8f52fc3a36839a2003ae9",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1352233,
+          "known_for_department": "Editing",
+          "name": "Jonathan Parra",
+          "original_name": "Jonathan Parra",
+          "popularity": 0.1666,
+          "profile_path": null,
+          "credit_id": "53e8f560c3a3683995003a42",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1352229,
+          "known_for_department": "Directing",
+          "name": "Gustavo Vazquez",
+          "original_name": "Gustavo Vazquez",
+          "popularity": 0.1418,
+          "profile_path": null,
+          "credit_id": "53e8f4f6c3a368398a003b61",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1352230,
+          "known_for_department": "Production",
+          "name": "Edmundo Soto",
+          "original_name": "Edmundo Soto",
+          "popularity": 0.1533,
+          "profile_path": null,
+          "credit_id": "53e8f50bc3a368398a003b66",
+          "department": "Production",
+          "job": "Associate Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2007-10-13T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

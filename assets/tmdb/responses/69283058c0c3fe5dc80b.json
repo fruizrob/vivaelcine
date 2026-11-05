@@ -1,0 +1,331 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/758460?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:46.297Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/iloohfOAw2BZI6eI7GxJiCd8cC.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 758460,
+    "imdb_id": "tt13356288",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Un Lejano Rumor de Agua",
+    "overview": "",
+    "popularity": 0.6945,
+    "poster_path": "/7PCDtQ0JMYX5zyLgKQb2leXiwX9.jpg",
+    "production_companies": [
+      {
+        "id": 134655,
+        "logo_path": "/mg9nMn3TCIY2qDvICJ1CGEGsDpA.png",
+        "name": "Escuela Nacional de Artes Cinematográficas (ENAC)",
+        "origin_country": "MX"
+      },
+      {
+        "id": 88614,
+        "logo_path": "/jpid5wWEkbpSqRTsHdJjWwzLWv8.png",
+        "name": "UNAM",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2020-10-31",
+    "revenue": 0,
+    "runtime": 24,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Un Lejano Rumor de Agua",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2089220,
+          "known_for_department": "Acting",
+          "name": "Fernanda Rivera",
+          "original_name": "Fernanda Rivera",
+          "popularity": 0.3904,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "",
+          "credit_id": "5f99fed24c1d9a003762caff",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2834487,
+          "known_for_department": "Acting",
+          "name": "Verónica García",
+          "original_name": "Verónica García",
+          "popularity": 0.3517,
+          "profile_path": "/15ukq3VQ4A5J7kl8SgsZxngdBIs.jpg",
+          "cast_id": 12,
+          "character": "",
+          "credit_id": "5f99fef76332f7003981715a",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2834490,
+          "known_for_department": "Acting",
+          "name": "Juan Carlos Rodríguez",
+          "original_name": "Juan Carlos Rodríguez",
+          "popularity": 0.3742,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "",
+          "credit_id": "5f99ff142866fa003844a568",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2275027,
+          "known_for_department": "Acting",
+          "name": "Itzel Sarmientos",
+          "original_name": "Itzel Sarmientos",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "",
+          "credit_id": "5f99ff216f8d95003472f3c7",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2834473,
+          "known_for_department": "Production",
+          "name": "Isabel Barajas",
+          "original_name": "Isabel Barajas",
+          "popularity": 0.5036,
+          "profile_path": null,
+          "credit_id": "5f99fe3ee942ee0038ab1e68",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2834479,
+          "known_for_department": "Sound",
+          "name": "Víctor González",
+          "original_name": "Víctor González",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "5f99fe8a20af770038774515",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2834473,
+          "known_for_department": "Production",
+          "name": "Isabel Barajas",
+          "original_name": "Isabel Barajas",
+          "popularity": 0.5036,
+          "profile_path": null,
+          "credit_id": "5f99fe6017c4430038320fe8",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2834481,
+          "known_for_department": "Art",
+          "name": "Jazmín Guerra",
+          "original_name": "Jazmín Guerra",
+          "popularity": 0.2529,
+          "profile_path": null,
+          "credit_id": "5f99fea2b4a54300363598a8",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2834468,
+          "known_for_department": "Camera",
+          "name": "Ian B. Morales",
+          "original_name": "Ian B. Morales",
+          "popularity": 0.2552,
+          "profile_path": "/eYgeWUcQwpUPTTaoLhVK9numI3j.jpg",
+          "credit_id": "5f99fe076f8d95003672d5bc",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2024216,
+          "known_for_department": "Directing",
+          "name": "Pau Verdalet",
+          "original_name": "Pau Verdalet",
+          "popularity": 0.2174,
+          "profile_path": "/oRrmMReCsjpXHhffjZH4AtqiupB.jpg",
+          "credit_id": "5f99fe5066565a0037b93e69",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2834468,
+          "known_for_department": "Camera",
+          "name": "Ian B. Morales",
+          "original_name": "Ian B. Morales",
+          "popularity": 0.2552,
+          "profile_path": "/eYgeWUcQwpUPTTaoLhVK9numI3j.jpg",
+          "credit_id": "5f99fdf120af770035771d71",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2834468,
+          "known_for_department": "Camera",
+          "name": "Ian B. Morales",
+          "original_name": "Ian B. Morales",
+          "popularity": 0.2552,
+          "profile_path": "/eYgeWUcQwpUPTTaoLhVK9numI3j.jpg",
+          "credit_id": "5f99fe1937b3a900390be141",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2834468,
+          "known_for_department": "Camera",
+          "name": "Ian B. Morales",
+          "original_name": "Ian B. Morales",
+          "popularity": 0.2552,
+          "profile_path": "/eYgeWUcQwpUPTTaoLhVK9numI3j.jpg",
+          "credit_id": "5fa2dbb9c68b6900412afc12",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2834468,
+          "known_for_department": "Camera",
+          "name": "Ian B. Morales",
+          "original_name": "Ian B. Morales",
+          "popularity": 0.2552,
+          "profile_path": "/eYgeWUcQwpUPTTaoLhVK9numI3j.jpg",
+          "credit_id": "5fa2db120792e1003f22b925",
+          "department": "Visual Effects",
+          "job": "VFX Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2842456,
+          "known_for_department": "Lighting",
+          "name": "Agustín Galván",
+          "original_name": "Agustín Galván",
+          "popularity": 0.1333,
+          "profile_path": null,
+          "credit_id": "5fa2dbcd32cc2b003d949722",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2024216,
+          "known_for_department": "Directing",
+          "name": "Pau Verdalet",
+          "original_name": "Pau Verdalet",
+          "popularity": 0.2174,
+          "profile_path": "/oRrmMReCsjpXHhffjZH4AtqiupB.jpg",
+          "credit_id": "5fa2db1fd18fb9003fef6922",
+          "department": "Visual Effects",
+          "job": "VFX Artist"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2024216,
+          "known_for_department": "Directing",
+          "name": "Pau Verdalet",
+          "original_name": "Pau Verdalet",
+          "popularity": 0.2174,
+          "profile_path": "/oRrmMReCsjpXHhffjZH4AtqiupB.jpg",
+          "credit_id": "5fa2daff23d2780040f5581d",
+          "department": "Production",
+          "job": "Post Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Feratum Film Fest",
+              "release_date": "2021-11-18T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "FICM Festival Internacional de Cine de Morelia",
+              "release_date": "2020-10-31T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Muestra Fílmica ENAC",
+              "release_date": "2022-07-10T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

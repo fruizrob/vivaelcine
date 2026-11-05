@@ -1,0 +1,121 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1108869?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:58.072Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1108869,
+    "imdb_id": "tt1422816",
+    "origin_country": [
+      "PE"
+    ],
+    "original_language": "es",
+    "original_title": "Animales Domésticos",
+    "overview": "Una empleada doméstica cumple con sus labores diarias: limpia el inodoro, encera la sala, prepara la cena, lava la ropa. Mientras, desea en silencio al adolescente de la casa. Él ni siquiera nota su presencia. Acompañada por la rutina que ve pasar sus días, la empleada espera el momento en que su suerte cambie.",
+    "popularity": 0.9906,
+    "poster_path": "/jM49lgy0rOyHFSWO8bVq1w0hXgA.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "PE",
+        "name": "Peru"
+      }
+    ],
+    "release_date": "2009-12-31",
+    "revenue": 0,
+    "runtime": 20,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "Animales Domésticos",
+    "title": "Animales Domésticos",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 147338,
+          "known_for_department": "Acting",
+          "name": "Yiliana Chong",
+          "original_name": "Yiliana Chong",
+          "popularity": 0.156,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Empleada doméstica",
+          "credit_id": "6497c349b34409011c7ba536",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 983789,
+          "known_for_department": "Acting",
+          "name": "Sergio Gjurinovic",
+          "original_name": "Sergio Gjurinovic",
+          "popularity": 0.3884,
+          "profile_path": "/ckgygxGusFlHGLx3dKmLGpAvbhy.jpg",
+          "cast_id": 3,
+          "character": "Él",
+          "credit_id": "642c6400d100b600b7aefbf3",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3316005,
+          "known_for_department": "Acting",
+          "name": "stephie jacobs",
+          "original_name": "stephie jacobs",
+          "popularity": 0.1943,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Ella",
+          "credit_id": "6497c3686f43ec00c5c66f8d",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3994201,
+          "known_for_department": "Directing",
+          "name": "Brian Jacobs",
+          "original_name": "Brian Jacobs",
+          "popularity": 0.2518,
+          "profile_path": null,
+          "credit_id": "642c63b68de0ae00d5f4e506",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2009-12-31T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

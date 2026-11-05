@@ -1,0 +1,153 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1296017?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:02.945Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1296017,
+    "imdb_id": null,
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_title": "Unboxing Insanity",
+    "overview": "",
+    "popularity": 0.5075,
+    "poster_path": "/vd7UcEtR5LSZiVHkR50wVrjViqO.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2024-05-04",
+    "revenue": 0,
+    "runtime": 14,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Unboxing Insanity",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3352002,
+          "known_for_department": "Editing",
+          "name": "Christopher Brown",
+          "original_name": "Christopher Brown",
+          "popularity": 0.3304,
+          "profile_path": "/8AwItwfQs2A1U50YPcCx3GL1isu.jpg",
+          "cast_id": 2,
+          "character": "Vincent Burke",
+          "credit_id": "6657651d6512b7bff3217700",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4584822,
+          "known_for_department": "Acting",
+          "name": "Chuck Russell",
+          "original_name": "Chuck Russell",
+          "popularity": 0.1637,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Tom",
+          "credit_id": "6657653eaf1d5bca745999bc",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4742995,
+          "known_for_department": "Acting",
+          "name": "Myles McInnis",
+          "original_name": "Myles McInnis",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "RCMP Officer",
+          "credit_id": "6657657359264a3300c8d7b7",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3800043,
+          "known_for_department": "Acting",
+          "name": "Daniel Hanna",
+          "original_name": "Daniel Hanna",
+          "popularity": 0.1719,
+          "profile_path": null,
+          "credit_id": "6658a01a057e64121a6c2993",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3142821,
+          "known_for_department": "Production",
+          "name": "Kyle Kitagawa",
+          "original_name": "Kyle Kitagawa",
+          "popularity": 0.1574,
+          "profile_path": null,
+          "credit_id": "6658a02a2004bb194f2d2beb",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3352002,
+          "known_for_department": "Editing",
+          "name": "Christopher Brown",
+          "original_name": "Christopher Brown",
+          "popularity": 0.3304,
+          "profile_path": "/8AwItwfQs2A1U50YPcCx3GL1isu.jpg",
+          "credit_id": "665333d21e1a1c22e1d7413d",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "Musical Movie Mindmelter ",
+              "release_date": "2024-05-04T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

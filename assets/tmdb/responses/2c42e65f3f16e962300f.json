@@ -1,0 +1,687 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/376575?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:57.090Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 101,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 376575,
+    "imdb_id": "tt2948530",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "48 Hours to Live",
+    "overview": "Wyatt es un joven amante del baile que vuelve a Los Ángeles para resolver el asesinato de su hermana. Una vez en la metrópoli, entra en un club nocturno en el que se hacen competiciones de baile. Allí conoce a Emma, una atractiva chica que resulta ser la hija de uno de los responsables del local. Él está loco por ella, pero su padre no se lo pondrá nada fácil. Además, por una serie de circunstancias Wyatt se ve envuelto en el mundo de la droga y la mafia. Todo se complica cuando inesperadamente entra en un juego de venganza y seducción que tiene lugar en pleno circuito de música electrónica.",
+    "popularity": 1.0296,
+    "poster_path": "/87tmBJac7Rl4EpCkURXkxqL7x2d.jpg",
+    "production_companies": [
+      {
+        "id": 85505,
+        "logo_path": null,
+        "name": "True Vision Media Group",
+        "origin_country": ""
+      },
+      {
+        "id": 69311,
+        "logo_path": "/ujh6iDi8hMwyD0yGDo1pK41yh9E.png",
+        "name": "Tri Destined Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 85506,
+        "logo_path": null,
+        "name": "Horsin' Around Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 7080,
+        "logo_path": null,
+        "name": "Initiate Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 85507,
+        "logo_path": null,
+        "name": "RAE Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 85508,
+        "logo_path": null,
+        "name": "Tri Destined Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2016-11-09",
+    "revenue": 0,
+    "runtime": 100,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "48 Hours to Live",
+    "video": false,
+    "vote_average": 4.4,
+    "vote_count": 23,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 224185,
+          "known_for_department": "Acting",
+          "name": "James Maslow",
+          "original_name": "James Maslow",
+          "popularity": 0.6297,
+          "profile_path": "/yWU57nqz43oD0Hk7ZVffEyTgN0x.jpg",
+          "cast_id": 12,
+          "character": "Wyatt",
+          "credit_id": "5ff83a6add83fa003e6bed7a",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2478,
+          "known_for_department": "Acting",
+          "name": "Tommy Flanagan",
+          "original_name": "Tommy Flanagan",
+          "popularity": 2.5678,
+          "profile_path": "/cwLJNAezwtCPHTq5YnWhtb8htLn.jpg",
+          "cast_id": 1,
+          "character": "Kipling",
+          "credit_id": "56901878925141188c0029de",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 154955,
+          "known_for_department": "Acting",
+          "name": "Danielle Savre",
+          "original_name": "Danielle Savre",
+          "popularity": 1.3938,
+          "profile_path": "/6N7FtcVfNqsx7PEj3JdNN4sOzX4.jpg",
+          "cast_id": 2,
+          "character": "Detective Lewis",
+          "credit_id": "5690188ac3a3683256002b87",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 87567,
+          "known_for_department": "Acting",
+          "name": "Cody Longo",
+          "original_name": "Cody Longo",
+          "popularity": 0.7995,
+          "profile_path": "/m9NDiKDOElb2jG2Uys6Bwj8vanm.jpg",
+          "cast_id": 6,
+          "character": "Liam",
+          "credit_id": "585b3fc192514146c907201f",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1356722,
+          "known_for_department": "Acting",
+          "name": "Jade Tailor",
+          "original_name": "Jade Tailor",
+          "popularity": 1.2277,
+          "profile_path": "/iMmDndDNSFnwX2XyZbsGytFZ57z.jpg",
+          "cast_id": 7,
+          "character": "Ivy, The Kandi Girl",
+          "credit_id": "585b3fce925141724d0571f9",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1597855,
+          "known_for_department": "Acting",
+          "name": "Madison Iseman",
+          "original_name": "Madison Iseman",
+          "popularity": 2.8748,
+          "profile_path": "/AfFSYlXXbcXnRj6k8Mheffw7HiF.jpg",
+          "cast_id": 8,
+          "character": "Young Sherilyn",
+          "credit_id": "585b3fdc9251416f6308a24e",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1392534,
+          "known_for_department": "Acting",
+          "name": "Spencer Neville",
+          "original_name": "Spencer Neville",
+          "popularity": 0.6035,
+          "profile_path": "/yGknQt0rrCfNU8qiTdoujjmvNNv.jpg",
+          "cast_id": 9,
+          "character": "Young Wyatt",
+          "credit_id": "58630e51c3a36852e0004e3d",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1447863,
+          "known_for_department": "Acting",
+          "name": "Michael Roark",
+          "original_name": "Michael Roark",
+          "popularity": 1.7002,
+          "profile_path": "/9J2tP7yKXCPmAIfDC1Dpw1Ll66q.jpg",
+          "cast_id": 13,
+          "character": "Karl",
+          "credit_id": "5ff83ab3a0be28003e8a75e2",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1621817,
+          "known_for_department": "Acting",
+          "name": "Matthew Espinosa",
+          "original_name": "Matthew Espinosa",
+          "popularity": 0.3156,
+          "profile_path": "/1ttlI3dowG2xopr3NB8PmuHDZnr.jpg",
+          "cast_id": 10,
+          "character": "Burns",
+          "credit_id": "5981d59992514151910158a7",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1879642,
+          "known_for_department": "Acting",
+          "name": "Lil Mama",
+          "original_name": "Lil Mama",
+          "popularity": 0.5777,
+          "profile_path": "/BqbolnUJF2JAbjkAZYeg9v3fX5.jpg",
+          "cast_id": 11,
+          "character": "Val",
+          "credit_id": "5b147db9925141787e003623",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1517267,
+          "known_for_department": "Acting",
+          "name": "Caitlin McHugh",
+          "original_name": "Caitlin McHugh",
+          "popularity": 0.7824,
+          "profile_path": "/z7Huz5Ea3j6PbKi9nvzEbIFlsrN.jpg",
+          "cast_id": 15,
+          "character": "Emma",
+          "credit_id": "638ac0fdc3aa3f007a109ce4",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1277583,
+          "known_for_department": "Acting",
+          "name": "Bianca A. Santos",
+          "original_name": "Bianca A. Santos",
+          "popularity": 0.6152,
+          "profile_path": "/pXg9qTtbSG5vGSqKZVAMci5zb2T.jpg",
+          "cast_id": 16,
+          "character": "Olivia",
+          "credit_id": "638ac1356dc6c000d128e6b1",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 970084,
+          "known_for_department": "Acting",
+          "name": "Tyne Stecklein",
+          "original_name": "Tyne Stecklein",
+          "popularity": 0.4211,
+          "profile_path": "/mu7ijpoE3nJeGM3fdsWRlWtxzqS.jpg",
+          "cast_id": 17,
+          "character": "Sherilyn",
+          "credit_id": "638ac1768a84d2008c4b62e1",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 559646,
+          "known_for_department": "Acting",
+          "name": "Casper Smart",
+          "original_name": "Casper Smart",
+          "popularity": 0.4735,
+          "profile_path": "/ieBeKmH25A8UHVgWAd6yrgrWVFu.jpg",
+          "cast_id": 18,
+          "character": "Donovan (as Beau Casper Smart)",
+          "credit_id": "638ac1d1c3aa3f007a109d56",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 11827,
+          "known_for_department": "Acting",
+          "name": "DeRay Davis",
+          "original_name": "DeRay Davis",
+          "popularity": 0.7534,
+          "profile_path": "/c1kNORRWnzOoBRTM0XLIMe2raGo.jpg",
+          "cast_id": 19,
+          "character": "Fiorentino",
+          "credit_id": "638ac20f6dc6c000af1208d4",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 53257,
+          "known_for_department": "Acting",
+          "name": "Emilio Rivera",
+          "original_name": "Emilio Rivera",
+          "popularity": 1.3832,
+          "profile_path": "/pHgPJSoZVgmt4FQ8zyMVqwovpRb.jpg",
+          "cast_id": 20,
+          "character": "Gunner",
+          "credit_id": "638ac2407d5db50084af4044",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 63238,
+          "known_for_department": "Acting",
+          "name": "Brandon Molale",
+          "original_name": "Brandon Molale",
+          "popularity": 0.5726,
+          "profile_path": "/vdmlsB7caZMJs57RT38oJa5s0U.jpg",
+          "cast_id": 21,
+          "character": "Tony the Wolf",
+          "credit_id": "638ac27b1283e900c77b716d",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1221119,
+          "known_for_department": "Acting",
+          "name": "Vinicius Zorin-Machado",
+          "original_name": "Vinicius Zorin-Machado",
+          "popularity": 0.7782,
+          "profile_path": "/tBNRr4wV9UgVxQKoeqztJimg9gN.jpg",
+          "cast_id": 22,
+          "character": "Aldo (as Vinicius Machado)",
+          "credit_id": "638ac2de6dc6c0008629d669",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1371397,
+          "known_for_department": "Acting",
+          "name": "R. Marcos Taylor",
+          "original_name": "R. Marcos Taylor",
+          "popularity": 0.3512,
+          "profile_path": "/buImCfOC1veR0EScUqemuDPIcOf.jpg",
+          "cast_id": 23,
+          "character": "Bould",
+          "credit_id": "638ac3ba7d5db5009950454a",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 58959,
+          "known_for_department": "Acting",
+          "name": "Damaine Radcliff",
+          "original_name": "Damaine Radcliff",
+          "popularity": 1.0549,
+          "profile_path": "/gGOeqSAVy10lppPVAtv3rDLRWII.jpg",
+          "cast_id": 24,
+          "character": "Curtiz",
+          "credit_id": "638ac40fe93e9501bc7af753",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 52704,
+          "known_for_department": "Acting",
+          "name": "Lane Garrison",
+          "original_name": "Lane Garrison",
+          "popularity": 1.7544,
+          "profile_path": "/KhZIIPwqUzRavrWqCnZ47MHwYf.jpg",
+          "cast_id": 25,
+          "character": "Detective Childers",
+          "credit_id": "638ac4430e64af009e8ed896",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 96553,
+          "known_for_department": "Acting",
+          "name": "Greg Serano",
+          "original_name": "Greg Serano",
+          "popularity": 0.7375,
+          "profile_path": "/bqKA6wmh7j4HVTm0FfsYCOBGTKo.jpg",
+          "cast_id": 26,
+          "character": "Spike",
+          "credit_id": "638ac4e08a84d20096512604",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1157244,
+          "known_for_department": "Acting",
+          "name": "Nishi Munshi",
+          "original_name": "Nishi Munshi",
+          "popularity": 1.641,
+          "profile_path": "/z1m2Pp8Zy0Cuocb6RyqNWPZQDl7.jpg",
+          "cast_id": 27,
+          "character": "Lyla",
+          "credit_id": "638ac51a6dc6c0007eece6d7",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1941206,
+          "known_for_department": "Acting",
+          "name": "Kaley Hatfield",
+          "original_name": "Kaley Hatfield",
+          "popularity": 0.1788,
+          "profile_path": null,
+          "cast_id": 28,
+          "character": "Tina",
+          "credit_id": "638ac5d96dc6c0007eece724",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1966572,
+          "known_for_department": "Acting",
+          "name": "Albert Thakur",
+          "original_name": "Albert Thakur",
+          "popularity": 0.0753,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "Paul",
+          "credit_id": "638acfdac3aa3f00c89bf847",
+          "order": 24
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 179543,
+          "known_for_department": "Acting",
+          "name": "Inny Clemons",
+          "original_name": "Inny Clemons",
+          "popularity": 0.3339,
+          "profile_path": "/cTWucmhv5kuTbafUpa99azPldki.jpg",
+          "cast_id": 30,
+          "character": "Bouncer",
+          "credit_id": "638af2f58a84d200c9c94052",
+          "order": 25
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1790419,
+          "known_for_department": "Acting",
+          "name": "Elisabeth Ferrara",
+          "original_name": "Elisabeth Ferrara",
+          "popularity": 0.6951,
+          "profile_path": "/5mrrpTkMnNFtoA2ebC4i9wAQq6m.jpg",
+          "cast_id": 31,
+          "character": "Freckled Blonde Girl",
+          "credit_id": "638af4088a84d200c9c940aa",
+          "order": 26
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1046474,
+          "known_for_department": "Acting",
+          "name": "Jason Zahodnik",
+          "original_name": "Jason Zahodnik",
+          "popularity": 0.5664,
+          "profile_path": null,
+          "cast_id": 32,
+          "character": "Tristan, the Kandi Boy",
+          "credit_id": "638af54115376c00834b0c3f",
+          "order": 27
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1444823,
+          "known_for_department": "Crew",
+          "name": "James Logan",
+          "original_name": "James Logan",
+          "popularity": 0.4735,
+          "profile_path": "/lDU0RO7bn4v0ebpH0wHvxYJ2RQp.jpg",
+          "cast_id": 33,
+          "character": "Bald Bum",
+          "credit_id": "638af5f47d5db50fb78b9582",
+          "order": 28
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1562399,
+          "known_for_department": "Acting",
+          "name": "Ken Johnson",
+          "original_name": "Ken Johnson",
+          "popularity": 0.4193,
+          "profile_path": "/olKzs5XwAK4jwls6mJX7iZjAtEz.jpg",
+          "cast_id": 34,
+          "character": "Ken",
+          "credit_id": "640c1d7b2a09bc00a2abf5a5",
+          "order": 29
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1530990,
+          "known_for_department": "Acting",
+          "name": "Lucas Di Medio",
+          "original_name": "Lucas Di Medio",
+          "popularity": 0.2624,
+          "profile_path": null,
+          "cast_id": 35,
+          "character": "Drunk Guy",
+          "credit_id": "688cc75cbb22289fdf61e58e",
+          "order": 30
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1444823,
+          "known_for_department": "Crew",
+          "name": "James Logan",
+          "original_name": "James Logan",
+          "popularity": 0.4735,
+          "profile_path": "/lDU0RO7bn4v0ebpH0wHvxYJ2RQp.jpg",
+          "credit_id": "619ac6435c071b00427def4c",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 134129,
+          "known_for_department": "Directing",
+          "name": "Benny Boom",
+          "original_name": "Benny Boom",
+          "popularity": 0.4344,
+          "profile_path": "/pcNbXKmw0HQmFzTOanE4seBGsua.jpg",
+          "credit_id": "5690186792514118a10029bb",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1616880,
+          "known_for_department": "Directing",
+          "name": "Hannah Macpherson",
+          "original_name": "Hannah Macpherson",
+          "popularity": 0.5128,
+          "profile_path": "/oEdhRg9GDWvKdht4TEjRrtHmMNO.jpg",
+          "credit_id": "585b3facc3a368258c07ce3c",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1489049,
+          "known_for_department": "Writing",
+          "name": "Gregory Ramon Anderson",
+          "original_name": "Gregory Ramon Anderson",
+          "popularity": 0.2657,
+          "profile_path": null,
+          "credit_id": "585b3f99c3a36806a7075a5a",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1725961,
+          "known_for_department": "Writing",
+          "name": "Rashad El Amin",
+          "original_name": "Rashad El Amin",
+          "popularity": 0.1571,
+          "profile_path": null,
+          "credit_id": "585b3fa39251416201009a9c",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5778085,
+          "known_for_department": "Camera",
+          "name": "Jose De Los Angeles",
+          "original_name": "Jose De Los Angeles",
+          "popularity": 0.7099,
+          "profile_path": null,
+          "credit_id": "6900006aac8e9c4026fb74a4",
+          "department": "Camera",
+          "job": "First Assistant Camera"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2017-01-13T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2017-01-13T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2016-11-09T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2017-01-13T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2017-01-13T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Hypnotize 3D",
+          "type": "working title"
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "Wild for the Night",
+          "type": "festival title"
+        }
+      ]
+    }
+  }
+}

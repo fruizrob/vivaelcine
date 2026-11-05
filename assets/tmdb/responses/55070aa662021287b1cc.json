@@ -1,0 +1,78 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1697941?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:58.753Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1697941,
+    "imdb_id": null,
+    "origin_country": [
+      "PE"
+    ],
+    "original_language": "es",
+    "original_title": "Animales Perdidos",
+    "overview": "",
+    "popularity": 0.2967,
+    "poster_path": "/2lbySMS57TmLNFAEXZQIAAL1Cgm.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "PE",
+        "name": "Peru"
+      }
+    ],
+    "release_date": "2020-01-01",
+    "revenue": 0,
+    "runtime": 80,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Animales Perdidos",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2501582,
+          "known_for_department": "Directing",
+          "name": "Mario Castro Cobos",
+          "original_name": "Mario Castro Cobos",
+          "popularity": 0.1059,
+          "profile_path": "/g38f8HZednhHjtzY6F9ghQNqftH.jpg",
+          "credit_id": "6a0b4e9d52a092d42d467573",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

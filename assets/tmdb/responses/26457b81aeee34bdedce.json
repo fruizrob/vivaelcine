@@ -1,0 +1,536 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/27906?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:14.842Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/v46tTYpvpmOSTl4zs3l7m8vjvvv.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "id": 27906,
+    "imdb_id": "tt1192620",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Call of the Wild",
+    "overview": "La joven Ryan Hale (Ariel Gade) va a pasar las vacaciones con su abuelo (Christopher Lloyd) a Alaska, en medio de enormes bosques y montañas nevadas. Un día aparece herido un perro lobo husky, guía de trineos. Entonces Ryan decide cuidarlo y entrenarlo para participar en una larga travesía en donde hay en juego un importante premio. Revisión moderna en 3D de la novela de aventuras de Jack London.",
+    "popularity": 2.1156,
+    "poster_path": "/3hGtJNKsvRmadTWpZgoK29g3Bkf.jpg",
+    "production_companies": [
+      {
+        "id": 76723,
+        "logo_path": null,
+        "name": "Call of the Wild Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 7425,
+        "logo_path": null,
+        "name": "Braeburn Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 8054,
+        "logo_path": null,
+        "name": " Check Entertainment",
+        "origin_country": ""
+      },
+      {
+        "id": 76724,
+        "logo_path": null,
+        "name": "21st Century 3D",
+        "origin_country": ""
+      },
+      {
+        "id": 6626,
+        "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+        "name": "Voltage Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2009-06-12",
+    "revenue": 270210,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Llamada salvaje",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 50,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1062,
+          "known_for_department": "Acting",
+          "name": "Christopher Lloyd",
+          "original_name": "Christopher Lloyd",
+          "popularity": 4.8116,
+          "profile_path": "/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg",
+          "cast_id": 4,
+          "character": "'Grandpa' Bill Hale",
+          "credit_id": "52fe456cc3a368484e05a1bb",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 76414,
+          "known_for_department": "Acting",
+          "name": "Ariel Gade",
+          "original_name": "Ariel Gade",
+          "popularity": 0.7105,
+          "profile_path": "/ltyl0Yoai1zwJLhGGlhaJVsjb1m.jpg",
+          "cast_id": 10,
+          "character": "Ryann Hale",
+          "credit_id": "536fcd570e0a2647d8012dc7",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1318587,
+          "known_for_department": "Acting",
+          "name": "Kameron Knox",
+          "original_name": "Kameron Knox",
+          "popularity": 0.1779,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Jack",
+          "credit_id": "536fcd820e0a2647cb012d50",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19207,
+          "known_for_department": "Acting",
+          "name": "Timothy Bottoms",
+          "original_name": "Timothy Bottoms",
+          "popularity": 1.4407,
+          "profile_path": "/e0SKyrvvyJFZWx3QFzI4qAkWi8E.jpg",
+          "cast_id": 5,
+          "character": "Heep",
+          "credit_id": "52fe456cc3a368484e05a1bf",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 111518,
+          "known_for_department": "Acting",
+          "name": "Devon Graye",
+          "original_name": "Devon Graye",
+          "popularity": 0.7609,
+          "profile_path": "/kVqBgzkjWNaNFmXSJ7MLI3jOMOT.jpg",
+          "cast_id": 12,
+          "character": "Ozz Heep",
+          "credit_id": "536fcdbc0e0a2647db012b26",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 145836,
+          "known_for_department": "Acting",
+          "name": "Aimee Teegarden",
+          "original_name": "Aimee Teegarden",
+          "popularity": 1.9448,
+          "profile_path": "/6ibTZLO40ZWoNAmjL1UmEujsAWk.jpg",
+          "cast_id": 13,
+          "character": "Tracy",
+          "credit_id": "536fcdf80e0a2647d8012dd8",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5047,
+          "known_for_department": "Acting",
+          "name": "Veronica Cartwright",
+          "original_name": "Veronica Cartwright",
+          "popularity": 2.65,
+          "profile_path": "/1CiknHO8ssMM4bWPsIMMzCTVHeB.jpg",
+          "cast_id": 6,
+          "character": "Sheriff Taylor",
+          "credit_id": "52fe456cc3a368484e05a1c3",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 15853,
+          "known_for_department": "Acting",
+          "name": "Wes Studi",
+          "original_name": "Wes Studi",
+          "popularity": 1.4429,
+          "profile_path": "/28vlZlyIVR4B1p5knjbzj4CtNPE.jpg",
+          "cast_id": 14,
+          "character": "Hatcher",
+          "credit_id": "536fce2e0e0a2647d10128e6",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 87079,
+          "known_for_department": "Acting",
+          "name": "Jaleel White",
+          "original_name": "Jaleel White",
+          "popularity": 1.0531,
+          "profile_path": "/txSsldskYkO4PbxKML8NvUq2sCk.jpg",
+          "cast_id": 15,
+          "character": "Dr. Spencer",
+          "credit_id": "536fce5c0e0a2647ce012775",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 86209,
+          "known_for_department": "Acting",
+          "name": "Devon Iott",
+          "original_name": "Devon Iott",
+          "popularity": 0.1575,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Marla",
+          "credit_id": "536fce960e0a2647db012b37",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 99244,
+          "known_for_department": "Acting",
+          "name": "Joyce DeWitt",
+          "original_name": "Joyce DeWitt",
+          "popularity": 1.0323,
+          "profile_path": "/ArxCK1dgTXr5LxMULx5MKUvjGAb.jpg",
+          "cast_id": 8,
+          "character": "Jolene",
+          "credit_id": "52fe456cc3a368484e05a1cb",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 36135,
+          "known_for_department": "Acting",
+          "name": "Christopher Dempsey",
+          "original_name": "Christopher Dempsey",
+          "popularity": 0.2555,
+          "profile_path": "/pTngvks30p74j40TaniMkg4tbhn.jpg",
+          "cast_id": 7,
+          "character": "John Thornton",
+          "credit_id": "52fe456cc3a368484e05a1c7",
+          "order": 11
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 97864,
+          "known_for_department": "Acting",
+          "name": "Richard Gabai",
+          "original_name": "Richard Gabai",
+          "popularity": 0.4082,
+          "profile_path": "/1FppmSr9gfvgN8adpGYfoFRke7P.jpg",
+          "credit_id": "52fe456cc3a368484e05a1ab",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 967020,
+          "known_for_department": "Camera",
+          "name": "Scott Peck",
+          "original_name": "Scott Peck",
+          "popularity": 0.2133,
+          "profile_path": null,
+          "credit_id": "690f39c2eb63fcbbcfd251ed",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5803885,
+          "known_for_department": "Art",
+          "name": "Mark Nordhagen",
+          "original_name": "Mark Nordhagen",
+          "popularity": 0.1244,
+          "profile_path": null,
+          "credit_id": "690f39de119eef2e209ab83f",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1424699,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Annalisa Adams",
+          "original_name": "Annalisa Adams",
+          "popularity": 0.192,
+          "profile_path": null,
+          "credit_id": "690f3a461cbf4d16c0c056ba",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1037908,
+          "known_for_department": "Production",
+          "name": "Richard Iott",
+          "original_name": "Richard Iott",
+          "popularity": 0.1797,
+          "profile_path": null,
+          "credit_id": "69e238e5c30225f18b785bf2",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 97864,
+          "known_for_department": "Acting",
+          "name": "Richard Gabai",
+          "original_name": "Richard Gabai",
+          "popularity": 0.4082,
+          "profile_path": "/1FppmSr9gfvgN8adpGYfoFRke7P.jpg",
+          "credit_id": "69e238ec6d92ad54a7f1f9ba",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6148924,
+          "known_for_department": "Production",
+          "name": "Gary Draper",
+          "original_name": "Gary Draper",
+          "popularity": 0.1158,
+          "profile_path": null,
+          "credit_id": "69e238f57cc6fc90ccfc37db",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 99243,
+          "known_for_department": "Writing",
+          "name": "Leland Douglas",
+          "original_name": "Leland Douglas",
+          "popularity": 0.0562,
+          "profile_path": null,
+          "credit_id": "69e2390127bad8b845f1f931",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 71759,
+          "known_for_department": "Writing",
+          "name": "Jack London",
+          "original_name": "Jack London",
+          "popularity": 0.7517,
+          "profile_path": "/yPxh8d81glVOfv5xosR5L1vxdJs.jpg",
+          "credit_id": "69e2390cc9ca9960a048fda1",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1400312,
+          "known_for_department": "Sound",
+          "name": "Tony Cannella",
+          "original_name": "Tony Cannella",
+          "popularity": 0.2867,
+          "profile_path": null,
+          "credit_id": "69e23926b8fef59f5248fce7",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 959460,
+          "known_for_department": "Editing",
+          "name": "Axel Hubert",
+          "original_name": "Axel Hubert",
+          "popularity": 0.4007,
+          "profile_path": null,
+          "credit_id": "69e2396c0283e8b7d9e5ee58",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22237,
+          "known_for_department": "Editing",
+          "name": "Lawrence A. Maddox",
+          "original_name": "Lawrence A. Maddox",
+          "popularity": 0.4039,
+          "profile_path": null,
+          "credit_id": "69e23970afd9a5d2fd8b7c86",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 22055,
+          "known_for_department": "Production",
+          "name": "Billy DaMota",
+          "original_name": "Billy DaMota",
+          "popularity": 0.682,
+          "profile_path": null,
+          "credit_id": "69e239760283e8b7d9e5ee5b",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1406552,
+          "known_for_department": "Sound",
+          "name": "Deeji Mincey",
+          "original_name": "Deeji Mincey",
+          "popularity": 0.1824,
+          "profile_path": null,
+          "credit_id": "69e23990afd9a5d2fd8b7c92",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1393228,
+          "known_for_department": "Sound",
+          "name": "Boris Zelkin",
+          "original_name": "Boris Zelkin",
+          "popularity": 0.3278,
+          "profile_path": "/HKbGHNDef0KJAqAWRm9IWjwycT.jpg",
+          "credit_id": "69e239951226f1a6da11a4ac",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "6",
+              "descriptors": [],
+              "iso_639_1": "de",
+              "note": "",
+              "release_date": "2011-04-06T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "VOD",
+              "release_date": "2012-07-26T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-02-19T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "PG",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2009-06-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Call of The Wild 3D",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "IT",
+          "title": "Il richiamo della foresta 3D",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "RU",
+          "title": "Зов предков",
+          "type": "Alternative"
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "Call of the Wild: A Race for Buck",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CN",
+          "title": "野性的召唤",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

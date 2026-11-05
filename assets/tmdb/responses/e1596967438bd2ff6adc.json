@@ -1,0 +1,138 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/726793?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:52.701Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 726793,
+    "imdb_id": "tt0440449",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Haciendo la Lucha",
+    "overview": "",
+    "popularity": 0.3743,
+    "poster_path": "/mrDEsDERhwVi5SVp1zY0kvUSN48.jpg",
+    "production_companies": [
+      {
+        "id": 299,
+        "logo_path": "/elssmtHcogGtF8Gxokh9phZvLKi.png",
+        "name": "Instituto Mexicano de Cinematografía",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "1993-01-01",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Haciendo la Lucha",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 940958,
+          "known_for_department": "Acting",
+          "name": "Alberto Estrella",
+          "original_name": "Alberto Estrella",
+          "popularity": 0.5527,
+          "profile_path": "/mbzQRSMSjGFl0CWdI9pG6fNn2L.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5f18d39f7a1bd60035e033a8",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 17687,
+          "known_for_department": "Acting",
+          "name": "Mayra Sérbulo",
+          "original_name": "Mayra Sérbulo",
+          "popularity": 0.4794,
+          "profile_path": "/m4KqGu9SHxccOk2fLOPzuYLftB0.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5f18d3acdb952d00349654f8",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 940856,
+          "known_for_department": "Directing",
+          "name": "Juan Antonio de la Riva",
+          "original_name": "Juan Antonio de la Riva",
+          "popularity": 0.9112,
+          "profile_path": "/vx0eFwuI0SOBOKR8z6XbkxRWcqq.jpg",
+          "credit_id": "5f18d3bec92c5d00333600e0",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 940856,
+          "known_for_department": "Directing",
+          "name": "Juan Antonio de la Riva",
+          "original_name": "Juan Antonio de la Riva",
+          "popularity": 0.9112,
+          "profile_path": "/vx0eFwuI0SOBOKR8z6XbkxRWcqq.jpg",
+          "credit_id": "5f18d3d8c92c5d00352e502a",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "{\"folded_name\"=>\"Spanish; Castilian\", \"english_name\"=>\"Spanish\", \"iso_639_1\"=>\"es\", \"native_name\"=>\"Spanish; Castilian\"}",
+              "note": "",
+              "release_date": "1993-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

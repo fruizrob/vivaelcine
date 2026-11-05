@@ -1,0 +1,154 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1389938?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:24.288Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1389938,
+    "imdb_id": "tt4016640",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "en",
+    "original_title": "The End",
+    "overview": "",
+    "popularity": 1.5878,
+    "poster_path": "/sLnN3Axt1Fiqf0KWzhPo2GCa2HL.jpg",
+    "production_companies": [
+      {
+        "id": 38964,
+        "logo_path": "/xewC73vpzCMGVTWNUZFHfhGOoL8.png",
+        "name": "Incognito Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 201,
+        "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+        "name": "ARTE",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2012-01-01",
+    "revenue": 0,
+    "runtime": 2,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The End",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3644934,
+          "known_for_department": "Art",
+          "name": "Cécile Milazzo",
+          "original_name": "Cécile Milazzo",
+          "popularity": 0.4047,
+          "profile_path": "/6Ecn4aM59lx4A3j8inYiQj4Njpe.jpg",
+          "credit_id": "673bc0a8a5fad1ee99903e5a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1472017,
+          "known_for_department": "Directing",
+          "name": "Phuong Mai Nguyen",
+          "original_name": "Phuong Mai Nguyen",
+          "popularity": 0.9938,
+          "profile_path": "/wIAGKAyFgK2FhHemzWrgczOoZVq.jpg",
+          "credit_id": "673bc0ba9b072aba8c826242",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1662750,
+          "known_for_department": "Writing",
+          "name": "Claire Sichez",
+          "original_name": "Claire Sichez",
+          "popularity": 0.3811,
+          "profile_path": null,
+          "credit_id": "673bc0c5a5fad1ee99903e6b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5067718,
+          "known_for_department": "Sound",
+          "name": "Morgan Prudhomme",
+          "original_name": "Morgan Prudhomme",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "673bc0d577eb59f2f01a5d83",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1092607,
+          "known_for_department": "Directing",
+          "name": "Benjamin Renner",
+          "original_name": "Benjamin Renner",
+          "popularity": 0.5302,
+          "profile_path": "/yp4ucXRYU5TdMj16glyoYYoxJcw.jpg",
+          "credit_id": "673bc0e33bec23b26409803a",
+          "department": "Crew",
+          "job": "Thanks"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2012-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

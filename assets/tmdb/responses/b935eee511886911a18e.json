@@ -1,0 +1,472 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/328448?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:14.127Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/dcsUl2t2jiIUaXfaqoNmbVpoJjU.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 328448,
+    "imdb_id": "tt3593666",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Dial a Prayer",
+    "overview": "Cora contesta de mala gana los teléfonos en un Centro de Llamadas de Oración bajo la dirección vigilante de su líder religioso, Bill. Mientras ella lucha para reconciliar su pasado turbulento, se enfrenta con la fe que otros han comenzado a mostrar para con ella.",
+    "popularity": 1.1239,
+    "poster_path": "/jYJmYpEeXK0NG0aALx3d9XpRaOk.jpg",
+    "production_companies": [
+      {
+        "id": 9198,
+        "logo_path": null,
+        "name": "Compass Entertainment",
+        "origin_country": ""
+      },
+      {
+        "id": 90999,
+        "logo_path": "/fvFryW0HGSIRRtI2hN0hOpTnmhO.png",
+        "name": "Storyboard Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2015-04-07",
+    "revenue": 0,
+    "runtime": 98,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dial a Prayer",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 48,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 29221,
+          "known_for_department": "Acting",
+          "name": "Brittany Snow",
+          "original_name": "Brittany Snow",
+          "popularity": 2.5948,
+          "profile_path": "/uSQW2E7caOaXHBbvL2jdzGbwDwH.jpg",
+          "cast_id": 0,
+          "character": "Cora",
+          "credit_id": "550cab30c3a368487d0045f3",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3905,
+          "known_for_department": "Acting",
+          "name": "William H. Macy",
+          "original_name": "William H. Macy",
+          "popularity": 3.4838,
+          "profile_path": "/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg",
+          "cast_id": 1,
+          "character": "Bill",
+          "credit_id": "550cab4692514133c30020a7",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 21104,
+          "known_for_department": "Acting",
+          "name": "Glenne Headly",
+          "original_name": "Glenne Headly",
+          "popularity": 1.4875,
+          "profile_path": "/ucndAdXmTfF6PfZx3tIMOOOOGcL.jpg",
+          "cast_id": 2,
+          "character": "Mary",
+          "credit_id": "550cab5dc3a368487d0045f7",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 995198,
+          "known_for_department": "Acting",
+          "name": "Tom Lipinski",
+          "original_name": "Tom Lipinski",
+          "popularity": 0.9664,
+          "profile_path": "/kxqjDoNgGGTIEUUcH2K9cBe0KoD.jpg",
+          "cast_id": 3,
+          "character": "Chase",
+          "credit_id": "550cab72c3a3687c11001dc2",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1395056,
+          "known_for_department": "Acting",
+          "name": "Stephanie Koenig",
+          "original_name": "Stephanie Koenig",
+          "popularity": 1.3256,
+          "profile_path": "/8NI5Xhgzxr4SSpN4frWDH2yMWod.jpg",
+          "cast_id": 4,
+          "character": "Jenn",
+          "credit_id": "550cab8e92514146a0004095",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 165293,
+          "known_for_department": "Acting",
+          "name": "Nicole Forester",
+          "original_name": "Nicole Forester",
+          "popularity": 0.9256,
+          "profile_path": "/qca1iaqslZFEtTIBGSE4UJ0bEjH.jpg",
+          "cast_id": 5,
+          "character": "Marlene",
+          "credit_id": "550caba692514146a000409a",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 304282,
+          "known_for_department": "Acting",
+          "name": "Kate Flannery",
+          "original_name": "Kate Flannery",
+          "popularity": 0.9532,
+          "profile_path": "/wFXWKB2IUyB6Cu08PyovyBAm9WT.jpg",
+          "cast_id": 6,
+          "character": "Siobhan",
+          "credit_id": "550cabce92514133c30020ad",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2227077,
+          "known_for_department": "Acting",
+          "name": "Aral Gribble",
+          "original_name": "Aral Gribble",
+          "popularity": 0.7922,
+          "profile_path": "/aK135KABBwNWuGh2QaNszJkpgjN.jpg",
+          "cast_id": 27,
+          "character": "Jeff",
+          "credit_id": "672bd280d98bbc3977ad098b",
+          "order": 7
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1764692,
+          "known_for_department": "Production",
+          "name": "Jason Potash",
+          "original_name": "Jason Potash",
+          "popularity": 0.238,
+          "profile_path": null,
+          "credit_id": "62ec99d8f1b571005e2d3347",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3410402,
+          "known_for_department": "Editing",
+          "name": "Paul Bupte",
+          "original_name": "Paul Bupte",
+          "popularity": 0.1006,
+          "profile_path": null,
+          "credit_id": "62ec9a32a84a470060730029",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 154641,
+          "known_for_department": "Acting",
+          "name": "Marcus Dean Fuller",
+          "original_name": "Marcus Dean Fuller",
+          "popularity": 0.4763,
+          "profile_path": null,
+          "credit_id": "62ec99c43af9290060441993",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5328,
+          "known_for_department": "Production",
+          "name": "Kerry Barden",
+          "original_name": "Kerry Barden",
+          "popularity": 0.3176,
+          "profile_path": "/yTEw7B4Cjxb3REemAHmCsmBm1U2.jpg",
+          "credit_id": "62ec9a00d6590b005d976da3",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19689,
+          "known_for_department": "Production",
+          "name": "Paul Schnee",
+          "original_name": "Paul Schnee",
+          "popularity": 0.4548,
+          "profile_path": null,
+          "credit_id": "62ec9a22a84a470060730021",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1049320,
+          "known_for_department": "Directing",
+          "name": "Jonas Spaccarotelli",
+          "original_name": "Jonas Spaccarotelli",
+          "popularity": 0.28,
+          "profile_path": null,
+          "credit_id": "62ec99e6fc5f06006108c4f6",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 930069,
+          "known_for_department": "Sound",
+          "name": "Matthew Puckett",
+          "original_name": "Matthew Puckett",
+          "popularity": 0.2632,
+          "profile_path": null,
+          "credit_id": "62ec99f6f1b571005e2d334e",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1556605,
+          "known_for_department": "Art",
+          "name": "Kim Thrasher",
+          "original_name": "Kim Thrasher",
+          "popularity": 0.2724,
+          "profile_path": null,
+          "credit_id": "62ec9a2d3af92900604419b5",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1483631,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Lora Gianino",
+          "original_name": "Lora Gianino",
+          "popularity": 0.1169,
+          "profile_path": null,
+          "credit_id": "62ec9a3e89d97f006082fc72",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Department Head"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1997779,
+          "known_for_department": "Editing",
+          "name": "Vincent Oresman",
+          "original_name": "Vincent Oresman",
+          "popularity": 0.1664,
+          "profile_path": null,
+          "credit_id": "62ec9a04af4324005c1ae445",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 928528,
+          "known_for_department": "Art",
+          "name": "Lauren Fitzsimmons",
+          "original_name": "Lauren Fitzsimmons",
+          "popularity": 0.191,
+          "profile_path": null,
+          "credit_id": "62ec9a128566d200627778b8",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1764687,
+          "known_for_department": "Production",
+          "name": "Paul Finkel",
+          "original_name": "Paul Finkel",
+          "popularity": 0.2067,
+          "profile_path": null,
+          "credit_id": "62ec999dce997a00600944bc",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1436064,
+          "known_for_department": "Visual Effects",
+          "name": "Bryan Binder",
+          "original_name": "Bryan Binder",
+          "popularity": 0.2576,
+          "profile_path": null,
+          "credit_id": "62ec99a9d6590b005a2b8c30",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 928388,
+          "known_for_department": "Sound",
+          "name": "Andrea Bella",
+          "original_name": "Andrea Bella",
+          "popularity": 0.2007,
+          "profile_path": null,
+          "credit_id": "62ec9a52f1b5710059588385",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1018642,
+          "known_for_department": "Production",
+          "name": "Julie S. Fuller",
+          "original_name": "Julie S. Fuller",
+          "popularity": 0.145,
+          "profile_path": null,
+          "credit_id": "62ec99caaf4324005f234dc3",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1397724,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Kimberly Leitz",
+          "original_name": "Kimberly Leitz",
+          "popularity": 0.1341,
+          "profile_path": null,
+          "credit_id": "62ec9a4389d97f006082fc77",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 966927,
+          "known_for_department": "Camera",
+          "name": "Gavin Kelly",
+          "original_name": "Gavin Kelly",
+          "popularity": 0.3567,
+          "profile_path": null,
+          "credit_id": "62ec99f2f1b571006136179f",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 928388,
+          "known_for_department": "Sound",
+          "name": "Andrea Bella",
+          "original_name": "Andrea Bella",
+          "popularity": 0.2007,
+          "profile_path": null,
+          "credit_id": "62ec9a5baf4324005f234df8",
+          "department": "Sound",
+          "job": "Supervising Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 113570,
+          "known_for_department": "Directing",
+          "name": "Maggie Kiley",
+          "original_name": "Maggie Kiley",
+          "popularity": 0.5087,
+          "profile_path": "/afVV0N8INwL75CVTGeJj4jNaiwQ.jpg",
+          "credit_id": "550cac1cc3a3684874004981",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 113570,
+          "known_for_department": "Directing",
+          "name": "Maggie Kiley",
+          "original_name": "Maggie Kiley",
+          "popularity": 0.5087,
+          "profile_path": "/afVV0N8INwL75CVTGeJj4jNaiwQ.jpg",
+          "credit_id": "567abe6b92514106f1002aa7",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Source: https://www.imdb.com/title/tt3593666/releaseinfo?ref_=tt_dt_rdat",
+              "release_date": "2015-04-07T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "GB",
+          "title": "Answer the Call",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

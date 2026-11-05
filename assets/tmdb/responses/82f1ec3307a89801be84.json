@@ -1,0 +1,132 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/412845?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:31.513Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 412845,
+    "imdb_id": "tt0399618",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The Seasons Alter",
+    "overview": "",
+    "popularity": 0.5446,
+    "poster_path": "/j4oqVFnZYhXKqenh4M4eYhmV5nw.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2002-12-10",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Seasons Alter",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 116,
+          "known_for_department": "Acting",
+          "name": "Keira Knightley",
+          "original_name": "Keira Knightley",
+          "popularity": 5.2276,
+          "profile_path": "/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg",
+          "cast_id": 0,
+          "character": "Helena",
+          "credit_id": "57c01304c3a3682137002c08",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 20768,
+          "known_for_department": "Acting",
+          "name": "Cherie Lunghi",
+          "original_name": "Cherie Lunghi",
+          "popularity": 1.7096,
+          "profile_path": "/LoIGKqUw3d58MrVsLpw22goYCK.jpg",
+          "cast_id": 2,
+          "character": "Titania",
+          "credit_id": "58620472c3a3681a68041452",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 172935,
+          "known_for_department": "Acting",
+          "name": "Lloyd Owen",
+          "original_name": "Lloyd Owen",
+          "popularity": 1.2526,
+          "profile_path": "/d8b9S09WPY2E8YXoDkaZiIGTMDB.jpg",
+          "cast_id": 3,
+          "character": "Oberon",
+          "credit_id": "5862048092514115cf03ac0c",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1670450,
+          "known_for_department": "Directing",
+          "name": "Roger Lunn",
+          "original_name": "Roger Lunn",
+          "popularity": 0.1877,
+          "profile_path": null,
+          "credit_id": "57c0131fc3a3684d39001eb5",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2002-12-10T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

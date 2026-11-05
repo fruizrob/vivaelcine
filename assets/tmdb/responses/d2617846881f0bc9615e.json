@@ -1,0 +1,314 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1081332?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:56.362Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1081332,
+    "imdb_id": "tt28490396",
+    "origin_country": [
+      "IR"
+    ],
+    "original_language": "fa",
+    "original_title": "48 Hours",
+    "overview": "",
+    "popularity": 0.3507,
+    "poster_path": "/mw5O02aNeqqpoMyI7FQ0qZq7QHU.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "IR",
+        "name": "Iran"
+      }
+    ],
+    "release_date": "2022-11-06",
+    "revenue": 0,
+    "runtime": 21,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Persian",
+        "iso_639_1": "fa",
+        "name": "فارسی"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "48 Hours",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1061525,
+          "known_for_department": "Acting",
+          "name": "باران کوثری",
+          "original_name": "باران کوثری",
+          "popularity": 1.0854,
+          "profile_path": "/xwo4zYIPMootcc7FfjZ1Nddh5S1.jpg",
+          "cast_id": 13,
+          "character": "Eli",
+          "credit_id": "65f58c84aede590163bea768",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1813384,
+          "known_for_department": "Acting",
+          "name": "Reza Akhlaghirad",
+          "original_name": "رضا اخلاقی راد",
+          "popularity": 0.6187,
+          "profile_path": "/eYvcgf3rayY1pRKnYwWpmpXJU45.jpg",
+          "cast_id": 16,
+          "character": "Nader",
+          "credit_id": "65f58f5d3fe1600131c48a2b",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3964421,
+          "known_for_department": "Acting",
+          "name": "Dorin Afsharian",
+          "original_name": "Dorin Afsharian",
+          "popularity": 0.1212,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Tara",
+          "credit_id": "65f58c9806f984017cc7b889",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1393096,
+          "known_for_department": "Directing",
+          "name": "Azadeh Moussavi",
+          "original_name": "Azadeh Moussavi",
+          "popularity": 0.2848,
+          "profile_path": "/9xT2wBE5jUYLaG2KnKXCKYBihxl.jpg",
+          "credit_id": "65f58a9e156cc7017e62178a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1393096,
+          "known_for_department": "Directing",
+          "name": "Azadeh Moussavi",
+          "original_name": "Azadeh Moussavi",
+          "popularity": 0.2848,
+          "profile_path": "/9xT2wBE5jUYLaG2KnKXCKYBihxl.jpg",
+          "credit_id": "65f58aabb97442017dfa9c5c",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1393096,
+          "known_for_department": "Directing",
+          "name": "Azadeh Moussavi",
+          "original_name": "Azadeh Moussavi",
+          "popularity": 0.2848,
+          "profile_path": "/9xT2wBE5jUYLaG2KnKXCKYBihxl.jpg",
+          "credit_id": "65f58ab5d4d5090164ab0b2c",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4596269,
+          "known_for_department": "Production",
+          "name": "Siamak Zarin",
+          "original_name": "Siamak Zarin",
+          "popularity": 0.0925,
+          "profile_path": null,
+          "credit_id": "65f58bd93fe160014ac4cf0d",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3429686,
+          "known_for_department": "Camera",
+          "name": "Masoud Amini Tirani",
+          "original_name": "Masoud Amini Tirani",
+          "popularity": 0.4057,
+          "profile_path": null,
+          "credit_id": "65f58be53fe160017dc5fcde",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1831950,
+          "known_for_department": "Editing",
+          "name": "Sepideh Abdolvahab",
+          "original_name": "Sepideh Abdolvahab",
+          "popularity": 0.1352,
+          "profile_path": null,
+          "credit_id": "65f58bf1aede59017cbf651f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1765366,
+          "known_for_department": "Sound",
+          "name": "Ensieh Maleki",
+          "original_name": "Ensieh Maleki",
+          "popularity": 0.1361,
+          "profile_path": null,
+          "credit_id": "65f58c04156cc7014b610d8f",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1765366,
+          "known_for_department": "Sound",
+          "name": "Ensieh Maleki",
+          "original_name": "Ensieh Maleki",
+          "popularity": 0.1361,
+          "profile_path": null,
+          "credit_id": "65f58c0cd4d509017dabd355",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1568903,
+          "known_for_department": "Sound",
+          "name": "Afshin Azizi",
+          "original_name": "Afshin Azizi",
+          "popularity": 0.1318,
+          "profile_path": null,
+          "credit_id": "65f58c203fe1600131c48997",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4596270,
+          "known_for_department": "Production",
+          "name": "Arash Mohamadian",
+          "original_name": "Arash Mohamadian",
+          "popularity": 0.1002,
+          "profile_path": null,
+          "credit_id": "65f58c2de039f1017d042573",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4596271,
+          "known_for_department": "Directing",
+          "name": "Fereshteh Hejazi",
+          "original_name": "Fereshteh Hejazi",
+          "popularity": 0.0936,
+          "profile_path": null,
+          "credit_id": "65f58c3f3fe1600164c55c25",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2868555,
+          "known_for_department": "Directing",
+          "name": "Ghazal Masoumi",
+          "original_name": "Ghazal Masoumi",
+          "popularity": 0.1016,
+          "profile_path": null,
+          "credit_id": "65f58c531e259a01634ca6b2",
+          "department": "Directing",
+          "job": "Assistant Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Flickerfest Film Festival",
+              "release_date": "2023-01-23T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "XIX Panorama Internacional Coisa de Cinema",
+              "release_date": "2024-03-17T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "MedFilm Festival",
+              "release_date": "2022-11-06T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2023-03-29T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

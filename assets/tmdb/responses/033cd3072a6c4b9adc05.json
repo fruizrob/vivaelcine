@@ -1,0 +1,924 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/356326?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:44.738Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/9EzKM0ZLySzARIXIzg0XSfxaJ1J.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 356326,
+    "imdb_id": "tt3547682",
+    "origin_country": [
+      "DK"
+    ],
+    "original_language": "da",
+    "original_title": "Sorgenfri",
+    "overview": "La vida tranquila de un hermoso vecindario de Dinamarca se ve interrumpida por el brote de un virus fulminante que no tarda en dejar cadáveres. Los infectados se convierten en zombies rabiosos y la vida de todos los vecinos corre peligro.  Las autoridades deciden aislar la zona y dejan en cuarentena a los vecinos, entre ellos los Johansson que lucharán por mantener la calma. Pero el conflicto termine por estallar en el caos absoluto debido a la falta de información desde el exterior.",
+    "popularity": 2.273,
+    "poster_path": "/mQVlinrnC7JHDOpkodJgcUnxVvQ.jpg",
+    "production_companies": [
+      {
+        "id": 45461,
+        "logo_path": "/gKKOrXKD2FEemp9CkvjNy0dLWX6.png",
+        "name": "Meta Film",
+        "origin_country": "DK"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DK",
+        "name": "Denmark"
+      }
+    ],
+    "release_date": "2015-09-29",
+    "revenue": 0,
+    "runtime": 85,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Danish",
+        "iso_639_1": "da",
+        "name": "Dansk"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Quédate en casa. Echa la llave. No respires.",
+    "title": "What We Become",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 210,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6123,
+          "known_for_department": "Acting",
+          "name": "Troels Lyby",
+          "original_name": "Troels Lyby",
+          "popularity": 0.4555,
+          "profile_path": "/wZViPCp2ESCQ1j1HCj8u7WWIOrq.jpg",
+          "cast_id": 4,
+          "character": "Dino",
+          "credit_id": "5610e6e7c3a368681f010377",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 135753,
+          "known_for_department": "Acting",
+          "name": "Mille Dinesen",
+          "original_name": "Mille Dinesen",
+          "popularity": 0.9373,
+          "profile_path": "/5iPkBvpZ9HI9aVqRZ4D0ZivMGoS.jpg",
+          "cast_id": 1,
+          "character": "Pernille",
+          "credit_id": "55de1412c3a36827d1000330",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1518349,
+          "known_for_department": "Acting",
+          "name": "Benjamin Engell",
+          "original_name": "Benjamin Engell",
+          "popularity": 0.3888,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Gustav",
+          "credit_id": "5610e6e89251414feb007cf4",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 589027,
+          "known_for_department": "Acting",
+          "name": "Marie Boda",
+          "original_name": "Marie Boda",
+          "popularity": 0.8043,
+          "profile_path": "/qJfPkYam5b2RoyCe592qeroizBL.jpg",
+          "cast_id": 5,
+          "character": "Sonja",
+          "credit_id": "5610e6e792514147d80081f8",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1518350,
+          "known_for_department": "Acting",
+          "name": "Ella Solgaard",
+          "original_name": "Ella Solgaard",
+          "popularity": 0.6872,
+          "profile_path": "/te6KJFqoxwRFN2hN9K9P2Gvn6ZW.jpg",
+          "cast_id": 10,
+          "character": "Maj",
+          "credit_id": "5610e6e9c3a3686817011690",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 228218,
+          "known_for_department": "Acting",
+          "name": "Mikael Birkkjær",
+          "original_name": "Mikael Birkkjær",
+          "popularity": 0.8236,
+          "profile_path": "/mAKWxBOuLkNtRZj8UtnLUK2O3RV.jpg",
+          "cast_id": 3,
+          "character": "Casper",
+          "credit_id": "55de143fc3a36827d80002ee",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1179177,
+          "known_for_department": "Acting",
+          "name": "Therese Damsgaard",
+          "original_name": "Therese Damsgaard",
+          "popularity": 0.2416,
+          "profile_path": "/tFE2ToNmtc8srU392CMWLFFxjPL.jpg",
+          "cast_id": 6,
+          "character": "Anna",
+          "credit_id": "5610e6e7c3a368680e0113d2",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1150862,
+          "known_for_department": "Acting",
+          "name": "Diana Axelsen",
+          "original_name": "Diana Axelsen",
+          "popularity": 0.3054,
+          "profile_path": "/eYfVtY3hH8qThtwpi9K6WBr0Lh.jpg",
+          "cast_id": 9,
+          "character": "Maria",
+          "credit_id": "5610e6e89251414ec60020a4",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 587064,
+          "known_for_department": "Acting",
+          "name": "Rita Angela",
+          "original_name": "Rita Angela",
+          "popularity": 0.3437,
+          "profile_path": "/qZGadOqEWYwl0757lMCzhal17Z3.jpg",
+          "cast_id": 8,
+          "character": "Elna",
+          "credit_id": "5610e6e8c3a368681401274c",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1460369,
+          "known_for_department": "Acting",
+          "name": "Simon Papousek",
+          "original_name": "Simon Papousek",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "cast_id": 31,
+          "character": "Sonjas far",
+          "credit_id": "599c7965c3a36828a0002857",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 41907,
+          "known_for_department": "Acting",
+          "name": "Kristian Halken",
+          "original_name": "Kristian Halken",
+          "popularity": 0.6925,
+          "profile_path": "/pvDQC9woXNFAk2N6TrHe7a2D0MN.jpg",
+          "cast_id": 32,
+          "character": "Christian Hall",
+          "credit_id": "599c79c4c3a368285e002c59",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 34867,
+          "known_for_department": "Acting",
+          "name": "Laura Bro",
+          "original_name": "Laura Bro",
+          "popularity": 0.5207,
+          "profile_path": "/kf9uyfZPNVRvaeixXbhVbqku1LV.jpg",
+          "cast_id": 33,
+          "character": "Kvinden i netto",
+          "credit_id": "599c79ec9251411f4a002df6",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1443438,
+          "known_for_department": "Acting",
+          "name": "Reimer Bo Christensen",
+          "original_name": "Reimer Bo Christensen",
+          "popularity": 0.254,
+          "profile_path": "/lTAngps0eXPsQj45p256oqzaTDp.jpg",
+          "cast_id": 34,
+          "character": "Nyhedsoplæser",
+          "credit_id": "599c7a3a9251411efd002e42",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1874721,
+          "known_for_department": "Acting",
+          "name": "Trine Sick",
+          "original_name": "Trine Sick",
+          "popularity": 0.1127,
+          "profile_path": "/6zxzju18FrCPAEuuU0UyMsl68T9.jpg",
+          "cast_id": 35,
+          "character": "Nyhedsoplæser",
+          "credit_id": "599c7b4e9251411efd00304f",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1874722,
+          "known_for_department": "Acting",
+          "name": "Robert Strandgaard Mikkelsen",
+          "original_name": "Robert Strandgaard Mikkelsen",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 36,
+          "character": "Dreng til vejfest",
+          "credit_id": "599c7b7f9251411f4a0030c9",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1874726,
+          "known_for_department": "Acting",
+          "name": "Kristian B. Sørensen",
+          "original_name": "Kristian B. Sørensen",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 38,
+          "character": "SWAT Team",
+          "credit_id": "599c7c9c9251411f3f003189",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1874728,
+          "known_for_department": "Acting",
+          "name": "Kristoffer Jul",
+          "original_name": "Kristoffer Jul",
+          "popularity": 0.2203,
+          "profile_path": null,
+          "cast_id": 39,
+          "character": "SWAT Team",
+          "credit_id": "599c7cad9251411f0c003250",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1631704,
+          "known_for_department": "Acting",
+          "name": "Peter Krag",
+          "original_name": "Peter Krag",
+          "popularity": 0.127,
+          "profile_path": null,
+          "cast_id": 40,
+          "character": "SWAT Team",
+          "credit_id": "599c7cef9251411f0c0032b8",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1518351,
+          "known_for_department": "Acting",
+          "name": "Michael Molin",
+          "original_name": "Michael Molin",
+          "popularity": 0.1074,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "SWAT Team",
+          "credit_id": "5610e6e992514178990013d9",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1874730,
+          "known_for_department": "Acting",
+          "name": "Peter Palmgren",
+          "original_name": "Peter Palmgren",
+          "popularity": 0.1008,
+          "profile_path": null,
+          "cast_id": 41,
+          "character": "SWAT Team",
+          "credit_id": "599c7d37c3a368285e003282",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1874731,
+          "known_for_department": "Acting",
+          "name": "Tue Bjørn",
+          "original_name": "Tue Bjørn",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 42,
+          "character": "SWAT Team",
+          "credit_id": "599c7d459251411efd0033af",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1874732,
+          "known_for_department": "Acting",
+          "name": "Theis Gottorp",
+          "original_name": "Theis Gottorp",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 43,
+          "character": "SWAT Team",
+          "credit_id": "599c7d5bc3a36828810030ea",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1874733,
+          "known_for_department": "Acting",
+          "name": "Lars O. Nielsen",
+          "original_name": "Lars O. Nielsen",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "cast_id": 44,
+          "character": "Politibetjent",
+          "credit_id": "599c7e93c3a36828a000309c",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1874734,
+          "known_for_department": "Acting",
+          "name": "Brian Conradsen",
+          "original_name": "Brian Conradsen",
+          "popularity": 0.1328,
+          "profile_path": null,
+          "cast_id": 45,
+          "character": "Politibetjent",
+          "credit_id": "599c7ea4c3a368282c00316e",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1874735,
+          "known_for_department": "Acting",
+          "name": "Benjamin Lund Lassen",
+          "original_name": "Benjamin Lund Lassen",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 46,
+          "character": "Ambulancefører",
+          "credit_id": "599c7ec2c3a36827f0003449",
+          "order": 24
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1874736,
+          "known_for_department": "Acting",
+          "name": "Sven Aage Andersen",
+          "original_name": "Sven Aage Andersen",
+          "popularity": 0.1136,
+          "profile_path": null,
+          "cast_id": 47,
+          "character": "Ambulancefører",
+          "credit_id": "599c7ed89251411f2e0035f9",
+          "order": 25
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1874737,
+          "known_for_department": "Acting",
+          "name": "Martin R. Nielsen",
+          "original_name": "Martin R. Nielsen",
+          "popularity": 0.1024,
+          "profile_path": null,
+          "cast_id": 48,
+          "character": "Brandmand",
+          "credit_id": "599c7f069251411ef30036dd",
+          "order": 26
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1874738,
+          "known_for_department": "Acting",
+          "name": "TT Thomas Tamsen",
+          "original_name": "TT Thomas Tamsen",
+          "popularity": 0.1139,
+          "profile_path": null,
+          "cast_id": 49,
+          "character": "Lastbilchauffør",
+          "credit_id": "599c7f6cc3a36827f000355d",
+          "order": 27
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1874739,
+          "known_for_department": "Acting",
+          "name": "Boggie Claus",
+          "original_name": "Boggie Claus",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "cast_id": 50,
+          "character": "Lastbilchauffør",
+          "credit_id": "599c7f79c3a36828480036e3",
+          "order": 28
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1874740,
+          "known_for_department": "Acting",
+          "name": "Jydespætten",
+          "original_name": "Jydespætten",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "cast_id": 51,
+          "character": "Gummiged chauffør",
+          "credit_id": "599c7fb49251411efd0037c9",
+          "order": 29
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1711509,
+          "known_for_department": "Acting",
+          "name": "Marius Artimon",
+          "original_name": "Marius Artimon",
+          "popularity": 0.1363,
+          "profile_path": null,
+          "cast_id": 52,
+          "character": "Hollændervogn chauffør",
+          "credit_id": "599c7ff89251411efd00383c",
+          "order": 30
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1874742,
+          "known_for_department": "Acting",
+          "name": "Rikke",
+          "original_name": "Rikke",
+          "popularity": 0.1372,
+          "profile_path": null,
+          "cast_id": 53,
+          "character": "Hunden Pusser",
+          "credit_id": "599c803a9251411f3f0037be",
+          "order": 31
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1034508,
+          "known_for_department": "Acting",
+          "name": "Ole Dupont",
+          "original_name": "Ole Dupont",
+          "popularity": 0.4345,
+          "profile_path": "/hZEasReBVUddwg2f4qmxAG9hA79.jpg",
+          "cast_id": 2,
+          "character": "Læge (uncredited)",
+          "credit_id": "55de142bc3a36827e300031e",
+          "order": 32
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1180791,
+          "known_for_department": "Acting",
+          "name": "Sonny Lahey",
+          "original_name": "Sonny Lahey",
+          "popularity": 0.3593,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "SWAT Team Member (voice) (uncredited)",
+          "credit_id": "5610e6e9c3a3686810011abe",
+          "order": 33
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1444593,
+          "known_for_department": "Acting",
+          "name": "Dennis Albrechtsen",
+          "original_name": "Dennis Albrechtsen",
+          "popularity": 0.4806,
+          "profile_path": "/xPP1jQPJEzzbPsL8rRpj5zzpnxr.jpg",
+          "cast_id": 56,
+          "character": "Mand i bil",
+          "credit_id": "665b0e8a9ae26b479c427ad9",
+          "order": 34
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1500724,
+          "known_for_department": "Directing",
+          "name": "Bo Mikkelsen",
+          "original_name": "Bo Mikkelsen",
+          "popularity": 0.2539,
+          "profile_path": null,
+          "credit_id": "55de10ef9251411c2e000264",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1500724,
+          "known_for_department": "Directing",
+          "name": "Bo Mikkelsen",
+          "original_name": "Bo Mikkelsen",
+          "popularity": 0.2539,
+          "profile_path": null,
+          "credit_id": "5827348d9251417b2c01af02",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1150428,
+          "known_for_department": "Art",
+          "name": "Thomas Bremer",
+          "original_name": "Thomas Bremer",
+          "popularity": 0.217,
+          "profile_path": "/etNczt2K6LkMkuGragGmDCaUIKe.jpg",
+          "credit_id": "599c705c9251411f0c001bca",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1874698,
+          "known_for_department": "Production",
+          "name": "Kirsten Langgaard",
+          "original_name": "Kirsten Langgaard",
+          "popularity": 0.0934,
+          "profile_path": null,
+          "credit_id": "599c71d99251411ef8001f19",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1346222,
+          "known_for_department": "Production",
+          "name": "Louis Tisné",
+          "original_name": "Louis Tisné",
+          "popularity": 0.2906,
+          "profile_path": null,
+          "credit_id": "599c74c8c3a368282c002155",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1172080,
+          "known_for_department": "Camera",
+          "name": "Adam Morris Philp",
+          "original_name": "Adam Morris Philp",
+          "popularity": 0.3127,
+          "profile_path": "/5BgoqT9rZLeJyB96RmeDzVPWuME.jpg",
+          "credit_id": "599c6e009251411ef80017c1",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1283379,
+          "known_for_department": "Sound",
+          "name": "Peter Albrechtsen",
+          "original_name": "Peter Albrechtsen",
+          "popularity": 0.6594,
+          "profile_path": null,
+          "credit_id": "599c6ea89251411f5100198a",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 119104,
+          "known_for_department": "Production",
+          "name": "Johnny Andersen",
+          "original_name": "Johnny Andersen",
+          "popularity": 0.4723,
+          "profile_path": null,
+          "credit_id": "599c71a1c3a3682848001d8b",
+          "department": "Production",
+          "job": "Line Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 69016,
+          "known_for_department": "Production",
+          "name": "Kenneth D. Plummer",
+          "original_name": "Kenneth D. Plummer",
+          "popularity": 0.3525,
+          "profile_path": null,
+          "credit_id": "599c74729251411ef8002405",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1874685,
+          "known_for_department": "Production",
+          "name": "Sara Namer",
+          "original_name": "Sara Namer",
+          "popularity": 0.166,
+          "profile_path": "/n2eVGIPPru6MWXMYwSnG5mb0BzP.jpg",
+          "credit_id": "599c6da1c3a36828a000149e",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1500724,
+          "known_for_department": "Directing",
+          "name": "Bo Mikkelsen",
+          "original_name": "Bo Mikkelsen",
+          "popularity": 0.2539,
+          "profile_path": null,
+          "credit_id": "599c6e5e9251411f0c001806",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 42099,
+          "known_for_department": "Production",
+          "name": "Meta Louise Foldager Sørensen",
+          "original_name": "Meta Louise Foldager Sørensen",
+          "popularity": 1.2318,
+          "profile_path": "/vKan1Q6hrCJdUVoBx5H89jLt2cg.jpg",
+          "credit_id": "599c7215c3a3682872001d13",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1400327,
+          "known_for_department": "Visual Effects",
+          "name": "Peter Hjorth",
+          "original_name": "Peter Hjorth",
+          "popularity": 0.411,
+          "profile_path": "/bmxiFVD0pn6nF88M7wuK64IKcnX.jpg",
+          "credit_id": "599c6fb19251411efd001b19",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1874696,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Rikke Simonsen",
+          "original_name": "Rikke Simonsen",
+          "popularity": 0.1926,
+          "profile_path": null,
+          "credit_id": "599c70aac3a368282c001a53",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 560181,
+          "known_for_department": "Editing",
+          "name": "Niels Ostenfeld",
+          "original_name": "Niels Ostenfeld",
+          "popularity": 0.2048,
+          "profile_path": "/tH034AFGj9DysFqlYb602xrHvYy.jpg",
+          "credit_id": "599c6e4e9251411f2e0017eb",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1630488,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Sofie de Mylius",
+          "original_name": "Sofie de Mylius",
+          "popularity": 0.4539,
+          "profile_path": "/u5ZWdLIE9DOtqaDnZGpLVtfROmY.jpg",
+          "credit_id": "599c70df9251411ef3001cce",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1512665,
+          "known_for_department": "Sound",
+          "name": "Heikki Kossi",
+          "original_name": "Heikki Kossi",
+          "popularity": 0.4622,
+          "profile_path": "/6VipnMFz9whg3WKRGld7KJDGTlo.jpg",
+          "credit_id": "64401ebc95665802fc0206f2",
+          "department": "Sound",
+          "job": "Foley Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4791728,
+          "known_for_department": "Production",
+          "name": "Anja Philip",
+          "original_name": "Anja Philip",
+          "popularity": 0.4874,
+          "profile_path": "/daaoWi2NwH5wUBqjYKPJaE3PkAV.jpg",
+          "credit_id": "66866cf55f515ecdf7259899",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1367927,
+          "known_for_department": "Sound",
+          "name": "Martin Pedersen",
+          "original_name": "Martin Pedersen",
+          "popularity": 0.1108,
+          "profile_path": null,
+          "credit_id": "5e1143f2ae26be0014489808",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2016-11-18T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DK",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2016-03-31T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FI",
+          "release_dates": [
+            {
+              "certification": "K-16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-09-29T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2017-01-14T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2017-05-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SE",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-09-29T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Fantastic Fest",
+              "release_date": "2015-09-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "DK",
+          "title": "Sorgenfri",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "What We Become",
+          "type": "English international"
+        },
+        {
+          "iso_3166_1": "SE",
+          "title": "What We Become",
+          "type": "IMDB display"
+        },
+        {
+          "iso_3166_1": "CL",
+          "title": "Ellos te están esperando",
+          "type": "Spanish"
+        }
+      ]
+    }
+  }
+}

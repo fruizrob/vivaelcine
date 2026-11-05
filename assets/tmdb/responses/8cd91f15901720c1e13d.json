@@ -1,0 +1,204 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1359504?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:29.015Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1359504,
+    "imdb_id": null,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Kopenawa: Sonhar a Terra-Floresta",
+    "overview": "",
+    "popularity": 1.9434,
+    "poster_path": "/iBggPD2yVgPpMn6ss3C7qTi4amd.jpg",
+    "production_companies": [
+      {
+        "id": 197853,
+        "logo_path": "/ekaUVM0mnhLjrj17QIZuS2o99Ya.png",
+        "name": "Indiana Produções Cinematográficas",
+        "origin_country": "BR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2026-11-26",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Kopenawa: Sonhar a Terra-Floresta",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3162005,
+          "known_for_department": "Acting",
+          "name": "Davi Kopenawa Yanomami",
+          "original_name": "Davi Kopenawa Yanomami",
+          "popularity": 1.0427,
+          "profile_path": "/uYFfCw4xgh6yTw249v1KGBjyRNf.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "66ee6df07300a5ba213af8df",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1785870,
+          "known_for_department": "Acting",
+          "name": "Ailton Krenak",
+          "original_name": "Ailton Krenak",
+          "popularity": 0.2895,
+          "profile_path": "/wos9ItOuevRVY9BHVPZze6iFVMG.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "66ee6dfa7ff2bf57cd25eda3",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 65463,
+          "known_for_department": "Acting",
+          "name": "Gilberto Gil",
+          "original_name": "Gilberto Gil",
+          "popularity": 0.5448,
+          "profile_path": "/noyYXGTomUxdMfCI8g5VgK4ty8h.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "66ee6e056fd7cc7d423af1cd",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2863069,
+          "known_for_department": "Acting",
+          "name": "Claudia Andujar",
+          "original_name": "Claudia Andujar",
+          "popularity": 0.2807,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "66ee6e0f0ea80d1fe38d0ce2",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 90210,
+          "known_for_department": "Acting",
+          "name": "José Celso Martinez Corrêa",
+          "original_name": "José Celso Martinez Corrêa",
+          "popularity": 1.0289,
+          "profile_path": "/oIpfKy1ogWyieE6cxXXcELSK9eE.jpg",
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "66ee6e187ff2bf57cd25edb3",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1271381,
+          "known_for_department": "Directing",
+          "name": "Marco Altberg",
+          "original_name": "Marco Altberg",
+          "popularity": 0.4587,
+          "profile_path": null,
+          "credit_id": "66ee6dcd7300a5ba213af8c7",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4954667,
+          "known_for_department": "Directing",
+          "name": "Tainá De Luccas",
+          "original_name": "Tainá De Luccas",
+          "popularity": 0.2824,
+          "profile_path": null,
+          "credit_id": "66ee6ddd7300a5ba213af8d3",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "",
+              "release_date": "2024-10-03T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "10",
+              "descriptors": [
+                "Legal Drugs",
+                "Inappropriate Language",
+                "Nudity",
+                "Sensitive Themes"
+              ],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-11-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Kopenawa",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BR",
+          "title": "Kopenawa: Sonharaterra-Floresta",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

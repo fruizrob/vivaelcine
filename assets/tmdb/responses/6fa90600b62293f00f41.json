@@ -1,0 +1,159 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1732621?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:25.340Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1732621,
+    "imdb_id": "tt6293836",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The End",
+    "overview": "",
+    "popularity": 1.6796,
+    "poster_path": "/bniV8bfle52U1IDkHmM2ULsjm6Q.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2006-01-01",
+    "revenue": 0,
+    "runtime": 8,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The End",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6352179,
+          "known_for_department": "Acting",
+          "name": "Mark Khutan",
+          "original_name": "Mark Khutan",
+          "popularity": 0.1141,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "The Bomber",
+          "credit_id": "6a5937258c690898ecc3b350",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6352182,
+          "known_for_department": "Acting",
+          "name": "Ian Woolley",
+          "original_name": "Ian Woolley",
+          "popularity": 0.1515,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "The Jumper",
+          "credit_id": "6a593748f0e8b93d454a6082",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4511367,
+          "known_for_department": "Directing",
+          "name": "Kodjo Tsakpo",
+          "original_name": "Kodjo Tsakpo",
+          "popularity": 0.7366,
+          "profile_path": null,
+          "credit_id": "6a593781af666d5a6fc3b196",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6352183,
+          "known_for_department": "Writing",
+          "name": "George Hopkin",
+          "original_name": "George Hopkin",
+          "popularity": 0.1909,
+          "profile_path": null,
+          "credit_id": "6a5937a9be8ae2cc645874f6",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3941952,
+          "known_for_department": "Production",
+          "name": "Rachel Drummond-Hay",
+          "original_name": "Rachel Drummond-Hay",
+          "popularity": 0.2746,
+          "profile_path": null,
+          "credit_id": "6a593de4142d4777a54a606a",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6352197,
+          "known_for_department": "Editing",
+          "name": "Rob Ellmore",
+          "original_name": "Rob Ellmore",
+          "popularity": 0.194,
+          "profile_path": null,
+          "credit_id": "6a593e7cbe8ae2cc64587553",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6352198,
+          "known_for_department": "Camera",
+          "name": "Alex Ford-Robertson",
+          "original_name": "Alex Ford-Robertson",
+          "popularity": 0.2056,
+          "profile_path": null,
+          "credit_id": "6a593e91cc7f869932aed596",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2006-01-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

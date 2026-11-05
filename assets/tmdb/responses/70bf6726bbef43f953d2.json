@@ -1,0 +1,745 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/35976?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:27.444Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/9p93IMBLEtKukXblsNKlMe3m97V.jpg",
+    "belongs_to_collection": null,
+    "budget": 3000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 35976,
+    "imdb_id": "tt0077504",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The End",
+    "overview": "Sonny Lawson es un agente inmobiliario muy conocido que recibe la noticia de que le quedan pocos meses de vida porque tiene una enfermedad incurable. Desde ese momento se dedica a despedirse de todo el mundo, especialmente de su mujer e hija.",
+    "popularity": 1.3598,
+    "poster_path": "/dZnOQWL3hWvLG9cWybBozXtU7aC.jpg",
+    "production_companies": [
+      {
+        "id": 60,
+        "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+        "name": "United Artists",
+        "origin_country": "US"
+      },
+      {
+        "id": 5593,
+        "logo_path": null,
+        "name": "Gordon-Reynolds Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1978-05-10",
+    "revenue": 45000000,
+    "runtime": 100,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¿Hay risas antes de la muerte?",
+    "title": "De miedo también se muere",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 73,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16475,
+          "known_for_department": "Acting",
+          "name": "Burt Reynolds",
+          "original_name": "Burt Reynolds",
+          "popularity": 2.3275,
+          "profile_path": "/5FNuc4f1OR9EF9QcrcnFIr3zZQr.jpg",
+          "cast_id": 1,
+          "character": "Wendell Sonny Lawson",
+          "credit_id": "52fe45c49251416c9103db83",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6844,
+          "known_for_department": "Acting",
+          "name": "Dom DeLuise",
+          "original_name": "Dom DeLuise",
+          "popularity": 1.4446,
+          "profile_path": "/73OOTJaLVq54bEeR1pASfPQLbVH.jpg",
+          "cast_id": 2,
+          "character": "Marlon Borunki",
+          "credit_id": "52fe45c49251416c9103db87",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 35,
+          "known_for_department": "Acting",
+          "name": "Sally Field",
+          "original_name": "Sally Field",
+          "popularity": 3.5302,
+          "profile_path": "/iMeq1j9Xwvaf6PbTJ0FQz69fpuA.jpg",
+          "cast_id": 3,
+          "character": "Mary Ellen",
+          "credit_id": "52fe45c49251416c9103db8b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 8260,
+          "known_for_department": "Acting",
+          "name": "Strother Martin",
+          "original_name": "Strother Martin",
+          "popularity": 1.5628,
+          "profile_path": "/mHJudNvMY5eoFpDZmr3Xa2rqU93.jpg",
+          "cast_id": 4,
+          "character": "Dr. Waldo Kling",
+          "credit_id": "52fe45c49251416c9103db8f",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 15452,
+          "known_for_department": "Directing",
+          "name": "David Steinberg",
+          "original_name": "David Steinberg",
+          "popularity": 0.539,
+          "profile_path": "/zQ6hCCSmrzBTNYuaSE3TULljJyq.jpg",
+          "cast_id": 45,
+          "character": "Marty Lieberman",
+          "credit_id": "64218ded23be46007d54ba3a",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 109410,
+          "known_for_department": "Acting",
+          "name": "Joanne Woodward",
+          "original_name": "Joanne Woodward",
+          "popularity": 1.286,
+          "profile_path": "/exxVnvJM9oTT1zEjFhcEHidpQ6P.jpg",
+          "cast_id": 6,
+          "character": "Jessica Lawson",
+          "credit_id": "52fe45c49251416c9103db97",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14064,
+          "known_for_department": "Acting",
+          "name": "Norman Fell",
+          "original_name": "Norman Fell",
+          "popularity": 1.098,
+          "profile_path": "/uYYqgnea76B8pfFXlPJrmacCjHA.jpg",
+          "cast_id": 7,
+          "character": "Dr. Samuel Krugman",
+          "credit_id": "52fe45c49251416c9103db9b",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 13577,
+          "known_for_department": "Acting",
+          "name": "Myrna Loy",
+          "original_name": "Myrna Loy",
+          "popularity": 1.2643,
+          "profile_path": "/rNzjcOeTmJkyE8LMHdF3iYUCkPz.jpg",
+          "cast_id": 8,
+          "character": "Maureen Lawson",
+          "credit_id": "52fe45c49251416c9103db9f",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 42195,
+          "known_for_department": "Acting",
+          "name": "Kristy McNichol",
+          "original_name": "Kristy McNichol",
+          "popularity": 1.3892,
+          "profile_path": "/uRrj8mDbEWgTLElb1tWdFrzayN1.jpg",
+          "cast_id": 9,
+          "character": "Julie Lawson",
+          "credit_id": "52fe45c49251416c9103dba3",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3155,
+          "known_for_department": "Acting",
+          "name": "Pat O'Brien",
+          "original_name": "Pat O'Brien",
+          "popularity": 1.1166,
+          "profile_path": "/a2io08DZPKgsaM8p9So2LAHOiPn.jpg",
+          "cast_id": 10,
+          "character": "Ben Lawson",
+          "credit_id": "52fe45c49251416c9103dba7",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 15048,
+          "known_for_department": "Acting",
+          "name": "Robby Benson",
+          "original_name": "Robby Benson",
+          "popularity": 1.6766,
+          "profile_path": "/rYcDiM9LrStdlcb80N3WAR2CsHX.jpg",
+          "cast_id": 11,
+          "character": "Father Dave Benson",
+          "credit_id": "52fe45c49251416c9103dbab",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1895,
+          "known_for_department": "Acting",
+          "name": "Carl Reiner",
+          "original_name": "Carl Reiner",
+          "popularity": 0.9656,
+          "profile_path": "/hNZNrwU2qysa2ijndIgkd6yjSCt.jpg",
+          "cast_id": 12,
+          "character": "Dr. James Maneet",
+          "credit_id": "52fe45c49251416c9103dbaf",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 115035,
+          "known_for_department": "Acting",
+          "name": "Louise LeTourneau",
+          "original_name": "Louise LeTourneau",
+          "popularity": 0.192,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Receptionist",
+          "credit_id": "52fe45c49251416c9103dbb3",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 101974,
+          "known_for_department": "Acting",
+          "name": "Bill Ewing",
+          "original_name": "Bill Ewing",
+          "popularity": 0.4147,
+          "profile_path": "/bpvzpkggLb4jXTaOP4J5DWAYmDi.jpg",
+          "cast_id": 14,
+          "character": "Hearse Driver",
+          "credit_id": "52fe45c49251416c9103dbb7",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 95743,
+          "known_for_department": "Acting",
+          "name": "Robert Rothwell",
+          "original_name": "Robert Rothwell",
+          "popularity": 0.397,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Limousine Driver",
+          "credit_id": "52fe45c49251416c9103dbbb",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2395548,
+          "known_for_department": "Acting",
+          "name": "Patrick Moody",
+          "original_name": "Patrick Moody",
+          "popularity": 0.1102,
+          "profile_path": "/oTFkONiWHCafZ8g6i85gyaxKUtA.jpg",
+          "cast_id": 34,
+          "character": "Old Man's Son",
+          "credit_id": "6036571bafa1b00043a627ff",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 40185,
+          "known_for_department": "Acting",
+          "name": "James Best",
+          "original_name": "James Best",
+          "popularity": 0.9529,
+          "profile_path": "/HjGVYpDakPcAeUb0ASkO06pNIP.jpg",
+          "cast_id": 35,
+          "character": "Pacemaker Patient",
+          "credit_id": "6296c3989defda009c1d4b59",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 18894,
+          "known_for_department": "Acting",
+          "name": "Harry Caesar",
+          "original_name": "Harry Caesar",
+          "popularity": 0.5401,
+          "profile_path": "/2upPqqukRr1gI8OnRsS29fn9Sk9.jpg",
+          "cast_id": 36,
+          "character": "Hospital Orderly",
+          "credit_id": "6296c3fbfd140b00a718587e",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 67879,
+          "known_for_department": "Acting",
+          "name": "Peter Gonzales Falcon",
+          "original_name": "Peter Gonzales Falcon",
+          "popularity": 0.2778,
+          "profile_path": "/rYTnr4pBQOnKMp8ZmUv8otLxKdI.jpg",
+          "cast_id": 37,
+          "character": "Latin Lover (as Peter Gonzales)",
+          "credit_id": "6296c4bbfd6fa100666a8368",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 30516,
+          "known_for_department": "Acting",
+          "name": "Janice Carroll",
+          "original_name": "Janice Carroll",
+          "popularity": 0.3269,
+          "profile_path": null,
+          "cast_id": 38,
+          "character": "Ballet Teacher",
+          "credit_id": "6296c61aa44d090067be412f",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1735,
+          "known_for_department": "Acting",
+          "name": "Frank McRae",
+          "original_name": "Frank McRae",
+          "popularity": 0.7803,
+          "profile_path": "/5aGo82fuwSs1k9ZQckvdFGLjqPE.jpg",
+          "cast_id": 39,
+          "character": "Male Nurse",
+          "credit_id": "6296c667df86a834e236139f",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 92757,
+          "known_for_department": "Acting",
+          "name": "Alfie Wise",
+          "original_name": "Alfie Wise",
+          "popularity": 0.4662,
+          "profile_path": "/sq6JdWApV274Z9poLZaoqbwKB6V.jpg",
+          "cast_id": 40,
+          "character": "Male Nurse",
+          "credit_id": "6296c67ba44d0900a9911aab",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 164712,
+          "known_for_department": "Acting",
+          "name": "Jerry Fujikawa",
+          "original_name": "Jerry Fujikawa",
+          "popularity": 0.5372,
+          "profile_path": null,
+          "cast_id": 41,
+          "character": "Japanese Gardener",
+          "credit_id": "6296c72376eecf17210f2171",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 120010,
+          "known_for_department": "Acting",
+          "name": "Queenie Smith",
+          "original_name": "Queenie Smith",
+          "popularity": 0.9115,
+          "profile_path": "/tj4ksEG3D0njjxQrqGnU0bL7KtT.jpg",
+          "cast_id": 42,
+          "character": "Old Lady in Driving School Car",
+          "credit_id": "6296c7767e12f0004f444357",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1822894,
+          "known_for_department": "Acting",
+          "name": "Jean Coulter",
+          "original_name": "Jean Coulter",
+          "popularity": 0.2869,
+          "profile_path": null,
+          "cast_id": 43,
+          "character": "Driving School Instructor",
+          "credit_id": "6296c7886ee3d700a6179af5",
+          "order": 24
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29705,
+          "known_for_department": "Writing",
+          "name": "Jerry Belson",
+          "original_name": "Jerry Belson",
+          "popularity": 0.4173,
+          "profile_path": "/v5mOwOBPucOl0uDUjXJYSnpClw9.jpg",
+          "credit_id": "52fe45c49251416c9103dbd9",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 8847,
+          "known_for_department": "Editing",
+          "name": "Donn Cambern",
+          "original_name": "Donn Cambern",
+          "popularity": 0.3649,
+          "profile_path": null,
+          "credit_id": "52fe45c49251416c9103dbcd",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16475,
+          "known_for_department": "Acting",
+          "name": "Burt Reynolds",
+          "original_name": "Burt Reynolds",
+          "popularity": 2.3275,
+          "profile_path": "/5FNuc4f1OR9EF9QcrcnFIr3zZQr.jpg",
+          "credit_id": "52fe45c49251416c9103dbc1",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4056,
+          "known_for_department": "Camera",
+          "name": "Bobby Byrne",
+          "original_name": "Bobby Byrne",
+          "popularity": 0.2321,
+          "profile_path": null,
+          "credit_id": "569bd2c49251415e730002e7",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 35040,
+          "known_for_department": "Sound",
+          "name": "Paul Williams",
+          "original_name": "Paul Williams",
+          "popularity": 1.7051,
+          "profile_path": "/hfBFenLU5reDGVi4wiP5P1VcP3G.jpg",
+          "credit_id": "575c9e05c3a3683118000c36",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 40185,
+          "known_for_department": "Acting",
+          "name": "James Best",
+          "original_name": "James Best",
+          "popularity": 0.9529,
+          "profile_path": "/HjGVYpDakPcAeUb0ASkO06pNIP.jpg",
+          "credit_id": "575c9de9c3a36872ca000614",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12955,
+          "known_for_department": "Production",
+          "name": "Hank Moonjean",
+          "original_name": "Hank Moonjean",
+          "popularity": 0.3337,
+          "profile_path": null,
+          "credit_id": "575c9df99251412b0c000530",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 597,
+          "known_for_department": "Production",
+          "name": "Jane Feinberg",
+          "original_name": "Jane Feinberg",
+          "popularity": 0.4037,
+          "profile_path": null,
+          "credit_id": "575ca0b39251412ab000055d",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1093,
+          "known_for_department": "Production",
+          "name": "Lawrence Gordon",
+          "original_name": "Lawrence Gordon",
+          "popularity": 0.604,
+          "profile_path": "/jOZiaeFrl837bTO7wMdCNIaQSL.jpg",
+          "credit_id": "575c9df1c3a36872ca000619",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1162118,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Dorothy Byrne",
+          "original_name": "Dorothy Byrne",
+          "popularity": 0.2319,
+          "profile_path": null,
+          "credit_id": "575ca1f3c3a3683118000ca7",
+          "department": "Costume & Make-Up",
+          "job": "Hairstylist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14652,
+          "known_for_department": "Art",
+          "name": "John Franco Jr.",
+          "original_name": "John Franco Jr.",
+          "popularity": 0.1738,
+          "profile_path": null,
+          "credit_id": "575ca13cc3a36831a4000cfc",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 119770,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Tom Ellingwood",
+          "original_name": "Tom Ellingwood",
+          "popularity": 0.1884,
+          "profile_path": null,
+          "credit_id": "575ca20f9251412b680005e3",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 598,
+          "known_for_department": "Production",
+          "name": "Mike Fenton",
+          "original_name": "Mike Fenton",
+          "popularity": 0.4843,
+          "profile_path": "/oIKCBb2w47iZps9neDo2GY29g1y.jpg",
+          "credit_id": "575ca0cf925141786f000b48",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 119768,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Norman Salling",
+          "original_name": "Norman Salling",
+          "popularity": 0.3479,
+          "profile_path": null,
+          "credit_id": "575ca165c3a3683168000cd2",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 76160,
+          "known_for_department": "Production",
+          "name": "Mel Dellar",
+          "original_name": "Mel Dellar",
+          "popularity": 0.3055,
+          "profile_path": null,
+          "credit_id": "575ca352c3a36873a300066b",
+          "department": "Production",
+          "job": "Unit Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1186923,
+          "known_for_department": "Art",
+          "name": "Jan Scott",
+          "original_name": "Jan Scott",
+          "popularity": 0.1722,
+          "profile_path": null,
+          "credit_id": "575ca1139251412ab0000568",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 67767,
+          "known_for_department": "Acting",
+          "name": "Hal Needham",
+          "original_name": "Hal Needham",
+          "popularity": 1.1759,
+          "profile_path": "/9nObbakzuM5aeCMIgY5yRASnkNQ.jpg",
+          "credit_id": "642066582dc9dc00de0cd129",
+          "department": "Crew",
+          "job": "Stunt Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1404767,
+          "known_for_department": "Camera",
+          "name": "Robert C. Thomas",
+          "original_name": "Robert C. Thomas",
+          "popularity": 0.4732,
+          "profile_path": null,
+          "credit_id": "68c48bb1d8e8a98c5566f9c8",
+          "department": "Camera",
+          "job": "Camera Operator"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1979-02-15T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "de",
+              "note": "",
+              "release_date": "1978-11-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "TP",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1979-04-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "1978-05-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1979-04-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "R",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1978-05-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "JP",
+          "title": "ジ・エンド",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

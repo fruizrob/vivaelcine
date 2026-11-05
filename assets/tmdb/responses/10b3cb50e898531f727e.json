@@ -1,0 +1,97 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1023080?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:36.569Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1023080,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Way We See It",
+    "overview": "",
+    "popularity": 0.713,
+    "poster_path": "/qoM1dMArYWZA98mhYcezlf4DxJQ.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1969-01-01",
+    "revenue": 0,
+    "runtime": 59,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Way We See It",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1081486,
+          "known_for_department": "Directing",
+          "name": "Ed Pincus",
+          "original_name": "Ed Pincus",
+          "popularity": 0.2475,
+          "profile_path": "/24m0aUyeWTXmAtveXIXp9PMW2l1.jpg",
+          "credit_id": "631d4707c4f552007a5ba90a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1830806,
+          "known_for_department": "Directing",
+          "name": "David Neuman",
+          "original_name": "David Neuman",
+          "popularity": 0.5596,
+          "profile_path": null,
+          "credit_id": "631d47110d2f53007c6b9a6f",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-01-01T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

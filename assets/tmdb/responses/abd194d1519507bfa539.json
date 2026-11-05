@@ -1,0 +1,83 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1579328?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:25.038Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1579328,
+    "imdb_id": null,
+    "origin_country": [
+      "NL"
+    ],
+    "original_language": "nl",
+    "original_title": "The End",
+    "overview": "",
+    "popularity": 2.0051,
+    "poster_path": "/1oVpZU4jM1mdngpwfIiS0WsFbjP.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "release_date": "1981-01-01",
+    "revenue": 0,
+    "runtime": 2,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The End",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1311017,
+          "known_for_department": "Directing",
+          "name": "Gerrit van Dijk",
+          "original_name": "Gerrit van Dijk",
+          "popularity": 0.7753,
+          "profile_path": null,
+          "credit_id": "69144a5c104a5c0a2ddd2d24",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1981-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

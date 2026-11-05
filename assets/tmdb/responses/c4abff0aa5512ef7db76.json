@@ -1,0 +1,753 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/30858?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:35.815Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/fBqXHXBbPjfWLNQqOLxGQD9dhRz.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "id": 30858,
+    "imdb_id": "tt1234435",
+    "origin_country": [
+      "RU"
+    ],
+    "original_language": "ru",
+    "original_title": "Новая Земля",
+    "overview": "Año 2013. Tras ser abolida la pena de muerte, todas las cárceles del mundo se saturan, algo que provoca complicaciones para las autoridades. La solución que será mandar a los prisioneros a un lugar lejano",
+    "popularity": 1.6655,
+    "poster_path": "/2C3teMVei7vmWeslDJJ74mVl2dF.jpg",
+    "production_companies": [
+      {
+        "id": 11996,
+        "logo_path": null,
+        "name": "Andreevsky Flag Film Company",
+        "origin_country": "RU"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "RU",
+        "name": "Russia"
+      }
+    ],
+    "release_date": "2008-08-08",
+    "revenue": 0,
+    "runtime": 119,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra nova",
+    "video": false,
+    "vote_average": 5.791,
+    "vote_count": 55,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 68517,
+          "known_for_department": "Acting",
+          "name": "Константин Лавроненко",
+          "original_name": "Константин Лавроненко",
+          "popularity": 0.8638,
+          "profile_path": "/hKmuAKgNVpHkns7RYQik5Y8EFpa.jpg",
+          "cast_id": 2,
+          "character": "Zhilin",
+          "credit_id": "52fe44449251416c9100aab1",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 107153,
+          "known_for_department": "Acting",
+          "name": "Марат Башаров",
+          "original_name": "Марат Башаров",
+          "popularity": 0.6828,
+          "profile_path": "/3BJ79Ho3DkPefLQYh5nCOAJDj3M.jpg",
+          "cast_id": 4,
+          "character": "Tolya - Slesar",
+          "credit_id": "52fe44449251416c9100aab9",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 107151,
+          "known_for_department": "Acting",
+          "name": "Андрей Феськов",
+          "original_name": "Андрей Феськов",
+          "popularity": 0.6458,
+          "profile_path": "/aW7OvGNSt4MX2Jj2BCpgGWpiN3I.jpg",
+          "cast_id": 3,
+          "character": "Sipa",
+          "credit_id": "52fe44449251416c9100aab5",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 14593,
+          "known_for_department": "Acting",
+          "name": "Ingeborga Dapkūnaitė",
+          "original_name": "Ingeborga Dapkūnaitė",
+          "popularity": 1.4176,
+          "profile_path": "/epH5vef5Tm6b2VyU71KKCxw9tyd.jpg",
+          "cast_id": 5,
+          "character": "Marta",
+          "credit_id": "52fe44449251416c9100aabd",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 124756,
+          "known_for_department": "Acting",
+          "name": "Сергей Жигунов",
+          "original_name": "Сергей Жигунов",
+          "popularity": 0.6342,
+          "profile_path": "/p9Z5e8ivUkWY8c2s0RqDlgbB1IY.jpg",
+          "cast_id": 7,
+          "character": "Polkovnik",
+          "credit_id": "534402580e0a2679b1005a75",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 567579,
+          "known_for_department": "Acting",
+          "name": "Сергей Колтаков",
+          "original_name": "Сергей Колтаков",
+          "popularity": 0.7584,
+          "profile_path": "/i0NdmeRn4gMez8I6V6SnDuxLHc3.jpg",
+          "cast_id": 8,
+          "character": "Makhov",
+          "credit_id": "534402680e0a2679b1005a78",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 586607,
+          "known_for_department": "Acting",
+          "name": "Владислав Абашин",
+          "original_name": "Владислав Абашин",
+          "popularity": 0.6272,
+          "profile_path": "/fFGifewG5OuWTgb0Od99fPcQop4.jpg",
+          "cast_id": 9,
+          "character": "Arzhanov",
+          "credit_id": "566b132bc3a3683f56004996",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 584064,
+          "known_for_department": "Acting",
+          "name": "Павел Сборщиков",
+          "original_name": "Павел Сборщиков",
+          "popularity": 0.7029,
+          "profile_path": "/jh8PtgSrcmBNnOYE6B3tE89Ap3I.jpg",
+          "cast_id": 16,
+          "character": "Obezyan",
+          "credit_id": "569371f8c3a3684cfc00486f",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29838,
+          "known_for_department": "Acting",
+          "name": "Александр Самойленко",
+          "original_name": "Александр Самойленко",
+          "popularity": 0.8835,
+          "profile_path": "/udIlqbPuW7SNUHw0q6i6YYJkU2S.jpg",
+          "cast_id": 17,
+          "character": "Ali",
+          "credit_id": "56937274c3a36813d0001d95",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 8396,
+          "known_for_department": "Acting",
+          "name": "Tommy Lister Jr.",
+          "original_name": "Tommy Lister Jr.",
+          "popularity": 1.5187,
+          "profile_path": "/kHrfRLYyLhwfJEHHH8VNK9SyxpO.jpg",
+          "cast_id": 18,
+          "character": "Sewing Dude",
+          "credit_id": "5693729c9251414257001f84",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1561961,
+          "known_for_department": "Acting",
+          "name": "Evgeniy Titov",
+          "original_name": "Evgeniy Titov",
+          "popularity": 0.4467,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Moryak",
+          "credit_id": "569372cfc3a3684d010046a4",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1561963,
+          "known_for_department": "Acting",
+          "name": "Viktor Zhalsanov",
+          "original_name": "Viktor Zhalsanov",
+          "popularity": 0.1135,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Yakut",
+          "credit_id": "56937319c3a3684cf6004422",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1117921,
+          "known_for_department": "Acting",
+          "name": "Николай Стоцкий",
+          "original_name": "Николай Стоцкий",
+          "popularity": 0.8149,
+          "profile_path": "/ud9ZADcXXG3BpYOm6VThf1QM3cW.jpg",
+          "cast_id": 22,
+          "character": "Volynets",
+          "credit_id": "56937394c3a3684d04004817",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 582513,
+          "known_for_department": "Acting",
+          "name": "Игорь Письменный",
+          "original_name": "Игорь Письменный",
+          "popularity": 0.4224,
+          "profile_path": "/2AV5rlOcO8l4gABwX7LwirMFmgi.jpg",
+          "cast_id": 23,
+          "character": "Olafson",
+          "credit_id": "569373af9251414453001f1f",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1561964,
+          "known_for_department": "Acting",
+          "name": "Максим Макаров",
+          "original_name": "Максим Макаров",
+          "popularity": 0.5551,
+          "profile_path": "/aEmmoywqjWXcgrgNpL5ualRp41y.jpg",
+          "cast_id": 24,
+          "character": "Shram",
+          "credit_id": "569373c99251416b16001c0e",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1561965,
+          "known_for_department": "Acting",
+          "name": "Рамис Ибрагимов",
+          "original_name": "Рамис Ибрагимов",
+          "popularity": 0.3717,
+          "profile_path": "/AsES0fzqBDJapuw9fwOqesMjGQ.jpg",
+          "cast_id": 25,
+          "character": "Staryy chechen",
+          "credit_id": "569373e3c3a36813d0001dce",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 575113,
+          "known_for_department": "Acting",
+          "name": "Дмитрий Шаракоис",
+          "original_name": "Дмитрий Шаракоис",
+          "popularity": 0.6212,
+          "profile_path": "/n9yoBiP1gYONaUDZTXq11xf3Pbh.jpg",
+          "cast_id": 26,
+          "character": "Estonets",
+          "credit_id": "569373f99251414453001f2f",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1561967,
+          "known_for_department": "Acting",
+          "name": "Fariduntso Rakhmutaliev",
+          "original_name": "Fariduntso Rakhmutaliev",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 27,
+          "character": "Odnoglazyy chechen",
+          "credit_id": "569374159251416b16001c1e",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1561968,
+          "known_for_department": "Acting",
+          "name": "Андрей Ермохин",
+          "original_name": "Андрей Ермохин",
+          "popularity": 0.4614,
+          "profile_path": null,
+          "cast_id": 28,
+          "character": "Obezyanka",
+          "credit_id": "5693742b92514115ce004939",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1561969,
+          "known_for_department": "Acting",
+          "name": "Владимир Бадов",
+          "original_name": "Владимир Бадов",
+          "popularity": 0.2801,
+          "profile_path": "/ux8s3uRpKvMJUyNiaAGLBEBZuCt.jpg",
+          "cast_id": 29,
+          "character": "Chlen soveta",
+          "credit_id": "5693743f9251414257001fc1",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 34295,
+          "known_for_department": "Acting",
+          "name": "Kristian Kiehling",
+          "original_name": "Kristian Kiehling",
+          "popularity": 0.7978,
+          "profile_path": "/82QFNCjGawAenEsunWUqjacy1XS.jpg",
+          "cast_id": 30,
+          "character": "Lieutenant Anderson",
+          "credit_id": "56937463c3a36813d0001de8",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1561970,
+          "known_for_department": "Acting",
+          "name": "Evgeniy Cherkes",
+          "original_name": "Evgeniy Cherkes",
+          "popularity": 0.0975,
+          "profile_path": null,
+          "cast_id": 31,
+          "character": "Adam Bagiev",
+          "credit_id": "569374a5c3a3685c54001fb6",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1561971,
+          "known_for_department": "Acting",
+          "name": "Roman Plenkin",
+          "original_name": "Roman Plenkin",
+          "popularity": 0.1338,
+          "profile_path": null,
+          "cast_id": 32,
+          "character": "Marta's Assistant",
+          "credit_id": "569374bc92514115c2004376",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2858761,
+          "known_for_department": "Acting",
+          "name": "ზაზა ჭიჭინაძე",
+          "original_name": "ზაზა ჭიჭინაძე",
+          "popularity": 0.243,
+          "profile_path": "/3EjqgsUTG4hdwijuS3tAkM2QiyB.jpg",
+          "cast_id": 50,
+          "character": "Amurbek",
+          "credit_id": "699ade053a345804a080ebfb",
+          "order": 23
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 107149,
+          "known_for_department": "Directing",
+          "name": "Aleksandr Melnik",
+          "original_name": "Aleksandr Melnik",
+          "popularity": 0.1835,
+          "profile_path": null,
+          "credit_id": "52fe44449251416c9100aaad",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 145641,
+          "known_for_department": "Writing",
+          "name": "Ариф Алиев",
+          "original_name": "Ариф Алиев",
+          "popularity": 0.717,
+          "profile_path": "/8W6gWGyAeBP4BeQCRpEPlLslVnS.jpg",
+          "credit_id": "534402400e0a2679b1005a70",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1602644,
+          "known_for_department": "Sound",
+          "name": "Глеб Матвейчук",
+          "original_name": "Глеб Матвейчук",
+          "popularity": 0.3006,
+          "profile_path": "/24BQIr1VjvJs58sMSceneW0GNc1.jpg",
+          "credit_id": "6546bdd51ac2927b2c8036b3",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1561956,
+          "known_for_department": "Production",
+          "name": "Ирина Борисова",
+          "original_name": "Ирина Борисова",
+          "popularity": 0.4606,
+          "profile_path": "/j9AvSNLlitTmdDsPcKyZHj9RsUb.jpg",
+          "credit_id": "5693710fc3a3684d0100466a",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 73778,
+          "known_for_department": "Production",
+          "name": "Anton Melnik",
+          "original_name": "Anton Melnik",
+          "popularity": 0.1351,
+          "profile_path": null,
+          "credit_id": "569370f8c3a3684cff004499",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1561976,
+          "known_for_department": "Crew",
+          "name": "Alexandr Kaltakhchyan",
+          "original_name": "Alexandr Kaltakhchyan",
+          "popularity": 0.0959,
+          "profile_path": null,
+          "credit_id": "5693758ac3a3684cf80044f4",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1561975,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Гуля Бейшенова",
+          "original_name": "Гуля Бейшенова",
+          "popularity": 0.147,
+          "profile_path": null,
+          "credit_id": "569375499251414257001fe7",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1561957,
+          "known_for_department": "Production",
+          "name": "Леонид Петров",
+          "original_name": "Леонид Петров",
+          "popularity": 0.1414,
+          "profile_path": null,
+          "credit_id": "569371299251417095001ac6",
+          "department": "Production",
+          "job": "Line Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1561972,
+          "known_for_department": "Art",
+          "name": "Владимир Донсков",
+          "original_name": "Владимир Донсков",
+          "popularity": 0.2718,
+          "profile_path": "/qX6BtgFXs73cc9fQcET95dT7xVn.jpg",
+          "credit_id": "569374eac3a3684cfc0048d8",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1561974,
+          "known_for_department": "Art",
+          "name": "Vladimir Kasian",
+          "original_name": "Vladimir Kasian",
+          "popularity": 0.1062,
+          "profile_path": null,
+          "credit_id": "5693751192514115ce00495b",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1561954,
+          "known_for_department": "Sound",
+          "name": "Andrei Komissarov",
+          "original_name": "Andrei Komissarov",
+          "popularity": 0.1859,
+          "profile_path": null,
+          "credit_id": "569370a79251414453001eb1",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2373022,
+          "known_for_department": "Crew",
+          "name": "Дмитрий Тарасенко",
+          "original_name": "Дмитрий Тарасенко",
+          "popularity": 0.1711,
+          "profile_path": "/8WTv5TlrtUjUVmKqV4o3DbydAnb.jpg",
+          "credit_id": "6442c1f8e2bca80461437327",
+          "department": "Crew",
+          "job": "Stunt Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1938557,
+          "known_for_department": "Sound",
+          "name": "Дмитрий Назаров",
+          "original_name": "Дмитрий Назаров",
+          "popularity": 0.1591,
+          "profile_path": null,
+          "credit_id": "6442c1d5d35dea0481fb1215",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2299201,
+          "known_for_department": "Directing",
+          "name": "Максим Малинин",
+          "original_name": "Максим Малинин",
+          "popularity": 0.5628,
+          "profile_path": "/11lWaJOsuMt22F9D3aowFEoG53K.jpg",
+          "credit_id": "6442c1eafcec2e04e9d99e5c",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2779249,
+          "known_for_department": "Camera",
+          "name": "მიხაილ კვირიკაძე",
+          "original_name": "მიხაილ კვირიკაძე",
+          "popularity": 0.319,
+          "profile_path": null,
+          "credit_id": "6442c274e2bca8046143735b",
+          "department": "Camera",
+          "job": "Additional Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1176982,
+          "known_for_department": "Camera",
+          "name": "Александр Пушкин",
+          "original_name": "Александр Пушкин",
+          "popularity": 0.1823,
+          "profile_path": null,
+          "credit_id": "6442c282651fcf04b29cb4e7",
+          "department": "Camera",
+          "job": "Additional Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2579489,
+          "known_for_department": "Visual Effects",
+          "name": "Eduard Kargin",
+          "original_name": "Eduard Kargin",
+          "popularity": 0.1573,
+          "profile_path": null,
+          "credit_id": "6442c206b3f6f5049c9e12b2",
+          "department": "Visual Effects",
+          "job": "VFX Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3372438,
+          "known_for_department": "Production",
+          "name": "Anna Petelina",
+          "original_name": "Anna Petelina",
+          "popularity": 0.1051,
+          "profile_path": null,
+          "credit_id": "6442c239e2bca804df43772a",
+          "department": "Production",
+          "job": "Casting Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1561973,
+          "known_for_department": "Art",
+          "name": "Сергей Гудилин",
+          "original_name": "Сергей Гудилин",
+          "popularity": 0.1982,
+          "profile_path": null,
+          "credit_id": "5ac6453892514162b700ed40",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3240215,
+          "known_for_department": "Writing",
+          "name": "Yulia Pogrebnyak",
+          "original_name": "Yulia Pogrebnyak",
+          "popularity": 0.3226,
+          "profile_path": null,
+          "credit_id": "6491ec18263462012d4bee59",
+          "department": "Production",
+          "job": "Casting Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 145642,
+          "known_for_department": "Camera",
+          "name": "Илья Дёмин",
+          "original_name": "Илья Дёмин",
+          "popularity": 0.3187,
+          "profile_path": "/hUE1JcKYrHDH1Vq9jkhvDqYptO2.jpg",
+          "credit_id": "5decbefb32489b0016c15af9",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "19",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-03-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RU",
+          "release_dates": [
+            {
+              "certification": "18+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2008-08-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2008-10-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Island of the Condemned",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "RU",
+          "title": "Novaya Zemlya",
+          "type": "transliteration"
+        },
+        {
+          "iso_3166_1": "TW",
+          "title": "逃出冰魔岛",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "GB",
+          "title": "Terra Nova",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "KR",
+          "title": "테라 노바",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/191947?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:52.004Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 191947,
+    "imdb_id": "tt1614943",
+    "origin_country": [
+      "PT"
+    ],
+    "original_language": "pt",
+    "original_title": "48",
+    "overview": "",
+    "popularity": 0.5973,
+    "poster_path": "/7hwhI6NQ28Pewo7hTqAOhDfR60E.jpg",
+    "production_companies": [
+      {
+        "id": 114815,
+        "logo_path": null,
+        "name": "Kintop",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PT",
+        "name": "Portugal"
+      }
+    ],
+    "release_date": "2010-12-01",
+    "revenue": 0,
+    "runtime": 93,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "48",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 6,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1344584,
+          "known_for_department": "Directing",
+          "name": "Susana de Sousa Dias",
+          "original_name": "Susana de Sousa Dias",
+          "popularity": 0.5725,
+          "profile_path": null,
+          "credit_id": "53cd2ff2c3a3687764002b1a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1619764,
+          "known_for_department": "Sound",
+          "name": "Armanda Carvalho",
+          "original_name": "Armanda Carvalho",
+          "popularity": 0.2909,
+          "profile_path": null,
+          "credit_id": "6363988285867800828a6108",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1183164,
+          "known_for_department": "Sound",
+          "name": "Tiago Matos",
+          "original_name": "Tiago Matos",
+          "popularity": 0.3672,
+          "profile_path": null,
+          "credit_id": "5ef4cd06976a230033b5ea65",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1866809,
+          "known_for_department": "Sound",
+          "name": "António de Sousa Dias",
+          "original_name": "António de Sousa Dias",
+          "popularity": 0.2614,
+          "profile_path": null,
+          "credit_id": "5ef4cd11ec370c00342641b9",
+          "department": "Sound",
+          "job": "Sound Designer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-12-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

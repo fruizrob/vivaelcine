@@ -1,0 +1,1713 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/301351?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:47.733Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/bTme7w566uEyoJLR8gA1fwKsECY.jpg",
+    "belongs_to_collection": null,
+    "budget": 6000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 301351,
+    "imdb_id": "tt3787590",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "We Are Your Friends",
+    "overview": "La película sigue a un DJ joven tratando de triunfar en la industria musical. A través de los obstáculos que encuentra en su camino y con la influencia de un carismático productor musical, el aspirante a DJ se guía en el camino que lo lleva al éxito.",
+    "popularity": 4.8114,
+    "poster_path": "/70zeSSOVL1Ri1CJCmusLK81LoXQ.jpg",
+    "production_companies": [
+      {
+        "id": 10163,
+        "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+        "name": "Working Title",
+        "origin_country": "GB"
+      },
+      {
+        "id": 694,
+        "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+        "name": "StudioCanal",
+        "origin_country": "FR"
+      },
+      {
+        "id": 20664,
+        "logo_path": "/iRrZpxnYNDnVXJkr6HiLgSLlqRc.png",
+        "name": "Anton Capital Entertainment",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2015-08-26",
+    "revenue": 11100000,
+    "runtime": 96,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El mundo es nuestro",
+    "title": "We Are Your Friends",
+    "video": false,
+    "vote_average": 6.806,
+    "vote_count": 2517,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29222,
+          "known_for_department": "Acting",
+          "name": "Zac Efron",
+          "original_name": "Zac Efron",
+          "popularity": 4.4475,
+          "profile_path": "/pdWXP7XG6qqOoxoLid1DWYwmaMY.jpg",
+          "cast_id": 3,
+          "character": "Cole",
+          "credit_id": "551b745cc3a3687669001ce2",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 8210,
+          "known_for_department": "Acting",
+          "name": "Wes Bentley",
+          "original_name": "Wes Bentley",
+          "popularity": 3.5329,
+          "profile_path": "/voD93lzFZrr9xfAggwFcPRBi84i.jpg",
+          "cast_id": 6,
+          "character": "James",
+          "credit_id": "551b7471c3a3687670001a0e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1186505,
+          "known_for_department": "Acting",
+          "name": "Emily Ratajkowski",
+          "original_name": "Emily Ratajkowski",
+          "popularity": 1.4524,
+          "profile_path": "/1YngeK5Bbgw9bu6YG5ZgvCIo4ZX.jpg",
+          "cast_id": 4,
+          "character": "Sophie",
+          "credit_id": "551b7463c3a3687675001a55",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 928575,
+          "known_for_department": "Acting",
+          "name": "Jonny Weston",
+          "original_name": "Jonny Weston",
+          "popularity": 0.7353,
+          "profile_path": "/jfNlirPh9TrBRzo1LaCN4CGvLlK.jpg",
+          "cast_id": 29,
+          "character": "Mason",
+          "credit_id": "582933d79251417b1a033dfb",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 79795,
+          "known_for_department": "Acting",
+          "name": "Shiloh Fernandez",
+          "original_name": "Shiloh Fernandez",
+          "popularity": 2.4422,
+          "profile_path": "/ug0p4QtE1Am7JySNClm7u8iISOB.jpg",
+          "cast_id": 9,
+          "character": "Ollie",
+          "credit_id": "551b74889251414ae6001ace",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 564583,
+          "known_for_department": "Acting",
+          "name": "Alex Shaffer",
+          "original_name": "Alex Shaffer",
+          "popularity": 0.4287,
+          "profile_path": "/pBKCr71i3DFnW3qDOop6CVnvJNT.jpg",
+          "cast_id": 30,
+          "character": "Squirrel",
+          "credit_id": "58296051c3a3683606036ed2",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19498,
+          "known_for_department": "Acting",
+          "name": "Jon Bernthal",
+          "original_name": "Jon Bernthal",
+          "popularity": 9.4493,
+          "profile_path": "/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg",
+          "cast_id": 23,
+          "character": "Paige Morrell",
+          "credit_id": "55980b5a92514155d60000be",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 126875,
+          "known_for_department": "Acting",
+          "name": "Alicia Coppola",
+          "original_name": "Alicia Coppola",
+          "popularity": 1.9023,
+          "profile_path": "/mxbBP7Qig0iVOau1MU0LqXUzJZ9.jpg",
+          "cast_id": 31,
+          "character": "Mrs. Romero",
+          "credit_id": "582960f39251417b1803558d",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 104191,
+          "known_for_department": "Acting",
+          "name": "Wiley M. Pickett",
+          "original_name": "Wiley M. Pickett",
+          "popularity": 0.6263,
+          "profile_path": "/hedDJBu2ZpTw8EgEDWMW87kV138.jpg",
+          "cast_id": 32,
+          "character": "Carl",
+          "credit_id": "582961499251417b1d03421f",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17866,
+          "known_for_department": "Acting",
+          "name": "Jon Abrahams",
+          "original_name": "Jon Abrahams",
+          "popularity": 1.5376,
+          "profile_path": "/xeCJMATz4Dko8e9yEifGGh0LW91.jpg",
+          "cast_id": 13,
+          "character": "Nicky",
+          "credit_id": "5554978d9251410d77000efd",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 58045,
+          "known_for_department": "Acting",
+          "name": "Molly Hagan",
+          "original_name": "Molly Hagan",
+          "popularity": 1.372,
+          "profile_path": "/m5pL170dlh7ex4lTESAK5kKARde.jpg",
+          "cast_id": 28,
+          "character": "Francine",
+          "credit_id": "57dc7f03c3a368227f000d2f",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1708461,
+          "known_for_department": "Acting",
+          "name": "Brittany Furlan",
+          "original_name": "Brittany Furlan",
+          "popularity": 0.4857,
+          "profile_path": "/38hU7jVrct6ceUFCQoSHBERn5is.jpg",
+          "cast_id": 33,
+          "character": "Sara",
+          "credit_id": "582961db9251417b2c0343b6",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 52938,
+          "known_for_department": "Acting",
+          "name": "Vanessa Lengies",
+          "original_name": "Vanessa Lengies",
+          "popularity": 1.2836,
+          "profile_path": "/yqnNHJsTQGVlkSN5phh9QShoXTm.jpg",
+          "cast_id": 24,
+          "character": "Mel",
+          "credit_id": "55eeb676c3a3682c62019995",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1677399,
+          "known_for_department": "Acting",
+          "name": "Rebecca Forsythe",
+          "original_name": "Rebecca Forsythe",
+          "popularity": 0.4909,
+          "profile_path": "/qdU7Go4eZS2C2q8Tr7XJBhlBJvi.jpg",
+          "cast_id": 34,
+          "character": "Clarissa",
+          "credit_id": "582962ddc3a36836010310c4",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1708462,
+          "known_for_department": "Acting",
+          "name": "Joey Rudman",
+          "original_name": "Joey Rudman",
+          "popularity": 0.1722,
+          "profile_path": "/zybmPfhEAo5Px9XorO3APNunoHQ.jpg",
+          "cast_id": 35,
+          "character": "Joey",
+          "credit_id": "582963769251417b290350cf",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1486989,
+          "known_for_department": "Acting",
+          "name": "Kelsey Formost",
+          "original_name": "Kelsey Formost",
+          "popularity": 0.3536,
+          "profile_path": "/AAdZyu4nYqOe9rCr8AeSwRDoOA.jpg",
+          "cast_id": 36,
+          "character": "Rebecca",
+          "credit_id": "5829645ac3a36836010311a1",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1458116,
+          "known_for_department": "Acting",
+          "name": "Scarlett Benchley",
+          "original_name": "Scarlett Benchley",
+          "popularity": 0.2684,
+          "profile_path": null,
+          "cast_id": 37,
+          "character": "Mindy",
+          "credit_id": "58296517c3a368360103124e",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1528827,
+          "known_for_department": "Acting",
+          "name": "Devon Barnes",
+          "original_name": "Devon Barnes",
+          "popularity": 0.2797,
+          "profile_path": "/dWF1SFIToCyvQb07AaUQw6BDqCc.jpg",
+          "cast_id": 38,
+          "character": "Heather",
+          "credit_id": "58296573c3a368360b038cd9",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1585072,
+          "known_for_department": "Acting",
+          "name": "Rob Silverman",
+          "original_name": "Rob Silverman",
+          "popularity": 0.4636,
+          "profile_path": "/rBWemd3kPKGf3QwtJSBFIGm0HuC.jpg",
+          "cast_id": 26,
+          "character": "Valley Hater",
+          "credit_id": "56d5f4acc3a3681e3c019ed4",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1493433,
+          "known_for_department": "Acting",
+          "name": "Timothy Granaderos",
+          "original_name": "Timothy Granaderos",
+          "popularity": 0.5635,
+          "profile_path": "/1tHaLzqyEb8yBsS1xGufMgfRWHV.jpg",
+          "cast_id": 39,
+          "character": "Preppy Guy",
+          "credit_id": "582966509251417b18035998",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1708464,
+          "known_for_department": "Acting",
+          "name": "Raleigh Adams",
+          "original_name": "Raleigh Adams",
+          "popularity": 0.2201,
+          "profile_path": null,
+          "cast_id": 40,
+          "character": "Preppy Guy",
+          "credit_id": "582967559251417b26036d4e",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1708465,
+          "known_for_department": "Acting",
+          "name": "Kerry Stein",
+          "original_name": "Kerry Stein",
+          "popularity": 0.2769,
+          "profile_path": null,
+          "cast_id": 41,
+          "character": "Rabbi",
+          "credit_id": "582967cec3a368623f010be4",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1607789,
+          "known_for_department": "Acting",
+          "name": "Ayden Mayeri",
+          "original_name": "Ayden Mayeri",
+          "popularity": 1.0248,
+          "profile_path": "/flGkyVFmK5HFFuk7PBCmbavZtLl.jpg",
+          "cast_id": 42,
+          "character": "Rich Girl",
+          "credit_id": "58296881c3a3683614034212",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1350469,
+          "known_for_department": "Acting",
+          "name": "Andrew Bachelor",
+          "original_name": "Andrew Bachelor",
+          "popularity": 1.7697,
+          "profile_path": "/dReXjimiVOydELw2ASQwRcStkbo.jpg",
+          "cast_id": 43,
+          "character": "King Bach",
+          "credit_id": "582969109251417b26036eb8",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1708470,
+          "known_for_department": "Acting",
+          "name": "Dillon Francis",
+          "original_name": "Dillon Francis",
+          "popularity": 0.2966,
+          "profile_path": "/azT4pxNhmdejholegI41Undt7y9.jpg",
+          "cast_id": 44,
+          "character": "Devin Andrews",
+          "credit_id": "582969709251417b26036f08",
+          "order": 24
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2663733,
+          "known_for_department": "Acting",
+          "name": "Casey James",
+          "original_name": "Casey James",
+          "popularity": 0.1858,
+          "profile_path": null,
+          "cast_id": 49,
+          "character": "Bartender",
+          "credit_id": "5ed6cae5fea0d7001f8b386f",
+          "order": 25
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2663740,
+          "known_for_department": "Acting",
+          "name": "Desi Jevon",
+          "original_name": "Desi Jevon",
+          "popularity": 0.2766,
+          "profile_path": null,
+          "cast_id": 50,
+          "character": "Dancer #1",
+          "credit_id": "5ed6cb63a5046e0022ffb493",
+          "order": 26
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2663741,
+          "known_for_department": "Acting",
+          "name": "Ragon Miller",
+          "original_name": "Ragon Miller",
+          "popularity": 0.2195,
+          "profile_path": null,
+          "cast_id": 51,
+          "character": "Dancer #2",
+          "credit_id": "5ed6cb6fc4f552001ebf698b",
+          "order": 27
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1525940,
+          "known_for_department": "Acting",
+          "name": "Miranda Rae Mayo",
+          "original_name": "Miranda Rae Mayo",
+          "popularity": 1.7228,
+          "profile_path": "/dvCagUBHBNGwsozC8KS3tFPtCcj.jpg",
+          "cast_id": 25,
+          "character": "Courtney (uncredited)",
+          "credit_id": "562a4016c3a3681b6100236b",
+          "order": 28
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1257828,
+          "known_for_department": "Acting",
+          "name": "Nēv Schulman",
+          "original_name": "Nēv Schulman",
+          "popularity": 0.3584,
+          "profile_path": "/yk7Lx1cZjF2f7TLEsm5MFRs87OX.jpg",
+          "cast_id": 27,
+          "character": "Party Guest (uncredited)",
+          "credit_id": "56e6b494c3a3685a9000ad38",
+          "order": 29
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2003940,
+          "known_for_department": "Acting",
+          "name": "Daniel Pinder",
+          "original_name": "Daniel Pinder",
+          "popularity": 0.2245,
+          "profile_path": null,
+          "cast_id": 45,
+          "character": "The Skater (uncredited)",
+          "credit_id": "5ab23306c3a3681cff005d53",
+          "order": 30
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2045018,
+          "known_for_department": "Acting",
+          "name": "Jordan Frank",
+          "original_name": "Jordan Frank",
+          "popularity": 0.2341,
+          "profile_path": null,
+          "cast_id": 46,
+          "character": "Party Goer (uncredited)",
+          "credit_id": "5afe48f80e0a2624690031e3",
+          "order": 31
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1361123,
+          "known_for_department": "Acting",
+          "name": "Alesso",
+          "original_name": "Alesso",
+          "popularity": 0.2912,
+          "profile_path": null,
+          "cast_id": 48,
+          "character": "Man Replacing Cole at the Pool Party (uncredited)",
+          "credit_id": "5df55f9b26dac10012503d89",
+          "order": 32
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2439603,
+          "known_for_department": "Acting",
+          "name": "Nicky Romero",
+          "original_name": "Nicky Romero",
+          "popularity": 0.4258,
+          "profile_path": "/pmO3x6CbdfzSl3Fvoq1opIh8Rgx.jpg",
+          "cast_id": 52,
+          "character": "Self (uncredited)",
+          "credit_id": "5ed6cc198ddc34001fd9480d",
+          "order": 33
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1590225,
+          "known_for_department": "Acting",
+          "name": "Chiara Aurelia",
+          "original_name": "Chiara Aurelia",
+          "popularity": 1.2096,
+          "profile_path": "/p0pKPznL6pJ2PlKIarLMrXjCvNF.jpg",
+          "cast_id": 53,
+          "character": "Kayli (uncredited)",
+          "credit_id": "5ed6cef38ddc34001fd94c9c",
+          "order": 34
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1553098,
+          "known_for_department": "Acting",
+          "name": "Tara Beaulieu",
+          "original_name": "Tara Beaulieu",
+          "popularity": 0.1614,
+          "profile_path": null,
+          "cast_id": 54,
+          "character": "Natasha (uncredited)",
+          "credit_id": "5ed6cf34fea0d7001e8d4243",
+          "order": 35
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1487024,
+          "known_for_department": "Acting",
+          "name": "Becktoria",
+          "original_name": "Becktoria",
+          "popularity": 0.2509,
+          "profile_path": "/sUBrZXnln0DTdN2JbXcPXV4IZk4.jpg",
+          "cast_id": 55,
+          "character": "College Party Girl (uncredited)",
+          "credit_id": "5ed6cf84528b2e001e6d5fd5",
+          "order": 36
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2550554,
+          "known_for_department": "Acting",
+          "name": "Marissa Braun",
+          "original_name": "Marissa Braun",
+          "popularity": 0.1886,
+          "profile_path": null,
+          "cast_id": 57,
+          "character": "Groupie (uncredited)",
+          "credit_id": "5ed6cfdafea0d7001e8d439d",
+          "order": 37
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 430313,
+          "known_for_department": "Acting",
+          "name": "Jan Broberg Felt",
+          "original_name": "Jan Broberg Felt",
+          "popularity": 0.6539,
+          "profile_path": "/i95ZRATxgcXzcpbqQNM7O6c8zpG.jpg",
+          "cast_id": 58,
+          "character": "Sandra (uncredited)",
+          "credit_id": "5ed6cff921c4ca0020e956ac",
+          "order": 38
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1823536,
+          "known_for_department": "Acting",
+          "name": "Mike Carlucci",
+          "original_name": "Mike Carlucci",
+          "popularity": 0.367,
+          "profile_path": "/s1fgZ3NHgCsCBAiXElscCEFDjh0.jpg",
+          "cast_id": 59,
+          "character": "Smoker (uncredited)",
+          "credit_id": "5ed6d01d21c4ca0021e5142a",
+          "order": 39
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1899988,
+          "known_for_department": "Acting",
+          "name": "Giselle DaMier",
+          "original_name": "Giselle DaMier",
+          "popularity": 0.1818,
+          "profile_path": "/zwBPoBx0fKRyowNVX6gUBQvrSB0.jpg",
+          "cast_id": 61,
+          "character": "Student (uncredited)",
+          "credit_id": "5ed6d03efea0d7001f8b3b2f",
+          "order": 40
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2246164,
+          "known_for_department": "Acting",
+          "name": "Shahine Ezell",
+          "original_name": "Shahine Ezell",
+          "popularity": 0.4392,
+          "profile_path": null,
+          "cast_id": 62,
+          "character": "Tim (uncredited)",
+          "credit_id": "5ed6d05ce4b576002035ba2e",
+          "order": 41
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1619944,
+          "known_for_department": "Acting",
+          "name": "Paige Flannery",
+          "original_name": "Paige Flannery",
+          "popularity": 0.1857,
+          "profile_path": null,
+          "cast_id": 63,
+          "character": "Waitress (uncredited)",
+          "credit_id": "5ed6d07021c4ca0020e95711",
+          "order": 42
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2334364,
+          "known_for_department": "Acting",
+          "name": "Lee Anne Ford",
+          "original_name": "Lee Anne Ford",
+          "popularity": 0.1118,
+          "profile_path": null,
+          "cast_id": 80,
+          "character": "Festival Goer (uncredited)",
+          "credit_id": "5ed721a11b157d001f5949bb",
+          "order": 43
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1660249,
+          "known_for_department": "Acting",
+          "name": "Martavious Gayles",
+          "original_name": "Martavious Gayles",
+          "popularity": 0.2103,
+          "profile_path": null,
+          "cast_id": 81,
+          "character": "Hipster (uncredited)",
+          "credit_id": "5ed721dcfea0d7001e8dbf58",
+          "order": 44
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1039120,
+          "known_for_department": "Acting",
+          "name": "Matthew Gittelson",
+          "original_name": "Matthew Gittelson",
+          "popularity": 0.1506,
+          "profile_path": null,
+          "cast_id": 82,
+          "character": "Club Member (uncredited)",
+          "credit_id": "5ed721f21b157d001f594a27",
+          "order": 45
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1376001,
+          "known_for_department": "Acting",
+          "name": "Tina Grimm",
+          "original_name": "Tina Grimm",
+          "popularity": 0.9432,
+          "profile_path": "/utRFgwBWqyM2k4nMki9F15hFOeS.jpg",
+          "cast_id": 83,
+          "character": "Club Patron / Dancer (uncredited)",
+          "credit_id": "5ed72212e4b576001e337b2d",
+          "order": 46
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1446834,
+          "known_for_department": "Acting",
+          "name": "Jodi Carol Harrison",
+          "original_name": "Jodi Carol Harrison",
+          "popularity": 0.4268,
+          "profile_path": "/AacGBoS8seafvFhO0qX3r4MHOTg.jpg",
+          "cast_id": 84,
+          "character": "Paige's Secretary (uncredited)",
+          "credit_id": "5ed72258528b2e00207296ac",
+          "order": 47
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1947178,
+          "known_for_department": "Acting",
+          "name": "Rhianna Jagpal",
+          "original_name": "Rhianna Jagpal",
+          "popularity": 0.3429,
+          "profile_path": "/huIQWW5YDA6oTCypTrlcjoAMNrr.jpg",
+          "cast_id": 85,
+          "character": "Squirrel's Friend (uncredited)",
+          "credit_id": "5ed72262fea0d7001f8b8d45",
+          "order": 48
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1647180,
+          "known_for_department": "Acting",
+          "name": "Casey Larios",
+          "original_name": "Casey Larios",
+          "popularity": 0.214,
+          "profile_path": "/qwPWqTXXG6yicY6JmNiBgZqmz27.jpg",
+          "cast_id": 86,
+          "character": "Dancer (uncredited)",
+          "credit_id": "5ed72287fea0d7001f8b8d8c",
+          "order": 49
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1510861,
+          "known_for_department": "Acting",
+          "name": "Jolyne Lowery",
+          "original_name": "Jolyne Lowery",
+          "popularity": 0.193,
+          "profile_path": "/97GKL15JZbXwyAT6qNZMfy68g6K.jpg",
+          "cast_id": 87,
+          "character": "Cute Girl (uncredited)",
+          "credit_id": "5ed7229ffea0d7001e8dc07d",
+          "order": 50
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2563357,
+          "known_for_department": "Acting",
+          "name": "Chris McKernan",
+          "original_name": "Chris McKernan",
+          "popularity": 0.2567,
+          "profile_path": null,
+          "cast_id": 88,
+          "character": "House Party Guest (uncredited)",
+          "credit_id": "5ed722ae21c4ca0020e9d9a7",
+          "order": 51
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1510862,
+          "known_for_department": "Acting",
+          "name": "Anna McNiven",
+          "original_name": "Anna McNiven",
+          "popularity": 0.8608,
+          "profile_path": null,
+          "cast_id": 89,
+          "character": "Dancer (uncredited)",
+          "credit_id": "5ed722b61b157d002054d510",
+          "order": 52
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1459149,
+          "known_for_department": "Acting",
+          "name": "Lauryn Morse",
+          "original_name": "Lauryn Morse",
+          "popularity": 0.1835,
+          "profile_path": null,
+          "cast_id": 90,
+          "character": "Art Gallery Guest (uncredited)",
+          "credit_id": "5ed722d521c4ca0020e9da23",
+          "order": 53
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1530989,
+          "known_for_department": "Acting",
+          "name": "Laura Oceane",
+          "original_name": "Laura Oceane",
+          "popularity": 0.1649,
+          "profile_path": null,
+          "cast_id": 91,
+          "character": "Festival Girl (uncredited)",
+          "credit_id": "5ed722defea0d7001e8dc0d4",
+          "order": 54
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1525561,
+          "known_for_department": "Acting",
+          "name": "Jonny Ortiz",
+          "original_name": "Jonny Ortiz",
+          "popularity": 0.1224,
+          "profile_path": null,
+          "cast_id": 92,
+          "character": "Cholo (uncredited)",
+          "credit_id": "5ed722e6c4f552001dbeb7bf",
+          "order": 55
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1590739,
+          "known_for_department": "Acting",
+          "name": "Veronica Parks",
+          "original_name": "Veronica Parks",
+          "popularity": 0.206,
+          "profile_path": null,
+          "cast_id": 93,
+          "character": "Bartender (uncredited)",
+          "credit_id": "5ed722f7528b2e0020729745",
+          "order": 56
+        },
+        {
+          "adult": true,
+          "gender": 1,
+          "id": 1175215,
+          "known_for_department": "Acting",
+          "name": "Diana Prince",
+          "original_name": "Diana Prince",
+          "popularity": 0,
+          "profile_path": "/yYv9WwSUBSayaL4z2tzwuwOQwES.jpg",
+          "cast_id": 94,
+          "character": "Stripper (uncredited)",
+          "credit_id": "5ed7235bfea0d7001e8dc1ad",
+          "order": 57
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2634594,
+          "known_for_department": "Acting",
+          "name": "Arielle Raycene",
+          "original_name": "Arielle Raycene",
+          "popularity": 0.4206,
+          "profile_path": "/nhCNfUJzAP74KHWc1ZCDnbks8w8.jpg",
+          "cast_id": 95,
+          "character": "Tan Girl (uncredited)",
+          "credit_id": "5ed7237e1b157d001e568cd9",
+          "order": 58
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1169764,
+          "known_for_department": "Acting",
+          "name": "Korrina Rico",
+          "original_name": "Korrina Rico",
+          "popularity": 0.5662,
+          "profile_path": "/8YjcDzifQr6n00oLR0qtXv6vyxM.jpg",
+          "cast_id": 96,
+          "character": "Crystal (uncredited)",
+          "credit_id": "5ed7238ce4b5760020365b29",
+          "order": 59
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1686425,
+          "known_for_department": "Acting",
+          "name": "Brittany Riley",
+          "original_name": "Brittany Riley",
+          "popularity": 0.1234,
+          "profile_path": null,
+          "cast_id": 97,
+          "character": "U5 (uncredited)",
+          "credit_id": "5ed723abfea0d7001e8dc261",
+          "order": 60
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1520074,
+          "known_for_department": "Acting",
+          "name": "Alex Roth",
+          "original_name": "Alex Roth",
+          "popularity": 0.1551,
+          "profile_path": null,
+          "cast_id": 98,
+          "character": "Festival Groupie (uncredited)",
+          "credit_id": "5ed723e21b157d001e568d1a",
+          "order": 61
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1449067,
+          "known_for_department": "Acting",
+          "name": "Gus Sanchez",
+          "original_name": "Gus Sanchez",
+          "popularity": 0.2067,
+          "profile_path": "/ebJHZTR6wP6canGnmDL2ZimLCsI.jpg",
+          "cast_id": 99,
+          "character": "Club Patron (uncredited)",
+          "credit_id": "5ed723f021c4ca0021e567fb",
+          "order": 62
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1855152,
+          "known_for_department": "Writing",
+          "name": "Brian Swinehart",
+          "original_name": "Brian Swinehart",
+          "popularity": 0.275,
+          "profile_path": null,
+          "cast_id": 100,
+          "character": "Music Producer (uncredited)",
+          "credit_id": "5ed7241b8ddc34001fd9a82a",
+          "order": 63
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2664000,
+          "known_for_department": "Acting",
+          "name": "Tuesday Thomas",
+          "original_name": "Tuesday Thomas",
+          "popularity": 0.1653,
+          "profile_path": "/pEGXzX0NxhczFpy5Gk1xdv7lBcB.jpg",
+          "cast_id": 101,
+          "character": "Hooker (uncredited)",
+          "credit_id": "5ed72439528b2e001e6dbd40",
+          "order": 64
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2018466,
+          "known_for_department": "Acting",
+          "name": "Gordon Vasquez",
+          "original_name": "Gordon Vasquez",
+          "popularity": 0.2151,
+          "profile_path": null,
+          "cast_id": 103,
+          "character": "Strip Bar Patron (uncredited)",
+          "credit_id": "5ed7245e21c4ca0020e9dd33",
+          "order": 65
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2743690,
+          "known_for_department": "Acting",
+          "name": "Madison Rose",
+          "original_name": "Madison Rose",
+          "popularity": 0.1225,
+          "profile_path": null,
+          "cast_id": 104,
+          "character": "Party Girl / Girl in Pool (uncredited)",
+          "credit_id": "5f38b453519bbb003471162b",
+          "order": 66
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1257827,
+          "known_for_department": "Directing",
+          "name": "Max Joseph",
+          "original_name": "Max Joseph",
+          "popularity": 0.5262,
+          "profile_path": "/vXxVdRPGLiSqC2wv5pGoXPYGwo8.jpg",
+          "credit_id": "551b742c9251414ae40019c6",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1257827,
+          "known_for_department": "Directing",
+          "name": "Max Joseph",
+          "original_name": "Max Joseph",
+          "popularity": 0.5262,
+          "profile_path": "/vXxVdRPGLiSqC2wv5pGoXPYGwo8.jpg",
+          "credit_id": "551b743f9251414af90019c6",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1023389,
+          "known_for_department": "Writing",
+          "name": "Meaghan Oppenheimer",
+          "original_name": "Meaghan Oppenheimer",
+          "popularity": 0.4327,
+          "profile_path": null,
+          "credit_id": "551b744cc3a368766c001bc0",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2238,
+          "known_for_department": "Production",
+          "name": "Eric Fellner",
+          "original_name": "Eric Fellner",
+          "popularity": 0.5923,
+          "profile_path": "/8fEalki5uMWg97FVDk3l2kvf2Dt.jpg",
+          "credit_id": "555f5238c3a36868e9002ded",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2236,
+          "known_for_department": "Production",
+          "name": "Tim Bevan",
+          "original_name": "Tim Bevan",
+          "popularity": 1.6033,
+          "profile_path": "/nyeqZJr6QVwD3iuLgK5vRgIdcmP.jpg",
+          "credit_id": "555f521c9251416f69000e38",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1182914,
+          "known_for_department": "Editing",
+          "name": "Terel Gibson",
+          "original_name": "Terel Gibson",
+          "popularity": 0.2494,
+          "profile_path": null,
+          "credit_id": "555f527f9251417e5c002d71",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2663991,
+          "known_for_department": "Sound",
+          "name": "Matthew Simpson",
+          "original_name": "Matthew Simpson",
+          "popularity": 0.1119,
+          "profile_path": null,
+          "credit_id": "665bbdada13676449c0737cc",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1194884,
+          "known_for_department": "Camera",
+          "name": "Brett Pawlak",
+          "original_name": "Brett Pawlak",
+          "popularity": 0.7481,
+          "profile_path": "/xniQZetW2xYTmI655h4HPAV6412.jpg",
+          "credit_id": "5c0e901dc3a368252d0c970c",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 51737,
+          "known_for_department": "Production",
+          "name": "David Diliberto",
+          "original_name": "David Diliberto",
+          "popularity": 0.2839,
+          "profile_path": null,
+          "credit_id": "5ed71fbc1b157d001f5945ad",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2663986,
+          "known_for_department": "Production",
+          "name": "Richard Silverman",
+          "original_name": "Richard Silverman",
+          "popularity": 0.2535,
+          "profile_path": null,
+          "credit_id": "5ed71f711b157d002054d17e",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 969757,
+          "known_for_department": "Production",
+          "name": "Ron Halpern",
+          "original_name": "Ron Halpern",
+          "popularity": 1.1115,
+          "profile_path": "/ewZv44iIxX763TVWH9cPEjY0l9F.jpg",
+          "credit_id": "5ed71fc98ddc340021da690f",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2907656,
+          "known_for_department": "Art",
+          "name": "Siobhan O'Brien",
+          "original_name": "Siobhan O'Brien",
+          "popularity": 0.1438,
+          "profile_path": null,
+          "credit_id": "5ed720c68ddc340020d8f4aa",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 968632,
+          "known_for_department": "Production",
+          "name": "Olivier Courson",
+          "original_name": "Olivier Courson",
+          "popularity": 0.2191,
+          "profile_path": null,
+          "credit_id": "5ed71fb0c4f552001fc1395d",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1155578,
+          "known_for_department": "Art",
+          "name": "Maya Sigel",
+          "original_name": "Maya Sigel",
+          "popularity": 0.2501,
+          "profile_path": null,
+          "credit_id": "5ed720b01b157d001e5687f9",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 236608,
+          "known_for_department": "Production",
+          "name": "Nicole Daniels",
+          "original_name": "Nicole Daniels",
+          "popularity": 0.3425,
+          "profile_path": "/wVSqhfnZ5TcQWGbwlucsh3dyQMJ.jpg",
+          "credit_id": "5ed720a5e4b5760020365370",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1313484,
+          "known_for_department": "Production",
+          "name": "Courtney Bright",
+          "original_name": "Courtney Bright",
+          "popularity": 0.3409,
+          "profile_path": "/vrzuHEv2dKd3aPZobsfk1bRE72f.jpg",
+          "credit_id": "5ed7209a8ddc340021da6b50",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 84181,
+          "known_for_department": "Art",
+          "name": "Shannon Kemp",
+          "original_name": "Shannon Kemp",
+          "popularity": 0.2892,
+          "profile_path": null,
+          "credit_id": "5ed720bbfea0d7001d8a0ef0",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2396819,
+          "known_for_department": "Production",
+          "name": "Johanna Byer",
+          "original_name": "Johanna Byer",
+          "popularity": 0.2126,
+          "profile_path": "/aLkfYG3MxbQKOWNxBRH5lJGVolx.jpg",
+          "credit_id": "5ed71f8dfea0d7001e8dba4b",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 9151,
+          "known_for_department": "Production",
+          "name": "Liza Chasin",
+          "original_name": "Liza Chasin",
+          "popularity": 0.383,
+          "profile_path": "/iJkKX90zt0VD96ZASdxcaMNrcOi.jpg",
+          "credit_id": "5ed71fa221c4ca0021e56200",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 51737,
+          "known_for_department": "Production",
+          "name": "David Diliberto",
+          "original_name": "David Diliberto",
+          "popularity": 0.2839,
+          "profile_path": null,
+          "credit_id": "5ed72083e4b5760020365335",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1351242,
+          "known_for_department": "Production",
+          "name": "Nathan Kelly",
+          "original_name": "Nathan Kelly",
+          "popularity": 0.2647,
+          "profile_path": "/yWJhryxSZXsmQ9baeXl1ocw9b82.jpg",
+          "credit_id": "5ed720048ddc340021da69e9",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2663986,
+          "known_for_department": "Production",
+          "name": "Richard Silverman",
+          "original_name": "Richard Silverman",
+          "popularity": 0.2535,
+          "profile_path": null,
+          "credit_id": "5ed7204921c4ca0020e9d3f9",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1493964,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Christie Wittenborn",
+          "original_name": "Christie Wittenborn",
+          "popularity": 0.2519,
+          "profile_path": null,
+          "credit_id": "5ed720d2528b2e0020729487",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1450831,
+          "known_for_department": "Crew",
+          "name": "Paul Lacovara",
+          "original_name": "Paul Lacovara",
+          "popularity": 0.4096,
+          "profile_path": "/nqxEKqYKS4RJGgvDUuECr9HSGDD.jpg",
+          "credit_id": "677a2b14a6def0111a748d89",
+          "department": "Crew",
+          "job": "Stunt Double"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2721982,
+          "known_for_department": "Editing",
+          "name": "Kathryn Prescott",
+          "original_name": "Kathryn Prescott",
+          "popularity": 0.1846,
+          "profile_path": null,
+          "credit_id": "68404213bf4a0f67e668a8f4",
+          "department": "Editing",
+          "job": "First Assistant Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1194888,
+          "known_for_department": "Camera",
+          "name": "Chris Arata",
+          "original_name": "Chris Arata",
+          "popularity": 0.3269,
+          "profile_path": "/eocao9pbzvOCt3j2gAz7SWsj67m.jpg",
+          "credit_id": "685f178d3c41a263554d175f",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1351242,
+          "known_for_department": "Production",
+          "name": "Nathan Kelly",
+          "original_name": "Nathan Kelly",
+          "popularity": 0.2647,
+          "profile_path": "/yWJhryxSZXsmQ9baeXl1ocw9b82.jpg",
+          "credit_id": "691ce975481fe04623110ccf",
+          "department": "Production",
+          "job": "Unit Production Manager"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-10-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "MA15+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-08-27T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BG",
+          "release_dates": [
+            {
+              "certification": "C",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-09-04T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-10-15T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-08-27T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-08-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-08-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-09-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-09-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IE",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-08-27T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-09-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "PG12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2016-06-24T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "19",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-11-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "LT",
+          "release_dates": [
+            {
+              "certification": "N-16",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2015-08-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-08-27T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-08-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-08-27T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-08-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-08-28T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-08-27T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SE",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-10-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-09-24T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "R",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-08-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "CN",
+          "title": "音浪青春",
+          "type": "台译"
+        },
+        {
+          "iso_3166_1": "CN",
+          "title": "爆BEAT同盟",
+          "type": "港译"
+        },
+        {
+          "iso_3166_1": "MX",
+          "title": "Musica, Amigos y Fiesta",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

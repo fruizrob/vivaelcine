@@ -1,0 +1,306 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1812553?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:01.396Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1812553,
+    "imdb_id": null,
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Unboxing",
+    "overview": "",
+    "popularity": 0.462,
+    "poster_path": "/lesxQ2hxODgq8IMZbFzWgZvP2nb.jpg",
+    "production_companies": [
+      {
+        "id": 316330,
+        "logo_path": null,
+        "name": "Quadricolore",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2026-11-08",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Unboxing",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6587082,
+          "known_for_department": "Acting",
+          "name": "Emilie Azou",
+          "original_name": "Emilie Azou",
+          "popularity": 0.0552,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Morgane",
+          "credit_id": "6ae487e4dbada81cfbf177be",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6122088,
+          "known_for_department": "Acting",
+          "name": "Simon Dubois",
+          "original_name": "Simon Dubois",
+          "popularity": 0.3946,
+          "profile_path": "/jHet4uYNMOHz13Q9G8D09txcYQ0.jpg",
+          "cast_id": 2,
+          "character": "Cédric",
+          "credit_id": "6ae487feef973dbcf83d282d",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1634090,
+          "known_for_department": "Camera",
+          "name": "Alexandre Gouveia",
+          "original_name": "Alexandre Gouveia",
+          "popularity": 0.1545,
+          "profile_path": null,
+          "credit_id": "6ae4884afe60658e0231fc7c",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1634090,
+          "known_for_department": "Camera",
+          "name": "Alexandre Gouveia",
+          "original_name": "Alexandre Gouveia",
+          "popularity": 0.1545,
+          "profile_path": null,
+          "credit_id": "6ae48860097ba6c52231fa53",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5095040,
+          "known_for_department": "Camera",
+          "name": "Tomy Cadic",
+          "original_name": "Tomy Cadic",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6ae4887d53412171ec31fb8b",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6587093,
+          "known_for_department": "Art",
+          "name": "Marine De",
+          "original_name": "Marine De",
+          "popularity": 0.0552,
+          "profile_path": null,
+          "credit_id": "6ae488f7cb7ac46090cd7ca4",
+          "department": "Costume & Make-Up",
+          "job": "Makeup & Hair"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6587093,
+          "known_for_department": "Art",
+          "name": "Marine De",
+          "original_name": "Marine De",
+          "popularity": 0.0552,
+          "profile_path": null,
+          "credit_id": "6ae4890c34892272af0fc90e",
+          "department": "Art",
+          "job": "Decorator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6587099,
+          "known_for_department": "Art",
+          "name": "Martin Plais",
+          "original_name": "Martin Plais",
+          "popularity": 0.0552,
+          "profile_path": null,
+          "credit_id": "6ae48930729882dba73d2784",
+          "department": "Art",
+          "job": "Assistant Art Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6587093,
+          "known_for_department": "Art",
+          "name": "Marine De",
+          "original_name": "Marine De",
+          "popularity": 0.0552,
+          "profile_path": null,
+          "credit_id": "6ae48947f187bbbf5b07dc0c",
+          "department": "Art",
+          "job": "Assistant Art Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6587099,
+          "known_for_department": "Art",
+          "name": "Martin Plais",
+          "original_name": "Martin Plais",
+          "popularity": 0.0552,
+          "profile_path": null,
+          "credit_id": "6ae4895d9b92f317bf3d2686",
+          "department": "Art",
+          "job": "Decorator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6587108,
+          "known_for_department": "Editing",
+          "name": "Julien Brouard",
+          "original_name": "Julien Brouard",
+          "popularity": 0.0552,
+          "profile_path": null,
+          "credit_id": "6ae489c84d83f7d8290fcc22",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6587110,
+          "known_for_department": "Sound",
+          "name": "Mayhem soundsystem",
+          "original_name": "Mayhem soundsystem",
+          "popularity": 0.0552,
+          "profile_path": null,
+          "credit_id": "6ae48a62cee364fa91cd7c19",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6587109,
+          "known_for_department": "Art",
+          "name": "Jeremy Buisan",
+          "original_name": "Jeremy Buisan",
+          "popularity": 0.0552,
+          "profile_path": null,
+          "credit_id": "6ae5ae549aaef65977cd9ab4",
+          "department": "Crew",
+          "job": "Visual Effects Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6587103,
+          "known_for_department": "Crew",
+          "name": "Antoine Dumortier",
+          "original_name": "Antoine Dumortier",
+          "popularity": 0.0552,
+          "profile_path": null,
+          "credit_id": "6ae5aeb4a1f3a32635c8ae92",
+          "department": "Art",
+          "job": "Assistant Art Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6587103,
+          "known_for_department": "Crew",
+          "name": "Antoine Dumortier",
+          "original_name": "Antoine Dumortier",
+          "popularity": 0.0552,
+          "profile_path": null,
+          "credit_id": "6ae5aed4b7b5e073883eb63e",
+          "department": "Crew",
+          "job": "Script"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6587109,
+          "known_for_department": "Art",
+          "name": "Jeremy Buisan",
+          "original_name": "Jeremy Buisan",
+          "popularity": 0.0552,
+          "profile_path": null,
+          "credit_id": "6ae5aee75f42283152f19654",
+          "department": "Art",
+          "job": "Graphic Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6587109,
+          "known_for_department": "Art",
+          "name": "Jeremy Buisan",
+          "original_name": "Jeremy Buisan",
+          "popularity": 0.0552,
+          "profile_path": null,
+          "credit_id": "6ae70f46f9357a3c1ba6d006",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "fr",
+              "note": "Film tourné dans le cadre du 48h Project",
+              "release_date": "2026-11-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

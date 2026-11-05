@@ -1,0 +1,584 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/67304?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:00.979Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/i82kL5OU6hEcrRDzdOpKtowiT8S.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 67304,
+    "imdb_id": "tt0093440",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Love Among Thieves",
+    "overview": "Caroline DuLac es una acaudalada baronesa y concertista de piano que debe sustraer unas joyas si quiere recuperar a su amado, secuestrado por una peligrosa banda criminal. Para ello deberá desplazarse hasta Sudamérica.",
+    "popularity": 0.732,
+    "poster_path": "/zWCyvBeGFqG3bZH1ouIjsSHzJXV.jpg",
+    "production_companies": [
+      {
+        "id": 898,
+        "logo_path": "/pBh5kde6mhGEMglYLwCdFnqK5zh.png",
+        "name": "Lorimar Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1987-02-23",
+    "revenue": 0,
+    "runtime": 100,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Amor entre ladrones",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 10,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1932,
+          "known_for_department": "Acting",
+          "name": "Audrey Hepburn",
+          "original_name": "Audrey Hepburn",
+          "popularity": 2.7979,
+          "profile_path": "/wg3RRHA5jV755dV0ksQ9g0Nc2xE.jpg",
+          "cast_id": 8,
+          "character": "Baroness Caroline DuLac",
+          "credit_id": "52fe4760c3a368484e0c3a81",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 9208,
+          "known_for_department": "Acting",
+          "name": "Robert Wagner",
+          "original_name": "Robert Wagner",
+          "popularity": 2.1008,
+          "profile_path": "/dgIN3MrOfX8Q4pzchO58dhMgrFb.jpg",
+          "cast_id": 11,
+          "character": "Mike Chambers",
+          "credit_id": "5810a29c92514152d500858c",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5274,
+          "known_for_department": "Acting",
+          "name": "Patrick Bauchau",
+          "original_name": "Patrick Bauchau",
+          "popularity": 1.7085,
+          "profile_path": "/kdrFAJJFdfQaYUETTHQw77gim9O.jpg",
+          "cast_id": 15,
+          "character": "Alan Channing",
+          "credit_id": "632386db174973007d9e5885",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 725,
+          "known_for_department": "Acting",
+          "name": "Jerry Orbach",
+          "original_name": "Jerry Orbach",
+          "popularity": 1.8066,
+          "profile_path": "/C0n4GfMUoesutHPbquKw9JANtW.jpg",
+          "cast_id": 12,
+          "character": "Spicer",
+          "credit_id": "5810a2b2c3a368798a00819d",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 591,
+          "known_for_department": "Acting",
+          "name": "Brion James",
+          "original_name": "Brion James",
+          "popularity": 2.25,
+          "profile_path": "/qy5jIIsWrNCV1OVRaUiqYNhLLVT.jpg",
+          "cast_id": 16,
+          "character": "Andre",
+          "credit_id": "632386ebdb154f0098608065",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 46780,
+          "known_for_department": "Acting",
+          "name": "Samantha Eggar",
+          "original_name": "Samantha Eggar",
+          "popularity": 1.17,
+          "profile_path": "/Vbk8DHrsowKNG5wWuFzKOk26OR.jpg",
+          "cast_id": 13,
+          "character": "Solange",
+          "credit_id": "5810a2c3925141543e00889d",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 58860,
+          "known_for_department": "Acting",
+          "name": "Christopher Neame",
+          "original_name": "Christopher Neame",
+          "popularity": 1.3579,
+          "profile_path": "/6eLLa8rOAMGIjMrtedV9ERaGvZY.jpg",
+          "cast_id": 14,
+          "character": "Ian",
+          "credit_id": "5810a2d49251414f9b008274",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 151326,
+          "known_for_department": "Acting",
+          "name": "Kenneth Kimmins",
+          "original_name": "Kenneth Kimmins",
+          "popularity": 1.1445,
+          "profile_path": "/d1RA5ZEx7OaTz2OAXTiesGfVNSb.jpg",
+          "cast_id": 17,
+          "character": "Booking Officer",
+          "credit_id": "632387050b7316007ad8a620",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 160375,
+          "known_for_department": "Acting",
+          "name": "Ismael 'East' Carlo",
+          "original_name": "Ismael 'East' Carlo",
+          "popularity": 0.5667,
+          "profile_path": "/nbvlR1qmZ6MryzmY0AJfeqkTVK4.jpg",
+          "cast_id": 18,
+          "character": "Mazo",
+          "credit_id": "6323871113a3200082d6650d",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3434,
+          "known_for_department": "Acting",
+          "name": "Alma Beltran",
+          "original_name": "Alma Beltran",
+          "popularity": 0.4593,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Airline Clerk",
+          "credit_id": "632387268d22fc0082bb7d9c",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32786,
+          "known_for_department": "Acting",
+          "name": "John Davis Chandler",
+          "original_name": "John Davis Chandler",
+          "popularity": 1.2703,
+          "profile_path": "/wyWeZ4fr1RCNtq8EDCxQiXfDdn8.jpg",
+          "cast_id": 20,
+          "character": "San Francisco Desk Clerk",
+          "credit_id": "6323873633ad8f008a67827d",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2537558,
+          "known_for_department": "Crew",
+          "name": "Robert Cota",
+          "original_name": "Robert Cota",
+          "popularity": 0.3319,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "Waiter in cafe",
+          "credit_id": "685cd31228d38ff4387b3d1c",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 152888,
+          "known_for_department": "Acting",
+          "name": "Dante D'Andre",
+          "original_name": "Dante D'Andre",
+          "popularity": 0.247,
+          "profile_path": null,
+          "cast_id": 30,
+          "character": "Doctor",
+          "credit_id": "685cd31c314ee2736b7ec8e4",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1214009,
+          "known_for_department": "Acting",
+          "name": "Joy Garrett",
+          "original_name": "Joy Garrett",
+          "popularity": 0.675,
+          "profile_path": "/dQhXJ9I6Qc4sKXU2BTvPujTiSVc.jpg",
+          "cast_id": 31,
+          "character": "Hooker",
+          "credit_id": "685cd329ab031ced468f1218",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1832436,
+          "known_for_department": "Acting",
+          "name": "Tonyo Meléndez",
+          "original_name": "Tonyo Meléndez",
+          "popularity": 0.3278,
+          "profile_path": null,
+          "cast_id": 32,
+          "character": "Airport official",
+          "credit_id": "685cd33a17270210fa34eeea",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 7429,
+          "known_for_department": "Acting",
+          "name": "Maurice Orozco",
+          "original_name": "Maurice Orozco",
+          "popularity": 0.1247,
+          "profile_path": null,
+          "cast_id": 33,
+          "character": "Goat herder",
+          "credit_id": "685cd362d9f00b7c5430304d",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1051939,
+          "known_for_department": "Acting",
+          "name": "Maria Rubell",
+          "original_name": "Maria Rubell",
+          "popularity": 0.3302,
+          "profile_path": null,
+          "cast_id": 34,
+          "character": "Flight attendant",
+          "credit_id": "685cd36e35f317c4524719ea",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1505174,
+          "known_for_department": "Acting",
+          "name": "Cynthia Steele",
+          "original_name": "Cynthia Steele",
+          "popularity": 0.2581,
+          "profile_path": null,
+          "cast_id": 35,
+          "character": "Theresa",
+          "credit_id": "685cd387713e29ed02303063",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1315667,
+          "known_for_department": "Acting",
+          "name": "Beau Dare",
+          "original_name": "Beau Dare",
+          "popularity": 0.1515,
+          "profile_path": null,
+          "cast_id": 36,
+          "character": "Mysterious Stranger on plane",
+          "credit_id": "685cd39da3eff5bfda9bb4a0",
+          "order": 18
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 23946,
+          "known_for_department": "Directing",
+          "name": "Roger Young",
+          "original_name": "Roger Young",
+          "popularity": 0.4154,
+          "profile_path": "/oEycOo6SvvRrTo8IO9iVNzHQDb6.jpg",
+          "credit_id": "52fe4760c3a368484e0c3a59",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 163621,
+          "known_for_department": "Writing",
+          "name": "Stephen Black",
+          "original_name": "Stephen Black",
+          "popularity": 0.4405,
+          "profile_path": null,
+          "credit_id": "52fe4760c3a368484e0c3a5f",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 163620,
+          "known_for_department": "Writing",
+          "name": "Henry Stern",
+          "original_name": "Henry Stern",
+          "popularity": 0.2186,
+          "profile_path": null,
+          "credit_id": "52fe4760c3a368484e0c3a65",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1000406,
+          "known_for_department": "Art",
+          "name": "Peter Wooley",
+          "original_name": "Peter Wooley",
+          "popularity": 0.3351,
+          "profile_path": null,
+          "credit_id": "52fe4760c3a368484e0c3a77",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1045774,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Hubert de Givenchy",
+          "original_name": "Hubert de Givenchy",
+          "popularity": 0.3168,
+          "profile_path": null,
+          "credit_id": "52fe4760c3a368484e0c3a7d",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1798,
+          "known_for_department": "Camera",
+          "name": "Gayne Rescher",
+          "original_name": "Gayne Rescher",
+          "popularity": 0.2497,
+          "profile_path": null,
+          "credit_id": "535f8a850e0a264fd8007b5c",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 66216,
+          "known_for_department": "Editing",
+          "name": "James Mitchell",
+          "original_name": "James Mitchell",
+          "popularity": 0.3258,
+          "profile_path": null,
+          "credit_id": "5470926992514112ee00487b",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1371062,
+          "known_for_department": "Art",
+          "name": "Donald J. Remacle",
+          "original_name": "Donald J. Remacle",
+          "popularity": 0.4204,
+          "profile_path": null,
+          "credit_id": "632387a8db154f009860809c",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1190236,
+          "known_for_department": "Production",
+          "name": "Ellen Meyer",
+          "original_name": "Ellen Meyer",
+          "popularity": 0.322,
+          "profile_path": null,
+          "credit_id": "6323879133ad8f007a9f5077",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12845,
+          "known_for_department": "Sound",
+          "name": "Arthur B. Rubinstein",
+          "original_name": "Arthur B. Rubinstein",
+          "popularity": 0.2448,
+          "profile_path": "/flU4NwcPCie4l5VVJCxtU6EIyts.jpg",
+          "credit_id": "632387780b7316007df066a6",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3984,
+          "known_for_department": "Production",
+          "name": "Stephanie Austin",
+          "original_name": "Stephanie Austin",
+          "popularity": 0.7091,
+          "profile_path": "/g6XKCXHKtoFkncMBiWrhkKfPSlb.jpg",
+          "credit_id": "63238753ae6f090084d652e7",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1534939,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Donna Turner Culver",
+          "original_name": "Donna Turner Culver",
+          "popularity": 0.189,
+          "profile_path": null,
+          "credit_id": "632387dcf14dad007a7ee4ee",
+          "department": "Costume & Make-Up",
+          "job": "Hairstylist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 559902,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Del Acevedo",
+          "original_name": "Del Acevedo",
+          "popularity": 0.2879,
+          "profile_path": null,
+          "credit_id": "632387d5fd4a96007a2864f1",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2029241,
+          "known_for_department": "Production",
+          "name": "Karen Mack",
+          "original_name": "Karen Mack",
+          "popularity": 0.174,
+          "profile_path": null,
+          "credit_id": "6323875cbb2602007a4ab79e",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 51832,
+          "known_for_department": "Production",
+          "name": "Robert Papazian",
+          "original_name": "Robert Papazian",
+          "popularity": 0.3562,
+          "profile_path": null,
+          "credit_id": "6323876632cc2b00821ff6ac",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "ABC",
+              "release_date": "1987-02-23T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "DE",
+          "title": "Liebe Diebe killt man nicht",
+          "type": "TV title"
+        },
+        {
+          "iso_3166_1": "GR",
+          "title": "Ανάμεσα σε Κλέφτες",
+          "type": "VHS title"
+        },
+        {
+          "iso_3166_1": "GR",
+          "title": "In the Company of Thieves",
+          "type": "English VHS box title"
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Flashpoint Mexico",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Farbe des Goldes: Flashpoint Mexico",
+          "type": "alternative title"
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Voleurs Associés",
+          "type": "VHS"
+        }
+      ]
+    }
+  }
+}

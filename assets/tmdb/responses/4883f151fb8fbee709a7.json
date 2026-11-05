@@ -1,0 +1,722 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/113697?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:09.371Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/wBRongB37mOdnJ2eQG3tC61g7QJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 37,
+        "name": "Western"
+      }
+    ],
+    "homepage": "",
+    "id": 113697,
+    "imdb_id": "tt0051046",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Tall Stranger",
+    "overview": "Ned Bannon, un pistolero, llega a un pueblo dominado por Hardy Bishop, un antiguo enemigo. Unos granjeros pretenden asentarse en el lugar, pero Bishop pretende hacerles la vida imposible para que se vayan. (FILMAFFINITY)",
+    "popularity": 1.5164,
+    "poster_path": "/bw2jqVVKixWGxUlFdRxcuf0B60Z.jpg",
+    "production_companies": [
+      {
+        "id": 179545,
+        "logo_path": null,
+        "name": "Walter Mirisch Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1957-11-17",
+    "revenue": 0,
+    "runtime": 81,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Valle prohibido",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 23,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 20501,
+          "known_for_department": "Acting",
+          "name": "Joel McCrea",
+          "original_name": "Joel McCrea",
+          "popularity": 1.1515,
+          "profile_path": "/k2DhZdrEKtauhnauAuivYO84Vee.jpg",
+          "cast_id": 2,
+          "character": "Ned Bannon",
+          "credit_id": "52fe4b3cc3a36847f81f95bd",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 13579,
+          "known_for_department": "Acting",
+          "name": "Virginia Mayo",
+          "original_name": "Virginia Mayo",
+          "popularity": 1.1192,
+          "profile_path": "/mee14a8stk8an2Pi1sulXI9rbTn.jpg",
+          "cast_id": 3,
+          "character": "Ellen",
+          "credit_id": "52fe4b3cc3a36847f81f95c1",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 89834,
+          "known_for_department": "Acting",
+          "name": "Barry Kelley",
+          "original_name": "Barry Kelley",
+          "popularity": 0.6865,
+          "profile_path": "/wlfHiZVG8TEOU4IaksO0i9RB2yA.jpg",
+          "cast_id": 4,
+          "character": "Hardy Bishop",
+          "credit_id": "52fe4b3cc3a36847f81f95c5",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16074,
+          "known_for_department": "Acting",
+          "name": "Michael Ansara",
+          "original_name": "Michael Ansara",
+          "popularity": 1.0226,
+          "profile_path": "/dxViGyLrbXBXQlGXjrDmOwPaiuo.jpg",
+          "cast_id": 5,
+          "character": "Zarata",
+          "credit_id": "52fe4b3cc3a36847f81f95c9",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 13786,
+          "known_for_department": "Acting",
+          "name": "Whit Bissell",
+          "original_name": "Whit Bissell",
+          "popularity": 0.9569,
+          "profile_path": "/ctpL0dPAv6n9ArbWRK1Cet0wvqk.jpg",
+          "cast_id": 6,
+          "character": "Adam Judson",
+          "credit_id": "52fe4b3cc3a36847f81f95cd",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 114958,
+          "known_for_department": "Acting",
+          "name": "James Dobson",
+          "original_name": "James Dobson",
+          "popularity": 0.474,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Dud",
+          "credit_id": "52fe4b3cc3a36847f81f95d1",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 106552,
+          "known_for_department": "Acting",
+          "name": "George N. Neise",
+          "original_name": "George N. Neise",
+          "popularity": 0.577,
+          "profile_path": "/vfWvqpe3yjYcKrQyjQR5SqYkUgH.jpg",
+          "cast_id": 8,
+          "character": "Mort Harper (as George Neise)",
+          "credit_id": "52fe4b3cc3a36847f81f95d5",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 50303,
+          "known_for_department": "Acting",
+          "name": "Michael Pate",
+          "original_name": "Michael Pate",
+          "popularity": 0.7484,
+          "profile_path": "/i0XniNOD6S6GB3LD7vHbYx5Z8ha.jpg",
+          "cast_id": 10,
+          "character": "Charley",
+          "credit_id": "52fe4b3cc3a36847f81f95dd",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 95082,
+          "known_for_department": "Acting",
+          "name": "Leo Gordon",
+          "original_name": "Leo Gordon",
+          "popularity": 1.173,
+          "profile_path": "/d87PfczbNFTbiu3qktqORlxnkMW.jpg",
+          "cast_id": 11,
+          "character": "Stark",
+          "credit_id": "52fe4b3cc3a36847f81f95e1",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 93624,
+          "known_for_department": "Acting",
+          "name": "Ray Teal",
+          "original_name": "Ray Teal",
+          "popularity": 1.1657,
+          "profile_path": "/5JYtuFjUENJUSIYMM342D1fMxrg.jpg",
+          "cast_id": 12,
+          "character": "Cap",
+          "credit_id": "52fe4b3cc3a36847f81f95e5",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 312341,
+          "known_for_department": "Acting",
+          "name": "Phil Phillips",
+          "original_name": "Phil Phillips",
+          "popularity": 0.1715,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Will",
+          "credit_id": "52fe4b3cc3a36847f81f95e9",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1234544,
+          "known_for_department": "Acting",
+          "name": "Adam Kennedy",
+          "original_name": "Adam Kennedy",
+          "popularity": 0.7021,
+          "profile_path": "/a6557GeiiXHJ14iTacxk9YjtxE1.jpg",
+          "cast_id": 14,
+          "character": "Red",
+          "credit_id": "56437bbdc3a36870ec0024b4",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2784,
+          "known_for_department": "Acting",
+          "name": "Robert Foulk",
+          "original_name": "Robert Foulk",
+          "popularity": 0.5222,
+          "profile_path": "/jrJcoyksfLvnHgthmQHba2gwKWK.jpg",
+          "cast_id": 19,
+          "character": "Pagones",
+          "credit_id": "62e3661f67e0f7005b4e0010",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 248368,
+          "known_for_department": "Acting",
+          "name": "Jennifer Lea",
+          "original_name": "Jennifer Lea",
+          "popularity": 0.3021,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Mary",
+          "credit_id": "62e36651f1b5710062888249",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 127187,
+          "known_for_department": "Acting",
+          "name": "Stephen Carr",
+          "original_name": "Stephen Carr",
+          "popularity": 0.4237,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "",
+          "credit_id": "62e366a2fe077a0059086937",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 191706,
+          "known_for_department": "Acting",
+          "name": "Leonard P. Geer",
+          "original_name": "Leonard P. Geer",
+          "popularity": 0.43,
+          "profile_path": "/2Mk9B8VlFFHUHSfQ0SYagEMHboY.jpg",
+          "cast_id": 22,
+          "character": "",
+          "credit_id": "62e366c283ee670069b78289",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 120309,
+          "known_for_department": "Acting",
+          "name": "William Haade",
+          "original_name": "William Haade",
+          "popularity": 0.4488,
+          "profile_path": "/d6CdAjWR31UOXGqkOMQHUPfZ4Kq.jpg",
+          "cast_id": 23,
+          "character": "",
+          "credit_id": "62e366cf85702e005845e2a4",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 34819,
+          "known_for_department": "Acting",
+          "name": "Mauritz Hugo",
+          "original_name": "Mauritz Hugo",
+          "popularity": 0.7234,
+          "profile_path": "/3OyCWGTgpZJc2O3KmDVa4iIkaeN.jpg",
+          "cast_id": 24,
+          "character": "",
+          "credit_id": "62e366db83ee67005e5ccffd",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 120061,
+          "known_for_department": "Acting",
+          "name": "George J. Lewis",
+          "original_name": "George J. Lewis",
+          "popularity": 0.6508,
+          "profile_path": "/cgo8gX8VDRoQV42rgQKJU4ceP3p.jpg",
+          "cast_id": 25,
+          "character": "",
+          "credit_id": "62e366e867e0f7005e461ec3",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3641370,
+          "known_for_department": "Acting",
+          "name": "Tom Lockwood",
+          "original_name": "Tom Lockwood",
+          "popularity": 0.1089,
+          "profile_path": null,
+          "cast_id": 26,
+          "character": "",
+          "credit_id": "62e3670df0647c005a7077a9",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 932309,
+          "known_for_department": "Acting",
+          "name": "Tom London",
+          "original_name": "Tom London",
+          "popularity": 0.7102,
+          "profile_path": "/nfLW8J3AMasTu1Ahm0HftRgx9qy.jpg",
+          "cast_id": 27,
+          "character": "",
+          "credit_id": "62e36719e25860005fb897eb",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 940245,
+          "known_for_department": "Acting",
+          "name": "Pierce Lyden",
+          "original_name": "Pierce Lyden",
+          "popularity": 0.7589,
+          "profile_path": "/vmWNPkFmkMUJIQLaVaoQhpuG1bP.jpg",
+          "cast_id": 28,
+          "character": "",
+          "credit_id": "62e36728bdc34c00619e427a",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 58093,
+          "known_for_department": "Acting",
+          "name": "Don McGuire",
+          "original_name": "Don McGuire",
+          "popularity": 0.6052,
+          "profile_path": "/8eI0xHeGGsxgiIDzJ71ObLzvlAt.jpg",
+          "cast_id": 29,
+          "character": "",
+          "credit_id": "62e3673785702e005845e2d0",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14786,
+          "known_for_department": "Acting",
+          "name": "John Mitchum",
+          "original_name": "John Mitchum",
+          "popularity": 0.7173,
+          "profile_path": "/n8RJhfahhC3lIbaGsVWS0HyTFCT.jpg",
+          "cast_id": 30,
+          "character": "",
+          "credit_id": "62e3674f67e0f700617f869b",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 200505,
+          "known_for_department": "Acting",
+          "name": "Ann Morrison",
+          "original_name": "Ann Morrison",
+          "popularity": 1.1568,
+          "profile_path": "/nhy2rvtXr3ngwlb7IA3ob7kAaMf.jpg",
+          "cast_id": 31,
+          "character": "",
+          "credit_id": "62e3676067e0f7005e461ee7",
+          "order": 24
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 190752,
+          "known_for_department": "Acting",
+          "name": "Guy Prescott",
+          "original_name": "Guy Prescott",
+          "popularity": 0.578,
+          "profile_path": "/zOQd5GfPruCTOQBMjAgexaYPujf.jpg",
+          "cast_id": 32,
+          "character": "",
+          "credit_id": "62e3677c12b10e005a112757",
+          "order": 25
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 170609,
+          "known_for_department": "Acting",
+          "name": "Ralph Reed",
+          "original_name": "Ralph Reed",
+          "popularity": 0.3167,
+          "profile_path": null,
+          "cast_id": 33,
+          "character": "",
+          "credit_id": "62e3678a67e0f7005b4e006e",
+          "order": 26
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1578504,
+          "known_for_department": "Acting",
+          "name": "Danny Sands",
+          "original_name": "Danny Sands",
+          "popularity": 0.3665,
+          "profile_path": null,
+          "cast_id": 34,
+          "character": "",
+          "credit_id": "62e367d368b7660060687c7b",
+          "order": 27
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2211706,
+          "known_for_department": "Acting",
+          "name": "Bob Stratton",
+          "original_name": "Bob Stratton",
+          "popularity": 0.1234,
+          "profile_path": null,
+          "cast_id": 35,
+          "character": "",
+          "credit_id": "62e367dd62f3350059eb72e0",
+          "order": 28
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 155268,
+          "known_for_department": "Directing",
+          "name": "Thomas Carr",
+          "original_name": "Thomas Carr",
+          "popularity": 0.5037,
+          "profile_path": "/4bNlWOG8zr6iahlJlmIyClAvOAU.jpg",
+          "credit_id": "52fe4b3cc3a36847f81f95b9",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14056,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Emile LaVigne",
+          "original_name": "Emile LaVigne",
+          "popularity": 0.4316,
+          "profile_path": null,
+          "credit_id": "62e36879109230005d4118e3",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29280,
+          "known_for_department": "Art",
+          "name": "Joseph Kish",
+          "original_name": "Joseph Kish",
+          "popularity": 0.7512,
+          "profile_path": null,
+          "credit_id": "62e36867df857c007aad099a",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 544755,
+          "known_for_department": "Camera",
+          "name": "Wilfrid M. Cline",
+          "original_name": "Wilfrid M. Cline",
+          "popularity": 0.5213,
+          "profile_path": "/s7eKGcPW7GR8Tg7sDuVyaYcGsaj.jpg",
+          "credit_id": "62e3682bdf857c007aad0986",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30130,
+          "known_for_department": "Sound",
+          "name": "Hans J. Salter",
+          "original_name": "Hans J. Salter",
+          "popularity": 0.4996,
+          "profile_path": null,
+          "credit_id": "62e3681bc8a5ac005fb658d2",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 120193,
+          "known_for_department": "Art",
+          "name": "Dave Milton",
+          "original_name": "Dave Milton",
+          "popularity": 0.356,
+          "profile_path": null,
+          "credit_id": "62e3685412b10e005d89242a",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14523,
+          "known_for_department": "Production",
+          "name": "Walter Mirisch",
+          "original_name": "Walter Mirisch",
+          "popularity": 0.3462,
+          "profile_path": "/diPKMcQzIfNY2JN8tHxiGl4fsW.jpg",
+          "credit_id": "62e3680c67e0f7005e461f1a",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 25169,
+          "known_for_department": "Editing",
+          "name": "William Austin",
+          "original_name": "William Austin",
+          "popularity": 0.6128,
+          "profile_path": null,
+          "credit_id": "62e36841f1b57100628882fa",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1684056,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Gertrude Wheeler",
+          "original_name": "Gertrude Wheeler",
+          "popularity": 0.1522,
+          "profile_path": null,
+          "credit_id": "62e36893e25860005fb89861",
+          "department": "Costume & Make-Up",
+          "job": "Hairstylist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 106019,
+          "known_for_department": "Writing",
+          "name": "Christopher Knopf",
+          "original_name": "Christopher Knopf",
+          "popularity": 0.4967,
+          "profile_path": "/okg0i3AFU0NprZqpRERSbxkH000.jpg",
+          "credit_id": "58536213c3a36806a701d1a6",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 50301,
+          "known_for_department": "Writing",
+          "name": "Louis L'Amour",
+          "original_name": "Louis L'Amour",
+          "popularity": 0.4543,
+          "profile_path": "/64XD07n2BawU64Iyy6hcwjohqEv.jpg",
+          "credit_id": "65f8ebcc07e2810186c124a8",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 951607,
+          "known_for_department": "Crew",
+          "name": "Loren Janes",
+          "original_name": "Loren Janes",
+          "popularity": 0.3233,
+          "profile_path": "/vEZ5Wt10rP9culxXjXUBagIfNGU.jpg",
+          "credit_id": "642717828de0ae00f4bf6034",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2070999,
+          "known_for_department": "Camera",
+          "name": "Harry Lewis",
+          "original_name": "Harry Lewis",
+          "popularity": 0.1603,
+          "profile_path": null,
+          "credit_id": "5d08e5e9c3a3680efe1eb12d",
+          "department": "Camera",
+          "job": "Grip"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2353396,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Sid Mintz",
+          "original_name": "Sid Mintz",
+          "popularity": 0.1577,
+          "profile_path": null,
+          "credit_id": "5d2215517eb5f2000f4ef694",
+          "department": "Costume & Make-Up",
+          "job": "Wardrobe Designer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1958-12-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IE",
+          "release_dates": [
+            {
+              "certification": "PG",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1958-08-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SE",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1957-11-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1957-11-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "DE",
+          "title": "Der große Fremde",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Violence dans la vallée",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

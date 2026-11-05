@@ -1,0 +1,405 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/197754?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:34.126Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/lQWJRtXpBLdE4DnabO20JqZ79Qg.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 197754,
+    "imdb_id": "tt1234259",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Winnie the Pooh Discovers the Seasons",
+    "overview": "Christopher Robin le entrega un calendario a Winnie the Pooh, y este lo utilizará para aprender más cosas sobre las estaciones del año.",
+    "popularity": 1.0793,
+    "poster_path": "/mbl9ShLxSC00w1GM1oswUscWfJA.jpg",
+    "production_companies": [
+      {
+        "id": 3166,
+        "logo_path": "/jmPS1qPfKnISciDF7RnUbh48jvK.png",
+        "name": "Walt Disney Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 145833,
+        "logo_path": null,
+        "name": "Rick Reinert Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 13571,
+        "logo_path": "/lE1lyDlZcxOzhguXQgTZwpVZ1xd.png",
+        "name": "Disney Educational Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1981-09-05",
+    "revenue": 0,
+    "runtime": 9,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Winnie the Pooh descubre las estaciones",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 11,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 173132,
+          "known_for_department": "Acting",
+          "name": "Kim Christiansen",
+          "original_name": "Kim Christiansen",
+          "popularity": 0.1685,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Christopher Robin (voice)",
+          "credit_id": "5f31d2be8ed03f0034f19cc3",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 25627,
+          "known_for_department": "Acting",
+          "name": "Hal Smith",
+          "original_name": "Hal Smith",
+          "popularity": 0.8523,
+          "profile_path": "/xVXbKpSgCHvP5ymJNeB1fyf4GMP.jpg",
+          "cast_id": 3,
+          "character": "Winnie the Pooh / Owl (voice)",
+          "credit_id": "5f31d2d9caaca20038ddc872",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5247,
+          "known_for_department": "Acting",
+          "name": "John Fiedler",
+          "original_name": "John Fiedler",
+          "popularity": 1.3435,
+          "profile_path": "/27sXisLWQJQ49PD40j89miNhL73.jpg",
+          "cast_id": 4,
+          "character": "Piglet (voice)",
+          "credit_id": "5f31d2ec1967570037b01844",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1241877,
+          "known_for_department": "Acting",
+          "name": "Ray Erlenborn",
+          "original_name": "Ray Erlenborn",
+          "popularity": 0.4683,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Rabbit (voice)",
+          "credit_id": "5f31d30a71f095003793d507",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 40003,
+          "known_for_department": "Acting",
+          "name": "Ron Feinberg",
+          "original_name": "Ron Feinberg",
+          "popularity": 0.3901,
+          "profile_path": "/6u4CuN2Um9lxsi9JnV7pwMpAZDS.jpg",
+          "cast_id": 6,
+          "character": "Eeyore (voice)",
+          "credit_id": "5f31d320b02f5e0037fcfd93",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 93310,
+          "known_for_department": "Acting",
+          "name": "Laurie Main",
+          "original_name": "Laurie Main",
+          "popularity": 0.3852,
+          "profile_path": "/k0a0ROBh2BuMShcDdNcZjOXQvoX.jpg",
+          "cast_id": 7,
+          "character": "Narrator (voice)",
+          "credit_id": "5f31d333b02f5e0039fcfb21",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1043047,
+          "known_for_department": "Directing",
+          "name": "Rick Reinert",
+          "original_name": "Rick Reinert",
+          "popularity": 0.2893,
+          "profile_path": null,
+          "credit_id": "52fe4d609251416c91113edb",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 173622,
+          "known_for_department": "Visual Effects",
+          "name": "Tom Ray",
+          "original_name": "Tom Ray",
+          "popularity": 0.255,
+          "profile_path": null,
+          "credit_id": "64446341a06efe059ea4d581",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2738002,
+          "known_for_department": "Visual Effects",
+          "name": "Dave Bennett",
+          "original_name": "Dave Bennett",
+          "popularity": 0.1168,
+          "profile_path": null,
+          "credit_id": "5f31d4861967570038afcd32",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1176752,
+          "known_for_department": "Visual Effects",
+          "name": "Dan Haskett",
+          "original_name": "Dan Haskett",
+          "popularity": 0.5867,
+          "profile_path": null,
+          "credit_id": "5f31d4c99a358d00379548df",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2737992,
+          "known_for_department": "Sound",
+          "name": "Steve Zuckerman",
+          "original_name": "Steve Zuckerman",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "5f31d3998ed03f0033ef2482",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1458336,
+          "known_for_department": "Visual Effects",
+          "name": "Jack Foster",
+          "original_name": "Jack Foster",
+          "popularity": 0.106,
+          "profile_path": null,
+          "credit_id": "5f31d4b07739410036e8ae34",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1043047,
+          "known_for_department": "Directing",
+          "name": "Rick Reinert",
+          "original_name": "Rick Reinert",
+          "popularity": 0.2893,
+          "profile_path": null,
+          "credit_id": "5f31d35b9a358d0038935b3e",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 145255,
+          "known_for_department": "Visual Effects",
+          "name": "Joanna Romersa",
+          "original_name": "Joanna Romersa",
+          "popularity": 0.2283,
+          "profile_path": null,
+          "credit_id": "5f31d5c6cdf2e6003a29b466",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2737996,
+          "known_for_department": "Visual Effects",
+          "name": "Bob Bemiller",
+          "original_name": "Bob Bemiller",
+          "popularity": 0.3637,
+          "profile_path": null,
+          "credit_id": "5f31d3d5b02f5e0038fd0139",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2738004,
+          "known_for_department": "Visual Effects",
+          "name": "Sammie Lanham",
+          "original_name": "Sammie Lanham",
+          "popularity": 0.1074,
+          "profile_path": null,
+          "credit_id": "5f31d4ec9a358d0037954904",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2738008,
+          "known_for_department": "Visual Effects",
+          "name": "Maria Rosetti",
+          "original_name": "Maria Rosetti",
+          "popularity": 0.132,
+          "profile_path": null,
+          "credit_id": "5f31d5d88ed03f0034f1a173",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 148152,
+          "known_for_department": "Visual Effects",
+          "name": "Ed Love",
+          "original_name": "Ed Love",
+          "popularity": 0.1976,
+          "profile_path": null,
+          "credit_id": "5f31d505f1b5710036ef75c9",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2738005,
+          "known_for_department": "Visual Effects",
+          "name": "Ennis McNulty",
+          "original_name": "Ennis McNulty",
+          "popularity": 0.1066,
+          "profile_path": null,
+          "credit_id": "5f31d51eb02f5e0038fd0400",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2738007,
+          "known_for_department": "Visual Effects",
+          "name": "Joe Roman",
+          "original_name": "Joe Roman",
+          "popularity": 0.1863,
+          "profile_path": null,
+          "credit_id": "5f31d5aecaaca20036de4529",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2738009,
+          "known_for_department": "Visual Effects",
+          "name": "Bob Treat",
+          "original_name": "Bob Treat",
+          "popularity": 0.1817,
+          "profile_path": null,
+          "credit_id": "5f31d5eb7739410035ed8b63",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2738010,
+          "known_for_department": "Writing",
+          "name": "Ronald Kidd",
+          "original_name": "Ronald Kidd",
+          "popularity": 0.1288,
+          "profile_path": null,
+          "credit_id": "5f31d607caaca20037dd98da",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1113172,
+          "known_for_department": "Visual Effects",
+          "name": "Irv Anderson",
+          "original_name": "Irv Anderson",
+          "popularity": 0.1412,
+          "profile_path": null,
+          "credit_id": "5f31d3c3cdf2e60039266313",
+          "department": "Visual Effects",
+          "job": "Animation"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1981-09-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "IL",
+          "title": "פו הדוב מגלה את עונות השנה",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

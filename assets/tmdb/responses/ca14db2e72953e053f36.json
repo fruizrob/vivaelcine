@@ -1,0 +1,131 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1601378?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:03.308Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1601378,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Labubu Unboxing Video",
+    "overview": "",
+    "popularity": 0.4697,
+    "poster_path": "/rFAW0UpUkoH1IdPHx0EHoLcv1SC.jpg",
+    "production_companies": [
+      {
+        "id": 271432,
+        "logo_path": null,
+        "name": "Atonal Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "TR",
+        "name": "Turkey"
+      }
+    ],
+    "release_date": "2025-08-31",
+    "revenue": 0,
+    "runtime": 1,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Labubu Unboxing Video",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4859832,
+          "known_for_department": "Crew",
+          "name": "Elif Dizdaroğlu",
+          "original_name": "Elif Dizdaroğlu",
+          "popularity": 0.2583,
+          "profile_path": "/fQTRFK4z2JFHYYvKrhH6awWh14G.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6946a48c2ee03d54d9154b90",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4859832,
+          "known_for_department": "Crew",
+          "name": "Elif Dizdaroğlu",
+          "original_name": "Elif Dizdaroğlu",
+          "popularity": 0.2583,
+          "profile_path": "/fQTRFK4z2JFHYYvKrhH6awWh14G.jpg",
+          "credit_id": "6946a4c603572e631d811ddd",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4859832,
+          "known_for_department": "Crew",
+          "name": "Elif Dizdaroğlu",
+          "original_name": "Elif Dizdaroğlu",
+          "popularity": 0.2583,
+          "profile_path": "/fQTRFK4z2JFHYYvKrhH6awWh14G.jpg",
+          "credit_id": "6946a4ec03572e631d811de0",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5888765,
+          "known_for_department": "Sound",
+          "name": "Atonal Sounds",
+          "original_name": "Atonal Sounds",
+          "popularity": 0.178,
+          "profile_path": null,
+          "credit_id": "6946a4fe57916fb0c42fb916",
+          "department": "Sound",
+          "job": "Music"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "TR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2025-08-31T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

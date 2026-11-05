@@ -1,0 +1,610 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/809970?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:03.058Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/r2HDWSKdG2gVFg4shNJpjLIYgEW.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 809970,
+    "imdb_id": "tt14315584",
+    "origin_country": [
+      "PL"
+    ],
+    "original_language": "pl",
+    "original_title": "Hiacynt",
+    "overview": "Varsovia, 1985. En la Polonia comunista, con el telón de fondo de la \"Operación Hyacinth\" dirigida por la policía secreta, un joven oficial Robert investiga un caso de asesinato en la hermética comunidad gay. Cuando encuentra a un informante, Arek, un estudiante desprevenido y de espíritu libre, Robert se aventura por su cuenta para descubrir la verdad.",
+    "popularity": 3.2896,
+    "poster_path": "/5UtacHd5pZYtXR38Esb8bhanULK.jpg",
+    "production_companies": [
+      {
+        "id": 151300,
+        "logo_path": "/zTGZgmEJtL6N56JSeNkULt0lq0O.png",
+        "name": "SHIPsBOY",
+        "origin_country": "PL"
+      },
+      {
+        "id": 185426,
+        "logo_path": "/6oyseq4GsmylsGJhoeLyhi4IHU5.png",
+        "name": "HAKA Films",
+        "origin_country": "PL"
+      },
+      {
+        "id": 255286,
+        "logo_path": null,
+        "name": "Appetite Production",
+        "origin_country": "PL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PL",
+        "name": "Poland"
+      }
+    ],
+    "release_date": "2021-08-18",
+    "revenue": 0,
+    "runtime": 106,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Polish",
+        "iso_639_1": "pl",
+        "name": "Polski"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Acción Jacinto",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 111,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1345428,
+          "known_for_department": "Acting",
+          "name": "Tomasz Ziętek",
+          "original_name": "Tomasz Ziętek",
+          "popularity": 0.8518,
+          "profile_path": "/3LU66910gAOyJhll0vBkKxFSMH6.jpg",
+          "cast_id": 2,
+          "character": "Robert",
+          "credit_id": "611da3968c40f70030e14fc1",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2680803,
+          "known_for_department": "Acting",
+          "name": "Hubert Miłkowski",
+          "original_name": "Hubert Miłkowski",
+          "popularity": 0.7651,
+          "profile_path": "/ujtCfa8wW9TKcOMVvVbqeaQYNNa.jpg",
+          "cast_id": 19,
+          "character": "Arek",
+          "credit_id": "61a246d02495ab0043f9bf26",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2750273,
+          "known_for_department": "Acting",
+          "name": "Adrianna Chlebicka",
+          "original_name": "Adrianna Chlebicka",
+          "popularity": 0.3997,
+          "profile_path": "/u46k8j7k73tkP6HFXU902uQrzTR.jpg",
+          "cast_id": 4,
+          "character": "Halinka",
+          "credit_id": "611da44ad1a8930045cf41f2",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 980177,
+          "known_for_department": "Acting",
+          "name": "Tomasz Schuchardt",
+          "original_name": "Tomasz Schuchardt",
+          "popularity": 2.4324,
+          "profile_path": "/2WOX4dBr97itzYzNqEUbxXrYeE3.jpg",
+          "cast_id": 5,
+          "character": "Wojtek",
+          "credit_id": "611da496ac41610073db0524",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1668585,
+          "known_for_department": "Acting",
+          "name": "Marek Kalita",
+          "original_name": "Marek Kalita",
+          "popularity": 0.2994,
+          "profile_path": "/4c8gMUQ6BP2qOQ9kckMa88mcbNI.jpg",
+          "cast_id": 6,
+          "character": "Edward",
+          "credit_id": "611da4a5ca8354005dbe94c8",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 85905,
+          "known_for_department": "Acting",
+          "name": "Mirosław Zbrojewicz",
+          "original_name": "Mirosław Zbrojewicz",
+          "popularity": 0.2914,
+          "profile_path": "/8utIg4qBGc6CLsfHtLpWxcPrp4X.jpg",
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "611da4b54a0b19002e88682f",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 136642,
+          "known_for_department": "Acting",
+          "name": "Sebastian Stankiewicz",
+          "original_name": "Sebastian Stankiewicz",
+          "popularity": 0.4999,
+          "profile_path": "/hLN0Ca09KwQOFLZLPIEzgTIbqqg.jpg",
+          "cast_id": 14,
+          "character": "Maciek",
+          "credit_id": "6166bb3e50733c0042fba660",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2171278,
+          "known_for_department": "Acting",
+          "name": "Piotr Trojan",
+          "original_name": "Piotr Trojan",
+          "popularity": 0.9026,
+          "profile_path": "/iHYHWVjVXjy0yIMeifs2ic8dbrd.jpg",
+          "cast_id": 15,
+          "character": "Kamil",
+          "credit_id": "6166bb4e50733c0064890d59",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1535030,
+          "known_for_department": "Acting",
+          "name": "Jacek Poniedziałek",
+          "original_name": "Jacek Poniedziałek",
+          "popularity": 0.8543,
+          "profile_path": "/ldpW5eOVzFE0rdqDvkxMAFLGha8.jpg",
+          "cast_id": 16,
+          "character": "",
+          "credit_id": "6166bb5db865eb0042816870",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1055099,
+          "known_for_department": "Acting",
+          "name": "Agnieszka Suchora",
+          "original_name": "Agnieszka Suchora",
+          "popularity": 0.4259,
+          "profile_path": "/eYGB6GOAsKzesArYw4o7fxmQbu.jpg",
+          "cast_id": 17,
+          "character": "Ewa",
+          "credit_id": "6166bb7ee4b576004395b43f",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1724128,
+          "known_for_department": "Acting",
+          "name": "Tomasz Włosok",
+          "original_name": "Tomasz Włosok",
+          "popularity": 0.8796,
+          "profile_path": "/bBGaNaQeFMq00zpcc2Tx1aOS13s.jpg",
+          "cast_id": 18,
+          "character": "Tadek",
+          "credit_id": "6166bc9253866e0048a9c093",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3484387,
+          "known_for_department": "Acting",
+          "name": "Michał Balicki",
+          "original_name": "Michał Balicki",
+          "popularity": 0.4151,
+          "profile_path": "/nXbpRl5Av82KUcLopav43teQq5y.jpg",
+          "cast_id": 23,
+          "character": "",
+          "credit_id": "65ee53b666ae4d018531af39",
+          "order": 11
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1573854,
+          "known_for_department": "Production",
+          "name": "Joanna Szymańska",
+          "original_name": "Joanna Szymańska",
+          "popularity": 0.2572,
+          "profile_path": null,
+          "credit_id": "611da73c9a9e200072490975",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1166085,
+          "known_for_department": "Camera",
+          "name": "Piotr Sobociński Jr.",
+          "original_name": "Piotr Sobociński Jr.",
+          "popularity": 0.2157,
+          "profile_path": "/nuBku5u5GvsWRluLSjhONv5eh1v.jpg",
+          "credit_id": "611da7092e069700459a49b6",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1549818,
+          "known_for_department": "Directing",
+          "name": "Piotr Domalewski",
+          "original_name": "Piotr Domalewski",
+          "popularity": 0.5766,
+          "profile_path": "/faEVVYG1nF8QALPQ7E1qWbONOQb.jpg",
+          "credit_id": "611da6c32e069700459a4920",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4428967,
+          "known_for_department": "Editing",
+          "name": "Agnieszka Glińska",
+          "original_name": "Agnieszka Glińska",
+          "popularity": 0.2947,
+          "profile_path": null,
+          "credit_id": "657a5fd3564ec7011b2136f4",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4174825,
+          "known_for_department": "Directing",
+          "name": "Lena Jaworska",
+          "original_name": "Lena Jaworska",
+          "popularity": 0.2773,
+          "profile_path": null,
+          "credit_id": "65e37f9b1ad93b016305d1c2",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2179864,
+          "known_for_department": "Production",
+          "name": "Joanna Ślesicka",
+          "original_name": "Joanna Ślesicka",
+          "popularity": 0.5987,
+          "profile_path": null,
+          "credit_id": "661c13ce3396b90187961787",
+          "department": "Production",
+          "job": "Casting Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2171036,
+          "known_for_department": "Writing",
+          "name": "Marcin Ciastoń",
+          "original_name": "Marcin Ciastoń",
+          "popularity": 0.1905,
+          "profile_path": null,
+          "credit_id": "66b095faa895936fba09b101",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3203437,
+          "known_for_department": "Sound",
+          "name": "Wojciech Urbański",
+          "original_name": "Wojciech Urbański",
+          "popularity": 0.2529,
+          "profile_path": null,
+          "credit_id": "66b0960ce12b82f4dba11a5b",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1400497,
+          "known_for_department": "Sound",
+          "name": "Michał Fojcik",
+          "original_name": "Michał Fojcik",
+          "popularity": 0.3537,
+          "profile_path": "/7PciUF16mb5ulfWiOwcIkVmjCu2.jpg",
+          "credit_id": "66c8c5a325a1dc84a615a7f6",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1400497,
+          "known_for_department": "Sound",
+          "name": "Michał Fojcik",
+          "original_name": "Michał Fojcik",
+          "popularity": 0.3537,
+          "profile_path": "/7PciUF16mb5ulfWiOwcIkVmjCu2.jpg",
+          "credit_id": "66c8c5afdf0b5a7d3315abfb",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4248397,
+          "known_for_department": "Visual Effects",
+          "name": "Piotr Dismas Zdanowicz",
+          "original_name": "Piotr Dismas Zdanowicz",
+          "popularity": 0.1893,
+          "profile_path": null,
+          "credit_id": "66f7310d675798e92e920a32",
+          "department": "Art",
+          "job": "Title Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2119481,
+          "known_for_department": "Sound",
+          "name": "Jacek Wiśniewski",
+          "original_name": "Jacek Wiśniewski",
+          "popularity": 0.2789,
+          "profile_path": null,
+          "credit_id": "670047729ebea19006f82f5c",
+          "department": "Sound",
+          "job": "Foley"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2000542,
+          "known_for_department": "Production",
+          "name": "Tomasz Morawski",
+          "original_name": "Tomasz Morawski",
+          "popularity": 0.1875,
+          "profile_path": null,
+          "credit_id": "67c6d762575a1805be908aa1",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2000542,
+          "known_for_department": "Production",
+          "name": "Tomasz Morawski",
+          "original_name": "Tomasz Morawski",
+          "popularity": 0.1875,
+          "profile_path": null,
+          "credit_id": "67c6d76f0111a88c6b04e009",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2286170,
+          "known_for_department": "Visual Effects",
+          "name": "Zuzanna Hencz",
+          "original_name": "Zuzanna Hencz",
+          "popularity": 0.3282,
+          "profile_path": null,
+          "credit_id": "681f6bb574266fbe597e7382",
+          "department": "Visual Effects",
+          "job": "Visual Effects Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix ",
+              "release_date": "2021-10-13T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2021-10-13T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2021-10-13T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GR",
+          "release_dates": [
+            {
+              "certification": "16+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2021-10-13T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "19",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2021-10-13T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "pl",
+              "note": "",
+              "release_date": "2021-08-18T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RO",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2021-08-18T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SG",
+          "release_dates": [
+            {
+              "certification": "R21",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2021-10-13T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UA",
+          "release_dates": [
+            {
+              "certification": "16+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2021-10-13T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2021-10-13T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "SG",
+          "title": "风信子之恋",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "TH",
+          "title": "ปฏิบัติการไฮยาซินธ์",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CN",
+          "title": "风信子之恋",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "Operation Hyacinth",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PL",
+          "title": "Hiacynt",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

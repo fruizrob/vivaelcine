@@ -1,0 +1,308 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/721388?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:38.298Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 721388,
+    "imdb_id": "tt0065199",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Weekend Lovers",
+    "overview": "",
+    "popularity": 1.5299,
+    "poster_path": "/j3zcG4vplWjOZXGC5IS7K9LIzay.jpg",
+    "production_companies": [
+      {
+        "id": 15346,
+        "logo_path": null,
+        "name": "Boxoffice International Pictures (BIP)",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1969-07-02",
+    "revenue": 0,
+    "runtime": 88,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Weekend Lovers",
+    "video": false,
+    "vote_average": 4,
+    "vote_count": 3,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2327525,
+          "known_for_department": "Acting",
+          "name": "Vic Lance",
+          "original_name": "Vic Lance",
+          "popularity": 0.2648,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Scott Bennett",
+          "credit_id": "5f1de4dc511d09003873f1bf",
+          "order": 0
+        },
+        {
+          "adult": true,
+          "gender": 1,
+          "id": 45637,
+          "known_for_department": "Acting",
+          "name": "Antoinette Maynard",
+          "original_name": "Antoinette Maynard",
+          "popularity": 0,
+          "profile_path": "/3qTenH6JQo1FwuT2A6qc8fYQQ46.jpg",
+          "cast_id": 17,
+          "character": "Ginger Bennett",
+          "credit_id": "6346b1cf07e2810082f1b324",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1497873,
+          "known_for_department": "Acting",
+          "name": "Chris Mathis",
+          "original_name": "Chris Mathis",
+          "popularity": 0.3372,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Kerry Chandler",
+          "credit_id": "616b0653d43f01002a34fbc2",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1302662,
+          "known_for_department": "Acting",
+          "name": "James Brand",
+          "original_name": "James Brand",
+          "popularity": 0.2103,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Norman Snitte",
+          "credit_id": "616b065cd43f010065fbbb06",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1767556,
+          "known_for_department": "Acting",
+          "name": "Karen Thomas",
+          "original_name": "Karen Thomas",
+          "popularity": 0.2536,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Motorcycle Girl",
+          "credit_id": "616b066707a808002bbcae33",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 194760,
+          "known_for_department": "Acting",
+          "name": "Jay Edwards",
+          "original_name": "Jay Edwards",
+          "popularity": 0.2974,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Truck Driver",
+          "credit_id": "616b0671e004a6005f05fe05",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1309595,
+          "known_for_department": "Acting",
+          "name": "Dee Lockwood",
+          "original_name": "Dee Lockwood",
+          "popularity": 0.4834,
+          "profile_path": "/kPWebYP6zGOdzD9ypcium6tHqo5.jpg",
+          "cast_id": 14,
+          "character": "Virgo",
+          "credit_id": "616b0679037264006a82a7c4",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 935752,
+          "known_for_department": "Acting",
+          "name": "Meri McDonald",
+          "original_name": "Meri McDonald",
+          "popularity": 0.3481,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Candice Wellington",
+          "credit_id": "616b06826728a8008caf2a6b",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3273331,
+          "known_for_department": "Acting",
+          "name": "Jeri Lynn",
+          "original_name": "Jeri Lynn",
+          "popularity": 0.2057,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "First Girl",
+          "credit_id": "616b069c9715ae00447a4480",
+          "order": 8
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1414176,
+          "known_for_department": "Editing",
+          "name": "Sam Rayven",
+          "original_name": "Sam Rayven",
+          "popularity": 0.101,
+          "profile_path": null,
+          "credit_id": "616b0631158c850096bc681d",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1302662,
+          "known_for_department": "Acting",
+          "name": "James Brand",
+          "original_name": "James Brand",
+          "popularity": 0.2103,
+          "profile_path": null,
+          "credit_id": "616b061353866e00680d80ce",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1414176,
+          "known_for_department": "Editing",
+          "name": "Sam Rayven",
+          "original_name": "Sam Rayven",
+          "popularity": 0.101,
+          "profile_path": null,
+          "credit_id": "616b0635924ce600248145d7",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": true,
+          "gender": 2,
+          "id": 1196011,
+          "known_for_department": "Sound",
+          "name": "Vic Lance",
+          "original_name": "Vic Lance",
+          "popularity": 0,
+          "profile_path": null,
+          "credit_id": "616b062990dde0008b6b14e6",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3222458,
+          "known_for_department": "Camera",
+          "name": "Dwayne Avery",
+          "original_name": "Dwayne Avery",
+          "popularity": 0.1736,
+          "profile_path": null,
+          "credit_id": "616b060b924ce6002481456f",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3222458,
+          "known_for_department": "Camera",
+          "name": "Dwayne Avery",
+          "original_name": "Dwayne Avery",
+          "popularity": 0.1736,
+          "profile_path": null,
+          "credit_id": "616b06209715ae006240b700",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1074103,
+          "known_for_department": "Sound",
+          "name": "Dwayne Avery",
+          "original_name": "Dwayne Avery",
+          "popularity": 0.1975,
+          "profile_path": null,
+          "credit_id": "5f1de2d507a8080037831985",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2022-04-15T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "{\"folded_name\"=>\"English\", \"english_name\"=>\"English\", \"iso_639_1\"=>\"en\", \"native_name\"=>\"English\"}",
+              "note": "",
+              "release_date": "1969-07-02T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

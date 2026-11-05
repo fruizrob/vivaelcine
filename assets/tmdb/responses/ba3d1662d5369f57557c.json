@@ -1,0 +1,32 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=A+BALCONY+IN+LIMOGES&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:53.661Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/bXrX36bWUnEtHUBIWOin8ouA31u.jpg",
+        "genre_ids": [
+          35,
+          18,
+          53
+        ],
+        "id": 1510335,
+        "title": "Un balcon à Limoges",
+        "original_language": "fr",
+        "original_title": "Un balcon à Limoges",
+        "overview": "",
+        "popularity": 1.2751,
+        "poster_path": "/4Iyg95kSzBZMfNA8brn7Ga6mFYS.jpg",
+        "release_date": "2026-04-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

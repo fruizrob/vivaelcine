@@ -1,0 +1,96 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1130592?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:09.307Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1130592,
+    "imdb_id": null,
+    "origin_country": [
+      "DZ"
+    ],
+    "original_language": "ar",
+    "original_title": "وني بيك",
+    "overview": "Tras la reanudación de la guerra en el Sáhara Occidental contra el invasor marroquí, un grupo de estudiantes de la escuela de cine de los campamentos de población refugiada saharaui rueda su película de graduación y elige el Muro de la Vergüenza como hilo conductor.",
+    "popularity": 0.3865,
+    "poster_path": "/ab58Ddutg8qNQYj6VBvQhe1AuA1.jpg",
+    "production_companies": [
+      {
+        "id": 269543,
+        "logo_path": null,
+        "name": "EL MIROIRE PROD",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DZ",
+        "name": "Algeria"
+      }
+    ],
+    "release_date": "2022-10-12",
+    "revenue": 0,
+    "runtime": 95,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Wanibik: El pueblo que vive frente a su tierra",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4076979,
+          "known_for_department": "Directing",
+          "name": "Rabah Slimani",
+          "original_name": "Rabah Slimani",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "646cf8e251e6ab013ab980f8",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "EH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2022-10-12T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

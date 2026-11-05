@@ -1,0 +1,86 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1655067?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:32.670Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1655067,
+    "imdb_id": null,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Serra Pelada: A Terra Não é dos Homens",
+    "overview": "",
+    "popularity": 0.3261,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2026-03-31",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Serra Pelada: A Terra Não é dos Homens",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6084971,
+          "known_for_department": "Directing",
+          "name": "Babi Fontana",
+          "original_name": "Babi Fontana",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69bd87e0ff61ad23e05fb718",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6084972,
+          "known_for_department": "Directing",
+          "name": "Victor Costa",
+          "original_name": "Victor Costa",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69bd87ec32d821fae55fb7be",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-03-31T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

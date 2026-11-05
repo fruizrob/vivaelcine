@@ -1,0 +1,384 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1230458?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:05.700Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/wqFkcL1skMsnVVkePcPQVhhaWiK.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1230458,
+    "imdb_id": "tt31109510",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "bn",
+    "original_title": "এই রাত তোমার আমার",
+    "overview": "",
+    "popularity": 0.6108,
+    "poster_path": "/cJr7pkIxFBfzmhhTv7JJgGpPZr.jpg",
+    "production_companies": [
+      {
+        "id": 151931,
+        "logo_path": null,
+        "name": "Roadshow Films",
+        "origin_country": "IN"
+      },
+      {
+        "id": 200270,
+        "logo_path": null,
+        "name": "Hoichoi Studios",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2025-01-31",
+    "revenue": 0,
+    "runtime": 102,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Bengali",
+        "iso_639_1": "bn",
+        "name": "বাংলা"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "এই রাত তোমার আমার",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1176773,
+          "known_for_department": "Acting",
+          "name": "Anjan Dutt",
+          "original_name": "Anjan Dutt",
+          "popularity": 0.4717,
+          "profile_path": "/lgCiLJXy1GfKpWRoRu6q4B6SAuy.jpg",
+          "cast_id": 2,
+          "character": "Amar Gupta",
+          "credit_id": "65a256e35690b50126aff0d7",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 125724,
+          "known_for_department": "Acting",
+          "name": "Aparna Sen",
+          "original_name": "Aparna Sen",
+          "popularity": 0.3828,
+          "profile_path": "/zAyctze9LUC51ujXJvZ6x9uZHSG.jpg",
+          "cast_id": 3,
+          "character": "Jayita Gupta",
+          "credit_id": "65a256f61f0275012408471f",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1021524,
+          "known_for_department": "Acting",
+          "name": "Parambrata Chatterjee",
+          "original_name": "Parambrata Chatterjee",
+          "popularity": 0.8539,
+          "profile_path": "/f0vKFvgiyBvdgiXOFKpnnb6AfbG.jpg",
+          "cast_id": 12,
+          "character": "Joy Gupta",
+          "credit_id": "6744cffdcfd24c3a7aab9eac",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2932048,
+          "known_for_department": "Acting",
+          "name": "Shruti Das",
+          "original_name": "Shruti Das",
+          "popularity": 0.6376,
+          "profile_path": "/dww1SF2ZjRx4fKX6PERzwM5jkGT.jpg",
+          "cast_id": 13,
+          "character": "Mira",
+          "credit_id": "6796f00d9a30a85b2723dca1",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3852250,
+          "known_for_department": "Acting",
+          "name": "Rohit Mukherjee",
+          "original_name": "Rohit Mukherjee",
+          "popularity": 0.2739,
+          "profile_path": "/ivire8XsEh5qVDCuh4STgzRtAJk.jpg",
+          "cast_id": 19,
+          "character": "Joyita's Brother",
+          "credit_id": "679cda643340b1bb48bdea09",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3767844,
+          "known_for_department": "Acting",
+          "name": "Swati Mukherjee",
+          "original_name": "Swati Mukherjee",
+          "popularity": 0.5038,
+          "profile_path": "/63h6GWRFljzFyV8DHaM4xzwmY4A.jpg",
+          "cast_id": 20,
+          "character": "",
+          "credit_id": "679cf1b9822e7d32f7bdfa1a",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2254401,
+          "known_for_department": "Creator",
+          "name": "Aritra Sen",
+          "original_name": "Aritra Sen",
+          "popularity": 0.3351,
+          "profile_path": "/dnej0M6q25pfS32VOMEFn25knGZ.jpg",
+          "credit_id": "65a2582785867801315b85b0",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1021524,
+          "known_for_department": "Acting",
+          "name": "Parambrata Chatterjee",
+          "original_name": "Parambrata Chatterjee",
+          "popularity": 0.8539,
+          "profile_path": "/f0vKFvgiyBvdgiXOFKpnnb6AfbG.jpg",
+          "credit_id": "65a255f8858678012b5b84b4",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1657713,
+          "known_for_department": "Sound",
+          "name": "Indraadip Dasgupta",
+          "original_name": "Indraadip Dasgupta",
+          "popularity": 0.5078,
+          "profile_path": "/rU57GDweXduYd8SUYTS9pRwlkMV.jpg",
+          "credit_id": "65a257a8297338012d12d7a4",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2609939,
+          "known_for_department": "Production",
+          "name": "Vishnu Mohta",
+          "original_name": "Vishnu Mohta",
+          "popularity": 0.1956,
+          "profile_path": null,
+          "credit_id": "65a3de6e5a788400c3c95a60",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4869726,
+          "known_for_department": "Writing",
+          "name": "Chironjib Bordoloi",
+          "original_name": "Chironjib Bordoloi",
+          "popularity": 0.1013,
+          "profile_path": null,
+          "credit_id": "66b1e09108b600bbdf940bf0",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1021524,
+          "known_for_department": "Acting",
+          "name": "Parambrata Chatterjee",
+          "original_name": "Parambrata Chatterjee",
+          "popularity": 0.8539,
+          "profile_path": "/f0vKFvgiyBvdgiXOFKpnnb6AfbG.jpg",
+          "credit_id": "66b1e0b29743d0e5844a612e",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4367116,
+          "known_for_department": "Production",
+          "name": "Soumya Mukherjee",
+          "original_name": "Soumya Mukherjee",
+          "popularity": 0.1041,
+          "profile_path": "/at7qy4chisc1nxmjHkcaY2zZ8LS.jpg",
+          "credit_id": "66b1e04754093e3fd5dc7963",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1021524,
+          "known_for_department": "Acting",
+          "name": "Parambrata Chatterjee",
+          "original_name": "Parambrata Chatterjee",
+          "popularity": 0.8539,
+          "profile_path": "/f0vKFvgiyBvdgiXOFKpnnb6AfbG.jpg",
+          "credit_id": "66b1e0bd62fef38eea2fed2f",
+          "department": "Writing",
+          "job": "Dialogue"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4869726,
+          "known_for_department": "Writing",
+          "name": "Chironjib Bordoloi",
+          "original_name": "Chironjib Bordoloi",
+          "popularity": 0.1013,
+          "profile_path": null,
+          "credit_id": "66b1e09a59431685f799a8ae",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2693859,
+          "known_for_department": "Camera",
+          "name": "Prosenjit Chowdhury",
+          "original_name": "Prosenjit Chowdhury",
+          "popularity": 0.203,
+          "profile_path": "/7xEiBmY6fhDSbhvc7G7WIqw2Y1q.jpg",
+          "credit_id": "679a818bff8a9db5e5343edf",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2438580,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Somnath Kundu",
+          "original_name": "Somnath Kundu",
+          "popularity": 0.1857,
+          "profile_path": null,
+          "credit_id": "679cd0e64e9a4595ecbdefba",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1376999,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Sabarni Das",
+          "original_name": "Sabarni Das",
+          "popularity": 0.3298,
+          "profile_path": "/7CIjbS8xFt8XJlJpwkDfMkjqyek.jpg",
+          "credit_id": "679cd0f973712169814d1aa9",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2495836,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Hena Munshi",
+          "original_name": "Hena Munshi",
+          "popularity": 0.0988,
+          "profile_path": null,
+          "credit_id": "679cd112acab968a584d1b69",
+          "department": "Costume & Make-Up",
+          "job": "Hair Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2801539,
+          "known_for_department": "Editing",
+          "name": "Sumit Chowdhury",
+          "original_name": "Sumit Chowdhury",
+          "popularity": 0.2195,
+          "profile_path": "/5b9cb46S3G72lGD8at20lMe1Rn6.jpg",
+          "credit_id": "679cd124d80170ee55012122",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IN",
+          "release_dates": [
+            {
+              "certification": "UA",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2025-01-31T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "UA",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Hoichoi",
+              "release_date": "2025-03-28T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "IN",
+          "title": "Strangers in the Night",
+          "type": "English"
+        },
+        {
+          "iso_3166_1": "IN",
+          "title": "Ei Raat Tomar Amar",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

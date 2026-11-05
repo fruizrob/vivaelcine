@@ -1,0 +1,216 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1256084?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:34.250Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/f4YI9A153cGJetASn3qs2C89vAn.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1256084,
+    "imdb_id": null,
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Étudiantes en terrain miné",
+    "overview": "",
+    "popularity": 0.4437,
+    "poster_path": "/qEELynLUutkdZuPZRMODw7axXeo.jpg",
+    "production_companies": [
+      {
+        "id": 111446,
+        "logo_path": "/zfbAqVuD9IJnWROq15BXKNnNBhv.png",
+        "name": "10.7 Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 130601,
+        "logo_path": "/dWQATUR0vt14GTVhhv6al19hgRb.png",
+        "name": "France•3 Paris Ile-de-France",
+        "origin_country": "FR"
+      },
+      {
+        "id": 127436,
+        "logo_path": "/85hn0WZVj2wpm7scTkrQz76lKJ7.png",
+        "name": "LCP - Assemblée nationale",
+        "origin_country": "FR"
+      },
+      {
+        "id": 310,
+        "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+        "name": "CNC",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2024-09-12",
+    "revenue": 0,
+    "runtime": 52,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Étudiantes en terrain miné",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4579868,
+          "known_for_department": "Directing",
+          "name": "Charlotte Espel",
+          "original_name": "Charlotte Espel",
+          "popularity": 0.2563,
+          "profile_path": null,
+          "credit_id": "65eb0e4c94d8a801488ef1af",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4579868,
+          "known_for_department": "Directing",
+          "name": "Charlotte Espel",
+          "original_name": "Charlotte Espel",
+          "popularity": 0.2563,
+          "profile_path": null,
+          "credit_id": "6925ba3752403149d5c11a8f",
+          "department": "Writing",
+          "job": "Author"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5166116,
+          "known_for_department": "Directing",
+          "name": "Cécilia Brès",
+          "original_name": "Cécilia Brès",
+          "popularity": 0.1651,
+          "profile_path": null,
+          "credit_id": "6925bcd8f64734b2c4248601",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5838465,
+          "known_for_department": "Camera",
+          "name": "Yann de Gaetano",
+          "original_name": "Yann de Gaetano",
+          "popularity": 0.3692,
+          "profile_path": null,
+          "credit_id": "6925bce4f27adf435ad9c560",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4579868,
+          "known_for_department": "Directing",
+          "name": "Charlotte Espel",
+          "original_name": "Charlotte Espel",
+          "popularity": 0.2563,
+          "profile_path": null,
+          "credit_id": "6925bcf0eedca2470e24861d",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2196600,
+          "known_for_department": "Production",
+          "name": "Cathy Palumbo",
+          "original_name": "Cathy Palumbo",
+          "popularity": 0.1622,
+          "profile_path": null,
+          "credit_id": "6925bd048166dc3e50ea990b",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3019550,
+          "known_for_department": "Production",
+          "name": "Victor Robert",
+          "original_name": "Victor Robert",
+          "popularity": 0.1159,
+          "profile_path": "/9dHpKv1JxcMY4LuoSchYhrmbjzp.jpg",
+          "credit_id": "6925bd13293a672a51244f83",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "TP",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "France•tv",
+              "release_date": "2024-09-12T00:00:00.000Z",
+              "type": 4
+            },
+            {
+              "certification": "TP",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "LCP - Public Sénat",
+              "release_date": "2025-11-25T00:00:00.000Z",
+              "type": 6
+            },
+            {
+              "certification": "TP",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "France•3 Paris Île-de-France",
+              "release_date": "2024-09-12T00:00:00.000Z",
+              "type": 6
+            },
+            {
+              "certification": "TP",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "LCP - Public Sénat\t",
+              "release_date": "2026-04-02T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

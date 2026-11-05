@@ -1,0 +1,304 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1655900?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:03.784Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/qTdwRk3ppSTx3cea3KwjZtyTH2.jpg",
+    "belongs_to_collection": null,
+    "budget": 1000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 1655900,
+    "imdb_id": "tt35417687",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Dr. Valentine and the Creation of Strangers",
+    "overview": "",
+    "popularity": 0.5274,
+    "poster_path": "/47zqBpBGW9VAe0TLIKlGsgHidWu.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2025-02-14",
+    "revenue": 0,
+    "runtime": 16,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dr. Valentine and the Creation of Strangers",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6088296,
+          "known_for_department": "Acting",
+          "name": "Julia Ferrara",
+          "original_name": "Julia Ferrara",
+          "popularity": 0.1804,
+          "profile_path": "/yse65lUCYu5uNAoX3scCXSJiBbw.jpg",
+          "cast_id": 1,
+          "character": "Lana March",
+          "credit_id": "69bf99a37ffc660363a24d97",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5774043,
+          "known_for_department": "Acting",
+          "name": "Thomas Gentile",
+          "original_name": "Thomas Gentile",
+          "popularity": 0.1099,
+          "profile_path": "/7XFHzll59c00cLR4CpxJSID4BkG.jpg",
+          "cast_id": 2,
+          "character": "Dr. Valentine",
+          "credit_id": "69bf99af00e5590ddd1b08cc",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6088343,
+          "known_for_department": "Acting",
+          "name": "Russell Gentile",
+          "original_name": "Russell Gentile",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Neighbor",
+          "credit_id": "69bf99bec4fed9405ad3445a",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6088344,
+          "known_for_department": "Acting",
+          "name": "Cole Bort",
+          "original_name": "Cole Bort",
+          "popularity": 0.1008,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Boyfriend",
+          "credit_id": "69bf99cb747f21e260d343ee",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6088345,
+          "known_for_department": "Acting",
+          "name": "Sophia Giacona",
+          "original_name": "Sophia Giacona",
+          "popularity": 0.0925,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Girlfriend",
+          "credit_id": "69bf99d634b103757415e75f",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5774046,
+          "known_for_department": "Directing",
+          "name": "Sam Blais",
+          "original_name": "Sam Blais",
+          "popularity": 0.1106,
+          "profile_path": "/J2P3RbWihVFHggBEPeAY5gfw83.jpg",
+          "credit_id": "69bf9bba932bdea17c15e917",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5774043,
+          "known_for_department": "Acting",
+          "name": "Thomas Gentile",
+          "original_name": "Thomas Gentile",
+          "popularity": 0.1099,
+          "profile_path": "/7XFHzll59c00cLR4CpxJSID4BkG.jpg",
+          "credit_id": "69bf9bc4af4231284b4fee51",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5774046,
+          "known_for_department": "Directing",
+          "name": "Sam Blais",
+          "original_name": "Sam Blais",
+          "popularity": 0.1106,
+          "profile_path": "/J2P3RbWihVFHggBEPeAY5gfw83.jpg",
+          "credit_id": "69bf9bd35276d545d54feec7",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5774043,
+          "known_for_department": "Acting",
+          "name": "Thomas Gentile",
+          "original_name": "Thomas Gentile",
+          "popularity": 0.1099,
+          "profile_path": "/7XFHzll59c00cLR4CpxJSID4BkG.jpg",
+          "credit_id": "69bf9bdd56a0dd19d57b2c1c",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5774048,
+          "known_for_department": "Production",
+          "name": "Trevor J. Howard",
+          "original_name": "Trevor J. Howard",
+          "popularity": 0.0909,
+          "profile_path": "/1Z5M9Igd3wSA3pgnZAdeEC8B2Op.jpg",
+          "credit_id": "69bf9beb80acb312f001c949",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5774046,
+          "known_for_department": "Directing",
+          "name": "Sam Blais",
+          "original_name": "Sam Blais",
+          "popularity": 0.1106,
+          "profile_path": "/J2P3RbWihVFHggBEPeAY5gfw83.jpg",
+          "credit_id": "69bf9bf595dda93ddb15e81e",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5774043,
+          "known_for_department": "Acting",
+          "name": "Thomas Gentile",
+          "original_name": "Thomas Gentile",
+          "popularity": 0.1099,
+          "profile_path": "/7XFHzll59c00cLR4CpxJSID4BkG.jpg",
+          "credit_id": "69bf9c005276d545d54feeca",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5774059,
+          "known_for_department": "Sound",
+          "name": "Justin Chadima",
+          "original_name": "Justin Chadima",
+          "popularity": 0.1259,
+          "profile_path": "/m44g6nNtZnY2xaZOdrp92JH2uBV.jpg",
+          "credit_id": "69bf9c0b449d72645015e7ec",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5774059,
+          "known_for_department": "Sound",
+          "name": "Justin Chadima",
+          "original_name": "Justin Chadima",
+          "popularity": 0.1259,
+          "profile_path": "/m44g6nNtZnY2xaZOdrp92JH2uBV.jpg",
+          "credit_id": "69bf9c131f168610d713bbf2",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6088151,
+          "known_for_department": "Acting",
+          "name": "Amber Kutschke",
+          "original_name": "Amber Kutschke",
+          "popularity": 0.2513,
+          "profile_path": "/y9KhkARP8zrlh6lDM187TM1OP99.jpg",
+          "credit_id": "69bf9c1da8130b8205b33428",
+          "department": "Sound",
+          "job": "Boom Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6088151,
+          "known_for_department": "Acting",
+          "name": "Amber Kutschke",
+          "original_name": "Amber Kutschke",
+          "popularity": 0.2513,
+          "profile_path": "/y9KhkARP8zrlh6lDM187TM1OP99.jpg",
+          "credit_id": "69bf9c27b445e8143b7b2b50",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5774045,
+          "known_for_department": "Acting",
+          "name": "Ethan Goodness",
+          "original_name": "Ethan Goodness",
+          "popularity": 0.1306,
+          "profile_path": "/k4uFwpwCi8EsVWlB4rn3xhf0VQy.jpg",
+          "credit_id": "69bf9c3b95fbfd23874feddd",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2025-02-14T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

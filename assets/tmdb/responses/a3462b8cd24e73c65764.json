@@ -1,0 +1,244 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/49765?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:44:46.710Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 49765,
+    "imdb_id": "tt1038904",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Calle Santa Fe",
+    "overview": "5 de octubre de 1974: En los suburbios de Santiago, Carmen, embarazada, resulta gravemente herida y su compañero Miguel, jefe de la resistencia contra la dictadura de Pinochet, muere en combate. Comienza así un viaje por las memorias de los derrotados...",
+    "popularity": 1.0542,
+    "poster_path": "/uMYDaZOWx2pFKnSOUJdkCWMZly.jpg",
+    "production_companies": [
+      {
+        "id": 82782,
+        "logo_path": null,
+        "name": "Les Films de la Passerelle",
+        "origin_country": "BE"
+      },
+      {
+        "id": 27562,
+        "logo_path": null,
+        "name": "Parox",
+        "origin_country": "CL"
+      },
+      {
+        "id": 1848,
+        "logo_path": null,
+        "name": "Les",
+        "origin_country": ""
+      },
+      {
+        "id": 16180,
+        "logo_path": "/tE5t6MnMhvyc34beR4Qf6hM2c5K.png",
+        "name": "INA",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2007-10-14",
+    "revenue": 0,
+    "runtime": 163,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Calle Santa Fe",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 13,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1081489,
+          "known_for_department": "Directing",
+          "name": "Carmen Castillo",
+          "original_name": "Carmen Castillo",
+          "popularity": 0.7214,
+          "profile_path": "/1KHrDPnJJ3VDwT6HJt1vazyWD0J.jpg",
+          "cast_id": 3,
+          "character": "Self",
+          "credit_id": "5ddef0224f5801000ffb0de6",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1440417,
+          "known_for_department": "Acting",
+          "name": "Mónica Echeverría",
+          "original_name": "Mónica Echeverría",
+          "popularity": 0.626,
+          "profile_path": "/mk61a3fTqchT1aznhLzhYVBzz1D.jpg",
+          "cast_id": 7,
+          "character": "Self",
+          "credit_id": "5fc84523dcf875003f3dcb5d",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1081489,
+          "known_for_department": "Directing",
+          "name": "Carmen Castillo",
+          "original_name": "Carmen Castillo",
+          "popularity": 0.7214,
+          "profile_path": "/1KHrDPnJJ3VDwT6HJt1vazyWD0J.jpg",
+          "credit_id": "52fe47a5c3a36847f8140e4d",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1081489,
+          "known_for_department": "Directing",
+          "name": "Carmen Castillo",
+          "original_name": "Carmen Castillo",
+          "popularity": 0.7214,
+          "profile_path": "/1KHrDPnJJ3VDwT6HJt1vazyWD0J.jpg",
+          "credit_id": "58110e52c3a368795500c897",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 79534,
+          "known_for_department": "Production",
+          "name": "Agnès B.",
+          "original_name": "Agnès B.",
+          "popularity": 0.8174,
+          "profile_path": "/i9nBTjzFddm4yZrNrvIXbPJw1u8.jpg",
+          "credit_id": "5ec9f5fa0fb17f001b7df6f4",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 231184,
+          "known_for_department": "Sound",
+          "name": "Damien Defays",
+          "original_name": "Damien Defays",
+          "popularity": 0.1043,
+          "profile_path": null,
+          "credit_id": "5ec9f647d2147c0023c30abd",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1359558,
+          "known_for_department": "Camera",
+          "name": "Ned Burgess",
+          "original_name": "Ned Burgess",
+          "popularity": 0.1567,
+          "profile_path": null,
+          "credit_id": "5ec9f62bd2147c0023c30a9b",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Festival de Cannes - Un Certain Regard",
+              "release_date": "2007-05-22T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2007-12-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2007-10-14T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "VI",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2007-10-14T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "BR",
+          "title": "Rua Santa Fé",
+          "type": "DVD title"
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Rue Santa Fé - De défaite en défaite jusqu'à la victoire finale",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

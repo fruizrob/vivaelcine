@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Rehearsals+for+a+Revolution&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-05T16:45:06.632Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/vMZSG9ppXdHHSW7zXoThi4EvU6o.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1666864,
+        "title": "Ensayos para una revolución",
+        "original_language": "fa",
+        "original_title": "تمرین‌هایی برای یک انقلاب",
+        "overview": "",
+        "popularity": 1.5554,
+        "poster_path": "/mzocxy2wpTGoStwUlqcfHaNSxm2.jpg",
+        "release_date": "2026-12-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

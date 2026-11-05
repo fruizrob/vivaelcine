@@ -1,0 +1,165 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/125949?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:42.655Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/sBLWdW284c3Pv0PCZXi9T1IA8hb.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 125949,
+    "imdb_id": "tt0064706",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "My Girlfriend's Wedding",
+    "overview": "",
+    "popularity": 0.4922,
+    "poster_path": "/nkeLQlrwxI1ahguKzZzN3GPTe8q.jpg",
+    "production_companies": [
+      {
+        "id": 88866,
+        "logo_path": null,
+        "name": "Paradigm Films International",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1969-01-01",
+    "revenue": 0,
+    "runtime": 62,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "My Girlfriend's Wedding",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 5,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 15206,
+          "known_for_department": "Directing",
+          "name": "Jim McBride",
+          "original_name": "Jim McBride",
+          "popularity": 0.6155,
+          "profile_path": "/ldEq08d0AB6ZQuLD9e5a9kvl8Ui.jpg",
+          "cast_id": 2,
+          "character": "Himself",
+          "credit_id": "52fe4ad4c3a368484e16925d",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1081889,
+          "known_for_department": "Acting",
+          "name": "Clarissa Dalrymple",
+          "original_name": "Clarissa Dalrymple",
+          "popularity": 0.095,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Herself",
+          "credit_id": "52fe4ad4c3a368484e169261",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3192333,
+          "known_for_department": "Acting",
+          "name": "Dennis Dalrymple",
+          "original_name": "Dennis Dalrymple",
+          "popularity": 0.1298,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Himself",
+          "credit_id": "61114d6965e0a20045297aae",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 15206,
+          "known_for_department": "Directing",
+          "name": "Jim McBride",
+          "original_name": "Jim McBride",
+          "popularity": 0.6155,
+          "profile_path": "/ldEq08d0AB6ZQuLD9e5a9kvl8Ui.jpg",
+          "credit_id": "52fe4ad4c3a368484e169259",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 15206,
+          "known_for_department": "Directing",
+          "name": "Jim McBride",
+          "original_name": "Jim McBride",
+          "popularity": 0.6155,
+          "profile_path": "/ldEq08d0AB6ZQuLD9e5a9kvl8Ui.jpg",
+          "credit_id": "61114e140c2710005e588620",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6270155,
+          "known_for_department": "Editing",
+          "name": "Ted Levine",
+          "original_name": "Ted Levine",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6a25982cf8000bc7ff60c206",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

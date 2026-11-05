@@ -1,0 +1,643 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/134223?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:13.963Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/zSHb79XUj9a8eMrsMKq7XfVjUgh.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 37,
+        "name": "Western"
+      }
+    ],
+    "homepage": "",
+    "id": 134223,
+    "imdb_id": "tt0068870",
+    "origin_country": [
+      "ES",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Un hombre llamado Noon",
+    "overview": "Un individuo es tiroteado y herido en la cabeza. Como consecuencia de ello pierde la memoria, por lo que a partir de ese momento, y ayudado por un simpático bandido, intentará descubrir quién es y por qué le quisieron matar. A medida que avancen sus investigaciones irán aumentando sus sospechas de que en realidad es un temible pistolero llamado Noon.",
+    "popularity": 1.8879,
+    "poster_path": "/535M4EYIWzMQes1JH2rUOpQ3PMi.jpg",
+    "production_companies": [
+      {
+        "id": 33649,
+        "logo_path": null,
+        "name": "Finarco",
+        "origin_country": "IT"
+      },
+      {
+        "id": 15555,
+        "logo_path": null,
+        "name": "Euan Lloyd Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 1376,
+        "logo_path": null,
+        "name": "Films Montana",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "1973-08-29",
+    "revenue": 0,
+    "runtime": 98,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Un hombre llamado Noon",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 20,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16554,
+          "known_for_department": "Acting",
+          "name": "Richard Crenna",
+          "original_name": "Richard Crenna",
+          "popularity": 1.5741,
+          "profile_path": "/7mKmqNaOpYxUSUO9gmlJa98iZ9j.jpg",
+          "cast_id": 2,
+          "character": "Noon",
+          "credit_id": "52fe4bc8c3a368484e198fa7",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 10020,
+          "known_for_department": "Acting",
+          "name": "Stephen Boyd",
+          "original_name": "Stephen Boyd",
+          "popularity": 1.4787,
+          "profile_path": "/1w6Lv4pQDMDzn0fFPzaKZQmzAcW.jpg",
+          "cast_id": 3,
+          "character": "Rimes",
+          "credit_id": "52fe4bc8c3a368484e198fab",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 30927,
+          "known_for_department": "Acting",
+          "name": "Rosanna Schiaffino",
+          "original_name": "Rosanna Schiaffino",
+          "popularity": 0.7425,
+          "profile_path": "/mgsEjqpTQ9blngLxXWYmtlsnK9G.jpg",
+          "cast_id": 4,
+          "character": "Fan Davidge",
+          "credit_id": "52fe4bc8c3a368484e198faf",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12497,
+          "known_for_department": "Acting",
+          "name": "Farley Granger",
+          "original_name": "Farley Granger",
+          "popularity": 1.2105,
+          "profile_path": "/4Tqi22qSxBdeWGDAOVvfa8pDX8E.jpg",
+          "cast_id": 5,
+          "character": "Judge Niland",
+          "credit_id": "52fe4bc8c3a368484e198fb3",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 31347,
+          "known_for_department": "Acting",
+          "name": "Patty Shepard",
+          "original_name": "Patty Shepard",
+          "popularity": 0.6759,
+          "profile_path": "/x88ros5zFlLZhPCSDvpuf2qihQl.jpg",
+          "cast_id": 6,
+          "character": "Peg Cullane",
+          "credit_id": "52fe4bc8c3a368484e198fb7",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 31349,
+          "known_for_department": "Acting",
+          "name": "Ángel del Pozo",
+          "original_name": "Ángel del Pozo",
+          "popularity": 1.0551,
+          "profile_path": "/npNdAhldYxaFX0WuqL0cydFznr2.jpg",
+          "cast_id": 7,
+          "character": "Ben Janish",
+          "credit_id": "52fe4bc8c3a368484e198fbb",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 27383,
+          "known_for_department": "Acting",
+          "name": "Howard Ross",
+          "original_name": "Howard Ross",
+          "popularity": 0.4638,
+          "profile_path": "/bHjanPW2tJ9nzOxj8tq6RZ7E6pN.jpg",
+          "cast_id": 8,
+          "character": "Bayles",
+          "credit_id": "52fe4bc8c3a368484e198fbf",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 49895,
+          "known_for_department": "Acting",
+          "name": "Aldo Sambrell",
+          "original_name": "Aldo Sambrell",
+          "popularity": 0.716,
+          "profile_path": "/lJsoZtOeNaer5jZSydSjONL32xp.jpg",
+          "cast_id": 9,
+          "character": "Kissling",
+          "credit_id": "52fe4bc8c3a368484e198fc3",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 102131,
+          "known_for_department": "Acting",
+          "name": "José Jaspe",
+          "original_name": "José Jaspe",
+          "popularity": 0.3911,
+          "profile_path": "/e3lGN9dDpemGFZL8NURheuy0Wcr.jpg",
+          "cast_id": 14,
+          "character": "Henneker",
+          "credit_id": "59bf5ef1c3a368301f00c60e",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 103513,
+          "known_for_department": "Acting",
+          "name": "Charly Bravo",
+          "original_name": "Charly Bravo",
+          "popularity": 1.591,
+          "profile_path": "/aIXI5taeDXmcVGh2FPOjzDr2ozF.jpg",
+          "cast_id": 15,
+          "character": "Lang",
+          "credit_id": "59bf5f78c3a3682feb00daa4",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32130,
+          "known_for_department": "Acting",
+          "name": "Ricardo Palacios",
+          "original_name": "Ricardo Palacios",
+          "popularity": 0.6977,
+          "profile_path": "/CywRvA9nuKxa5cih9VoUD0atfu.jpg",
+          "cast_id": 16,
+          "character": "Brakeman",
+          "credit_id": "59bf6001c3a3682ff800da3f",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30831,
+          "known_for_department": "Acting",
+          "name": "Fernando Hilbeck",
+          "original_name": "Fernando Hilbeck",
+          "popularity": 0.4226,
+          "profile_path": "/s65zVxbR8yQlKiUIu4jgcSo4ngv.jpg",
+          "cast_id": 17,
+          "character": "Ford",
+          "credit_id": "59bf605fc3a368306500bdb5",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 72889,
+          "known_for_department": "Acting",
+          "name": "José Canalejas",
+          "original_name": "José Canalejas",
+          "popularity": 0.6286,
+          "profile_path": "/j0Es58iqXQC1HlEVyqmZiZp8PCf.jpg",
+          "cast_id": 18,
+          "character": "Cherry",
+          "credit_id": "59bf60d8c3a3682ff800db21",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 89774,
+          "known_for_department": "Acting",
+          "name": "Julián Ugarte",
+          "original_name": "Julián Ugarte",
+          "popularity": 1.2195,
+          "profile_path": "/koF6SbF0lgzpHerZTqHgfKfvs2m.jpg",
+          "cast_id": 19,
+          "character": "Christobal",
+          "credit_id": "59bf6127925141472a00d6a5",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 118119,
+          "known_for_department": "Acting",
+          "name": "César Burner",
+          "original_name": "César Burner",
+          "popularity": 0.3848,
+          "profile_path": "/mafxAF5x1EdNL3nMaC83S4CxcyE.jpg",
+          "cast_id": 20,
+          "character": "Charlie",
+          "credit_id": "59bf6190925141475900d982",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 31748,
+          "known_for_department": "Acting",
+          "name": "Barta Barri",
+          "original_name": "Barta Barri",
+          "popularity": 0.4837,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Mexican",
+          "credit_id": "59bf61bec3a3682fb800ddf9",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 283080,
+          "known_for_department": "Acting",
+          "name": "Adolfo Thous",
+          "original_name": "Adolfo Thous",
+          "popularity": 0.4668,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "Old Mexican",
+          "credit_id": "59bf623cc3a368301f00c8b9",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 66293,
+          "known_for_department": "Acting",
+          "name": "Bruce M. Fischer",
+          "original_name": "Bruce M. Fischer",
+          "popularity": 1.0332,
+          "profile_path": "/zy7FkwUdqV4iZ5ESs8OqIoepySC.jpg",
+          "cast_id": 23,
+          "character": "Ranch Hand",
+          "credit_id": "59bf6269925141472000d79b",
+          "order": 17
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 78943,
+          "known_for_department": "Acting",
+          "name": "Scot Finch",
+          "original_name": "Scot Finch",
+          "popularity": 0.4596,
+          "profile_path": null,
+          "credit_id": "52fe4bc8c3a368484e198fc9",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1191061,
+          "known_for_department": "Writing",
+          "name": "Antonio Recoder",
+          "original_name": "Antonio Recoder",
+          "popularity": 0.2199,
+          "profile_path": null,
+          "credit_id": "52fe4bc8c3a368484e198fd5",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 39779,
+          "known_for_department": "Directing",
+          "name": "Peter Collinson",
+          "original_name": "Peter Collinson",
+          "popularity": 0.6819,
+          "profile_path": "/oSDx2b8rJ9Cd8bflKHSuN02fSON.jpg",
+          "credit_id": "52fe4bc8c3a368484e198fa3",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 50301,
+          "known_for_department": "Writing",
+          "name": "Louis L'Amour",
+          "original_name": "Louis L'Amour",
+          "popularity": 0.4543,
+          "profile_path": "/64XD07n2BawU64Iyy6hcwjohqEv.jpg",
+          "credit_id": "52fe4bc8c3a368484e198fcf",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 51882,
+          "known_for_department": "Production",
+          "name": "Euan Lloyd",
+          "original_name": "Euan Lloyd",
+          "popularity": 0.2649,
+          "profile_path": null,
+          "credit_id": "59bf62c5925141474500d185",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1605760,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Agustín Jiménez",
+          "original_name": "Agustín Jiménez",
+          "popularity": 0.2224,
+          "profile_path": null,
+          "credit_id": "59bf64ccc3a368301f00cac9",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 67452,
+          "known_for_department": "Editing",
+          "name": "Alan Pattillo",
+          "original_name": "Alan Pattillo",
+          "popularity": 0.2929,
+          "profile_path": "/zQ4vkeapTHLCvpag5TMJXwhtGnG.jpg",
+          "credit_id": "59bf6443925141473b00da26",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1590917,
+          "known_for_department": "Sound",
+          "name": "Don Challis",
+          "original_name": "Don Challis",
+          "popularity": 0.2137,
+          "profile_path": null,
+          "credit_id": "59bf68b7c3a3682fb800e4b9",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1120605,
+          "known_for_department": "Art",
+          "name": "José María Tapiador",
+          "original_name": "José María Tapiador",
+          "popularity": 0.3749,
+          "profile_path": null,
+          "credit_id": "59bf6497925141475600e70a",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1125593,
+          "known_for_department": "Camera",
+          "name": "Eduardo Noé",
+          "original_name": "Eduardo Noé",
+          "popularity": 0.731,
+          "profile_path": null,
+          "credit_id": "59bf693f925141472000deda",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1725380,
+          "known_for_department": "Art",
+          "name": "Germán Quejido Perrucha",
+          "original_name": "Germán Quejido Perrucha",
+          "popularity": 0.1158,
+          "profile_path": null,
+          "credit_id": "59bf65ecc3a3682ff800df73",
+          "department": "Art",
+          "job": "Property Master"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1699657,
+          "known_for_department": "Camera",
+          "name": "Salvador Gil",
+          "original_name": "Salvador Gil",
+          "popularity": 0.3765,
+          "profile_path": null,
+          "credit_id": "59bf68a492514146fa00e08e",
+          "department": "Sound",
+          "job": "Sound Engineer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1699657,
+          "known_for_department": "Camera",
+          "name": "Salvador Gil",
+          "original_name": "Salvador Gil",
+          "popularity": 0.3765,
+          "profile_path": null,
+          "credit_id": "59bf6814c3a3682fb800e3ee",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 66675,
+          "known_for_department": "Sound",
+          "name": "Luis Bacalov",
+          "original_name": "Luis Bacalov",
+          "popularity": 0.3785,
+          "profile_path": "/d9hYl7eX4KxIz4wZ9psdKjxmaSF.jpg",
+          "credit_id": "59bf632dc3a368300e00d531",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 24913,
+          "known_for_department": "Camera",
+          "name": "John Cabrera",
+          "original_name": "John Cabrera",
+          "popularity": 0.1992,
+          "profile_path": null,
+          "credit_id": "59bf63df925141475000d845",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 107415,
+          "known_for_department": "Production",
+          "name": "Chris Chrisafis",
+          "original_name": "Chris Chrisafis",
+          "popularity": 0.3001,
+          "profile_path": null,
+          "credit_id": "59bf6a32c3a368307500ed86",
+          "department": "Crew",
+          "job": "Production Controller"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 117412,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Ramón de Diego",
+          "original_name": "Ramón de Diego",
+          "popularity": 0.3272,
+          "profile_path": null,
+          "credit_id": "59bf650a925141472a00d9da",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1035872,
+          "known_for_department": "Directing",
+          "name": "José María Ochoa",
+          "original_name": "José María Ochoa",
+          "popularity": 1.437,
+          "profile_path": null,
+          "credit_id": "59bf653f925141475900dc82",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 72478,
+          "known_for_department": "Production",
+          "name": "Alfredo Bini",
+          "original_name": "Alfredo Bini",
+          "popularity": 0.2267,
+          "profile_path": "/1FBfJsD2uDIvOnGiVofcrFB9Pe4.jpg",
+          "credit_id": "6788d54c38920393ad1d3980",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1973-08-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1973-10-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2022-04-05T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "R",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1973-09-24T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

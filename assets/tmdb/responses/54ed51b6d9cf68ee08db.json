@@ -1,0 +1,414 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/759649?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:26.760Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "id": 759649,
+    "imdb_id": "tt1974389",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The End",
+    "overview": "",
+    "popularity": 1.5328,
+    "poster_path": "/g7nz2UAeqOeaS5EkCcaEnynHHhl.jpg",
+    "production_companies": [
+      {
+        "id": 128726,
+        "logo_path": null,
+        "name": "Neath Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2011-06-20",
+    "revenue": 0,
+    "runtime": 24,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The End",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4115769,
+          "known_for_department": "Acting",
+          "name": "Tyler Webster",
+          "original_name": "Tyler Webster",
+          "popularity": 0.2635,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Arron - Boy",
+          "credit_id": "64e9fcd3e894a600c728e8d0",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4235336,
+          "known_for_department": "Acting",
+          "name": "Karolis Jaskus",
+          "original_name": "Karolis Jaskus",
+          "popularity": 0.208,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Arron - Teenager",
+          "credit_id": "64e9fcebc3c89100aed9a2a5",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4235274,
+          "known_for_department": "Acting",
+          "name": "Brian Duffy",
+          "original_name": "Brian Duffy",
+          "popularity": 0.8266,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Arron - Man",
+          "credit_id": "64e9fd01e894a600c728e8ee",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4235338,
+          "known_for_department": "Acting",
+          "name": "Terry Edwards",
+          "original_name": "Terry Edwards",
+          "popularity": 0.3356,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Arron - Old Man",
+          "credit_id": "64e9fd2d5258ae012ca58037",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4235342,
+          "known_for_department": "Acting",
+          "name": "April Platt",
+          "original_name": "April Platt",
+          "popularity": 0.123,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Sophia - Girl",
+          "credit_id": "64e9fe0d06f98400ca55d842",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3191053,
+          "known_for_department": "Acting",
+          "name": "Rose Ayling-Ellis",
+          "original_name": "Rose Ayling-Ellis",
+          "popularity": 0.579,
+          "profile_path": "/3DwblFuyyqDwOsqZKqmzGaw9g2p.jpg",
+          "cast_id": 7,
+          "character": "Sophia - Teenager",
+          "credit_id": "64e9fe2a1feac100fe5d2471",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4235343,
+          "known_for_department": "Acting",
+          "name": "Isabel Meacher",
+          "original_name": "Isabel Meacher",
+          "popularity": 0.1736,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Sophia - Woman",
+          "credit_id": "64e9fe40c3c891013ab2710b",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4235344,
+          "known_for_department": "Acting",
+          "name": "Fran Allen",
+          "original_name": "Fran Allen",
+          "popularity": 0.4186,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Luke - Boy",
+          "credit_id": "64e9fe7083901800c88a99c2",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4235345,
+          "known_for_department": "Acting",
+          "name": "Alex Novak",
+          "original_name": "Alex Novak",
+          "popularity": 0.1627,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Luke - Teenager",
+          "credit_id": "64e9feca594c9400c553df22",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4235346,
+          "known_for_department": "Acting",
+          "name": "Colin Appleby",
+          "original_name": "Colin Appleby",
+          "popularity": 0.1001,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Luke - Middle Aged",
+          "credit_id": "64e9fef706f984014e68c3c3",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4235348,
+          "known_for_department": "Acting",
+          "name": "Esah Hayat",
+          "original_name": "Esah Hayat",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Mo - Boy",
+          "credit_id": "64e9ff5ec3c89100e3609d41",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1221978,
+          "known_for_department": "Acting",
+          "name": "Wayne Perrey",
+          "original_name": "Wayne Perrey",
+          "popularity": 0.1934,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Mo - Man",
+          "credit_id": "64e9ff8ee894a600ae748cda",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4235351,
+          "known_for_department": "Acting",
+          "name": "Frances Albery",
+          "original_name": "Frances Albery",
+          "popularity": 0.1937,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Heidi",
+          "credit_id": "64e9ffbac613ce00eaa932ba",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4235356,
+          "known_for_department": "Acting",
+          "name": "Alison Shaw",
+          "original_name": "Alison Shaw",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Samantha",
+          "credit_id": "64ea00241feac100c46ee405",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4235359,
+          "known_for_department": "Acting",
+          "name": "Chloe Gilgallon",
+          "original_name": "Chloe Gilgallon",
+          "popularity": 0.1144,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Teacher",
+          "credit_id": "64ea006dc613ce014dfc7e80",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4235360,
+          "known_for_department": "Acting",
+          "name": "Mike Hawthorne",
+          "original_name": "Mike Hawthorne",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Politician",
+          "credit_id": "64ea0084e894a6013bb0dd97",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2823680,
+          "known_for_department": "Writing",
+          "name": "Aileen O'Brien",
+          "original_name": "Aileen O'Brien",
+          "popularity": 1.0374,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Julia Gillard - MP",
+          "credit_id": "64ea0110c613ce014dfc7ec3",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4235364,
+          "known_for_department": "Acting",
+          "name": "Jim Fish",
+          "original_name": "Jim Fish",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Max Cunningham",
+          "credit_id": "64ea013e06f98400eb60290d",
+          "order": 17
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4191265,
+          "known_for_department": "Directing",
+          "name": "Ted Evans",
+          "original_name": "Ted Evans",
+          "popularity": 0.3138,
+          "profile_path": "/j9pnrp2TCJ77qUpfSOdRfscs37h.jpg",
+          "credit_id": "64ea017d839018011f8d889c",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4191265,
+          "known_for_department": "Directing",
+          "name": "Ted Evans",
+          "original_name": "Ted Evans",
+          "popularity": 0.3138,
+          "profile_path": "/j9pnrp2TCJ77qUpfSOdRfscs37h.jpg",
+          "credit_id": "64ea01861feac1011b2dcf30",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1656087,
+          "known_for_department": "Camera",
+          "name": "Stuart Nicholas White",
+          "original_name": "Stuart Nicholas White",
+          "popularity": 0.247,
+          "profile_path": null,
+          "credit_id": "64ea036445819900e35306a6",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4235278,
+          "known_for_department": "Editing",
+          "name": "Tom Sharp",
+          "original_name": "Tom Sharp",
+          "popularity": 0.1804,
+          "profile_path": null,
+          "credit_id": "64ea037345819900ada97dce",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4235373,
+          "known_for_department": "Art",
+          "name": "Emily Jane Bridge",
+          "original_name": "Emily Jane Bridge",
+          "popularity": 0.101,
+          "profile_path": null,
+          "credit_id": "64ea03895258ae00c94ca531",
+          "department": "Art",
+          "job": "Production Design"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2011-06-20T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "Tokyo Deaf Festival",
+              "release_date": "2017-04-07T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

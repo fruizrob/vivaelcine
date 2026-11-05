@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=%E2%80%9CFormas+de+ganar+el+cielo%E2%80%9D&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:02.374Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/m08jQhlLGKKeLde6xzhxwQzziga.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1767419,
+        "title": "\"Formas de ganar el cielo\"",
+        "original_language": "es",
+        "original_title": "\"Formas de ganar el cielo\"",
+        "overview": "Una niña deberá cumplir con la misión que le encargó la luna: encontrar la carta de su padre. Deambulando entre las calles de su barrio, comienza a recolectar objetos en búsqueda de respuestas. Al perderse, deberá ahora encontrar un nuevo destino.",
+        "popularity": 1.8629,
+        "poster_path": "/qiWN2SIJlQktOjkol0jPzMLGT7p.jpg",
+        "release_date": "",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

@@ -1,0 +1,591 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/217487?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:09.167Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/c9OEdiO5gxTWurctL5GsyBfwQCu.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10770,
+        "name": "Película de TV"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "id": 217487,
+    "imdb_id": "tt0072219",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Stranger Within",
+    "overview": "",
+    "popularity": 0.9791,
+    "poster_path": "/tOcLO8m7oQ78tfycjiuWAK6FbA2.jpg",
+    "production_companies": [
+      {
+        "id": 898,
+        "logo_path": "/pBh5kde6mhGEMglYLwCdFnqK5zh.png",
+        "name": "Lorimar Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1974-10-01",
+    "revenue": 0,
+    "runtime": 74,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Stranger Within",
+    "video": false,
+    "vote_average": 6.467,
+    "vote_count": 15,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 22090,
+          "known_for_department": "Acting",
+          "name": "Barbara Eden",
+          "original_name": "Barbara Eden",
+          "popularity": 1.825,
+          "profile_path": "/wFTdqWI7RDAbOlcejwHwKUOn4mr.jpg",
+          "cast_id": 1,
+          "character": "Ann Collins",
+          "credit_id": "54e621a592514122010002c6",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 72056,
+          "known_for_department": "Acting",
+          "name": "George Grizzard",
+          "original_name": "George Grizzard",
+          "popularity": 0.6529,
+          "profile_path": "/nGhVTWuoYbYfTnzZqxrWY9F0p6p.jpg",
+          "cast_id": 2,
+          "character": "David Collins",
+          "credit_id": "54e621b0c3a3685fe200032e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 14108,
+          "known_for_department": "Acting",
+          "name": "Joyce Van Patten",
+          "original_name": "Joyce Van Patten",
+          "popularity": 0.9772,
+          "profile_path": "/vbt3LzgBiQ7UhL5tDwn1wV4ndBd.jpg",
+          "cast_id": 3,
+          "character": "Phyllis",
+          "credit_id": "54e621b992514121f2000351",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 123632,
+          "known_for_department": "Acting",
+          "name": "David Doyle",
+          "original_name": "David Doyle",
+          "popularity": 0.9424,
+          "profile_path": "/kgyklBcLNPqyQf3Za7AU9JsBDYC.jpg",
+          "cast_id": 5,
+          "character": "Bob",
+          "credit_id": "57fd918a9251410af2001f80",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3160,
+          "known_for_department": "Acting",
+          "name": "Nehemiah Persoff",
+          "original_name": "Nehemiah Persoff",
+          "popularity": 1.0502,
+          "profile_path": "/vJoqhr7HVxP9HLTqt2rxo5OsSvq.jpg",
+          "cast_id": 6,
+          "character": "Dr. Edward Klein",
+          "credit_id": "57fd919a92514106990020b8",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 55449,
+          "known_for_department": "Directing",
+          "name": "Lee Philips",
+          "original_name": "Lee Philips",
+          "popularity": 0.3916,
+          "profile_path": "/zVIRl0NonCshulMLKCPowqPPH7w.jpg",
+          "credit_id": "54e62192c3a3685fd400030f",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 57360,
+          "known_for_department": "Camera",
+          "name": "Michael D. Margulies",
+          "original_name": "Michael D. Margulies",
+          "popularity": 0.2927,
+          "profile_path": null,
+          "credit_id": "57fd91f8c3a3681de600203e",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5634,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Patricia Norris",
+          "original_name": "Patricia Norris",
+          "popularity": 0.4027,
+          "profile_path": null,
+          "credit_id": "57fd92349251410699002133",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 42629,
+          "known_for_department": "Production",
+          "name": "Neil T. Maffeo",
+          "original_name": "Neil T. Maffeo",
+          "popularity": 0.1592,
+          "profile_path": null,
+          "credit_id": "57fd91c6c3a3681931001fc0",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 65558,
+          "known_for_department": "Production",
+          "name": "Lee Rich",
+          "original_name": "Lee Rich",
+          "popularity": 0.9044,
+          "profile_path": null,
+          "credit_id": "57fd91dfc3a3681e29001ea5",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 224961,
+          "known_for_department": "Art",
+          "name": "James Cane",
+          "original_name": "James Cane",
+          "popularity": 0.1718,
+          "profile_path": null,
+          "credit_id": "57fd92269251410699002123",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 50239,
+          "known_for_department": "Sound",
+          "name": "Charles Fox",
+          "original_name": "Charles Fox",
+          "popularity": 0.4126,
+          "profile_path": "/ekiudg0JEIfzEw5eproO01fGIpz.jpg",
+          "credit_id": "57fd91ee92514108db001f4e",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1206059,
+          "known_for_department": "Production",
+          "name": "Philip Capice",
+          "original_name": "Philip Capice",
+          "popularity": 0.1501,
+          "profile_path": null,
+          "credit_id": "57fd91d2c3a3681931001fca",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1298969,
+          "known_for_department": "Acting",
+          "name": "Jack Roberts",
+          "original_name": "Jack Roberts",
+          "popularity": 0.7153,
+          "profile_path": null,
+          "credit_id": "57fd92109251410b25001ffb",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 30106,
+          "known_for_department": "Art",
+          "name": "Hilyard M. Brown",
+          "original_name": "Hilyard M. Brown",
+          "popularity": 0.1782,
+          "profile_path": null,
+          "credit_id": "57fd921b9251410b170020f2",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12415,
+          "known_for_department": "Writing",
+          "name": "Richard Matheson",
+          "original_name": "Richard Matheson",
+          "popularity": 0.7922,
+          "profile_path": "/fTsTj0EMqH5GfVN0Kj252jsYZnB.jpg",
+          "credit_id": "57fd91adc3a3681f47001e07",
+          "department": "Writing",
+          "job": "Short Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12415,
+          "known_for_department": "Writing",
+          "name": "Richard Matheson",
+          "original_name": "Richard Matheson",
+          "popularity": 0.7922,
+          "profile_path": "/fTsTj0EMqH5GfVN0Kj252jsYZnB.jpg",
+          "credit_id": "57fd91b3c3a3681ec5001dc6",
+          "department": "Writing",
+          "job": "Teleplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 10151,
+          "known_for_department": "Editing",
+          "name": "Samuel E. Beetley",
+          "original_name": "Samuel E. Beetley",
+          "popularity": 0.2998,
+          "profile_path": null,
+          "credit_id": "57fd92039251410b170020d9",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1513646,
+          "known_for_department": "Production",
+          "name": "Kurt Neumann",
+          "original_name": "Kurt Neumann",
+          "popularity": 0.2717,
+          "profile_path": null,
+          "credit_id": "57fd926f9251410699002157",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1513646,
+          "known_for_department": "Production",
+          "name": "Kurt Neumann",
+          "original_name": "Kurt Neumann",
+          "popularity": 0.2717,
+          "profile_path": null,
+          "credit_id": "6645776fa17f2bc5d62dabff",
+          "department": "Production",
+          "job": "Unit Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2469974,
+          "known_for_department": "Production",
+          "name": "Robert Bennett Steinhauer",
+          "original_name": "Robert Bennett Steinhauer",
+          "popularity": 0.1926,
+          "profile_path": null,
+          "credit_id": "6645778932aff1009b5c05a4",
+          "department": "Directing",
+          "job": "Second Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4717161,
+          "known_for_department": "Directing",
+          "name": "Adell Bravos",
+          "original_name": "Adell Bravos",
+          "popularity": 0.1169,
+          "profile_path": null,
+          "credit_id": "664578b8fccec0ec3c3aee0d",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1338837,
+          "known_for_department": "Sound",
+          "name": "Ken Runyon",
+          "original_name": "Ken Runyon",
+          "popularity": 0.1441,
+          "profile_path": null,
+          "credit_id": "664578428cd8de4dba1ca4a4",
+          "department": "Sound",
+          "job": "Music Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3087807,
+          "known_for_department": "Camera",
+          "name": "Jerry Deats",
+          "original_name": "Jerry Deats",
+          "popularity": 0.1433,
+          "profile_path": null,
+          "credit_id": "664578076b1a2635ba82d789",
+          "department": "Camera",
+          "job": "Key Grip"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5634,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Patricia Norris",
+          "original_name": "Patricia Norris",
+          "popularity": 0.4027,
+          "profile_path": null,
+          "credit_id": "66457823abe7563b1591d1a9",
+          "department": "Costume & Make-Up",
+          "job": "Costumer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2825310,
+          "known_for_department": "Crew",
+          "name": "James R. White",
+          "original_name": "James R. White",
+          "popularity": 0.2146,
+          "profile_path": null,
+          "credit_id": "664578d34cabdb42c5cfcf2e",
+          "department": "Crew",
+          "job": "Transportation Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1408290,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Patricia Miller",
+          "original_name": "Patricia Miller",
+          "popularity": 0.2178,
+          "profile_path": null,
+          "credit_id": "66457747cee5ab90aa2da7b2",
+          "department": "Costume & Make-Up",
+          "job": "Hairstylist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 51767,
+          "known_for_department": "Editing",
+          "name": "Gene Fowler Jr.",
+          "original_name": "Gene Fowler Jr.",
+          "popularity": 0.5191,
+          "profile_path": null,
+          "credit_id": "66457835e68b7c68cb78242e",
+          "department": "Editing",
+          "job": "Editorial Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4717166,
+          "known_for_department": "Production",
+          "name": "Julie Waxman",
+          "original_name": "Julie Waxman",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "664578e232aff1009b5c0692",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 224968,
+          "known_for_department": "Art",
+          "name": "Al Legget",
+          "original_name": "Al Legget",
+          "popularity": 0.0936,
+          "profile_path": null,
+          "credit_id": "6645779432aff1009b5c05b1",
+          "department": "Art",
+          "job": "Property Master"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 224969,
+          "known_for_department": "Art",
+          "name": "Al Rohm",
+          "original_name": "Al Rohm",
+          "popularity": 0.1161,
+          "profile_path": null,
+          "credit_id": "6645779eded4c62ccecfc643",
+          "department": "Art",
+          "job": "Construction Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 224965,
+          "known_for_department": "Sound",
+          "name": "Victor Guarnier",
+          "original_name": "Victor Guarnier",
+          "popularity": 0.1587,
+          "profile_path": null,
+          "credit_id": "664577abfbddf970f1eecb6b",
+          "department": "Sound",
+          "job": "Sound Effects Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2545439,
+          "known_for_department": "Sound",
+          "name": "Dwight Mobley",
+          "original_name": "Dwight Mobley",
+          "popularity": 0.1002,
+          "profile_path": null,
+          "credit_id": "664577d44cabdb42c5cfcead",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1299143,
+          "known_for_department": "Sound",
+          "name": "Bill Wistrom",
+          "original_name": "Bill Wistrom",
+          "popularity": 0.2504,
+          "profile_path": null,
+          "credit_id": "664577e162724628012ef1c6",
+          "department": "Sound",
+          "job": "Sound Effects Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1902319,
+          "known_for_department": "Lighting",
+          "name": "Gary Tandrow",
+          "original_name": "Gary Tandrow",
+          "popularity": 0.1957,
+          "profile_path": null,
+          "credit_id": "664578174668485cd72dac11",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1513646,
+          "known_for_department": "Production",
+          "name": "Kurt Neumann",
+          "original_name": "Kurt Neumann",
+          "popularity": 0.2717,
+          "profile_path": null,
+          "credit_id": "6645777b26d2054bda587f72",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 33843,
+          "known_for_department": "Camera",
+          "name": "Frank Beascoechea",
+          "original_name": "Frank Beascoechea",
+          "popularity": 0.2136,
+          "profile_path": null,
+          "credit_id": "664577ed0475358ff95c0ec2",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2201341,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Karl Herlinger",
+          "original_name": "Karl Herlinger",
+          "popularity": 0.31,
+          "profile_path": null,
+          "credit_id": "6645773c01b10f96b982c58d",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "ABC",
+              "release_date": "1974-10-01T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

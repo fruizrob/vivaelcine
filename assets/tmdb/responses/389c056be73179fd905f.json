@@ -1,0 +1,73 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/548966?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:39.352Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 548966,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Wedding",
+    "overview": "",
+    "popularity": 1.39,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1969-01-01",
+    "revenue": 0,
+    "runtime": 3,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Wedding",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1164912,
+          "known_for_department": "Directing",
+          "name": "Wheeler Dixon",
+          "original_name": "Wheeler Dixon",
+          "popularity": 0.7228,
+          "profile_path": "/emxPVlTEPcAhB1OkWUprd6AIPaj.jpg",
+          "credit_id": "5ba0d5ed0e0a26218f0198ce",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-01-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

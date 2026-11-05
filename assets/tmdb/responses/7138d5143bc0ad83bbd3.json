@@ -1,0 +1,168 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/568832?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:56.202Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 568832,
+    "imdb_id": null,
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "48 Stunden",
+    "overview": "",
+    "popularity": 0.3345,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2019-07-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "48 Stunden",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2196456,
+          "known_for_department": "Acting",
+          "name": "Florian Hacke",
+          "original_name": "Florian Hacke",
+          "popularity": 0.4949,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Herm",
+          "credit_id": "5c165dd4c3a36866cc3794bc",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 50752,
+          "known_for_department": "Acting",
+          "name": "Enno Hesse",
+          "original_name": "Enno Hesse",
+          "popularity": 0.4637,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Piet",
+          "credit_id": "5c165de292514132b70b9129",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2196457,
+          "known_for_department": "Acting",
+          "name": "Mats Kampen",
+          "original_name": "Mats Kampen",
+          "popularity": 0.17,
+          "profile_path": "/qQj3gjMzk2aGKjsIMK626iEIIUk.jpg",
+          "cast_id": 4,
+          "character": "Konstantin",
+          "credit_id": "5c165df9c3a36866c0379750",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1554187,
+          "known_for_department": "Acting",
+          "name": "Harald Burmeister",
+          "original_name": "Harald Burmeister",
+          "popularity": 0.3318,
+          "profile_path": "/e6NaU1YFPB9tXmbrP0upTBNroHC.jpg",
+          "cast_id": 5,
+          "character": "Nachbar",
+          "credit_id": "5c165e0892514132bd0b9f56",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 23123,
+          "known_for_department": "Acting",
+          "name": "Elena Meißner",
+          "original_name": "Elena Meißner",
+          "popularity": 0.2518,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Piets Ex",
+          "credit_id": "5c165e2f92514132bd0b9f65",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1168980,
+          "known_for_department": "Acting",
+          "name": "Erik Schäffler",
+          "original_name": "Erik Schäffler",
+          "popularity": 0.4485,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Polizist",
+          "credit_id": "5c165e3c0e0a2603883d82b0",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2196452,
+          "known_for_department": "Directing",
+          "name": "Steffen Cornelius Tralles",
+          "original_name": "Steffen Cornelius Tralles",
+          "popularity": 0.1141,
+          "profile_path": null,
+          "credit_id": "5c1658f70e0a263f7d3b8478",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-07-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

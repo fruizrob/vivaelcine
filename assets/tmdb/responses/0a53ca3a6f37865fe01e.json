@@ -1,0 +1,128 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/64684?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:25.704Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 64684,
+    "imdb_id": "tt1323914",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The End",
+    "overview": "",
+    "popularity": 0.9292,
+    "poster_path": "/o06Kxtem5bUiVP3TTIJTs8HjGaK.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2008-01-01",
+    "revenue": 0,
+    "runtime": 81,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The End",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 9,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1362562,
+          "known_for_department": "Acting",
+          "name": "Roy Shaw",
+          "original_name": "Roy Shaw",
+          "popularity": 0.2105,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Himself",
+          "credit_id": "540f85e70e0a261255000718",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1362563,
+          "known_for_department": "Acting",
+          "name": "Vic Dark",
+          "original_name": "Vic Dark",
+          "popularity": 0.1136,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Himself",
+          "credit_id": "540f86260e0a26125900072e",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1362561,
+          "known_for_department": "Directing",
+          "name": "Nicola Collins",
+          "original_name": "Nicola Collins",
+          "popularity": 0.9804,
+          "profile_path": null,
+          "credit_id": "540f858c0e0a2612510006c8",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2008-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "DE",
+          "title": "The End - Confessions of a cockney Gangster",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

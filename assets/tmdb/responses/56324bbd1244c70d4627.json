@@ -1,0 +1,73 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/725018?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:01.595Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 725018,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Preludio (a la siesta del Fauno y la Bacante)",
+    "overview": "",
+    "popularity": 0.2056,
+    "poster_path": "/2QVB1LmVnpSJt69W7zt4fpBNuSP.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2020-07-18",
+    "revenue": 0,
+    "runtime": 13,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Preludio (a la siesta del Fauno y la Bacante)",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2043997,
+          "known_for_department": "Directing",
+          "name": "Martín Baus",
+          "original_name": "Martín Baus",
+          "popularity": 0.2058,
+          "profile_path": null,
+          "credit_id": "5f10da36c616ac00325a5658",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-07-18T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

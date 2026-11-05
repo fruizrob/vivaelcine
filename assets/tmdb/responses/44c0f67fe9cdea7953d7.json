@@ -1,0 +1,407 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1000998?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:17.479Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 96,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "id": 1000998,
+    "imdb_id": "tt0069774",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Starlost: The Beginning",
+    "overview": "",
+    "popularity": 0.812,
+    "poster_path": "/AtjeVyRrbCxsEPNFjy9L5vB4GVc.jpg",
+    "production_companies": [
+      {
+        "id": 25,
+        "logo_path": "/nM2MfoMqzJQRiSynsDabOtFKetD.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 15168,
+        "logo_path": null,
+        "name": "Glen Warren Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "1980-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Starlost: The Beginning",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 245,
+          "known_for_department": "Acting",
+          "name": "Keir Dullea",
+          "original_name": "Keir Dullea",
+          "popularity": 1.8086,
+          "profile_path": "/5QyrGWxujX8XA3Ny3M8D18TWupi.jpg",
+          "cast_id": 1,
+          "character": "Devon",
+          "credit_id": "62d42d292d1e400060e00a1a",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 31581,
+          "known_for_department": "Acting",
+          "name": "Robin Ward",
+          "original_name": "Robin Ward",
+          "popularity": 0.7949,
+          "profile_path": "/e66Upz2A2pWGqSjoxR2r00b17xz.jpg",
+          "cast_id": 2,
+          "character": "Garth",
+          "credit_id": "62d42d365437f50050f26bda",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1235158,
+          "known_for_department": "Acting",
+          "name": "Gay Rowan",
+          "original_name": "Gay Rowan",
+          "popularity": 0.2774,
+          "profile_path": "/tY7iF2UnMH0M8wFl4wjDLXc0SA0.jpg",
+          "cast_id": 3,
+          "character": "Rachel",
+          "credit_id": "62d42d42f90b1900549f1060",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1235160,
+          "known_for_department": "Acting",
+          "name": "William Osler",
+          "original_name": "William Osler",
+          "popularity": 0.3858,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Computer / Host",
+          "credit_id": "62d42d526e44bf004f04e60e",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2745140,
+          "known_for_department": "Acting",
+          "name": "James Barron",
+          "original_name": "James Barron",
+          "popularity": 0.2696,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Garth's Father",
+          "credit_id": "62d42d819f51af0ace5d058b",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 15765,
+          "known_for_department": "Acting",
+          "name": "John Colicos",
+          "original_name": "John Colicos",
+          "popularity": 0.6333,
+          "profile_path": "/ln0FRANagWyBK6Itx727hCwR8hM.jpg",
+          "cast_id": 6,
+          "character": "The Governor",
+          "credit_id": "62d42d919f51af0ace5d0592",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29657,
+          "known_for_department": "Acting",
+          "name": "Gillie Fenwick",
+          "original_name": "Gillie Fenwick",
+          "popularity": 0.3578,
+          "profile_path": "/9AJWTbFpmnHypM05glCwUeSaw9q.jpg",
+          "cast_id": 7,
+          "character": "Old Abraham",
+          "credit_id": "62d42d9e3780620c6e7ee8d8",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2656139,
+          "known_for_department": "Acting",
+          "name": "Scott Fisher",
+          "original_name": "Scott Fisher",
+          "popularity": 0.514,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Small Boy",
+          "credit_id": "62d42dc06e44bf00541d4a4d",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3427789,
+          "known_for_department": "Acting",
+          "name": "Paul Geary",
+          "original_name": "Paul Geary",
+          "popularity": 0.1754,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "The Guard",
+          "credit_id": "62d42df52d1e40004ece1b19",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 83024,
+          "known_for_department": "Acting",
+          "name": "Kay Hawtrey",
+          "original_name": "Kay Hawtrey",
+          "popularity": 0.4525,
+          "profile_path": "/bkBT5qjyGrnbIoK9wmlkvXr3f1S.jpg",
+          "cast_id": 10,
+          "character": "Garth's Mother",
+          "credit_id": "62d42e059f51af0ace5d05af",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3088,
+          "known_for_department": "Acting",
+          "name": "Sterling Hayden",
+          "original_name": "Sterling Hayden",
+          "popularity": 1.2075,
+          "profile_path": "/dCTe6BsGSp9QTcva2Pz4wbxxYMY.jpg",
+          "cast_id": 11,
+          "character": "Jeremiah",
+          "credit_id": "62d42e13c15b550055f22b39",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1731432,
+          "known_for_department": "Acting",
+          "name": "Dominic Hogan",
+          "original_name": "Dominic Hogan",
+          "popularity": 0.1325,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "The Priest",
+          "credit_id": "62d42e223780620c6fab88c2",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3627504,
+          "known_for_department": "Acting",
+          "name": "Michael Kirby",
+          "original_name": "Michael Kirby",
+          "popularity": 0.1042,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "The Captain",
+          "credit_id": "62d42e4dc175b200696d4861",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 101851,
+          "known_for_department": "Acting",
+          "name": "Barry Morse",
+          "original_name": "Barry Morse",
+          "popularity": 0.8792,
+          "profile_path": "/i3WCQnTcMSRXYTEum37rXYpboTz.jpg",
+          "cast_id": 14,
+          "character": "Shalith",
+          "credit_id": "62d42e5b91745b004f25d06c",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3627506,
+          "known_for_department": "Acting",
+          "name": "George Naklowyck",
+          "original_name": "George Naklowyck",
+          "popularity": 0.1204,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "The Deputy",
+          "credit_id": "62d42e7ec15b55004d409d20",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2522702,
+          "known_for_department": "Acting",
+          "name": "Aileen Seaton",
+          "original_name": "Aileen Seaton",
+          "popularity": 0.2011,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Rachel's Mother",
+          "credit_id": "62d42e8dccb15f004f485e27",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 165596,
+          "known_for_department": "Acting",
+          "name": "George Sperdakos",
+          "original_name": "George Sperdakos",
+          "popularity": 0.4613,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Jubal",
+          "credit_id": "62d42e9e6e44bf004f04e671",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 252,
+          "known_for_department": "Acting",
+          "name": "Sean Sullivan",
+          "original_name": "Sean Sullivan",
+          "popularity": 0.3222,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Rachel's Father",
+          "credit_id": "62d42eb33780620c6fab88fa",
+          "order": 17
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 151399,
+          "known_for_department": "Directing",
+          "name": "Harvey Hart",
+          "original_name": "Harvey Hart",
+          "popularity": 0.5512,
+          "profile_path": "/30F5RFoDhduvxJmNnllM9D7S9eQ.jpg",
+          "credit_id": "62d42ecc53f83303ff2cac1a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1415,
+          "known_for_department": "Writing",
+          "name": "Ursula K. Le Guin",
+          "original_name": "Ursula K. Le Guin",
+          "popularity": 0.4918,
+          "profile_path": "/l84W1gRtcL9gqNn9R4egtSJHa9N.jpg",
+          "credit_id": "62d42efa5437f5005521b9d5",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 15783,
+          "known_for_department": "Writing",
+          "name": "Harlan Ellison",
+          "original_name": "Harlan Ellison",
+          "popularity": 0.4573,
+          "profile_path": "/cZpQf3CzimPmcoNlcAAnNSHijQI.jpg",
+          "credit_id": "62d42edb53f83304009fe532",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 194847,
+          "known_for_department": "Writing",
+          "name": "Martin Lager",
+          "original_name": "Martin Lager",
+          "popularity": 0.372,
+          "profile_path": null,
+          "credit_id": "62d42ee89f51af0acd08036f",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1830471,
+          "known_for_department": "Acting",
+          "name": "George Ghent",
+          "original_name": "George Ghent",
+          "popularity": 0.6369,
+          "profile_path": null,
+          "credit_id": "68656d35d5ca7f85266f63e3",
+          "department": "Crew",
+          "job": "Additional Writing"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "1980-01-01T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

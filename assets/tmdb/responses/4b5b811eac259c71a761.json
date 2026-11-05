@@ -1,0 +1,185 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/670752?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:25.559Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 670752,
+    "imdb_id": "tt0364327",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The End",
+    "overview": "",
+    "popularity": 1.0558,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "1998-01-02",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The End",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1214693,
+          "known_for_department": "Acting",
+          "name": "Rob Jarvis",
+          "original_name": "Rob Jarvis",
+          "popularity": 0.7216,
+          "profile_path": "/mpOlUCx7C7MsTpAvWEwbwWM2Cpw.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "5e3ec54398f1f1000f100fea",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1229022,
+          "known_for_department": "Acting",
+          "name": "Willie Ross",
+          "original_name": "Willie Ross",
+          "popularity": 1.1628,
+          "profile_path": "/3sNdZoF1rjKPKuzzT8l7Ia4qnsp.jpg",
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "5e3ec54c9603310017eb9d83",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1343438,
+          "known_for_department": "Acting",
+          "name": "Curtis Walker",
+          "original_name": "Curtis Walker",
+          "popularity": 0.1888,
+          "profile_path": "/smkysLbndOZL5c0rN6md2w8wi0e.jpg",
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "5e3ec55c41465c0016c99e8b",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 36588,
+          "known_for_department": "Directing",
+          "name": "Joe Wright",
+          "original_name": "Joe Wright",
+          "popularity": 1.4808,
+          "profile_path": "/1qA8HudSIwIr7ZdxwfQAgubsDO.jpg",
+          "credit_id": "5e3ec5010c271000157b98b5",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 37759,
+          "known_for_department": "Acting",
+          "name": "Kathy Burke",
+          "original_name": "Kathy Burke",
+          "popularity": 0.8759,
+          "profile_path": "/q3z7nP1ryyGuwixShrBmghcmm0F.jpg",
+          "credit_id": "5e3ec51941465c0016c99e56",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 70506,
+          "known_for_department": "Editing",
+          "name": "Melanie Oliver",
+          "original_name": "Melanie Oliver",
+          "popularity": 0.2794,
+          "profile_path": null,
+          "credit_id": "5e3ec537ae36680014cb4d6b",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1430498,
+          "known_for_department": "Lighting",
+          "name": "Lee Walters",
+          "original_name": "Lee Walters",
+          "popularity": 0.6096,
+          "profile_path": null,
+          "credit_id": "67607ceeaca3549e54f67d84",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3285,
+          "known_for_department": "Camera",
+          "name": "Seamus McGarvey",
+          "original_name": "Seamus McGarvey",
+          "popularity": 0.5436,
+          "profile_path": "/yXEsxEMHlMDemBy8JrHZFAmd3uD.jpg",
+          "credit_id": "67607cf8f9efb009722068f3",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1998-01-02T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

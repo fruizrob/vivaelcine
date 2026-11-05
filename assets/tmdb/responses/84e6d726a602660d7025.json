@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Calle+Santa+Fe&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:57.269Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 49765,
+        "title": "Calle Santa Fe",
+        "original_language": "es",
+        "original_title": "Calle Santa Fe",
+        "overview": "5 de octubre de 1974: En los suburbios de Santiago, Carmen, embarazada, resulta gravemente herida y su compañero Miguel, jefe de la resistencia contra la dictadura de Pinochet, muere en combate. Comienza así un viaje por las memorias de los derrotados...",
+        "popularity": 1.0542,
+        "poster_path": "/uMYDaZOWx2pFKnSOUJdkCWMZly.jpg",
+        "release_date": "2007-10-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 13
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

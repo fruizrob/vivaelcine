@@ -1,0 +1,89 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/611817?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:47.683Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 611817,
+    "imdb_id": "tt2883356",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Un Rumor atraviesa el Tiempo",
+    "overview": "",
+    "popularity": 0.1455,
+    "poster_path": "/rkT9i2OK0JO453Tmc3fuiV5y9iF.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CO",
+        "name": "Colombia"
+      }
+    ],
+    "release_date": "2013-01-01",
+    "revenue": 0,
+    "runtime": 25,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Un Rumor atraviesa el Tiempo",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2353190,
+          "known_for_department": "Directing",
+          "name": "Anna Magdalena Silva Schlenker",
+          "original_name": "Anna Magdalena Silva Schlenker",
+          "popularity": 0.1164,
+          "profile_path": null,
+          "credit_id": "5d1c7b9594d8a851623cd66e",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

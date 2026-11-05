@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Obras+muertas&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:07.398Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1658118,
+        "title": "Obras muertas",
+        "original_language": "es",
+        "original_title": "Obras muertas",
+        "overview": "",
+        "popularity": 2.3075,
+        "poster_path": "/y7UdOQwRPdhl60ACYhHtruEY3t4.jpg",
+        "release_date": "2026-04-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

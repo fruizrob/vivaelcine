@@ -1,0 +1,188 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1576359?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:27.078Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/bPMejLutbryptloHcADn38PHQ9z.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 1576359,
+    "imdb_id": "tt37281037",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "MGA MAGICAL 10 YEARS ANNIVERSARY LIVE ～FJORD～ ON SCREEN",
+    "overview": "",
+    "popularity": 1.2345,
+    "poster_path": "/7xFWrLR6orhKvL2lMuJPO2apnbL.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2025-11-28",
+    "revenue": 0,
+    "runtime": 158,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "MGA MAGICAL 10 YEARS ANNIVERSARY LIVE ～FJORD～ ON SCREEN",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2162456,
+          "known_for_department": "Sound",
+          "name": "Motoki Ohmori",
+          "original_name": "大森元貴",
+          "popularity": 1.1085,
+          "profile_path": "/adgNrPGgRcUG0RYOeNUDDGw18GV.jpg",
+          "cast_id": 3,
+          "character": "Self",
+          "credit_id": "690df84d9dc833aed6d24c26",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4941454,
+          "known_for_department": "Sound",
+          "name": "Hiloto Wakai",
+          "original_name": "若井滉斗",
+          "popularity": 0.7834,
+          "profile_path": "/6XbOSiAcSARWdIypkpYWu6U1cZT.jpg",
+          "cast_id": 4,
+          "character": "Self",
+          "credit_id": "690df8565a6e68d567ce7bb9",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4941455,
+          "known_for_department": "Sound",
+          "name": "Ryoka Fujisawa",
+          "original_name": "藤澤涼架",
+          "popularity": 0.8194,
+          "profile_path": "/6qxZpJbVI6trBomxMif2YYibNGK.jpg",
+          "cast_id": 5,
+          "character": "Self",
+          "credit_id": "690df85d47d1f03e92a0bbfc",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3016408,
+          "known_for_department": "Directing",
+          "name": "稲垣哲朗",
+          "original_name": "稲垣哲朗",
+          "popularity": 0.356,
+          "profile_path": null,
+          "credit_id": "690df81e9913d3c4f9874304",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2162456,
+          "known_for_department": "Sound",
+          "name": "Motoki Ohmori",
+          "original_name": "大森元貴",
+          "popularity": 1.1085,
+          "profile_path": "/adgNrPGgRcUG0RYOeNUDDGw18GV.jpg",
+          "credit_id": "690df83b1265c9afcad24bdf",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "HK",
+          "release_dates": [
+            {
+              "certification": "I",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-06-18T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2025-11-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "ALL",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-05-27T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MO",
+          "release_dates": [
+            {
+              "certification": "B",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-06-18T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/19011?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:37.771Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/9SurKdg5F0SoPtJ0SQAtwhV62ug.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 19011,
+    "imdb_id": "tt0063427",
+    "origin_country": [
+      "AT",
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Picknick mit Weismann",
+    "overview": "En una pradera, un viejo gramófono toca por sí solo, y al ritmo de sus tangos y foxtrots, varias sillas, una mesa y un diván danzan alegremente, mientras una pala cava una fosa ante un armario.",
+    "popularity": 0.3091,
+    "poster_path": "/p6eY1LCUJjOwqymhq2m3D1U4uWJ.jpg",
+    "production_companies": [
+      {
+        "id": 105285,
+        "logo_path": null,
+        "name": "Studio A",
+        "origin_country": "AT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AT",
+        "name": "Austria"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "1968-01-02",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Picnic con Weissmann",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 25,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3499306,
+          "known_for_department": "Production",
+          "name": "A. Hans Puluj",
+          "original_name": "A. Hans Puluj",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "62514df3447f9c009b225d83",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 83784,
+          "known_for_department": "Directing",
+          "name": "Jan Švankmajer",
+          "original_name": "Jan Švankmajer",
+          "popularity": 0.8363,
+          "profile_path": "/yJNadsigphyaFdzFRBtRLuAUlNr.jpg",
+          "credit_id": "52fe47b39251416c750a28dd",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2122120,
+          "known_for_department": "Camera",
+          "name": "Peter Puluj",
+          "original_name": "Peter Puluj",
+          "popularity": 0.3199,
+          "profile_path": null,
+          "credit_id": "65c539afaa659e0164ed8169",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 83784,
+          "known_for_department": "Directing",
+          "name": "Jan Švankmajer",
+          "original_name": "Jan Švankmajer",
+          "popularity": 0.8363,
+          "profile_path": "/yJNadsigphyaFdzFRBtRLuAUlNr.jpg",
+          "credit_id": "5ba09c3d9251417f2200fa20",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 83784,
+          "known_for_department": "Directing",
+          "name": "Jan Švankmajer",
+          "original_name": "Jan Švankmajer",
+          "popularity": 0.8363,
+          "profile_path": "/yJNadsigphyaFdzFRBtRLuAUlNr.jpg",
+          "credit_id": "5ba09c6b9251417f2700ee69",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Mannheim-Heidelberg International Filmfestival",
+              "release_date": "1969-10-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1968-01-02T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "JP",
+          "title": "ワイズマンとのピクニック",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PL",
+          "title": "Piknik z Weissmannem",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "SU",
+          "title": "Пикник с Вайсманном",
+          "type": "russian title"
+        },
+        {
+          "iso_3166_1": "GR",
+          "title": "Πικ νικ με τον Βάισμαν",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BR",
+          "title": "Picknick mit Weismann",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Picknick mit Weismann",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

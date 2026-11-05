@@ -1,0 +1,73 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1137802?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:17.640Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1137802,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Réplica #1",
+    "overview": "",
+    "popularity": 0.1773,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2019-01-01",
+    "revenue": 0,
+    "runtime": 3,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Réplica #1",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4103187,
+          "known_for_department": "Directing",
+          "name": "Ariel  Nahón",
+          "original_name": "Ariel  Nahón",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6482275ebf31f2013add1a98",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

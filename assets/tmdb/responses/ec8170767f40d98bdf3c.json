@@ -1,0 +1,47 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=VIAJERO+INM%C3%93VIL&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:38.771Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/a7L5xkfFkblUPhGKqKKyqhTAMDM.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1802066,
+        "title": "Viajero Inmóvil",
+        "original_language": "es",
+        "original_title": "Viajero Inmóvil",
+        "overview": "Dos cineastas le proponen a Cristián Sánchez, un director de culto chileno, hacer una película. La condición es que resucite a los personajes de sus obras clásicas, pero en forma de zombis. Él lucha por proteger sus principios artísticos, pero termina atrapado en su propia película.",
+        "popularity": 1.9631,
+        "poster_path": "/f86sd2HjuJTcKYB60qp1A66Ie7j.jpg",
+        "release_date": "2026-11-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1008989,
+        "title": "El viajero inmovil",
+        "original_language": "es",
+        "original_title": "El viajero inmovil",
+        "overview": "",
+        "popularity": 1.2844,
+        "poster_path": "/1ki7WNAUT6xomO7iYcw0cP7K9Hn.jpg",
+        "release_date": "2008-06-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 2,
+        "vote_count": 2
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  }
+}

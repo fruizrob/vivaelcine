@@ -1,0 +1,148 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1378957?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:05.214Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/v6QJBOKjxZi8aZaqjaiGluSel0C.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 1378957,
+    "imdb_id": null,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_title": "언박싱",
+    "overview": "",
+    "popularity": 0.4336,
+    "poster_path": "/uLY22fM9cdMtVJiEBMuiFroX4oG.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "2024-09-07",
+    "revenue": 0,
+    "runtime": 34,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "언박싱",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4297620,
+          "known_for_department": "Acting",
+          "name": "이한중",
+          "original_name": "이한중",
+          "popularity": 0.1227,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "69d3ddf4bcaca892afca7c1a",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6122515,
+          "known_for_department": "Acting",
+          "name": "서하림",
+          "original_name": "서하림",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "69d3de0f9d5ca744def89f5a",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5028131,
+          "known_for_department": "Directing",
+          "name": "박래경",
+          "original_name": "박래경",
+          "popularity": 0.3192,
+          "profile_path": null,
+          "credit_id": "671ff750769107d77b4861c6",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5028131,
+          "known_for_department": "Directing",
+          "name": "박래경",
+          "original_name": "박래경",
+          "popularity": 0.3192,
+          "profile_path": null,
+          "credit_id": "679f72dca74d8ee23b264c36",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5028131,
+          "known_for_department": "Directing",
+          "name": "박래경",
+          "original_name": "박래경",
+          "popularity": 0.3192,
+          "profile_path": null,
+          "credit_id": "69d3dd286176973d063e382f",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Jeju Hodie Film Festival",
+              "release_date": "2024-09-07T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

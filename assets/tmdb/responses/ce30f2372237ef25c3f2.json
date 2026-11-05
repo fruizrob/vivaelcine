@@ -1,0 +1,73 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1639470?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:52.223Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1639470,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "La Lucha (The Struggle)",
+    "overview": "",
+    "popularity": 0.8753,
+    "poster_path": "/Ash11BOo8IWmXiJ5Wg24r6ZRTps.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2020-01-01",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Lucha (The Struggle)",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1385752,
+          "known_for_department": "Directing",
+          "name": "Abigail Child",
+          "original_name": "Abigail Child",
+          "popularity": 0.7624,
+          "profile_path": "/hSmXpNuVjvQiUP88vbmEOA95cs7.jpg",
+          "credit_id": "6999635a869f5f5b5d37399b",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

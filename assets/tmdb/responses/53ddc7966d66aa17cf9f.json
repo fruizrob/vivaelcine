@@ -1,0 +1,180 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/331267?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:22.413Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 331267,
+    "imdb_id": "tt4104968",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Not the End",
+    "overview": "David viene del futuro para revivir junto a Nina el día en que se conocieron.",
+    "popularity": 0.8864,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 48853,
+        "logo_path": "/kdjxEy2ZoiatdVq3tm4fxVrDfM7.png",
+        "name": "Solita Films",
+        "origin_country": "ES"
+      },
+      {
+        "id": 48854,
+        "logo_path": null,
+        "name": "Producciones Transatlánticas",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2014-11-29",
+    "revenue": 0,
+    "runtime": 29,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Not the End",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 3,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 587931,
+          "known_for_department": "Acting",
+          "name": "María León",
+          "original_name": "María León",
+          "popularity": 0.4556,
+          "profile_path": "/emO3kZWopALDhGYEJwbtcKd8gQZ.jpg",
+          "cast_id": 0,
+          "character": "Nina",
+          "credit_id": "55094a04c3a3682b43002f59",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 96688,
+          "known_for_department": "Acting",
+          "name": "Javier Rey",
+          "original_name": "Javier Rey",
+          "popularity": 0.9384,
+          "profile_path": "/bZCKrxOpNfXQ4vHAf1RcHwwUQQ3.jpg",
+          "cast_id": 1,
+          "character": "David",
+          "credit_id": "55094a0e92514110da0032f3",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1441660,
+          "known_for_department": "Acting",
+          "name": "Fernando Ustarroz",
+          "original_name": "Fernando Ustarroz",
+          "popularity": 0.2378,
+          "profile_path": "/qc4l2pgVXkcjq6As5KaegJkODsD.jpg",
+          "cast_id": 2,
+          "character": "David (60)",
+          "credit_id": "55094a1e9251413c71001798",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1356320,
+          "known_for_department": "Acting",
+          "name": "Roger Álvarez",
+          "original_name": "Roger Álvarez",
+          "popularity": 0.3966,
+          "profile_path": "/uxZP91s58LRVA8z7vbJ7gOm9I9M.jpg",
+          "cast_id": 3,
+          "character": "Conductor autocar",
+          "credit_id": "55094a2bc3a36834a10010c1",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1441662,
+          "known_for_department": "Directing",
+          "name": "César Esteban Alenda",
+          "original_name": "César Esteban Alenda",
+          "popularity": 0.7206,
+          "profile_path": "/fS4RanAaBxfZIvezasgPgtm4ww9.jpg",
+          "credit_id": "55094a48c3a3682b4e00325d",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1441661,
+          "known_for_department": "Directing",
+          "name": "José Esteban Alenda",
+          "original_name": "José Esteban Alenda",
+          "popularity": 1.0358,
+          "profile_path": "/aJu1iAEZd9FdbOaLzaFCUrSwiKd.jpg",
+          "credit_id": "55094a3b92514130b4002df3",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2014-11-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

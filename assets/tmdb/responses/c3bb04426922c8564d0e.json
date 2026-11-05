@@ -1,0 +1,463 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/125110?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:38.655Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/u2yaNXOyYzzmHcP71R68EsZEFyx.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "id": 125110,
+    "imdb_id": "tt0093116",
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_title": "The Great Land of Small",
+    "overview": "Jenny y David van a Canadá con su madre a pasar el fin de semana con sus abuelos. Un cuento lleno de humor, efectos especiales y encuentros mágicos.",
+    "popularity": 1.6006,
+    "poster_path": "/uREOAMCdwxJxp0x1lE6p6dPoAY6.jpg",
+    "production_companies": [
+      {
+        "id": 806,
+        "logo_path": "/kcNh09qqR2Pkw1JAzRW4CommrW4.png",
+        "name": "Téléfilm Canada",
+        "origin_country": "CA"
+      },
+      {
+        "id": 15979,
+        "logo_path": "/20p9rUdq8gZQkoJMWo0Bh2vv8aw.png",
+        "name": "Les Productions La Fête",
+        "origin_country": "CA"
+      },
+      {
+        "id": 61532,
+        "logo_path": null,
+        "name": "Mimmick Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "1987-06-18",
+    "revenue": 0,
+    "runtime": 95,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El gran mundo invisible",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 5,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 92261,
+          "known_for_department": "Acting",
+          "name": "Karen Elkin",
+          "original_name": "Karen Elkin",
+          "popularity": 0.4684,
+          "profile_path": "/bqGm6Z5N80vHTcy29np2ifVU5gE.jpg",
+          "cast_id": 1,
+          "character": "Jenny",
+          "credit_id": "54df28f3c3a36855c7000ff8",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1427124,
+          "known_for_department": "Acting",
+          "name": "Michael Blouin",
+          "original_name": "Michael Blouin",
+          "popularity": 0.2574,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "David",
+          "credit_id": "54df2905c3a36855c7000ffc",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 123517,
+          "known_for_department": "Acting",
+          "name": "Michael J. Anderson",
+          "original_name": "Michael J. Anderson",
+          "popularity": 0.7003,
+          "profile_path": "/kw2isWTidlGOnBe1LPlFrSvNfNX.jpg",
+          "cast_id": 3,
+          "character": "Fritz / The King",
+          "credit_id": "54df2918925141195a003003",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 92958,
+          "known_for_department": "Acting",
+          "name": "Ken Roberts",
+          "original_name": "Ken Roberts",
+          "popularity": 0.3676,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Flannigan / Munch",
+          "credit_id": "5cda863ac3a3680fd4c237be",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1499563,
+          "known_for_department": "Acting",
+          "name": "Rodrigue Tremblay",
+          "original_name": "Rodrigue Tremblay",
+          "popularity": 0.4294,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Mimmick",
+          "credit_id": "55d9375592514143e000391a",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1499564,
+          "known_for_department": "Acting",
+          "name": "Lorraine Desmarais",
+          "original_name": "Lorraine Desmarais",
+          "popularity": 0.492,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Linda / La reine",
+          "credit_id": "55d9376892514143e9003937",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1499565,
+          "known_for_department": "Acting",
+          "name": "Michelle Turmel",
+          "original_name": "Michelle Turmel",
+          "popularity": 0.428,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Sarah",
+          "credit_id": "55d93773c3a36831fa003afc",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 38528,
+          "known_for_department": "Acting",
+          "name": "Gilles Pelletier",
+          "original_name": "Gilles Pelletier",
+          "popularity": 0.3828,
+          "profile_path": "/lWIxWBXR6MbUP6aY4o4bBDCRY2Z.jpg",
+          "cast_id": 21,
+          "character": "Grandpa",
+          "credit_id": "66a65d1522fa5128bd65ee19",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2769752,
+          "known_for_department": "Acting",
+          "name": "Françoise Graton",
+          "original_name": "Françoise Graton",
+          "popularity": 0.2796,
+          "profile_path": "/qITwOCNmGbgGoWcCvLCwSZUGtZs.jpg",
+          "cast_id": 22,
+          "character": "Grandma",
+          "credit_id": "66a65d850d005f733f0953ec",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 116938,
+          "known_for_department": "Directing",
+          "name": "André Melançon",
+          "original_name": "André Melançon",
+          "popularity": 0.4444,
+          "profile_path": "/hzn3KxT3aK1xKXMpCf7LtFI7MeN.jpg",
+          "cast_id": 20,
+          "character": "Keeper",
+          "credit_id": "66a65c0a090ab6581a095407",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29465,
+          "known_for_department": "Acting",
+          "name": "Jack Langedijk",
+          "original_name": "Jack Langedijk",
+          "popularity": 0.369,
+          "profile_path": "/2wIvpnuOuPd5Pyi3eu0cvPoanMl.jpg",
+          "cast_id": 23,
+          "character": "Patrick O'Toole",
+          "credit_id": "66a65dd1a59c289045daf648",
+          "order": 10
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12477,
+          "known_for_department": "Production",
+          "name": "Pierre David",
+          "original_name": "Pierre David",
+          "popularity": 0.8038,
+          "profile_path": "/ajvTZ4nzpzRNLRM2cAppQoyqV9U.jpg",
+          "credit_id": "55d937af92514143e60037d5",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 933561,
+          "known_for_department": "Production",
+          "name": "Rock Demers",
+          "original_name": "Rock Demers",
+          "popularity": 0.3034,
+          "profile_path": "/etUMbgxhN5hSZw0xCxBjeM8GOlG.jpg",
+          "credit_id": "55d9379ec3a3683207003758",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 550175,
+          "known_for_department": "Camera",
+          "name": "Michel Brault",
+          "original_name": "Michel Brault",
+          "popularity": 0.5075,
+          "profile_path": "/bDGiQWl2UblKpR9h1qFQ3THUsj1.jpg",
+          "credit_id": "55d93840c3a36831f4003b8a",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1020755,
+          "known_for_department": "Editing",
+          "name": "Hélène Girard",
+          "original_name": "Hélène Girard",
+          "popularity": 0.2892,
+          "profile_path": null,
+          "credit_id": "55d9384cc3a368320700377e",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1499566,
+          "known_for_department": "Writing",
+          "name": "David Sigmund",
+          "original_name": "David Sigmund",
+          "popularity": 0.2735,
+          "profile_path": null,
+          "credit_id": "55d93790c3a3680dd5002b3d",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6997,
+          "known_for_department": "Production",
+          "name": "Lucie Robitaille",
+          "original_name": "Lucie Robitaille",
+          "popularity": 0.3901,
+          "profile_path": null,
+          "credit_id": "55d9385792514143de003c64",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1499567,
+          "known_for_department": "Production",
+          "name": "Lorraine Du Hamel",
+          "original_name": "Lorraine Du Hamel",
+          "popularity": 0.5319,
+          "profile_path": null,
+          "credit_id": "55d9381ac3a3683207003776",
+          "department": "Production",
+          "job": "Line Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1499568,
+          "known_for_department": "Sound",
+          "name": "Normand Dubé",
+          "original_name": "Normand Dubé",
+          "popularity": 0.1393,
+          "profile_path": null,
+          "credit_id": "55d93828c3a368320100345b",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1134421,
+          "known_for_department": "Art",
+          "name": "Violette Daneau",
+          "original_name": "Violette Daneau",
+          "popularity": 0.1987,
+          "profile_path": null,
+          "credit_id": "55d9386492514143e60037f6",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1499569,
+          "known_for_department": "Sound",
+          "name": "Guy Trépanier",
+          "original_name": "Guy Trépanier",
+          "popularity": 0.3193,
+          "profile_path": null,
+          "credit_id": "55d93835c3a3683201003462",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 137071,
+          "known_for_department": "Directing",
+          "name": "Vojtěch Jasný",
+          "original_name": "Vojtěch Jasný",
+          "popularity": 0.4994,
+          "profile_path": "/cXz5807HlHo5cIiWuaIH4ixlV29.jpg",
+          "credit_id": "565ae6a2c3a3685074001e47",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1154102,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Michèle Hamel",
+          "original_name": "Michèle Hamel",
+          "popularity": 0.3983,
+          "profile_path": null,
+          "credit_id": "682640e5e2c6e0fbe4ada4ec",
+          "department": "Costume & Make-Up",
+          "job": "Costume Designer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "Montréal",
+              "release_date": "1987-12-07T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "1987-06-18T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1988-12-14T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1987-09-04T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "R&G Video / StarMaker Entertainment #30586-1 [VHS]  94 minutes",
+              "release_date": "1990-01-01T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "CA",
+          "title": "C'est pas parce qu'on est petit qu'on peut pas être grand",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

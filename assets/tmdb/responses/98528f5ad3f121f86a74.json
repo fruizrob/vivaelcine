@@ -1,0 +1,401 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1784162?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:46.091Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "id": 1784162,
+    "imdb_id": null,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Un Rumor en la Montaña",
+    "overview": "En un pueblo consumido por la muerte, la sequía y el hambre, una antigua maldición parece haberse despertado. Inés, una niña marcada desde su nacimiento por un vínculo ancestral con la Señora del Monte, queda en el centro de una deuda que el pueblo ya no recuerda y de un pacto que quizá nunca debió romperse.",
+    "popularity": 1.1183,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Post Production",
+    "tagline": "",
+    "title": "A Whisper in the Mountain",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1231566,
+          "known_for_department": "Acting",
+          "name": "Marisol Padilla Sánchez",
+          "original_name": "Marisol Padilla Sánchez",
+          "popularity": 0.5877,
+          "profile_path": "/ti5kghqauMq0qgfrMAiaesPWAmk.jpg",
+          "cast_id": 1,
+          "character": "Señora del Monte",
+          "credit_id": "6abc3ef9180645403dd38ac6",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6514992,
+          "known_for_department": "Acting",
+          "name": "Sofia Ramos",
+          "original_name": "Sofia Ramos",
+          "popularity": 0.1457,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Ingrid",
+          "credit_id": "6abc3f5e5334f87d6ddcf814",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1562681,
+          "known_for_department": "Acting",
+          "name": "Jorge Prieto",
+          "original_name": "Jorge Prieto",
+          "popularity": 0.6598,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "Don Alfonso",
+          "credit_id": "6abc43c70374e1c03af9b808",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4693087,
+          "known_for_department": "Acting",
+          "name": "Emiliano Rosas Aceves",
+          "original_name": "Emiliano Rosas Aceves",
+          "popularity": 0.2552,
+          "profile_path": null,
+          "cast_id": 24,
+          "character": "Eusebio",
+          "credit_id": "6abc43d8d6f44fb65f37322b",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6515043,
+          "known_for_department": "Acting",
+          "name": "Marianne Gonzalez Rojero",
+          "original_name": "Marianne Gonzalez Rojero",
+          "popularity": 0.4221,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "Inés",
+          "credit_id": "6abc43f0f4aa4ff3d737320d",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4904198,
+          "known_for_department": "Writing",
+          "name": "David Evans Ortiz",
+          "original_name": "David Evans Ortiz",
+          "popularity": 0.5896,
+          "profile_path": "/clykd4HU3w1hIfuXNCAT9lztIwo.jpg",
+          "credit_id": "6abc3f7acbc6bc6e0ce1c6a5",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4904198,
+          "known_for_department": "Writing",
+          "name": "David Evans Ortiz",
+          "original_name": "David Evans Ortiz",
+          "popularity": 0.5896,
+          "profile_path": "/clykd4HU3w1hIfuXNCAT9lztIwo.jpg",
+          "credit_id": "6abc3f890bbe679cd6de04d9",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4904198,
+          "known_for_department": "Writing",
+          "name": "David Evans Ortiz",
+          "original_name": "David Evans Ortiz",
+          "popularity": 0.5896,
+          "profile_path": "/clykd4HU3w1hIfuXNCAT9lztIwo.jpg",
+          "credit_id": "6abc3f96c2c17199f23731f6",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6514998,
+          "known_for_department": "Writing",
+          "name": "Isaac Portillo",
+          "original_name": "Isaac Portillo",
+          "popularity": 0.2764,
+          "profile_path": null,
+          "credit_id": "6abc3fbad0277b17f9ea195b",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6515000,
+          "known_for_department": "Camera",
+          "name": "Alejandro Espinosa",
+          "original_name": "Alejandro Espinosa",
+          "popularity": 0.2785,
+          "profile_path": null,
+          "credit_id": "6abc3fe2b567b0c895de04e6",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6515001,
+          "known_for_department": "Camera",
+          "name": "Marcos Berumen",
+          "original_name": "Marcos Berumen",
+          "popularity": 0.4105,
+          "profile_path": null,
+          "credit_id": "6abc3ff86e5d98a7e651faf8",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6515004,
+          "known_for_department": "Directing",
+          "name": "Alan Vázquez",
+          "original_name": "Alan Vázquez",
+          "popularity": 0.8344,
+          "profile_path": null,
+          "credit_id": "6abc402429e65abdca9da978",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6515006,
+          "known_for_department": "Art",
+          "name": "Alan Vázquez",
+          "original_name": "Alan Vázquez",
+          "popularity": 0.9031,
+          "profile_path": null,
+          "credit_id": "6abc403a9514df408051fabb",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5345421,
+          "known_for_department": "Production",
+          "name": "Robi Almengor",
+          "original_name": "Robi Almengor",
+          "popularity": 0.4046,
+          "profile_path": null,
+          "credit_id": "6abc4051b84ebc879d20804b",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1231566,
+          "known_for_department": "Acting",
+          "name": "Marisol Padilla Sánchez",
+          "original_name": "Marisol Padilla Sánchez",
+          "popularity": 0.5877,
+          "profile_path": "/ti5kghqauMq0qgfrMAiaesPWAmk.jpg",
+          "credit_id": "6abc405de08fef9d5f51fadb",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6515012,
+          "known_for_department": "Directing",
+          "name": "Max Galaviz",
+          "original_name": "Max Galaviz",
+          "popularity": 0.6486,
+          "profile_path": null,
+          "credit_id": "6abc4082c2c17199f237320b",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4829972,
+          "known_for_department": "Lighting",
+          "name": "Antonio Vega",
+          "original_name": "Antonio Vega",
+          "popularity": 0.5076,
+          "profile_path": null,
+          "credit_id": "6abc40b854dbccc096de04e9",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1483526,
+          "known_for_department": "Writing",
+          "name": "Ozcar Ramírez González",
+          "original_name": "Ozcar Ramírez González",
+          "popularity": 0.2738,
+          "profile_path": null,
+          "credit_id": "6abc40d432f155d06b208053",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6515017,
+          "known_for_department": "Art",
+          "name": "Cristian Ramos",
+          "original_name": "Cristian Ramos",
+          "popularity": 0.3858,
+          "profile_path": null,
+          "credit_id": "6abc40f7cfb0fd730c9da99e",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5939140,
+          "known_for_department": "Production",
+          "name": "Christian Guillermo Garcia Zubieta",
+          "original_name": "Christian Guillermo Garcia Zubieta",
+          "popularity": 0.7107,
+          "profile_path": null,
+          "credit_id": "6abc413b80d3f0eabd58126f",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5345421,
+          "known_for_department": "Production",
+          "name": "Robi Almengor",
+          "original_name": "Robi Almengor",
+          "popularity": 0.4046,
+          "profile_path": null,
+          "credit_id": "6abc415873f37b922d58123b",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6515019,
+          "known_for_department": "Editing",
+          "name": "Diego Paredes",
+          "original_name": "Diego Paredes",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6abc417c54dbccc096de04fd",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6515019,
+          "known_for_department": "Editing",
+          "name": "Diego Paredes",
+          "original_name": "Diego Paredes",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6abc4199c2c17199f2373219",
+          "department": "Production",
+          "job": "Data Management Technician"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6515021,
+          "known_for_department": "Production",
+          "name": "Paola Zapien",
+          "original_name": "Paola Zapien",
+          "popularity": 0.3978,
+          "profile_path": null,
+          "credit_id": "6abc41b13e2a0ab658ea194a",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6515024,
+          "known_for_department": "Production",
+          "name": "Lupita García",
+          "original_name": "Lupita García",
+          "popularity": 0.3865,
+          "profile_path": null,
+          "credit_id": "6abc41c0af80c6f72a208070",
+          "department": "Production",
+          "job": "Production Assistant"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

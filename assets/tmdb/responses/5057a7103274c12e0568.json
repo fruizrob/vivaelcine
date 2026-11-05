@@ -1,0 +1,388 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/25653?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:00.855Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/oed2JIcUjrsEIbkqRdVo0yQNeyi.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 25653,
+    "imdb_id": "tt0190882",
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_title": "야생동물 보호구역",
+    "overview": "Un surcoreano llamado Chung-hae viaja a París con la intención de estudiar arte, pero la realidad se impone al deseo y el joven acaba dedicándose a realizar pequeñas estafas para sobrevivir. Conoce a Hong-sang, un ciudadano norcoreano que pretende escapar del ejército norcoreano alistándose en la Legion extranjera. Entre los dos nace una amistad sembrada de desencuentros y momentos trágicos...",
+    "popularity": 1.3737,
+    "poster_path": "/9HP6Km5jBi8uIfwXuaBQXzj0q38.jpg",
+    "production_companies": [
+      {
+        "id": 95940,
+        "logo_path": null,
+        "name": "Dream Cinema",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "1997-10-25",
+    "revenue": 0,
+    "runtime": 103,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Animales Salvajes",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 34,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 64453,
+          "known_for_department": "Acting",
+          "name": "조재현",
+          "original_name": "조재현",
+          "popularity": 1.0999,
+          "profile_path": "/54ZAfu0l1xzfzEpcyhk668c26IS.jpg",
+          "cast_id": 3,
+          "character": "Cheong-hae",
+          "credit_id": "52fe44d4c3a368484e039517",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 96485,
+          "known_for_department": "Acting",
+          "name": "장동직",
+          "original_name": "장동직",
+          "popularity": 0.913,
+          "profile_path": "/v4m3shRfm6JOYc8ZZgzFkKlEqMJ.jpg",
+          "cast_id": 4,
+          "character": "Hong-san",
+          "credit_id": "52fe44d4c3a368484e03951b",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 231488,
+          "known_for_department": "Acting",
+          "name": "Ryun Jang",
+          "original_name": "Ryun Jang",
+          "popularity": 0.2003,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Laura",
+          "credit_id": "52fe44d4c3a368484e03951f",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 231489,
+          "known_for_department": "Acting",
+          "name": "Sasha Rucavina",
+          "original_name": "Sasha Rucavina",
+          "popularity": 0.1047,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Corrine",
+          "credit_id": "52fe44d4c3a368484e039523",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1977,
+          "known_for_department": "Acting",
+          "name": "Richard Bohringer",
+          "original_name": "Richard Bohringer",
+          "popularity": 1.0904,
+          "profile_path": "/v6372ku0d2Y28zUJ7mGrwaNQ04g.jpg",
+          "cast_id": 7,
+          "character": "Boss",
+          "credit_id": "52fe44d4c3a368484e039527",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 27978,
+          "known_for_department": "Acting",
+          "name": "Denis Lavant",
+          "original_name": "Denis Lavant",
+          "popularity": 0.9346,
+          "profile_path": "/yFbBnHd70Z0pdq6GIzn8amWvmto.jpg",
+          "cast_id": 8,
+          "character": "Emil",
+          "credit_id": "52fe44d4c3a368484e03952b",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 231491,
+          "known_for_department": "Acting",
+          "name": "Laurent Buro",
+          "original_name": "Laurent Buro",
+          "popularity": 0.1033,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Pare",
+          "credit_id": "52fe44d4c3a368484e03952f",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2987309,
+          "known_for_department": "Acting",
+          "name": "Bruno Guillot",
+          "original_name": "Bruno Guillot",
+          "popularity": 0.2592,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Karl",
+          "credit_id": "69cdd938c1e58fe26c9a0d0f",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1718774,
+          "known_for_department": "Acting",
+          "name": "Xavier Schliwanski",
+          "original_name": "Xavier Schliwanski",
+          "popularity": 0.2835,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Michel",
+          "credit_id": "69cdda5172d2f7b4a28fe6a2",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2281686,
+          "known_for_department": "Acting",
+          "name": "Pascal Tourain",
+          "original_name": "Pascal Tourain",
+          "popularity": 0.1002,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "Dong-chi",
+          "credit_id": "69cddb68e37de3b95859f7f4",
+          "order": 9
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 231502,
+          "known_for_department": "Art",
+          "name": "Hye-yeon Moon",
+          "original_name": "Hye-yeon Moon",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "credit_id": "52fe44d4c3a368484e03955f",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1188,
+          "known_for_department": "Directing",
+          "name": "Kim Ki-duk",
+          "original_name": "김기덕",
+          "popularity": 1.1809,
+          "profile_path": "/jvDwwSEtcPfxcUB1NlLbMHFB5ze.jpg",
+          "credit_id": "52fe44d4c3a368484e039513",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 231492,
+          "known_for_department": "Production",
+          "name": "Ki-yeong Kwon",
+          "original_name": "Ki-yeong Kwon",
+          "popularity": 0.0925,
+          "profile_path": null,
+          "credit_id": "52fe44d4c3a368484e039535",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1188,
+          "known_for_department": "Directing",
+          "name": "Kim Ki-duk",
+          "original_name": "김기덕",
+          "popularity": 1.1809,
+          "profile_path": "/jvDwwSEtcPfxcUB1NlLbMHFB5ze.jpg",
+          "credit_id": "52fe44d4c3a368484e039559",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 231494,
+          "known_for_department": "Directing",
+          "name": "박광수",
+          "original_name": "박광수",
+          "popularity": 0.6743,
+          "profile_path": "/tMacdoUeC0iUoDBHb1gspCd2hAe.jpg",
+          "credit_id": "52fe44d4c3a368484e03953b",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 231496,
+          "known_for_department": "Sound",
+          "name": "In-gu Kang",
+          "original_name": "In-gu Kang",
+          "popularity": 0.1074,
+          "profile_path": null,
+          "credit_id": "52fe44d4c3a368484e039541",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 231498,
+          "known_for_department": "Sound",
+          "name": "Jin-ha Oh",
+          "original_name": "Jin-ha Oh",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "52fe44d4c3a368484e039547",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1188,
+          "known_for_department": "Directing",
+          "name": "Kim Ki-duk",
+          "original_name": "김기덕",
+          "popularity": 1.1809,
+          "profile_path": "/jvDwwSEtcPfxcUB1NlLbMHFB5ze.jpg",
+          "credit_id": "52fe44d4c3a368484e03950d",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 231501,
+          "known_for_department": "Editing",
+          "name": "Seon-deok Park",
+          "original_name": "Seon-deok Park",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "52fe44d4c3a368484e039553",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 28000,
+          "known_for_department": "Camera",
+          "name": "서정민",
+          "original_name": "서정민",
+          "popularity": 0.3616,
+          "profile_path": "/ay6Tyx6eKRdPPCC3j8P9gFVRUsY.jpg",
+          "credit_id": "69cdd7b895cc8413b9d28c42",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1997-10-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "KR",
+          "title": "Yasaeng dongmul bohoguyeog",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "KR",
+          "title": "야생동물보호구역",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "JP",
+          "title": "ワイルド・アニマル",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "GB",
+          "title": "Wild Animals",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

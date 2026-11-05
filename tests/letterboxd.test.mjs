@@ -26,7 +26,7 @@ test('badges link outside the detail button and use the screening-specific ratin
   const filmId = 'la-batalla-de-chile-parte-i-ii-y-iii';
   for (const event of fidocs.events.filter(event => event.filmId === filmId)) {
     const { html } = drawTimeline({ ...fidocs, events: [event] }, { date: event.date, search: '', venue: '', section: '' });
-    assert.match(html, /<\/button>\s*<a class="event-rating"/);
+    assert.match(html, /<\/button>\s*<div class="event-footer">[\s\S]*?<a class="event-rating"/);
     assert.ok(html.includes(`href="https://letterboxd.com/film/${event.letterboxd}/"`));
     assert.ok(html.includes(`${ratings[event.letterboxd].toFixed(1)} de 5 en Letterboxd · ${checkedAt}`));
   }

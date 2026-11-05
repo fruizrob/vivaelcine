@@ -1,0 +1,429 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/342860?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:58.245Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 342860,
+    "imdb_id": "tt0233001",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "¡Qué vecinos tan animales!",
+    "overview": "Nicolás, un ratoncillo, se quedó dormido la mañana en la que su familia abandonaba la ciudad para instalarse en el campo, por lo que se quedó solo en el campanario en el que había vivido hasta entonces. Ahí, conoce a una cigueña, y comienza una sincera relación de amistad",
+    "popularity": 0.986,
+    "poster_path": "/vQWgm3GGclk5nYZj88cM5avSJ0L.jpg",
+    "production_companies": [
+      {
+        "id": 37947,
+        "logo_path": null,
+        "name": "Extra Extremadura de Audiovisuales S.A.",
+        "origin_country": ""
+      },
+      {
+        "id": 29258,
+        "logo_path": null,
+        "name": "Ministerio de Cultura España",
+        "origin_country": "ES"
+      },
+      {
+        "id": 981,
+        "logo_path": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+        "name": "TVE",
+        "origin_country": "ES"
+      },
+      {
+        "id": 31123,
+        "logo_path": "/Q9F9wXH9XRsSwvR9eA0Yn8P1wT.png",
+        "name": "EiTB",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "1998-09-04",
+    "revenue": 0,
+    "runtime": 69,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Una increíble aventura",
+    "title": "¡Qué vecinos tan animales!",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 6,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1417592,
+          "known_for_department": "Acting",
+          "name": "Chelo Vivares",
+          "original_name": "Chelo Vivares",
+          "popularity": 0.3145,
+          "profile_path": "/nuE3cB1FVOWm3dKQyR0TfduPnvh.jpg",
+          "cast_id": 0,
+          "character": "El pequeño Nico",
+          "credit_id": "556da36992514142200008c7",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 105160,
+          "known_for_department": "Acting",
+          "name": "Gemma Cuervo",
+          "original_name": "Gemma Cuervo",
+          "popularity": 0.3005,
+          "profile_path": "/5JEX8CIYJs8FFkJOKE7hTmFabcF.jpg",
+          "cast_id": 1,
+          "character": "Sra. Cigüeña",
+          "credit_id": "556da37b925141421b0007d6",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1473206,
+          "known_for_department": "Acting",
+          "name": "Javier Franquelo",
+          "original_name": "Javier Franquelo",
+          "popularity": 0.3154,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Papá Ratón",
+          "credit_id": "556da3ab925141422c00089b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 31699,
+          "known_for_department": "Acting",
+          "name": "Juan Luis Galiardo",
+          "original_name": "Juan Luis Galiardo",
+          "popularity": 0.2951,
+          "profile_path": "/byVisCk4fv6iak6tMyjzN4Z0zIv.jpg",
+          "cast_id": 4,
+          "character": "Sres. Galápagos",
+          "credit_id": "556da3bf92514167e70001b8",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1238798,
+          "known_for_department": "Acting",
+          "name": "Ana Ángeles García",
+          "original_name": "Ana Ángeles García",
+          "popularity": 0.6092,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Cigüeña Katy",
+          "credit_id": "556da40a925141422c0008a6",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1238798,
+          "known_for_department": "Acting",
+          "name": "Ana Ángeles García",
+          "original_name": "Ana Ángeles García",
+          "popularity": 0.6092,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Cigüeña Caty",
+          "credit_id": "556da412925141421b0007e8",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 97694,
+          "known_for_department": "Acting",
+          "name": "Narciso Ibáñez Menta",
+          "original_name": "Narciso Ibáñez Menta",
+          "popularity": 0.4004,
+          "profile_path": "/xNB7dO16Oo2HTLUpC2gfN209CyX.jpg",
+          "cast_id": 7,
+          "character": "Sr. Murciélago",
+          "credit_id": "556da435c3a3680e80000857",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1473207,
+          "known_for_department": "Acting",
+          "name": "Primitivo Rojas",
+          "original_name": "Primitivo Rojas",
+          "popularity": 0.3165,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Sr. Alimoche",
+          "credit_id": "556da44ec3a3680e8f000980",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1473208,
+          "known_for_department": "Acting",
+          "name": "Fernando Romay",
+          "original_name": "Fernando Romay",
+          "popularity": 0.3369,
+          "profile_path": "/lGpvCAuvDeidWVbqyXukZUYGp9d.jpg",
+          "cast_id": 9,
+          "character": "Sr. Buitre",
+          "credit_id": "556da468c3a3680e86000876",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1131110,
+          "known_for_department": "Directing",
+          "name": "Maite Ruiz de Austri",
+          "original_name": "Maite Ruiz de Austri",
+          "popularity": 0.8378,
+          "profile_path": "/zUVtP3dTtvAgHlK5U6avb5qYRVW.jpg",
+          "cast_id": 10,
+          "character": "Sra. Grulla",
+          "credit_id": "556da477c3a3680e8600087b",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 97662,
+          "known_for_department": "Acting",
+          "name": "Emma Cohen",
+          "original_name": "Emma Cohen",
+          "popularity": 0.5217,
+          "profile_path": "/p3nH6jMb4CmYBhwp6zeR8zvgAva.jpg",
+          "cast_id": 24,
+          "character": "Mamá Ratón",
+          "credit_id": "561b8bbe9251415a640007af",
+          "order": 10
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1473213,
+          "known_for_department": "Editing",
+          "name": "Gustavo Martínez Schmidt",
+          "original_name": "Gustavo Martínez Schmidt",
+          "popularity": 0.1057,
+          "profile_path": null,
+          "credit_id": "556da55492514142200008eb",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1390131,
+          "known_for_department": "Acting",
+          "name": "Germán Gutiérrez",
+          "original_name": "Germán Gutiérrez",
+          "popularity": 0.2057,
+          "profile_path": "/b6rAqIJRlUaDe74fcrBqfYy0GVA.jpg",
+          "credit_id": "556da56cc3a3680e8f0009a1",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1131110,
+          "known_for_department": "Directing",
+          "name": "Maite Ruiz de Austri",
+          "original_name": "Maite Ruiz de Austri",
+          "popularity": 0.8378,
+          "profile_path": "/zUVtP3dTtvAgHlK5U6avb5qYRVW.jpg",
+          "credit_id": "556da497c3a3680e96000877",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1131110,
+          "known_for_department": "Directing",
+          "name": "Maite Ruiz de Austri",
+          "original_name": "Maite Ruiz de Austri",
+          "popularity": 0.8378,
+          "profile_path": "/zUVtP3dTtvAgHlK5U6avb5qYRVW.jpg",
+          "credit_id": "556da4c7925141422c0008b9",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1473215,
+          "known_for_department": "Sound",
+          "name": "Juan Carlos Rivas",
+          "original_name": "Juan Carlos Rivas",
+          "popularity": 0.7122,
+          "profile_path": null,
+          "credit_id": "556da5cec3a3680ea200095a",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1131110,
+          "known_for_department": "Directing",
+          "name": "Maite Ruiz de Austri",
+          "original_name": "Maite Ruiz de Austri",
+          "popularity": 0.8378,
+          "profile_path": "/zUVtP3dTtvAgHlK5U6avb5qYRVW.jpg",
+          "credit_id": "556da4dfc3a3680ea2000946",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1473210,
+          "known_for_department": "Production",
+          "name": "José Manuel Mata",
+          "original_name": "José Manuel Mata",
+          "popularity": 1.0703,
+          "profile_path": null,
+          "credit_id": "556da50ec3a3680e80000868",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1383937,
+          "known_for_department": "Production",
+          "name": "Íñigo Silva",
+          "original_name": "Íñigo Silva",
+          "popularity": 0.3896,
+          "profile_path": null,
+          "credit_id": "556da4fac3a3680e9d00091d",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1473209,
+          "known_for_department": "Writing",
+          "name": "Ion Etxebeste",
+          "original_name": "Ion Etxebeste",
+          "popularity": 0.1762,
+          "profile_path": null,
+          "credit_id": "556da4b4925141422c0008b5",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1473214,
+          "known_for_department": "Art",
+          "name": "Demián Vivas",
+          "original_name": "Demián Vivas",
+          "popularity": 0.196,
+          "profile_path": null,
+          "credit_id": "556da580c3a3680e96000888",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1473209,
+          "known_for_department": "Writing",
+          "name": "Ion Etxebeste",
+          "original_name": "Ion Etxebeste",
+          "popularity": 0.1762,
+          "profile_path": null,
+          "credit_id": "556da597c3a3680e8a0008f2",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1473211,
+          "known_for_department": "Sound",
+          "name": "José Carlos Mac",
+          "original_name": "José Carlos Mac",
+          "popularity": 1.0915,
+          "profile_path": null,
+          "credit_id": "556da520925141317c0003a3",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1473212,
+          "known_for_department": "Crew",
+          "name": "Fernando Moreiro",
+          "original_name": "Fernando Moreiro",
+          "popularity": 0.8464,
+          "profile_path": null,
+          "credit_id": "556da536925141421d00087a",
+          "department": "Crew",
+          "job": "Cinematography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "ATP",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1998-09-04T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

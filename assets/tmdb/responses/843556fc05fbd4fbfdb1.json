@@ -1,0 +1,379 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/89987?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:58.170Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/vauR4kcgUHUfDhDGp6IrF42uRCS.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 89987,
+    "imdb_id": "tt0020135",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Man I Love",
+    "overview": "",
+    "popularity": 0.8851,
+    "poster_path": "/pDQnXXc0YmkUR7E8aNrWN64pYuJ.jpg",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1929-05-25",
+    "revenue": 0,
+    "runtime": 74,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Man I Love",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29760,
+          "known_for_department": "Acting",
+          "name": "Richard Arlen",
+          "original_name": "Richard Arlen",
+          "popularity": 0.7976,
+          "profile_path": "/dDr230NdMlxt4BC0OxwG0pJZV7t.jpg",
+          "cast_id": 2,
+          "character": "Joe \"Dum-Dum\" Brooks",
+          "credit_id": "52fe4a369251416c910c70a5",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 114767,
+          "known_for_department": "Acting",
+          "name": "Mary Brian",
+          "original_name": "Mary Brian",
+          "popularity": 0.9842,
+          "profile_path": "/tRYVBCNSl4e3RQyUwYWptNkqs5Z.jpg",
+          "cast_id": 3,
+          "character": "Celia Fields",
+          "credit_id": "52fe4a369251416c910c70a9",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1508,
+          "known_for_department": "Acting",
+          "name": "Olga Baclanova",
+          "original_name": "Olga Baclanova",
+          "popularity": 0.7557,
+          "profile_path": "/4iGwi4WGG8dk84hXBh0HWz2Ffv8.jpg",
+          "cast_id": 4,
+          "character": "Sonia Barondoff",
+          "credit_id": "52fe4a369251416c910c70ad",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 112363,
+          "known_for_department": "Acting",
+          "name": "Harry Green",
+          "original_name": "Harry Green",
+          "popularity": 0.3644,
+          "profile_path": "/1tO4hqEg81n43bJT9riGLPbmicF.jpg",
+          "cast_id": 5,
+          "character": "Curly Bloom",
+          "credit_id": "52fe4a379251416c910c70b1",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14028,
+          "known_for_department": "Acting",
+          "name": "Jack Oakie",
+          "original_name": "Jack Oakie",
+          "popularity": 0.6464,
+          "profile_path": "/9oWdEicbTjfpfiCtvvYuxi0UseU.jpg",
+          "cast_id": 6,
+          "character": "Lew Layton",
+          "credit_id": "52fe4a379251416c910c70b5",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1239954,
+          "known_for_department": "Acting",
+          "name": "Pat O'Malley",
+          "original_name": "Pat O'Malley",
+          "popularity": 1.5641,
+          "profile_path": "/4evplBNQp1k390ec2Ivrvp4jSF8.jpg",
+          "cast_id": 9,
+          "character": "D.J. McCarthy",
+          "credit_id": "52fe4a379251416c910c70bd",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 95771,
+          "known_for_department": "Acting",
+          "name": "Leslie Fenton",
+          "original_name": "Leslie Fenton",
+          "popularity": 0.7212,
+          "profile_path": "/d4YyQ7yc4PsbAr0nSbSXBncKmUb.jpg",
+          "cast_id": 8,
+          "character": "Carlo Vesper",
+          "credit_id": "52fe4a379251416c910c70b9",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 126836,
+          "known_for_department": "Acting",
+          "name": "Charles Sullivan",
+          "original_name": "Charles Sullivan",
+          "popularity": 0.4558,
+          "profile_path": "/jD3ajxyJEtjDoQFGXs3Pq9nV37K.jpg",
+          "cast_id": 14,
+          "character": "Champ Mahoney",
+          "credit_id": "559d82ab92514125120004ba",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 572525,
+          "known_for_department": "Acting",
+          "name": "Sailor Vincent",
+          "original_name": "Sailor Vincent",
+          "popularity": 0.3353,
+          "profile_path": "/9GM8Gmpt49Dwv73REpuMopLsZBK.jpg",
+          "cast_id": 15,
+          "character": "K.O. O'Hearn",
+          "credit_id": "559d82bbc3a36865a7000462",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1045090,
+          "known_for_department": "Acting",
+          "name": "Bob Perry",
+          "original_name": "Bob Perry",
+          "popularity": 0.874,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Gateman",
+          "credit_id": "559d82cc9251412515000415",
+          "order": 9
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14643,
+          "known_for_department": "Directing",
+          "name": "William A. Wellman",
+          "original_name": "William A. Wellman",
+          "popularity": 0.8405,
+          "profile_path": "/rHkFOPzdJGimnC4yRqophK9tvEO.jpg",
+          "credit_id": "52fe4a369251416c910c70a1",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3248,
+          "known_for_department": "Production",
+          "name": "David O. Selznick",
+          "original_name": "David O. Selznick",
+          "popularity": 1.7824,
+          "profile_path": "/7BAijrUZxGv9vF5jXh0yUxbDHMP.jpg",
+          "credit_id": "559d8277925141251e00043e",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30012,
+          "known_for_department": "Writing",
+          "name": "Herman J. Mankiewicz",
+          "original_name": "Herman J. Mankiewicz",
+          "popularity": 0.5183,
+          "profile_path": "/1voWHXxlyoWPbHY03vMbH5WwvYr.jpg",
+          "credit_id": "559d825c92514125090004b3",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 35242,
+          "known_for_department": "Camera",
+          "name": "Henry W. Gerrard",
+          "original_name": "Henry W. Gerrard",
+          "popularity": 0.35,
+          "profile_path": null,
+          "credit_id": "584e495d92514118ed009fea",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29597,
+          "known_for_department": "Writing",
+          "name": "Percy Heath",
+          "original_name": "Percy Heath",
+          "popularity": 0.4497,
+          "profile_path": null,
+          "credit_id": "6a5cac691901991f7d93ded3",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30012,
+          "known_for_department": "Writing",
+          "name": "Herman J. Mankiewicz",
+          "original_name": "Herman J. Mankiewicz",
+          "popularity": 0.5183,
+          "profile_path": "/1voWHXxlyoWPbHY03vMbH5WwvYr.jpg",
+          "credit_id": "6a5cac7adc4727d8b0262e30",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1572600,
+          "known_for_department": "Editing",
+          "name": "Alyson Shaffer",
+          "original_name": "Alyson Shaffer",
+          "popularity": 0.1924,
+          "profile_path": null,
+          "credit_id": "6a5cacc04f7c12cde5262def",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 7652,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Travis Banton",
+          "original_name": "Travis Banton",
+          "popularity": 0.4173,
+          "profile_path": "/hf1TZE9c0qvgaXmYK6kBWfZHYzz.jpg",
+          "credit_id": "6a5cacda9dcf408ad77253ff",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 13335,
+          "known_for_department": "Production",
+          "name": "Adolph Zukor",
+          "original_name": "Adolph Zukor",
+          "popularity": 0.2498,
+          "profile_path": "/h4gkeIGlb8fybIxrPokalu23oFX.jpg",
+          "credit_id": "6a5cacee66f4cfebdd750162",
+          "department": "Crew",
+          "job": "Presenter"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2060058,
+          "known_for_department": "Sound",
+          "name": "Richard A. Whiting",
+          "original_name": "Richard A. Whiting",
+          "popularity": 0.5051,
+          "profile_path": null,
+          "credit_id": "6a5cb18d034d471314d746a2",
+          "department": "Sound",
+          "job": "Songs"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1759289,
+          "known_for_department": "Writing",
+          "name": "Leo Robin",
+          "original_name": "Leo Robin",
+          "popularity": 0.0794,
+          "profile_path": null,
+          "credit_id": "6a5cb196b7c50a86ee7254fe",
+          "department": "Writing",
+          "job": "Lyricist"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1929-05-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

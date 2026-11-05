@@ -1,0 +1,169 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/149767?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:16.204Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/bdvsIYAHLItf1jYrrFr1GXDq93h.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 149767,
+    "imdb_id": "tt0832896",
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "en",
+    "original_title": "Knowledge Is the Beginning",
+    "overview": "Este documental narra la inspiradora historia de la West-Eastern Divan Orchestra, creada en 1999 por Daniel Barenboim y Edward Said para reunir a jóvenes músicos de diversas procedencias y posturas políticas en Oriente Medio. A través de ensayos, conciertos y celebraciones, se muestran los desafíos y cómo la música supera prejuicios y construye puentes. Con imágenes únicas de talleres en Weimar y Sevilla, la visita de Barenboim a Ramala y Jerusalén, y momentos destacados de la gira europea de 2005, la película demuestra el poder transformador de la música para encontrar puntos de encuentro en un mundo dividido.",
+    "popularity": 1.705,
+    "poster_path": "/gWt5mmTmgJjWlQW45LKh271Y4Jl.jpg",
+    "production_companies": [
+      {
+        "id": 2255,
+        "logo_path": "/o8meyz6tKQgWpYevIuMmSlOJp9K.png",
+        "name": "EuroArts",
+        "origin_country": "DE"
+      },
+      {
+        "id": 11237,
+        "logo_path": "/nzPEges9ftjCDQWru0qrIfTX8OR.png",
+        "name": "ZDF/Arte",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2005-08-25",
+    "revenue": 0,
+    "runtime": 114,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Hebrew",
+        "iso_639_1": "he",
+        "name": "עִבְרִית"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Knowledge Is the Beginning",
+    "video": false,
+    "vote_average": 9,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 142592,
+          "known_for_department": "Acting",
+          "name": "Daniel Barenboim",
+          "original_name": "Daniel Barenboim",
+          "popularity": 0.4214,
+          "profile_path": "/pNoHzRlu3vNQmQsB7XrmrFYjOd1.jpg",
+          "cast_id": 1,
+          "character": "Self",
+          "credit_id": "68f92b7d7047130b24b90996",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 968931,
+          "known_for_department": "Acting",
+          "name": "Edward Said",
+          "original_name": "Edward Said",
+          "popularity": 0.4221,
+          "profile_path": "/cKXzbXbXqymkN9XQvRA8AoLETbX.jpg",
+          "cast_id": 2,
+          "character": "Self",
+          "credit_id": "68f92b8b10a1c8f122b909a1",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5900222,
+          "known_for_department": "Acting",
+          "name": "Mustafa Barghouthi",
+          "original_name": "Mustafa Barghouthi",
+          "popularity": 0.2611,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Self",
+          "credit_id": "694f1aff25898baa998ce0d8",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 139125,
+          "known_for_department": "Production",
+          "name": "Paul Smaczny",
+          "original_name": "Paul Smaczny",
+          "popularity": 1.0462,
+          "profile_path": "/fRVXsWwbRhsVjVJgCFVsEpF4JKC.jpg",
+          "credit_id": "694f18880df1ab1c9a2fbd4d",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-08-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

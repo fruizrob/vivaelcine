@@ -1,0 +1,79 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1539103?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:19.182Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/w11bRDFbvNtZ7CYalFGEiTYEwgi.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 1539103,
+    "imdb_id": null,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "Vaundy one man live ARENA tour \"replica ZERO\"",
+    "overview": "",
+    "popularity": 0.4703,
+    "poster_path": "/yH0cAIhJN3v4CLjEVohnOPTLxcK.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2024-01-21",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Vaundy one man live ARENA tour \"replica ZERO\"",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2641699,
+          "known_for_department": "Sound",
+          "name": "Vaundy",
+          "original_name": "Vaundy",
+          "popularity": 0.3479,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "68b46ddc8b1ad284493ccfb3",
+          "order": 0
+        }
+      ],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ja",
+              "note": "",
+              "release_date": "2024-01-21T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

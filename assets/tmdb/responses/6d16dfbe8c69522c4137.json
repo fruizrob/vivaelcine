@@ -1,0 +1,93 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1118821?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:42.502Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1118821,
+    "imdb_id": null,
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Skip Norman, West-Berlin, ca. 1969/70",
+    "overview": "",
+    "popularity": 0.4,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "1969-12-31",
+    "revenue": 0,
+    "runtime": 1,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Skip Norman, West-Berlin, ca. 1969/70",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1039991,
+          "known_for_department": "Directing",
+          "name": "Skip Norman",
+          "original_name": "Skip Norman",
+          "popularity": 0.2511,
+          "profile_path": "/f9dy1ywajawZsmPPINN5PQFhHu6.jpg",
+          "cast_id": 2,
+          "character": "Self",
+          "credit_id": "644a9264f794ad04803d118b",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1487563,
+          "known_for_department": "Acting",
+          "name": "Ingrid Oppermann",
+          "original_name": "Ingrid Oppermann",
+          "popularity": 0.1597,
+          "profile_path": null,
+          "credit_id": "644a9258a39d0b0d412482fc",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "1969-70",
+              "release_date": "1969-12-31T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1618570?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:25.530Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1618570,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Puccini's Suor Angelica",
+    "overview": "",
+    "popularity": 0.8125,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Puccini's Suor Angelica",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1725984,
+          "known_for_department": "Acting",
+          "name": "Maria José Siri",
+          "original_name": "Maria José Siri",
+          "popularity": 0.5809,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Sister Angelica",
+          "credit_id": "696bcf735f54933768dcae01",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1575774,
+          "known_for_department": "Directing",
+          "name": "Denis Krief",
+          "original_name": "Denis Krief",
+          "popularity": 0.2042,
+          "profile_path": null,
+          "credit_id": "696bcf95f34f4f4177f119f9",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

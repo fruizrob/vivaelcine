@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Barbara+Forever&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:43.697Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/mlEsvwfQoNUXC9y7vOSgVkrSL5U.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1596326,
+        "title": "Barbara Forever",
+        "original_language": "en",
+        "original_title": "Barbara Forever",
+        "overview": "",
+        "popularity": 2.4597,
+        "poster_path": "/kYjCmL8sg17zoKtm5Pb6Cn4H0nB.jpg",
+        "release_date": "2026-09-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

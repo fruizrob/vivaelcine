@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=THE+DANCE+OF+THE+LIVING&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:51.187Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/7ArLTU1YTaOH7mbRAPloAcCobZO.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1513010,
+        "title": "La Lucha",
+        "original_language": "es",
+        "original_title": "La Lucha",
+        "overview": "En la árida isla de Fuerteventura, Miguel y su hija Mariana intentan seguir adelante tras la muerte de su esposa, una pérdida que los ha dejado a la deriva. La lucha canaria es su refugio, su forma de hacerse un lugar en el mundo. Pero el cuerpo de Miguel empieza a fallar, y la rabia de Mariana la empuja a desafiar las normas. Con la final del campeonato cerca, padre e hija buscan reencontrarse antes de que sea demasiado tarde.",
+        "popularity": 1.9774,
+        "poster_path": "/l04B1hsz94w248AiNrnJwAcSFTT.jpg",
+        "release_date": "2026-01-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 6
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

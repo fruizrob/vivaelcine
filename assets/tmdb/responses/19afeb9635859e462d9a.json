@@ -1,0 +1,94 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1726221?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:57.581Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1726221,
+    "imdb_id": null,
+    "origin_country": [
+      "US",
+      "PE"
+    ],
+    "original_language": "en",
+    "original_title": "Ciudad Jardín",
+    "overview": "",
+    "popularity": 1.1906,
+    "poster_path": "/lPo1loD04Z6ASn0RrEt52SDL4ci.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "PE",
+        "name": "Peru"
+      }
+    ],
+    "release_date": "2011-01-01",
+    "revenue": 0,
+    "runtime": 101,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ciudad Jardín",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 933265,
+          "known_for_department": "Acting",
+          "name": "Anahí de Cárdenas",
+          "original_name": "Anahí de Cárdenas",
+          "popularity": 0.2662,
+          "profile_path": "/bkn52imloMOTVg8pds8aJMoue0B.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "6a49bbe8b3f7e1282b1fd24b",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 167436,
+          "known_for_department": "Directing",
+          "name": "Camilo Vila",
+          "original_name": "Camilo Vila",
+          "popularity": 0.3296,
+          "profile_path": null,
+          "credit_id": "6a49bbdf71caa6bda0a637e1",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2011-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

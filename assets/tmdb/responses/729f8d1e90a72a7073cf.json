@@ -1,0 +1,188 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/299688?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:41.982Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 299688,
+    "imdb_id": "tt0065200",
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Weh' dem, der erbt",
+    "overview": "",
+    "popularity": 0.5162,
+    "poster_path": "/ly0vODxQKH1do4PeoLcUsZiVvv0.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "1969-12-25",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Weh' dem, der erbt",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1024883,
+          "known_for_department": "Acting",
+          "name": "Inge Meysel",
+          "original_name": "Inge Meysel",
+          "popularity": 0.4507,
+          "profile_path": "/hyEZZ1EBWj0PjAxJveIxnYEDdnl.jpg",
+          "cast_id": 1,
+          "character": "Alice Thursday",
+          "credit_id": "5450e5f10e0a2639fe004466",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 33720,
+          "known_for_department": "Acting",
+          "name": "Ann Smyrner",
+          "original_name": "Ann Smyrner",
+          "popularity": 0.3549,
+          "profile_path": "/q0lgBBlc4D4k80dKSPkeRdyxZ9m.jpg",
+          "cast_id": 2,
+          "character": "Ehefrau",
+          "credit_id": "5450e600c3a3680233003fc4",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 26900,
+          "known_for_department": "Acting",
+          "name": "Walter Buschhoff",
+          "original_name": "Walter Buschhoff",
+          "popularity": 0.6188,
+          "profile_path": "/6Jka7SPRlwanDRg5Djezt7nyGkD.jpg",
+          "cast_id": 3,
+          "character": "Vizepräsident Sir Charles Barker",
+          "credit_id": "5450e612c3a3680245004130",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 26253,
+          "known_for_department": "Acting",
+          "name": "Richard Lauffen",
+          "original_name": "Richard Lauffen",
+          "popularity": 0.4562,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Vizepräsident Joe Lever",
+          "credit_id": "5450e624c3a368023c0041b6",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1183601,
+          "known_for_department": "Acting",
+          "name": "Eva Maria Bauer",
+          "original_name": "Eva Maria Bauer",
+          "popularity": 0.3708,
+          "profile_path": "/dxyNr1F3yEt4dRcKuboe4icnRtG.jpg",
+          "cast_id": 5,
+          "character": "Connie Jarvis",
+          "credit_id": "5450e649c3a3680245004138",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 46192,
+          "known_for_department": "Acting",
+          "name": "Josef Dahmen",
+          "original_name": "Josef Dahmen",
+          "popularity": 0.3895,
+          "profile_path": "/3ffUwI5lEbpAixM3FuriWAHuofE.jpg",
+          "cast_id": 6,
+          "character": "Dick Jarvis",
+          "credit_id": "5450e66ec3a3680239003fe8",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 36507,
+          "known_for_department": "Acting",
+          "name": "Andrea Grosske",
+          "original_name": "Andrea Grosske",
+          "popularity": 0.7174,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Ehefrau",
+          "credit_id": "56a2346192514149bc00ad76",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 26611,
+          "known_for_department": "Directing",
+          "name": "Georg Tressler",
+          "original_name": "Georg Tressler",
+          "popularity": 0.3405,
+          "profile_path": null,
+          "credit_id": "5450e5e30e0a262d460017b3",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-12-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

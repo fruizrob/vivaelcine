@@ -1,0 +1,161 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1022000?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:04.942Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/iuFzTnVLBCEChMZ04ZJnLpgvjxI.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1022000,
+    "imdb_id": "tt13852218",
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "Leopoldo Jacinto. Vida de campeón",
+    "overview": "",
+    "popularity": 0.9072,
+    "poster_path": "/hqSE045QHMFsuJHUFxAGHTf4QOW.jpg",
+    "production_companies": [
+      {
+        "id": 138289,
+        "logo_path": "/bhDOWwcdpIq81hlShNlw6MpfFrd.png",
+        "name": "Año Luz Cine",
+        "origin_country": "AR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2019-05-05",
+    "revenue": 0,
+    "runtime": 110,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Leopoldo Jacinto. Vida de campeón",
+    "video": false,
+    "vote_average": 9,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3468360,
+          "known_for_department": "Acting",
+          "name": "Leopoldo Luque",
+          "original_name": "Leopoldo Luque",
+          "popularity": 0.2445,
+          "profile_path": "/pUyZG6kTvBTHeoj03amVnvK08V1.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "6463dad8dbbb42013638a0a4",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1692942,
+          "known_for_department": "Acting",
+          "name": "Mario Kempes",
+          "original_name": "Mario Kempes",
+          "popularity": 0.7358,
+          "profile_path": "/86ACHnNVEtbg6lYhh9iK14gYmgL.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "6463dafde3fa2f00e404e73e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3467160,
+          "known_for_department": "Acting",
+          "name": "Ubaldo Fillol",
+          "original_name": "Ubaldo Fillol",
+          "popularity": 0.1442,
+          "profile_path": "/84kghvS4ClIwKTm01OdGqc6RZ4.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "6463db1adbbb420170aa8b3e",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2173799,
+          "known_for_department": "Acting",
+          "name": "Daniel Bertoni",
+          "original_name": "Daniel Bertoni",
+          "popularity": 0.1503,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "6463db348c44b97808fffb01",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2326583,
+          "known_for_department": "Acting",
+          "name": "Rodolfo D'Onofrio",
+          "original_name": "Rodolfo D'Onofrio",
+          "popularity": 0.2165,
+          "profile_path": "/bToOkgcFZFYOu7eQSM46AA6PTT4.jpg",
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "646b96f633a3760158daedb9",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3692441,
+          "known_for_department": "Directing",
+          "name": "Matías Ricciardi",
+          "original_name": "Matías Ricciardi",
+          "popularity": 0.1306,
+          "profile_path": null,
+          "credit_id": "631934b6fac502007c355bfd",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "ATP",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2019-05-05T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

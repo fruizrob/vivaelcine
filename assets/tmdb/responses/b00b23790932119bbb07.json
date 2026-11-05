@@ -1,0 +1,115 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/476546?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:34.508Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 476546,
+    "imdb_id": null,
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_title": "Seasons in the Mind",
+    "overview": "",
+    "popularity": 0.5811,
+    "poster_path": "/sCFhSzd0NNoSPryeK509IvVtmE2.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "1971-05-22",
+    "revenue": 0,
+    "runtime": 22,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Seasons in the Mind",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1615101,
+          "known_for_department": "Directing",
+          "name": "Tony Ianzelo",
+          "original_name": "Tony Ianzelo",
+          "popularity": 0.2029,
+          "profile_path": null,
+          "credit_id": "61ee73c702842000c17dcb11",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1890784,
+          "known_for_department": "Directing",
+          "name": "Michael Milne",
+          "original_name": "Michael Milne",
+          "popularity": 0.1467,
+          "profile_path": null,
+          "credit_id": "59c0892b9251417dc30093da",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1890785,
+          "known_for_department": "Editing",
+          "name": "Arla Saare",
+          "original_name": "Arla Saare",
+          "popularity": 0.1006,
+          "profile_path": null,
+          "credit_id": "59c08959c3a36804db0099c9",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1971-05-22T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

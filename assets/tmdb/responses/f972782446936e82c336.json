@@ -1,0 +1,576 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/371531?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:53.120Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/pW2kOc5kVt8nJ9G5gefoaVf6znv.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "id": 371531,
+    "imdb_id": "tt0194125",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "La lucha con la pantera",
+    "overview": "",
+    "popularity": 0.8675,
+    "poster_path": "/ryORH2GYklzVOcGmTHrITE0uGqM.jpg",
+    "production_companies": [
+      {
+        "id": 13121,
+        "logo_path": null,
+        "name": "Conacine",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "1975-07-31",
+    "revenue": 0,
+    "runtime": 97,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La lucha con la pantera",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 11,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1026423,
+          "known_for_department": "Acting",
+          "name": "Rocío Brambila",
+          "original_name": "Rocío Brambila",
+          "popularity": 0.2504,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Patricia",
+          "credit_id": "56651aa9925141281100109e",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1545818,
+          "known_for_department": "Acting",
+          "name": "Marissa Maynez",
+          "original_name": "Marissa Maynez",
+          "popularity": 0.2584,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Mercedes",
+          "credit_id": "56651abd925141280c001207",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1545819,
+          "known_for_department": "Acting",
+          "name": "Mildred Hernández",
+          "original_name": "Mildred Hernández",
+          "popularity": 0.1235,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Ana",
+          "credit_id": "56651ad4c3a368511200122b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 942439,
+          "known_for_department": "Acting",
+          "name": "Gregorio Casal",
+          "original_name": "Gregorio Casal",
+          "popularity": 0.2205,
+          "profile_path": "/i6QfOXrhbcdMHbkXGjUXuK79QV.jpg",
+          "cast_id": 4,
+          "character": "Asesino / Killer",
+          "credit_id": "56651adec3a368510e0010db",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1889239,
+          "known_for_department": "Acting",
+          "name": "Roberto Dumont",
+          "original_name": "Roberto Dumont",
+          "popularity": 0.2834,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Professor Escalante",
+          "credit_id": "5dd00f8057d3780015d6d363",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1461420,
+          "known_for_department": "Acting",
+          "name": "Enrique Novi",
+          "original_name": "Enrique Novi",
+          "popularity": 0.2484,
+          "profile_path": "/1bqRI3Fb1TV9YhjDeRyUiSRVZ5I.jpg",
+          "cast_id": 8,
+          "character": "Guillermo",
+          "credit_id": "5dd00f98b76cbb001678faea",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 941178,
+          "known_for_department": "Acting",
+          "name": "Juan José Martínez Casado",
+          "original_name": "Juan José Martínez Casado",
+          "popularity": 0.3557,
+          "profile_path": "/nfadSpjlikLaTvGPARru7BLEqqP.jpg",
+          "cast_id": 9,
+          "character": "Mercedes' Father",
+          "credit_id": "5dd00fb8b76cbb0013791dd8",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 36635,
+          "known_for_department": "Acting",
+          "name": "Zaide Silvia Gutiérrez",
+          "original_name": "Zaide Silvia Gutiérrez",
+          "popularity": 0.6682,
+          "profile_path": "/s5GM7qbbuVelnWLTbCcocGPVRnt.jpg",
+          "cast_id": 34,
+          "character": "Patricia's Friend",
+          "credit_id": "6564eb675cea1801390f54fe",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 608041,
+          "known_for_department": "Acting",
+          "name": "Lina Montes",
+          "original_name": "Lina Montes",
+          "popularity": 0.2074,
+          "profile_path": "/qYz9uypmtny6IQzDDOl64H7IkEH.jpg",
+          "cast_id": 10,
+          "character": "Mother Superior",
+          "credit_id": "5dd00fc6255dba0012db3646",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 225510,
+          "known_for_department": "Acting",
+          "name": "Cecilia Pezet",
+          "original_name": "Cecilia Pezet",
+          "popularity": 0.4788,
+          "profile_path": "/zcSV2t8wJFc8yQ8Uev7JqTZ6ss9.jpg",
+          "cast_id": 11,
+          "character": "Murder Victim",
+          "credit_id": "5dd00fdc255dba000fdb1f12",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 992519,
+          "known_for_department": "Acting",
+          "name": "Lilia Michel",
+          "original_name": "Lilia Michel",
+          "popularity": 0.2295,
+          "profile_path": "/5nxKmLrjM1z4l97QSoprYOCWCMc.jpg",
+          "cast_id": 12,
+          "character": "Patricia's Mother",
+          "credit_id": "5dd00fee79a1c300104b8a84",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1514442,
+          "known_for_department": "Acting",
+          "name": "Miguel Inclán hijo",
+          "original_name": "Miguel Inclán hijo",
+          "popularity": 0.3197,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "",
+          "credit_id": "61acd614a6ddcb006897b498",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 940914,
+          "known_for_department": "Directing",
+          "name": "Hernando Name",
+          "original_name": "Hernando Name",
+          "popularity": 0.3763,
+          "profile_path": "/9ouuTZz6UD6GJQxzAZLdsw6JfrV.jpg",
+          "cast_id": 23,
+          "character": "",
+          "credit_id": "61acd61a7f6c8d0041da62a5",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1650011,
+          "known_for_department": "Acting",
+          "name": "Amparo Fustenberg",
+          "original_name": "Amparo Fustenberg",
+          "popularity": 0.2864,
+          "profile_path": null,
+          "cast_id": 24,
+          "character": "",
+          "credit_id": "61acd6217f6c8d008e911c19",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1542549,
+          "known_for_department": "Acting",
+          "name": "José Luis Caro",
+          "original_name": "José Luis Caro",
+          "popularity": 0.1442,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "Thief",
+          "credit_id": "61acd62b62e86f0063ce1bcd",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1716765,
+          "known_for_department": "Acting",
+          "name": "Fernando Pinkus",
+          "original_name": "Fernando Pinkus",
+          "popularity": 0.3832,
+          "profile_path": null,
+          "cast_id": 26,
+          "character": "Pervert journalist",
+          "credit_id": "61acd638e004a6008c6ed928",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3051208,
+          "known_for_department": "Production",
+          "name": "Edna Guerrero",
+          "original_name": "Edna Guerrero",
+          "popularity": 0.1185,
+          "profile_path": null,
+          "cast_id": 27,
+          "character": "",
+          "credit_id": "61acd63d15dea000416fd77c",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1197385,
+          "known_for_department": "Acting",
+          "name": "José Luis Avendaño",
+          "original_name": "José Luis Avendaño",
+          "popularity": 1.1139,
+          "profile_path": null,
+          "cast_id": 28,
+          "character": "",
+          "credit_id": "61acd643f28838006438753e",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1486664,
+          "known_for_department": "Acting",
+          "name": "Rubén Calderón",
+          "original_name": "Rubén Calderón",
+          "popularity": 0.1501,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "",
+          "credit_id": "61acd649aa659e001cb395b6",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1539078,
+          "known_for_department": "Acting",
+          "name": "Pili González",
+          "original_name": "Pili González",
+          "popularity": 0.2603,
+          "profile_path": null,
+          "cast_id": 30,
+          "character": "Female student",
+          "credit_id": "61acd654d207f3004001cad4",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1267448,
+          "known_for_department": "Writing",
+          "name": "Elizabeth Wallace",
+          "original_name": "Elizabeth Wallace",
+          "popularity": 0.1455,
+          "profile_path": null,
+          "cast_id": 31,
+          "character": "",
+          "credit_id": "61acd660d207f300923c008a",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1509585,
+          "known_for_department": "Acting",
+          "name": "Ethel Carrillo",
+          "original_name": "Ethel Carrillo",
+          "popularity": 0.2224,
+          "profile_path": null,
+          "cast_id": 32,
+          "character": "",
+          "credit_id": "61acd6667f6c8d0019044a50",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1032368,
+          "known_for_department": "Acting",
+          "name": "Alejandro Parodi",
+          "original_name": "Alejandro Parodi",
+          "popularity": 0.312,
+          "profile_path": "/wMsoYB8QF9Ttf3tGNuHtDq5XKsf.jpg",
+          "cast_id": 33,
+          "character": "Journalist",
+          "credit_id": "61acde38f28838001e24a87d",
+          "order": 22
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 31218,
+          "known_for_department": "Sound",
+          "name": "Gustavo César Carrión",
+          "original_name": "Gustavo César Carrión",
+          "popularity": 1.222,
+          "profile_path": null,
+          "credit_id": "61acd575149565005c2db18e",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1027084,
+          "known_for_department": "Camera",
+          "name": "Jorge Stahl Jr.",
+          "original_name": "Jorge Stahl Jr.",
+          "popularity": 0.7694,
+          "profile_path": "/tn4mTwx70EnKfD5M1eGXQNwYARn.jpg",
+          "credit_id": "61acd58638e5100041327189",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1103668,
+          "known_for_department": "Editing",
+          "name": "Rafael Ceballos",
+          "original_name": "Rafael Ceballos",
+          "popularity": 0.1976,
+          "profile_path": null,
+          "credit_id": "61acd59062e86f004143b6ac",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 31590,
+          "known_for_department": "Art",
+          "name": "Carlos Grandjean",
+          "original_name": "Carlos Grandjean",
+          "popularity": 0.3572,
+          "profile_path": null,
+          "credit_id": "61acd59c263462005e93fbb9",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2967769,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Sara Maza",
+          "original_name": "Sara Maza",
+          "popularity": 0.2563,
+          "profile_path": null,
+          "credit_id": "61acd5ac202e110082520157",
+          "department": "Costume & Make-Up",
+          "job": "Hair Setup"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1507537,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Carmen Palomino",
+          "original_name": "Carmen Palomino",
+          "popularity": 1.0582,
+          "profile_path": null,
+          "credit_id": "61acd5b85346610041cd00f7",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1743621,
+          "known_for_department": "Production",
+          "name": "Armando Solís",
+          "original_name": "Armando Solís",
+          "popularity": 0.205,
+          "profile_path": null,
+          "credit_id": "61acd5c3326c190041992978",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1641280,
+          "known_for_department": "Directing",
+          "name": "Américo Fernández",
+          "original_name": "Américo Fernández",
+          "popularity": 0.3021,
+          "profile_path": null,
+          "credit_id": "61acd5de38e510004132721c",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1642102,
+          "known_for_department": "Sound",
+          "name": "Rodolfo Solís",
+          "original_name": "Rodolfo Solís",
+          "popularity": 0.2673,
+          "profile_path": null,
+          "credit_id": "61acd5ea2634620019d59f14",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1378903,
+          "known_for_department": "Directing",
+          "name": "Alberto Bojórquez Patrón",
+          "original_name": "Alberto Bojórquez Patrón",
+          "popularity": 0.2342,
+          "profile_path": "/mt6h2T4B8hx0HHc6BWLFFpicpdk.jpg",
+          "credit_id": "56651a869251412817001084",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1059840,
+          "known_for_department": "Writing",
+          "name": "José de la Colina",
+          "original_name": "José de la Colina",
+          "popularity": 0.9497,
+          "profile_path": null,
+          "credit_id": "57b1fe5b9251414784002f02",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1378903,
+          "known_for_department": "Directing",
+          "name": "Alberto Bojórquez Patrón",
+          "original_name": "Alberto Bojórquez Patrón",
+          "popularity": 0.2342,
+          "profile_path": "/mt6h2T4B8hx0HHc6BWLFFpicpdk.jpg",
+          "credit_id": "57b1fe6292514147e00030aa",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1975-07-31T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "TW",
+          "title": "與黑豹的鬥爭",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/395985?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:35.291Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/w0VLu0oMIl8I1MsvBGly7VojzHm.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 395985,
+    "imdb_id": "tt5733210",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Terra",
+    "overview": "Terra narra la historia de la vida. Yann Arthus-Bertrand y Michael Pitiot nos revelan la formidable epopeya del vivir. Desde los primeros líquenes hasta los bosques gigantes, empezando por los monos de la jungla y hasta llegar a los grandes animales míticos de la sabana. En apenas 10 000 años, la vida terrestre ha sufrido un profundo cambio a causa del formidable desarrollo de la humanidad. La actual sociedad de los hombres se encuentra cada vez más sola en la Tierra. ¿Qué podemos apreciar aún del mundo viviente que nos rodea? ¿Cómo han evolucionado en él las relaciones? Terra es un viaje dentro de la historia del ser vivo, ahondando en la búsqueda del animal que llevamos dentro. Es, sin duda alguna, el encuentro de la propia humanidad.",
+    "popularity": 1.5174,
+    "poster_path": "/fJMlZueIEopbAfJZv1R2MXfi6nA.jpg",
+    "production_companies": [
+      {
+        "id": 79292,
+        "logo_path": null,
+        "name": "Hope Production",
+        "origin_country": "FR"
+      },
+      {
+        "id": 22764,
+        "logo_path": "/8MvPL85VXyoa1BE9Li2s5VTTH3N.png",
+        "name": "Calt Production",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2015-12-01",
+    "revenue": 0,
+    "runtime": 98,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Tierra",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 73,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 65007,
+          "known_for_department": "Acting",
+          "name": "Vanessa Paradis",
+          "original_name": "Vanessa Paradis",
+          "popularity": 1.3697,
+          "profile_path": "/guoseiTGqEe6vfV9d5Q5JdMoZvw.jpg",
+          "cast_id": 6,
+          "character": "Narrator",
+          "credit_id": "58cbd4a89251415e6f012763",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1132460,
+          "known_for_department": "Directing",
+          "name": "Michael Pitiot",
+          "original_name": "Michael Pitiot",
+          "popularity": 0.1652,
+          "profile_path": "/nPPeVediGINsgrUC95nklr9vGMD.jpg",
+          "credit_id": "577012249251417c4e00019b",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 66150,
+          "known_for_department": "Directing",
+          "name": "Yann Arthus-Bertrand",
+          "original_name": "Yann Arthus-Bertrand",
+          "popularity": 0.7903,
+          "profile_path": "/oeIMYmpav5yWsihrkizHR80gtY2.jpg",
+          "credit_id": "5788d8c9c3a36817d700137f",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1132460,
+          "known_for_department": "Directing",
+          "name": "Michael Pitiot",
+          "original_name": "Michael Pitiot",
+          "popularity": 0.1652,
+          "profile_path": "/nPPeVediGINsgrUC95nklr9vGMD.jpg",
+          "credit_id": "5788d8d6c3a3683573000839",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 20682,
+          "known_for_department": "Sound",
+          "name": "Armand Amar",
+          "original_name": "Armand Amar",
+          "popularity": 0.5163,
+          "profile_path": "/kLYTExohdrXXcscsEGNiAnqI2fI.jpg",
+          "credit_id": "58cbd4bfc3a36828910102cb",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2016-05-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-12-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "MX",
+          "title": "Tierra",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "Tierra",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "Tierra",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

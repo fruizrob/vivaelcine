@@ -1,0 +1,220 @@
+{
+  "version": 1,
+  "reviewedAt": "2026-11-05T23:11:08.211Z",
+  "input": {
+    "filename": "vivaelcine-reviews-2026-11-05 (1).json",
+    "sha256": "25c43df33c992bdfd9435f4b41b5c43fbbf8ca85b20d2db97eebd49fb5e8c836",
+    "exportedAt": "2026-11-05T23:04:28.051Z"
+  },
+  "submittedCounts": {
+    "accepted": 52,
+    "no_match": 1,
+    "unsure": 16,
+    "rejected": 5
+  },
+  "validation": {
+    "entries": 74,
+    "issues": [],
+    "checks": [
+      "current catalogue fingerprints",
+      "cached candidate fingerprints",
+      "embedded candidate observations",
+      "unique decisions",
+      "one accepted identity per film",
+      "unique accepted provider IDs",
+      "existing registry ownership"
+    ]
+  },
+  "rejectedCandidates": [
+    {
+      "title": "El llamado",
+      "tmdbId": 1550196,
+      "catalogueDirector": "Peter McPhee",
+      "candidateDirector": [
+        "Benjam\u00edn Fuentes Contreras"
+      ],
+      "catalogueDuration": 21,
+      "candidateDuration": 15
+    },
+    {
+      "title": "El vuelo de la cig\u00fce\u00f1a",
+      "tmdbId": 340948,
+      "catalogueDirector": "Soumaya Hidalgo, Berta Vicente Salas",
+      "candidateDirector": [
+        "Juli\u00e1n Pastor"
+      ],
+      "catalogueDuration": 70,
+      "candidateDuration": 91
+    },
+    {
+      "title": "Jacinto",
+      "tmdbId": 866337,
+      "catalogueDirector": "Karina Angulo Morales",
+      "candidateDirector": [
+        "Javi Camino"
+      ],
+      "catalogueDuration": 15,
+      "candidateDuration": 95
+    },
+    {
+      "title": "La ciudad de los dioses",
+      "tmdbId": 38267,
+      "catalogueDirector": "Sebasti\u00e1n S Claro",
+      "candidateDirector": [
+        "Jacques Tourneur"
+      ],
+      "catalogueDuration": 19,
+      "candidateDuration": 84
+    },
+    {
+      "title": "Quintil",
+      "tmdbId": 820067,
+      "catalogueDirector": "Esperanza Urrutia Mora",
+      "candidateDirector": [
+        "Masato Jimbo"
+      ],
+      "catalogueDuration": 13,
+      "candidateDuration": 136
+    }
+  ],
+  "findings": [
+    {
+      "key": "sanfic-2026/el-tigre-del-este",
+      "tmdbId": 1708375,
+      "verdict": "accepted_identity_duplicate_tracked",
+      "reason": "Same work supported; retain user-preferred 1708375 and track probable duplicate 1816532. Canonical ID and exact cut not established.",
+      "evidence": [
+        {
+          "source": "https://www.chiledoc.cl/custodio-el-tigre-del-este/",
+          "note": "Jorge Acevedo Carrasco, 2026, Custodio music journey; 90-minute advanced edit."
+        },
+        {
+          "source": "https://www.inedit.cl/el-tigre-del-este/",
+          "note": "Same director and story; 2026, 94 minutes."
+        },
+        {
+          "source": "https://www.themoviedb.org/movie/1708375",
+          "note": "Cached title, director and date agree with alternate 1816532; 91 versus 94 minutes does not establish a canonical ID."
+        }
+      ]
+    },
+    {
+      "key": "sanfic-2026/rumor",
+      "tmdbId": 1409285,
+      "verdict": "accepted_identity_duplicate_tracked",
+      "reason": "Same work supported; retain user-preferred 1409285 and track probable duplicate 1468350. Do not infer canonical ID or release year.",
+      "evidence": [
+        {
+          "source": "https://www.sambaquicultural.com.br/item-portfolio/rumor/",
+          "note": "Producer confirms Joana Nin, Olivia/Dalton story and shared cast; current page says 2027."
+        },
+        {
+          "source": "https://www.sambaquicultural.com.br/sambaqui-cultural-no-curitibalab-2025-refinando-o-corte-final-de-rumor-a-partir-de-consultorias-especializadas/",
+          "note": "Producer May 2025 post describes a 96-minute film targeting 2026."
+        },
+        {
+          "source": "https://www.themoviedb.org/movie/1409285",
+          "note": "Cached director ID 1469261 and shared cast agree with 1468350; release date and runtime missing."
+        }
+      ]
+    },
+    {
+      "key": "fidocs-2026/fidocs-2026-la-batalla-de-chile-parte-i-ii-y-iii-18-1005",
+      "tmdbId": 1752899,
+      "verdict": "accepted_identity_metadata_conflict",
+      "reason": "Exact Part II work identity supported. Provider 79-minute cut unverified; preserve festival 1977/88 minutes rather than importing provider 1976/79 minutes.",
+      "evidence": [
+        {
+          "source": "https://www.cclm.cl/cineteca-nacional/la-batalla-de-chile-parte-ii/",
+          "note": "Cineteca confirms exact Part II subtitle, director and credits; 1976, 90 minutes."
+        },
+        {
+          "source": "https://www.themoviedb.org/movie/1752899",
+          "note": "Cached exact subtitle, Patricio Guzman and IMDb tt0074187; 1976, 79 minutes."
+        },
+        {
+          "source": "https://fidocs.cl/programacion/la-batalla-de-chile-parte-i-ii-y-iii/",
+          "note": "Preserved festival import: 1977, 88 minutes; live page unavailable."
+        }
+      ]
+    },
+    {
+      "key": "fidocs-2026/pensaba-que-te-habias-olvidado-de-escribirme",
+      "tmdbId": 1816256,
+      "verdict": "accepted_identity_version_unverified",
+      "reason": "Best 18-minute candidate; retain user provisional identity acceptance, but exact version not independently verified. Do not merge 3-minute 1264679 or installation.",
+      "evidence": [
+        {
+          "source": "https://fidocs.cl/programacion/pensaba-que-te-habias-olvidado-de-escribirme/",
+          "note": "Preserved import: Sofia Hansen, 2026, 18 minutes; live page unavailable."
+        },
+        {
+          "source": "https://www.themoviedb.org/movie/1816256",
+          "note": "Cached exact title, director ID 4283937, 18 minutes; release date, synopsis and independent ID missing."
+        },
+        {
+          "source": "https://17.bienaldeartesmediales.cl/obra/pensaba-que-te-habias-olvidado-de-escribirme-cartas-abiertas/",
+          "note": "Official 2025 installation contains 4-, 3- and 6-minute films and photographs; does not authenticate the 18-minute cut."
+        }
+      ]
+    },
+    {
+      "key": "fidocs-2026/por-dentro-somos-color-version-cine-expandido",
+      "tmdbId": 1308352,
+      "verdict": "version_conflict",
+      "reason": "Underlying work matches; 40-minute/2025 expanded screening is not established as the 12.5-minute/2024 linear version. Preserve festival facts; do not treat as exact version match.",
+      "evidence": [
+        {
+          "source": "https://fidocs.cl/programacion/por-dentro-somos-color-version-cine-expandido/",
+          "note": "Preserved import explicitly identifies expanded version, 40 minutes, 2025; live page unavailable."
+        },
+        {
+          "source": "https://canyoncinema.com/2025/04/16/now-available-elena-pardos-por-dentro-somos-color-on-the-inside-we-are-color/",
+          "note": "Distributor offers 2024, 12.5-minute digital file; matching director and story."
+        },
+        {
+          "source": "https://www.themoviedb.org/movie/1308352",
+          "note": "Cached Elena Pardo, 2024, 12 minutes; matching Poj Kaa/Ruiz family synopsis."
+        }
+      ]
+    },
+    {
+      "key": "sanfic-2026/wilma-quiere-mas",
+      "tmdbId": 1465390,
+      "verdict": "confirmed_new_candidate",
+      "reason": "User suggested ID matches Wilma will mehr, Maren-Kea Freese, 2025. Primary 112 minutes confirmed; provider runtime 0 means missing.",
+      "evidence": [
+        {
+          "source": "https://www.themoviedb.org/movie/1465390",
+          "note": "Fresh API response: title, director Maren-Kea Freese, 2025-07-31, IMDb tt36987225 and matching cast; runtime 0."
+        },
+        {
+          "source": "https://www.neuevisionen.de/de/filme/wilma-will-mehr-159",
+          "note": "Official distributor: Germany, 112 minutes, theatrical release 31 July 2025."
+        },
+        {
+          "source": "https://www.fsk.de/detail/?detailid=67ea79a1630e83f94cfa5a4b&stype=single",
+          "note": "Official FSK: Germany 2025, director Maren-Kea Freese, cinema duration 111:54."
+        }
+      ]
+    }
+  ],
+  "application": {
+    "additionalAccepted": 51,
+    "totalAccepted": 108,
+    "explicitRejectedCandidates": 5,
+    "heldVersions": [
+      "fidocs-2026/pensaba-que-te-habias-olvidado-de-escribirme",
+      "fidocs-2026/por-dentro-somos-color-version-cine-expandido"
+    ],
+    "confirmedNewCandidate": {
+      "key": "sanfic-2026/wilma-quiere-mas",
+      "tmdbId": 1465390
+    },
+    "sourceYearRevalidation": {
+      "priorBindings": 6,
+      "reason": "Existing main commit fills previously absent catalogue years. All titles, directors and runtimes unchanged; reviewed against original catalogue before updating fingerprints."
+    },
+    "authority": "Accepted TMDB identity supplies available film year, artwork and release metadata. Festival screening duration remains authoritative."
+  }
+}

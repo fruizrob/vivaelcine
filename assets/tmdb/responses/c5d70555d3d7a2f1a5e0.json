@@ -1,0 +1,251 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/185644?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:27.655Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 10770,
+        "name": "Película de TV"
+      }
+    ],
+    "homepage": "",
+    "id": 185644,
+    "imdb_id": "tt0402162",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The End",
+    "overview": "",
+    "popularity": 0.8086,
+    "poster_path": "/57Ogeq6OrrMw5u272AKfDHXAMGW.jpg",
+    "production_companies": [
+      {
+        "id": 14914,
+        "logo_path": "/1RZBWz53SpHUTLpRcM8BGv2plIP.png",
+        "name": "HBO Documentary Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 3268,
+        "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+        "name": "HBO",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2004-03-11",
+    "revenue": 0,
+    "runtime": 84,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The End",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 41657,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Sonia Woodfield",
+          "original_name": "Sonia Woodfield",
+          "popularity": 0.2027,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Self",
+          "credit_id": "62435d6d0f3655005ffcce4c",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3485177,
+          "known_for_department": "Art",
+          "name": "Mike Kahne",
+          "original_name": "Mike Kahne",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "62435d9681140f0047bcaa03",
+          "department": "Art",
+          "job": "Title Designer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1238136,
+          "known_for_department": "Production",
+          "name": "Sheila Nevins",
+          "original_name": "Sheila Nevins",
+          "popularity": 0.4569,
+          "profile_path": "/a9QK5bZlNB0zx2RTROOixTA3o5d.jpg",
+          "credit_id": "62435e4bf263ba005c1fb960",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3485180,
+          "known_for_department": "Editing",
+          "name": "Matthew Wispy Clarke",
+          "original_name": "Matthew Wispy Clarke",
+          "popularity": 0.0936,
+          "profile_path": null,
+          "credit_id": "62435dd9706e56008bde2dab",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 554890,
+          "known_for_department": "Production",
+          "name": "Eddie Schmidt",
+          "original_name": "Eddie Schmidt",
+          "popularity": 0.3537,
+          "profile_path": null,
+          "credit_id": "62435e290d29440090c2b3ed",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3485179,
+          "known_for_department": "Editing",
+          "name": "Sandy Olkowski",
+          "original_name": "Sandy Olkowski",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "62435dba2cde98005c27a6af",
+          "department": "Editing",
+          "job": "Assistant Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 218054,
+          "known_for_department": "Production",
+          "name": "Nancy Abraham",
+          "original_name": "Nancy Abraham",
+          "popularity": 0.314,
+          "profile_path": "/wxBYHp7biBMW2Dtrry1ajdo6XyH.jpg",
+          "credit_id": "62435e6a2cde980047e68dba",
+          "department": "Production",
+          "job": "Supervising Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3485183,
+          "known_for_department": "Production",
+          "name": "Jennifer MacLean",
+          "original_name": "Jennifer MacLean",
+          "popularity": 0.1043,
+          "profile_path": null,
+          "credit_id": "62435e8d706e56008bde30db",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3485184,
+          "known_for_department": "Production",
+          "name": "Jane Fitzgerald",
+          "original_name": "Jane Fitzgerald",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "62435ea9223a8b004ae6791b",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 554890,
+          "known_for_department": "Production",
+          "name": "Eddie Schmidt",
+          "original_name": "Eddie Schmidt",
+          "popularity": 0.3537,
+          "profile_path": null,
+          "credit_id": "62435df1223a8b009424e711",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 112588,
+          "known_for_department": "Directing",
+          "name": "Kirby Dick",
+          "original_name": "Kirby Dick",
+          "popularity": 0.5778,
+          "profile_path": "/p9Ar5C5RvZexaqNGqUggQPW4LUp.jpg",
+          "credit_id": "52fe4ce69251416c75129261",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 117842,
+          "known_for_department": "Sound",
+          "name": "Blake Leyh",
+          "original_name": "Blake Leyh",
+          "popularity": 0.3309,
+          "profile_path": null,
+          "credit_id": "66b86f9ea2ac26cfb5bbfd00",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2004-03-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

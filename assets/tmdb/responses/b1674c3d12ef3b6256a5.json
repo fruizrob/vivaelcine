@@ -1,0 +1,490 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/479066?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:47.579Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 479066,
+    "imdb_id": "tt5363480",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "We Demand",
+    "overview": "",
+    "popularity": 2.467,
+    "poster_path": "/qemMXTthZVPwiRzX6vSfYFLsNCv.jpg",
+    "production_companies": [
+      {
+        "id": 109048,
+        "logo_path": null,
+        "name": "Trilobite-Arts-DAC",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2016-02-12",
+    "revenue": 0,
+    "runtime": 10,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "We Demand",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2065841,
+          "known_for_department": "Acting",
+          "name": "Ricky Goldman",
+          "original_name": "Ricky Goldman",
+          "popularity": 0.181,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "James Roebuck",
+          "credit_id": "5b250258c3a36841cf0057e7",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3735699,
+          "known_for_department": "Acting",
+          "name": "Richard Warner",
+          "original_name": "Richard Warner",
+          "popularity": 0.5568,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "President Edgar Shannon",
+          "credit_id": "6598f3cd0d11f20095b2f7e5",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3570557,
+          "known_for_department": "Acting",
+          "name": "Ryan Leach",
+          "original_name": "Ryan Leach",
+          "popularity": 0.5961,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Tommy Steele",
+          "credit_id": "6598f4571d1bf4025eddbe52",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1074159,
+          "known_for_department": "Directing",
+          "name": "Kevin Jerome Everson",
+          "original_name": "Kevin Jerome Everson",
+          "popularity": 0.8953,
+          "profile_path": "/73HkNiQo15TBV7SysKt6ajFBbG6.jpg",
+          "credit_id": "59d1365e9251411452026c1c",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1074159,
+          "known_for_department": "Directing",
+          "name": "Kevin Jerome Everson",
+          "original_name": "Kevin Jerome Everson",
+          "popularity": 0.8953,
+          "profile_path": "/73HkNiQo15TBV7SysKt6ajFBbG6.jpg",
+          "credit_id": "5b25021b9251410d77004827",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1371566,
+          "known_for_department": "Directing",
+          "name": "Claudrena Harold",
+          "original_name": "Claudrena Harold",
+          "popularity": 0.2639,
+          "profile_path": "/q6UOsY0S4Q5FOXWIaUrDTR59pwG.jpg",
+          "credit_id": "5b25022d9251410d54004b61",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1371566,
+          "known_for_department": "Directing",
+          "name": "Claudrena Harold",
+          "original_name": "Claudrena Harold",
+          "popularity": 0.2639,
+          "profile_path": "/q6UOsY0S4Q5FOXWIaUrDTR59pwG.jpg",
+          "credit_id": "5b2502340e0a2666ff0054fe",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1371566,
+          "known_for_department": "Directing",
+          "name": "Claudrena Harold",
+          "original_name": "Claudrena Harold",
+          "popularity": 0.2639,
+          "profile_path": "/q6UOsY0S4Q5FOXWIaUrDTR59pwG.jpg",
+          "credit_id": "69b32f21eebf9bc41921d924",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1183641,
+          "known_for_department": "Production",
+          "name": "Madeleine Molyneaux",
+          "original_name": "Madeleine Molyneaux",
+          "popularity": 0.2476,
+          "profile_path": "/lUJAqSoMo4in1R95ngoQXXtlDc1.jpg",
+          "credit_id": "69b32f2f781e872b094b7513",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2806686,
+          "known_for_department": "Directing",
+          "name": "Kahlil I. Pedizisai",
+          "original_name": "Kahlil I. Pedizisai",
+          "popularity": 0.3111,
+          "profile_path": null,
+          "credit_id": "69b32f45112f035046d43e4a",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1183642,
+          "known_for_department": "Camera",
+          "name": "Lindsey Arturo",
+          "original_name": "Lindsey Arturo",
+          "popularity": 0.1338,
+          "profile_path": null,
+          "credit_id": "69b32f5bd9f113b2769d6372",
+          "department": "Directing",
+          "job": "Second Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1431262,
+          "known_for_department": "Camera",
+          "name": "Jack Doerner",
+          "original_name": "Jack Doerner",
+          "popularity": 0.1269,
+          "profile_path": null,
+          "credit_id": "69b32f6de9f97ef8198179ee",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6067547,
+          "known_for_department": "Sound",
+          "name": "Varun Melkani",
+          "original_name": "Varun Melkani",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69b32f7f377b78a5994f0019",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6067548,
+          "known_for_department": "Sound",
+          "name": "Phyllis Li",
+          "original_name": "Phyllis Li",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69b32f8fac6966b68b21d921",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6067549,
+          "known_for_department": "Sound",
+          "name": "Jordan Stuger",
+          "original_name": "Jordan Stuger",
+          "popularity": 0.0936,
+          "profile_path": null,
+          "credit_id": "69b32f9deaf41ef5da9d6248",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6067550,
+          "known_for_department": "Sound",
+          "name": "Mary Davis",
+          "original_name": "Mary Davis",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "69b32fb3ac6966b68b21d931",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1183642,
+          "known_for_department": "Camera",
+          "name": "Lindsey Arturo",
+          "original_name": "Lindsey Arturo",
+          "popularity": 0.1338,
+          "profile_path": null,
+          "credit_id": "69b32fc9ac6966b68b21d935",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6067551,
+          "known_for_department": "Camera",
+          "name": "Maddie Bartel",
+          "original_name": "Maddie Bartel",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69b32fde9a78b377c84b74f0",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6067552,
+          "known_for_department": "Camera",
+          "name": "Rox Campbell",
+          "original_name": "Rox Campbell",
+          "popularity": 0.0975,
+          "profile_path": null,
+          "credit_id": "69b32fea55fbe47625d43ecd",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2131548,
+          "known_for_department": "Camera",
+          "name": "Anthony Restivo",
+          "original_name": "Anthony Restivo",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "69b32ffaeebf9bc41921d936",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6067554,
+          "known_for_department": "Camera",
+          "name": "Deidre Davie",
+          "original_name": "Deidre Davie",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "69b3300810bc92b5d24f024b",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6067555,
+          "known_for_department": "Camera",
+          "name": "Renee Reighart",
+          "original_name": "Renee Reighart",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69b330172adc2f4e4b21e887",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5805498,
+          "known_for_department": "Acting",
+          "name": "Geoffrey Culbertson",
+          "original_name": "Geoffrey Culbertson",
+          "popularity": 0.101,
+          "profile_path": null,
+          "credit_id": "69b33025d9f113b2769d6378",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6067556,
+          "known_for_department": "Crew",
+          "name": "Julia Sharpe",
+          "original_name": "Julia Sharpe",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69b33056eceab4369221d66f",
+          "department": "Crew",
+          "job": "Lighting Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6067557,
+          "known_for_department": "Crew",
+          "name": "Sandy Williams",
+          "original_name": "Sandy Williams",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "69b3306a2adc2f4e4b21e898",
+          "department": "Crew",
+          "job": "Lighting Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6067558,
+          "known_for_department": "Crew",
+          "name": "Madison Lee",
+          "original_name": "Madison Lee",
+          "popularity": 0.1241,
+          "profile_path": null,
+          "credit_id": "69b33077f1b7fa02664f003b",
+          "department": "Crew",
+          "job": "Lighting Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6067559,
+          "known_for_department": "Crew",
+          "name": "Charlotte Raskovich",
+          "original_name": "Charlotte Raskovich",
+          "popularity": 0.1241,
+          "profile_path": null,
+          "credit_id": "69b330857dd615189dd43ff1",
+          "department": "Crew",
+          "job": "Lighting Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6067560,
+          "known_for_department": "Crew",
+          "name": "Roxanna Trujillo",
+          "original_name": "Roxanna Trujillo",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69b33095d1774107b54f0097",
+          "department": "Crew",
+          "job": "Lighting Camera"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1371566,
+          "known_for_department": "Directing",
+          "name": "Claudrena Harold",
+          "original_name": "Claudrena Harold",
+          "popularity": 0.2639,
+          "profile_path": "/q6UOsY0S4Q5FOXWIaUrDTR59pwG.jpg",
+          "credit_id": "69b330aa9db1d87b814b73b1",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6067561,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Robert Holden",
+          "original_name": "Robert Holden",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "credit_id": "69b330b69dc4c57e54d43ef9",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6067562,
+          "known_for_department": "Sound",
+          "name": "Courtney Bryan",
+          "original_name": "Courtney Bryan",
+          "popularity": 0.1182,
+          "profile_path": null,
+          "credit_id": "69b330d1d9f113b2769d6383",
+          "department": "Sound",
+          "job": "Music"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2016-02-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

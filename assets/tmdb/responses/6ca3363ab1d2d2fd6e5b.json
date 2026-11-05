@@ -1,0 +1,107 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1526199?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:03.274Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/7h7oZ4jgSPeKE3ih5vPAsIQQjdP.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 1526199,
+    "imdb_id": "tt33087246",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Night of the Strangers",
+    "overview": "",
+    "popularity": 0.5933,
+    "poster_path": "/gLTpSP6nuRqnvihQObpVTm5mbT8.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2025-06-10",
+    "revenue": 0,
+    "runtime": 66,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Night of the Strangers",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3326216,
+          "known_for_department": "Acting",
+          "name": "Paul Bradford",
+          "original_name": "Paul Bradford",
+          "popularity": 0.2006,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "newscaster",
+          "credit_id": "68bfee10be9f47ef5d947f74",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4455263,
+          "known_for_department": "Acting",
+          "name": "Dan Grogan",
+          "original_name": "Dan Grogan",
+          "popularity": 0.4523,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "alex",
+          "credit_id": "68bfee259f524398508cf8d0",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3465789,
+          "known_for_department": "Directing",
+          "name": "Bobby Canipe Jr.",
+          "original_name": "Bobby Canipe Jr.",
+          "popularity": 0.3491,
+          "profile_path": null,
+          "credit_id": "6ac04bf5f590ec2ce8385a50",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2025-06-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

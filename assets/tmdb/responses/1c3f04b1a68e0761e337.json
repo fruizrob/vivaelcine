@@ -1,0 +1,466 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/945386?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:37.913Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/g9m7UFpVhRF0HLn7tRNcdgherjx.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 945386,
+    "imdb_id": "tt2172200",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Terra",
+    "overview": "",
+    "popularity": 0.8131,
+    "poster_path": "/wzdw56qY7bfNoLVhSV6v0Iv7kLg.jpg",
+    "production_companies": [
+      {
+        "id": 15902,
+        "logo_path": null,
+        "name": "CSC",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "2012-05-24",
+    "revenue": 0,
+    "runtime": 24,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 128227,
+          "known_for_department": "Acting",
+          "name": "Giorgio Colangeli",
+          "original_name": "Giorgio Colangeli",
+          "popularity": 0.6493,
+          "profile_path": "/3LxOBPqDPT4k0CJ4hJGMSrYKtP1.jpg",
+          "cast_id": 1,
+          "character": "Leonida",
+          "credit_id": "62204d469f1be700446f0ea6",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1752452,
+          "known_for_department": "Acting",
+          "name": "Giacomo Tarsi",
+          "original_name": "Giacomo Tarsi",
+          "popularity": 0.3366,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Soldier",
+          "credit_id": "62204d50902012001bd59200",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3450497,
+          "known_for_department": "Acting",
+          "name": "Teresa Campus",
+          "original_name": "Teresa Campus",
+          "popularity": 0.3573,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Waitress",
+          "credit_id": "62204d676f43ec006d546463",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3450498,
+          "known_for_department": "Acting",
+          "name": "Franco Bertuzzi",
+          "original_name": "Franco Bertuzzi",
+          "popularity": 0.3067,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Bear Man",
+          "credit_id": "62204d72dd83fa00731c5a33",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1898305,
+          "known_for_department": "Acting",
+          "name": "Maria Teresa Campus",
+          "original_name": "Maria Teresa Campus",
+          "popularity": 0.3835,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Waitress",
+          "credit_id": "62204d83058224006c48ff73",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1829198,
+          "known_for_department": "Production",
+          "name": "Ognjen Dizdarevic",
+          "original_name": "Ognjen Dizdarevic",
+          "popularity": 0.1029,
+          "profile_path": null,
+          "credit_id": "62204d930582240042994517",
+          "department": "Production",
+          "job": "Line Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2217300,
+          "known_for_department": "Sound",
+          "name": "Michele Mazzucco",
+          "original_name": "Michele Mazzucco",
+          "popularity": 0.2562,
+          "profile_path": null,
+          "credit_id": "62204e6177b1fb006c008837",
+          "department": "Sound",
+          "job": "Sound Re-Recording Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2964151,
+          "known_for_department": "Sound",
+          "name": "Paolo Testa",
+          "original_name": "Paolo Testa",
+          "popularity": 0.2611,
+          "profile_path": null,
+          "credit_id": "62204ed6eea34d001b115da5",
+          "department": "Sound",
+          "job": "Boom Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3450504,
+          "known_for_department": "Editing",
+          "name": "Matteo Passerini",
+          "original_name": "Matteo Passerini",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "62204df69f1be700446f11e6",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2215976,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Valentina Iannuccilli",
+          "original_name": "Valentina Iannuccilli",
+          "popularity": 0.386,
+          "profile_path": null,
+          "credit_id": "62204e1e77b1fb006c00875c",
+          "department": "Costume & Make-Up",
+          "job": "Key Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2937961,
+          "known_for_department": "Sound",
+          "name": "Nadia Paone",
+          "original_name": "Nadia Paone",
+          "popularity": 0.3857,
+          "profile_path": null,
+          "credit_id": "62204e9e8a88b2001c73165a",
+          "department": "Sound",
+          "job": "ADR Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3450502,
+          "known_for_department": "Sound",
+          "name": "Alma Napolitano",
+          "original_name": "Alma Napolitano",
+          "popularity": 0.1013,
+          "profile_path": null,
+          "credit_id": "62204de1dd83fa00731c5b57",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3450510,
+          "known_for_department": "Sound",
+          "name": "Jacopo Crescenzi",
+          "original_name": "Jacopo Crescenzi",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "credit_id": "62204e5542bf01001d03673c",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3450512,
+          "known_for_department": "Camera",
+          "name": "Jodi Ann McNamara",
+          "original_name": "Jodi Ann McNamara",
+          "popularity": 0.1865,
+          "profile_path": null,
+          "credit_id": "62204ee26c449c00450f1645",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1438839,
+          "known_for_department": "Writing",
+          "name": "Giacomo Bendotti",
+          "original_name": "Giacomo Bendotti",
+          "popularity": 0.4443,
+          "profile_path": null,
+          "credit_id": "62204dab902012001bd592d5",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1438838,
+          "known_for_department": "Directing",
+          "name": "Piero Messina",
+          "original_name": "Piero Messina",
+          "popularity": 0.2165,
+          "profile_path": "/cNrCz8McdNQPe9dEWDz5ztMFydS.jpg",
+          "credit_id": "62204dd16b5fc20042e9b3c8",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1438838,
+          "known_for_department": "Directing",
+          "name": "Piero Messina",
+          "original_name": "Piero Messina",
+          "popularity": 0.2165,
+          "profile_path": "/cNrCz8McdNQPe9dEWDz5ztMFydS.jpg",
+          "credit_id": "62204d9f38e510004807b07b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3450500,
+          "known_for_department": "Sound",
+          "name": "Marco Mangani",
+          "original_name": "Marco Mangani",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "62204dc7001bbd001bcd1382",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1438838,
+          "known_for_department": "Directing",
+          "name": "Piero Messina",
+          "original_name": "Piero Messina",
+          "popularity": 0.2165,
+          "profile_path": "/cNrCz8McdNQPe9dEWDz5ztMFydS.jpg",
+          "credit_id": "62204db842bf01001d036452",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3450508,
+          "known_for_department": "Crew",
+          "name": "Natalia Rolla",
+          "original_name": "Natalia Rolla",
+          "popularity": 0.1057,
+          "profile_path": null,
+          "credit_id": "62204e39eea34d00680355ee",
+          "department": "Crew",
+          "job": "Post Production Consulting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2064771,
+          "known_for_department": "Sound",
+          "name": "Gaetano Musso",
+          "original_name": "Gaetano Musso",
+          "popularity": 0.2685,
+          "profile_path": null,
+          "credit_id": "62204e799f1be7006b87bc3c",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3450513,
+          "known_for_department": "Production",
+          "name": "Antonio Basso",
+          "original_name": "Antonio Basso",
+          "popularity": 0.1253,
+          "profile_path": null,
+          "credit_id": "62204ef07719d7001d75b212",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3450507,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Alessia Pelonzi",
+          "original_name": "Alessia Pelonzi",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "62204e10001bbd006cb00db9",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3450503,
+          "known_for_department": "Camera",
+          "name": "Diana Palombaro",
+          "original_name": "Diana Palombaro",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "credit_id": "62204dec6c449c006e75ffe7",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2917024,
+          "known_for_department": "Production",
+          "name": "Livia Cortese",
+          "original_name": "Livia Cortese",
+          "popularity": 0.1376,
+          "profile_path": null,
+          "credit_id": "62204f03f706de0043cee238",
+          "department": "Production",
+          "job": "Production Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2064771,
+          "known_for_department": "Sound",
+          "name": "Gaetano Musso",
+          "original_name": "Gaetano Musso",
+          "popularity": 0.2685,
+          "profile_path": null,
+          "credit_id": "62204ebc6c449c006e7603bd",
+          "department": "Sound",
+          "job": "ADR Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2777654,
+          "known_for_department": "Sound",
+          "name": "Emanuele Cicconi",
+          "original_name": "Emanuele Cicconi",
+          "popularity": 0.1784,
+          "profile_path": null,
+          "credit_id": "62204e44e194b0001b766cd7",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3450505,
+          "known_for_department": "Art",
+          "name": "Vasco Di Salvo",
+          "original_name": "Vasco Di Salvo",
+          "popularity": 0.0936,
+          "profile_path": null,
+          "credit_id": "62204e02058224006c490114",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1413819,
+          "known_for_department": "Production",
+          "name": "Luca Pancaldi",
+          "original_name": "Luca Pancaldi",
+          "popularity": 0.2646,
+          "profile_path": null,
+          "credit_id": "62204e2a001bbd00435d0525",
+          "department": "Production",
+          "job": "Unit Production Manager"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "it",
+              "note": "",
+              "release_date": "2012-05-24T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

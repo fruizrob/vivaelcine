@@ -1,0 +1,104 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1634454?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:55.534Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "https://www.youtube.com/watch?v=Vt6Fh5-2Uts",
+    "id": 1634454,
+    "imdb_id": null,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Malvinas, La Lucha Sigue",
+    "overview": "Documental que recoge los testimonios de veteranos de la Guerra de Malvinas de Lomas de Zamora.",
+    "popularity": 0.1916,
+    "poster_path": "/rS1E4QAegY3dQ0sdloic10FrCj2.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2019-11-01",
+    "revenue": 0,
+    "runtime": 18,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Malvinas, La Lucha Sigue",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 3303087,
+          "known_for_department": "Directing",
+          "name": "Rocio Selan",
+          "original_name": "Rocio Selan",
+          "popularity": 0.0972,
+          "profile_path": "/898cxxaTC4EDzNRS3NyU7Mv452h.jpg",
+          "credit_id": "698ea9bae28ba57b77109dd6",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6004348,
+          "known_for_department": "Directing",
+          "name": "Sebastian Aquino Frago",
+          "original_name": "Sebastian Aquino Frago",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "698ea9e6b8f48aa207370f64",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6004350,
+          "known_for_department": "Directing",
+          "name": "Denise Behan",
+          "original_name": "Denise Behan",
+          "popularity": 0.1408,
+          "profile_path": null,
+          "credit_id": "698ea9f2600c055bb90c23a8",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2019-11-01T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

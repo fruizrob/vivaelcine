@@ -1,0 +1,166 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/612748?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:21.311Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 612748,
+    "imdb_id": "tt0089472",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Lejanía",
+    "overview": "",
+    "popularity": 2.233,
+    "poster_path": "/bkfjRO40Iq5iKaME1VMdM7ol2I9.jpg",
+    "production_companies": [
+      {
+        "id": 5175,
+        "logo_path": "/685bT26uK9vuaCwf2Hylufdb4yI.png",
+        "name": "ICAIC",
+        "origin_country": "CU"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CU",
+        "name": "Cuba"
+      }
+    ],
+    "release_date": "1985-01-01",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lejanía",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1471737,
+          "known_for_department": "Acting",
+          "name": "Verónica Lynn",
+          "original_name": "Verónica Lynn",
+          "popularity": 0.2365,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "5d1bfafa6e0d72000e071016",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2353041,
+          "known_for_department": "Acting",
+          "name": "Jorge Trinchet",
+          "original_name": "Jorge Trinchet",
+          "popularity": 0.4183,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "5d1bfb0255b0c05c826b40be",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2033009,
+          "known_for_department": "Acting",
+          "name": "Isabel Santos",
+          "original_name": "Isabel Santos",
+          "popularity": 0.4759,
+          "profile_path": "/dV6ydRWTGxE6Thu2nqZcZBYQz1f.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "5d1bfb0894d8a852f43b8746",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1009347,
+          "known_for_department": "Acting",
+          "name": "Beatriz Valdés",
+          "original_name": "Beatriz Valdés",
+          "popularity": 0.2984,
+          "profile_path": "/f7ps89fyS2VOQxnmz3OM27LB0Xa.jpg",
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "5d1bfb0e532acb1fbace14aa",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1717403,
+          "known_for_department": "Writing",
+          "name": "Jesús Díaz",
+          "original_name": "Jesús Díaz",
+          "popularity": 1.0518,
+          "profile_path": null,
+          "credit_id": "5d1bfae76e0d720011070aef",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1717403,
+          "known_for_department": "Writing",
+          "name": "Jesús Díaz",
+          "original_name": "Jesús Díaz",
+          "popularity": 1.0518,
+          "profile_path": null,
+          "credit_id": "5d1bfaf06e0d72000e070fa0",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "1985-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

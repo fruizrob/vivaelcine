@@ -1,0 +1,288 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/747819?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:17.108Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 1500,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 747819,
+    "imdb_id": "tt13154242",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Derecho de Réplica",
+    "overview": "",
+    "popularity": 0.5409,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "PR",
+        "name": "Puerto Rico"
+      }
+    ],
+    "release_date": "2019-06-20",
+    "revenue": 0,
+    "runtime": 10,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Derecho de Réplica",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2795470,
+          "known_for_department": "Acting",
+          "name": "Luis Rivera",
+          "original_name": "Luis Rivera",
+          "popularity": 0.7457,
+          "profile_path": "/tVYFguU2szl55snuKYcaFwKDYqx.jpg",
+          "cast_id": 1,
+          "character": "Carlos Almeida",
+          "credit_id": "5f722ffa435abd003a0688b0",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1050574,
+          "known_for_department": "Acting",
+          "name": "Julio Ramos",
+          "original_name": "Julio Ramos",
+          "popularity": 0.3396,
+          "profile_path": "/5mCiZXc6TjllYaTQGal1bHpeMn9.jpg",
+          "cast_id": 2,
+          "character": "Lic. Antonio Bettancourt",
+          "credit_id": "5f723012fea0d70036005e29",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2795471,
+          "known_for_department": "Acting",
+          "name": "Zaieed Velez",
+          "original_name": "Zaieed Velez",
+          "popularity": 0.1766,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "María",
+          "credit_id": "5f723025fbe36f0039536f2d",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2795472,
+          "known_for_department": "Directing",
+          "name": "Luis Soto López",
+          "original_name": "Luis Soto López",
+          "popularity": 0.1331,
+          "profile_path": null,
+          "credit_id": "5f72304ce4b5760037ed317e",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2795472,
+          "known_for_department": "Directing",
+          "name": "Luis Soto López",
+          "original_name": "Luis Soto López",
+          "popularity": 0.1331,
+          "profile_path": null,
+          "credit_id": "5f723056435abd003804d27f",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2550913,
+          "known_for_department": "Sound",
+          "name": "Javier Ortiz Medina",
+          "original_name": "Javier Ortiz Medina",
+          "popularity": 0.3111,
+          "profile_path": null,
+          "credit_id": "5f723071ba131b0038a6f085",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2795400,
+          "known_for_department": "Camera",
+          "name": "Sebastián Romero",
+          "original_name": "Sebastián Romero",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "credit_id": "5f723083e4b5760037ed31b7",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2795400,
+          "known_for_department": "Camera",
+          "name": "Sebastián Romero",
+          "original_name": "Sebastián Romero",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "credit_id": "5f7230953503980036956e5f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2550906,
+          "known_for_department": "Production",
+          "name": "Pamela Sánchez Peña",
+          "original_name": "Pamela Sánchez Peña",
+          "popularity": 0.1128,
+          "profile_path": null,
+          "credit_id": "5f7230a9d40d4c00396127bc",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2550908,
+          "known_for_department": "Directing",
+          "name": "Andrea Fabre Rosario",
+          "original_name": "Andrea Fabre Rosario",
+          "popularity": 0.1027,
+          "profile_path": "/iKl0TKSeS0v4qmzOOZQJVT3aWXe.jpg",
+          "credit_id": "5f7230d6fea0d70035020ccb",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2550916,
+          "known_for_department": "Camera",
+          "name": "Rubén Cátala Valentín",
+          "original_name": "Rubén Cátala Valentín",
+          "popularity": 0.1314,
+          "profile_path": null,
+          "credit_id": "5f7230ebd38b580038e8d172",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2550915,
+          "known_for_department": "Production",
+          "name": "Emily Loubriel",
+          "original_name": "Emily Loubriel",
+          "popularity": 0.1207,
+          "profile_path": null,
+          "credit_id": "5f7230fb1d78f200346a70b6",
+          "department": "Camera",
+          "job": "Still Photographer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2550905,
+          "known_for_department": "Directing",
+          "name": "Angelie García Ortiz",
+          "original_name": "Angelie García Ortiz",
+          "popularity": 0.1386,
+          "profile_path": "/2RnS4zjpj0TdPH3RMgNgPHAENzz.jpg",
+          "credit_id": "5f72310b1d78f200336f757e",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2550905,
+          "known_for_department": "Directing",
+          "name": "Angelie García Ortiz",
+          "original_name": "Angelie García Ortiz",
+          "popularity": 0.1386,
+          "profile_path": "/2RnS4zjpj0TdPH3RMgNgPHAENzz.jpg",
+          "credit_id": "5f7231143dd126003868dab1",
+          "department": "Camera",
+          "job": "Grip"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2550923,
+          "known_for_department": "Directing",
+          "name": "Edward Robinson",
+          "original_name": "Edward Robinson",
+          "popularity": 0.1043,
+          "profile_path": null,
+          "credit_id": "5f72312ed55e4d00367d6556",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2550911,
+          "known_for_department": "Camera",
+          "name": "E. Rafael Valentín Clas",
+          "original_name": "E. Rafael Valentín Clas",
+          "popularity": 0.121,
+          "profile_path": null,
+          "credit_id": "5f723146ba131b0036a6f9d4",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "{\"folded_name\"=>\"Spanish; Castilian\", \"english_name\"=>\"Spanish\", \"iso_639_1\"=>\"es\", \"native_name\"=>\"Spanish; Castilian\"}",
+              "note": "",
+              "release_date": "2019-06-20T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

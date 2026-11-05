@@ -1,0 +1,32 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Krakatoa&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-05T16:44:54.050Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/cjn31irS5P71JmihFazcgAefrHj.jpg",
+        "genre_ids": [
+          28,
+          18,
+          99
+        ],
+        "id": 1568038,
+        "title": "Krakatoa",
+        "original_language": "xx",
+        "original_title": "Krakatoa",
+        "overview": "Un pescador javanés vive la mayor erupción volcánica de todos los tiempos. Varado en una isla desierta, en busca de comida y agua, se adentra cada vez más en las profundidades de la tierra. Una odisea visceral y psicodélica.",
+        "popularity": 1.8971,
+        "poster_path": "/gZq6W48cKX5vP367N7VwJbWDrVw.jpg",
+        "release_date": "2026-01-31",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

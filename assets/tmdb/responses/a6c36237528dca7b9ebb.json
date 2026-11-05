@@ -1,0 +1,105 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Lejan%C3%ADa&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:20.930Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 225655,
+        "title": "Lejanía",
+        "original_language": "es",
+        "original_title": "Lejanía",
+        "overview": "",
+        "popularity": 2.7087,
+        "poster_path": null,
+        "release_date": "2013-10-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 612748,
+        "title": "Lejanía",
+        "original_language": "es",
+        "original_title": "Lejanía",
+        "overview": "",
+        "popularity": 2.233,
+        "poster_path": "/bkfjRO40Iq5iKaME1VMdM7ol2I9.jpg",
+        "release_date": "1985-01-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1725473,
+        "title": "Lejanía",
+        "original_language": "es",
+        "original_title": "Lejanía",
+        "overview": "",
+        "popularity": 0.7625,
+        "poster_path": "/zuH7Y9ipVjJvrpkmUEZGyF59uLK.jpg",
+        "release_date": "2014-01-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1668904,
+        "title": "Lejanía",
+        "original_language": "es",
+        "original_title": "Lejanía",
+        "overview": "Un viajero se dirige hacia Lejanía, una playa en una isla escondida en la inmensidad del océano pacífico, donde se presume, sus visitantes tienen visiones sobrenaturales. En medio de paisajes fragmentados y presencias clandestinas entre las sombras ,la realidad se desdibuja y el tiempo se deshace.",
+        "popularity": 0.1583,
+        "poster_path": "/52dY1avW5rGG5cfAO4tRpc8RbpS.jpg",
+        "release_date": "",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6IDCYlcFAKgmEoSczfTxcYsVHep.jpg",
+        "genre_ids": [
+          878,
+          99,
+          18,
+          35
+        ],
+        "id": 8410,
+        "title": "La salvaje y azul lejanía",
+        "original_language": "en",
+        "original_title": "The Wild Blue Yonder",
+        "overview": "La película trata sobre un extraterrestre (interpretado por Brad Dourif) que llegó a la Tierra varias décadas atrás en el tiempo desde un planeta océano (La salvaje y azul lejanía), tras haber experimentado este una glaciación. Su testimonio revela que su raza ha intentado durante años formar una comunidad en la Tierra sin ningún éxito.",
+        "popularity": 2.0738,
+        "poster_path": "/iEs4KhPaQ0F514PscPJDtp0YclB.jpg",
+        "release_date": "2005-09-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 93
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 5
+  }
+}

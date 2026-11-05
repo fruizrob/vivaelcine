@@ -1,0 +1,417 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/169758?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:07.589Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/jhMRbl1rPOMrsHNILNDeJgE3LMs.jpg",
+    "belongs_to_collection": null,
+    "budget": 800000,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 169758,
+    "imdb_id": "tt2180571",
+    "origin_country": [
+      "DK",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Stranger Within",
+    "overview": "Una actriz, que a raíz de una experiencia traumática empieza a tener problemas para distinguir los sueños de la realidad, busca refugio con su marido psiquiatra en una tranquila isla del mediterráneo. Ambos acogen en su casa a una muchacha atormentada por la muerte de su pareja. A partir de ese momento, empiezan a sucederse una serie de hechos desconcertantes.",
+    "popularity": 1.9911,
+    "poster_path": "/a1eYaHh2TlZfUlXD5Vfck68u9pv.jpg",
+    "production_companies": [
+      {
+        "id": 16617,
+        "logo_path": null,
+        "name": "Drama Deluxe",
+        "origin_country": ""
+      },
+      {
+        "id": 11675,
+        "logo_path": null,
+        "name": "Duckling",
+        "origin_country": "DK"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DK",
+        "name": "Denmark"
+      }
+    ],
+    "release_date": "2013-05-01",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Una extraña entre nosotros",
+    "video": false,
+    "vote_average": 4.3,
+    "vote_count": 50,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 13021,
+          "known_for_department": "Acting",
+          "name": "William Baldwin",
+          "original_name": "William Baldwin",
+          "popularity": 2.4488,
+          "profile_path": "/mFCUAl6Rko6ocONhFDCpztcmKXd.jpg",
+          "cast_id": 1,
+          "character": "Robert",
+          "credit_id": "52fe4ce9c3a36847f8244331",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 13241,
+          "known_for_department": "Acting",
+          "name": "Estella Warren",
+          "original_name": "Estella Warren",
+          "popularity": 1.6406,
+          "profile_path": "/tE2nM7UcJpDdZwdjSTwY8RfOXyw.jpg",
+          "cast_id": 2,
+          "character": "Emily",
+          "credit_id": "52fe4ce9c3a36847f8244335",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 129928,
+          "known_for_department": "Acting",
+          "name": "Sarah Butler",
+          "original_name": "Sarah Butler",
+          "popularity": 2.0912,
+          "profile_path": "/9hMzqJcWDblvWhWvvc8T7CBI2AL.jpg",
+          "cast_id": 3,
+          "character": "Sarah",
+          "credit_id": "52fe4ce9c3a36847f8244339",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 109156,
+          "known_for_department": "Acting",
+          "name": "Katia Winter",
+          "original_name": "Katia Winter",
+          "popularity": 1.7098,
+          "profile_path": "/iMAKw8zStCE1Gf3EU8jrNDIWzGW.jpg",
+          "cast_id": 4,
+          "character": "Sophie",
+          "credit_id": "52fe4ce9c3a36847f824433d",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3398,
+          "known_for_department": "Acting",
+          "name": "Kim Bodnia",
+          "original_name": "Kim Bodnia",
+          "popularity": 2.0426,
+          "profile_path": "/koWU6vb82cuCDLeYE1erqnQ39cW.jpg",
+          "cast_id": 5,
+          "character": "Uli",
+          "credit_id": "52fe4ce9c3a36847f8244341",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 82821,
+          "known_for_department": "Acting",
+          "name": "Jeffrey Pierce",
+          "original_name": "Jeffrey Pierce",
+          "popularity": 1.1146,
+          "profile_path": "/jvBxRML1PcV0Kuoj3cOckEhvryH.jpg",
+          "cast_id": 6,
+          "character": "Michael",
+          "credit_id": "52fe4ce9c3a36847f8244345",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 88542,
+          "known_for_department": "Acting",
+          "name": "Claire Ross-Brown",
+          "original_name": "Claire Ross-Brown",
+          "popularity": 0.3649,
+          "profile_path": "/ivSknq6x9lVFKRswOM521oX8dsi.jpg",
+          "cast_id": 7,
+          "character": "Jane",
+          "credit_id": "52fe4ce9c3a36847f8244349",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 167441,
+          "known_for_department": "Acting",
+          "name": "Vivienne McKee",
+          "original_name": "Vivienne McKee",
+          "popularity": 0.2393,
+          "profile_path": "/9fEg6P0EPNBQHNin98Fx358Akfd.jpg",
+          "cast_id": 8,
+          "character": "Anna",
+          "credit_id": "52fe4ce9c3a36847f824434d",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1034508,
+          "known_for_department": "Acting",
+          "name": "Ole Dupont",
+          "original_name": "Ole Dupont",
+          "popularity": 0.4345,
+          "profile_path": "/hZEasReBVUddwg2f4qmxAG9hA79.jpg",
+          "cast_id": 9,
+          "character": "Premieregæst",
+          "credit_id": "52fe4ce9c3a36847f8244351",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1494874,
+          "known_for_department": "Acting",
+          "name": "Helle Pilar Larsen",
+          "original_name": "Helle Pilar Larsen",
+          "popularity": 0.2726,
+          "profile_path": "/ajZQW0AUsUbHafhTpKNFNR5samG.jpg",
+          "cast_id": 16,
+          "character": "Theaterguests",
+          "credit_id": "57e9e3cbc3a3687fec005911",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1685381,
+          "known_for_department": "Acting",
+          "name": "Gadi Cimand",
+          "original_name": "Gadi Cimand",
+          "popularity": 0.2333,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Spanish Police Officer",
+          "credit_id": "57e9e46dc3a3687ffd005239",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1685382,
+          "known_for_department": "Acting",
+          "name": "Javier Torreiro",
+          "original_name": "Javier Torreiro",
+          "popularity": 0.1326,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Spanish Police Officer",
+          "credit_id": "57e9e4b2c3a3687ff2005a34",
+          "order": 11
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 233313,
+          "known_for_department": "Writing",
+          "name": "Adam Neutzsky-Wulff",
+          "original_name": "Adam Neutzsky-Wulff",
+          "popularity": 1.2977,
+          "profile_path": "/8BWNnpGr8mPS7r35zMcenAcvuRV.jpg",
+          "credit_id": "52fe4ce9c3a36847f824435d",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 233313,
+          "known_for_department": "Writing",
+          "name": "Adam Neutzsky-Wulff",
+          "original_name": "Adam Neutzsky-Wulff",
+          "popularity": 1.2977,
+          "profile_path": "/8BWNnpGr8mPS7r35zMcenAcvuRV.jpg",
+          "credit_id": "52fe4ce9c3a36847f8244357",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 73105,
+          "known_for_department": "Sound",
+          "name": "Søren Hyldgaard",
+          "original_name": "Søren Hyldgaard",
+          "popularity": 0.283,
+          "profile_path": "/gOtQFDs1CoYjUmyfUs0OSTYm9cn.jpg",
+          "credit_id": "52fe4ce9c3a36847f8244369",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 560181,
+          "known_for_department": "Editing",
+          "name": "Niels Ostenfeld",
+          "original_name": "Niels Ostenfeld",
+          "popularity": 0.2048,
+          "profile_path": "/tH034AFGj9DysFqlYb602xrHvYy.jpg",
+          "credit_id": "52fe4ce9c3a36847f824436f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 949054,
+          "known_for_department": "Acting",
+          "name": "Michael Christensen",
+          "original_name": "Michael Christensen",
+          "popularity": 0.1865,
+          "profile_path": null,
+          "credit_id": "52fe4ce9c3a36847f8244375",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 233313,
+          "known_for_department": "Writing",
+          "name": "Adam Neutzsky-Wulff",
+          "original_name": "Adam Neutzsky-Wulff",
+          "popularity": 1.2977,
+          "profile_path": "/8BWNnpGr8mPS7r35zMcenAcvuRV.jpg",
+          "credit_id": "52fe4ce9c3a36847f8244363",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-09-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-09-04T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GF",
+          "release_dates": [
+            {
+              "certification": "OM",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-09-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HU",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2014-11-18T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-05-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "R",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-05-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "MX",
+          "title": "Un extraño en casa",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "Stranger Within",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

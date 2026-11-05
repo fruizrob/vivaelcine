@@ -1,0 +1,200 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1814542?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:10.302Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1814542,
+    "imdb_id": "tt43746993",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Bailando Solo",
+    "overview": "",
+    "popularity": 0.4051,
+    "poster_path": "/eJuuvwjORla6IJpigrCXBa4lUVa.jpg",
+    "production_companies": [
+      {
+        "id": 186092,
+        "logo_path": null,
+        "name": "Payasito Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2026-07-26",
+    "revenue": 0,
+    "runtime": 89,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bailando Solo",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 563634,
+          "known_for_department": "Acting",
+          "name": "Alexis Ayala",
+          "original_name": "Alexis Ayala",
+          "popularity": 0.3692,
+          "profile_path": "/6w5heQBpQimYlNjSzvAXnH1xZmP.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6ae7835893c9d03efabaf42c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 936253,
+          "known_for_department": "Acting",
+          "name": "Carmen Beato",
+          "original_name": "Carmen Beato",
+          "popularity": 0.4217,
+          "profile_path": "/bTqvweMdgGb2KeFvEixrnKvWL2a.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "6ae7836169eb514856082187",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1096780,
+          "known_for_department": "Acting",
+          "name": "Hernán Mendoza",
+          "original_name": "Hernán Mendoza",
+          "popularity": 1.131,
+          "profile_path": "/yU4nRJhLXr4eZdujCX1ZsPNFIpC.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "6ae7836a9ada68b7b5082507",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 974732,
+          "known_for_department": "Acting",
+          "name": "Tiaré Scanda",
+          "original_name": "Tiaré Scanda",
+          "popularity": 0.6316,
+          "profile_path": "/tEIJnn5ZVHUtDdFLhHP0Q2Fdgxx.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "6ae78373e0e228c479c8d8c8",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1289328,
+          "known_for_department": "Editing",
+          "name": "Gilberto González Penilla",
+          "original_name": "Gilberto González Penilla",
+          "popularity": 0.4828,
+          "profile_path": null,
+          "credit_id": "6ae7838166b335ca648ac5c2",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1289328,
+          "known_for_department": "Editing",
+          "name": "Gilberto González Penilla",
+          "original_name": "Gilberto González Penilla",
+          "popularity": 0.4828,
+          "profile_path": null,
+          "credit_id": "6ae7839474b57b5401baf456",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1060241,
+          "known_for_department": "Writing",
+          "name": "Alfredo Mendoza",
+          "original_name": "Alfredo Mendoza",
+          "popularity": 0.4067,
+          "profile_path": null,
+          "credit_id": "6ae7839f5df07a896f8ac608",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2026-07-26T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Festival Internacional de Cine en Ensenada (FICENs)",
+              "release_date": "2026-11-20T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Hola Mexico Film Festival",
+              "release_date": "2026-09-20T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

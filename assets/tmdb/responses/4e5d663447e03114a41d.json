@@ -1,0 +1,418 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1787197?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:55.829Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "id": 1787197,
+    "imdb_id": null,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "Krush 48 in SENDAI",
+    "overview": "",
+    "popularity": 1.1342,
+    "poster_path": "/pdX6jPBC6KX9gCLiYgxsBNRZwvq.jpg",
+    "production_companies": [
+      {
+        "id": 254568,
+        "logo_path": "/1w53neu0BCe14VmyHu7V6KG3cfm.png",
+        "name": "K-1 Japan Group",
+        "origin_country": "JP"
+      },
+      {
+        "id": 151417,
+        "logo_path": "/llogdi9pdWlCvUlvZhhydp2EjNa.png",
+        "name": "GAORA",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2014-12-21",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Krush 48 in SENDAI",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4779070,
+          "known_for_department": "Acting",
+          "name": "Masaaki Noiri",
+          "original_name": "Masaaki Noiri",
+          "popularity": 0.2012,
+          "profile_path": "/g44VLJOr4qbLdl7JuSb7mz9BAbU.jpg",
+          "cast_id": 3,
+          "character": "Self",
+          "credit_id": "6ac084cfc687ab437d4e022f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6522177,
+          "known_for_department": "Acting",
+          "name": "Atsushi Ogata",
+          "original_name": "Atsushi Ogata",
+          "popularity": 0.6135,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Self",
+          "credit_id": "6ac084d3257417e92d8355a6",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2941003,
+          "known_for_department": "Acting",
+          "name": "近藤朱里",
+          "original_name": "近藤朱里",
+          "popularity": 0.7843,
+          "profile_path": "/49JTpUZi6Icq2j1KdzbTWKhjWe8.jpg",
+          "cast_id": 5,
+          "character": "Syuri",
+          "credit_id": "6ac084d69296857b1a578aaf",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6522314,
+          "known_for_department": "Acting",
+          "name": "Gracyer Aki",
+          "original_name": "Gracyer Aki",
+          "popularity": 0.2485,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Self",
+          "credit_id": "6ac084da829bc14e268355ab",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6522054,
+          "known_for_department": "Acting",
+          "name": "Keisuke Nakamura",
+          "original_name": "Keisuke Nakamura",
+          "popularity": 0.1767,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Self",
+          "credit_id": "6ac084def9043d8755fda547",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5286167,
+          "known_for_department": "Acting",
+          "name": "Hisaki Higashimoto",
+          "original_name": "Hisaki Higashimoto",
+          "popularity": 0.1197,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Self",
+          "credit_id": "6ac084e2a2adde6cea10d27b",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6522315,
+          "known_for_department": "Acting",
+          "name": "Hideaki Kikkawa",
+          "original_name": "Hideaki Kikkawa",
+          "popularity": 0.2878,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Self",
+          "credit_id": "6ac084e5a10d581a50d1f7aa",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6522324,
+          "known_for_department": "Acting",
+          "name": "Yuuki",
+          "original_name": "Yuuki",
+          "popularity": 0.9852,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "YUUKI",
+          "credit_id": "6ac0852b222cb4ff26d1f752",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5285834,
+          "known_for_department": "Acting",
+          "name": "Kaito Ozawa",
+          "original_name": "Kaito Ozawa",
+          "popularity": 0.3104,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Self",
+          "credit_id": "6ac084ed9296857b1a578ab2",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5286169,
+          "known_for_department": "Acting",
+          "name": "Ryota",
+          "original_name": "Ryota",
+          "popularity": 0.1574,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Self",
+          "credit_id": "6ac084f1c9cb1a4d70fb3d5b",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5286022,
+          "known_for_department": "Acting",
+          "name": "NORI",
+          "original_name": "NORI",
+          "popularity": 0.1043,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Self",
+          "credit_id": "6ac084f47fc3418f1dfb3dba",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6522316,
+          "known_for_department": "Acting",
+          "name": "Kikuchi Yokthaigym",
+          "original_name": "Kikuchi Yokthaigym",
+          "popularity": 0.3035,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Self",
+          "credit_id": "6ac084f81ae883cfcc8355a3",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6522317,
+          "known_for_department": "Acting",
+          "name": "Kohei Sato",
+          "original_name": "Kohei Sato",
+          "popularity": 0.1853,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Self",
+          "credit_id": "6ac084fdddfdee1846578a41",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5286091,
+          "known_for_department": "Acting",
+          "name": "Hitoshi Aketo",
+          "original_name": "Hitoshi Aketo",
+          "popularity": 0.199,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Self",
+          "credit_id": "6ac0850176ccbad8934e0198",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6522318,
+          "known_for_department": "Acting",
+          "name": "Reggara Tetsu",
+          "original_name": "Reggara Tetsu",
+          "popularity": 0.1493,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Self",
+          "credit_id": "6ac08505e276cbac0583559c",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6522319,
+          "known_for_department": "Acting",
+          "name": "Tomoki",
+          "original_name": "Tomoki",
+          "popularity": 0.1795,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Self",
+          "credit_id": "6ac08508aeb5ea09e9d1f735",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6522320,
+          "known_for_department": "Acting",
+          "name": "Sato Yokthaigym",
+          "original_name": "Sato Yokthaigym",
+          "popularity": 0.1518,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Self",
+          "credit_id": "6ac0850c991e70bc1c10d162",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6522321,
+          "known_for_department": "Acting",
+          "name": "Shima Kuramochi",
+          "original_name": "Shima Kuramochi",
+          "popularity": 0.2028,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Self",
+          "credit_id": "6ac08510c9cb1a4d70fb3d65",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5268910,
+          "known_for_department": "Acting",
+          "name": "Sho Uchida",
+          "original_name": "Sho Uchida",
+          "popularity": 0.1031,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Self",
+          "credit_id": "6ac08513aeb5ea09e9d1f738",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6522322,
+          "known_for_department": "Acting",
+          "name": "Kohei Masuko",
+          "original_name": "Kohei Masuko",
+          "popularity": 0.1888,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Self",
+          "credit_id": "6ac08517962cc1a2f9835651",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6522323,
+          "known_for_department": "Acting",
+          "name": "Meguro Yokthaigym",
+          "original_name": "Meguro Yokthaigym",
+          "popularity": 0.2358,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "Self",
+          "credit_id": "6ac0851b10697dc3ba578a8e",
+          "order": 20
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5268917,
+          "known_for_department": "Directing",
+          "name": "Mitsuru Miyata",
+          "original_name": "Mitsuru Miyata",
+          "popularity": 0.3286,
+          "profile_path": null,
+          "credit_id": "6ac084a9f5a39a1522d1f70e",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5268917,
+          "known_for_department": "Directing",
+          "name": "Mitsuru Miyata",
+          "original_name": "Mitsuru Miyata",
+          "popularity": 0.3286,
+          "profile_path": null,
+          "credit_id": "6ac084aa222cb4ff26d1f746",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2014-12-21T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "GAORA",
+              "release_date": "2015-01-03T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

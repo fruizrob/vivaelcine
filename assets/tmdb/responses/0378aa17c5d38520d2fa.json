@@ -1,0 +1,156 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/416556?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:16.645Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 416556,
+    "imdb_id": "tt3324548",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "In The Beginning",
+    "overview": "",
+    "popularity": 0.9669,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2013-11-08",
+    "revenue": 0,
+    "runtime": 3,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "In The Beginning",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3610656,
+          "known_for_department": "Acting",
+          "name": "Sophie Mochizuki",
+          "original_name": "Sophie Mochizuki",
+          "popularity": 0.5628,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Voice",
+          "credit_id": "62c1eb53dd47e1007e5135b0",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1457765,
+          "known_for_department": "Sound",
+          "name": "Arjun Sheth",
+          "original_name": "Arjun Sheth",
+          "popularity": 0.7271,
+          "profile_path": null,
+          "credit_id": "62c1f056f1b5710059a99733",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1681079,
+          "known_for_department": "Directing",
+          "name": "Arthur Metcalf",
+          "original_name": "Arthur Metcalf",
+          "popularity": 0.1849,
+          "profile_path": null,
+          "credit_id": "62c1f064a313b80059620bdc",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1681079,
+          "known_for_department": "Directing",
+          "name": "Arthur Metcalf",
+          "original_name": "Arthur Metcalf",
+          "popularity": 0.1849,
+          "profile_path": null,
+          "credit_id": "62c1f047f29d66005a3a1744",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1681079,
+          "known_for_department": "Directing",
+          "name": "Arthur Metcalf",
+          "original_name": "Arthur Metcalf",
+          "popularity": 0.1849,
+          "profile_path": null,
+          "credit_id": "62c1f03daf6e941e22825571",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1681079,
+          "known_for_department": "Directing",
+          "name": "Arthur Metcalf",
+          "original_name": "Arthur Metcalf",
+          "popularity": 0.1849,
+          "profile_path": null,
+          "credit_id": "57de4f279251417025005300",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-11-08T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

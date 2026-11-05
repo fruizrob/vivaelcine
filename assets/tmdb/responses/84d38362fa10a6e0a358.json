@@ -1,0 +1,236 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1111468?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:43.164Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 1111468,
+    "imdb_id": null,
+    "origin_country": [
+      "CO"
+    ],
+    "original_language": "es",
+    "original_title": "Experimento 48",
+    "overview": "",
+    "popularity": 2.3218,
+    "poster_path": "/46oMwp4lQbEV5n8kjFJKpbJcnwp.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2020-11-24",
+    "revenue": 0,
+    "runtime": 8,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Experimento 48",
+    "video": false,
+    "vote_average": 4,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1431391,
+          "known_for_department": "Acting",
+          "name": "Carolina Acevedo",
+          "original_name": "Carolina Acevedo",
+          "popularity": 0.9879,
+          "profile_path": "/piXTpUWIUlhIkcF0YAaa9giyLYT.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "643f1f2e7e403d04dc252749",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3337477,
+          "known_for_department": "Acting",
+          "name": "Alexánder Rivera",
+          "original_name": "Alexánder Rivera",
+          "popularity": 0.1899,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "643f1f4b7e403d0508252778",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1837649,
+          "known_for_department": "Acting",
+          "name": "Ximena Rodriguez",
+          "original_name": "Ximena Rodriguez",
+          "popularity": 0.2144,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "643f1ff165c26c02fc301135",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1431673,
+          "known_for_department": "Acting",
+          "name": "Ana María Sánchez",
+          "original_name": "Ana María Sánchez",
+          "popularity": 1.6299,
+          "profile_path": "/66MtgogvjGXS2Gxli3RWp9zNE9P.jpg",
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "643f2004eb093202fb1dd49d",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2892528,
+          "known_for_department": "Acting",
+          "name": "Milton López Arrubla",
+          "original_name": "Milton López Arrubla",
+          "popularity": 0.4954,
+          "profile_path": "/fMK0hVKYNdhBlgTKhZeipX0qRFR.jpg",
+          "credit_id": "643f1f0bb0ba7e04fb12ba26",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2892528,
+          "known_for_department": "Acting",
+          "name": "Milton López Arrubla",
+          "original_name": "Milton López Arrubla",
+          "popularity": 0.4954,
+          "profile_path": "/fMK0hVKYNdhBlgTKhZeipX0qRFR.jpg",
+          "credit_id": "643f1f1b65c26c0471301099",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4017539,
+          "known_for_department": "Production",
+          "name": "Manuel Sepúlveda",
+          "original_name": "Manuel Sepúlveda",
+          "popularity": 0.1833,
+          "profile_path": null,
+          "credit_id": "643f22d095665802fc017ff4",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4017545,
+          "known_for_department": "Production",
+          "name": "Harold David Solano",
+          "original_name": "Harold David Solano",
+          "popularity": 0.1199,
+          "profile_path": null,
+          "credit_id": "643f22f937b3a9046f42ae54",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4017550,
+          "known_for_department": "Sound",
+          "name": "Nathalia Beltrán",
+          "original_name": "Nathalia Beltrán",
+          "popularity": 0.1199,
+          "profile_path": null,
+          "credit_id": "643f2340b0ba7e04cf12bbbb",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4017549,
+          "known_for_department": "Camera",
+          "name": "Alex Fandiño",
+          "original_name": "Alex Fandiño",
+          "popularity": 0.1265,
+          "profile_path": null,
+          "credit_id": "643f232a9566580532018029",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4017543,
+          "known_for_department": "Production",
+          "name": "Carlos Morillo",
+          "original_name": "Carlos Morillo",
+          "popularity": 0.1199,
+          "profile_path": null,
+          "credit_id": "643f22e66dc6c002fc2c285f",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4017547,
+          "known_for_department": "Camera",
+          "name": "Katherine Julieth López",
+          "original_name": "Katherine Julieth López",
+          "popularity": 0.1263,
+          "profile_path": null,
+          "credit_id": "643f231337b3a902fb42adef",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2020-11-24T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

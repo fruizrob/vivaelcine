@@ -1,0 +1,112 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1420391?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:03.696Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/AjdmuzMrWmbEpqMN75C40XC6z1V.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "id": 1420391,
+    "imdb_id": null,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Jacinto (Espinosa)",
+    "overview": "",
+    "popularity": 0.4638,
+    "poster_path": "/kc1eaaX7ikcn9nRjTiI0OGn9bJg.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2024-10-30",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Jacinto (Espinosa)",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5190820,
+          "known_for_department": "Directing",
+          "name": "Raúl E. Mosso",
+          "original_name": "Raúl E. Mosso",
+          "popularity": 0.1231,
+          "profile_path": "/hIXwtjVDVq9Q5C1dJHttetTLhEB.jpg",
+          "cast_id": 2,
+          "character": "Jacinto/ hombre que golpea",
+          "credit_id": "678ddd0d9cb0719f7464ed57",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5190820,
+          "known_for_department": "Directing",
+          "name": "Raúl E. Mosso",
+          "original_name": "Raúl E. Mosso",
+          "popularity": 0.1231,
+          "profile_path": "/hIXwtjVDVq9Q5C1dJHttetTLhEB.jpg",
+          "credit_id": "678dd80ed8a5b0d00c4351bd",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5190820,
+          "known_for_department": "Directing",
+          "name": "Raúl E. Mosso",
+          "original_name": "Raúl E. Mosso",
+          "popularity": 0.1231,
+          "profile_path": "/hIXwtjVDVq9Q5C1dJHttetTLhEB.jpg",
+          "credit_id": "6a63419f8524ed0e1f40e3ab",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "A",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2024-10-30T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

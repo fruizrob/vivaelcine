@@ -1,0 +1,102 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/898419?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:17.796Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 898419,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Replica",
+    "overview": "",
+    "popularity": 0.2696,
+    "poster_path": "/mjYn1XDYzSQ0aHIRgCQ8YgKLafg.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 18,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Replica",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1768797,
+          "known_for_department": "Acting",
+          "name": "Nic English",
+          "original_name": "Nic English",
+          "popularity": 0.359,
+          "profile_path": "/2JERdyY1TvL7dgHS2CxbFNIRIsH.jpg",
+          "cast_id": 1,
+          "character": "Matt #1 / Matt #2",
+          "credit_id": "6191be93a9b9a4008dcf9f7d",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2056674,
+          "known_for_department": "Acting",
+          "name": "Megan Smart",
+          "original_name": "Megan Smart",
+          "popularity": 1.1187,
+          "profile_path": "/ebwFTfhDmF0fmNP9IgFK30ZzCxV.jpg",
+          "cast_id": 2,
+          "character": "Charlie",
+          "credit_id": "6191bea11f748b006125fa2e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 75892,
+          "known_for_department": "Acting",
+          "name": "Tiriel Mora",
+          "original_name": "Tiriel Mora",
+          "popularity": 0.4622,
+          "profile_path": "/xOMqrSaAKpvIO4RaSf2wx5Xuvux.jpg",
+          "cast_id": 3,
+          "character": "Tom",
+          "credit_id": "6191bea901757f008a79fa15",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3309913,
+          "known_for_department": "Directing",
+          "name": "Adam Daniel",
+          "original_name": "Adam Daniel",
+          "popularity": 0.3055,
+          "profile_path": null,
+          "credit_id": "6191bfa215376c0042dfa362",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

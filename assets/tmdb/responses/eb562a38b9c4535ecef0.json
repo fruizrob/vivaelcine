@@ -1,0 +1,51 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=HISTORIAS+SOBRENATURALES&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:42.631Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27
+        ],
+        "id": 1456812,
+        "title": "Historias Sobrenaturales",
+        "original_language": "es",
+        "original_title": "Historias Sobrenaturales",
+        "overview": "",
+        "popularity": 0.5157,
+        "poster_path": "/1u8EOzTXJfBg7ipqkCkyUiDfTF9.jpg",
+        "release_date": "2026-08-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9GAU0z2wVA8M2D2w36CaloWYYgv.jpg",
+        "genre_ids": [
+          27,
+          14,
+          18
+        ],
+        "id": 30959,
+        "title": "El más allá",
+        "original_language": "ja",
+        "original_title": "怪談",
+        "overview": "Filme basado en cuatro historias del escritor Lafcadio Hearn. \"Pelo negro\": un samurái no soporta a su mujer y la abandona por una princesa. Años después vuelve a casa para realizar un terrible descubrimiento. \"La mujer en la nieve\": dos leñadores se refugian de una tormenta de nieve en lo que parece ser un cobertizo abandonado. \"Hoichi\": el fantasma de un samurái le pide a un músico ciego que toque una balada en la tumba de su señor. \"En la taza de té\": un samurái se asusta ante la visión de un hombre reflejado en su taza de té.",
+        "popularity": 3.9241,
+        "poster_path": "/l22SG9evZiz3wp7E29dpl16XSO5.jpg",
+        "release_date": "1965-01-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.719,
+        "vote_count": 488
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  }
+}

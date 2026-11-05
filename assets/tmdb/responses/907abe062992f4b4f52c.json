@@ -1,0 +1,92 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1662391?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:39:40.617Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1662391,
+    "imdb_id": null,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "中西里菜 FIRST DVD~AKB48 Graduation~ LIMITED EDITION",
+    "overview": "",
+    "popularity": 0.358,
+    "poster_path": "/l2f58AZ16COyhe9jmEVyon06JjO.jpg",
+    "production_companies": [
+      {
+        "id": 130584,
+        "logo_path": "/dprmfhpWLkbtWwx8EjAucH2YJ1g.png",
+        "name": "Saibunkan Publishing",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2009-04-24",
+    "revenue": 0,
+    "runtime": 60,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "中西里菜 FIRST DVD~AKB48 Graduation~ LIMITED EDITION",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": true,
+          "gender": 1,
+          "id": 3084298,
+          "known_for_department": "Acting",
+          "name": "やまぐちりこ",
+          "original_name": "やまぐちりこ",
+          "popularity": 0,
+          "profile_path": "/vxkwvocfwc8VwY4JAtkqZ9sJKXz.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "69ce65b106125aca5fd28ec3",
+          "order": 0
+        }
+      ],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2009-04-24T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

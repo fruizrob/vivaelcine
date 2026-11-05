@@ -1,0 +1,122 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/322105?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:33.099Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/kstSjCnE6SVJ4sO35LvxEU4t5uR.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 322105,
+    "imdb_id": "tt0195724",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Four Seasons",
+    "overview": "",
+    "popularity": 0.319,
+    "poster_path": "/yqs2Su6xQqKAcFtYOMTYZCaFLrY.jpg",
+    "production_companies": [
+      {
+        "id": 37532,
+        "logo_path": null,
+        "name": "Kineto Films",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1921-09-30",
+    "revenue": 0,
+    "runtime": 75,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Four Seasons",
+    "video": false,
+    "vote_average": 9,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1420138,
+          "known_for_department": "Directing",
+          "name": "Raymond L. Ditmars",
+          "original_name": "Raymond L. Ditmars",
+          "popularity": 0.2218,
+          "profile_path": null,
+          "credit_id": "54c9f56cc3a3687a65005e93",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 129166,
+          "known_for_department": "Production",
+          "name": "Charles Urban",
+          "original_name": "Charles Urban",
+          "popularity": 0.2472,
+          "profile_path": "/dNxgCHHNpdOWDGDy0YJzs9rAEFA.jpg",
+          "credit_id": "655902ecb5400214d06fbda5",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 129166,
+          "known_for_department": "Production",
+          "name": "Charles Urban",
+          "original_name": "Charles Urban",
+          "popularity": 0.2472,
+          "profile_path": "/dNxgCHHNpdOWDGDy0YJzs9rAEFA.jpg",
+          "credit_id": "5d20051e15c6362e4ef36a58",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1921-09-30T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "NL",
+          "title": "De vier jaargetijden",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

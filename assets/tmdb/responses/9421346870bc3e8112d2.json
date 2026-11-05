@@ -1,0 +1,167 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/461956?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:52.903Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 44886,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 461956,
+    "imdb_id": "tt7008332",
+    "origin_country": [
+      "MK"
+    ],
+    "original_language": "mk",
+    "original_title": "48",
+    "overview": "",
+    "popularity": 0.5201,
+    "poster_path": "/luJj8nhIp94eiOxQLBbysi9PiWJ.jpg",
+    "production_companies": [
+      {
+        "id": 46293,
+        "logo_path": "/pjWMfuWBbQwVUYMAssuoDj0B3xv.png",
+        "name": "Dream Factory Macedonia",
+        "origin_country": "MK"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MK",
+        "name": "Macedonia"
+      }
+    ],
+    "release_date": "2017-06-16",
+    "revenue": 0,
+    "runtime": 19,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Macedonian",
+        "iso_639_1": "mk",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "48",
+    "video": false,
+    "vote_average": 1,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1525507,
+          "known_for_department": "Acting",
+          "name": "Dimitrija Doksevski",
+          "original_name": "Dimitrija Doksevski",
+          "popularity": 0.7073,
+          "profile_path": "/7aqVSP3FAFwtuFKGmeD7gmBP3si.jpg",
+          "cast_id": 0,
+          "character": "Priest",
+          "credit_id": "59424fea9251417f9b008b3d",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1617466,
+          "known_for_department": "Acting",
+          "name": "Сара Климоска",
+          "original_name": "Сара Климоска",
+          "popularity": 0.6299,
+          "profile_path": "/wuQhrIyYOVB26tqJNNT5i7sk4zF.jpg",
+          "cast_id": 1,
+          "character": "Girl from the club",
+          "credit_id": "5942500ac3a3686beb008fa7",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1543309,
+          "known_for_department": "Acting",
+          "name": "Goran Stojanovski",
+          "original_name": "Goran Stojanovski",
+          "popularity": 0.2215,
+          "profile_path": "/ouWNx7KximjEE49Hev4zl5JCX2I.jpg",
+          "cast_id": 2,
+          "character": "President",
+          "credit_id": "594250179251417f65009339",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1617808,
+          "known_for_department": "Writing",
+          "name": "Vladimir Mitrevski",
+          "original_name": "Vladimir Mitrevski",
+          "popularity": 0.726,
+          "profile_path": null,
+          "credit_id": "5942502bc3a3686beb008fc9",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1617808,
+          "known_for_department": "Writing",
+          "name": "Vladimir Mitrevski",
+          "original_name": "Vladimir Mitrevski",
+          "popularity": 0.726,
+          "profile_path": null,
+          "credit_id": "693079772ea2b1967e68619d",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "mk",
+              "note": "",
+              "release_date": "2017-06-16T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "MK",
+          "title": "Крај без крај",
+          "type": "working title"
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "End Without End",
+          "type": "working title"
+        }
+      ]
+    }
+  }
+}

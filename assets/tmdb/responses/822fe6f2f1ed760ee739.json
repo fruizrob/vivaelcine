@@ -1,0 +1,91 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1211665?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:58.512Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1211665,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Man I Love",
+    "overview": "",
+    "popularity": 0.9121,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1994-01-01",
+    "revenue": 0,
+    "runtime": 3,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Man I Love",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2476692,
+          "known_for_department": "Directing",
+          "name": "William Comstock",
+          "original_name": "William Comstock",
+          "popularity": 0.9011,
+          "profile_path": null,
+          "credit_id": "65684b2f63536a00fe373dbc",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2476692,
+          "known_for_department": "Directing",
+          "name": "William Comstock",
+          "original_name": "William Comstock",
+          "popularity": 0.9011,
+          "profile_path": null,
+          "credit_id": "65684b24a44d0900cb049a9b",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Specific release date not listed",
+              "release_date": "1994-01-01T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

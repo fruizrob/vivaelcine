@@ -1,0 +1,654 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/294851?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:27.736Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/2TPhn9KN9ywIAADQXC8cXaECIwz.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 294851,
+    "imdb_id": "tt0108231",
+    "origin_country": [
+      "RU"
+    ],
+    "original_language": "ru",
+    "original_title": "Страсти по Анжелике",
+    "overview": "",
+    "popularity": 0.8767,
+    "poster_path": "/iuRuAWsZy3DmIObPHmaMpdIQxrR.jpg",
+    "production_companies": [
+      {
+        "id": 255544,
+        "logo_path": "/Bw41RrE9vQIGe64ImSLnukxri9.png",
+        "name": "Aura Studio",
+        "origin_country": "UA"
+      },
+      {
+        "id": 105907,
+        "logo_path": null,
+        "name": "Miko-Film",
+        "origin_country": "RU"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "RU",
+        "name": "Russia"
+      },
+      {
+        "iso_3166_1": "UA",
+        "name": "Ukraine"
+      }
+    ],
+    "release_date": "1993-06-06",
+    "revenue": 0,
+    "runtime": 70,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Страсти по Анжелике",
+    "video": false,
+    "vote_average": 4,
+    "vote_count": 11,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 128306,
+          "known_for_department": "Acting",
+          "name": "Анна Самохина",
+          "original_name": "Анна Самохина",
+          "popularity": 0.996,
+          "profile_path": "/buy8JLeLZ3Nw6dpBQExXzPLcsgP.jpg",
+          "cast_id": 3,
+          "character": "Анжелика Кудрина",
+          "credit_id": "542331100e0a263b74001f59",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 47918,
+          "known_for_department": "Acting",
+          "name": "Анатолий Равикович",
+          "original_name": "Анатолий Равикович",
+          "popularity": 0.382,
+          "profile_path": "/mR6FdjUs05tCMMeKHHfaYJROEZR.jpg",
+          "cast_id": 4,
+          "character": "Блюм",
+          "credit_id": "5423311dc3a3680880001f9c",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1262050,
+          "known_for_department": "Acting",
+          "name": "Сергей Лосев",
+          "original_name": "Сергей Лосев",
+          "popularity": 1.1511,
+          "profile_path": "/56doPGCZ6BbkZPKVGXMWeoOxAXs.jpg",
+          "cast_id": 12,
+          "character": "судья",
+          "credit_id": "67cafaba54783caaa3aff103",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1117907,
+          "known_for_department": "Acting",
+          "name": "Андрей Градов",
+          "original_name": "Андрей Градов",
+          "popularity": 0.4629,
+          "profile_path": "/a25sgnQjWErgl1iPKHsqgi7FB8J.jpg",
+          "cast_id": 5,
+          "character": "Гоша - следователь",
+          "credit_id": "5423312cc3a3681eca000799",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 236002,
+          "known_for_department": "Acting",
+          "name": "Александр Лыков",
+          "original_name": "Александр Лыков",
+          "popularity": 1.6418,
+          "profile_path": "/5q8GyA7XqpAZEajBlQrD6WsfSVh.jpg",
+          "cast_id": 6,
+          "character": "Володя Ботин",
+          "credit_id": "5423314f0e0a263b74001f66",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 587910,
+          "known_for_department": "Acting",
+          "name": "Андрей Смоляков",
+          "original_name": "Андрей Смоляков",
+          "popularity": 0.8149,
+          "profile_path": "/AcuDKPIUa6xD3LYGqDr7gqEj3o9.jpg",
+          "cast_id": 7,
+          "character": "Виталий Кудрин - муж Анжелики",
+          "credit_id": "542331610e0a263b6e001f60",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3676987,
+          "known_for_department": "Acting",
+          "name": "Сергей Твердохлебов",
+          "original_name": "Сергей Твердохлебов",
+          "popularity": 0.1263,
+          "profile_path": "/8qU0AQAYIlWVx5Un8BLjFKZSljy.jpg",
+          "cast_id": 13,
+          "character": "балетмейстер",
+          "credit_id": "67cafb65f708440336cb702d",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 86825,
+          "known_for_department": "Acting",
+          "name": "Николай Трофимов",
+          "original_name": "Николай Трофимов",
+          "popularity": 0.435,
+          "profile_path": "/n9B7DuJzkw6rOd1xvpa6l70uo8K.jpg",
+          "cast_id": 8,
+          "character": "Махначёв",
+          "credit_id": "542331770e0a263b74001f6a",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1864054,
+          "known_for_department": "Acting",
+          "name": "Тамара Лебедева",
+          "original_name": "Тамара Лебедева",
+          "popularity": 0.3297,
+          "profile_path": "/z5wdhfAjzzr6HxCEgixsluQ433J.jpg",
+          "cast_id": 14,
+          "character": "адвокат",
+          "credit_id": "67cafd3d7479d8c8492b5e51",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 556851,
+          "known_for_department": "Acting",
+          "name": "Татьяна Бедова",
+          "original_name": "Татьяна Бедова",
+          "popularity": 0.9445,
+          "profile_path": "/2jai945vddbX9qUhOXjn9kQXQkx.jpg",
+          "cast_id": 15,
+          "character": "Маргарита Неврозова",
+          "credit_id": "67cafeaa54783caaa3aff4be",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1175938,
+          "known_for_department": "Acting",
+          "name": "Ольга Волкова",
+          "original_name": "Ольга Волкова",
+          "popularity": 1.0293,
+          "profile_path": "/ab4r78a1SsM4FOe2XxjKyM0YILW.jpg",
+          "cast_id": 9,
+          "character": "Кирилловна - мама Анжелики",
+          "credit_id": "54233183c3a3680883001f1a",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1323518,
+          "known_for_department": "Acting",
+          "name": "Елена Воробей",
+          "original_name": "Елена Воробей",
+          "popularity": 0.651,
+          "profile_path": "/H3153avA6dAIDWLFl1utOgENDl.jpg",
+          "cast_id": 10,
+          "character": "Вика - подружка",
+          "credit_id": "54233199c3a3680883001f1d",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2501191,
+          "known_for_department": "Acting",
+          "name": "Олег Ефремов",
+          "original_name": "Олег Ефремов",
+          "popularity": 0.6068,
+          "profile_path": "/wQxMixVs8b1TJNH1WiW5zXTmBFI.jpg",
+          "cast_id": 16,
+          "character": "мэр города Почесалово",
+          "credit_id": "67cb00668f0e59863bafde05",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2969710,
+          "known_for_department": "Acting",
+          "name": "Серафима Смолина",
+          "original_name": "Серафима Смолина",
+          "popularity": 0.2855,
+          "profile_path": "/d5DlmVg8JHoOIYTDgcC8cOBBHAv.jpg",
+          "cast_id": 17,
+          "character": "стоматолог",
+          "credit_id": "67cb00ac54783caaa3aff6ab",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5288912,
+          "known_for_department": "Acting",
+          "name": "М. Такоева",
+          "original_name": "М. Такоева",
+          "popularity": 0.0984,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "",
+          "credit_id": "67cb026d81fbb12539cb6baf",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5288916,
+          "known_for_department": "Acting",
+          "name": "Элеонора Локтионова",
+          "original_name": "Элеонора Локтионова",
+          "popularity": 0.1128,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "",
+          "credit_id": "67cb02d8dcc9c03ff0cb678f",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1390249,
+          "known_for_department": "Acting",
+          "name": "Александр Самохин",
+          "original_name": "Александр Самохин",
+          "popularity": 0.8817,
+          "profile_path": "/wUJnlaVSpi5UvnQCob6HGkKoxB4.jpg",
+          "cast_id": 20,
+          "character": "посетитель ресторана",
+          "credit_id": "67cb0376dcc9c03ff0cb67a2",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2696349,
+          "known_for_department": "Acting",
+          "name": "Александра Бражникова",
+          "original_name": "Александра Бражникова",
+          "popularity": 0.1521,
+          "profile_path": "/3eJWIQdZMeOfn3xJ3IqO1Uszk5E.jpg",
+          "cast_id": 21,
+          "character": "пациентка",
+          "credit_id": "67cb0417aa523c748a2b5c53",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 237949,
+          "known_for_department": "Acting",
+          "name": "Николай Федорцов",
+          "original_name": "Николай Федорцов",
+          "popularity": 0.643,
+          "profile_path": null,
+          "cast_id": 43,
+          "character": "пьяный посетитель ресторана",
+          "credit_id": "67cd3ad52794b0d5982a66db",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 67320,
+          "known_for_department": "Acting",
+          "name": "Ксения Раппопорт",
+          "original_name": "Ксения Раппопорт",
+          "popularity": 1.2846,
+          "profile_path": "/i2BEeoC4EcMSwDqZR88TDnXvB3n.jpg",
+          "cast_id": 23,
+          "character": "",
+          "credit_id": "67cb05abdcc9c03ff0cb6805",
+          "order": 19
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1117905,
+          "known_for_department": "Directing",
+          "name": "Александр Полынников",
+          "original_name": "Александр Полынников",
+          "popularity": 0.8648,
+          "profile_path": "/ucPWMDZ97hx2xHQ89a7jDXtFxQX.jpg",
+          "credit_id": "542330e60e0a263b6e001f56",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1295326,
+          "known_for_department": "Writing",
+          "name": "Анатолий Шайкевич",
+          "original_name": "Анатолий Шайкевич",
+          "popularity": 0.3187,
+          "profile_path": null,
+          "credit_id": "67cb06b27479d8c8492b6305",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1367351,
+          "known_for_department": "Writing",
+          "name": "Тамара Третьякова",
+          "original_name": "Тамара Третьякова",
+          "popularity": 0.1291,
+          "profile_path": null,
+          "credit_id": "67cb070ef708440336cb7a5b",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2355193,
+          "known_for_department": "Directing",
+          "name": "Владимир Храпунов",
+          "original_name": "Владимир Храпунов",
+          "popularity": 1.0581,
+          "profile_path": null,
+          "credit_id": "67cb077e8f0e59863bafe174",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3149031,
+          "known_for_department": "Production",
+          "name": "Эльвира Потапенко",
+          "original_name": "Эльвира Потапенко",
+          "popularity": 0.2797,
+          "profile_path": null,
+          "credit_id": "67cb07eea001960f78cb6ff7",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5288964,
+          "known_for_department": "Production",
+          "name": "Дмитрий Полынников",
+          "original_name": "Дмитрий Полынников",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "67cb088c36598226a1afe8e9",
+          "department": "Production",
+          "job": "Administration"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2402766,
+          "known_for_department": "Production",
+          "name": "Ольга Шиманская",
+          "original_name": "Ольга Шиманская",
+          "popularity": 0.1009,
+          "profile_path": null,
+          "credit_id": "67cb090f36598226a1afe92b",
+          "department": "Production",
+          "job": "Administration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2069989,
+          "known_for_department": "Art",
+          "name": "Василий Зверев",
+          "original_name": "Василий Зверев",
+          "popularity": 0.0975,
+          "profile_path": "/8EsyakxeyYyEe8HTfGYAB83mV7S.jpg",
+          "credit_id": "67cb099c81fbb12539cb6d20",
+          "department": "Production",
+          "job": "Administration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5288982,
+          "known_for_department": "Editing",
+          "name": "ლარია პეტრიაშვილი",
+          "original_name": "ლარია პეტრიაშვილი",
+          "popularity": 0.0936,
+          "profile_path": null,
+          "credit_id": "67cb0a6edba14916062b62dc",
+          "department": "Editing",
+          "job": "Lead Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1664512,
+          "known_for_department": "Art",
+          "name": "Валентин Гидулянов",
+          "original_name": "Валентин Гидулянов",
+          "popularity": 0.214,
+          "profile_path": null,
+          "credit_id": "67cb0b92dcc9c03ff0cb68b1",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5289000,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Любовь Нагорная",
+          "original_name": "Любовь Нагорная",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "credit_id": "67cb0c65f708440336cb7cb3",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5289005,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Сергей Маурин",
+          "original_name": "Сергей Маурин",
+          "popularity": 0.1323,
+          "profile_path": null,
+          "credit_id": "67cb0cd4dcc9c03ff0cb693c",
+          "department": "Costume & Make-Up",
+          "job": "Key Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5289013,
+          "known_for_department": "Directing",
+          "name": "Галина Иванова",
+          "original_name": "Галина Иванова",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "67cb0d57a001960f78cb7065",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5289015,
+          "known_for_department": "Directing",
+          "name": "Н. Лыкова",
+          "original_name": "Н. Лыкова",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "67cb0de21f9ef3532dafe047",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5289023,
+          "known_for_department": "Directing",
+          "name": "Г. Пачева",
+          "original_name": "Г. Пачева",
+          "popularity": 0.1144,
+          "profile_path": null,
+          "credit_id": "67cb0e59a001960f78cb70a7",
+          "department": "Directing",
+          "job": "Co-Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3734918,
+          "known_for_department": "Sound",
+          "name": "Михаил Подтакуй",
+          "original_name": "Михаил Подтакуй",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "67cb0ecf7479d8c8492b662d",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5289039,
+          "known_for_department": "Camera",
+          "name": "Олег Семиков",
+          "original_name": "Олег Семиков",
+          "popularity": 0.1343,
+          "profile_path": null,
+          "credit_id": "67cb0f3136598226a1afeadf",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2923238,
+          "known_for_department": "Camera",
+          "name": "Александр Танасюк",
+          "original_name": "Александр Танасюк",
+          "popularity": 0.1241,
+          "profile_path": null,
+          "credit_id": "67cb0f9ca001960f78cb712a",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1697265,
+          "known_for_department": "Camera",
+          "name": "Олександр Вотінов",
+          "original_name": "Олександр Вотінов",
+          "popularity": 0.1107,
+          "profile_path": "/DOrSR93ySGtL8h7qgQh2As3je5.jpg",
+          "credit_id": "67cb101781fbb12539cb6d88",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5289056,
+          "known_for_department": "Crew",
+          "name": "А. Михайлов",
+          "original_name": "А. Михайлов",
+          "popularity": 0.095,
+          "profile_path": null,
+          "credit_id": "67cb115fdcc9c03ff0cb6a2e",
+          "department": "Crew",
+          "job": "Medical Consultant"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "RU",
+          "release_dates": [
+            {
+              "certification": "18+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Moscow, Russia",
+              "release_date": "1993-06-06T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "18+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "VHS",
+              "release_date": "1995-10-10T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "18+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DVD",
+              "release_date": "2006-10-10T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

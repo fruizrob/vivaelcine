@@ -1,0 +1,660 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/79544?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:52.975Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/oJiBH1aSFv0gOKwb34I7CCKqgRE.jpg",
+    "belongs_to_collection": null,
+    "budget": 7750000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 79544,
+    "imdb_id": "tt0323808",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The Wicker Tree",
+    "overview": "Beth y Steve son miembros de los \"Cowboys de Cristo\", un grupo evangélico que hace proselitismo fuera de los Estados Unidos. El apostolado lleva a la pareja a un pueblecito escocés llamado Tressock, donde son invitados a asistir a una celebración. La pareja acepta, sin saber que la ceremonia se basa en rituales paganos.",
+    "popularity": 0.8145,
+    "poster_path": "/l86p3fObjImjm5CLJFAcgVLWm9n.jpg",
+    "production_companies": [
+      {
+        "id": 24036,
+        "logo_path": null,
+        "name": "Euro Center Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 24037,
+        "logo_path": null,
+        "name": "Tressock Films",
+        "origin_country": ""
+      },
+      {
+        "id": 632,
+        "logo_path": null,
+        "name": "British Lion Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 139382,
+        "logo_path": null,
+        "name": "Fantastic Films International",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2011-08-27",
+    "revenue": 0,
+    "runtime": 96,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Wicker Tree",
+    "video": false,
+    "vote_average": 3.9,
+    "vote_count": 62,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 95047,
+          "known_for_department": "Acting",
+          "name": "Graham McTavish",
+          "original_name": "Graham McTavish",
+          "popularity": 2.6153,
+          "profile_path": "/qpKVz46PkKVaXzthcJO4ldFPdM9.jpg",
+          "cast_id": 5,
+          "character": "Sir Lachlan Morrison",
+          "credit_id": "52fe49d7c3a368484e142ff5",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 192855,
+          "known_for_department": "Acting",
+          "name": "Honeysuckle Weeks",
+          "original_name": "Honeysuckle Weeks",
+          "popularity": 1.2643,
+          "profile_path": "/wCxTamAxpEnzW4mhpWQWxdAHLon.jpg",
+          "cast_id": 6,
+          "character": "Lolly",
+          "credit_id": "52fe49d7c3a368484e142ff9",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 113,
+          "known_for_department": "Acting",
+          "name": "Christopher Lee",
+          "original_name": "Christopher Lee",
+          "popularity": 3.0394,
+          "profile_path": "/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg",
+          "cast_id": 7,
+          "character": "Old Man",
+          "credit_id": "52fe49d7c3a368484e142ffd",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19901,
+          "known_for_department": "Acting",
+          "name": "Clive Russell",
+          "original_name": "Clive Russell",
+          "popularity": 1.9435,
+          "profile_path": "/eC37Kmdo5YKNG2MyirCG4tWDxCS.jpg",
+          "cast_id": 24,
+          "character": "Beame",
+          "credit_id": "5443c618c3a3683e0e004ee4",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 119093,
+          "known_for_department": "Acting",
+          "name": "Callum Mitchell",
+          "original_name": "Callum Mitchell",
+          "popularity": 0.796,
+          "profile_path": "/3YNsYhIEUH5uxUlxP8cUeNSgKrE.jpg",
+          "cast_id": 9,
+          "character": "Strange Scottish Villager",
+          "credit_id": "52fe49d7c3a368484e143005",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 125719,
+          "known_for_department": "Acting",
+          "name": "Henry Garrett",
+          "original_name": "Henry Garrett",
+          "popularity": 0.9164,
+          "profile_path": "/uVmFDIaaBNvMYC0iBCr3dFoMdfK.jpg",
+          "cast_id": 8,
+          "character": "Steve Thomson",
+          "credit_id": "52fe49d7c3a368484e143001",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 933003,
+          "known_for_department": "Acting",
+          "name": "Christopher Leveaux",
+          "original_name": "Christopher Leveaux",
+          "popularity": 0.3455,
+          "profile_path": "/disM73F1s8FajPd9eguY7w6jizP.jpg",
+          "cast_id": 10,
+          "character": "Christopher",
+          "credit_id": "52fe49d7c3a368484e143009",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1215324,
+          "known_for_department": "Acting",
+          "name": "Jacqueline Leonard",
+          "original_name": "Jacqueline Leonard",
+          "popularity": 0.4196,
+          "profile_path": "/2aGtBfGhJTTCVaPdIO3JIRfeKhh.jpg",
+          "cast_id": 23,
+          "character": "Lady Delia Morrison",
+          "credit_id": "5443c5edc3a3683df7004ed3",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1220022,
+          "known_for_department": "Acting",
+          "name": "Prue Clarke",
+          "original_name": "Prue Clarke",
+          "popularity": 0.4243,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "Mary Hellier",
+          "credit_id": "5443c6440e0a26632d004f1d",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1375590,
+          "known_for_department": "Acting",
+          "name": "Lesley Mackie",
+          "original_name": "Lesley Mackie",
+          "popularity": 0.4919,
+          "profile_path": "/kt29CJJKHQhLNRi4piOHxgKeedK.jpg",
+          "cast_id": 26,
+          "character": "Daisy",
+          "credit_id": "5443c67ec3a3683e08004e2d",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1375591,
+          "known_for_department": "Acting",
+          "name": "David Plimmer",
+          "original_name": "David Plimmer",
+          "popularity": 0.2105,
+          "profile_path": null,
+          "cast_id": 27,
+          "character": "Jack",
+          "credit_id": "5443c6a3c3a3683e01004ed0",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1375592,
+          "known_for_department": "Acting",
+          "name": "Brittania Nicol",
+          "original_name": "Brittania Nicol",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "cast_id": 28,
+          "character": "Beth Boothby",
+          "credit_id": "5443c6d20e0a26633a005150",
+          "order": 11
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 80261,
+          "known_for_department": "Directing",
+          "name": "Robin Hardy",
+          "original_name": "Robin Hardy",
+          "popularity": 0.6106,
+          "profile_path": "/d2tm32CAjnwij7ueeZRE5qNxCjP.jpg",
+          "credit_id": "52fe49d7c3a368484e142fe5",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 80261,
+          "known_for_department": "Directing",
+          "name": "Robin Hardy",
+          "original_name": "Robin Hardy",
+          "popularity": 0.6106,
+          "profile_path": "/d2tm32CAjnwij7ueeZRE5qNxCjP.jpg",
+          "credit_id": "52fe49d7c3a368484e142feb",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 229385,
+          "known_for_department": "Production",
+          "name": "Peter Snell",
+          "original_name": "Peter Snell",
+          "popularity": 0.2059,
+          "profile_path": "/v7h4PRyTJ4o3yCefgzHKeZ52286.jpg",
+          "credit_id": "53884c0bc3a3681ad700454d",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1325893,
+          "known_for_department": "Production",
+          "name": "Peter Watson-Wood",
+          "original_name": "Peter Watson-Wood",
+          "popularity": 0.1475,
+          "profile_path": null,
+          "credit_id": "53884c2bc3a3681ad7004551",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 56639,
+          "known_for_department": "Production",
+          "name": "Kate Plantin",
+          "original_name": "Kate Plantin",
+          "popularity": 0.3085,
+          "profile_path": null,
+          "credit_id": "53884c3dc3a3681add004465",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 64876,
+          "known_for_department": "Editing",
+          "name": "Sean Barton",
+          "original_name": "Sean Barton",
+          "popularity": 0.7633,
+          "profile_path": null,
+          "credit_id": "53884d25c3a3681af3004549",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1325895,
+          "known_for_department": "Editing",
+          "name": "Ray Lau",
+          "original_name": "Ray Lau",
+          "popularity": 0.1452,
+          "profile_path": null,
+          "credit_id": "53884d42c3a3681af000440a",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 119111,
+          "known_for_department": "Art",
+          "name": "Laurel Wear",
+          "original_name": "Laurel Wear",
+          "popularity": 0.2071,
+          "profile_path": null,
+          "credit_id": "53884d5ac3a3681af000440e",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 119112,
+          "known_for_department": "Art",
+          "name": "Natalie Astridge",
+          "original_name": "Natalie Astridge",
+          "popularity": 0.2104,
+          "profile_path": null,
+          "credit_id": "53884d6cc3a3681aea0040ad",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1325896,
+          "known_for_department": "Costume & Make-Up",
+          "name": "David Blight",
+          "original_name": "David Blight",
+          "popularity": 0.303,
+          "profile_path": null,
+          "credit_id": "53884db2c3a3681add004485",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1325897,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Elizabeth Healy",
+          "original_name": "Elizabeth Healy",
+          "popularity": 0.469,
+          "profile_path": null,
+          "credit_id": "53884dd3c3a3681add00448d",
+          "department": "Costume & Make-Up",
+          "job": "Costume Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 582705,
+          "known_for_department": "Camera",
+          "name": "Jan Pester",
+          "original_name": "Jan Pester",
+          "popularity": 0.2486,
+          "profile_path": null,
+          "credit_id": "55a63f32925141099b000f4a",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29056,
+          "known_for_department": "Sound",
+          "name": "John Scott",
+          "original_name": "John Scott",
+          "popularity": 0.2388,
+          "profile_path": "/lF6U463fF880OmVL4dG0JdWnDG0.jpg",
+          "credit_id": "568ae22c9251414ecb01d456",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1865723,
+          "known_for_department": "Art",
+          "name": "Tom Tierney",
+          "original_name": "Tom Tierney",
+          "popularity": 0.1141,
+          "profile_path": null,
+          "credit_id": "5a2d4751925141032c1509b0",
+          "department": "Art",
+          "job": "Construction Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1602319,
+          "known_for_department": "Production",
+          "name": "Vanessa Baker",
+          "original_name": "Vanessa Baker",
+          "popularity": 0.3553,
+          "profile_path": null,
+          "credit_id": "5a2d47c4c3a3680b881528cb",
+          "department": "Production",
+          "job": "ADR Voice Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 80261,
+          "known_for_department": "Directing",
+          "name": "Robin Hardy",
+          "original_name": "Robin Hardy",
+          "popularity": 0.6106,
+          "profile_path": "/d2tm32CAjnwij7ueeZRE5qNxCjP.jpg",
+          "credit_id": "5b2961c9c3a36847a8006ef2",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1680600,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Emma Scott",
+          "original_name": "Emma Scott",
+          "popularity": 0.2876,
+          "profile_path": null,
+          "credit_id": "66f8e4f2f5d56e9ed8a235bb",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3240384,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Julie MacKay",
+          "original_name": "Julie MacKay",
+          "popularity": 0.1533,
+          "profile_path": null,
+          "credit_id": "66f8e51a0f6fa2cfce5f5ac5",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1934058,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Claire Harris",
+          "original_name": "Claire Harris",
+          "popularity": 0.1569,
+          "profile_path": null,
+          "credit_id": "66f8e528a6293e3d76a234aa",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1082506,
+          "known_for_department": "Writing",
+          "name": "Alastair Gourlay",
+          "original_name": "Alastair Gourlay",
+          "popularity": 0.1301,
+          "profile_path": null,
+          "credit_id": "66f8e548271200492ecc3b87",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4969452,
+          "known_for_department": "Production",
+          "name": "Donough O'Brien",
+          "original_name": "Donough O'Brien",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "66f8e57a271200492ecc3bbb",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1393300,
+          "known_for_department": "Sound",
+          "name": "Jack Stew",
+          "original_name": "Jack Stew",
+          "popularity": 0.2824,
+          "profile_path": null,
+          "credit_id": "66f8e592f5d56e9ed8a235dd",
+          "department": "Sound",
+          "job": "Foley Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1393301,
+          "known_for_department": "Sound",
+          "name": "Ricky Butt",
+          "original_name": "Ricky Butt",
+          "popularity": 0.3238,
+          "profile_path": null,
+          "credit_id": "66f8e59ca6293e3d76a234bd",
+          "department": "Sound",
+          "job": "Foley Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1398918,
+          "known_for_department": "Sound",
+          "name": "Andrea King",
+          "original_name": "Andrea King",
+          "popularity": 0.2763,
+          "profile_path": null,
+          "credit_id": "66f8e5aea6293e3d76a234c2",
+          "department": "Sound",
+          "job": "Foley Artist"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Fantasia International Film Festival",
+              "release_date": "2011-07-19T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2011-08-27T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IE",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Horrorthon Festival Dublin",
+              "release_date": "2011-10-27T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "R",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2012-01-27T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "SV",
+          "title": "El Arbol de Mimbre",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "GB",
+          "title": "Cowboys for Christ",
+          "type": "working title"
+        },
+        {
+          "iso_3166_1": "GB",
+          "title": "The Riding of the Laddie",
+          "type": "working title"
+        },
+        {
+          "iso_3166_1": "GB",
+          "title": "May Day",
+          "type": "working title"
+        },
+        {
+          "iso_3166_1": "BR",
+          "title": "A Árvore de Palha",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "RU",
+          "title": "Плетеное дерево",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

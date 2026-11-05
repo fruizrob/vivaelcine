@@ -1,0 +1,107 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1727676?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:08.894Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1727676,
+    "imdb_id": null,
+    "origin_country": [
+      "PE"
+    ],
+    "original_language": "es",
+    "original_title": "Domingo",
+    "overview": "",
+    "popularity": 1.6672,
+    "poster_path": "/f6SOxN5FaQwVINvbomofcorC5q8.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "PE",
+        "name": "Peru"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 8,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Domingo",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2405763,
+          "known_for_department": "Acting",
+          "name": "Rómulo Assereto",
+          "original_name": "Rómulo Assereto",
+          "popularity": 0.2018,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "6a4d313905cd58f3d0a14c44",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4171497,
+          "known_for_department": "Acting",
+          "name": "Urpi Gibbons",
+          "original_name": "Urpi Gibbons",
+          "popularity": 0.4202,
+          "profile_path": "/8AI8cZHdCy1Qdea3z9DQYCeLdnq.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "6a4d31463b7ebb4dcd131a9b",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1685214,
+          "known_for_department": "Directing",
+          "name": "Rodrigo Moreno del Valle",
+          "original_name": "Rodrigo Moreno del Valle",
+          "popularity": 0.9373,
+          "profile_path": "/cBVVZUcnv3HuD5NG7aI7z7KwEpX.jpg",
+          "credit_id": "6a4d306a2bd16906dda14cba",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

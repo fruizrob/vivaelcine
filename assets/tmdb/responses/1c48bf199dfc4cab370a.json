@@ -1,0 +1,83 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1702813?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:57.010Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1702813,
+    "imdb_id": null,
+    "origin_country": [
+      "PE"
+    ],
+    "original_language": "es",
+    "original_title": "Lucha Fuentes: La leyenda vive",
+    "overview": "",
+    "popularity": 0.1414,
+    "poster_path": "/1rFcaBEeHFqV3a0FgiHTn7M6d6D.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "PE",
+        "name": "Peru"
+      }
+    ],
+    "release_date": "2021-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lucha Fuentes: La leyenda vive",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6242232,
+          "known_for_department": "Directing",
+          "name": "Kevin Carbonell",
+          "original_name": "Kevin Carbonell",
+          "popularity": 0.0936,
+          "profile_path": null,
+          "credit_id": "6a161012a36160ace9d47a08",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2021-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

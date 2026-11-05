@@ -1,0 +1,118 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/275750?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:54.476Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 275750,
+    "imdb_id": "tt0465513",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "La Lucha: The Struggle",
+    "overview": "",
+    "popularity": 0.4376,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 3086,
+        "logo_path": "/iksa7hXQMvPIzfSq0Tuo4WPU8gc.png",
+        "name": "Image Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2005-06-21",
+    "revenue": 0,
+    "runtime": 72,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Lucha: The Struggle",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1266662,
+          "known_for_department": "Acting",
+          "name": "Barbara Ann Duffy",
+          "original_name": "Barbara Ann Duffy",
+          "popularity": 1.3294,
+          "profile_path": null,
+          "cast_id": 0,
+          "character": "Herself",
+          "credit_id": "556d7d48c3a3680e8f0005bf",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 62797,
+          "known_for_department": "Directing",
+          "name": "John Gulager",
+          "original_name": "John Gulager",
+          "popularity": 0.5721,
+          "profile_path": "/3m6GVjYjjVthiwHmPJGXg7Q1cWV.jpg",
+          "credit_id": "6077647eb09bde0057d855a8",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1473176,
+          "known_for_department": "Directing",
+          "name": "Duncan MacLeod",
+          "original_name": "Duncan MacLeod",
+          "popularity": 0.2176,
+          "profile_path": null,
+          "credit_id": "556d7d5ec3a3680ea20005a9",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-06-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

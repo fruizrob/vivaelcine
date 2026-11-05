@@ -1,0 +1,471 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/54236?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:23.071Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/cp5zHIDPslNF7qxR7XV40ZDf7co.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 54236,
+    "imdb_id": "tt0072030",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "La prima Angélica",
+    "overview": "Un hombre vuelve a su pueblo natal para asistir al entierro de su madre. Allí, rememora su infancia y adolescencia, especialmente el amor que sentía por su prima Angélica.",
+    "popularity": 0.5982,
+    "poster_path": "/pJdOWXaKMl5EjYyBig2hpf9lOfG.jpg",
+    "production_companies": [
+      {
+        "id": 12009,
+        "logo_path": null,
+        "name": "Elías Querejeta PC",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "1974-04-28",
+    "revenue": 0,
+    "runtime": 107,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La prima Angélica",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 38,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 231170,
+          "known_for_department": "Acting",
+          "name": "José Luis López Vázquez",
+          "original_name": "José Luis López Vázquez",
+          "popularity": 1.5437,
+          "profile_path": "/3Gkpq4ZxUdsnz0XiqVXUVME6IGE.jpg",
+          "cast_id": 16,
+          "character": "Luis",
+          "credit_id": "5681d48d9251414ecb0037aa",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 54137,
+          "known_for_department": "Acting",
+          "name": "Lina Canalejas",
+          "original_name": "Lina Canalejas",
+          "popularity": 0.3344,
+          "profile_path": "/55he94nSiLJHIwOZ15eYxmle4q0.jpg",
+          "cast_id": 3,
+          "character": "Angélica",
+          "credit_id": "52fe4892c3a36847f816e7cf",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 147498,
+          "known_for_department": "Acting",
+          "name": "Fernando Delgado",
+          "original_name": "Fernando Delgado",
+          "popularity": 0.5508,
+          "profile_path": "/eEHJfb7O20XfIoquxsqsEGbG5sO.jpg",
+          "cast_id": 2,
+          "character": "Anselmo",
+          "credit_id": "52fe4892c3a36847f816e7cb",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 150170,
+          "known_for_department": "Production",
+          "name": "María Clara Fernández de Loaysa",
+          "original_name": "María Clara Fernández de Loaysa",
+          "popularity": 0.1467,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Angélica, child",
+          "credit_id": "52fe4892c3a36847f816e7d3",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1555019,
+          "known_for_department": "Acting",
+          "name": "María de la Riva",
+          "original_name": "María de la Riva",
+          "popularity": 0.379,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Abuela",
+          "credit_id": "5681d52a92514131df00f8d0",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 118127,
+          "known_for_department": "Acting",
+          "name": "Pedro Sempson",
+          "original_name": "Pedro Sempson",
+          "popularity": 0.2739,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Padre de Luis",
+          "credit_id": "59831a9ac3a36833f100dbb0",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1117119,
+          "known_for_department": "Acting",
+          "name": "Antonio Canal",
+          "original_name": "Antonio Canal",
+          "popularity": 0.4264,
+          "profile_path": "/ty5Qr9q4WcbQlow2wVyRwMkie2X.jpg",
+          "cast_id": 20,
+          "character": "Soldado",
+          "credit_id": "59831ac4c3a3682f7800db37",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 228499,
+          "known_for_department": "Acting",
+          "name": "Marisa Porcel",
+          "original_name": "Marisa Porcel",
+          "popularity": 0.5335,
+          "profile_path": "/5oQBGPTAU9dQsTSQlR0YrA2EfeD.jpg",
+          "cast_id": 21,
+          "character": "",
+          "credit_id": "59831ad0c3a36833f100dbe0",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1170035,
+          "known_for_department": "Acting",
+          "name": "Pedrín Fernández",
+          "original_name": "Pedrín Fernández",
+          "popularity": 0.4379,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "",
+          "credit_id": "59831ad5c3a3682f7800db53",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1695893,
+          "known_for_department": "Acting",
+          "name": "Trinidad Rugero",
+          "original_name": "Trinidad Rugero",
+          "popularity": 1.1662,
+          "profile_path": "/3GBrXRGEfiyuQqwNwSfsNrfMgyX.jpg",
+          "cast_id": 23,
+          "character": "",
+          "credit_id": "59831aea92514141b300e5bf",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 37843,
+          "known_for_department": "Acting",
+          "name": "José Villasante",
+          "original_name": "José Villasante",
+          "popularity": 0.4356,
+          "profile_path": "/76r6Lp4kHv9EZ4dRKT0c4OBbWa3.jpg",
+          "cast_id": 24,
+          "character": "",
+          "credit_id": "59831af4c3a3682f7800db7a",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 25259,
+          "known_for_department": "Acting",
+          "name": "Lola Cardona",
+          "original_name": "Lola Cardona",
+          "popularity": 0.2576,
+          "profile_path": "/bluLtr05C17EnxcaoHlS9Yi3C0Z.jpg",
+          "cast_id": 18,
+          "character": "Tía Pilar",
+          "credit_id": "587e9f55925141414301cb8a",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1365418,
+          "known_for_department": "Acting",
+          "name": "Josefina Díaz",
+          "original_name": "Josefina Díaz",
+          "popularity": 0.2908,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "Tía Pilar",
+          "credit_id": "59831b1892514141b300e5f4",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1005046,
+          "known_for_department": "Acting",
+          "name": "Encarna Paso",
+          "original_name": "Encarna Paso",
+          "popularity": 0.4345,
+          "profile_path": "/3mDiXsoHZxgKU0N08fpATztghUY.jpg",
+          "cast_id": 26,
+          "character": "Madre de Luis",
+          "credit_id": "59831b339251413d0e00e902",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1693895,
+          "known_for_department": "Acting",
+          "name": "José Luis Heredia",
+          "original_name": "José Luis Heredia",
+          "popularity": 1.4127,
+          "profile_path": null,
+          "cast_id": 27,
+          "character": "Felipe Sagún",
+          "credit_id": "59831b42c3a368333d00df82",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 239207,
+          "known_for_department": "Acting",
+          "name": "Luis Peña",
+          "original_name": "Luis Peña",
+          "popularity": 0.8057,
+          "profile_path": "/mqU7CnyBqsge5PpMYkN4UBXDn0g.jpg",
+          "cast_id": 28,
+          "character": "Sacerdote",
+          "credit_id": "5fe1c59e15376c003eb65aad",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 25257,
+          "known_for_department": "Acting",
+          "name": "Julieta Serrano",
+          "original_name": "Julieta Serrano",
+          "popularity": 0.4041,
+          "profile_path": "/3eVHZ5gieSxNYUJRXaYLDaljDQO.jpg",
+          "cast_id": 29,
+          "character": "Monja",
+          "credit_id": "5fe1c5a9d29bdd003f70d2bc",
+          "order": 16
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 96369,
+          "known_for_department": "Directing",
+          "name": "Carlos Saura",
+          "original_name": "Carlos Saura",
+          "popularity": 0.5157,
+          "profile_path": "/jl9f6AiXClspedvewZ2akbhGoQG.jpg",
+          "credit_id": "52fe4892c3a36847f816e7dd",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 96369,
+          "known_for_department": "Directing",
+          "name": "Carlos Saura",
+          "original_name": "Carlos Saura",
+          "popularity": 0.5157,
+          "profile_path": "/jl9f6AiXClspedvewZ2akbhGoQG.jpg",
+          "credit_id": "52fe4892c3a36847f816e7e9",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 104130,
+          "known_for_department": "Directing",
+          "name": "Paco Lucio",
+          "original_name": "Paco Lucio",
+          "popularity": 0.2873,
+          "profile_path": null,
+          "credit_id": "5681d466925141133400963a",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 37590,
+          "known_for_department": "Writing",
+          "name": "Rafael Azcona",
+          "original_name": "Rafael Azcona",
+          "popularity": 0.4927,
+          "profile_path": "/lmNHJhGZAClCrw7YH3l6LMkAA0e.jpg",
+          "credit_id": "5681d3e89251417ddd012007",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 13833,
+          "known_for_department": "Production",
+          "name": "Elías Querejeta",
+          "original_name": "Elías Querejeta",
+          "popularity": 0.2993,
+          "profile_path": "/lDnLqabKaVCQC24EIPdts0TlzMb.jpg",
+          "credit_id": "5681d3fc9251414f6300b345",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16877,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Maiki Marín",
+          "original_name": "Maiki Marín",
+          "popularity": 0.2964,
+          "profile_path": "/4Fq9CIQ2S43F2TuNROIO3uW5Jka.jpg",
+          "credit_id": "5681d4179251417def0124f6",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 37836,
+          "known_for_department": "Camera",
+          "name": "Luis Cuadrado",
+          "original_name": "Luis Cuadrado",
+          "popularity": 0.3478,
+          "profile_path": "/hSaJ9EOwzylBQjUkhHmp8dLSc6F.jpg",
+          "credit_id": "5681d422c3a3682abc00af36",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 931326,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Francisco Nieva",
+          "original_name": "Francisco Nieva",
+          "popularity": 0.2612,
+          "profile_path": null,
+          "credit_id": "5681d439c3a3682abc00af3e",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32212,
+          "known_for_department": "Editing",
+          "name": "Pablo G. del Amo",
+          "original_name": "Pablo G. del Amo",
+          "popularity": 1.1773,
+          "profile_path": "/tkygQV2ybve0GLCEefoxSJp7P9n.jpg",
+          "credit_id": "5681d4089251417ddd01200f",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1974-04-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1974-05-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1974-10-30T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "GB",
+          "title": "Cousin Angelica",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

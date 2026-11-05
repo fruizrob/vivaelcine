@@ -1,0 +1,130 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1103772?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:33.489Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/uObh6kQjamybiH0eLGYpo5wRHnS.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1103772,
+    "imdb_id": null,
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "en",
+    "original_title": "Seasons of the Otter",
+    "overview": "",
+    "popularity": 0.4974,
+    "poster_path": "/jYf40IWL2Kwsv8OaRNahspSpIeh.jpg",
+    "production_companies": [
+      {
+        "id": 86718,
+        "logo_path": "/tw1SVioAxByZQqUlZLEoE6ofoiO.png",
+        "name": "Doclights",
+        "origin_country": "DE"
+      },
+      {
+        "id": 18407,
+        "logo_path": "/cI9BOAZbURxD8hrbtbB4ncwZzox.png",
+        "name": "NDR Naturfilm",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2021-12-21",
+    "revenue": 0,
+    "runtime": 48,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Seasons of the Otter",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2763550,
+          "known_for_department": "Acting",
+          "name": "Andy Wisher",
+          "original_name": "Andy Wisher",
+          "popularity": 0.1776,
+          "profile_path": "/iVQAE7kNXSPy4ivFYhupXSwUH9N.jpg",
+          "cast_id": 3,
+          "character": "Self - Narrator (voice)",
+          "credit_id": "641c73e024b33300d7261015",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3491795,
+          "known_for_department": "Editing",
+          "name": "Zilke Lemmer",
+          "original_name": "Zilke Lemmer",
+          "popularity": 0.3889,
+          "profile_path": null,
+          "credit_id": "641c73c295c0af00f7086d0c",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2507814,
+          "known_for_department": "Production",
+          "name": "Phil Coles",
+          "original_name": "Phil Coles",
+          "popularity": 0.3062,
+          "profile_path": null,
+          "credit_id": "641c73af95c0af00c5af704c",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "Curiosity Stream",
+              "release_date": "2021-12-21T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

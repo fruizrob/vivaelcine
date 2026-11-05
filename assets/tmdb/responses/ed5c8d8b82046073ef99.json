@@ -1,0 +1,136 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1708965?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:02.224Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/2Ui4PpRCHDAxXpnueb6iNw3dUMU.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1708965,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Geldus and the Welcoming Stranger",
+    "overview": "",
+    "popularity": 0.1536,
+    "poster_path": "/rUgrJ2ErJBY4uMACtbrf5i7PAZJ.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2025-12-05",
+    "revenue": 0,
+    "runtime": 1,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Geldus and the Welcoming Stranger",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5437247,
+          "known_for_department": "Acting",
+          "name": "Roxanne Flood",
+          "original_name": "Roxanne Flood",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Welcoming Stranger",
+          "credit_id": "6a2308a3c6bf46684c373057",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5437246,
+          "known_for_department": "Acting",
+          "name": "Casey Drilingas",
+          "original_name": "Casey Drilingas",
+          "popularity": 0.1073,
+          "profile_path": null,
+          "credit_id": "6a2308bf4b2c42ac04ecd3c4",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5437247,
+          "known_for_department": "Acting",
+          "name": "Roxanne Flood",
+          "original_name": "Roxanne Flood",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "6a2308d322f26dc9d6496176",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5437247,
+          "known_for_department": "Acting",
+          "name": "Roxanne Flood",
+          "original_name": "Roxanne Flood",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "6a2308e443be953b5becd444",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5437247,
+          "known_for_department": "Acting",
+          "name": "Roxanne Flood",
+          "original_name": "Roxanne Flood",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "6a2308f25a70382b6e372ff4",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2025-12-05T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

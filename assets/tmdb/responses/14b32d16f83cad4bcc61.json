@@ -1,0 +1,154 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1318844?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:21.128Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1318844,
+    "imdb_id": null,
+    "origin_country": [
+      "VN"
+    ],
+    "original_language": "vi",
+    "original_title": "Ký Ức Ký Ức",
+    "overview": "",
+    "popularity": 0.374,
+    "poster_path": "/4e232xJChVJt3hvoPLCLxPCWOTg.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2024-07-21",
+    "revenue": 0,
+    "runtime": 23,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Vietnamese",
+        "iso_639_1": "vi",
+        "name": "Tiếng Việt"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ký Ức Ký Ức",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4838591,
+          "known_for_department": "Writing",
+          "name": "Thao Nguyen Dang",
+          "original_name": "Thao Nguyen Dang",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "669aa2229c1ecafe388309ff",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4838591,
+          "known_for_department": "Writing",
+          "name": "Thao Nguyen Dang",
+          "original_name": "Thao Nguyen Dang",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "669aa2314a882bfd832fe3bf",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 4838592,
+          "known_for_department": "Production",
+          "name": "Than Ha Khanh Linh",
+          "original_name": "Than Ha Khanh Linh",
+          "popularity": 0.1002,
+          "profile_path": null,
+          "credit_id": "669aa24387eaa4a41d5840bc",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4838591,
+          "known_for_department": "Writing",
+          "name": "Thao Nguyen Dang",
+          "original_name": "Thao Nguyen Dang",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "669aa24c31afcfe8f76e2049",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 4838592,
+          "known_for_department": "Production",
+          "name": "Than Ha Khanh Linh",
+          "original_name": "Than Ha Khanh Linh",
+          "popularity": 0.1002,
+          "profile_path": null,
+          "credit_id": "68748730801300afd85ae500",
+          "department": "Crew",
+          "job": "Cinematography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "TH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "vi",
+              "note": "10th International Festival Signes de Nuit - Bangkok",
+              "release_date": "2024-07-21T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Women Make Waves International Film Festival",
+              "release_date": "2026-10-17T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

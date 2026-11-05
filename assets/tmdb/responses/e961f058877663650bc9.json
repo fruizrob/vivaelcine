@@ -1,0 +1,101 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1692222?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:30.359Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1692222,
+    "imdb_id": null,
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Dalla terra al mare",
+    "overview": "",
+    "popularity": 0.3583,
+    "poster_path": "/10hIBMcuFsCNc6tkFbogCl80Eoe.jpg",
+    "production_companies": [
+      {
+        "id": 299757,
+        "logo_path": null,
+        "name": "Global Sumud Flotilla",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "2026-05-07",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dalla terra al mare",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3434144,
+          "known_for_department": "Acting",
+          "name": "Lorenzo Baldi",
+          "original_name": "Lorenzo Baldi",
+          "popularity": 0.1009,
+          "profile_path": null,
+          "credit_id": "6a15f1adf0750aa6997794e6",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "it",
+              "note": "https://openddb.it/film/dalla-terra-al-mare/",
+              "release_date": "2026-05-07T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

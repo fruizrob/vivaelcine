@@ -1,0 +1,79 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1261240?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:34.845Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/gsulKpphp0ttEeFOtjXcliUDAQU.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 1261240,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Vivaldi: The Four Seasons",
+    "overview": "",
+    "popularity": 0.4249,
+    "poster_path": "/pRcdr6G1U0IRK1EMXFsP6GZpcAD.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2006-01-02",
+    "revenue": 0,
+    "runtime": 55,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Vivaldi: The Four Seasons",
+    "video": true,
+    "vote_average": 9,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3268258,
+          "known_for_department": "Acting",
+          "name": "Cho-Liang Lin",
+          "original_name": "Cho-Liang Lin",
+          "popularity": 0.2711,
+          "profile_path": "/seFg1b74WfAIr45PjMxXsDO7poL.jpg",
+          "cast_id": 1,
+          "character": "Self - Violin",
+          "credit_id": "65f8905881da390186659cf1",
+          "order": 0
+        }
+      ],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-01-02T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

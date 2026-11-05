@@ -1,0 +1,583 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1385691?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:39.104Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/pkupGJVZ4LkG3I02N4pdGiQRHNr.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1385691,
+    "imdb_id": "tt26733335",
+    "origin_country": [
+      "FR",
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Terra incognita",
+    "overview": "",
+    "popularity": 1.4224,
+    "poster_path": "/xpUWS6hxVwExqQ0E8EdpAe17qq4.jpg",
+    "production_companies": [
+      {
+        "id": 172990,
+        "logo_path": "/9GbSwFiXzh8eIiqte9jWIWZ8C7g.png",
+        "name": "Les Alchimistes",
+        "origin_country": "FR"
+      },
+      {
+        "id": 185528,
+        "logo_path": null,
+        "name": "Bip TV",
+        "origin_country": "FR"
+      },
+      {
+        "id": 155990,
+        "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+        "name": "RAI Cinema",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2024-11-08",
+    "revenue": 0,
+    "runtime": 93,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra incognita",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2178770,
+          "known_for_department": "Directing",
+          "name": "Enrico Masi",
+          "original_name": "Enrico Masi",
+          "popularity": 0.1691,
+          "profile_path": "/4X5SnbnojGGmLlXIsBThqRiuhVk.jpg",
+          "credit_id": "673105fbfe84cb070058ff6c",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1176408,
+          "known_for_department": "Writing",
+          "name": "Stefano Migliore",
+          "original_name": "Stefano Migliore",
+          "popularity": 0.531,
+          "profile_path": null,
+          "credit_id": "682ad88fe19cab56120bd704",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2178770,
+          "known_for_department": "Directing",
+          "name": "Enrico Masi",
+          "original_name": "Enrico Masi",
+          "popularity": 0.1691,
+          "profile_path": "/4X5SnbnojGGmLlXIsBThqRiuhVk.jpg",
+          "credit_id": "682ad89de1b02296f58c05de",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1176408,
+          "known_for_department": "Writing",
+          "name": "Stefano Migliore",
+          "original_name": "Stefano Migliore",
+          "popularity": 0.531,
+          "profile_path": null,
+          "credit_id": "682ad8b95af708fe099e3718",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3633127,
+          "known_for_department": "Production",
+          "name": "Loïs Rocque",
+          "original_name": "Loïs Rocque",
+          "popularity": 0.165,
+          "profile_path": null,
+          "credit_id": "682ad8c929b78a28ca8c05d7",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 128756,
+          "known_for_department": "Directing",
+          "name": "Stefano Croci",
+          "original_name": "Stefano Croci",
+          "popularity": 0.2873,
+          "profile_path": null,
+          "credit_id": "682ad8f0f43368e0f5e24f2f",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 238075,
+          "known_for_department": "Editing",
+          "name": "Benni Atria",
+          "original_name": "Benni Atria",
+          "popularity": 0.3932,
+          "profile_path": null,
+          "credit_id": "682ad8fd8e0013b8515b578c",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4326651,
+          "known_for_department": "Editing",
+          "name": "Carlotta Guaraldo",
+          "original_name": "Carlotta Guaraldo",
+          "popularity": 0.147,
+          "profile_path": null,
+          "credit_id": "682ad90b5211a914f28c05ce",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2225186,
+          "known_for_department": "Sound",
+          "name": "Jacopo Bonora",
+          "original_name": "Jacopo Bonora",
+          "popularity": 0.1453,
+          "profile_path": null,
+          "credit_id": "69d524544402acf663edf5d4",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3555806,
+          "known_for_department": "Sound",
+          "name": "Gilles Cabau",
+          "original_name": "Gilles Cabau",
+          "popularity": 0.1295,
+          "profile_path": null,
+          "credit_id": "69d52466d9c71a73bdedf7e1",
+          "department": "Sound",
+          "job": "Sound Re-Recording Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6125034,
+          "known_for_department": "Sound",
+          "name": "Alexandre Frigoult Rabehasaina",
+          "original_name": "Alexandre Frigoult Rabehasaina",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69d52476737a897621cc01b1",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4326651,
+          "known_for_department": "Editing",
+          "name": "Carlotta Guaraldo",
+          "original_name": "Carlotta Guaraldo",
+          "popularity": 0.147,
+          "profile_path": null,
+          "credit_id": "69d524825ca4e2e819ca8306",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3741929,
+          "known_for_department": "Sound",
+          "name": "Antoine Pradalet",
+          "original_name": "Antoine Pradalet",
+          "popularity": 0.6623,
+          "profile_path": null,
+          "credit_id": "69d5249129a7456d9dca8288",
+          "department": "Sound",
+          "job": "Sound Re-Recording Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5598475,
+          "known_for_department": "Acting",
+          "name": "Fabrizio Puglisi",
+          "original_name": "Fabrizio Puglisi",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6a070fb372458a506703e7cc",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4326656,
+          "known_for_department": "Art",
+          "name": "Tomas Rigoni",
+          "original_name": "Tomas Rigoni",
+          "popularity": 0.1681,
+          "profile_path": null,
+          "credit_id": "6a070fbdd75f6328c8b8f21b",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4326652,
+          "known_for_department": "Production",
+          "name": "Alice Solinas",
+          "original_name": "Alice Solinas",
+          "popularity": 0.1532,
+          "profile_path": null,
+          "credit_id": "6a070fcca41de53ceaebfb54",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2313008,
+          "known_for_department": "Directing",
+          "name": "Maddie Gwinn",
+          "original_name": "Maddie Gwinn",
+          "popularity": 0.274,
+          "profile_path": "/6FLEieHSK6EAUm9MdHI5gLEJ3Sw.jpg",
+          "credit_id": "6a070fd5a5a5b294a320290c",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3243792,
+          "known_for_department": "Directing",
+          "name": "Alessandra Lancellotti",
+          "original_name": "Alessandra Lancellotti",
+          "popularity": 0.1688,
+          "profile_path": null,
+          "credit_id": "6a070fe10844292f8403e794",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3230606,
+          "known_for_department": "Production",
+          "name": "Davide Rabacchin",
+          "original_name": "Davide Rabacchin",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6a070febcf5bad801073483e",
+          "department": "Directing",
+          "job": "Second Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2225186,
+          "known_for_department": "Sound",
+          "name": "Jacopo Bonora",
+          "original_name": "Jacopo Bonora",
+          "popularity": 0.1453,
+          "profile_path": null,
+          "credit_id": "6a070ff49c9927555a03e672",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3593546,
+          "known_for_department": "Sound",
+          "name": "Malte Preuß",
+          "original_name": "Malte Preuß",
+          "popularity": 0.4173,
+          "profile_path": null,
+          "credit_id": "6a0710115db8cf2db127eb0f",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3018285,
+          "known_for_department": "Acting",
+          "name": "Vincent Rochette",
+          "original_name": "Vincent Rochette",
+          "popularity": 0.6326,
+          "profile_path": null,
+          "credit_id": "6a07101b953ae3af35ebfc56",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 128756,
+          "known_for_department": "Directing",
+          "name": "Stefano Croci",
+          "original_name": "Stefano Croci",
+          "popularity": 0.2873,
+          "profile_path": null,
+          "credit_id": "6a071029a5a5b294a3202918",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2178770,
+          "known_for_department": "Directing",
+          "name": "Enrico Masi",
+          "original_name": "Enrico Masi",
+          "popularity": 0.1691,
+          "profile_path": "/4X5SnbnojGGmLlXIsBThqRiuhVk.jpg",
+          "credit_id": "6a0710382dbd76db912ddf43",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3230606,
+          "known_for_department": "Production",
+          "name": "Davide Rabacchin",
+          "original_name": "Davide Rabacchin",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6a071042a5f48be6152029fb",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3783673,
+          "known_for_department": "Camera",
+          "name": "Florian Rigal",
+          "original_name": "Florian Rigal",
+          "popularity": 0.1221,
+          "profile_path": null,
+          "credit_id": "6a07104ccce6b3e430826b0c",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4326656,
+          "known_for_department": "Art",
+          "name": "Tomas Rigoni",
+          "original_name": "Tomas Rigoni",
+          "popularity": 0.1681,
+          "profile_path": null,
+          "credit_id": "6a071055e634f4615f3da14e",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3343221,
+          "known_for_department": "Directing",
+          "name": "Chiara Andrich",
+          "original_name": "Chiara Andrich",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6a07105fd75f6328c8b8f225",
+          "department": "Editing",
+          "job": "Assistant Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1406453,
+          "known_for_department": "Directing",
+          "name": "Danilo Monte",
+          "original_name": "Danilo Monte",
+          "popularity": 0.395,
+          "profile_path": null,
+          "credit_id": "6a07106d2a0c16b6553da04d",
+          "department": "Editing",
+          "job": "Assistant Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3181720,
+          "known_for_department": "Directing",
+          "name": "Stefania Muresu",
+          "original_name": "Stefania Muresu",
+          "popularity": 0.1826,
+          "profile_path": null,
+          "credit_id": "6a0710771bdbb593d7202a32",
+          "department": "Editing",
+          "job": "Assistant Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3230606,
+          "known_for_department": "Production",
+          "name": "Davide Rabacchin",
+          "original_name": "Davide Rabacchin",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6a0710816b0ad5b3dd3da2f9",
+          "department": "Editing",
+          "job": "Assistant Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1123188,
+          "known_for_department": "Art",
+          "name": "Aldo Marini",
+          "original_name": "Aldo Marini",
+          "popularity": 0.2018,
+          "profile_path": null,
+          "credit_id": "6a07108bcce6b3e430826b19",
+          "department": "Sound",
+          "job": "Music Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1489037,
+          "known_for_department": "Sound",
+          "name": "Vincenzo Vasi",
+          "original_name": "Vincenzo Vasi",
+          "popularity": 0.2043,
+          "profile_path": null,
+          "credit_id": "6a07109c194475ebab3da156",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2223613,
+          "known_for_department": "Editing",
+          "name": "Enguerrand Dumont",
+          "original_name": "Enguerrand Dumont",
+          "popularity": 0.3011,
+          "profile_path": null,
+          "credit_id": "6a0710a6a27495a34d2ddfda",
+          "department": "Editing",
+          "job": "Colorist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3741929,
+          "known_for_department": "Sound",
+          "name": "Antoine Pradalet",
+          "original_name": "Antoine Pradalet",
+          "popularity": 0.6623,
+          "profile_path": null,
+          "credit_id": "6a08b9213647ba21165fe1bd",
+          "department": "Sound",
+          "job": "Scoring Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6215737,
+          "known_for_department": "Crew",
+          "name": "Emmanuel Desbouiges",
+          "original_name": "Emmanuel Desbouiges",
+          "popularity": 0.1674,
+          "profile_path": null,
+          "credit_id": "6a09988198ae4d01f72935de",
+          "department": "Crew",
+          "job": "Post Production Supervisor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2024-11-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

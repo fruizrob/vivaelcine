@@ -1,0 +1,73 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1801075?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:31.114Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1801075,
+    "imdb_id": null,
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Il sacrificio alla terra",
+    "overview": "",
+    "popularity": 0.1706,
+    "poster_path": "/bbcY2yv9K7P7vBMnQ5sz56VS6h5.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Il sacrificio alla terra",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6558484,
+          "known_for_department": "Directing",
+          "name": "Chiara Satta",
+          "original_name": "Chiara Satta",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6ad50cd940b8d712d11e6041",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "it",
+              "note": "Believe Film Festival 2026",
+              "release_date": "2026-10-16T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

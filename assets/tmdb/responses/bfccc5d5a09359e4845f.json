@@ -1,0 +1,73 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/967320?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:16.819Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 967320,
+    "imdb_id": null,
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_title": "The Beginning",
+    "overview": "",
+    "popularity": 0.4167,
+    "poster_path": "/xKQf093I1RqU8UDX0tlG4pIeUUU.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2011-01-01",
+    "revenue": 0,
+    "runtime": 2,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Beginning",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3522230,
+          "known_for_department": "Directing",
+          "name": "Juana Awad",
+          "original_name": "Juana Awad",
+          "popularity": 0.2103,
+          "profile_path": null,
+          "credit_id": "626639e375f1ad00aab30918",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2011-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

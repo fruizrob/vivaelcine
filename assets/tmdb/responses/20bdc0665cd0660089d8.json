@@ -1,0 +1,772 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/66628?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:35.598Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/gycYN1415wE8lareLQL38MYW0mG.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "id": 66628,
+    "imdb_id": "tt0081648",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "地球へ…",
+    "overview": "Desde el confín del universo nos llegan mensajes de seres inteligentes que aún no sabemos descifrar. Estación Atalaksia, en otra galaxia, el desarrollo de una nueva civilización, los Mius. En un ambiente de naves espaciales, supercomputadoras, tecnología y poderes mentales increíbles. El futuro. La polución descontrolada modificó el clima de la tierra haciéndola inhabitable. El hombre responsable de ese temible flagelo se vio obligado a marcharse en busca de una nueva forma de vida donde imperara un orden que lo protegiera aun de sí mismo. Pero en su espíritu. Después del transcurso de muchas generaciones, esta supercivilización sigue anidando el ansiado retorno, hacia los orígenes, \"Hacia la Tierra\".",
+    "popularity": 1.3565,
+    "poster_path": "/owNyTrZDbQS797bcXeLZovKPcCQ.jpg",
+    "production_companies": [
+      {
+        "id": 5542,
+        "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+        "name": "Toei Animation",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "1980-04-26",
+    "revenue": 0,
+    "runtime": 113,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra e…",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 29,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1512693,
+          "known_for_department": "Acting",
+          "name": "井上純一",
+          "original_name": "井上純一",
+          "popularity": 0.6418,
+          "profile_path": "/ugF6lrX2Luh00680hJuoBWEFZId.jpg",
+          "cast_id": 35,
+          "character": "Jomy Marcus Shin (voice)",
+          "credit_id": "5d1e764055b0c07f3b6e6008",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1307913,
+          "known_for_department": "Acting",
+          "name": "沖雅也",
+          "original_name": "沖雅也",
+          "popularity": 0.7828,
+          "profile_path": "/iZpRN7Tmjbq1NPXxw9M4n29hnKU.jpg",
+          "cast_id": 6,
+          "character": "Keith Anyan (voice)",
+          "credit_id": "5d1e7386a13533000f0b073e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 984866,
+          "known_for_department": "Acting",
+          "name": "秋吉久美子",
+          "original_name": "秋吉久美子",
+          "popularity": 1.2129,
+          "profile_path": "/sRVgeoWaVl0wzO0LvD19AoFOcxC.jpg",
+          "cast_id": 5,
+          "character": "Physis (voice)",
+          "credit_id": "5d1e737194d8a8049a3c1fe3",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 122578,
+          "known_for_department": "Acting",
+          "name": "志垣太郎",
+          "original_name": "志垣太郎",
+          "popularity": 0.6599,
+          "profile_path": "/ljKJFUNA8BqrqhKfIi8AD30YQS1.jpg",
+          "cast_id": 26,
+          "character": "Soldier Blue (voice)",
+          "credit_id": "5d1e75496743fa0011d227c1",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 118407,
+          "known_for_department": "Acting",
+          "name": "薬師丸ひろ子",
+          "original_name": "薬師丸ひろ子",
+          "popularity": 1.7002,
+          "profile_path": "/qfBiEx267wNsimyHX4BDeTc94Hk.jpg",
+          "cast_id": 12,
+          "character": "Jona Macka (voice)",
+          "credit_id": "5d1e742f55b0c07f3b6e5a17",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 40327,
+          "known_for_department": "Acting",
+          "name": "Toru Furuya",
+          "original_name": "古谷徹",
+          "popularity": 1.4681,
+          "profile_path": "/2et31Lo8I0gRbyYFaOu3TBRby7U.jpg",
+          "cast_id": 28,
+          "character": "Tony (voice)",
+          "credit_id": "5d1e75766743fa0014d231e9",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 54690,
+          "known_for_department": "Acting",
+          "name": "Akira Kamiya",
+          "original_name": "神谷明",
+          "popularity": 1.4021,
+          "profile_path": "/tJRMwbWFObv03KhATALs0Xbbgq7.jpg",
+          "cast_id": 7,
+          "character": "Seki Ray Shiroe (voice)",
+          "credit_id": "5d1e73b66743fa3193d159a5",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 122481,
+          "known_for_department": "Acting",
+          "name": "Banjo Ginga",
+          "original_name": "銀河万丈",
+          "popularity": 1.4043,
+          "profile_path": "/qiXnKaZheMiVyA1U2mX9tPdNA3T.jpg",
+          "cast_id": 8,
+          "character": "E1077 / Papa (voice)",
+          "credit_id": "5d1e73c955b0c01c356f0e05",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1184454,
+          "known_for_department": "Acting",
+          "name": "川島千代子",
+          "original_name": "川島千代子",
+          "popularity": 1.3698,
+          "profile_path": "/uCL7tlnrLjx0Fx1jC0su5WckMoX.jpg",
+          "cast_id": 9,
+          "character": "Tony (child) (voice)",
+          "credit_id": "5d1e73dc94d8a820fb3ee3f2",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 109747,
+          "known_for_department": "Acting",
+          "name": "増山江威子",
+          "original_name": "増山江威子",
+          "popularity": 0.8917,
+          "profile_path": "/fH9CX5DVv4pyYW7w924hwshKCOC.jpg",
+          "cast_id": 10,
+          "character": "Teraz No 5 (voice)",
+          "credit_id": "5d1e73fe94d8a8049a3c21fb",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1213848,
+          "known_for_department": "Acting",
+          "name": "Hidekatsu Shibata",
+          "original_name": "柴田秀勝",
+          "popularity": 1.1262,
+          "profile_path": "/hnKQe1GpuLAZY8pDnJc6eXIQzfv.jpg",
+          "cast_id": 11,
+          "character": "Zel (voice)",
+          "credit_id": "5d1e740ea135337b2f06c7f6",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 554368,
+          "known_for_department": "Acting",
+          "name": "石丸博也",
+          "original_name": "石丸博也",
+          "popularity": 0.9466,
+          "profile_path": "/6h15xlrU8rSQgfH2dreDrYx0Y1z.jpg",
+          "cast_id": 13,
+          "character": "Sam Houston (voice)",
+          "credit_id": "5d1e744294d8a849843bbf1b",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 619,
+          "known_for_department": "Acting",
+          "name": "Joji Yanami",
+          "original_name": "八奈見乗児",
+          "popularity": 1.1998,
+          "profile_path": "/khkGvegnYvx50pAEF1lms7ZKBqy.jpg",
+          "cast_id": 14,
+          "character": "Doctor (voice)",
+          "credit_id": "5d1e744d94d8a8049a3c23c7",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 126284,
+          "known_for_department": "Acting",
+          "name": "岸野一彦",
+          "original_name": "岸野一彦",
+          "popularity": 0.8064,
+          "profile_path": "/oPXEBas9HlegKhStaJIDBnMSgRJ.jpg",
+          "cast_id": 39,
+          "character": "Man in white (voice)",
+          "credit_id": "5fce3fcfa5743d004009e7e6",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 111965,
+          "known_for_department": "Acting",
+          "name": "Keiichi Noda",
+          "original_name": "野田圭一",
+          "popularity": 0.9117,
+          "profile_path": "/cWeP5BjPWSzQPLhCCAXrxHqb7KF.jpg",
+          "cast_id": 16,
+          "character": "Harley (voice)",
+          "credit_id": "5d1e747d94d8a8049a3c2447",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2354619,
+          "known_for_department": "Acting",
+          "name": "三景啓司",
+          "original_name": "三景啓司",
+          "popularity": 0.5052,
+          "profile_path": "/jXG7pg3tw1NU9QnWiBoPlchQpB5.jpg",
+          "cast_id": 17,
+          "character": "Leo (voice)",
+          "credit_id": "5d1e74896743fa0012d21cc9",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 551647,
+          "known_for_department": "Acting",
+          "name": "戸谷公次",
+          "original_name": "戸谷公次",
+          "popularity": 0.7812,
+          "profile_path": "/sGfFeI9aYv9GtmmsoYiQoddrl6K.jpg",
+          "cast_id": 18,
+          "character": "Admiral Kuf (voice)",
+          "credit_id": "5d1e7498a135337b2f06c8a3",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1241621,
+          "known_for_department": "Acting",
+          "name": "北川米彦",
+          "original_name": "北川米彦",
+          "popularity": 0.5377,
+          "profile_path": "/1YthujqBjRy5XhYftjnBCNJ5GdC.jpg",
+          "cast_id": 19,
+          "character": "Professor (voice)",
+          "credit_id": "5d1e74c16743fa3193d15c5b",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 94188,
+          "known_for_department": "Acting",
+          "name": "岸田今日子",
+          "original_name": "岸田今日子",
+          "popularity": 0.8381,
+          "profile_path": "/d5raLmrkUXAgJ7kN17Uedwwu4iD.jpg",
+          "cast_id": 20,
+          "character": "Grandmother (voice)",
+          "credit_id": "5d1e74d16743fa3193d15ca4",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1680,
+          "known_for_department": "Acting",
+          "name": "Mami Koyama",
+          "original_name": "小山茉美",
+          "popularity": 1.8837,
+          "profile_path": "/4KjDxYsa7mMh8gbqSKCV2DixDAx.jpg",
+          "cast_id": 21,
+          "character": "Carina (voice)",
+          "credit_id": "5d1e74de94d8a8049a3c2572",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 90497,
+          "known_for_department": "Acting",
+          "name": "Masako Ikeda",
+          "original_name": "池田昌子",
+          "popularity": 0.9396,
+          "profile_path": "/rwTLLiCs6xvX7RFLDsoQhgixLnd.jpg",
+          "cast_id": 23,
+          "character": "Mother Eliza (voice)",
+          "credit_id": "5d1e7505a135337b2f06ca58",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2354621,
+          "known_for_department": "Acting",
+          "name": "Sumie Noguchi",
+          "original_name": "Sumie Noguchi",
+          "popularity": 0.0909,
+          "profile_path": "/7zdbLszA8LIkCeI7u75xUt6BKVN.jpg",
+          "cast_id": 25,
+          "character": "Era (voice)",
+          "credit_id": "5d1e753255b0c0638e69dcfe",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 144100,
+          "known_for_department": "Acting",
+          "name": "藤田淑子",
+          "original_name": "藤田淑子",
+          "popularity": 1.0054,
+          "profile_path": "/2u93ywtn7Xax1dEALrjOGGHg5hL.jpg",
+          "cast_id": 29,
+          "character": "Mama (voice)",
+          "credit_id": "5d1e7585a1353300110b2b02",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 554387,
+          "known_for_department": "Acting",
+          "name": "Masaharu Satō",
+          "original_name": "佐藤正治",
+          "popularity": 0.8173,
+          "profile_path": "/lSmnhprafAe4RI27AZMzDpQ3Rjz.jpg",
+          "cast_id": 22,
+          "character": "Police officer (voice)",
+          "credit_id": "5d1e74f994d8a820fb3ee7ba",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1253020,
+          "known_for_department": "Acting",
+          "name": "Toyoko Komazawa",
+          "original_name": "Toyoko Komazawa",
+          "popularity": 0.2342,
+          "profile_path": null,
+          "cast_id": 30,
+          "character": "Mu boy A (voice)",
+          "credit_id": "5d1e75926743fa0014d23203",
+          "order": 24
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1241832,
+          "known_for_department": "Acting",
+          "name": "間嶋里美",
+          "original_name": "間嶋里美",
+          "popularity": 1.0321,
+          "profile_path": "/ae66vRlYFvN9VQ42vLjSmmEHgsL.jpg",
+          "cast_id": 24,
+          "character": "Mu boy B (voice)",
+          "credit_id": "5d1e7520a1353300110b29c7",
+          "order": 25
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 85287,
+          "known_for_department": "Acting",
+          "name": "鈴木富子",
+          "original_name": "鈴木富子",
+          "popularity": 0.8683,
+          "profile_path": "/wngJTGZ4I0jiK6RyL1RvLqGIDRv.jpg",
+          "cast_id": 27,
+          "character": "Mu boy C (voice)",
+          "credit_id": "5d1e755994d8a820fb3ee924",
+          "order": 26
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 134275,
+          "known_for_department": "Acting",
+          "name": "久松保夫",
+          "original_name": "久松保夫",
+          "popularity": 0.6841,
+          "profile_path": "/vhYgkkGpz3MUS1DiHYG7ITqFcaT.jpg",
+          "cast_id": 31,
+          "character": "Computer Terra (voice)",
+          "credit_id": "5d1e75a555b0c0678f6c0567",
+          "order": 27
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 235337,
+          "known_for_department": "Acting",
+          "name": "塩屋翼",
+          "original_name": "塩屋翼",
+          "popularity": 0.8652,
+          "profile_path": "/zJCaOJWub2g8ZlXuH8vE9yaBVy1.jpg",
+          "cast_id": 32,
+          "character": "Alfredo (voice)",
+          "credit_id": "5d1e75b2a135337b2f06cc9c",
+          "order": 28
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1241721,
+          "known_for_department": "Acting",
+          "name": "中谷ゆみ",
+          "original_name": "中谷ゆみ",
+          "popularity": 0.4614,
+          "profile_path": "/t2Bbeds6FoU6DdMFR2LmHJwsfbS.jpg",
+          "cast_id": 40,
+          "character": "Nurse (voice)",
+          "credit_id": "5fe106320c3ec800402d916f",
+          "order": 29
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1197950,
+          "known_for_department": "Directing",
+          "name": "恩地日出夫",
+          "original_name": "恩地日出夫",
+          "popularity": 0.5041,
+          "profile_path": null,
+          "credit_id": "52fe4745c3a368484e0bdbc3",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1197951,
+          "known_for_department": "Writing",
+          "name": "Keiko Takemiya",
+          "original_name": "Keiko Takemiya",
+          "popularity": 0.4467,
+          "profile_path": null,
+          "credit_id": "52fe4745c3a368484e0bdbc9",
+          "department": "Writing",
+          "job": "Author"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1276525,
+          "known_for_department": "Visual Effects",
+          "name": "吉田忠勝",
+          "original_name": "吉田忠勝",
+          "popularity": 0.3395,
+          "profile_path": null,
+          "credit_id": "636bd8f0813831008b7aecf7",
+          "department": "Visual Effects",
+          "job": "Key Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1011633,
+          "known_for_department": "Visual Effects",
+          "name": "金田伊功",
+          "original_name": "金田伊功",
+          "popularity": 0.4508,
+          "profile_path": null,
+          "credit_id": "636feac4ca4f67008211a73e",
+          "department": "Visual Effects",
+          "job": "Key Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1253476,
+          "known_for_department": "Visual Effects",
+          "name": "兼森義則",
+          "original_name": "兼森義則",
+          "popularity": 0.4154,
+          "profile_path": null,
+          "credit_id": "636feacf8138310080853877",
+          "department": "Visual Effects",
+          "job": "Key Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1844139,
+          "known_for_department": "Visual Effects",
+          "name": "及川博史",
+          "original_name": "及川博史",
+          "popularity": 0.4595,
+          "profile_path": null,
+          "credit_id": "636feaea172d7f00b5fd7b35",
+          "department": "Visual Effects",
+          "job": "Key Animation"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2037825,
+          "known_for_department": "Visual Effects",
+          "name": "稲野義信",
+          "original_name": "稲野義信",
+          "popularity": 0.2149,
+          "profile_path": null,
+          "credit_id": "636feb16d7fbda00887630f2",
+          "department": "Visual Effects",
+          "job": "Key Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 97375,
+          "known_for_department": "Visual Effects",
+          "name": "須田正己",
+          "original_name": "須田正己",
+          "popularity": 0.6754,
+          "profile_path": "/fV98Tojtep0BT2LjSTGOS6Aj0fZ.jpg",
+          "credit_id": "5d1e75e994d8a8311640408a",
+          "department": "Visual Effects",
+          "job": "Character Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1197950,
+          "known_for_department": "Directing",
+          "name": "恩地日出夫",
+          "original_name": "恩地日出夫",
+          "popularity": 0.5041,
+          "profile_path": null,
+          "credit_id": "5e1c10290e29a20017f76c0f",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1602450,
+          "known_for_department": "Writing",
+          "name": "塩田千種",
+          "original_name": "塩田千種",
+          "popularity": 0.643,
+          "profile_path": null,
+          "credit_id": "5e1c10496a300b00165dad63",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 18609,
+          "known_for_department": "Sound",
+          "name": "Masaru Sato",
+          "original_name": "佐藤勝",
+          "popularity": 1.1223,
+          "profile_path": "/rprvOr48BOrvaGnFifV5DoVJci8.jpg",
+          "credit_id": "5ebda9a23d3557001cdd6f85",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1954651,
+          "known_for_department": "Visual Effects",
+          "name": "Akira Hio",
+          "original_name": "Akira Hio",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "5fe2287bd29bdd003f7149a3",
+          "department": "Visual Effects",
+          "job": "Mechanical Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 97375,
+          "known_for_department": "Visual Effects",
+          "name": "須田正己",
+          "original_name": "須田正己",
+          "popularity": 0.6754,
+          "profile_path": "/fV98Tojtep0BT2LjSTGOS6Aj0fZ.jpg",
+          "credit_id": "5fe229638e2ba600409bdd75",
+          "department": "Visual Effects",
+          "job": "Mechanical Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2040955,
+          "known_for_department": "Production",
+          "name": "Matsuji Kishimoto",
+          "original_name": "Matsuji Kishimoto",
+          "popularity": 0.1702,
+          "profile_path": null,
+          "credit_id": "5fe22b6cd29bdd004171c77a",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 97375,
+          "known_for_department": "Visual Effects",
+          "name": "須田正己",
+          "original_name": "須田正己",
+          "popularity": 0.6754,
+          "profile_path": "/fV98Tojtep0BT2LjSTGOS6Aj0fZ.jpg",
+          "credit_id": "5fe22c075ed962003f5ce8d4",
+          "department": "Visual Effects",
+          "job": "Animation Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ja",
+              "note": "Centre Pompidou",
+              "release_date": "2012-09-03T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1980-04-26T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DVD",
+              "release_date": "2007-06-21T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "LaserDisc",
+              "release_date": "1995-03-08T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "VHS",
+              "release_date": "1994-05-15T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DVD",
+              "release_date": "2008-11-25T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Toward the Terra",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "JP",
+          "title": "Terra E...",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

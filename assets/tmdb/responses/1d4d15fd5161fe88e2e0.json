@@ -1,0 +1,82 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1721881?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:25.679Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 1721881,
+    "imdb_id": null,
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "O Cunto d'Angelica",
+    "overview": "",
+    "popularity": 0.199,
+    "poster_path": "/trv9Gurv7HPoCbP3n0NVJDx9aNY.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2026-06-27",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "O Cunto d'Angelica",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3370616,
+          "known_for_department": "Directing",
+          "name": "Antonello Matarazzo",
+          "original_name": "Antonello Matarazzo",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "6a3f8d4a5b31e947bee20779",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "shortS International Film Festival 2026",
+              "release_date": "2026-06-27T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

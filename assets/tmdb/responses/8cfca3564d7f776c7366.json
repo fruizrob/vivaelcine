@@ -1,0 +1,101 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1816256?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:50.725Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1816256,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "Pensaba que te habías olvidado de escribirme",
+    "overview": "",
+    "popularity": 0.1685,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 18,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pensaba que te habías olvidado de escribirme",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4283937,
+          "known_for_department": "Directing",
+          "name": "Sofía Hansen",
+          "original_name": "Sofía Hansen",
+          "popularity": 0.1238,
+          "profile_path": null,
+          "credit_id": "6aea20b59d7f3665f0ba5345",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4283937,
+          "known_for_department": "Directing",
+          "name": "Sofía Hansen",
+          "original_name": "Sofía Hansen",
+          "popularity": 0.1238,
+          "profile_path": null,
+          "credit_id": "6aea20bd087fd773c9c34bf7",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4283937,
+          "known_for_department": "Directing",
+          "name": "Sofía Hansen",
+          "original_name": "Sofía Hansen",
+          "popularity": 0.1238,
+          "profile_path": null,
+          "credit_id": "6aea20ccbfdd751469ba4f86",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

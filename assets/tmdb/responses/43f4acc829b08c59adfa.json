@@ -1,0 +1,222 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1176835?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:36.699Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "homepage": "",
+    "id": 1176835,
+    "imdb_id": "tt23664824",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Terra Incognita",
+    "overview": "",
+    "popularity": 1.9204,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 18,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra Incognita",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1450767,
+          "known_for_department": "Acting",
+          "name": "Mo Anouti",
+          "original_name": "Mo Anouti",
+          "popularity": 0.4201,
+          "profile_path": "/sxFM9bhKAWpJ8hvHpueBVkTHwPf.jpg",
+          "cast_id": 1,
+          "character": "Omar",
+          "credit_id": "64ff5d846a222700e0f1b574",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4266024,
+          "known_for_department": "Acting",
+          "name": "Tom Koch",
+          "original_name": "Tom Koch",
+          "popularity": 0.1652,
+          "profile_path": "/xLIYgDvfZED8MjvWwXNtlXneC5b.jpg",
+          "cast_id": 2,
+          "character": "Irish",
+          "credit_id": "64ff5dae2dffd8011df0a7da",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3362684,
+          "known_for_department": "Acting",
+          "name": "Paugh Shadow",
+          "original_name": "Paugh Shadow",
+          "popularity": 0.8856,
+          "profile_path": "/r0XL59W2uJOEaiB9o33FdWGn1kn.jpg",
+          "cast_id": 3,
+          "character": "Overseer",
+          "credit_id": "64ff5dc86a2227011a7a1717",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4148846,
+          "known_for_department": "Acting",
+          "name": "Swann Gruen",
+          "original_name": "Swann Gruen",
+          "popularity": 0.195,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Saltarello",
+          "credit_id": "64ff5de8e0ca7f012eb8421e",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3643585,
+          "known_for_department": "Acting",
+          "name": "Nick Stannard",
+          "original_name": "Nick Stannard",
+          "popularity": 0.1196,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Mustafa",
+          "credit_id": "64ff5e02ffc9de0eded3ad07",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2750836,
+          "known_for_department": "Camera",
+          "name": "Nabil Elbehri",
+          "original_name": "Nabil Elbehri",
+          "popularity": 0.3432,
+          "profile_path": null,
+          "credit_id": "64ff5e18efea7a00aad6f07a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2750836,
+          "known_for_department": "Camera",
+          "name": "Nabil Elbehri",
+          "original_name": "Nabil Elbehri",
+          "popularity": 0.3432,
+          "profile_path": null,
+          "credit_id": "64ff5e236a2227011a7a173b",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3501789,
+          "known_for_department": "Editing",
+          "name": "Laura Schaffner",
+          "original_name": "Laura Schaffner",
+          "popularity": 0.1799,
+          "profile_path": null,
+          "credit_id": "64ff5e41e0ca7f00ae3ed485",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2750836,
+          "known_for_department": "Camera",
+          "name": "Nabil Elbehri",
+          "original_name": "Nabil Elbehri",
+          "popularity": 0.3432,
+          "profile_path": null,
+          "credit_id": "64ff5e7fefea7a00fd1ae120",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4266025,
+          "known_for_department": "Production",
+          "name": "Scarlett Lee Clark",
+          "original_name": "Scarlett Lee Clark",
+          "popularity": 0.1019,
+          "profile_path": null,
+          "credit_id": "64ff5e72e0ca7f00ae3ed4a5",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3277967,
+          "known_for_department": "Sound",
+          "name": "Jack Liden",
+          "original_name": "Jack Liden",
+          "popularity": 0.1976,
+          "profile_path": null,
+          "credit_id": "64ff5ef3ffc9de0edf604cca",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3464841,
+          "known_for_department": "Lighting",
+          "name": "Akesh Patel",
+          "original_name": "Akesh Patel",
+          "popularity": 0.2062,
+          "profile_path": null,
+          "credit_id": "64ff5e33db4ed61033a19c56",
+          "department": "Crew",
+          "job": "Cinematography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

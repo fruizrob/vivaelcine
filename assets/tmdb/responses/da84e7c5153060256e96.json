@@ -1,0 +1,92 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/438230?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:41.287Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 438230,
+    "imdb_id": "",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "East Coast, West Coast",
+    "overview": "",
+    "popularity": 0.739,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1969-01-01",
+    "revenue": 0,
+    "runtime": 22,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "East Coast, West Coast",
+    "video": false,
+    "vote_average": 4,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1175499,
+          "known_for_department": "Directing",
+          "name": "Robert Smithson",
+          "original_name": "Robert Smithson",
+          "popularity": 0.2479,
+          "profile_path": "/5HXvpztPmEWUIeCkLOtCKWIivvw.jpg",
+          "credit_id": "588fbf7f92514101a900cd4a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1175498,
+          "known_for_department": "Directing",
+          "name": "Nancy Holt",
+          "original_name": "Nancy Holt",
+          "popularity": 0.5717,
+          "profile_path": "/u66CVS1qziRPDvL1gkdzZO3ljd3.jpg",
+          "credit_id": "588fbf87925141019d00ce3e",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

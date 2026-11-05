@@ -1,0 +1,177 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/126999?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:44:58.769Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/9odivlAukoNGMBcQwrrYFh0tFMd.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 126999,
+    "imdb_id": "tt0117196",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Nobody's Business",
+    "overview": "",
+    "popularity": 0.3392,
+    "poster_path": "/6vFCXW4QVdOAdEx7eeCNfsWPnC1.jpg",
+    "production_companies": [
+      {
+        "id": 10943,
+        "logo_path": "/9jd9RFYraPpPCz7rpqp5KhrwfAH.png",
+        "name": "ITVS",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1996-10-08",
+    "revenue": 0,
+    "runtime": 60,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Nobody's Business",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 17,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 142200,
+          "known_for_department": "Directing",
+          "name": "Alan Berliner",
+          "original_name": "Alan Berliner",
+          "popularity": 0.1793,
+          "profile_path": "/jeAOgGFclevzsHg3te1OxSKP8Io.jpg",
+          "cast_id": 2,
+          "character": "Himself",
+          "credit_id": "52fe4aecc3a368484e16e20f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1083465,
+          "known_for_department": "Acting",
+          "name": "Oscar Berliner",
+          "original_name": "Oscar Berliner",
+          "popularity": 0.0986,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Himself",
+          "credit_id": "52fe4aecc3a368484e16e213",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 142200,
+          "known_for_department": "Directing",
+          "name": "Alan Berliner",
+          "original_name": "Alan Berliner",
+          "popularity": 0.1793,
+          "profile_path": "/jeAOgGFclevzsHg3te1OxSKP8Io.jpg",
+          "credit_id": "52fe4aecc3a368484e16e20b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 142200,
+          "known_for_department": "Directing",
+          "name": "Alan Berliner",
+          "original_name": "Alan Berliner",
+          "popularity": 0.1793,
+          "profile_path": "/jeAOgGFclevzsHg3te1OxSKP8Io.jpg",
+          "credit_id": "5fcb895141aac4003f73b32f",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 142200,
+          "known_for_department": "Directing",
+          "name": "Alan Berliner",
+          "original_name": "Alan Berliner",
+          "popularity": 0.1793,
+          "profile_path": "/jeAOgGFclevzsHg3te1OxSKP8Io.jpg",
+          "credit_id": "5fcb8948383df2003e5a7aaf",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 142200,
+          "known_for_department": "Directing",
+          "name": "Alan Berliner",
+          "original_name": "Alan Berliner",
+          "popularity": 0.1793,
+          "profile_path": "/jeAOgGFclevzsHg3te1OxSKP8Io.jpg",
+          "credit_id": "5fcb895c8261ee0041405940",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 142200,
+          "known_for_department": "Directing",
+          "name": "Alan Berliner",
+          "original_name": "Alan Berliner",
+          "popularity": 0.1793,
+          "profile_path": "/jeAOgGFclevzsHg3te1OxSKP8Io.jpg",
+          "credit_id": "5fcb8964dcf87500414232ca",
+          "department": "Sound",
+          "job": "Sound"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1996-10-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

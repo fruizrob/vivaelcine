@@ -1,0 +1,83 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1020710?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:12.220Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1020710,
+    "imdb_id": null,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Inchamikua: El Llamado De Ikua",
+    "overview": "",
+    "popularity": 0.1414,
+    "poster_path": "/zGwSeUwBHtp9a0ZnLlfkvUttZWO.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2022-09-01",
+    "revenue": 0,
+    "runtime": 9,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Inchamikua: El Llamado De Ikua",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3688703,
+          "known_for_department": "Directing",
+          "name": "Perla Maria Mapula Estrada",
+          "original_name": "Perla Maria Mapula Estrada",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "63156bb50c125500923acfcd",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2022-09-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

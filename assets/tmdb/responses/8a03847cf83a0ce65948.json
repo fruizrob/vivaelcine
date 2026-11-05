@@ -1,0 +1,121 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1696665?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:07.140Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1696665,
+    "imdb_id": null,
+    "origin_country": [
+      "PE"
+    ],
+    "original_language": "es",
+    "original_title": "Domingo Savio",
+    "overview": "",
+    "popularity": 1.9715,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "PE",
+        "name": "Peru"
+      }
+    ],
+    "release_date": "2004-01-01",
+    "revenue": 0,
+    "runtime": 77,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Domingo Savio",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1387166,
+          "known_for_department": "Acting",
+          "name": "Emanuel Soriano",
+          "original_name": "Emanuel Soriano",
+          "popularity": 0.4818,
+          "profile_path": "/t56Q1LVmolX7qEAj65MeXAVhOYO.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6a09182b3c5f07c182c6217e",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 976651,
+          "known_for_department": "Acting",
+          "name": "Carlos Cano de la Fuente",
+          "original_name": "Carlos Cano de la Fuente",
+          "popularity": 0.8356,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "6a0918385b7fe095c505ef2f",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1368096,
+          "known_for_department": "Acting",
+          "name": "Javier Echevarria",
+          "original_name": "Javier Echevarria",
+          "popularity": 0.5707,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "6a091845eb9e4ca8900b681c",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1362772,
+          "known_for_department": "Production",
+          "name": "Hugo Shinki",
+          "original_name": "Hugo Shinki",
+          "popularity": 0.1095,
+          "profile_path": "/AvZ6ZGf1UgpfDEffI21r7fzmyxQ.jpg",
+          "credit_id": "6a0918546db1bf1fe59c34a8",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2004-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

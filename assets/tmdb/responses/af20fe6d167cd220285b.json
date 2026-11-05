@@ -1,0 +1,511 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/289561?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:58.408Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/zDgQZrir0Zh1CBclaACUmAMVQur.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 289561,
+    "imdb_id": "tt1859476",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "No somos animales",
+    "overview": "Un actor de Hollywood se cansa de hacer las mismas películas corporativas, por lo que se muda a Argentina para encontrar un trabajo más experimental y significativo.",
+    "popularity": 0.8824,
+    "poster_path": "/4fFgOFIUEFEvZTXiTCeeyZ3WKv5.jpg",
+    "production_companies": [
+      {
+        "id": 12886,
+        "logo_path": "/eLRJ9Rxd2JCDMXvRgF3HSMZma9t.png",
+        "name": "New Crime Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 34259,
+        "logo_path": "/qUcQmkCRJA3jjxqZBlJybWRmTsI.png",
+        "name": "Pampa Films",
+        "origin_country": "AR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2013-10-03",
+    "revenue": 0,
+    "runtime": 94,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "No somos animales",
+    "video": false,
+    "vote_average": 4.3,
+    "vote_count": 21,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3036,
+          "known_for_department": "Acting",
+          "name": "John Cusack",
+          "original_name": "John Cusack",
+          "popularity": 3.1435,
+          "profile_path": "/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg",
+          "cast_id": 4,
+          "character": "Tony Lovecraft",
+          "credit_id": "5402fa630e0a2658e9007199",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1358855,
+          "known_for_department": "Acting",
+          "name": "Kevin Morris",
+          "original_name": "Kevin Morris",
+          "popularity": 0.1185,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Syd Kuliaky",
+          "credit_id": "5402fa900e0a2658e60073ab",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 54041,
+          "known_for_department": "Acting",
+          "name": "Paul Hipp",
+          "original_name": "Paul Hipp",
+          "popularity": 0.58,
+          "profile_path": "/dcWkHEeX7hojjLvs7qevpUgTolB.jpg",
+          "cast_id": 18,
+          "character": "Rudy Maravilla",
+          "credit_id": "60bb008cd7fbda00295e0318",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 21031,
+          "known_for_department": "Directing",
+          "name": "Alejandro Agresti",
+          "original_name": "Alejandro Agresti",
+          "popularity": 0.5074,
+          "profile_path": "/b41SE0CRRW0D1izYltdBDahSdjW.jpg",
+          "cast_id": 0,
+          "character": "Patrick Pesto",
+          "credit_id": "5402fa2f0e0a2658db0071d7",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1158,
+          "known_for_department": "Acting",
+          "name": "Al Pacino",
+          "original_name": "Al Pacino",
+          "popularity": 6.295,
+          "profile_path": "/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg",
+          "cast_id": 10,
+          "character": "The Agent",
+          "credit_id": "5c6af837c3a36843c6e4de31",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 965297,
+          "known_for_department": "Acting",
+          "name": "Juana Viale",
+          "original_name": "Juana Viale",
+          "popularity": 0.4961,
+          "profile_path": "/75OkJ21ZSHkbjd4LoSvyLDdXRon.jpg",
+          "cast_id": 8,
+          "character": "Conchita",
+          "credit_id": "5402fa9f0e0a2658e90071a5",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 137458,
+          "known_for_department": "Acting",
+          "name": "Romina Ricci",
+          "original_name": "Romina Ricci",
+          "popularity": 0.6668,
+          "profile_path": "/drgPnxHAckq5oCi9sOMzhHDKfKr.jpg",
+          "cast_id": 19,
+          "character": "Rosita",
+          "credit_id": "60bb00adf48b3400411c095d",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 938780,
+          "known_for_department": "Production",
+          "name": "Pablo E. Bossi",
+          "original_name": "Pablo E. Bossi",
+          "popularity": 0.9307,
+          "profile_path": "/ipawWYzDAzlVRfGD40iwp0R97Rn.jpg",
+          "cast_id": 20,
+          "character": "Carlo Rossi",
+          "credit_id": "60bb00c05b124000590bf4a9",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3114545,
+          "known_for_department": "Acting",
+          "name": "Chloé Bello",
+          "original_name": "Chloé Bello",
+          "popularity": 0.1418,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Translator",
+          "credit_id": "60bb00e618b751005a458ff6",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1075280,
+          "known_for_department": "Acting",
+          "name": "Edda Bustamante",
+          "original_name": "Edda Bustamante",
+          "popularity": 0.3043,
+          "profile_path": "/uZVmkoa3euDnTl62K7hdL8OMV2r.jpg",
+          "cast_id": 22,
+          "character": "Adelina Sarmiento",
+          "credit_id": "60bb00f8af4324007961280b",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1142818,
+          "known_for_department": "Acting",
+          "name": "Luciana Salazar",
+          "original_name": "Luciana Salazar",
+          "popularity": 0.3892,
+          "profile_path": "/lwvookoT5LfrDPwOiyTAptPt5Jw.jpg",
+          "cast_id": 23,
+          "character": "Diva Serrano",
+          "credit_id": "60bb010430f79c0077ed662e",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 81156,
+          "known_for_department": "Acting",
+          "name": "Pablo Ini",
+          "original_name": "Pablo Ini",
+          "popularity": 0.682,
+          "profile_path": "/7BNSllDC1guzqZnqiXbxD2xagTW.jpg",
+          "cast_id": 24,
+          "character": "Buby Grossman",
+          "credit_id": "60bb01106d1bb2005aa208e2",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 96918,
+          "known_for_department": "Acting",
+          "name": "Leticia Brédice",
+          "original_name": "Leticia Brédice",
+          "popularity": 0.4753,
+          "profile_path": "/ezcOFgHagk5RINJYvKhSBDAjLl6.jpg",
+          "cast_id": 25,
+          "character": "Dalmacia",
+          "credit_id": "60bb012b56b9f7003fdf6752",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 557713,
+          "known_for_department": "Acting",
+          "name": "María Abadi",
+          "original_name": "María Abadi",
+          "popularity": 0.8201,
+          "profile_path": "/oa99vjSXHXp1HkV9BFpqTM2c5Ow.jpg",
+          "cast_id": 26,
+          "character": "Olinda",
+          "credit_id": "60bb01565b1240002c1689d2",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1041575,
+          "known_for_department": "Acting",
+          "name": "Norman Briski",
+          "original_name": "Norman Briski",
+          "popularity": 0.5124,
+          "profile_path": "/xd0XLNlSwoGRXR2fVAiOVLaUEN1.jpg",
+          "cast_id": 27,
+          "character": "Pérez Vidal",
+          "credit_id": "60bb016518b751004287b513",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1016570,
+          "known_for_department": "Acting",
+          "name": "Mario Alarcón",
+          "original_name": "Mario Alarcón",
+          "popularity": 0.3741,
+          "profile_path": "/2V0IBpQrKMTmQ4kwC4bdWsHlIYB.jpg",
+          "cast_id": 1,
+          "character": "Gonzalito",
+          "credit_id": "5402fa370e0a2658e9007193",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1618438,
+          "known_for_department": "Acting",
+          "name": "Héctor Díaz",
+          "original_name": "Héctor Díaz",
+          "popularity": 0.7886,
+          "profile_path": "/ynY6WgUvoP0STIoXg6GYJj2Xc8Q.jpg",
+          "cast_id": 28,
+          "character": "Pacheco",
+          "credit_id": "60bb017a746457007af374e1",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1010177,
+          "known_for_department": "Acting",
+          "name": "Lucila Solá",
+          "original_name": "Lucila Solá",
+          "popularity": 0.3913,
+          "profile_path": "/1PHahw1sNViQNoYFSggYAy0qop9.jpg",
+          "cast_id": 7,
+          "character": "Amalia Agreste",
+          "credit_id": "5402fa970e0a2658f1006fb5",
+          "order": 17
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 21031,
+          "known_for_department": "Directing",
+          "name": "Alejandro Agresti",
+          "original_name": "Alejandro Agresti",
+          "popularity": 0.5074,
+          "profile_path": "/b41SE0CRRW0D1izYltdBDahSdjW.jpg",
+          "credit_id": "5402fad80e0a2658e90071b9",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2235653,
+          "known_for_department": "Directing",
+          "name": "Pablo Ramos",
+          "original_name": "Pablo Ramos",
+          "popularity": 0.2533,
+          "profile_path": "/nqODDylW4pQna8y8m5QlAu5X0vY.jpg",
+          "credit_id": "660cbcd595ce24017d6e8a66",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 21031,
+          "known_for_department": "Directing",
+          "name": "Alejandro Agresti",
+          "original_name": "Alejandro Agresti",
+          "popularity": 0.5074,
+          "profile_path": "/b41SE0CRRW0D1izYltdBDahSdjW.jpg",
+          "credit_id": "5c6af8b49251412a74fee763",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3036,
+          "known_for_department": "Acting",
+          "name": "John Cusack",
+          "original_name": "John Cusack",
+          "popularity": 3.1435,
+          "profile_path": "/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg",
+          "credit_id": "5c6af8cb92514129a2fee4c9",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1043859,
+          "known_for_department": "Editing",
+          "name": "Pablo Barbieri Carrera",
+          "original_name": "Pablo Barbieri Carrera",
+          "popularity": 0.8389,
+          "profile_path": "/c2y9wQo6Q4YSH0Qpdybod0t8W1t.jpg",
+          "credit_id": "5d63b6a7bc8abc3e2724e00e",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1358855,
+          "known_for_department": "Acting",
+          "name": "Kevin Morris",
+          "original_name": "Kevin Morris",
+          "popularity": 0.1185,
+          "profile_path": null,
+          "credit_id": "5d63b6d8bc8abc2d86263f47",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3036,
+          "known_for_department": "Acting",
+          "name": "John Cusack",
+          "original_name": "John Cusack",
+          "popularity": 3.1435,
+          "profile_path": "/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg",
+          "credit_id": "5d63b6eebc8abc2d86263f83",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1358855,
+          "known_for_department": "Acting",
+          "name": "Kevin Morris",
+          "original_name": "Kevin Morris",
+          "popularity": 0.1185,
+          "profile_path": null,
+          "credit_id": "6989ecf160473bd283c1cfa7",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 54041,
+          "known_for_department": "Acting",
+          "name": "Paul Hipp",
+          "original_name": "Paul Hipp",
+          "popularity": 0.58,
+          "profile_path": "/dcWkHEeX7hojjLvs7qevpUgTolB.jpg",
+          "credit_id": "6989ed05e9e0eb15625cb124",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 54041,
+          "known_for_department": "Acting",
+          "name": "Paul Hipp",
+          "original_name": "Paul Hipp",
+          "popularity": 0.58,
+          "profile_path": "/dcWkHEeX7hojjLvs7qevpUgTolB.jpg",
+          "credit_id": "6989ed1a89e9529e135d94e7",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 21031,
+          "known_for_department": "Directing",
+          "name": "Alejandro Agresti",
+          "original_name": "Alejandro Agresti",
+          "popularity": 0.5074,
+          "profile_path": "/b41SE0CRRW0D1izYltdBDahSdjW.jpg",
+          "credit_id": "6989ed27c625d243fbc1cff9",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2396411,
+          "known_for_department": "Crew",
+          "name": "Hans Bonato",
+          "original_name": "Hans Bonato",
+          "popularity": 0.2604,
+          "profile_path": null,
+          "credit_id": "6989ed3324f6b0b7e78fd4f9",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-10-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

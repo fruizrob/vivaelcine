@@ -1,0 +1,110 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/869008?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:12.397Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/eN3SSfOTZQUyeMzJFNLEFcKrLAh.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 869008,
+    "imdb_id": null,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Capítulo 1: El llamado",
+    "overview": "",
+    "popularity": 0.1802,
+    "poster_path": "/7FOFiJkEkKkLtZCqVq33SgJHsjg.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2021-09-02",
+    "revenue": 0,
+    "runtime": 3,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Capítulo 1: El llamado",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3217214,
+          "known_for_department": "Directing",
+          "name": "Jvlie Ganem",
+          "original_name": "Jvlie Ganem",
+          "popularity": 0.095,
+          "profile_path": null,
+          "credit_id": "612d1ffb001bbd002c874f99",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3317201,
+          "known_for_department": "Production",
+          "name": "Nayeli Farroh",
+          "original_name": "Nayeli Farroh",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "619853edaf58cb006668d0eb",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Feratum Film Fest",
+              "release_date": "2021-11-18T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2021-09-02T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

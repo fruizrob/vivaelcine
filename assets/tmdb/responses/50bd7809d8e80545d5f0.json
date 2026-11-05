@@ -1,0 +1,179 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/456530?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:40.855Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 554,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "id": 456530,
+    "imdb_id": "tt3437468",
+    "origin_country": [
+      "PT"
+    ],
+    "original_language": "pt",
+    "original_title": "Terra 2084",
+    "overview": "",
+    "popularity": 1.3674,
+    "poster_path": "/hERBFpWoFqLjezfNNZvg7Ezm6sd.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "PT",
+        "name": "Portugal"
+      }
+    ],
+    "release_date": "2014-02-01",
+    "revenue": 0,
+    "runtime": 14,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra 2084",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 147109,
+          "known_for_department": "Acting",
+          "name": "Fernando Luís",
+          "original_name": "Fernando Luís",
+          "popularity": 0.3041,
+          "profile_path": "/3VxPSM0mUnHCild6r49q0xm0Tsy.jpg",
+          "cast_id": 0,
+          "character": "Zé",
+          "credit_id": "590f64509251414e8d022a8e",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1812370,
+          "known_for_department": "Acting",
+          "name": "Ulisses Ceia",
+          "original_name": "Ulisses Ceia",
+          "popularity": 0.363,
+          "profile_path": "/r1pqRG5mSlxZWYYXjhbPdFEuQH8.jpg",
+          "cast_id": 1,
+          "character": "Filipe",
+          "credit_id": "590f6490c3a36864a7022777",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1728268,
+          "known_for_department": "Acting",
+          "name": "João Craveiro",
+          "original_name": "João Craveiro",
+          "popularity": 0.3555,
+          "profile_path": "/8Uj7AzvQxHD0B95BYR8TBVhnWlo.jpg",
+          "cast_id": 2,
+          "character": "Oficial",
+          "credit_id": "590f64adc3a36864d402436b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1812380,
+          "known_for_department": "Acting",
+          "name": "Luis André",
+          "original_name": "Luis André",
+          "popularity": 0.3145,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Locutor de Rádio",
+          "credit_id": "590f653bc3a368650a022466",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2448379,
+          "known_for_department": "Acting",
+          "name": "Paulo Duarte Ribeiro",
+          "original_name": "Paulo Duarte Ribeiro",
+          "popularity": 0.3552,
+          "profile_path": "/7j4YTAvqzUGJyOWGpQ2YX3lwV1v.jpg",
+          "cast_id": 6,
+          "character": "Governante",
+          "credit_id": "61db99f7924ce5006667fa39",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1812371,
+          "known_for_department": "Directing",
+          "name": "Nuno Sá Pessoa",
+          "original_name": "Nuno Sá Pessoa",
+          "popularity": 0.3835,
+          "profile_path": null,
+          "credit_id": "6595d33e5907de4c3563bf5a",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1812371,
+          "known_for_department": "Directing",
+          "name": "Nuno Sá Pessoa",
+          "original_name": "Nuno Sá Pessoa",
+          "popularity": 0.3835,
+          "profile_path": null,
+          "credit_id": "590f64cec3a3686519020c7a",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "",
+              "release_date": "2014-02-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "PT",
+          "title": "Terra 2084",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

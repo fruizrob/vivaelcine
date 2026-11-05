@@ -1,0 +1,135 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1631534?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:31.486Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1631534,
+    "imdb_id": null,
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Solidi - Attaccati alla Terra",
+    "overview": "",
+    "popularity": 0.3022,
+    "poster_path": "/dXtX4hYhAzjYsjlLqsN9OTz5bY0.jpg",
+    "production_companies": [
+      {
+        "id": 288665,
+        "logo_path": null,
+        "name": "Cuore Attivo Monterosa",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "2026-01-09",
+    "revenue": 0,
+    "runtime": 23,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Solidi - Attaccati alla Terra",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5102481,
+          "known_for_department": "Directing",
+          "name": "Chiara Guglielmina",
+          "original_name": "Chiara Guglielmina",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6988a69f15593504948fcfba",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5102481,
+          "known_for_department": "Directing",
+          "name": "Chiara Guglielmina",
+          "original_name": "Chiara Guglielmina",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6988a6abc96edd317d8e6eb2",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5994874,
+          "known_for_department": "Writing",
+          "name": "Samuel Confortola",
+          "original_name": "Samuel Confortola",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6988a6b9352610a13ef81031",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5994874,
+          "known_for_department": "Writing",
+          "name": "Samuel Confortola",
+          "original_name": "Samuel Confortola",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6988a6ddb9c6e050108c910e",
+          "department": "Crew",
+          "job": "Cinematography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "it",
+              "note": "Torino Outdoor Days",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "IT",
+          "title": "Solidi",
+          "type": "Alternative Title"
+        }
+      ]
+    }
+  }
+}

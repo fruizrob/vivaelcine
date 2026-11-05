@@ -1,0 +1,86 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1273968?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:26.902Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1273968,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Suor Angelica / L'Enfant et les Sortilèges",
+    "overview": "",
+    "popularity": 0.3202,
+    "poster_path": "/6JFCSxlajktSIzMWCsCsdtk1cSw.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-12-15",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Suor Angelica / L'Enfant et les Sortilèges",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4650594,
+          "known_for_department": "Sound",
+          "name": "Ryusuke Numajiri",
+          "original_name": "Ryusuke Numajiri",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "661a55d0af9590017c5fd7ba",
+          "department": "Sound",
+          "job": "Conductor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4650595,
+          "known_for_department": "Directing",
+          "name": "Jun Aguni",
+          "original_name": "Jun Aguni",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "661a55db514c4a016366d43c",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2023-12-15T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

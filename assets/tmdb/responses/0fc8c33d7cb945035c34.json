@@ -1,0 +1,84 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1069125?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:56.676Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1069125,
+    "imdb_id": null,
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "en",
+    "original_title": "La lucha que no ven",
+    "overview": "",
+    "popularity": 0.3543,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2022-08-28",
+    "revenue": 0,
+    "runtime": 24,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La lucha que no ven",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1770551,
+          "known_for_department": "Directing",
+          "name": "César González",
+          "original_name": "César González",
+          "popularity": 0.2713,
+          "profile_path": "/1u3NtAA9oETaV5yDLiGGB6DXeBh.jpg",
+          "credit_id": "63b3fa131d1bf4007dbdbfdc",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2022-08-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1434187?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:47.373Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1434187,
+    "imdb_id": "tt10636470",
+    "origin_country": [
+      "PL"
+    ],
+    "original_language": "pl",
+    "original_title": "We mnie",
+    "overview": "",
+    "popularity": 2.6861,
+    "poster_path": "/kdKPozUeOERPIHZOryuyznycfkD.jpg",
+    "production_companies": [
+      {
+        "id": 100172,
+        "logo_path": null,
+        "name": "Gdyńska Szkoła Filmowa",
+        "origin_country": "PL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PL",
+        "name": "Poland"
+      }
+    ],
+    "release_date": "2019-06-14",
+    "revenue": 0,
+    "runtime": 21,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Polish",
+        "iso_639_1": "pl",
+        "name": "Polski"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "We mnie",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1909547,
+          "known_for_department": "Acting",
+          "name": "Małgorzata Gorol",
+          "original_name": "Małgorzata Gorol",
+          "popularity": 0.2806,
+          "profile_path": "/oIi3WTaYKFsR9FpbOFXF2LfmVm9.jpg",
+          "cast_id": 1,
+          "character": "Sandra",
+          "credit_id": "67af46d488917a03f38e69f3",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1720143,
+          "known_for_department": "Acting",
+          "name": "Julian Świeżewski",
+          "original_name": "Julian Świeżewski",
+          "popularity": 0.8471,
+          "profile_path": "/taFR99cVpDj2TC0YjoP45cni9JI.jpg",
+          "cast_id": 2,
+          "character": "Dawid",
+          "credit_id": "67af46dd6d1a7b60523b6ce1",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3253692,
+          "known_for_department": "Directing",
+          "name": "Maria Wider",
+          "original_name": "Maria Wider",
+          "popularity": 0.4026,
+          "profile_path": null,
+          "credit_id": "67af46ebf7d37fc2db1cc3fe",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4375238,
+          "known_for_department": "Directing",
+          "name": "Magda Matwijow",
+          "original_name": "Magda Matwijow",
+          "popularity": 0.2626,
+          "profile_path": null,
+          "credit_id": "67af470488917a03f38e6a11",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3253692,
+          "known_for_department": "Directing",
+          "name": "Maria Wider",
+          "original_name": "Maria Wider",
+          "popularity": 0.4026,
+          "profile_path": null,
+          "credit_id": "67af471280f76d61eb8e72f6",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3253694,
+          "known_for_department": "Camera",
+          "name": "Miłosz Kasiura",
+          "original_name": "Miłosz Kasiura",
+          "popularity": 0.1852,
+          "profile_path": null,
+          "credit_id": "67af472b6d1a7b60523b6cf6",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4378859,
+          "known_for_department": "Art",
+          "name": "Piotr Jurek",
+          "original_name": "Piotr Jurek",
+          "popularity": 0.281,
+          "profile_path": null,
+          "credit_id": "67af4738b76419ebfc1cbc16",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5246878,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Agata Rzeźnik",
+          "original_name": "Agata Rzeźnik",
+          "popularity": 0.2272,
+          "profile_path": null,
+          "credit_id": "67af475588917a03f38e6a33",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4374504,
+          "known_for_department": "Acting",
+          "name": "Agata Minowska",
+          "original_name": "Agata Minowska",
+          "popularity": 0.1278,
+          "profile_path": null,
+          "credit_id": "67af4763f7d37fc2db1cc426",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3253698,
+          "known_for_department": "Editing",
+          "name": "Stanisław Frankowski",
+          "original_name": "Stanisław Frankowski",
+          "popularity": 0.196,
+          "profile_path": null,
+          "credit_id": "67af476ef7d37fc2db1cc42f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4885836,
+          "known_for_department": "Editing",
+          "name": "Michał Żytkowski",
+          "original_name": "Michał Żytkowski",
+          "popularity": 0.1842,
+          "profile_path": null,
+          "credit_id": "67af477aa24bd8f7101cc839",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5246879,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Marta Mittlener",
+          "original_name": "Marta Mittlener",
+          "popularity": 0.1456,
+          "profile_path": null,
+          "credit_id": "67af47836d1a7b60523b6d20",
+          "department": "Costume & Make-Up",
+          "job": "Makeup & Hair"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3532226,
+          "known_for_department": "Production",
+          "name": "Leszek Kopeć",
+          "original_name": "Leszek Kopeć",
+          "popularity": 0.2957,
+          "profile_path": null,
+          "credit_id": "67af47ba6d1a7b60523b6d2f",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3532227,
+          "known_for_department": "Production",
+          "name": "Jerzy Rados",
+          "original_name": "Jerzy Rados",
+          "popularity": 0.2851,
+          "profile_path": null,
+          "credit_id": "67af47cc6d1a7b60523b6d37",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3532228,
+          "known_for_department": "Production",
+          "name": "Joanna Pultyn",
+          "original_name": "Joanna Pultyn",
+          "popularity": 0.2464,
+          "profile_path": null,
+          "credit_id": "67af4b56fc6e82f86e8e6361",
+          "department": "Production",
+          "job": "Production Manager"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-06-14T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "GB",
+          "title": "Within Me",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1622216?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:53.724Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/mC3tBgEqrMsZekVSmXKiVuIT1XL.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 1622216,
+    "imdb_id": null,
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "48",
+    "overview": "",
+    "popularity": 0.3724,
+    "poster_path": "/b5WOlxg2539dfnkDkTuILK0P9eY.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "2025-06-09",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "48",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5959893,
+          "known_for_department": "Acting",
+          "name": "Serafino Baroni",
+          "original_name": "Serafino Baroni",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Achille Goffredo Marco Della Torre",
+          "credit_id": "6974f8bda552d42168ab9653",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5959959,
+          "known_for_department": "Acting",
+          "name": "Serena Baroni",
+          "original_name": "Serena Baroni",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Ragazza",
+          "credit_id": "69750a3280832b8a201a05e5",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5959958,
+          "known_for_department": "Crew",
+          "name": "Maurizio Degli Esposti",
+          "original_name": "Maurizio Degli Esposti",
+          "popularity": 0.0925,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Amico",
+          "credit_id": "69750a5c7771b6ac9fae2f8e",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5959960,
+          "known_for_department": "Acting",
+          "name": "Luigi Guerra",
+          "original_name": "Luigi Guerra",
+          "popularity": 0.095,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Mafioso",
+          "credit_id": "69750a8f82eba0d9cba367fd",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5959962,
+          "known_for_department": "Acting",
+          "name": "Rolando Maulini",
+          "original_name": "Rolando Maulini",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "69750ab7aaa1abc6cbab96dd",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5959963,
+          "known_for_department": "Acting",
+          "name": "Maurizio Canzoneri",
+          "original_name": "Maurizio Canzoneri",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "69750adafba0d3038d1a0528",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5959956,
+          "known_for_department": "Directing",
+          "name": "Aury Barons",
+          "original_name": "Aury Barons",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "697508a84ecc6372e1a36831",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5959958,
+          "known_for_department": "Crew",
+          "name": "Maurizio Degli Esposti",
+          "original_name": "Maurizio Degli Esposti",
+          "popularity": 0.0925,
+          "profile_path": null,
+          "credit_id": "697509825b185f2a69ab94ed",
+          "department": "Crew",
+          "job": "Script"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5959956,
+          "known_for_department": "Directing",
+          "name": "Aury Barons",
+          "original_name": "Aury Barons",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "697518c54ebc116ae70884b0",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5959956,
+          "known_for_department": "Directing",
+          "name": "Aury Barons",
+          "original_name": "Aury Barons",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "697518ddff9d26e701a3687c",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5959956,
+          "known_for_department": "Directing",
+          "name": "Aury Barons",
+          "original_name": "Aury Barons",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69751961a79c1ab46c1a056b",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5959956,
+          "known_for_department": "Directing",
+          "name": "Aury Barons",
+          "original_name": "Aury Barons",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6975196fddf0ebe1a46941b9",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5959956,
+          "known_for_department": "Directing",
+          "name": "Aury Barons",
+          "original_name": "Aury Barons",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6975199b245dffe8bc1a0790",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5959956,
+          "known_for_department": "Directing",
+          "name": "Aury Barons",
+          "original_name": "Aury Barons",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "697519bbb8d047e816ae3181",
+          "department": "Crew",
+          "job": "Script"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "it",
+              "note": "",
+              "release_date": "2025-06-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

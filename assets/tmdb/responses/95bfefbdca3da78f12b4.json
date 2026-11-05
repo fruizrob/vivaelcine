@@ -1,0 +1,90 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/906335?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:40.534Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 906335,
+    "imdb_id": null,
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Terra Sospesa",
+    "overview": "",
+    "popularity": 1.0536,
+    "poster_path": "/kb234yn90nsWji7LyQaO6bIYuj5.jpg",
+    "production_companies": [
+      {
+        "id": 141776,
+        "logo_path": null,
+        "name": "Premiere Film",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra Sospesa",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2827501,
+          "known_for_department": "Directing",
+          "name": "Giacomo Boeri",
+          "original_name": "Giacomo Boeri",
+          "popularity": 0.1248,
+          "profile_path": null,
+          "credit_id": "61a5475cb458b800298ba546",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2827500,
+          "known_for_department": "Directing",
+          "name": "Matteo Grimaldi",
+          "original_name": "Matteo Grimaldi",
+          "popularity": 0.2205,
+          "profile_path": null,
+          "credit_id": "61a547453dc31300627946aa",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

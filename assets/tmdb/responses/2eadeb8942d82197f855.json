@@ -1,0 +1,89 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/639873?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:55.886Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 639873,
+    "imdb_id": null,
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "Malvinas, la lucha continua",
+    "overview": "“Malvinas…” es un largometraje documental que narra la experiencia de la posguerra de Malvinas pero desde un nuevo - y olvidado- enfoque: partir y llegar a los significados de la guerra y la posguerra pero solo desde la humanidad de sus protagonistas.",
+    "popularity": 0.1697,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2003-01-01",
+    "revenue": 0,
+    "runtime": 83,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Malvinas, la lucha continua",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2433973,
+          "known_for_department": "Directing",
+          "name": "Fernando Cola",
+          "original_name": "Fernando Cola",
+          "popularity": 0.1141,
+          "profile_path": null,
+          "credit_id": "5da7343d944a5700132336f0",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2003-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

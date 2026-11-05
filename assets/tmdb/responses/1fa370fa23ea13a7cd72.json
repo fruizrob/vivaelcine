@@ -1,0 +1,559 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1037360?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:52.695Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/2WlRexMzNMzkzrWVMEVqLMzOXiV.jpg",
+    "belongs_to_collection": {
+      "id": 279715,
+      "name": "Beck",
+      "poster_path": "/8Kzrc2bsGt0RUyTN6vHvh4yu0QO.jpg",
+      "backdrop_path": "/otuz9DuwbQn5KBW5zDxund7ifiU.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1037360,
+    "imdb_id": "tt25405622",
+    "origin_country": [
+      "SE"
+    ],
+    "original_language": "sv",
+    "original_title": "Beck 48 - Quid Pro Quo",
+    "overview": "",
+    "popularity": 3.1982,
+    "poster_path": "/namapyO8O86GFyKZdDbWi28NS8A.jpg",
+    "production_companies": [
+      {
+        "id": 115572,
+        "logo_path": "/3THX4L0lNlIiNMHSd8l4rsHAiTx.png",
+        "name": "C More Entertainment",
+        "origin_country": "SE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "SE",
+        "name": "Sweden"
+      }
+    ],
+    "release_date": "2023-03-17",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Norwegian",
+        "iso_639_1": "no",
+        "name": "Norsk"
+      },
+      {
+        "english_name": "Swedish",
+        "iso_639_1": "sv",
+        "name": "svenska"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Beck 48 - Quid Pro Quo",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 16,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 74709,
+          "known_for_department": "Acting",
+          "name": "Peter Haber",
+          "original_name": "Peter Haber",
+          "popularity": 1.4697,
+          "profile_path": "/e6jnPrQiUs3wyEP9OVWd7sMse6B.jpg",
+          "cast_id": 1,
+          "character": "Martin Beck",
+          "credit_id": "63502041f3b49a007a833ec8",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 571418,
+          "known_for_department": "Acting",
+          "name": "Kristofer Hivju",
+          "original_name": "Kristofer Hivju",
+          "popularity": 2.5937,
+          "profile_path": "/bACL39GihNmBnFRay78rS3PUHsH.jpg",
+          "cast_id": 13,
+          "character": "Steinar Hovland",
+          "credit_id": "63b563d8875d1a00e2763c64",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 213486,
+          "known_for_department": "Acting",
+          "name": "Martin Wallström",
+          "original_name": "Martin Wallström",
+          "popularity": 2.5152,
+          "profile_path": "/6zIR09NCAc2IyGnTwQLOCvieWp.jpg",
+          "cast_id": 2,
+          "character": "Josef Eriksson",
+          "credit_id": "6350204c076ce8007ffff54f",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1166983,
+          "known_for_department": "Acting",
+          "name": "Jennie Silfverhjelm",
+          "original_name": "Jennie Silfverhjelm",
+          "popularity": 1.9587,
+          "profile_path": "/tgFWvnh6idwctPPo9nHJSLQ6Ofk.jpg",
+          "cast_id": 3,
+          "character": "Alexander \"Alex\" Beijer",
+          "credit_id": "63502100f3b49a007dd26b3c",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2261371,
+          "known_for_department": "Acting",
+          "name": "Anna Asp",
+          "original_name": "Anna Asp",
+          "popularity": 1.2787,
+          "profile_path": "/grSy1Qjlch5DRB02MJeKBNngQBX.jpg",
+          "cast_id": 5,
+          "character": "Jenny Boden",
+          "credit_id": "6350211684448e009153cb8a",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 74713,
+          "known_for_department": "Acting",
+          "name": "Måns Nathanaelson",
+          "original_name": "Måns Nathanaelson",
+          "popularity": 0.639,
+          "profile_path": "/qYdD7xqM6kwhKSunos5A1Tw1Y65.jpg",
+          "cast_id": 4,
+          "character": "Oskar Bergman",
+          "credit_id": "6350210d596a91007a14bf30",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 47068,
+          "known_for_department": "Acting",
+          "name": "Jonas Karlsson",
+          "original_name": "Jonas Karlsson",
+          "popularity": 1.0612,
+          "profile_path": "/1KHhcBGX5v9LsmWiHbtZpbEBrh5.jpg",
+          "cast_id": 7,
+          "character": "Klas Freden",
+          "credit_id": "63502130a0f1a2007cdcd1be",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1281937,
+          "known_for_department": "Acting",
+          "name": "Valter Skarsgård",
+          "original_name": "Valter Skarsgård",
+          "popularity": 2.4217,
+          "profile_path": "/sRWh6TGz3992B6VI7UZzIZ2ZBlF.jpg",
+          "cast_id": 9,
+          "character": "Vilhelm Beck",
+          "credit_id": "6350214cf3b49a008623be2b",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 47070,
+          "known_for_department": "Acting",
+          "name": "Ingvar Hirdwall",
+          "original_name": "Ingvar Hirdwall",
+          "popularity": 0.6802,
+          "profile_path": "/fcoLF3kEQJ5nDuYaFESiyRGTL8U.jpg",
+          "cast_id": 10,
+          "character": "Grannen",
+          "credit_id": "63502154880c9200900a03de",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1042844,
+          "known_for_department": "Acting",
+          "name": "Elmira Arikan",
+          "original_name": "Elmira Arikan",
+          "popularity": 0.7654,
+          "profile_path": "/fiGJwekeijAADHA6u69ZHAHh0rE.jpg",
+          "cast_id": 6,
+          "character": "Ayda Cetin",
+          "credit_id": "63502124d363e5007a6641fa",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 227213,
+          "known_for_department": "Acting",
+          "name": "Danilo Bejarano",
+          "original_name": "Danilo Bejarano",
+          "popularity": 0.2299,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Kent Larsson",
+          "credit_id": "63b56409c56d2d007c856281",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1906298,
+          "known_for_department": "Acting",
+          "name": "Karin Bengtsson",
+          "original_name": "Karin Bengtsson",
+          "popularity": 0.6726,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Johanna",
+          "credit_id": "63b56416a9117f055d57710e",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3844653,
+          "known_for_department": "Acting",
+          "name": "Ellen Fosti",
+          "original_name": "Ellen Fosti",
+          "popularity": 0.1746,
+          "profile_path": "/9FLAJuOr9xfQqjAN0uEJpvDHkx6.jpg",
+          "cast_id": 16,
+          "character": "Lina",
+          "credit_id": "63b564225ad76b0094c9c7b4",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1469341,
+          "known_for_department": "Acting",
+          "name": "Eli Frankel",
+          "original_name": "Eli Frankel",
+          "popularity": 0.2996,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Reporter",
+          "credit_id": "63b564335ad76b007dc99b32",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2398125,
+          "known_for_department": "Acting",
+          "name": "Bruno Fuentes",
+          "original_name": "Bruno Fuentes",
+          "popularity": 0.3826,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Pedro",
+          "credit_id": "63b5644d5ad76b0094c9c7ca",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3857854,
+          "known_for_department": "Acting",
+          "name": "Yaya Gomez Gassama",
+          "original_name": "Yaya Gomez Gassama",
+          "popularity": 1.0878,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Thome",
+          "credit_id": "63b56464c56d2d007c8562b5",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2164682,
+          "known_for_department": "Acting",
+          "name": "Irma Jämhammar",
+          "original_name": "Irma Jämhammar",
+          "popularity": 0.3629,
+          "profile_path": "/yk67GCfsaNp6gemjb4F77z2B2Nb.jpg",
+          "cast_id": 20,
+          "character": "Jasmina",
+          "credit_id": "63b564721d1bf4008ae14895",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3857855,
+          "known_for_department": "Acting",
+          "name": "Sharzad Rahmani",
+          "original_name": "Sharzad Rahmani",
+          "popularity": 0.095,
+          "profile_path": "/sSYyGwNqUlDcOZV4PeWJrCrghPR.jpg",
+          "cast_id": 21,
+          "character": "Kassandra",
+          "credit_id": "63b564865ad76b00e6faccbd",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2008100,
+          "known_for_department": "Acting",
+          "name": "Magnus Schmitz",
+          "original_name": "Magnus Schmitz",
+          "popularity": 0.259,
+          "profile_path": "/nKLdFEW1z9Do3gg4q3YZ555V6I2.jpg",
+          "cast_id": 22,
+          "character": "Örjan",
+          "credit_id": "63b564979715ae00913d0793",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1411031,
+          "known_for_department": "Acting",
+          "name": "Miodrag Stojanović",
+          "original_name": "Miodrag Stojanović",
+          "popularity": 0.8367,
+          "profile_path": "/go3kiuNgZoVRiigZetEuO6aVMHy.jpg",
+          "cast_id": 23,
+          "character": "Dima",
+          "credit_id": "63b564a3c56d2d0096d5f230",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2031975,
+          "known_for_department": "Acting",
+          "name": "Pablo Leiva Wenger",
+          "original_name": "Pablo Leiva Wenger",
+          "popularity": 1.5102,
+          "profile_path": "/sIenZV6LpRCHx8zYuxkg87njYZz.jpg",
+          "cast_id": 24,
+          "character": "Rodrigo",
+          "credit_id": "63b564ad9715ae008a6e89d2",
+          "order": 20
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1081835,
+          "known_for_department": "Directing",
+          "name": "Pontus Klänge",
+          "original_name": "Pontus Klänge",
+          "popularity": 0.7676,
+          "profile_path": "/AnJzftci7zQsXK9jzfY88eF4Tsl.jpg",
+          "credit_id": "63502190f3b49a008623be43",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2091830,
+          "known_for_department": "Production",
+          "name": "Kenneth Wiberg",
+          "original_name": "Kenneth Wiberg",
+          "popularity": 0.4124,
+          "profile_path": null,
+          "credit_id": "641482b7ede1b028635e410b",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1663943,
+          "known_for_department": "Production",
+          "name": "Hanne Palmquist",
+          "original_name": "Hanne Palmquist",
+          "popularity": 0.1738,
+          "profile_path": "/m8wUfk3cwPIp9lfdd2eGodGiSEm.jpg",
+          "credit_id": "641482a799259c007f7d6db9",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3397176,
+          "known_for_department": "Production",
+          "name": "Katharina Kremling",
+          "original_name": "Katharina Kremling",
+          "popularity": 0.4813,
+          "profile_path": null,
+          "credit_id": "6414828525cd85008151949f",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 570309,
+          "known_for_department": "Writing",
+          "name": "Dennis Magnusson",
+          "original_name": "Dennis Magnusson",
+          "popularity": 0.9067,
+          "profile_path": null,
+          "credit_id": "64148239b4224241cf95cbed",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1745779,
+          "known_for_department": "Production",
+          "name": "Calle Marthin",
+          "original_name": "Calle Marthin",
+          "popularity": 0.2334,
+          "profile_path": null,
+          "credit_id": "64148297a6c1040082546f1b",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 76378,
+          "known_for_department": "Writing",
+          "name": "Per Wahlöö",
+          "original_name": "Per Wahlöö",
+          "popularity": 1.0209,
+          "profile_path": "/4afhdwFSvgWZIInBRuK2RVL1MVE.jpg",
+          "credit_id": "6414822d26677800d7076b44",
+          "department": "Writing",
+          "job": "Characters"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 76377,
+          "known_for_department": "Writing",
+          "name": "Maj Sjöwall",
+          "original_name": "Maj Sjöwall",
+          "popularity": 0.3296,
+          "profile_path": "/kweisP7OgcpTsxHxYl3cHZNpbSM.jpg",
+          "credit_id": "64148219e18e3f07e95558b2",
+          "department": "Writing",
+          "job": "Characters"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1069767,
+          "known_for_department": "Production",
+          "name": "Francy Suntinger",
+          "original_name": "Francy Suntinger",
+          "popularity": 0.5807,
+          "profile_path": null,
+          "credit_id": "64148260ede1b0285b674a72",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1038992,
+          "known_for_department": "Production",
+          "name": "Henrik Zein",
+          "original_name": "Henrik Zein",
+          "popularity": 0.3242,
+          "profile_path": "/bowhycROzwCm0DgXbU2LODXKjXQ.jpg",
+          "credit_id": "641482c6e18e3f07d056c171",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 571418,
+          "known_for_department": "Acting",
+          "name": "Kristofer Hivju",
+          "original_name": "Kristofer Hivju",
+          "popularity": 2.5937,
+          "profile_path": "/bACL39GihNmBnFRay78rS3PUHsH.jpg",
+          "credit_id": "6422bb8b08cf87007f3963d3",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "SE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cmore",
+              "release_date": "2023-03-17T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "SE",
+          "title": "Beck Quid Pro Quo",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FI",
+          "title": "Beck: Quid Pro Quo",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "SE",
+          "title": "Beck - Quid Pro Quo",
+          "type": "Alt"
+        }
+      ]
+    }
+  }
+}

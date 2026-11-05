@@ -1,0 +1,205 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/47171?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:53.210Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 47171,
+    "imdb_id": "tt0476519",
+    "origin_country": [
+      "US",
+      "AU"
+    ],
+    "original_language": "en",
+    "original_title": "48 Shades",
+    "overview": "",
+    "popularity": 0.7054,
+    "poster_path": "/jQRelGvE7Sjigcndh8Bz1PE64xA.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      }
+    ],
+    "release_date": "2006-08-31",
+    "revenue": 0,
+    "runtime": 96,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "48 Shades",
+    "video": false,
+    "vote_average": 4.2,
+    "vote_count": 11,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1093948,
+          "known_for_department": "Acting",
+          "name": "Richard Wilson",
+          "original_name": "Richard Wilson",
+          "popularity": 0.5209,
+          "profile_path": "/q7YXd9YfPNk09yv2a92dH94oDL7.jpg",
+          "cast_id": 9,
+          "character": "Dan",
+          "credit_id": "56661d6a92514179dd0010be",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 62754,
+          "known_for_department": "Acting",
+          "name": "Emma Lung",
+          "original_name": "Emma Lung",
+          "popularity": 0.6923,
+          "profile_path": "/8XdaJyUu7AYxH1UVU4qY6cN5V6c.jpg",
+          "cast_id": 2,
+          "character": "Naomi",
+          "credit_id": "52fe4722c3a36847f81253f3",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 136348,
+          "known_for_department": "Acting",
+          "name": "Robin McLeavy",
+          "original_name": "Robin McLeavy",
+          "popularity": 1.0906,
+          "profile_path": "/zxQobyUi4iLFymzusm0lYwxLWnq.jpg",
+          "cast_id": 3,
+          "character": "Jacq",
+          "credit_id": "52fe4722c3a36847f81253f7",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 214818,
+          "known_for_department": "Acting",
+          "name": "Nicholas Donaldson",
+          "original_name": "Nicholas Donaldson",
+          "popularity": 0.2397,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Chris Burns",
+          "credit_id": "52fe4722c3a36847f81253fb",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 63313,
+          "known_for_department": "Acting",
+          "name": "Victoria Thaine",
+          "original_name": "Victoria Thaine",
+          "popularity": 0.4598,
+          "profile_path": "/a8TnAs5LxMKyDTG7tae1tyg2q6c.jpg",
+          "cast_id": 5,
+          "character": "Imogen",
+          "credit_id": "52fe4722c3a36847f81253ff",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1230314,
+          "known_for_department": "Acting",
+          "name": "Paul Bishop",
+          "original_name": "Paul Bishop",
+          "popularity": 0.3013,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Mr. Wilkes",
+          "credit_id": "52fe4722c3a36847f8125403",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3072,
+          "known_for_department": "Acting",
+          "name": "Daniel Lapaine",
+          "original_name": "Daniel Lapaine",
+          "popularity": 0.861,
+          "profile_path": "/5usnxFLjVgrJjY9T3Pvpy51Foh.jpg",
+          "credit_id": "52fe4722c3a36847f8125409",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3072,
+          "known_for_department": "Acting",
+          "name": "Daniel Lapaine",
+          "original_name": "Daniel Lapaine",
+          "popularity": 0.861,
+          "profile_path": "/5usnxFLjVgrJjY9T3Pvpy51Foh.jpg",
+          "credit_id": "52fe4722c3a36847f812540f",
+          "department": "Writing",
+          "job": "Screenplay"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-08-31T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2008-12-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/243104?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:42.148Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 243104,
+    "imdb_id": "tt0065201",
+    "origin_country": [
+      "XG"
+    ],
+    "original_language": "de",
+    "original_title": "Der Weihnachtsmann heißt Willi",
+    "overview": "",
+    "popularity": 0.6976,
+    "poster_path": "/nTxtW6zGgR643OeusTJiW2s4iuJ.jpg",
+    "production_companies": [
+      {
+        "id": 602,
+        "logo_path": "/pVsXRFbYVDe5BhsATCAh1rt5F0k.png",
+        "name": "DEFA-Studio für Spielfilme",
+        "origin_country": "XG"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "XG",
+        "name": "East Germany"
+      }
+    ],
+    "release_date": "1969-11-30",
+    "revenue": 0,
+    "runtime": 65,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Der Weihnachtsmann heißt Willi",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1278244,
+          "known_for_department": "Acting",
+          "name": "Karsten Lekve",
+          "original_name": "Karsten Lekve",
+          "popularity": 0.1442,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Peter",
+          "credit_id": "52fe4ed9c3a36847f82abe3b",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1278245,
+          "known_for_department": "Acting",
+          "name": "Ronald Jacob",
+          "original_name": "Ronald Jacob",
+          "popularity": 0.1401,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Hans",
+          "credit_id": "52fe4ed9c3a36847f82abe3f",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1278246,
+          "known_for_department": "Acting",
+          "name": "Steffi Sluka",
+          "original_name": "Steffi Sluka",
+          "popularity": 0.1363,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Tina",
+          "credit_id": "52fe4ed9c3a36847f82abe43",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22347,
+          "known_for_department": "Acting",
+          "name": "Rolf Herricht",
+          "original_name": "Rolf Herricht",
+          "popularity": 0.2963,
+          "profile_path": "/m8jLuWZmuh3dQi0zGXDeIln6mhZ.jpg",
+          "cast_id": 11,
+          "character": "Weihnachtsmann Willi",
+          "credit_id": "57cddd4b9251413db9001177",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 23265,
+          "known_for_department": "Acting",
+          "name": "Jiří Vršťala",
+          "original_name": "Jiří Vršťala",
+          "popularity": 0.3411,
+          "profile_path": "/mjLxl4QVa8cgd5qLNRvZ2nzRe7t.jpg",
+          "cast_id": 14,
+          "character": "Clown Ferdinand",
+          "credit_id": "5abed887c3a368444e01db79",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 74186,
+          "known_for_department": "Acting",
+          "name": "Dieter Wien",
+          "original_name": "Dieter Wien",
+          "popularity": 1.4228,
+          "profile_path": "/5JKAVLSipjhT5V0JJsfxfW2Wln6.jpg",
+          "cast_id": 19,
+          "character": "Teo Lehmann",
+          "credit_id": "5cb59c2dc3a3686af98172bf",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22594,
+          "known_for_department": "Acting",
+          "name": "Fred Delmare",
+          "original_name": "Fred Delmare",
+          "popularity": 0.3402,
+          "profile_path": "/xQtIdXUM5J8qtkXlPxfiHbwXeFY.jpg",
+          "cast_id": 12,
+          "character": "Taxifahrer Klaus",
+          "credit_id": "57cddd64925141794c006235",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22756,
+          "known_for_department": "Acting",
+          "name": "Ernst-Georg Schwill",
+          "original_name": "Ernst-Georg Schwill",
+          "popularity": 0.2652,
+          "profile_path": "/phVEUQ9aqfZS5pzPJxIGCjrvKWD.jpg",
+          "cast_id": 20,
+          "character": "Dido",
+          "credit_id": "5cb59c390e0a266b9becc6af",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 27071,
+          "known_for_department": "Acting",
+          "name": "Günter Schubert",
+          "original_name": "Günter Schubert",
+          "popularity": 0.4433,
+          "profile_path": "/h39szOOnjCChsSBtk54K8pjJlpJ.jpg",
+          "cast_id": 13,
+          "character": "Beppo",
+          "credit_id": "57cddd8c925141794c006249",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 77392,
+          "known_for_department": "Acting",
+          "name": "Horst Papke",
+          "original_name": "Horst Papke",
+          "popularity": 0.2123,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Taxifahrer",
+          "credit_id": "5cb59c43c3a3686b07817005",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2012007,
+          "known_for_department": "Acting",
+          "name": "Werner Pfeifer",
+          "original_name": "Werner Pfeifer",
+          "popularity": 0.3508,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Felino",
+          "credit_id": "5abed8970e0a264a6001e418",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2880062,
+          "known_for_department": "Acting",
+          "name": "Klaus Drescher",
+          "original_name": "Klaus Drescher",
+          "popularity": 0.105,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "Vati",
+          "credit_id": "642e9e1b58361b0077b8e3ce",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1322444,
+          "known_for_department": "Acting",
+          "name": "Theresia Wider",
+          "original_name": "Theresia Wider",
+          "popularity": 0.2124,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "Mutti",
+          "credit_id": "5cb59c6e0e0a266b90ecdbc3",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1552942,
+          "known_for_department": "Acting",
+          "name": "Gerhard Vogt",
+          "original_name": "Gerhard Vogt",
+          "popularity": 0.1858,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "Losbudenbesitzer",
+          "credit_id": "5cb59c7dc3a3681b0d80dbc3",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1272086,
+          "known_for_department": "Acting",
+          "name": "Edgar Külow",
+          "original_name": "Edgar Külow",
+          "popularity": 0.285,
+          "profile_path": "/rfQBOR9oV2HXZ5eepPGx3n1seKp.jpg",
+          "cast_id": 24,
+          "character": "Verkäufer",
+          "credit_id": "5cb59c860e0a266b93ecdb1a",
+          "order": 14
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1278247,
+          "known_for_department": "Directing",
+          "name": "Ingrid Reschke",
+          "original_name": "Ingrid Reschke",
+          "popularity": 0.3558,
+          "profile_path": null,
+          "credit_id": "52fe4ed9c3a36847f82abe4f",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 22709,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Dorit Gründel",
+          "original_name": "Dorit Gründel",
+          "popularity": 0.3974,
+          "profile_path": null,
+          "credit_id": "56a173d7c3a36858cb00e7b3",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1322454,
+          "known_for_department": "Editing",
+          "name": "Erika Lehmphul",
+          "original_name": "Erika Lehmphul",
+          "popularity": 0.2388,
+          "profile_path": null,
+          "credit_id": "56a1737c92514149bc007fe7",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22799,
+          "known_for_department": "Directing",
+          "name": "Jürgen Brauer",
+          "original_name": "Jürgen Brauer",
+          "popularity": 0.3312,
+          "profile_path": null,
+          "credit_id": "56a1738cc3a36858cb00e79e",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 22778,
+          "known_for_department": "Art",
+          "name": "Georg Wratsch",
+          "original_name": "Georg Wratsch",
+          "popularity": 0.2313,
+          "profile_path": null,
+          "credit_id": "56a173e2c3a36858dc00f986",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1566759,
+          "known_for_department": "Sound",
+          "name": "Rudi Werion",
+          "original_name": "Rudi Werion",
+          "popularity": 0.176,
+          "profile_path": null,
+          "credit_id": "56a173f4c3a36858e5010c5b",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 544524,
+          "known_for_department": "Writing",
+          "name": "Ota Hofman",
+          "original_name": "Ota Hofman",
+          "popularity": 0.3995,
+          "profile_path": null,
+          "credit_id": "5cb59c0a92514108def3ba08",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1278247,
+          "known_for_department": "Directing",
+          "name": "Ingrid Reschke",
+          "original_name": "Ingrid Reschke",
+          "popularity": 0.3558,
+          "profile_path": null,
+          "credit_id": "5cb59bed0e0a266b90ecdb33",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 74169,
+          "known_for_department": "Crew",
+          "name": "Inge Heym",
+          "original_name": "Inge Heym",
+          "popularity": 0.3301,
+          "profile_path": null,
+          "credit_id": "5cb59bfac3a3686aeb8167b2",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "0",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-11-30T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

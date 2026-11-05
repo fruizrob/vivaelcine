@@ -1,0 +1,100 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/202367?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:41.483Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/iAEHIYyA8d3Z6HUSEHKTGKlQbll.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 202367,
+    "imdb_id": "tt0153330",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Tumble Weed Greed",
+    "overview": "",
+    "popularity": 0.5742,
+    "poster_path": "/tOgpyF2f5wKsbtWcqD2Hw9XQ6Fy.jpg",
+    "production_companies": [
+      {
+        "id": 8520,
+        "logo_path": "/x6HLTQILKcImVQ3GvVCwy35W5fz.png",
+        "name": "Walter Lantz Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1969-06-01",
+    "revenue": 0,
+    "runtime": 6,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Tumble Weed Greed",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 3,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 932741,
+          "known_for_department": "Visual Effects",
+          "name": "Paul J. Smith",
+          "original_name": "Paul J. Smith",
+          "popularity": 0.5716,
+          "profile_path": "/4A9k1XnHfsCW0Xywk7D7I3LqDQB.jpg",
+          "credit_id": "54005c7f0e0a2658e6002066",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-06-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1607937?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:04.482Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1607937,
+    "imdb_id": null,
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "Jacinto Menchaca, finado",
+    "overview": "Probablemente, el primer cortometraje de la Escuela de Cine de Avellaneda, realizado en 1973 con la llegada de la democracia, que duraría muy poco. Jacinto Menchaca ha muerto. Su deseo era ser enterrado en la Chacarita. Pero el destino – y la burocracia – se lo harán imposible.",
+    "popularity": 0.1498,
+    "poster_path": "/1525RHUgIfewUqaG9DatPLh3jY4.jpg",
+    "production_companies": [
+      {
+        "id": 209690,
+        "logo_path": null,
+        "name": "IDAC",
+        "origin_country": "AR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "1973-01-01",
+    "revenue": 0,
+    "runtime": 20,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Jacinto Menchaca, finado",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5184723,
+          "known_for_department": "Directing",
+          "name": "Miguel Krebs",
+          "original_name": "Miguel Krebs",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6956d7242b91190cb2e423be",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1973-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "AR",
+          "title": "Jacinto Menchaca",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

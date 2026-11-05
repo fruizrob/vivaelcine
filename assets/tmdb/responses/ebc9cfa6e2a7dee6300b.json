@@ -1,0 +1,188 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/133164?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:44.875Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 133164,
+    "imdb_id": "tt2005207",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "El rumor de las piedras",
+    "overview": "Una joven madre llamada Delia intenta reconstruir su vida después de la \"Tragedia de Vargas\" en donde una inundación despareció a su hija; Delia intenta salvar a sus otros dos hijos que están en peligro por la violencia de su comunidad.",
+    "popularity": 1.204,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "VE",
+        "name": "Venezuela"
+      }
+    ],
+    "release_date": "2011-06-06",
+    "revenue": 0,
+    "runtime": 100,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El rumor de las piedras",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1285335,
+          "known_for_department": "Acting",
+          "name": "Rossana Fernández Díaz",
+          "original_name": "Rossana Fernández Díaz",
+          "popularity": 0.5091,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "52fe4ba8c3a368484e1938af",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1152414,
+          "known_for_department": "Directing",
+          "name": "Cristian González",
+          "original_name": "Cristian González",
+          "popularity": 0.2561,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "52fe4ba8c3a368484e1938b3",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1285336,
+          "known_for_department": "Acting",
+          "name": "Juan Carlos Nuñez",
+          "original_name": "Juan Carlos Nuñez",
+          "popularity": 0.4304,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "52fe4ba8c3a368484e1938b7",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1162955,
+          "known_for_department": "Acting",
+          "name": "Aminta de Lara",
+          "original_name": "Aminta de Lara",
+          "popularity": 0.9339,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "52fe4ba8c3a368484e1938bb",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 937631,
+          "known_for_department": "Acting",
+          "name": "Alberto Alifa",
+          "original_name": "Alberto Alifa",
+          "popularity": 0.2498,
+          "profile_path": "/wBDusrhOYu7wxYaS187ioCnfegm.jpg",
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "53f932e0c3a3687358001fa5",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 985153,
+          "known_for_department": "Acting",
+          "name": "Laureano Olivares",
+          "original_name": "Laureano Olivares",
+          "popularity": 0.3116,
+          "profile_path": "/lIYm1xdL2MqGUiT8pW2UEqvkzo0.jpg",
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "5411508bc3a3680207000853",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 937283,
+          "known_for_department": "Acting",
+          "name": "Zapata 666",
+          "original_name": "Zapata 666",
+          "popularity": 0.7961,
+          "profile_path": "/F87m6FkeFzNhfkc0CuSdHnTQeM.jpg",
+          "cast_id": 10,
+          "character": "",
+          "credit_id": "66edd4055ee61fbb738cf4d3",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1004050,
+          "known_for_department": "Directing",
+          "name": "Alejandro Bellame",
+          "original_name": "Alejandro Bellame",
+          "popularity": 0.2854,
+          "profile_path": null,
+          "credit_id": "58798f26c3a3681bee002b31",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "VE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2011-06-06T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

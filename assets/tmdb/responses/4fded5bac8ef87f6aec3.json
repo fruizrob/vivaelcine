@@ -1,0 +1,542 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/413852?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:11.148Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/51aiE8fEXchmbLIyX7Smm3zJavV.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "id": 413852,
+    "imdb_id": "tt5716280",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Welcome the Stranger",
+    "overview": "Alice llega sin previo aviso a la casa de su hermano distanciado, donde las visiones bizarras, el regreso de la extraña novia de su hermano y la paranoia de Alice y la sospecha obligan a los hermanos a aferrarse a la realidad en medio de extrañas circunstancias.",
+    "popularity": 1.0635,
+    "poster_path": "/fZch4FhfexA18gUUQjHXKnLmkjh.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2018-03-20",
+    "revenue": 0,
+    "runtime": 94,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Welcome the Stranger",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 56,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1036288,
+          "known_for_department": "Acting",
+          "name": "Abbey Lee",
+          "original_name": "Abbey Lee",
+          "popularity": 1.9944,
+          "profile_path": "/y4ZIuFjtglTjSLxhGTkzsCPFMQZ.jpg",
+          "cast_id": 1,
+          "character": "Alice",
+          "credit_id": "57ca4d7b9251416e96000cb3",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 572541,
+          "known_for_department": "Acting",
+          "name": "Caleb Landry Jones",
+          "original_name": "Caleb Landry Jones",
+          "popularity": 2.9406,
+          "profile_path": "/8M5lPHrERwAIfWK56RkH30FOjhV.jpg",
+          "cast_id": 3,
+          "character": "Ethan",
+          "credit_id": "57ca4dac925141278a002a44",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 98522,
+          "known_for_department": "Acting",
+          "name": "Riley Keough",
+          "original_name": "Riley Keough",
+          "popularity": 2.6975,
+          "profile_path": "/du1FYr5dTQL6gCMX6ISnQBOxz2F.jpg",
+          "cast_id": 0,
+          "character": "Misty",
+          "credit_id": "57ca4d75c3a3684b9c0024e9",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 130843,
+          "known_for_department": "Acting",
+          "name": "Rosemary Howard",
+          "original_name": "Rosemary Howard",
+          "popularity": 0.36,
+          "profile_path": "/DJj5tzb25LanRIeHoNtDccNm7b.jpg",
+          "cast_id": 24,
+          "character": "Housekeeper",
+          "credit_id": "5a7df2119251416ada002e2e",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1435246,
+          "known_for_department": "Acting",
+          "name": "John Clofine",
+          "original_name": "John Clofine",
+          "popularity": 0.2278,
+          "profile_path": "/3qR74Gx8aCP5FCscKqiUsrJP2wV.jpg",
+          "cast_id": 4,
+          "character": "Danny",
+          "credit_id": "57ca4db49251412795002a62",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2905619,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Amanda Summers",
+          "original_name": "Amanda Summers",
+          "popularity": 0.0936,
+          "profile_path": null,
+          "credit_id": "608482775c32470029f0ae73",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1419633,
+          "known_for_department": "Sound",
+          "name": "Bumi Hidaka",
+          "original_name": "Bumi Hidaka",
+          "popularity": 0.5398,
+          "profile_path": null,
+          "credit_id": "608482d45c32470077649a94",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1419635,
+          "known_for_department": "Sound",
+          "name": "Brian Quill",
+          "original_name": "Brian Quill",
+          "popularity": 0.4894,
+          "profile_path": null,
+          "credit_id": "608482de01b1ca00586f2f09",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1842004,
+          "known_for_department": "Art",
+          "name": "Ben Richards",
+          "original_name": "Ben Richards",
+          "popularity": 0.1016,
+          "profile_path": null,
+          "credit_id": "60848264a1d3320040787fe1",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1328455,
+          "known_for_department": "Art",
+          "name": "Hannah Alpert",
+          "original_name": "Hannah Alpert",
+          "popularity": 0.1572,
+          "profile_path": null,
+          "credit_id": "6084824365e0a20057694c08",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2528384,
+          "known_for_department": "Sound",
+          "name": "Dennis Dembeck",
+          "original_name": "Dennis Dembeck",
+          "popularity": 0.3491,
+          "profile_path": null,
+          "credit_id": "608482c0f92532002c6e5b5c",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3066191,
+          "known_for_department": "Sound",
+          "name": "Catherine Anderson",
+          "original_name": "Catherine Anderson",
+          "popularity": 0.6695,
+          "profile_path": null,
+          "credit_id": "608482b22da846002980bb58",
+          "department": "Sound",
+          "job": "Sound Effects Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1362819,
+          "known_for_department": "Directing",
+          "name": "Justin Kelly",
+          "original_name": "Justin Kelly",
+          "popularity": 0.5175,
+          "profile_path": "/em8IcoR4dhnIkIL2eWpuzk6MmyD.jpg",
+          "credit_id": "57ca4ddc9251416de7000d3f",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1362819,
+          "known_for_department": "Directing",
+          "name": "Justin Kelly",
+          "original_name": "Justin Kelly",
+          "popularity": 0.5175,
+          "profile_path": "/em8IcoR4dhnIkIL2eWpuzk6MmyD.jpg",
+          "credit_id": "57ca4dfe9251416de7000d56",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1673705,
+          "known_for_department": "Production",
+          "name": "Katie Leary",
+          "original_name": "Katie Leary",
+          "popularity": 0.2205,
+          "profile_path": null,
+          "credit_id": "57ca4e5dc3a3685a53000031",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 98522,
+          "known_for_department": "Acting",
+          "name": "Riley Keough",
+          "original_name": "Riley Keough",
+          "popularity": 2.6975,
+          "profile_path": "/du1FYr5dTQL6gCMX6ISnQBOxz2F.jpg",
+          "credit_id": "57ca4e13c3a3684ba20027b3",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1605719,
+          "known_for_department": "Production",
+          "name": "Scott Levenson",
+          "original_name": "Scott Levenson",
+          "popularity": 0.1306,
+          "profile_path": null,
+          "credit_id": "57ca4e219251416e06000e74",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1526871,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Matthew Simonelli",
+          "original_name": "Matthew Simonelli",
+          "popularity": 0.1379,
+          "profile_path": null,
+          "credit_id": "57ca4ec29251411656000061",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1066332,
+          "known_for_department": "Production",
+          "name": "Michael Clofine",
+          "original_name": "Michael Clofine",
+          "popularity": 0.1631,
+          "profile_path": "/7Yz3R9QbOQg0wBg0TQksgDLYR8N.jpg",
+          "credit_id": "57ca4e3fc3a3682811000c9a",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1673708,
+          "known_for_department": "Production",
+          "name": "Jed Root",
+          "original_name": "Jed Root",
+          "popularity": 0.2345,
+          "profile_path": null,
+          "credit_id": "57ca4e89c3a3685be800003d",
+          "department": "Production",
+          "job": "Co-Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1362819,
+          "known_for_department": "Directing",
+          "name": "Justin Kelly",
+          "original_name": "Justin Kelly",
+          "popularity": 0.5175,
+          "profile_path": "/em8IcoR4dhnIkIL2eWpuzk6MmyD.jpg",
+          "credit_id": "57ca4dd7c3a3682811000c58",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1023306,
+          "known_for_department": "Production",
+          "name": "Jordan Yale Levine",
+          "original_name": "Jordan Yale Levine",
+          "popularity": 0.3143,
+          "profile_path": "/4HWd65IXQeYChp9SflB0l41Y7TA.jpg",
+          "credit_id": "57ca4e2bc3a3685a53000021",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1489060,
+          "known_for_department": "Production",
+          "name": "Matthew Helderman",
+          "original_name": "Matthew Helderman",
+          "popularity": 0.3677,
+          "profile_path": "/tylGESPhyioiRd9etbk5kFCg14j.jpg",
+          "credit_id": "57ca4e4e9251411656000009",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1578907,
+          "known_for_department": "Editing",
+          "name": "Joshua Raymond Lee",
+          "original_name": "Joshua Raymond Lee",
+          "popularity": 0.3529,
+          "profile_path": "/i7CC6LxCuBtltFaKpDHLXUZf14B.jpg",
+          "credit_id": "57ca4eb79251416e6f000e2a",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1673704,
+          "known_for_department": "Production",
+          "name": "Gina Gammell",
+          "original_name": "Gina Gammell",
+          "popularity": 0.4197,
+          "profile_path": "/cS4Xb8k9gpsWD8ndtX3zD0HFIjL.jpg",
+          "credit_id": "57ca4e0a92514115e8000002",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1673706,
+          "known_for_department": "Production",
+          "name": "Joe Listhaus",
+          "original_name": "Joe Listhaus",
+          "popularity": 0.3955,
+          "profile_path": null,
+          "credit_id": "57ca4e6b925141161a00003f",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1673703,
+          "known_for_department": "Production",
+          "name": "Thor Bradwell",
+          "original_name": "Thor Bradwell",
+          "popularity": 0.1377,
+          "profile_path": null,
+          "credit_id": "57ca4df5c3a368278a000e20",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1673707,
+          "known_for_department": "Production",
+          "name": "Luke Taylor",
+          "original_name": "Luke Taylor",
+          "popularity": 0.3999,
+          "profile_path": "/n17TKW7dUzfTYrdQKTAbNzSG0bT.jpg",
+          "credit_id": "57ca4e78c3a3682811000cbb",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1673709,
+          "known_for_department": "Production",
+          "name": "Caryl Pierre",
+          "original_name": "Caryl Pierre",
+          "popularity": 0.1846,
+          "profile_path": null,
+          "credit_id": "57ca4e93c3a3684ba20027ef",
+          "department": "Production",
+          "job": "Line Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1605717,
+          "known_for_department": "Sound",
+          "name": "Tim Kvasnosky",
+          "original_name": "Tim Kvasnosky",
+          "popularity": 0.2829,
+          "profile_path": null,
+          "credit_id": "666594d109cb2b3467531b67",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1266439,
+          "known_for_department": "Camera",
+          "name": "Matt Klammer",
+          "original_name": "Matt Klammer",
+          "popularity": 0.4329,
+          "profile_path": null,
+          "credit_id": "64824423e272600147b8b283",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3978877,
+          "known_for_department": "Production",
+          "name": "Pamela Jones",
+          "original_name": "Pamela Jones",
+          "popularity": 0.163,
+          "profile_path": null,
+          "credit_id": "66dcf5a6edf15f725eee32c8",
+          "department": "Production",
+          "job": "Production Accountant"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-03-21T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-04-01T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-03-20T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "FR",
+          "title": "Accueillir l'étrangère",
+          "type": "literal title"
+        }
+      ]
+    }
+  }
+}

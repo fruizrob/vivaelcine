@@ -1,0 +1,204 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1186633?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:52.823Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1186633,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "Mimbre y Greda",
+    "overview": "Cortometraje que narra de forma didáctica los procesos del desarrollo de artesanía en mimbre y greda. La cinta parte de la experiencia de un personaje que cuenta una historia a sus sobrinos. Trabajo realizado como parte de la serie documental Andanzas de un Chileno.",
+    "popularity": 0.3194,
+    "poster_path": "/aE2xo0tCA1s8bGd1JYQjjMlXyEY.jpg",
+    "production_companies": [
+      {
+        "id": 90682,
+        "logo_path": "/5RROwbMM2TNqISJUWfRrDEQu31V.png",
+        "name": "Pontificia Universidad Católica de Chile",
+        "origin_country": "CL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "1966-09-18",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mimbre y Greda",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1886051,
+          "known_for_department": "Acting",
+          "name": "Andrés Rojas-Murphy",
+          "original_name": "Andrés Rojas-Murphy",
+          "popularity": 0.2238,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "651b0a5a74507d011c0e3cc3",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4302605,
+          "known_for_department": "Acting",
+          "name": "Tuti Pardo",
+          "original_name": "Tuti Pardo",
+          "popularity": 0.1327,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "651b0a63223a8b00c45b3efd",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4302606,
+          "known_for_department": "Acting",
+          "name": "Joaquín Astaburuaga",
+          "original_name": "Joaquín Astaburuaga",
+          "popularity": 0.346,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "651b0a6c74507d00ac45ee39",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 566294,
+          "known_for_department": "Directing",
+          "name": "Patricio Guzmán",
+          "original_name": "Patricio Guzmán",
+          "popularity": 0.5603,
+          "profile_path": "/sTVhzhK2DAv1sRXxaZD5jgriO4e.jpg",
+          "credit_id": "651b09f0967cc734295d674e",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 566294,
+          "known_for_department": "Directing",
+          "name": "Patricio Guzmán",
+          "original_name": "Patricio Guzmán",
+          "popularity": 0.5603,
+          "profile_path": "/sTVhzhK2DAv1sRXxaZD5jgriO4e.jpg",
+          "credit_id": "651b0a0093bd69011b8eebbb",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2440550,
+          "known_for_department": "Production",
+          "name": "María Angélica Ugarte",
+          "original_name": "María Angélica Ugarte",
+          "popularity": 0.2084,
+          "profile_path": null,
+          "credit_id": "651b0a12ea84c7014efcc046",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2772760,
+          "known_for_department": "Camera",
+          "name": "René Kocher",
+          "original_name": "René Kocher",
+          "popularity": 0.1489,
+          "profile_path": null,
+          "credit_id": "651b0a2093bd690138feaa5d",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2440550,
+          "known_for_department": "Production",
+          "name": "María Angélica Ugarte",
+          "original_name": "María Angélica Ugarte",
+          "popularity": 0.2084,
+          "profile_path": null,
+          "credit_id": "651b0a31ea84c700aeeabc53",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4302604,
+          "known_for_department": "Sound",
+          "name": "Graciela Bresciani",
+          "original_name": "Graciela Bresciani",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "credit_id": "651b0a43223a8b00c45b3eeb",
+          "department": "Sound",
+          "job": "Sound"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "1966-09-18T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

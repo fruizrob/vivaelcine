@@ -1,0 +1,158 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1797389?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:31.329Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/9A4tpp8P7lOQ7E8vZrlNAK3Myfz.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1797389,
+    "imdb_id": null,
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Fra cielo e terra con Antonio Rosmini",
+    "overview": "",
+    "popularity": 0.9374,
+    "poster_path": "/5PkS8C5yVGgOqStCGt3sw5CGUYy.jpg",
+    "production_companies": [
+      {
+        "id": 314384,
+        "logo_path": null,
+        "name": "H and P Projects",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "2026-07-01",
+    "revenue": 0,
+    "runtime": 59,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Fra cielo e terra con Antonio Rosmini",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5281244,
+          "known_for_department": "Acting",
+          "name": "Nicola Marchiori",
+          "original_name": "Nicola Marchiori",
+          "popularity": 0.7472,
+          "profile_path": "/pWvUSSVbhAF6GySvF88YBZHCPCs.jpg",
+          "cast_id": 1,
+          "character": "Don Luigi Gentili",
+          "credit_id": "6acfea0787a7cfde893805f6",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 21181,
+          "known_for_department": "Acting",
+          "name": "Fabio Testi",
+          "original_name": "Fabio Testi",
+          "popularity": 1.2583,
+          "profile_path": "/bHP0NtDCl0L2dnaBmkRKCYEuYkL.jpg",
+          "cast_id": 2,
+          "character": "Papa Pio IX",
+          "credit_id": "6acfea5693a779da1ad979ae",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4836320,
+          "known_for_department": "Acting",
+          "name": "Martina Scrinzi",
+          "original_name": "Martina Scrinzi",
+          "popularity": 0.1763,
+          "profile_path": "/rC7fkTQxsp0GNXVgPokMIQYJWUY.jpg",
+          "cast_id": 3,
+          "character": "Maddalena di Canossa",
+          "credit_id": "6acfeaf6378f27cadb39fa83",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6548981,
+          "known_for_department": "Directing",
+          "name": "Herman Zadra",
+          "original_name": "Herman Zadra",
+          "popularity": 0.4659,
+          "profile_path": null,
+          "credit_id": "6acfeb901759200f07e2c7ca",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6553848,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Ivana Penasa",
+          "original_name": "Ivana Penasa",
+          "popularity": 0.4955,
+          "profile_path": null,
+          "credit_id": "6ad3a67b8fbc9ee719c647a9",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "T",
+              "descriptors": [],
+              "iso_639_1": "it",
+              "note": "Uscita ufficiale in streaming su Play2000",
+              "release_date": "2026-07-01T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "IT",
+          "title": "In cammino con Antonio Rosmini",
+          "type": "Titolo di lavorazione"
+        }
+      ]
+    }
+  }
+}

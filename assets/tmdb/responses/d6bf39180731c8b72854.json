@@ -1,0 +1,378 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/107752?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:27.951Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/hqtjU1PZOOKsRBm7Av9F5wo6CGX.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "id": 107752,
+    "imdb_id": "tt0061001",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Soleil noir",
+    "overview": "",
+    "popularity": 0.5959,
+    "poster_path": "/hsyeRUsOYxuFcNTxU1FgHy1Q6qq.jpg",
+    "production_companies": [
+      {
+        "id": 1740,
+        "logo_path": null,
+        "name": "Les Films Copernic",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "1966-12-10",
+    "revenue": 0,
+    "runtime": 100,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Soleil noir",
+    "video": false,
+    "vote_average": 4.8,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 19270,
+          "known_for_department": "Acting",
+          "name": "Michèle Mercier",
+          "original_name": "Michèle Mercier",
+          "popularity": 0.8796,
+          "profile_path": "/bktgqSJAuD3MQoJl8fomncfWpef.jpg",
+          "cast_id": 2,
+          "character": "Christine Rodier",
+          "credit_id": "52fe4a86c3a36847f81d31af",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 24814,
+          "known_for_department": "Acting",
+          "name": "Daniel Gélin",
+          "original_name": "Daniel Gélin",
+          "popularity": 0.5381,
+          "profile_path": "/ddYYnUvmOZ8huqjS1pv6M41Ym87.jpg",
+          "cast_id": 3,
+          "character": "Guy Rodier",
+          "credit_id": "52fe4a86c3a36847f81d31b3",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 24499,
+          "known_for_department": "Acting",
+          "name": "Valentina Cortese",
+          "original_name": "Valentina Cortese",
+          "popularity": 0.566,
+          "profile_path": "/zk2upnCba1NBo3ueIKykcYQ1Gzk.jpg",
+          "cast_id": 4,
+          "character": "Maria",
+          "credit_id": "52fe4a86c3a36847f81d31b7",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 29165,
+          "known_for_department": "Acting",
+          "name": "Denise Vernac",
+          "original_name": "Denise Vernac",
+          "popularity": 0.2409,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Elise Rodier",
+          "credit_id": "52fe4a86c3a36847f81d31bb",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1764101,
+          "known_for_department": "Acting",
+          "name": "David O'Brien",
+          "original_name": "David O'Brien",
+          "popularity": 0.5242,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Eliott",
+          "credit_id": "58aee0b09251410b2100705e",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 37531,
+          "known_for_department": "Acting",
+          "name": "Harry Riebauer",
+          "original_name": "Harry Riebauer",
+          "popularity": 0.3939,
+          "profile_path": "/zpp3jvg0TmRCExsupDhw7JTSIns.jpg",
+          "cast_id": 9,
+          "character": "Herman",
+          "credit_id": "58aee0d99251410b38006f08",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 589404,
+          "known_for_department": "Acting",
+          "name": "Michel de Ré",
+          "original_name": "Michel de Ré",
+          "popularity": 0.8254,
+          "profile_path": "/7nEBbqZudMOlZmpMhikneJodm2P.jpg",
+          "cast_id": 10,
+          "character": "Ergy",
+          "credit_id": "58aee1079251410b54006e25",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 39880,
+          "known_for_department": "Acting",
+          "name": "Jean Topart",
+          "original_name": "Jean Topart",
+          "popularity": 0.2183,
+          "profile_path": "/fdhZKkU8RBvH08Qq1P7WnkLZYWi.jpg",
+          "cast_id": 11,
+          "character": "Bayard",
+          "credit_id": "58aee1219251410b21007092",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1706073,
+          "known_for_department": "Acting",
+          "name": "Denis Savignat",
+          "original_name": "Denis Savignat",
+          "popularity": 0.2956,
+          "profile_path": "/wlnOl2FgMJLQPyKIzcK6XWK8KDx.jpg",
+          "cast_id": 12,
+          "character": "Simon",
+          "credit_id": "58aee144c3a36835b800662b",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 24885,
+          "known_for_department": "Acting",
+          "name": "Louis Seigner",
+          "original_name": "Louis Seigner",
+          "popularity": 0.4021,
+          "profile_path": "/bD5IJNB5XfNF9vSqwpuvXuglsyK.jpg",
+          "cast_id": 13,
+          "character": "Gaston Rodier",
+          "credit_id": "58aee18ac3a368359500662a",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5185,
+          "known_for_department": "Acting",
+          "name": "Jean Martinelli",
+          "original_name": "Jean Martinelli",
+          "popularity": 0.4462,
+          "profile_path": "/kItuj3hxe5z6iUxTQcvWm1G2LX1.jpg",
+          "cast_id": 14,
+          "character": "The priest",
+          "credit_id": "58aee1bbc3a368357a0062fe",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1764103,
+          "known_for_department": "Acting",
+          "name": "Patrick Balkany",
+          "original_name": "Patrick Balkany",
+          "popularity": 0.1595,
+          "profile_path": "/eFUuIt57IZqPAr2pQNc3zzgAmEd.jpg",
+          "cast_id": 15,
+          "character": "Patrick Rodier",
+          "credit_id": "58aee1de9251410b2500701a",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 24933,
+          "known_for_department": "Acting",
+          "name": "Jacques Monod",
+          "original_name": "Jacques Monod",
+          "popularity": 0.4196,
+          "profile_path": "/nFMqgmyLtfN969gRVLcc78zU84I.jpg",
+          "cast_id": 16,
+          "character": "Gorel",
+          "credit_id": "58aee1fbc3a36835b8006688",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 18814,
+          "known_for_department": "Acting",
+          "name": "Maurice Garrel",
+          "original_name": "Maurice Garrel",
+          "popularity": 0.5379,
+          "profile_path": "/6W9u0YxtASAmvzozXvvXfJFA3g6.jpg",
+          "cast_id": 17,
+          "character": "Collabo",
+          "credit_id": "63477375f3b49a00905504f4",
+          "order": 13
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 24389,
+          "known_for_department": "Directing",
+          "name": "Denys de La Patellière",
+          "original_name": "Denys de La Patellière",
+          "popularity": 0.4291,
+          "profile_path": "/7xEdKu1IomNg9RDYONbxEfz3b5C.jpg",
+          "credit_id": "52fe4a86c3a36847f81d31ab",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 24389,
+          "known_for_department": "Directing",
+          "name": "Denys de La Patellière",
+          "original_name": "Denys de La Patellière",
+          "popularity": 0.4291,
+          "profile_path": "/7xEdKu1IomNg9RDYONbxEfz3b5C.jpg",
+          "credit_id": "54d3ae60c3a3686ab9004f56",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32013,
+          "known_for_department": "Writing",
+          "name": "Pascal Jardin",
+          "original_name": "Pascal Jardin",
+          "popularity": 0.9832,
+          "profile_path": "/ylsHIApE3hUUUeD6lzs3kTGfum8.jpg",
+          "credit_id": "54d3ae73c3a3686abc004b52",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1967-02-09T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1966-12-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1967-11-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "IT",
+          "title": "Sole nero",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "IT",
+          "title": "L'Angelica avventuriera",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "Sol negro",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Heiße Nächte",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

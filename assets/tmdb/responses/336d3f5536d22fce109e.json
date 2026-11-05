@@ -1,0 +1,217 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/529821?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:38.143Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 529821,
+    "imdb_id": "tt2051853",
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Das schwache Geschlecht muss stärker werden",
+    "overview": "",
+    "popularity": 1.7906,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 46,
+        "logo_path": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+        "name": "WDR",
+        "origin_country": "DE"
+      },
+      {
+        "id": 23286,
+        "logo_path": null,
+        "name": "Rhewes Filmproduktion",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "1969-01-01",
+    "revenue": 0,
+    "runtime": 50,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Das schwache Geschlecht muss stärker werden",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 64520,
+          "known_for_department": "Directing",
+          "name": "Helke Sander",
+          "original_name": "Helke Sander",
+          "popularity": 0.1968,
+          "profile_path": "/kQxvb6MV0rYkrU1bcTs0v6n0Ao4.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "6a1eca00c020a0fecb0868bd",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1382692,
+          "known_for_department": "Directing",
+          "name": "Ula Stöckl",
+          "original_name": "Ula Stöckl",
+          "popularity": 0.3817,
+          "profile_path": "/7hGEundVhxXIPbGCaD3eOxuV6s2.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "6a1eca09064bd806a8ca6034",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1630137,
+          "known_for_department": "Directing",
+          "name": "Claudia von Alemann",
+          "original_name": "Claudia von Alemann",
+          "popularity": 0.8097,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "6a1eca14bdbf4d96d7a08976",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1477899,
+          "known_for_department": "Directing",
+          "name": "Suzanne Beyeler",
+          "original_name": "Suzanne Beyeler",
+          "popularity": 0.2755,
+          "profile_path": "/qPXJInHn5KgWOi3VAhkcib0LRuU.jpg",
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "6a1eca2c2180e63a44086565",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1980035,
+          "known_for_department": "Directing",
+          "name": "Erika Runge",
+          "original_name": "Erika Runge",
+          "popularity": 0.8991,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "6a1eca402180e63a4408656a",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1921074,
+          "known_for_department": "Directing",
+          "name": "Hanna Laura Klar",
+          "original_name": "Hanna Laura Klar",
+          "popularity": 0.5417,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "6a1ece3d4d618b296489ff0a",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1921074,
+          "known_for_department": "Directing",
+          "name": "Hanna Laura Klar",
+          "original_name": "Hanna Laura Klar",
+          "popularity": 0.5417,
+          "profile_path": null,
+          "credit_id": "5b2135289251416e2600ea70",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1921074,
+          "known_for_department": "Directing",
+          "name": "Hanna Laura Klar",
+          "original_name": "Hanna Laura Klar",
+          "popularity": 0.5417,
+          "profile_path": null,
+          "credit_id": "6a1ec9833a5c4600dbb454c6",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2272705,
+          "known_for_department": "Crew",
+          "name": "Peter Schäfer",
+          "original_name": "Peter Schäfer",
+          "popularity": 0.159,
+          "profile_path": null,
+          "credit_id": "6a1ec9a3bdbf4d96d7a0896a",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-01-01T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

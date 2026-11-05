@@ -1,0 +1,115 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1739166?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:09.914Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1739166,
+    "imdb_id": null,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Un domingo cualquiera",
+    "overview": "Si tocan a tu puerta, ábrela y espera lo inesperado... podría ser la cura para todos tus problemas...",
+    "popularity": 1.7544,
+    "poster_path": "/qjA9cesLIJnwgcgBFl2LV9U03Kl.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2012-01-01",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Un domingo cualquiera",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1484427,
+          "known_for_department": "Acting",
+          "name": "Eliud Gómez",
+          "original_name": "Eliud Gómez",
+          "popularity": 0.5388,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6a682d78df9efee85d57b121",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4632576,
+          "known_for_department": "Acting",
+          "name": "Elsa Jaimes",
+          "original_name": "Elsa Jaimes",
+          "popularity": 1.2517,
+          "profile_path": "/AbWxcfAvgCUrwehsqCQzqkSBDEA.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "6a682d81a9e71cf1d29458f7",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3275689,
+          "known_for_department": "Acting",
+          "name": "Claudia de la Cabada",
+          "original_name": "Claudia de la Cabada",
+          "popularity": 1.1514,
+          "profile_path": null,
+          "credit_id": "6a682da769ce892faa945760",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3275689,
+          "known_for_department": "Acting",
+          "name": "Claudia de la Cabada",
+          "original_name": "Claudia de la Cabada",
+          "popularity": 1.1514,
+          "profile_path": null,
+          "credit_id": "6a682dbf48d503cabb146e9c",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2012-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

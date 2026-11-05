@@ -1,0 +1,95 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1809912?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:06.489Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1809912,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "Los Fantasmas de María",
+    "overview": "",
+    "popularity": 0.5862,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 107695,
+        "logo_path": null,
+        "name": "Santiago Independiente",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 75,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Los Fantasmas de María",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1722327,
+          "known_for_department": "Art",
+          "name": "Nicolás Superby",
+          "original_name": "Nicolás Superby",
+          "popularity": 0.1869,
+          "profile_path": null,
+          "credit_id": "6ae1003b7bf8c887677e5559",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2653656,
+          "known_for_department": "Production",
+          "name": "Florencia Dupont",
+          "original_name": "Florencia Dupont",
+          "popularity": 0.3869,
+          "profile_path": null,
+          "credit_id": "6ae100508258319e8ed2c961",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

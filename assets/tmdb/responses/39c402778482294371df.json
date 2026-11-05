@@ -1,0 +1,447 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/780908?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:26.906Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/cdwBBhnQLbURKE8tNKQmL82HbU1.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 780908,
+    "imdb_id": "tt35197968",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "THE END",
+    "overview": "",
+    "popularity": 1.074,
+    "poster_path": "/kg83tsgHHXAGA8DDSUeeX7VTHrc.jpg",
+    "production_companies": [
+      {
+        "id": 113750,
+        "logo_path": "/A3QVZ9Ah0yI2d2GiXUFpdlbTgyr.png",
+        "name": "SEGA",
+        "origin_country": "JP"
+      },
+      {
+        "id": 100657,
+        "logo_path": "/9lopDW10YHpyc4mcu4fTeGxsQh9.png",
+        "name": "Crypton Future Media",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2012-12-01",
+    "revenue": 0,
+    "runtime": 78,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "THE END",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5643320,
+          "known_for_department": "Acting",
+          "name": "初音ミク",
+          "original_name": "初音ミク",
+          "popularity": 0.5468,
+          "profile_path": "/mgdchouyqM3UohjtZqrmnNPcwVA.jpg",
+          "cast_id": 1,
+          "character": "主唱（Vocal）",
+          "credit_id": "68fc55f33474360a26fb6770",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2320364,
+          "known_for_department": "Sound",
+          "name": "渋谷慶一郎",
+          "original_name": "渋谷慶一郎",
+          "popularity": 0.512,
+          "profile_path": null,
+          "credit_id": "6ae6a23e69eb514856080bbc",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2320364,
+          "known_for_department": "Sound",
+          "name": "渋谷慶一郎",
+          "original_name": "渋谷慶一郎",
+          "popularity": 0.512,
+          "profile_path": null,
+          "credit_id": "6ae6a290d2f989c7e9a6c35a",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2382867,
+          "known_for_department": "Visual Effects",
+          "name": "Masaki Yokobe",
+          "original_name": "Masaki Yokobe",
+          "popularity": 0.1591,
+          "profile_path": null,
+          "credit_id": "6ae6a42e01fb8c4044080f36",
+          "department": "Visual Effects",
+          "job": "Visual Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2382867,
+          "known_for_department": "Visual Effects",
+          "name": "Masaki Yokobe",
+          "original_name": "Masaki Yokobe",
+          "popularity": 0.1591,
+          "profile_path": null,
+          "credit_id": "6ae6a442bdb60af9f8f1a7b7",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6591374,
+          "known_for_department": "Art",
+          "name": "Shohei Shigematsu",
+          "original_name": "Shohei Shigematsu",
+          "popularity": 0.0293,
+          "profile_path": null,
+          "credit_id": "6ae6a48169eb514856080bf6",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6591375,
+          "known_for_department": "Sound",
+          "name": "Evala",
+          "original_name": "Evala",
+          "popularity": 0.0487,
+          "profile_path": null,
+          "credit_id": "6ae6a4bdf187bbbf5b080bd8",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6591376,
+          "known_for_department": "Sound",
+          "name": "Pinocchio P",
+          "original_name": "Pinocchio P",
+          "popularity": 0.0359,
+          "profile_path": null,
+          "credit_id": "6ae6a4da7be6cb37b6f1a7ae",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6591377,
+          "known_for_department": "Sound",
+          "name": "Yoshiyuki Kanamori",
+          "original_name": "Yoshiyuki Kanamori",
+          "popularity": 0.0293,
+          "profile_path": null,
+          "credit_id": "6ae6a5031c24281482c8c641",
+          "department": "Sound",
+          "job": "Sound Engineer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6591378,
+          "known_for_department": "Lighting",
+          "name": "Masakazu Ito",
+          "original_name": "Masakazu Ito",
+          "popularity": 0.0293,
+          "profile_path": null,
+          "credit_id": "6ae6a54a7be6cb37b6f1a7be",
+          "department": "Lighting",
+          "job": "Lighting Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6591380,
+          "known_for_department": "Crew",
+          "name": "Masato Tsutsui",
+          "original_name": "Masato Tsutsui",
+          "popularity": 0.0487,
+          "profile_path": null,
+          "credit_id": "6ae6a568f9357a3c1ba6c557",
+          "department": "Crew",
+          "job": "Technical Advisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6591381,
+          "known_for_department": "Crew",
+          "name": "Alfred Birnbaum",
+          "original_name": "Alfred Birnbaum",
+          "popularity": 0.0293,
+          "profile_path": null,
+          "credit_id": "6ae6a58bfbef569ab7a6c2f3",
+          "department": "Crew",
+          "job": "Translator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6591383,
+          "known_for_department": "Crew",
+          "name": "David d'Heilly",
+          "original_name": "David d'Heilly",
+          "popularity": 0.0293,
+          "profile_path": null,
+          "credit_id": "6ae6a5a9f4168eeb46f1aace",
+          "department": "Crew",
+          "job": "Translator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6591384,
+          "known_for_department": "Crew",
+          "name": "Sawako Akune",
+          "original_name": "Sawako Akune",
+          "popularity": 0.0293,
+          "profile_path": null,
+          "credit_id": "6ae6a5c11ad43c0e20080bc7",
+          "department": "Crew",
+          "job": "Translator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6591369,
+          "known_for_department": "Directing",
+          "name": "Sô Ozaki",
+          "original_name": "Sô Ozaki",
+          "popularity": 0.0487,
+          "profile_path": null,
+          "credit_id": "6ae6a5d95f42283152f1ad94",
+          "department": "Directing",
+          "job": "Stage Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6591387,
+          "known_for_department": "Production",
+          "name": "Kazunao Abe",
+          "original_name": "Kazunao Abe",
+          "popularity": 0.0293,
+          "profile_path": null,
+          "credit_id": "6ae6a63a4b3a867ad8f1a713",
+          "department": "Production",
+          "job": "Supervising Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6591388,
+          "known_for_department": "Production",
+          "name": "Ayako Watanabe",
+          "original_name": "Ayako Watanabe",
+          "popularity": 0.0293,
+          "profile_path": null,
+          "credit_id": "6ae6a65ea1f3a32635c8c4b7",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3936982,
+          "known_for_department": "Production",
+          "name": "Atsunori Toshi",
+          "original_name": "Atsunori Toshi",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6ae6a6771c24281482c8c666",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ja",
+              "note": "Abu Dhabi Art Festival",
+              "release_date": "2016-11-18T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ja",
+              "note": "OzAsia Festival",
+              "release_date": "2017-10-03T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ja",
+              "note": "Hamburg International Summer Festival",
+              "release_date": "2016-08-18T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ja",
+              "note": "Aarhus Festuge",
+              "release_date": "2016-08-26T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ja",
+              "note": "L'Auditori",
+              "release_date": "2018-03-27T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ja",
+              "note": "Théâtre du Châtelet",
+              "release_date": "2013-11-12T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ja",
+              "note": "SOU Festival",
+              "release_date": "2017-07-05T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ja",
+              "note": "Bunkamura Orchard Hall",
+              "release_date": "2013-05-23T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ja",
+              "note": "Yamaguchi Center for Arts and Media",
+              "release_date": "2012-12-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ja",
+              "note": "Holland Festival",
+              "release_date": "2015-06-04T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "JP",
+          "title": "ATAK020 THE END",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

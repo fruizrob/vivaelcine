@@ -1,0 +1,232 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1462576?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:10.272Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/1k901OvrcGscYVg41wYpgktT1LR.jpg",
+    "belongs_to_collection": null,
+    "budget": 1000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "id": 1462576,
+    "imdb_id": null,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Domingo",
+    "overview": "Lucrecia se muda a una antigua casa familiar con su amiga, Isabella. Mientras limpian el lugar, extraños sucesos comienzan a ocurrir, sumiendo la casa en una atmósfera cada vez más inquietante.",
+    "popularity": 0.314,
+    "poster_path": "/wuQJjvw8E4qgwdpkFYDKIC6kZA0.jpg",
+    "production_companies": [
+      {
+        "id": 259101,
+        "logo_path": null,
+        "name": "Panorama audiovisuales",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2024-12-18",
+    "revenue": 0,
+    "runtime": 3,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "Una casa vacía, una atmóstera inquietante.",
+    "title": "Domingo",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5363116,
+          "known_for_department": "Acting",
+          "name": "Ana Luna Pogonza Kirschgen",
+          "original_name": "Ana Luna Pogonza Kirschgen",
+          "popularity": 0.1013,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Lucrecia",
+          "credit_id": "67f8431f6c3583c9759a2e6c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5363118,
+          "known_for_department": "Acting",
+          "name": "Malena rÍo GarcÍa",
+          "original_name": "Malena rÍo GarcÍa",
+          "popularity": 0.0991,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Isabella",
+          "credit_id": "67f8433fde5e4dec62ad4d00",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5363120,
+          "known_for_department": "Acting",
+          "name": "Oscar Purita",
+          "original_name": "Oscar Purita",
+          "popularity": 0.127,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Domingo",
+          "credit_id": "67f84378d3ab7d7a8bad6d96",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4881844,
+          "known_for_department": "Editing",
+          "name": "Lucía Parysow",
+          "original_name": "Lucía Parysow",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "67f8450931775276d6d9c2d7",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4881840,
+          "known_for_department": "Camera",
+          "name": "Miranda Villani",
+          "original_name": "Miranda Villani",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "67f84549ea80d85175997cb1",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4464199,
+          "known_for_department": "Art",
+          "name": "Paula Burna",
+          "original_name": "Paula Burna",
+          "popularity": 0.1087,
+          "profile_path": "/p9pJLFfefEgB2K5vZzNz7vJay4r.jpg",
+          "credit_id": "67f8461f31775276d6d9c393",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4881834,
+          "known_for_department": "Directing",
+          "name": "Martin D'Alessio",
+          "original_name": "Martin D'Alessio",
+          "popularity": 0.1256,
+          "profile_path": null,
+          "credit_id": "67f84657d4c444a1cc9992cd",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5363152,
+          "known_for_department": "Camera",
+          "name": "Matteo Marconi",
+          "original_name": "Matteo Marconi",
+          "popularity": 0.1069,
+          "profile_path": null,
+          "credit_id": "67f8467a31775276d6d9c3c9",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4881841,
+          "known_for_department": "Camera",
+          "name": "Facundo Amable",
+          "original_name": "Facundo Amable",
+          "popularity": 0.0925,
+          "profile_path": null,
+          "credit_id": "67f846b131775276d6d9c3f0",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4838418,
+          "known_for_department": "Camera",
+          "name": "Florencia Gotkin",
+          "original_name": "Florencia Gotkin",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "67f846cfea80d85175997cf1",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4838410,
+          "known_for_department": "Production",
+          "name": "Candela Ramirez",
+          "original_name": "Candela Ramirez",
+          "popularity": 0.095,
+          "profile_path": null,
+          "credit_id": "67f846f1cce7690230ad3d99",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4881844,
+          "known_for_department": "Editing",
+          "name": "Lucía Parysow",
+          "original_name": "Lucía Parysow",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "67f84772d81748ccff99782d",
+          "department": "Writing",
+          "job": "Author"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2024-12-18T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

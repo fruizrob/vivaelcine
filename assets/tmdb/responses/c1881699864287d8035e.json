@@ -1,0 +1,322 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1103029?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:52.533Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1103029,
+    "imdb_id": "tt0400078",
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "El 48",
+    "overview": "Fue Proyecto Ganador Concurso INCAA sobre la crisis en el 2002. Humor negrísimo para contar un tiempo que hoy convoca la memoria. It was the Winning Project of the INCAA Contest on the crisis in 2002. Very black humor to tell a time that today evokes memory.",
+    "popularity": 1.3319,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 6458,
+        "logo_path": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+        "name": "INCAA",
+        "origin_country": "AR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2004-08-31",
+    "revenue": 0,
+    "runtime": 53,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "El 48",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 74912,
+          "known_for_department": "Acting",
+          "name": "Alejandro Awada",
+          "original_name": "Alejandro Awada",
+          "popularity": 0.3333,
+          "profile_path": "/eSmf8JANABLuxrkJtzQ5JKLbcdI.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "698c052c6415865346bb7738",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1325816,
+          "known_for_department": "Acting",
+          "name": "Sandra Sandrini",
+          "original_name": "Sandra Sandrini",
+          "popularity": 0.2939,
+          "profile_path": "/23f6H4WIe7pUUoWrvQWDd7x9Yj8.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "698c0541ff821156f6885cf7",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 658081,
+          "known_for_department": "Acting",
+          "name": "Darío Levy",
+          "original_name": "Darío Levy",
+          "popularity": 0.6281,
+          "profile_path": "/h9vrpIALBX97ifb0U3TuyKS88d1.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "698c0558ad430ba1bc67e85d",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 993151,
+          "known_for_department": "Acting",
+          "name": "Vivian El Jaber",
+          "original_name": "Vivian El Jaber",
+          "popularity": 0.8122,
+          "profile_path": "/nihBrNgC8HluV6NqRvp3ssbXytB.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "698c05766415865346bb7751",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 230222,
+          "known_for_department": "Acting",
+          "name": "Diego Alonso",
+          "original_name": "Diego Alonso",
+          "popularity": 0.3211,
+          "profile_path": "/3ac2ZT82mftkVR9D7duqx7hhGi5.jpg",
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "698c0583100de9275a7be50f",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1095017,
+          "known_for_department": "Acting",
+          "name": "Floria Bloise",
+          "original_name": "Floria Bloise",
+          "popularity": 0.3433,
+          "profile_path": "/zhZ9AI31FooEJvq20ulaVFQ0g46.jpg",
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "698c05948eaa117357bb7778",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2336296,
+          "known_for_department": "Acting",
+          "name": "Georgina Rey",
+          "original_name": "Georgina Rey",
+          "popularity": 0.77,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "698c05a0ddecf8fc2e67e833",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3393724,
+          "known_for_department": "Acting",
+          "name": "Carla Pantanali Sandrini",
+          "original_name": "Carla Pantanali Sandrini",
+          "popularity": 0.1481,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "698c05bddbc963ae81a61451",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2235659,
+          "known_for_department": "Acting",
+          "name": "Andrea Jaet",
+          "original_name": "Andrea Jaet",
+          "popularity": 0.4405,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "",
+          "credit_id": "698c05c8dbc963ae81a61455",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2413059,
+          "known_for_department": "Acting",
+          "name": "Gloria Stingo",
+          "original_name": "Gloria Stingo",
+          "popularity": 0.1071,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "",
+          "credit_id": "698c05d635056061cfd3a695",
+          "order": 9
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 995085,
+          "known_for_department": "Writing",
+          "name": "Alejandra Marino",
+          "original_name": "Alejandra Marino",
+          "popularity": 0.2513,
+          "profile_path": null,
+          "credit_id": "641a37b3688cd0007d5eb603",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2166895,
+          "known_for_department": "Camera",
+          "name": "Leandro Martínez",
+          "original_name": "Leandro Martínez",
+          "popularity": 0.3935,
+          "profile_path": null,
+          "credit_id": "698c05f96415865346bb775b",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 995085,
+          "known_for_department": "Writing",
+          "name": "Alejandra Marino",
+          "original_name": "Alejandra Marino",
+          "popularity": 0.2513,
+          "profile_path": null,
+          "credit_id": "698c061258f0bcd62709c2ca",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4986742,
+          "known_for_department": "Writing",
+          "name": "Paula Bartolome",
+          "original_name": "Paula Bartolome",
+          "popularity": 0.2491,
+          "profile_path": null,
+          "credit_id": "698c062792d34fa876a6143e",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2230542,
+          "known_for_department": "Editing",
+          "name": "Pablo Ratto",
+          "original_name": "Pablo Ratto",
+          "popularity": 0.1798,
+          "profile_path": null,
+          "credit_id": "698c0639aefdbf1d4bd54119",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1503240,
+          "known_for_department": "Directing",
+          "name": "Federico Peretti",
+          "original_name": "Federico Peretti",
+          "popularity": 0.6227,
+          "profile_path": "/6vPLfsZfSAZVgjqmsDGhI5Tr6DJ.jpg",
+          "credit_id": "698c0646b4e3e106bf7be542",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5475634,
+          "known_for_department": "Editing",
+          "name": "Ramiro Abrevaya",
+          "original_name": "Ramiro Abrevaya",
+          "popularity": 0.1207,
+          "profile_path": null,
+          "credit_id": "698c0657750b7afd1067e8f0",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4631184,
+          "known_for_department": "Art",
+          "name": "Marianela Gómez",
+          "original_name": "Marianela Gómez",
+          "popularity": 0.1335,
+          "profile_path": null,
+          "credit_id": "698c06cbaa0534ca70a6145c",
+          "department": "Art",
+          "job": "Art Direction"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2004-08-31T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

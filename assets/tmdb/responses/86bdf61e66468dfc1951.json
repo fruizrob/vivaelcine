@@ -1,0 +1,690 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/5036?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:39.863Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/7h1NlsHPsgZ0T6btQo3T1VQH7YZ.jpg",
+    "belongs_to_collection": {
+      "id": 730288,
+      "name": "Black Hills Filmreihe",
+      "poster_path": "/t1sglvSVRtcbYPGuhN0MFi0Z1SR.jpg",
+      "backdrop_path": "/3M0qplaoenTN5xN66uUWHfge77x.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 37,
+        "name": "Western"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "id": 5036,
+    "imdb_id": "tt0063798",
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Weisse Wölfe",
+    "overview": "",
+    "popularity": 0.6918,
+    "poster_path": "/sMrb5ynngRdqf7IKjhf2d5MEraX.jpg",
+    "production_companies": [
+      {
+        "id": 10617,
+        "logo_path": null,
+        "name": "Bosna film",
+        "origin_country": "YU"
+      },
+      {
+        "id": 602,
+        "logo_path": "/pVsXRFbYVDe5BhsATCAh1rt5F0k.png",
+        "name": "DEFA-Studio für Spielfilme",
+        "origin_country": "XG"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "YU",
+        "name": "Yugoslavia"
+      },
+      {
+        "iso_3166_1": "XG",
+        "name": "East Germany"
+      }
+    ],
+    "release_date": "1969-06-25",
+    "revenue": 0,
+    "runtime": 101,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Weisse Wölfe",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 15,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22588,
+          "known_for_department": "Acting",
+          "name": "Gojko Mitić",
+          "original_name": "Gojko Mitić",
+          "popularity": 0.4868,
+          "profile_path": "/mPHF1GvdLVDJXtRq7X0Qe4uKFl.jpg",
+          "cast_id": 1,
+          "character": "Weitspähender Falke",
+          "credit_id": "52fe43eec3a36847f8079185",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22843,
+          "known_for_department": "Acting",
+          "name": "Horst Schulze",
+          "original_name": "Horst Schulze",
+          "popularity": 0.3195,
+          "profile_path": "/bQiNSzdyU1ysOp8pCZPzSHmIHpC.jpg",
+          "cast_id": 4,
+          "character": "Collins P. Harrington",
+          "credit_id": "52fe43eec3a36847f8079191",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 22590,
+          "known_for_department": "Acting",
+          "name": "Barbara Brylska",
+          "original_name": "Barbara Brylska",
+          "popularity": 0.6671,
+          "profile_path": "/qWsKs7uRuV38OiB0UxTNKuI9EcM.jpg",
+          "cast_id": 2,
+          "character": "Catherine Emmerson",
+          "credit_id": "52fe43eec3a36847f8079189",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 28766,
+          "known_for_department": "Acting",
+          "name": "Holger Mahlich",
+          "original_name": "Holger Mahlich",
+          "popularity": 0.259,
+          "profile_path": "/24ckcgfrWrVVdk1Ex32vuysdAmv.jpg",
+          "cast_id": 3,
+          "character": "Pat Patterson",
+          "credit_id": "52fe43eec3a36847f807918d",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 37962,
+          "known_for_department": "Acting",
+          "name": "Slobodan Dimitrijević",
+          "original_name": "Slobodan Dimitrijević",
+          "popularity": 0.5736,
+          "profile_path": "/ndugl2erNeLkSBqWU1XJQ3kCCqA.jpg",
+          "cast_id": 41,
+          "character": "Listiger Fuchs",
+          "credit_id": "61df2be45bce9e0041717195",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1535944,
+          "known_for_department": "Acting",
+          "name": "Slobodan Velimirović",
+          "original_name": "Slobodan Velimirović",
+          "popularity": 0.3649,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "Starke Linkshand",
+          "credit_id": "5d1ccd7a283ed9000e18cb19",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22593,
+          "known_for_department": "Acting",
+          "name": "Helmut Schreiber",
+          "original_name": "Helmut Schreiber",
+          "popularity": 0.4146,
+          "profile_path": "/2fuIHZvFPNuu60NRlErUBcb25xa.jpg",
+          "cast_id": 5,
+          "character": "Samuel \"Sam\" Blake",
+          "credit_id": "52fe43eec3a36847f8079195",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22594,
+          "known_for_department": "Acting",
+          "name": "Fred Delmare",
+          "original_name": "Fred Delmare",
+          "popularity": 0.3402,
+          "profile_path": "/xQtIdXUM5J8qtkXlPxfiHbwXeFY.jpg",
+          "cast_id": 16,
+          "character": "Peter Hille",
+          "credit_id": "5ae3a5dfc3a368491200733e",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32618,
+          "known_for_department": "Acting",
+          "name": "Fred Ludwig",
+          "original_name": "Fred Ludwig",
+          "popularity": 0.3615,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "John Emerson",
+          "credit_id": "5d1ccd9655b0c00b7a6c19bd",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6270,
+          "known_for_department": "Acting",
+          "name": "Rolf Hoppe",
+          "original_name": "Rolf Hoppe",
+          "popularity": 0.4013,
+          "profile_path": "/eniQcrI1PKCBumgm3AysmidGD1R.jpg",
+          "cast_id": 6,
+          "character": "James Besham",
+          "credit_id": "52fe43eec3a36847f8079199",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2353495,
+          "known_for_department": "Acting",
+          "name": "Karl Zugowski",
+          "original_name": "Karl Zugowski",
+          "popularity": 0.1714,
+          "profile_path": "/ijeytakwfF9JqgKPn2Y3UsbB2Zo.jpg",
+          "cast_id": 24,
+          "character": "Andy Sleek",
+          "credit_id": "5d1ccdb994d8a8000f3eaec4",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1043255,
+          "known_for_department": "Acting",
+          "name": "Predrag 'Preža' Milinković",
+          "original_name": "Predrag 'Preža' Milinković",
+          "popularity": 0.4227,
+          "profile_path": "/cf5b9z4j7ScQc40ncnXtrGu3GZD.jpg",
+          "cast_id": 25,
+          "character": "Indijanac David",
+          "credit_id": "5d1ccdd2a13533001106f4a4",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32617,
+          "known_for_department": "Acting",
+          "name": "Milan Jablonský",
+          "original_name": "Milan Jablonský",
+          "popularity": 0.2874,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Jim",
+          "credit_id": "52fe43eec3a36847f807919d",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1090592,
+          "known_for_department": "Acting",
+          "name": "Mavid Popović",
+          "original_name": "Mavid Popović",
+          "popularity": 0.1802,
+          "profile_path": null,
+          "cast_id": 26,
+          "character": "Little Wolf",
+          "credit_id": "5d1ccde9a135337871054e57",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22794,
+          "known_for_department": "Acting",
+          "name": "Gerry Wolff",
+          "original_name": "Gerry Wolff",
+          "popularity": 1.5571,
+          "profile_path": "/h2hAJ0RLJ4Xx08EaTsCuUrDwQvj.jpg",
+          "cast_id": 27,
+          "character": "Josuah McGrave",
+          "credit_id": "5d1ccdf7283ed9000e18cc31",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32625,
+          "known_for_department": "Acting",
+          "name": "Paul Berndt",
+          "original_name": "Paul Berndt",
+          "popularity": 0.5024,
+          "profile_path": "/qF4Zi4CWP5nsbcNauHpTTmPKrQs.jpg",
+          "cast_id": 15,
+          "character": "Bill Myers",
+          "credit_id": "53f9e487c3a368735b002e8a",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1626934,
+          "known_for_department": "Acting",
+          "name": "Horst Preusker",
+          "original_name": "Horst Preusker",
+          "popularity": 0.5982,
+          "profile_path": "/6nWAt8i3jV8FnZja6Y1nl1JCDiV.jpg",
+          "cast_id": 17,
+          "character": "Captain Wessels",
+          "credit_id": "5ae3a5fa0e0a264a00006154",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14216,
+          "known_for_department": "Acting",
+          "name": "Bruno Carstens",
+          "original_name": "Bruno Carstens",
+          "popularity": 0.8759,
+          "profile_path": "/7qMd6YEjWMJApigBF2ay1JcX2DI.jpg",
+          "cast_id": 28,
+          "character": "Roy",
+          "credit_id": "5d1cce08a13533000f06ecc8",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22920,
+          "known_for_department": "Acting",
+          "name": "Hannes Fischer",
+          "original_name": "Hannes Fischer",
+          "popularity": 1.0817,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "Bryde",
+          "credit_id": "5d1cce10283ed9001018bbd7",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 22591,
+          "known_for_department": "Acting",
+          "name": "ლალი მესხი",
+          "original_name": "ლალი მესხი",
+          "popularity": 0.6045,
+          "profile_path": "/rrHYtLroMmJ9sHljxLgFKtqAupx.jpg",
+          "cast_id": 30,
+          "character": "Blauhaar",
+          "credit_id": "5d1cce2155b0c00b7a6c1adf",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22352,
+          "known_for_department": "Acting",
+          "name": "Jochen Thomas",
+          "original_name": "Jochen Thomas",
+          "popularity": 0.4018,
+          "profile_path": "/11kflWEBh08qZpB0TAkLgoSPIWD.jpg",
+          "cast_id": 31,
+          "character": "Stumpfmesser",
+          "credit_id": "5d1cce3194d8a8395e3c5e2c",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1321966,
+          "known_for_department": "Acting",
+          "name": "Bogić Bošković",
+          "original_name": "Bogić Bošković",
+          "popularity": 0.1797,
+          "profile_path": null,
+          "cast_id": 42,
+          "character": "Indianer",
+          "credit_id": "626cea5b245dbe006541c4dd",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 23248,
+          "known_for_department": "Acting",
+          "name": "Klaus-Peter Thiele",
+          "original_name": "Klaus-Peter Thiele",
+          "popularity": 0.2959,
+          "profile_path": "/d9OGaljgmnN58dE0hPZK2KfZOCF.jpg",
+          "cast_id": 33,
+          "character": "Leutnant",
+          "credit_id": "5d1cce4294d8a831163c045a",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 23050,
+          "known_for_department": "Acting",
+          "name": "Willi Neuenhahn",
+          "original_name": "Willi Neuenhahn",
+          "popularity": 0.6527,
+          "profile_path": null,
+          "cast_id": 32,
+          "character": "Arbeiterführer",
+          "credit_id": "5d1cce39283ed9001118d23f",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22925,
+          "known_for_department": "Acting",
+          "name": "Rolf Ripperger",
+          "original_name": "Rolf Ripperger",
+          "popularity": 0.2679,
+          "profile_path": null,
+          "cast_id": 34,
+          "character": "Rittmeister",
+          "credit_id": "5d1cce4855b0c07f3b6a6289",
+          "order": 24
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1456952,
+          "known_for_department": "Acting",
+          "name": "Harald Moszdorf",
+          "original_name": "Harald Moszdorf",
+          "popularity": 0.294,
+          "profile_path": null,
+          "cast_id": 36,
+          "character": "Frazer",
+          "credit_id": "61aa250a97eab400446ad835",
+          "order": 25
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 32631,
+          "known_for_department": "Acting",
+          "name": "Dagmar Delmare",
+          "original_name": "Dagmar Delmare",
+          "popularity": 0.192,
+          "profile_path": null,
+          "cast_id": 37,
+          "character": "Kitty",
+          "credit_id": "61aa2523e267de008e7a2403",
+          "order": 26
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 697,
+          "known_for_department": "Acting",
+          "name": "Michael Gwisdek",
+          "original_name": "Michael Gwisdek",
+          "popularity": 0.5356,
+          "profile_path": "/u7MRuYvinuG38duqsDsKIA2DxqV.jpg",
+          "cast_id": 18,
+          "character": "Mann im Camp",
+          "credit_id": "5ae3a60e0e0a264a06005ce3",
+          "order": 27
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1859349,
+          "known_for_department": "Acting",
+          "name": "Gert Hänsch",
+          "original_name": "Gert Hänsch",
+          "popularity": 0.2044,
+          "profile_path": null,
+          "cast_id": 38,
+          "character": "Erster Bandit",
+          "credit_id": "61aa2534a5743d00434222aa",
+          "order": 28
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1518377,
+          "known_for_department": "Acting",
+          "name": "Gerd Staiger",
+          "original_name": "Gerd Staiger",
+          "popularity": 0.156,
+          "profile_path": "/omAOROpWN1cvtqhPyZmaoYvN66O.jpg",
+          "cast_id": 39,
+          "character": "Zweiter Bandit",
+          "credit_id": "61aa2543e267de004465dd4d",
+          "order": 29
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 23054,
+          "known_for_department": "Acting",
+          "name": "Albert Zahn",
+          "original_name": "Albert Zahn",
+          "popularity": 0.6773,
+          "profile_path": null,
+          "cast_id": 40,
+          "character": "Lokomotivführer",
+          "credit_id": "61aa255d7ecd2800962bee1a",
+          "order": 30
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1040819,
+          "known_for_department": "Acting",
+          "name": "Günter Rüger",
+          "original_name": "Günter Rüger",
+          "popularity": 0.3145,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Zugbegleiter",
+          "credit_id": "5c4c7b63c3a36847778feceb",
+          "order": 31
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 74190,
+          "known_for_department": "Acting",
+          "name": "Waltraut Kramm",
+          "original_name": "Waltraut Kramm",
+          "popularity": 0.5822,
+          "profile_path": "/uEcTJWyw2TWyUHAZ8rt8xCGWcrg.jpg",
+          "cast_id": 43,
+          "character": "Mutter",
+          "credit_id": "626ceaa7245dbe00993e8940",
+          "order": 32
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22775,
+          "known_for_department": "Directing",
+          "name": "Konrad Petzold",
+          "original_name": "Konrad Petzold",
+          "popularity": 0.2636,
+          "profile_path": "/zCLtbfAnX4F9PNS5foDmV3BGYN3.jpg",
+          "credit_id": "52fe43eec3a36847f80791a3",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22578,
+          "known_for_department": "Writing",
+          "name": "Günter Karl",
+          "original_name": "Günter Karl",
+          "popularity": 0.2762,
+          "profile_path": null,
+          "credit_id": "52fe43eec3a36847f80791a9",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22847,
+          "known_for_department": "Sound",
+          "name": "Karl-Ernst Sasse",
+          "original_name": "Karl-Ernst Sasse",
+          "popularity": 0.3101,
+          "profile_path": null,
+          "credit_id": "52fe43eec3a36847f80791af",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 41395,
+          "known_for_department": "Camera",
+          "name": "Eberhard Borkmann",
+          "original_name": "Eberhard Borkmann",
+          "popularity": 0.3054,
+          "profile_path": null,
+          "credit_id": "52fe43eec3a36847f80791b5",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 22971,
+          "known_for_department": "Editing",
+          "name": "Thea Richter",
+          "original_name": "Thea Richter",
+          "popularity": 0.2576,
+          "profile_path": null,
+          "credit_id": "52fe43eec3a36847f80791bb",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 22972,
+          "known_for_department": "Art",
+          "name": "Heinz Röske",
+          "original_name": "Heinz Röske",
+          "popularity": 0.3295,
+          "profile_path": null,
+          "credit_id": "52fe43eec3a36847f80791c1",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22584,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Günter Schmidt",
+          "original_name": "Günter Schmidt",
+          "popularity": 0.1888,
+          "profile_path": null,
+          "credit_id": "52fe43eec3a36847f80791c7",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1524970,
+          "known_for_department": "Directing",
+          "name": "Boško Bošković",
+          "original_name": "Boško Bošković",
+          "popularity": 0.1653,
+          "profile_path": null,
+          "credit_id": "5d1ccd41283ed9000f18b3e8",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "de",
+              "note": "",
+              "release_date": "1969-06-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SU",
+          "release_dates": [
+            {
+              "certification": "12+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1970-07-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

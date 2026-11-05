@@ -1,0 +1,719 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/70104?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:18.901Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/yB2rCIgYAblGr24um29IHI29eXg.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10770,
+        "name": "Película de TV"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 70104,
+    "imdb_id": "tt0104612",
+    "origin_country": [
+      "CA",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "A Killer Among Friends",
+    "overview": "Todo cambiará para la familia de Jenny, cuando hallan su cadáver en un río después de que ésta quedara con una amiga para acudir a una fiesta. Su madre está destrozada, pero ello no impide para que saque las fuerzas necesarias para ayudar a la investigación que lleva a cabo una directiva de la policía. Después de interrogar a las dos mejores amigas de Jenny, quedan fuera de sospecha, y habrá otros sospechosos.",
+    "popularity": 1.1898,
+    "poster_path": "/prgjxNqjM9079DgIE4RWaY3tgYT.jpg",
+    "production_companies": [
+      {
+        "id": 40462,
+        "logo_path": null,
+        "name": "Bonnie Raskin Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 1192,
+        "logo_path": null,
+        "name": "Green/Epstein Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 1193,
+        "logo_path": "/ctXTFMt91z96WMbMOlW0Morgwny.png",
+        "name": "Lorimar Television",
+        "origin_country": "US"
+      },
+      {
+        "id": 4898,
+        "logo_path": "/nm8d7P7MJNiBLdgIzUK0gkuEA4r.png",
+        "name": "CBS",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "1992-12-08",
+    "revenue": 0,
+    "runtime": 96,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Crimen entre amigas",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 63,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 27446,
+          "known_for_department": "Acting",
+          "name": "Patty Duke",
+          "original_name": "Patty Duke",
+          "popularity": 1.1269,
+          "profile_path": "/kksWwV7ECdJWKc269U2qU6GtBN5.jpg",
+          "cast_id": 0,
+          "character": "Jean Monroe",
+          "credit_id": "538faae9c3a3680d4e00090d",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 167090,
+          "known_for_department": "Acting",
+          "name": "Margaret Welsh",
+          "original_name": "Margaret Welsh",
+          "popularity": 0.6546,
+          "profile_path": "/yGHgZFMlzjdHFyaAEl9ej0iwHa8.jpg",
+          "cast_id": 32,
+          "character": "Ellen Holloway",
+          "credit_id": "63a04ef3da10f01c3c83863e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 19187,
+          "known_for_department": "Acting",
+          "name": "Tiffani Thiessen",
+          "original_name": "Tiffani Thiessen",
+          "popularity": 3.0949,
+          "profile_path": "/2L2lENLehoG1OPgxtugS9gG1bdy.jpg",
+          "cast_id": 2,
+          "character": "Jenny Monroe",
+          "credit_id": "538fab12c3a3680d47000a0f",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 585136,
+          "known_for_department": "Acting",
+          "name": "Angie Rae McKinney",
+          "original_name": "Angie Rae McKinney",
+          "popularity": 0.1602,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Carla Lewis",
+          "credit_id": "538fab22c3a36858fd000641",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 155282,
+          "known_for_department": "Acting",
+          "name": "David Cubitt",
+          "original_name": "David Cubitt",
+          "popularity": 0.8991,
+          "profile_path": "/2zR5HQnOFLB6tvgmKofuk5J0E4D.jpg",
+          "cast_id": 4,
+          "character": "Greg Monroe",
+          "credit_id": "538fab33c3a3680d5e000984",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 27114,
+          "known_for_department": "Acting",
+          "name": "Janne Mortil",
+          "original_name": "Janne Mortil",
+          "popularity": 0.4787,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Kathy Pearl",
+          "credit_id": "538fab46c3a3680d47000a15",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 55428,
+          "known_for_department": "Acting",
+          "name": "Loretta Swit",
+          "original_name": "Loretta Swit",
+          "popularity": 0.9735,
+          "profile_path": "/qCBlSTiZLlQFKHiy5PVYQZnzqfI.jpg",
+          "cast_id": 6,
+          "character": "Det. Patricia Staley",
+          "credit_id": "538fab5ac3a36858fd000646",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1327712,
+          "known_for_department": "Acting",
+          "name": "Debra Sharkey",
+          "original_name": "Debra Sharkey",
+          "popularity": 0.2092,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Sheryl Monroe",
+          "credit_id": "538fab72c3a3680d40000990",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1218206,
+          "known_for_department": "Acting",
+          "name": "Ben Bass",
+          "original_name": "Ben Bass",
+          "popularity": 0.9698,
+          "profile_path": "/5mCpp6bwK4451g0ld622Mmzhf1R.jpg",
+          "cast_id": 8,
+          "character": "Steve",
+          "credit_id": "538fab7fc3a3680d40000994",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1216156,
+          "known_for_department": "Acting",
+          "name": "Chad Todhunter",
+          "original_name": "Chad Todhunter",
+          "popularity": 0.4911,
+          "profile_path": "/9WX3yLJowba7Yp8A4zdNruKXhC3.jpg",
+          "cast_id": 9,
+          "character": "Adam Monroe",
+          "credit_id": "538fab8ec3a3680d5e00098a",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 67520,
+          "known_for_department": "Acting",
+          "name": "William S. Taylor",
+          "original_name": "William S. Taylor",
+          "popularity": 0.671,
+          "profile_path": "/8cFNwpo0WGrEZ0QCzMdy6kZHJeV.jpg",
+          "cast_id": 36,
+          "character": "Det. Mike Collins",
+          "credit_id": "6a717c937ad1e574d005b8f9",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 106532,
+          "known_for_department": "Acting",
+          "name": "Babs Chula",
+          "original_name": "Babs Chula",
+          "popularity": 0.4607,
+          "profile_path": "/8AVQQb6vYWuyjpYK8a07ExNk5OZ.jpg",
+          "cast_id": 10,
+          "character": "Diane",
+          "credit_id": "538faba2c3a3680d660009a4",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 77210,
+          "known_for_department": "Acting",
+          "name": "Matthew Bennett",
+          "original_name": "Matthew Bennett",
+          "popularity": 0.6719,
+          "profile_path": "/32bw21SoRJNddrhWPOZ149irOgi.jpg",
+          "cast_id": 11,
+          "character": "Dan",
+          "credit_id": "538fabafc3a3680d5e00098f",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6389125,
+          "known_for_department": "Acting",
+          "name": "Heather Beaty",
+          "original_name": "Heather Beaty",
+          "popularity": 0.1041,
+          "profile_path": null,
+          "cast_id": 37,
+          "character": "Celeste",
+          "credit_id": "6a717cca363f6d809ab5e85e",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3980689,
+          "known_for_department": "Acting",
+          "name": "Shannon Beaty",
+          "original_name": "Shannon Beaty",
+          "popularity": 0.2379,
+          "profile_path": null,
+          "cast_id": 38,
+          "character": "Celeste",
+          "credit_id": "6a717cda363f6d809ab5e862",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16559,
+          "known_for_department": "Acting",
+          "name": "Alf Humphreys",
+          "original_name": "Alf Humphreys",
+          "popularity": 0.5748,
+          "profile_path": "/uxY07qvGzaqVdtu4CpQjGs3W9KK.jpg",
+          "cast_id": 39,
+          "character": "Priest",
+          "credit_id": "6a717cf9f8ea7a0203a27a76",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12834,
+          "known_for_department": "Acting",
+          "name": "Barry Pepper",
+          "original_name": "Barry Pepper",
+          "popularity": 2.8681,
+          "profile_path": "/xBvW4dMoz496rItLQU6TGteYCEP.jpg",
+          "cast_id": 33,
+          "character": "Mickey Turner",
+          "credit_id": "64ddcd4c5ab81a00ffc105ea",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1217012,
+          "known_for_department": "Acting",
+          "name": "Lisa Vultaggio",
+          "original_name": "Lisa Vultaggio",
+          "popularity": 0.2858,
+          "profile_path": "/vgqnNlFkst4GYk76EvTa0bAwPZX.jpg",
+          "cast_id": 40,
+          "character": "Susan",
+          "credit_id": "6a717d4a0f9b77870346ad16",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2595450,
+          "known_for_department": "Acting",
+          "name": "Jacques Lalonde",
+          "original_name": "Jacques Lalonde",
+          "popularity": 0.2077,
+          "profile_path": "/iRGMlu63gUhuqrVmGfsw2gF30We.jpg",
+          "cast_id": 41,
+          "character": "Guy #1",
+          "credit_id": "6a717d5408cff3672a05ba2c",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 77622,
+          "known_for_department": "Acting",
+          "name": "Catherine Lough Haggquist",
+          "original_name": "Catherine Lough Haggquist",
+          "popularity": 0.897,
+          "profile_path": "/3q6uhNYa7Dapl09YtqVrwndmj1l.jpg",
+          "cast_id": 42,
+          "character": "Girl #2",
+          "credit_id": "6a717d5d4f0cad41f305b922",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1429554,
+          "known_for_department": "Acting",
+          "name": "Rene Mankuma",
+          "original_name": "Rene Mankuma",
+          "popularity": 0.113,
+          "profile_path": null,
+          "cast_id": 43,
+          "character": "Guy #2",
+          "credit_id": "6a717e19098614e944a27b58",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 105791,
+          "known_for_department": "Acting",
+          "name": "Charles Andre",
+          "original_name": "Charles Andre",
+          "popularity": 0.5735,
+          "profile_path": "/ehfEA8Lth54VM5fwZeYdbRx2d9f.jpg",
+          "cast_id": 44,
+          "character": "Hiker",
+          "credit_id": "6a717e29c7aaf830af53fc3e",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 139621,
+          "known_for_department": "Acting",
+          "name": "Alfonso Quijada",
+          "original_name": "Alfonso Quijada",
+          "popularity": 0.4949,
+          "profile_path": "/d9jUAssHaBOtwHGOeuCrVN1lOPm.jpg",
+          "cast_id": 45,
+          "character": "Boy #1",
+          "credit_id": "6a717e47c7aaf830af53fc46",
+          "order": 22
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 68606,
+          "known_for_department": "Writing",
+          "name": "Christopher Lofton",
+          "original_name": "Christopher Lofton",
+          "popularity": 0.2856,
+          "profile_path": null,
+          "credit_id": "538fabf5c3a36858fd000663",
+          "department": "Writing",
+          "job": "Teleplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 84113,
+          "known_for_department": "Writing",
+          "name": "Charles Robert Carner",
+          "original_name": "Charles Robert Carner",
+          "popularity": 1.0633,
+          "profile_path": null,
+          "credit_id": "538fabcec3a36858fd000655",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 68606,
+          "known_for_department": "Writing",
+          "name": "Christopher Lofton",
+          "original_name": "Christopher Lofton",
+          "popularity": 0.2856,
+          "profile_path": null,
+          "credit_id": "538fabe0c3a3680d5e000994",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 84113,
+          "known_for_department": "Writing",
+          "name": "Charles Robert Carner",
+          "original_name": "Charles Robert Carner",
+          "popularity": 1.0633,
+          "profile_path": null,
+          "credit_id": "5666e17292514129b2001104",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 190247,
+          "known_for_department": "Camera",
+          "name": "Richard Leiterman",
+          "original_name": "Richard Leiterman",
+          "popularity": 0.254,
+          "profile_path": null,
+          "credit_id": "5666e1d0c3a36808f300111c",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1440896,
+          "known_for_department": "Art",
+          "name": "Clyde Klotz",
+          "original_name": "Clyde Klotz",
+          "popularity": 0.2946,
+          "profile_path": null,
+          "credit_id": "5666e22ac3a36808f300112c",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1067063,
+          "known_for_department": "Writing",
+          "name": "John Miglis",
+          "original_name": "John Miglis",
+          "popularity": 0.4029,
+          "profile_path": null,
+          "credit_id": "5666e156c3a36808f0000fc0",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1529604,
+          "known_for_department": "Art",
+          "name": "Linda Vipond",
+          "original_name": "Linda Vipond",
+          "popularity": 0.2365,
+          "profile_path": null,
+          "credit_id": "5666e23e92514129af0010f9",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1324,
+          "known_for_department": "Production",
+          "name": "Victoria Burrows",
+          "original_name": "Victoria Burrows",
+          "popularity": 0.7649,
+          "profile_path": "/iaRRZPagufvpTtaxfHOUHNDs4Wm.jpg",
+          "credit_id": "5666e1f4c3a36808f3001123",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1546395,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Jane E. Still",
+          "original_name": "Jane E. Still",
+          "popularity": 0.2889,
+          "profile_path": null,
+          "credit_id": "5666e254c3a36808e900106f",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1316709,
+          "known_for_department": "Production",
+          "name": "Mark Bacino",
+          "original_name": "Mark Bacino",
+          "popularity": 0.1971,
+          "profile_path": null,
+          "credit_id": "5666e192c3a36808f3001115",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 42360,
+          "known_for_department": "Production",
+          "name": "Scot Boland",
+          "original_name": "Scot Boland",
+          "popularity": 0.5795,
+          "profile_path": null,
+          "credit_id": "5666e289c3a36808e900107f",
+          "department": "Production",
+          "job": "Casting Associate"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1460786,
+          "known_for_department": "Directing",
+          "name": "Stephanie Rossel",
+          "original_name": "Stephanie Rossel",
+          "popularity": 0.2862,
+          "profile_path": null,
+          "credit_id": "5666e29dc3a36808fe00111f",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1318482,
+          "known_for_department": "Editing",
+          "name": "David Blangsted",
+          "original_name": "David Blangsted",
+          "popularity": 0.3145,
+          "profile_path": null,
+          "credit_id": "5666e1e192514129ad000fb5",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1357610,
+          "known_for_department": "Art",
+          "name": "Richard Wilcox",
+          "original_name": "Richard Wilcox",
+          "popularity": 0.2678,
+          "profile_path": null,
+          "credit_id": "5666e20d92514129b50010c4",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 63560,
+          "known_for_department": "Production",
+          "name": "Sid Kozak",
+          "original_name": "Sid Kozak",
+          "popularity": 0.4805,
+          "profile_path": null,
+          "credit_id": "5666e275c3a36808fe001118",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3118324,
+          "known_for_department": "Production",
+          "name": "Bonnie Raskin",
+          "original_name": "Bonnie Raskin",
+          "popularity": 0.3516,
+          "profile_path": null,
+          "credit_id": "63797134336e0100d9785c4b",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 64166,
+          "known_for_department": "Production",
+          "name": "Matthew O'Connor",
+          "original_name": "Matthew O'Connor",
+          "popularity": 0.546,
+          "profile_path": null,
+          "credit_id": "59ed99e592514119fc027bda",
+          "department": "Production",
+          "job": "Supervising Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1398569,
+          "known_for_department": "Camera",
+          "name": "Peter F. Woeste",
+          "original_name": "Peter F. Woeste",
+          "popularity": 0.3469,
+          "profile_path": null,
+          "credit_id": "6963ca62eb83cb1025d1563d",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 570325,
+          "known_for_department": "Sound",
+          "name": "Richard Bellis",
+          "original_name": "Richard Bellis",
+          "popularity": 0.2624,
+          "profile_path": null,
+          "credit_id": "6a717bc914be6a20be6c25f9",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "CBS",
+              "release_date": "1992-12-08T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Friends to the End",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "SE",
+          "title": "Vänner till slutet",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PT",
+          "title": "Um Assassino Entre Amigos",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "Crimen entre amigas",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BR",
+          "title": "Amizade Perigosa",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

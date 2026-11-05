@@ -1,0 +1,148 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/315163?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:01.733Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 315163,
+    "imdb_id": "",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Unboxing",
+    "overview": "",
+    "popularity": 0.3535,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2014-12-21",
+    "revenue": 0,
+    "runtime": 1,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Unboxing",
+    "video": false,
+    "vote_average": 4,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1407554,
+          "known_for_department": "Acting",
+          "name": "Cristina Lahoz",
+          "original_name": "Cristina Lahoz",
+          "popularity": 0.095,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Box",
+          "credit_id": "54a5c4ddc3a368642800616d",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1407555,
+          "known_for_department": "Camera",
+          "name": "Juan Luis Martínez",
+          "original_name": "Juan Luis Martínez",
+          "popularity": 0.163,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Extra",
+          "credit_id": "54a5c4ecc3a368764f01224f",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1407551,
+          "known_for_department": "Directing",
+          "name": "Álvaro Vidal",
+          "original_name": "Álvaro Vidal",
+          "popularity": 0.1709,
+          "profile_path": null,
+          "credit_id": "54a5c402c3a3680b27012834",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1407553,
+          "known_for_department": "Costume & Make-Up",
+          "name": "María Sánchez",
+          "original_name": "María Sánchez",
+          "popularity": 0.095,
+          "profile_path": null,
+          "credit_id": "54a5c4bdc3a368764f012247",
+          "department": "Costume & Make-Up",
+          "job": "Hairstylist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1407552,
+          "known_for_department": "Crew",
+          "name": "José David López",
+          "original_name": "José David López",
+          "popularity": 0.1201,
+          "profile_path": null,
+          "credit_id": "54a5c48bc3a3682f2101547b",
+          "department": "Crew",
+          "job": "Steadycam"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2014-12-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "ES",
+          "title": "Iconotrash",
+          "type": "Subtitle"
+        }
+      ]
+    }
+  }
+}

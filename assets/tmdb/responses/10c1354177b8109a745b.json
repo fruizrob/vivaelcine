@@ -1,0 +1,253 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/388294?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:02.776Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 388294,
+    "imdb_id": "tt0103661",
+    "origin_country": [
+      "DE",
+      "CH"
+    ],
+    "original_language": "de",
+    "original_title": "Am Ende der Nacht",
+    "overview": "",
+    "popularity": 1.3435,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 28950,
+        "logo_path": "/8RuUUKhPiJbICV03XO79IhSh8CH.png",
+        "name": "Dschoint Ventschr Filmproduktion",
+        "origin_country": "CH"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CH",
+        "name": "Switzerland"
+      }
+    ],
+    "release_date": "1992-03-16",
+    "revenue": 0,
+    "runtime": 88,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Am Ende der Nacht",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1559445,
+          "known_for_department": "Acting",
+          "name": "Jessica Früh",
+          "original_name": "Jessica Früh",
+          "popularity": 0.3224,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Edith",
+          "credit_id": "5718ad7ac3a3687c2c003f21",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1166751,
+          "known_for_department": "Acting",
+          "name": "Peter von Strombeck",
+          "original_name": "Peter von Strombeck",
+          "popularity": 0.8389,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Robert Tanner",
+          "credit_id": "5718ad91c3a3687b8c003f20",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1334929,
+          "known_for_department": "Acting",
+          "name": "Eva Scheurer",
+          "original_name": "Eva Scheurer",
+          "popularity": 0.3214,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Maria",
+          "credit_id": "5718ada8c3a3686c830040ab",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1178322,
+          "known_for_department": "Acting",
+          "name": "Peter Bollag",
+          "original_name": "Peter Bollag",
+          "popularity": 0.3102,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Werner",
+          "credit_id": "5718adbec3a3687bc700344e",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1320669,
+          "known_for_department": "Acting",
+          "name": "René Schoenenberger",
+          "original_name": "René Schoenenberger",
+          "popularity": 0.3937,
+          "profile_path": "/4Gbn2sHZ5vGWAREhrZeo52ksqqa.jpg",
+          "cast_id": 12,
+          "character": "Keller",
+          "credit_id": "5718add5c3a3680160003b66",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 72380,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Dorothee Schmid",
+          "original_name": "Dorothee Schmid",
+          "popularity": 0.3043,
+          "profile_path": null,
+          "credit_id": "5718ad57c3a3687b8c003f16",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 64002,
+          "known_for_department": "Production",
+          "name": "Susann Rüdlinger",
+          "original_name": "Susann Rüdlinger",
+          "popularity": 0.1597,
+          "profile_path": null,
+          "credit_id": "5718acb3c3a3687c2c003ed2",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 67011,
+          "known_for_department": "Directing",
+          "name": "Christoph Schaub",
+          "original_name": "Christoph Schaub",
+          "popularity": 0.6701,
+          "profile_path": "/tnXoNBoWXqc4yJNZRj19AqG5QEc.jpg",
+          "credit_id": "5718abb292514110010012db",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1607923,
+          "known_for_department": "Editing",
+          "name": "Fee Liechti",
+          "original_name": "Fee Liechti",
+          "popularity": 0.1502,
+          "profile_path": null,
+          "credit_id": "5718ad469251417a2200944d",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 71404,
+          "known_for_department": "Directing",
+          "name": "Ciro Cappellari",
+          "original_name": "Ciro Cappellari",
+          "popularity": 0.33,
+          "profile_path": null,
+          "credit_id": "5718ad209251415d6d0019da",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1033115,
+          "known_for_department": "Writing",
+          "name": "Martin Witz",
+          "original_name": "Martin Witz",
+          "popularity": 0.3387,
+          "profile_path": "/clMWLLUgkl0khDj63265DwLPrZ8.jpg",
+          "credit_id": "5718ac4f9251412b37003712",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1382673,
+          "known_for_department": "Editing",
+          "name": "Myriam Flury",
+          "original_name": "Myriam Flury",
+          "popularity": 0.1393,
+          "profile_path": null,
+          "credit_id": "5718ad359251417a22009447",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1608647,
+          "known_for_department": "Sound",
+          "name": "Thomas Bächli",
+          "original_name": "Thomas Bächli",
+          "popularity": 0.2581,
+          "profile_path": null,
+          "credit_id": "5718accbc3a3686d3000426e",
+          "department": "Sound",
+          "job": "Music"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1992-03-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

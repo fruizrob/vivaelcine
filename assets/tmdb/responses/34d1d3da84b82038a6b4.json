@@ -1,0 +1,293 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1629041?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:09.522Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 37,
+        "name": "Western"
+      }
+    ],
+    "homepage": "",
+    "id": 1629041,
+    "imdb_id": "tt0015333",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Silent Stranger",
+    "overview": "",
+    "popularity": 1.4082,
+    "poster_path": "/4eOQ8SlGnsQ247HHEU8DCxdM0vI.jpg",
+    "production_companies": [
+      {
+        "id": 35435,
+        "logo_path": null,
+        "name": "Harry J. Brown Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1924-04-21",
+    "revenue": 0,
+    "runtime": 50,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Silent Stranger",
+    "video": false,
+    "vote_average": 9,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1368022,
+          "known_for_department": "Acting",
+          "name": "Fred Thomson",
+          "original_name": "Fred Thomson",
+          "popularity": 0.3536,
+          "profile_path": "/lyV7ji1lgWFOe0VR5KbmV9mTdSe.jpg",
+          "cast_id": 1,
+          "character": "Jack Taylor",
+          "credit_id": "6983620315949119048e62b7",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 148414,
+          "known_for_department": "Acting",
+          "name": "Hazel Keener",
+          "original_name": "Hazel Keener",
+          "popularity": 0.563,
+          "profile_path": "/yCdeKDDHVvpDOB3uF8DM1Fqj95q.jpg",
+          "cast_id": 2,
+          "character": "Lillian Warner",
+          "credit_id": "6983620f5dbe9c468b3839a0",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 148793,
+          "known_for_department": "Acting",
+          "name": "George B. Williams",
+          "original_name": "George B. Williams",
+          "popularity": 0.3251,
+          "profile_path": "/2CKxTBaphRIh0vSqnQ0TqJJBOJ7.jpg",
+          "cast_id": 3,
+          "character": "'Dad' Warner",
+          "credit_id": "69836220e094845893ded599",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1474939,
+          "known_for_department": "Acting",
+          "name": "Richard Headrick",
+          "original_name": "Richard Headrick",
+          "popularity": 0.4375,
+          "profile_path": "/uH11ijMY6o1WMDwAo4MVDYpe5aa.jpg",
+          "cast_id": 4,
+          "character": "Laddie Warner",
+          "credit_id": "6983622eee90aef74e3016d2",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 34168,
+          "known_for_department": "Acting",
+          "name": "Frank Hagney",
+          "original_name": "Frank Hagney",
+          "popularity": 0.5089,
+          "profile_path": "/eUun6Blqa6hEBrlscgz9qnH6Ly0.jpg",
+          "cast_id": 5,
+          "character": "Dick Blackwell",
+          "credit_id": "6983623ad330e85a848e6261",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 89782,
+          "known_for_department": "Acting",
+          "name": "Horace B. Carpenter",
+          "original_name": "Horace B. Carpenter",
+          "popularity": 1.3968,
+          "profile_path": "/o9P9mo9EaE2QXPEGYR569GW1CbA.jpg",
+          "cast_id": 6,
+          "character": "Sheriff Sam Hull",
+          "credit_id": "698362452118278cde30161b",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 34890,
+          "known_for_department": "Acting",
+          "name": "Bud Osborne",
+          "original_name": "Bud Osborne",
+          "popularity": 0.5799,
+          "profile_path": "/82VGN2TkLz85qDLBXqrEykjsNWW.jpg",
+          "cast_id": 7,
+          "character": "Law Sleeman",
+          "credit_id": "6983625ab331fe27f1301608",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 120200,
+          "known_for_department": "Acting",
+          "name": "Bob Reeves",
+          "original_name": "Bob Reeves",
+          "popularity": 0.405,
+          "profile_path": "/ml4oPHwKq2CWCWpIQs5KYULPCFI.jpg",
+          "cast_id": 8,
+          "character": "Deputy Sheriff 'Shorty' Turner",
+          "credit_id": "6983626cf1cce13b0e1ef280",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 89521,
+          "known_for_department": "Acting",
+          "name": "George Nichols",
+          "original_name": "George Nichols",
+          "popularity": 0.4381,
+          "profile_path": "/ghGlmpjdUDRShrGZyG92sm3m5Hx.jpg",
+          "cast_id": 9,
+          "character": "Silas Horton",
+          "credit_id": "69836278fb2313736b6212a3",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2623083,
+          "known_for_department": "Acting",
+          "name": "Silver King the Horse",
+          "original_name": "Silver King the Horse",
+          "popularity": 1.0906,
+          "profile_path": "/uN7BdwBusZLCrzwcvKaoxGdT5PD.jpg",
+          "cast_id": 10,
+          "character": "Jack's Horse",
+          "credit_id": "69836286ae27fa03681ef187",
+          "order": 9
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 89751,
+          "known_for_department": "Directing",
+          "name": "Albert S. Rogell",
+          "original_name": "Albert S. Rogell",
+          "popularity": 1.4022,
+          "profile_path": null,
+          "credit_id": "6983629c06cf39a7d9e74abf",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 81285,
+          "known_for_department": "Directing",
+          "name": "Stuart Heisler",
+          "original_name": "Stuart Heisler",
+          "popularity": 0.6936,
+          "profile_path": "/kdNAwG8DWEW09m0Q4WtJnW2p4U6.jpg",
+          "credit_id": "698362b2ee70b782c96212fa",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2076180,
+          "known_for_department": "Writing",
+          "name": "Marion Jackson",
+          "original_name": "Marion Jackson",
+          "popularity": 0.3126,
+          "profile_path": null,
+          "credit_id": "698362ced330e85a848e6265",
+          "department": "Writing",
+          "job": "Scenario Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 18573,
+          "known_for_department": "Production",
+          "name": "Harry Joe Brown",
+          "original_name": "Harry Joe Brown",
+          "popularity": 0.6116,
+          "profile_path": null,
+          "credit_id": "698362e8d378047c3ae74ab6",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1023446,
+          "known_for_department": "Camera",
+          "name": "Ross Fisher",
+          "original_name": "Ross Fisher",
+          "popularity": 0.4782,
+          "profile_path": null,
+          "credit_id": "698362f9f1cce13b0e1ef286",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1924-04-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

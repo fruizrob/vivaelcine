@@ -1,0 +1,161 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1053728?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:27.991Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1053728,
+    "imdb_id": "tt2583210",
+    "origin_country": [
+      "EE"
+    ],
+    "original_language": "et",
+    "original_title": "The End",
+    "overview": "",
+    "popularity": 0.9505,
+    "poster_path": "/4gDY0xfYxHGDkhmrnB0dC5LDGY6.jpg",
+    "production_companies": [
+      {
+        "id": 69851,
+        "logo_path": "/eRkN7XGL7KmMYe8vUmtTuM4oSLP.png",
+        "name": "Nukufilm",
+        "origin_country": "EE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "EE",
+        "name": "Estonia"
+      }
+    ],
+    "release_date": "2013-04-26",
+    "revenue": 0,
+    "runtime": 6,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The End",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1101390,
+          "known_for_department": "Directing",
+          "name": "Ülo Pikkov",
+          "original_name": "Ülo Pikkov",
+          "popularity": 0.5342,
+          "profile_path": "/4dQeOtl2KxAS0o0QJb1kIXny7OH.jpg",
+          "credit_id": "6382480bf04d01007b495507",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1101390,
+          "known_for_department": "Directing",
+          "name": "Ülo Pikkov",
+          "original_name": "Ülo Pikkov",
+          "popularity": 0.5342,
+          "profile_path": "/4dQeOtl2KxAS0o0QJb1kIXny7OH.jpg",
+          "credit_id": "63824810f04d010084916499",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3798511,
+          "known_for_department": "Sound",
+          "name": "Mirjam Tally",
+          "original_name": "Mirjam Tally",
+          "popularity": 0.1136,
+          "profile_path": null,
+          "credit_id": "63824818fb834600995fc217",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1101390,
+          "known_for_department": "Directing",
+          "name": "Ülo Pikkov",
+          "original_name": "Ülo Pikkov",
+          "popularity": 0.5342,
+          "profile_path": "/4dQeOtl2KxAS0o0QJb1kIXny7OH.jpg",
+          "credit_id": "638248211b157d007a426f50",
+          "department": "Writing",
+          "job": "Screenstory"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2576596,
+          "known_for_department": "Production",
+          "name": "Andrus Raudsalu",
+          "original_name": "Andrus Raudsalu",
+          "popularity": 0.1669,
+          "profile_path": null,
+          "credit_id": "6382482ba410c800c8850bef",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2246355,
+          "known_for_department": "Production",
+          "name": "Kerdi Oengo",
+          "original_name": "Kerdi Oengo",
+          "popularity": 0.1953,
+          "profile_path": "/wDCFkOSIsPOHc3Bt9j2eJ2yxUKi.jpg",
+          "credit_id": "63824836229ae21597d30538",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": " ANIFEST - International Festival of Animated Films",
+              "release_date": "2013-04-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

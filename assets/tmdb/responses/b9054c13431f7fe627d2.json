@@ -1,0 +1,97 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1548444?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:02.069Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1548444,
+    "imdb_id": null,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "en",
+    "original_title": "Unboxing",
+    "overview": "",
+    "popularity": 0.3074,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "2024-01-01",
+    "revenue": 0,
+    "runtime": 19,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Unboxing",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1421054,
+          "known_for_department": "Directing",
+          "name": "Nam Ki-woong",
+          "original_name": "Nam Ki-woong",
+          "popularity": 0.132,
+          "profile_path": null,
+          "credit_id": "68cc1599b440c457e45e8ecc",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1421054,
+          "known_for_department": "Directing",
+          "name": "Nam Ki-woong",
+          "original_name": "Nam Ki-woong",
+          "popularity": 0.132,
+          "profile_path": null,
+          "credit_id": "68cc15a4d12c055e2dcf46fe",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ko",
+              "note": "",
+              "release_date": "2024-01-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

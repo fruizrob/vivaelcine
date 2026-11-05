@@ -1,0 +1,91 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/514076?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:45.574Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 514076,
+    "imdb_id": null,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Ronco Rumor Remoto",
+    "overview": "",
+    "popularity": 0.2205,
+    "poster_path": "/uz4gelsyD4oxzsW1n0H54k5okua.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2018-03-24",
+    "revenue": 0,
+    "runtime": 74,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ronco Rumor Remoto",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2007621,
+          "known_for_department": "Directing",
+          "name": "Jorge Lopez Navarrete",
+          "original_name": "Jorge Lopez Navarrete",
+          "popularity": 0.1204,
+          "profile_path": null,
+          "credit_id": "5ab818780e0a261fdf0263eb",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1359654,
+          "known_for_department": "Camera",
+          "name": "Omar Quezada",
+          "original_name": "Omar Quezada",
+          "popularity": 0.1939,
+          "profile_path": null,
+          "credit_id": "68a375ad5ef25f991fc7a73f",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-03-24T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

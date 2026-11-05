@@ -1,0 +1,85 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1098089?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:35.837Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1098089,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Seasons of the Sierra",
+    "overview": "",
+    "popularity": 0.1746,
+    "poster_path": "/8dEH8eWC4PQqmHVOLuxceOpYCS4.jpg",
+    "production_companies": [
+      {
+        "id": 195316,
+        "logo_path": null,
+        "name": "NatureStream.tv",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2021-01-01",
+    "revenue": 0,
+    "runtime": 174,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Seasons of the Sierra",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3954560,
+          "known_for_department": "Directing",
+          "name": "Elizabeth Carmel",
+          "original_name": "Elizabeth Carmel",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "640a516bf9a3fb00d84841e7",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2021-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

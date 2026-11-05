@@ -1,0 +1,385 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1601624?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:03.231Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/eN8qsODUXmiUuNyYx2zNUCB2OAY.jpg",
+    "belongs_to_collection": null,
+    "budget": 100,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1601624,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "Jacinto",
+    "overview": "",
+    "popularity": 0.423,
+    "poster_path": "/oI7PA3JjdR6OMLyg9RxEHEaX9ZG.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "2025-12-19",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Jacinto",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5524772,
+          "known_for_department": "Directing",
+          "name": "Karina Angulo",
+          "original_name": "Karina Angulo",
+          "popularity": 0.1024,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Voz Adulta",
+          "credit_id": "69472537b6f83d7552fb0cd7",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5889775,
+          "known_for_department": "Acting",
+          "name": "Camila Angulo",
+          "original_name": "Camila Angulo",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Voz Niña",
+          "credit_id": "6947254e97580a80ae8eb31b",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5524772,
+          "known_for_department": "Directing",
+          "name": "Karina Angulo",
+          "original_name": "Karina Angulo",
+          "popularity": 0.1024,
+          "profile_path": null,
+          "credit_id": "6947256e8b05685e88fb0edf",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5524779,
+          "known_for_department": "Editing",
+          "name": "Cristhian Campos",
+          "original_name": "Cristhian Campos",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6947258225905827412fb9c1",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5889776,
+          "known_for_department": "Production",
+          "name": "Gonzalo Llanca",
+          "original_name": "Gonzalo Llanca",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6947259ebba2840a8a812032",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 5524774,
+          "known_for_department": "Writing",
+          "name": "Pedro Cortés",
+          "original_name": "Pedro Cortés",
+          "popularity": 0.1615,
+          "profile_path": "/1bReo2PbaHd07Q7tKTuomtDJUBQ.jpg",
+          "credit_id": "694725c81869be1085072d80",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5524779,
+          "known_for_department": "Editing",
+          "name": "Cristhian Campos",
+          "original_name": "Cristhian Campos",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6947263b6b4ff0c5b0072e94",
+          "department": "Production",
+          "job": "Post Producer"
+        },
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 5524774,
+          "known_for_department": "Writing",
+          "name": "Pedro Cortés",
+          "original_name": "Pedro Cortés",
+          "popularity": 0.1615,
+          "profile_path": "/1bReo2PbaHd07Q7tKTuomtDJUBQ.jpg",
+          "credit_id": "694726747422142406b1c4c1",
+          "department": "Production",
+          "job": "Post Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5524772,
+          "known_for_department": "Directing",
+          "name": "Karina Angulo",
+          "original_name": "Karina Angulo",
+          "popularity": 0.1024,
+          "profile_path": null,
+          "credit_id": "694726a21b3349feaf8cdf54",
+          "department": "Crew",
+          "job": "Post Production Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5524779,
+          "known_for_department": "Editing",
+          "name": "Cristhian Campos",
+          "original_name": "Cristhian Campos",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "694726cbfdac8a3e8b8ce02a",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5524772,
+          "known_for_department": "Directing",
+          "name": "Karina Angulo",
+          "original_name": "Karina Angulo",
+          "popularity": 0.1024,
+          "profile_path": null,
+          "credit_id": "694726faedfc44b8a97abbdf",
+          "department": "Sound",
+          "job": "Sound Post Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5524772,
+          "known_for_department": "Directing",
+          "name": "Karina Angulo",
+          "original_name": "Karina Angulo",
+          "popularity": 0.1024,
+          "profile_path": null,
+          "credit_id": "69472726496afaacac2fbb48",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5889776,
+          "known_for_department": "Production",
+          "name": "Gonzalo Llanca",
+          "original_name": "Gonzalo Llanca",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69472749c54c9cd9f1fb0e1d",
+          "department": "Crew",
+          "job": "Post Production Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5524779,
+          "known_for_department": "Editing",
+          "name": "Cristhian Campos",
+          "original_name": "Cristhian Campos",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69472774d6fb1811b07aba26",
+          "department": "Writing",
+          "job": "Writers' Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5524779,
+          "known_for_department": "Editing",
+          "name": "Cristhian Campos",
+          "original_name": "Cristhian Campos",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "694727a5ee183a60c88cded9",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 5524774,
+          "known_for_department": "Writing",
+          "name": "Pedro Cortés",
+          "original_name": "Pedro Cortés",
+          "popularity": 0.1615,
+          "profile_path": "/1bReo2PbaHd07Q7tKTuomtDJUBQ.jpg",
+          "credit_id": "694727c13ac49418c4b1c3fd",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5524779,
+          "known_for_department": "Editing",
+          "name": "Cristhian Campos",
+          "original_name": "Cristhian Campos",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69472914c54c9cd9f1fb0e22",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5524772,
+          "known_for_department": "Directing",
+          "name": "Karina Angulo",
+          "original_name": "Karina Angulo",
+          "popularity": 0.1024,
+          "profile_path": null,
+          "credit_id": "694729380ec3833de27abd73",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 5524774,
+          "known_for_department": "Writing",
+          "name": "Pedro Cortés",
+          "original_name": "Pedro Cortés",
+          "popularity": 0.1615,
+          "profile_path": "/1bReo2PbaHd07Q7tKTuomtDJUBQ.jpg",
+          "credit_id": "69472958d6fb1811b07aba38",
+          "department": "Writing",
+          "job": "Writers' Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5889776,
+          "known_for_department": "Production",
+          "name": "Gonzalo Llanca",
+          "original_name": "Gonzalo Llanca",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69472967a8960a1909072daa",
+          "department": "Writing",
+          "job": "Writers' Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5524779,
+          "known_for_department": "Editing",
+          "name": "Cristhian Campos",
+          "original_name": "Cristhian Campos",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "694729b40ec3833de27abd77",
+          "department": "Editing",
+          "job": "Color Grading"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5524779,
+          "known_for_department": "Editing",
+          "name": "Cristhian Campos",
+          "original_name": "Cristhian Campos",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "694729f829dcd3763f7abb34",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 5524774,
+          "known_for_department": "Writing",
+          "name": "Pedro Cortés",
+          "original_name": "Pedro Cortés",
+          "popularity": 0.1615,
+          "profile_path": "/1bReo2PbaHd07Q7tKTuomtDJUBQ.jpg",
+          "credit_id": "69472a2653a825795c154d76",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5889775,
+          "known_for_department": "Acting",
+          "name": "Camila Angulo",
+          "original_name": "Camila Angulo",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69473e9afccba4aab8b1c82d",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2025-12-19T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

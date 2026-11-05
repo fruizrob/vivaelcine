@@ -1,0 +1,170 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/896365?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:56.043Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 896365,
+    "imdb_id": null,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "La Lucha Del Rey",
+    "overview": "",
+    "popularity": 0.1428,
+    "poster_path": "/k4mWkmui22GULN8TQik7dJSkdXJ.jpg",
+    "production_companies": [
+      {
+        "id": 164178,
+        "logo_path": null,
+        "name": "Caissa Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2019-12-18",
+    "revenue": 0,
+    "runtime": 18,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Lucha Del Rey",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3303655,
+          "known_for_department": "Acting",
+          "name": "Rey Justicia",
+          "original_name": "Rey Justicia",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Yourself",
+          "credit_id": "618b60081c6aa7004386423a",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3303657,
+          "known_for_department": "Directing",
+          "name": "Christian Durán",
+          "original_name": "Christian Durán",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "618b6033ddd52d0026c310d8",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3303658,
+          "known_for_department": "Production",
+          "name": "Uriel Martínez",
+          "original_name": "Uriel Martínez",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "618b6055d55e4d0029344e19",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3303659,
+          "known_for_department": "Writing",
+          "name": "Jesús Cruz",
+          "original_name": "Jesús Cruz",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "618b606f1c6aa700897c09a4",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3303657,
+          "known_for_department": "Directing",
+          "name": "Christian Durán",
+          "original_name": "Christian Durán",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "618b6095ddd52d0042c50eca",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3303660,
+          "known_for_department": "Camera",
+          "name": "Héctor Arreola",
+          "original_name": "Héctor Arreola",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "618b60c0595a560043966070",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3303657,
+          "known_for_department": "Directing",
+          "name": "Christian Durán",
+          "original_name": "Christian Durán",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "618b60d4a313b8008f4daef6",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2019-12-18T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

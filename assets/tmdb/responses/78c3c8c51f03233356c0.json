@@ -1,0 +1,179 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1144536?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:03.106Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 1144536,
+    "imdb_id": "tt27640957",
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_title": "Unboxing Gone Wrong",
+    "overview": "",
+    "popularity": 0.8026,
+    "poster_path": "/4VtAcWosjC9hyhwLsE5hIhQ3XUx.jpg",
+    "production_companies": [
+      {
+        "id": 123797,
+        "logo_path": null,
+        "name": "Deformed Lunchbox",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2023-02-01",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Unboxing Gone Wrong",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3639550,
+          "known_for_department": "Acting",
+          "name": "Tom Lute",
+          "original_name": "Tom Lute",
+          "popularity": 0.1762,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6498f01fb34409013984e86a",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4128946,
+          "known_for_department": "Acting",
+          "name": "Julian Bachlow",
+          "original_name": "Julian Bachlow",
+          "popularity": 0.6444,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "6498f03a03bf8401020ed0f4",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4131348,
+          "known_for_department": "Acting",
+          "name": "Jared Poirier",
+          "original_name": "Jared Poirier",
+          "popularity": 0.2225,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "6498f048eb79c200e29f72d9",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3570287,
+          "known_for_department": "Acting",
+          "name": "Jessica Chin King",
+          "original_name": "Jessica Chin King",
+          "popularity": 0.1318,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "6498f05a6f43ec00ffa316b9",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4131348,
+          "known_for_department": "Acting",
+          "name": "Jared Poirier",
+          "original_name": "Jared Poirier",
+          "popularity": 0.2225,
+          "profile_path": null,
+          "credit_id": "6498f0b6955c6500c7af2a78",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4131349,
+          "known_for_department": "Camera",
+          "name": "Jared Poirier",
+          "original_name": "Jared Poirier",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6498f07ceb79c200e29f7300",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2427018,
+          "known_for_department": "Directing",
+          "name": "Denman Hatch",
+          "original_name": "Denman Hatch",
+          "popularity": 0.8339,
+          "profile_path": null,
+          "credit_id": "6498f0976f43ec00e27e50ba",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "YouTube",
+              "release_date": "2023-02-01T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

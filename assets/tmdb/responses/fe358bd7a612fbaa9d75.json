@@ -1,0 +1,90 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/771741?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:12.015Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 771741,
+    "imdb_id": "tt0446154",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "El llamado de la sangre",
+    "overview": "",
+    "popularity": 0.2062,
+    "poster_path": "/a9dcJ6acWqKpCT2wq5DNTJc5yny.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "1996-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El llamado de la sangre",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 3,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1106561,
+          "known_for_department": "Writing",
+          "name": "Jorge Medina",
+          "original_name": "Jorge Medina",
+          "popularity": 0.1145,
+          "profile_path": null,
+          "credit_id": "675a84de7c2d51bdbd1f7371",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1996-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "MX",
+          "title": "Violencia citadina",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/409846?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:58.908Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 409846,
+    "imdb_id": "tt4589622",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Enfrentar animales salvajes",
+    "overview": "",
+    "popularity": 0.5339,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2015-01-01",
+    "revenue": 0,
+    "runtime": 7,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Enfrentar animales salvajes",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 4,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1294759,
+          "known_for_department": "Directing",
+          "name": "Jerónimo Quevedo",
+          "original_name": "Jerónimo Quevedo",
+          "popularity": 0.6995,
+          "profile_path": null,
+          "credit_id": "57aab98ac3a3680821000f56",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2015-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

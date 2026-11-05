@@ -1,0 +1,297 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/678990?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:32.178Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10770,
+        "name": "Película de TV"
+      }
+    ],
+    "homepage": "",
+    "id": 678990,
+    "imdb_id": "tt0146265",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Seasons in the Sun",
+    "overview": "",
+    "popularity": 0.63,
+    "poster_path": "/wai5YbK6c6zzxwDJBePlqhB4UWO.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "1986-01-07",
+    "revenue": 0,
+    "runtime": 74,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Seasons in the Sun",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 161641,
+          "known_for_department": "Acting",
+          "name": "Carol Bagdasarian",
+          "original_name": "Carol Bagdasarian",
+          "popularity": 0.4378,
+          "profile_path": "/4t0hWv5Z6OTTBqg4ZVJiDYGPGgK.jpg",
+          "cast_id": 1,
+          "character": "Olivia",
+          "credit_id": "5e5a279555c92600194e3514",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14502,
+          "known_for_department": "Acting",
+          "name": "John Ireland",
+          "original_name": "John Ireland",
+          "popularity": 0.9121,
+          "profile_path": "/bvwphkKbqBzAYopNBTdzrbkPRmF.jpg",
+          "cast_id": 2,
+          "character": "Keith Slattery",
+          "credit_id": "5e5a27b3357c000011269f65",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2353961,
+          "known_for_department": "Acting",
+          "name": "Terry Jacks",
+          "original_name": "Terry Jacks",
+          "popularity": 0.1353,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Terry Brandon",
+          "credit_id": "5e5a27c69b86160015f73cd8",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 152701,
+          "known_for_department": "Acting",
+          "name": "John Quade",
+          "original_name": "John Quade",
+          "popularity": 1.2386,
+          "profile_path": "/rDg90pU0C7GhiY9mfM959G19uSR.jpg",
+          "cast_id": 4,
+          "character": "Gordie Vickers",
+          "credit_id": "5e5a27dd9b86160018f72f0b",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 119488,
+          "known_for_department": "Acting",
+          "name": "Michael Vale",
+          "original_name": "Michael Vale",
+          "popularity": 0.273,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Bernie",
+          "credit_id": "5e5a27f6357c000011269fe1",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 79906,
+          "known_for_department": "Acting",
+          "name": "Kathryn Witt",
+          "original_name": "Kathryn Witt",
+          "popularity": 0.6378,
+          "profile_path": "/zFLAkPVeH7G0OakDxQMqjSJRKLM.jpg",
+          "cast_id": 6,
+          "character": "Cathy Slattery",
+          "credit_id": "5e5a280a9b86160015f73cfd",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2745628,
+          "known_for_department": "Acting",
+          "name": "Maxime Nunes",
+          "original_name": "Maxime Nunes",
+          "popularity": 0.6952,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Sherril",
+          "credit_id": "699a70eb37254a416f80ea34",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6023639,
+          "known_for_department": "Acting",
+          "name": "Evy Vestad",
+          "original_name": "Evy Vestad",
+          "popularity": 0.1298,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Terry's Friend",
+          "credit_id": "699a7102168f21046e5907ce",
+          "order": 7
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1381170,
+          "known_for_department": "Editing",
+          "name": "Lilla Pedersen",
+          "original_name": "Lilla Pedersen",
+          "popularity": 0.1069,
+          "profile_path": null,
+          "credit_id": "5e5a286f357c00001126a1cc",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2553182,
+          "known_for_department": "Directing",
+          "name": "Ain Soodor",
+          "original_name": "Ain Soodor",
+          "popularity": 0.1821,
+          "profile_path": null,
+          "credit_id": "5e5a287f357c00001126a1fc",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2353961,
+          "known_for_department": "Acting",
+          "name": "Terry Jacks",
+          "original_name": "Terry Jacks",
+          "popularity": 0.1353,
+          "profile_path": null,
+          "credit_id": "5e5a284c357c00001126a144",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2553182,
+          "known_for_department": "Directing",
+          "name": "Ain Soodor",
+          "original_name": "Ain Soodor",
+          "popularity": 0.1821,
+          "profile_path": null,
+          "credit_id": "5e5a2822357c00001126a0c1",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2553182,
+          "known_for_department": "Directing",
+          "name": "Ain Soodor",
+          "original_name": "Ain Soodor",
+          "popularity": 0.1821,
+          "profile_path": null,
+          "credit_id": "5e5a282f66ae4d001284025d",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2353961,
+          "known_for_department": "Acting",
+          "name": "Terry Jacks",
+          "original_name": "Terry Jacks",
+          "popularity": 0.1353,
+          "profile_path": null,
+          "credit_id": "5e5a283e66ae4d001284027c",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1129115,
+          "known_for_department": "Camera",
+          "name": "Doug McKay",
+          "original_name": "Doug McKay",
+          "popularity": 0.1773,
+          "profile_path": null,
+          "credit_id": "699a712ddea3e0292980ea2d",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2353961,
+          "known_for_department": "Acting",
+          "name": "Terry Jacks",
+          "original_name": "Terry Jacks",
+          "popularity": 0.1353,
+          "profile_path": null,
+          "credit_id": "699a714911b32766f7c59f74",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "1986-01-07T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

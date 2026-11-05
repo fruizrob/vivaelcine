@@ -1,0 +1,608 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/139646?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:57.540Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/coFZ7DTcY581QFvyszNmW1fFzPq.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "id": 139646,
+    "imdb_id": "tt1298530",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "ca",
+    "original_title": "Animals",
+    "overview": "Pol, un adolescente que vive con su hermano, tiene un amigo secreto: Deerhoof, un tierno osito de peluche que piensa, se mueve, y habla en inglés. Su vida transcurre apaciblemente hasta que aparece Ikari, un enigmático compañero de clase por el que Pol se siente fascinado. Una muerte inexplicable y una serie de extraños acontecimientos transforman la tranquila vida de Pol en una auténtica aventura.",
+    "popularity": 1.0875,
+    "poster_path": "/lXwlnHdor5DK8WvGZBwIlz7QqPH.jpg",
+    "production_companies": [
+      {
+        "id": 7847,
+        "logo_path": "/3RoKVhNUEyWJoidPk0wFQYlfXdB.png",
+        "name": "Escándalo Films",
+        "origin_country": "ES"
+      },
+      {
+        "id": 48089,
+        "logo_path": "/vJjQD0IIdGukQft4uK73wlJLby.png",
+        "name": "Escac Films",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2012-10-26",
+    "revenue": 0,
+    "runtime": 100,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Catalan",
+        "iso_639_1": "ca",
+        "name": "Català"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Animales",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 35,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1074587,
+          "known_for_department": "Acting",
+          "name": "Oriol Pla",
+          "original_name": "Oriol Pla",
+          "popularity": 0.4343,
+          "profile_path": "/dlalc7g1oK1oedaM5xjoIUQc0iC.jpg",
+          "cast_id": 7,
+          "character": "Pol",
+          "credit_id": "52fe4c69c3a368484e1b6eb7",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3309,
+          "known_for_department": "Acting",
+          "name": "Augustus Prew",
+          "original_name": "Augustus Prew",
+          "popularity": 0.8414,
+          "profile_path": "/37cPl9BaiCY24eMMMOxlZuTkGo7.jpg",
+          "cast_id": 3,
+          "character": "Ikari",
+          "credit_id": "52fe4c69c3a368484e1b6ea7",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 89821,
+          "known_for_department": "Acting",
+          "name": "Dimitri Leonidas",
+          "original_name": "Dimitri Leonidas",
+          "popularity": 0.6969,
+          "profile_path": "/abqmwLK3X6R3GpyDhAP9GHWFnO8.jpg",
+          "cast_id": 4,
+          "character": "Mark",
+          "credit_id": "52fe4c69c3a368484e1b6eab",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1111139,
+          "known_for_department": "Acting",
+          "name": "Roser Tapias",
+          "original_name": "Roser Tapias",
+          "popularity": 0.6338,
+          "profile_path": "/jecek5JF5sHd3fvNUF1V6WaQhsH.jpg",
+          "cast_id": 8,
+          "character": "Laia",
+          "credit_id": "52fe4c69c3a368484e1b6ebb",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 31805,
+          "known_for_department": "Acting",
+          "name": "Javier Beltrán",
+          "original_name": "Javier Beltrán",
+          "popularity": 0.3493,
+          "profile_path": "/9vR2zuPUu4qUmM5pAJ4T8BjS6G8.jpg",
+          "cast_id": 12,
+          "character": "Llorenç",
+          "credit_id": "5fa35c41c392660041a9cee1",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 7060,
+          "known_for_department": "Acting",
+          "name": "Martin Freeman",
+          "original_name": "Martin Freeman",
+          "popularity": 4.0541,
+          "profile_path": "/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg",
+          "cast_id": 2,
+          "character": "Albert",
+          "credit_id": "52fe4c69c3a368484e1b6ea3",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1881658,
+          "known_for_department": "Acting",
+          "name": "Maria Rodríguez Soto",
+          "original_name": "Maria Rodríguez Soto",
+          "popularity": 0.9707,
+          "profile_path": "/lrkVSgDC5xghQKWDFWLwZK8DMAD.jpg",
+          "cast_id": 13,
+          "character": "Clara",
+          "credit_id": "63c59ebdc9054f00da8b3329",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1111140,
+          "known_for_department": "Acting",
+          "name": "Katia Klein",
+          "original_name": "Katia Klein",
+          "popularity": 0.3758,
+          "profile_path": "/hA3dlDEooLFmq2zyA2upn0tXEj8.jpg",
+          "cast_id": 9,
+          "character": "Silvia",
+          "credit_id": "52fe4c69c3a368484e1b6ebf",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2621534,
+          "known_for_department": "Acting",
+          "name": "Mia Lacostena",
+          "original_name": "Mia Lacostena",
+          "popularity": 0.1705,
+          "profile_path": null,
+          "cast_id": 34,
+          "character": "Sara",
+          "credit_id": "63d9faff85702e05753c3c1c",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3900722,
+          "known_for_department": "Acting",
+          "name": "Anaïs López",
+          "original_name": "Anaïs López",
+          "popularity": 0.1258,
+          "profile_path": null,
+          "cast_id": 35,
+          "character": "Sonia",
+          "credit_id": "63d9fb543dc31300af23a4ab",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1042729,
+          "known_for_department": "Acting",
+          "name": "Alba Ribas",
+          "original_name": "Alba Ribas",
+          "popularity": 1.286,
+          "profile_path": "/zfASs4kqXPL7CmRWmqjJovwjfsu.jpg",
+          "cast_id": 6,
+          "character": "Laura",
+          "credit_id": "52fe4c69c3a368484e1b6eb3",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1436709,
+          "known_for_department": "Acting",
+          "name": "Paula Malia",
+          "original_name": "Paula Malia",
+          "popularity": 0.4847,
+          "profile_path": "/lWD28ahIslOx6xpeIaVCnaf5gb6.jpg",
+          "cast_id": 36,
+          "character": "Mar",
+          "credit_id": "63d9fb7b22df2e007978a1c9",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1162697,
+          "known_for_department": "Acting",
+          "name": "Pep Jové",
+          "original_name": "Pep Jové",
+          "popularity": 0.2974,
+          "profile_path": "/pMid1FiXqvZdTX3zNkR3yERd1zM.jpg",
+          "cast_id": 37,
+          "character": "Inspector",
+          "credit_id": "63d9fb91a9117f00c079dfa9",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3802664,
+          "known_for_department": "Acting",
+          "name": "Brian Brennan",
+          "original_name": "Brian Brennan",
+          "popularity": 0.1103,
+          "profile_path": null,
+          "cast_id": 38,
+          "character": "Director",
+          "credit_id": "63d9fbc2a9117f0083ff3f7e",
+          "order": 13
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 466460,
+          "known_for_department": "Production",
+          "name": "Aintza Serra",
+          "original_name": "Aintza Serra",
+          "popularity": 0.7278,
+          "profile_path": "/rmmHzPOa3CIok89Jy8HkSO5nvkN.jpg",
+          "credit_id": "52fe4c69c3a368484e1b6ec5",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1111138,
+          "known_for_department": "Directing",
+          "name": "Marçal Forés",
+          "original_name": "Marçal Forés",
+          "popularity": 0.4092,
+          "profile_path": "/jyc4BWShhtfH9QvYnJt8VoEpOiy.jpg",
+          "credit_id": "52fe4c69c3a368484e1b6e9f",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1111138,
+          "known_for_department": "Directing",
+          "name": "Marçal Forés",
+          "original_name": "Marçal Forés",
+          "popularity": 0.4092,
+          "profile_path": "/jyc4BWShhtfH9QvYnJt8VoEpOiy.jpg",
+          "credit_id": "52fe4c69c3a368484e1b6ecb",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1273153,
+          "known_for_department": "Sound",
+          "name": "Natalie Holt",
+          "original_name": "Natalie Holt",
+          "popularity": 0.4909,
+          "profile_path": "/7JwlRzk3CdJezWR7HaDL1oorFZl.jpg",
+          "credit_id": "653e1ab1cc968300c9e44836",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 466460,
+          "known_for_department": "Production",
+          "name": "Aintza Serra",
+          "original_name": "Aintza Serra",
+          "popularity": 0.7278,
+          "profile_path": "/rmmHzPOa3CIok89Jy8HkSO5nvkN.jpg",
+          "credit_id": "63d9f53ba9117f00c079dcae",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 51899,
+          "known_for_department": "Editing",
+          "name": "Elena Ruiz",
+          "original_name": "Elena Ruiz",
+          "popularity": 0.7505,
+          "profile_path": "/nBJy8LwWpYmdOqasjlQb8R5KN4b.jpg",
+          "credit_id": "63d9f45ea9117f00b2ecc109",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1760804,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Angélica Muñoz",
+          "original_name": "Angélica Muñoz",
+          "popularity": 0.1964,
+          "profile_path": "/8WWcRAW62UuSxPwTPkYQl0mNqSJ.jpg",
+          "credit_id": "63d9f2893dc31300af23a06c",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1160600,
+          "known_for_department": "Sound",
+          "name": "Jordi Ribas",
+          "original_name": "Jordi Ribas",
+          "popularity": 0.3096,
+          "profile_path": "/aZVt1BbboCi7gPJfUdMGYN3YujI.jpg",
+          "credit_id": "63d9f4ce3dc31300c7fb5c0c",
+          "department": "Sound",
+          "job": "Production Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2494785,
+          "known_for_department": "Production",
+          "name": "Valentí Closas",
+          "original_name": "Valentí Closas",
+          "popularity": 0.0988,
+          "profile_path": null,
+          "credit_id": "63d9f24a22df2e00df3f7cec",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3900715,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Lola Martínez",
+          "original_name": "Lola Martínez",
+          "popularity": 0.0975,
+          "profile_path": null,
+          "credit_id": "63d9f2d585702e05480da3f1",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1008438,
+          "known_for_department": "Production",
+          "name": "Lita Roig",
+          "original_name": "Lita Roig",
+          "popularity": 0.2998,
+          "profile_path": "/8GS31hmrnbbXs00MYvz88BW23Sg.jpg",
+          "credit_id": "63d9f54c22df2e008ccaa2a0",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1008437,
+          "known_for_department": "Production",
+          "name": "Sergi Casamitjana",
+          "original_name": "Sergi Casamitjana",
+          "popularity": 0.1503,
+          "profile_path": "/jJ6ilzFQ5JZuCef5Rrxzql1AAvA.jpg",
+          "credit_id": "63d9f55b85702e052c736c7a",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1473842,
+          "known_for_department": "Production",
+          "name": "Mireia Juárez",
+          "original_name": "Mireia Juárez",
+          "popularity": 0.5246,
+          "profile_path": "/upHoFBY5CoIsAril2Yiq8RU7HuH.jpg",
+          "credit_id": "63d9f1ada6c10400d4ca7891",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1707025,
+          "known_for_department": "Crew",
+          "name": "Pablo Perona",
+          "original_name": "Pablo Perona",
+          "popularity": 0.3409,
+          "profile_path": "/2VntsENnbn4rmFApsH6eiQS57NR.jpg",
+          "credit_id": "63d9f34a85702e058eec3ce8",
+          "department": "Crew",
+          "job": "Animatronics Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1462879,
+          "known_for_department": "Writing",
+          "name": "Enric Pardo",
+          "original_name": "Enric Pardo",
+          "popularity": 0.2549,
+          "profile_path": null,
+          "credit_id": "63d9f50185702e058eec3dc7",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1405364,
+          "known_for_department": "Visual Effects",
+          "name": "Lluís Castells",
+          "original_name": "Lluís Castells",
+          "popularity": 0.1443,
+          "profile_path": "/h9z5FPLIiN8ulRkFZ9bnZ7z7khG.jpg",
+          "credit_id": "63d9f40d22df2e00843c7e65",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 582924,
+          "known_for_department": "Camera",
+          "name": "Eduard Grau",
+          "original_name": "Eduard Grau",
+          "popularity": 0.3701,
+          "profile_path": "/pEMBYzaub7iyNCQW2zFybseuBtY.jpg",
+          "credit_id": "63d9f42c85702e05480da4a7",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16984,
+          "known_for_department": "Editing",
+          "name": "Bernat Vilaplana",
+          "original_name": "Bernat Vilaplana",
+          "popularity": 0.2726,
+          "profile_path": "/aHvP74vyTuTkjnuIaDt5zuX3YN4.jpg",
+          "credit_id": "63d9f471a9117f007f21ab7c",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1302764,
+          "known_for_department": "Editing",
+          "name": "Jordi López",
+          "original_name": "Jordi López",
+          "popularity": 0.24,
+          "profile_path": null,
+          "credit_id": "63d9f49aa6c1040093cebe92",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1405363,
+          "known_for_department": "Crew",
+          "name": "Lluís Rivera",
+          "original_name": "Lluís Rivera",
+          "popularity": 0.3333,
+          "profile_path": "/22mVUxhLcFERi5yC17Upx7Fipkq.jpg",
+          "credit_id": "63d9f3c8955c65008c7c09a6",
+          "department": "Visual Effects",
+          "job": "Special Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 54529,
+          "known_for_department": "Art",
+          "name": "Gemma Fauría",
+          "original_name": "Gemma Fauría",
+          "popularity": 0.3558,
+          "profile_path": null,
+          "credit_id": "63d9f43fa6c10400ab204a78",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1805373,
+          "known_for_department": "Production",
+          "name": "Marta Rodriguez-Coronil",
+          "original_name": "Marta Rodriguez-Coronil",
+          "popularity": 0.1265,
+          "profile_path": null,
+          "credit_id": "63d9f26522df2e008ccaa0ea",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3900716,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Miriam Pintado",
+          "original_name": "Miriam Pintado",
+          "popularity": 0.1065,
+          "profile_path": null,
+          "credit_id": "63d9f2ee3dc3130082338a54",
+          "department": "Costume & Make-Up",
+          "job": "Hairstylist"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2012-10-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-07-13T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "RU",
+          "title": "Энималс",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

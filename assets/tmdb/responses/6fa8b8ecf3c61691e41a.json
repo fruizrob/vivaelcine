@@ -1,0 +1,86 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/858527?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:45.777Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 858527,
+    "imdb_id": null,
+    "origin_country": [
+      "PT"
+    ],
+    "original_language": "pt",
+    "original_title": "Rumor de Estrelas",
+    "overview": "",
+    "popularity": 0.1414,
+    "poster_path": "/egprhSMWYtzvqtpWy4G1GuJ9k4E.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2021-05-19",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rumor de Estrelas",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3188424,
+          "known_for_department": "Directing",
+          "name": "A.F.O.",
+          "original_name": "A.F.O.",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "610d29ba5a4690005ff3e275",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3188407,
+          "known_for_department": "Sound",
+          "name": "Hígor Muller",
+          "original_name": "Hígor Muller",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "610d2a565a4690008049ac7a",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2021-05-19T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

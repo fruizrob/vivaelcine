@@ -1,0 +1,73 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1657392?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:01.875Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1657392,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "#UNBOXING",
+    "overview": "",
+    "popularity": 0.1546,
+    "poster_path": "/eIEKqEpr6anFpHwfUKEHqQBMKoC.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2026-03-22",
+    "revenue": 0,
+    "runtime": 15,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "#UNBOXING",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6094367,
+          "known_for_department": "Directing",
+          "name": "Edo García",
+          "original_name": "Edo García",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69c2eccd7de643c2bfd787da",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-03-22T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

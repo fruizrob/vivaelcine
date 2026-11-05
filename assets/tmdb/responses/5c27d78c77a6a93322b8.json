@@ -1,0 +1,381 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1752458?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:10.948Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 200,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1752458,
+    "imdb_id": null,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Domingo",
+    "overview": "",
+    "popularity": 0.4464,
+    "poster_path": "/AsMnE772csaAJVm7trVtonHal3E.jpg",
+    "production_companies": [
+      {
+        "id": 308044,
+        "logo_path": null,
+        "name": "GAP Produtora",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Domingo",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422397,
+          "known_for_department": "Acting",
+          "name": "Elizabeth Maria Maciel Monteiro",
+          "original_name": "Elizabeth Maria Maciel Monteiro",
+          "popularity": 0.1185,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Bebê",
+          "credit_id": "6a85a7623a16e7c1400b8caa",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422399,
+          "known_for_department": "Acting",
+          "name": "Beka Hawkeye",
+          "original_name": "Beka Hawkeye",
+          "popularity": 0.1304,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Mãe",
+          "credit_id": "6a85a7713a16e7c1400b8cb4",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422399,
+          "known_for_department": "Acting",
+          "name": "Beka Hawkeye",
+          "original_name": "Beka Hawkeye",
+          "popularity": 0.1304,
+          "profile_path": null,
+          "credit_id": "6a85a7d87f878785e3dcc3e1",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422399,
+          "known_for_department": "Acting",
+          "name": "Beka Hawkeye",
+          "original_name": "Beka Hawkeye",
+          "popularity": 0.1304,
+          "profile_path": null,
+          "credit_id": "6a85a7fbe6792dba2bda4b21",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422419,
+          "known_for_department": "Directing",
+          "name": "Izabelle Queiroga",
+          "original_name": "Izabelle Queiroga",
+          "popularity": 0.1129,
+          "profile_path": null,
+          "credit_id": "6a85a88f7c2f98de8067441d",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422419,
+          "known_for_department": "Directing",
+          "name": "Izabelle Queiroga",
+          "original_name": "Izabelle Queiroga",
+          "popularity": 0.1129,
+          "profile_path": null,
+          "credit_id": "6a85a8bde05d29c00ab58358",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4541661,
+          "known_for_department": "Directing",
+          "name": "Géssica Adzangela",
+          "original_name": "Géssica Adzangela",
+          "popularity": 0.1122,
+          "profile_path": null,
+          "credit_id": "6a85a8ec9e6b667f5c6744a6",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4541661,
+          "known_for_department": "Directing",
+          "name": "Géssica Adzangela",
+          "original_name": "Géssica Adzangela",
+          "popularity": 0.1122,
+          "profile_path": null,
+          "credit_id": "6a85a90f13075e59eb6744c1",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2980925,
+          "known_for_department": "Camera",
+          "name": "Thiago Morais",
+          "original_name": "Thiago Morais",
+          "popularity": 0.1246,
+          "profile_path": null,
+          "credit_id": "6a85a9379e6b667f5c6744b7",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422432,
+          "known_for_department": "Production",
+          "name": "Eloá Soares",
+          "original_name": "Eloá Soares",
+          "popularity": 0.1153,
+          "profile_path": null,
+          "credit_id": "6a85a98d079aa7e0e10b8d29",
+          "department": "Production",
+          "job": "Production Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422432,
+          "known_for_department": "Production",
+          "name": "Eloá Soares",
+          "original_name": "Eloá Soares",
+          "popularity": 0.1153,
+          "profile_path": null,
+          "credit_id": "6a85a9c9ffa1d038cfb0cce6",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422438,
+          "known_for_department": "Camera",
+          "name": "Carina Maia",
+          "original_name": "Carina Maia",
+          "popularity": 0.1122,
+          "profile_path": null,
+          "credit_id": "6a85aa2214f0ad8eef5f0219",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422440,
+          "known_for_department": "Camera",
+          "name": "Fernanda dos Santos",
+          "original_name": "Fernanda dos Santos",
+          "popularity": 0.117,
+          "profile_path": null,
+          "credit_id": "6a85aa6413075e59eb6744e9",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422440,
+          "known_for_department": "Camera",
+          "name": "Fernanda dos Santos",
+          "original_name": "Fernanda dos Santos",
+          "popularity": 0.117,
+          "profile_path": null,
+          "credit_id": "6a85aacfaef49ee66fdcc357",
+          "department": "Art",
+          "job": "Art Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422438,
+          "known_for_department": "Camera",
+          "name": "Carina Maia",
+          "original_name": "Carina Maia",
+          "popularity": 0.1122,
+          "profile_path": null,
+          "credit_id": "6a85aaf8f893f6dc935f0287",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422448,
+          "known_for_department": "Sound",
+          "name": "Guilherme Bonates",
+          "original_name": "Guilherme Bonates",
+          "popularity": 0.1111,
+          "profile_path": null,
+          "credit_id": "6a85ab95b21ad8152e9a4b5d",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422448,
+          "known_for_department": "Sound",
+          "name": "Guilherme Bonates",
+          "original_name": "Guilherme Bonates",
+          "popularity": 0.1111,
+          "profile_path": null,
+          "credit_id": "6a85abfb1c82365c089a4915",
+          "department": "Sound",
+          "job": "Sound Re-Recording Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422448,
+          "known_for_department": "Sound",
+          "name": "Guilherme Bonates",
+          "original_name": "Guilherme Bonates",
+          "popularity": 0.1111,
+          "profile_path": null,
+          "credit_id": "6a85ac357c2f98de8067448c",
+          "department": "Sound",
+          "job": "Scoring Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422464,
+          "known_for_department": "Camera",
+          "name": "Alex Augusto",
+          "original_name": "Alex Augusto",
+          "popularity": 0.1132,
+          "profile_path": null,
+          "credit_id": "6a85ad26aff5830e239e5832",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5508453,
+          "known_for_department": "Directing",
+          "name": "Jennifer Bonates",
+          "original_name": "Jennifer Bonates",
+          "popularity": 0.2732,
+          "profile_path": null,
+          "credit_id": "6a85ad6414192c902d5f02a6",
+          "department": "Camera",
+          "job": "Camera Department Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422472,
+          "known_for_department": "Sound",
+          "name": "Carlos Cunha",
+          "original_name": "Carlos Cunha",
+          "popularity": 0.1154,
+          "profile_path": null,
+          "credit_id": "6a85adf9d1245855799e57d2",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6422448,
+          "known_for_department": "Sound",
+          "name": "Guilherme Bonates",
+          "original_name": "Guilherme Bonates",
+          "popularity": 0.1111,
+          "profile_path": null,
+          "credit_id": "6a85ae320daf4bfa7dda4a22",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4635126,
+          "known_for_department": "Directing",
+          "name": "Sarah Margarido",
+          "original_name": "Sarah Margarido",
+          "popularity": 0.1195,
+          "profile_path": null,
+          "credit_id": "6a85ae75788c22a04f9e5603",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Sunday",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

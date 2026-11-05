@@ -1,0 +1,248 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1643483?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:16.438Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/eXZc7MJaJQu12LoU7ZMQ3wdxvxc.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1643483,
+    "imdb_id": "tt39949892",
+    "origin_country": [
+      "AU",
+      "CN",
+      "FR"
+    ],
+    "original_language": "zh",
+    "original_title": "Replica",
+    "overview": "",
+    "popularity": 0.7337,
+    "poster_path": "/5wjocHowhRkhOBITDcjqmHtUlCN.jpg",
+    "production_companies": [
+      {
+        "id": 294581,
+        "logo_path": null,
+        "name": "Axel Rise Films",
+        "origin_country": ""
+      },
+      {
+        "id": 116627,
+        "logo_path": "/vPRSTPAj4WOLfKd3dmfPvmRsNF6.png",
+        "name": "Elda Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 268638,
+        "logo_path": null,
+        "name": "LP Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      }
+    ],
+    "release_date": "2026-03-08",
+    "revenue": 0,
+    "runtime": 91,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Replica",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3277155,
+          "known_for_department": "Directing",
+          "name": "Chouwa Liang",
+          "original_name": "Chouwa Liang",
+          "popularity": 0.3039,
+          "profile_path": null,
+          "credit_id": "69a15ebe991e9fb779ab4d13",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6123350,
+          "known_for_department": "Camera",
+          "name": "Xiaoguan Shi",
+          "original_name": "Xiaoguan Shi",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "69d42939997c13c1203138af",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3772037,
+          "known_for_department": "Directing",
+          "name": "林怡初",
+          "original_name": "林怡初",
+          "popularity": 0.1104,
+          "profile_path": null,
+          "credit_id": "69d429450faa0db9db6adec3",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3277155,
+          "known_for_department": "Directing",
+          "name": "Chouwa Liang",
+          "original_name": "Chouwa Liang",
+          "popularity": 0.3039,
+          "profile_path": null,
+          "credit_id": "69d4294c11d88f5a05ca7e46",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3277155,
+          "known_for_department": "Directing",
+          "name": "Chouwa Liang",
+          "original_name": "Chouwa Liang",
+          "popularity": 0.3039,
+          "profile_path": null,
+          "credit_id": "69d42954f15fb0acc6edf199",
+          "department": "Sound",
+          "job": "Sound"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sydney Film Festival ",
+              "release_date": "2026-06-12T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Melbourne International Film Festival",
+              "release_date": "2026-08-15T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Visions du Réel",
+              "release_date": "2026-04-18T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Pingyao International Film Festival",
+              "release_date": "2026-09-25T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Ji.hlava International Documentary Film Festival",
+              "release_date": "2026-10-24T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "France 2 (25 nuances de doc)",
+              "release_date": "2026-10-28T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Thessaloniki International Documentary Festival ",
+              "release_date": "2026-03-08T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

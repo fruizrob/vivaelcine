@@ -1,0 +1,167 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1171970?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:59.504Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/pIeiLrFmFjsct9ByXHloYBE3PzV.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1171970,
+    "imdb_id": null,
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "La siesta",
+    "overview": "Una niña se muda con su madre y hermano a un barrio. Una siesta calurosa decide salir en búsqueda de helados, pero no regresa a casa.",
+    "popularity": 0.1466,
+    "poster_path": "/v4BEiTWfTopWYREvdYfyzTJgKIM.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2021-01-01",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La siesta",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4244234,
+          "known_for_department": "Acting",
+          "name": "Candelaria Chamorro",
+          "original_name": "Candelaria Chamorro",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "64eff3fb4b0c63011b207798",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4244235,
+          "known_for_department": "Acting",
+          "name": "Mateo Rios",
+          "original_name": "Mateo Rios",
+          "popularity": 0.095,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "64eff40177d23b00aebebcd6",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4244236,
+          "known_for_department": "Acting",
+          "name": "Silvina Delgado",
+          "original_name": "Silvina Delgado",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "64eff4094b0c6300abaab737",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4244238,
+          "known_for_department": "Acting",
+          "name": "Alejandro Vallejo",
+          "original_name": "Alejandro Vallejo",
+          "popularity": 0.0999,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "64eff4304b0c63013800f147",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4244232,
+          "known_for_department": "Directing",
+          "name": "María Cecilia Acuña",
+          "original_name": "María Cecilia Acuña",
+          "popularity": 0.0972,
+          "profile_path": null,
+          "credit_id": "64eff3d8ebb99d013bce86a1",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4244239,
+          "known_for_department": "Production",
+          "name": "Luis Ruiz Díaz",
+          "original_name": "Luis Ruiz Díaz",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "64eff44597a4e600ac3e0d71",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3886426,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Clarisa Leiva",
+          "original_name": "Clarisa Leiva",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "64eff439dbbb4200ab5e6d7b",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "ATP",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2021-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

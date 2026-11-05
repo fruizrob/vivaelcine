@@ -1,0 +1,85 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/728085?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:10.057Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 728085,
+    "imdb_id": "tt1869753",
+    "origin_country": [
+      "US",
+      "AU"
+    ],
+    "original_language": "en",
+    "original_title": "The Stranger",
+    "overview": "",
+    "popularity": 0.5971,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      }
+    ],
+    "release_date": "2011-01-01",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Stranger",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2056617,
+          "known_for_department": "Directing",
+          "name": "Rodd Rathjen",
+          "original_name": "Rodd Rathjen",
+          "popularity": 0.1977,
+          "profile_path": null,
+          "credit_id": "5f1fca6d5c5cc80038c8722e",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Melbourne International Film Festival",
+              "release_date": "2011-01-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

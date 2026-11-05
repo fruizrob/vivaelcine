@@ -1,0 +1,412 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/224354?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:51.693Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/1cRGldCevdH10ik4MHWdsvzC7Ci.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 224354,
+    "imdb_id": "tt2136738",
+    "origin_country": [
+      "DO"
+    ],
+    "original_language": "es",
+    "original_title": "La Lucha de Ana",
+    "overview": "La historia se centra dentro del contexto marginal de una mujer de nombre Ana, la cual mantiene a su único hijo vendiendo flores en el Mercado Nuevo de la avenida Duarte. Un día, por un accidente fortuito, su hijo, que acababa de cumplir años, es asesinado. Esto la lleva a buscar justicia para su hijo, pero como no la consigue por la vía legal, Ana intentará conseguirla por su cuenta, atravesando un verdadero calvario.",
+    "popularity": 1.2745,
+    "poster_path": "/wQyvkz4H0FouBMoyjNejwqahlca.jpg",
+    "production_companies": [
+      {
+        "id": 82615,
+        "logo_path": null,
+        "name": "Fabud Films",
+        "origin_country": ""
+      },
+      {
+        "id": 65091,
+        "logo_path": "/7D7JB71JEiWigcRwkUawvukMocx.png",
+        "name": "Programa Ibermedia",
+        "origin_country": "ES"
+      },
+      {
+        "id": 52133,
+        "logo_path": null,
+        "name": "Imakonos",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DO",
+        "name": "Dominican Republic"
+      },
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2012-04-13",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Una vendedora de flores busca venganza por la muere de su hijo.",
+    "title": "La Lucha de Ana",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 3,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1209924,
+          "known_for_department": "Acting",
+          "name": "Cheddy García",
+          "original_name": "Cheddy García",
+          "popularity": 0.4493,
+          "profile_path": "/9Y0lkpilPwJgA1h608OUaUtelTn.jpg",
+          "cast_id": 1,
+          "character": "Ana",
+          "credit_id": "52fe4e3a9251416c7514f78b",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1209925,
+          "known_for_department": "Acting",
+          "name": "Antonio Zamudio",
+          "original_name": "Antonio Zamudio",
+          "popularity": 0.1839,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Esteban",
+          "credit_id": "52fe4e3a9251416c7514f78f",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2259839,
+          "known_for_department": "Acting",
+          "name": "Miguel Ángel Martínez",
+          "original_name": "Miguel Ángel Martínez",
+          "popularity": 0.9301,
+          "profile_path": "/ndJJAGWVFhrdW5V2FIQl8qvfYP4.jpg",
+          "cast_id": 15,
+          "character": "Capitán García",
+          "credit_id": "66e43621f467c2ad62f981f2",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2003219,
+          "known_for_department": "Acting",
+          "name": "Mario Lebrón",
+          "original_name": "Mario Lebrón",
+          "popularity": 0.3953,
+          "profile_path": "/4bspieXnJLj05UK9jI28Jqhrjpq.jpg",
+          "cast_id": 16,
+          "character": "Joaquín Contreras",
+          "credit_id": "66e4367e0000000000b9b278",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1677294,
+          "known_for_department": "Acting",
+          "name": "Karina Noble",
+          "original_name": "Karina Noble",
+          "popularity": 0.9921,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Josefina De Contreras",
+          "credit_id": "66e4372b0000000000b9b2e0",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1697723,
+          "known_for_department": "Acting",
+          "name": "Marquis Leguizamón",
+          "original_name": "Marquis Leguizamón",
+          "popularity": 0.2086,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Margot",
+          "credit_id": "66e4374c9013fe87222410a0",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1098762,
+          "known_for_department": "Acting",
+          "name": "Victor Checo",
+          "original_name": "Victor Checo",
+          "popularity": 0.3777,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Antonio",
+          "credit_id": "66e4376c9013fe87222410c7",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4940146,
+          "known_for_department": "Acting",
+          "name": "Samuel Caballero Morales",
+          "original_name": "Samuel Caballero Morales",
+          "popularity": 0.4811,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Amaurys",
+          "credit_id": "66e437d39013fe8722241119",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4940147,
+          "known_for_department": "Acting",
+          "name": "Perla Vargas",
+          "original_name": "Perla Vargas",
+          "popularity": 0.5021,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Julieta",
+          "credit_id": "66e437eb0000000000b9a9a1",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1000623,
+          "known_for_department": "Acting",
+          "name": "Jalsen Santana",
+          "original_name": "Jalsen Santana",
+          "popularity": 0.1728,
+          "profile_path": "/aBc92HQ9gn5LmqPqKL2gPcAxJ36.jpg",
+          "cast_id": 22,
+          "character": "Gerardo",
+          "credit_id": "66e43802f467c2ad62f982f1",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3319954,
+          "known_for_department": "Acting",
+          "name": "Esmailyn Morel",
+          "original_name": "Esmailyn Morel",
+          "popularity": 0.2804,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "Raúl",
+          "credit_id": "66e4382a28048d92def977f8",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4259874,
+          "known_for_department": "Acting",
+          "name": "Angel Valencia",
+          "original_name": "Angel Valencia",
+          "popularity": 0.7592,
+          "profile_path": null,
+          "cast_id": 24,
+          "character": "Mingo",
+          "credit_id": "66e4383f0000000000b9a9db",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4940154,
+          "known_for_department": "Acting",
+          "name": "Joseph Morel Reyes",
+          "original_name": "Joseph Morel Reyes",
+          "popularity": 0.6078,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "Ponchao",
+          "credit_id": "66e438920000000000b9b305",
+          "order": 12
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1209926,
+          "known_for_department": "Directing",
+          "name": "Bladimir Abud",
+          "original_name": "Bladimir Abud",
+          "popularity": 0.1529,
+          "profile_path": null,
+          "credit_id": "52fe4e3a9251416c7514f795",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1209926,
+          "known_for_department": "Directing",
+          "name": "Bladimir Abud",
+          "original_name": "Bladimir Abud",
+          "popularity": 0.1529,
+          "profile_path": null,
+          "credit_id": "580ae100c3a368295e00656d",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1121370,
+          "known_for_department": "Writing",
+          "name": "Alfonso Suárez",
+          "original_name": "Alfonso Suárez",
+          "popularity": 0.3205,
+          "profile_path": null,
+          "credit_id": "580ae10cc3a368296b0057f5",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1691383,
+          "known_for_department": "Camera",
+          "name": "Francis Adamez",
+          "original_name": "Francis Adamez",
+          "popularity": 0.5529,
+          "profile_path": null,
+          "credit_id": "580ae22b9251414e84006f70",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1697719,
+          "known_for_department": "Production",
+          "name": "Melisa Fuentes",
+          "original_name": "Melisa Fuentes",
+          "popularity": 0.1448,
+          "profile_path": null,
+          "credit_id": "580ae236c3a368296e005f9a",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4940133,
+          "known_for_department": "Production",
+          "name": "Leidy Peña",
+          "original_name": "Leidy Peña",
+          "popularity": 0.4974,
+          "profile_path": null,
+          "credit_id": "66e434d90000000000b9a89b",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4940134,
+          "known_for_department": "Writing",
+          "name": "Jorge Nuñez",
+          "original_name": "Jorge Nuñez",
+          "popularity": 0.9108,
+          "profile_path": null,
+          "credit_id": "66e4353928048d92def97714",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4940137,
+          "known_for_department": "Sound",
+          "name": "Fernando Llamas",
+          "original_name": "Fernando Llamas",
+          "popularity": 0.1202,
+          "profile_path": null,
+          "credit_id": "66e435980000000000b9b240",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2232368,
+          "known_for_department": "Art",
+          "name": "Eumir Sanchez",
+          "original_name": "Eumir Sanchez",
+          "popularity": 0.1235,
+          "profile_path": null,
+          "credit_id": "66e435bb9013fe8722240fd9",
+          "department": "Art",
+          "job": "Art Direction"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2012-11-19T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2012-04-13T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

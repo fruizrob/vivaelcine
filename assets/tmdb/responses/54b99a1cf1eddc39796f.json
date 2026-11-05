@@ -1,0 +1,84 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1414295?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:07.732Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1414295,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "In Memory of the Land and People",
+    "overview": "",
+    "popularity": 0.4833,
+    "poster_path": "/oRbM4m2nDLqWd1rPnDfhxkgJyng.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1977-01-01",
+    "revenue": 0,
+    "runtime": 51,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "In Memory of the Land and People",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5167003,
+          "known_for_department": "Directing",
+          "name": "Robert Gates",
+          "original_name": "Robert Gates",
+          "popularity": 0.1196,
+          "profile_path": null,
+          "credit_id": "677ea378218fd57acf4e6d3f",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "1977-01-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

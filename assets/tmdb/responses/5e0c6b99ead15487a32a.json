@@ -1,0 +1,146 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1088490?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:49.524Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1088490,
+    "imdb_id": "tt7816628",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "We",
+    "overview": "",
+    "popularity": 1.0993,
+    "poster_path": "/eT5oxBMbDETbGMTTCvOlUJ04BIw.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2016-02-10",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "We",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 7,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1513026,
+          "known_for_department": "Acting",
+          "name": "Dimitra Barla",
+          "original_name": "Dimitra Barla",
+          "popularity": 0.1335,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Faye",
+          "credit_id": "63f0cd5615376c00cb22cb8b",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3928008,
+          "known_for_department": "Acting",
+          "name": "Kim Hardy",
+          "original_name": "Kim Hardy",
+          "popularity": 0.3031,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Lucas",
+          "credit_id": "63f0cd87a6725400865d08df",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2420713,
+          "known_for_department": "Directing",
+          "name": "David Yorke",
+          "original_name": "David Yorke",
+          "popularity": 0.4667,
+          "profile_path": null,
+          "credit_id": "63f0ccebcaaca2007c7c0180",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2420713,
+          "known_for_department": "Directing",
+          "name": "David Yorke",
+          "original_name": "David Yorke",
+          "popularity": 0.4667,
+          "profile_path": null,
+          "credit_id": "63f0ccf7524978009e777903",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2420713,
+          "known_for_department": "Directing",
+          "name": "David Yorke",
+          "original_name": "David Yorke",
+          "popularity": 0.4667,
+          "profile_path": null,
+          "credit_id": "63f0cd045249780084f61d01",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2420713,
+          "known_for_department": "Directing",
+          "name": "David Yorke",
+          "original_name": "David Yorke",
+          "popularity": 0.4667,
+          "profile_path": null,
+          "credit_id": "63f0cd124a4bfc00b2f92971",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2016-02-10T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

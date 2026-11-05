@@ -1,0 +1,102 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1024883?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:13.301Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1024883,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Beginning",
+    "overview": "",
+    "popularity": 1.0796,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 15,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Beginning",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3702217,
+          "known_for_department": "Acting",
+          "name": "Vagelis Abatzis",
+          "original_name": "Vagelis Abatzis",
+          "popularity": 0.2333,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "6323975f244182007a00ea68",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3519917,
+          "known_for_department": "Acting",
+          "name": "Asimina Anastasopoulou",
+          "original_name": "Asimina Anastasopoulou",
+          "popularity": 0.4451,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "63239775ae6f090084d65607",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3702218,
+          "known_for_department": "Acting",
+          "name": "Yiannis Englezos",
+          "original_name": "Yiannis Englezos",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "6323978d1b722c0084373103",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3702215,
+          "known_for_department": "Directing",
+          "name": "Nikolopoulos George",
+          "original_name": "Nikolopoulos George",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "63239739db154f007d3b9d5e",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

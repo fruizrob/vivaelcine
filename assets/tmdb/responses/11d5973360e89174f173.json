@@ -1,0 +1,185 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/478971?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:49.970Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 478971,
+    "imdb_id": "tt1389765",
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Das Gerücht",
+    "overview": "",
+    "popularity": 1.0173,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "1951-11-01",
+    "revenue": 0,
+    "runtime": 15,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Das Gerücht",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1897873,
+          "known_for_department": "Acting",
+          "name": "Karin Friedrich",
+          "original_name": "Karin Friedrich",
+          "popularity": 0.3388,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "59d0a3ff925141142f015f99",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 52073,
+          "known_for_department": "Acting",
+          "name": "Walter Kiaulehn",
+          "original_name": "Walter Kiaulehn",
+          "popularity": 0.3385,
+          "profile_path": "/f5rCWIGiYPuSQhCeKjeb3K5nIq8.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "59d0a4099251411452016b8e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 49294,
+          "known_for_department": "Acting",
+          "name": "Wastl Witt",
+          "original_name": "Wastl Witt",
+          "popularity": 0.2174,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "59d0a4159251411448015e02",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1273432,
+          "known_for_department": "Acting",
+          "name": "Sepp Nigg",
+          "original_name": "Sepp Nigg",
+          "popularity": 0.1276,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "59d0a41ec3a36878d7014f0e",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1897867,
+          "known_for_department": "Directing",
+          "name": "Ernst Niederreither",
+          "original_name": "Ernst Niederreither",
+          "popularity": 0.2184,
+          "profile_path": null,
+          "credit_id": "59d0a397c3a3687904016c5b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1897870,
+          "known_for_department": "Sound",
+          "name": "Joachim Faber",
+          "original_name": "Joachim Faber",
+          "popularity": 0.3049,
+          "profile_path": null,
+          "credit_id": "59d0a3d3925141468f00c209",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1897867,
+          "known_for_department": "Directing",
+          "name": "Ernst Niederreither",
+          "original_name": "Ernst Niederreither",
+          "popularity": 0.2184,
+          "profile_path": null,
+          "credit_id": "59d0a3a2c3a368786c0158aa",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 48851,
+          "known_for_department": "Writing",
+          "name": "Helmuth M. Backhaus",
+          "original_name": "Helmuth M. Backhaus",
+          "popularity": 0.3031,
+          "profile_path": null,
+          "credit_id": "59d0a3b5c3a36878c9015780",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1951-11-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

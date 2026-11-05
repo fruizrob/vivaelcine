@@ -1,0 +1,435 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/12114?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:37.927Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/vDPek3Cc34qWiKR6HRoXQk2jsZK.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 12114,
+    "imdb_id": "tt0065202",
+    "origin_country": [
+      "XG"
+    ],
+    "original_language": "de",
+    "original_title": "Weite Straßen -  stille Liebe",
+    "overview": "",
+    "popularity": 1.741,
+    "poster_path": "/iWUWhqlagKDhs5z01VY4XF5xZVH.jpg",
+    "production_companies": [
+      {
+        "id": 602,
+        "logo_path": "/pVsXRFbYVDe5BhsATCAh1rt5F0k.png",
+        "name": "DEFA-Studio für Spielfilme",
+        "origin_country": "XG"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "XG",
+        "name": "East Germany"
+      }
+    ],
+    "release_date": "1969-12-04",
+    "revenue": 0,
+    "runtime": 76,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Weite Straßen -  stille Liebe",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22735,
+          "known_for_department": "Acting",
+          "name": "Manfred Krug",
+          "original_name": "Manfred Krug",
+          "popularity": 1.1758,
+          "profile_path": "/4qfxHPHzQhmNHXtVB6AuXIXZISf.jpg",
+          "cast_id": 5,
+          "character": "Hannes",
+          "credit_id": "52fe44b89251416c7503ea33",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22856,
+          "known_for_department": "Acting",
+          "name": "Jaecki Schwarz",
+          "original_name": "Jaecki Schwarz",
+          "popularity": 0.6639,
+          "profile_path": "/p06smDqMhJ7ykgGa3yeyI8q2PT7.jpg",
+          "cast_id": 6,
+          "character": "Herb",
+          "credit_id": "52fe44b89251416c7503ea37",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 71318,
+          "known_for_department": "Acting",
+          "name": "Ulrike Plenzdorf",
+          "original_name": "Ulrike Plenzdorf",
+          "popularity": 0.1852,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Rieke",
+          "credit_id": "52fe44b89251416c7503ea3b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 22852,
+          "known_for_department": "Acting",
+          "name": "Jutta Hoffmann",
+          "original_name": "Jutta Hoffmann",
+          "popularity": 0.3205,
+          "profile_path": "/wO76vCq252Xk6FkwPyWbW8Yt4Ay.jpg",
+          "cast_id": 8,
+          "character": "Johanna",
+          "credit_id": "52fe44b89251416c7503ea3f",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 71319,
+          "known_for_department": "Acting",
+          "name": "Heidemarie Schmidt",
+          "original_name": "Heidemarie Schmidt",
+          "popularity": 0.1722,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Rosi",
+          "credit_id": "52fe44b89251416c7503ea43",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 71320,
+          "known_for_department": "Acting",
+          "name": "Richard Günter",
+          "original_name": "Richard Günter",
+          "popularity": 0.4252,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Großvater",
+          "credit_id": "52fe44b89251416c7503ea47",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 71321,
+          "known_for_department": "Acting",
+          "name": "Helmut Bobbenkamp",
+          "original_name": "Helmut Bobbenkamp",
+          "popularity": 0.7447,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Zauberer",
+          "credit_id": "52fe44b89251416c7503ea4b",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 71322,
+          "known_for_department": "Acting",
+          "name": "Hans Maikowski",
+          "original_name": "Hans Maikowski",
+          "popularity": 0.2545,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Volvo-Fahrer",
+          "credit_id": "52fe44b89251416c7503ea4f",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 71323,
+          "known_for_department": "Acting",
+          "name": "Ilse Voigt",
+          "original_name": "Ilse Voigt",
+          "popularity": 0.8256,
+          "profile_path": "/A7bShsSr6YtvXGhpW3bARrxspIh.jpg",
+          "cast_id": 13,
+          "character": "Frau Beutel",
+          "credit_id": "52fe44b89251416c7503ea53",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32624,
+          "known_for_department": "Acting",
+          "name": "Fritz Mohr",
+          "original_name": "Fritz Mohr",
+          "popularity": 0.3745,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Fahrer",
+          "credit_id": "5a53786b0e0a26026f0356eb",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1647091,
+          "known_for_department": "Acting",
+          "name": "Charlotte Küter",
+          "original_name": "Charlotte Küter",
+          "popularity": 0.3489,
+          "profile_path": "/vuJjNS0XCkCzIBAVasJZoIXFop.jpg",
+          "cast_id": 17,
+          "character": "",
+          "credit_id": "5b758524c3a3687550012039",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22594,
+          "known_for_department": "Acting",
+          "name": "Fred Delmare",
+          "original_name": "Fred Delmare",
+          "popularity": 0.3402,
+          "profile_path": "/xQtIdXUM5J8qtkXlPxfiHbwXeFY.jpg",
+          "cast_id": 18,
+          "character": "",
+          "credit_id": "5b75852f9251411d8901079a",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 23008,
+          "known_for_department": "Acting",
+          "name": "Hans Hardt-Hardtloff",
+          "original_name": "Hans Hardt-Hardtloff",
+          "popularity": 0.3807,
+          "profile_path": "/s4VTQNSslvaDVAvFrqHqWUouxY5.jpg",
+          "cast_id": 19,
+          "character": "",
+          "credit_id": "5b75853dc3a368754b013689",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 8201,
+          "known_for_department": "Acting",
+          "name": "Volkmar Kleinert",
+          "original_name": "Volkmar Kleinert",
+          "popularity": 0.8283,
+          "profile_path": "/4EaHlyTy4gWGL3TDCGYhg2Fp2hr.jpg",
+          "cast_id": 20,
+          "character": "",
+          "credit_id": "5b7585479251411d8701071f",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1859323,
+          "known_for_department": "Acting",
+          "name": "Hanna Rieger",
+          "original_name": "Hanna Rieger",
+          "popularity": 0.3571,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "",
+          "credit_id": "5b75855d0e0a265c25011d27",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1495243,
+          "known_for_department": "Acting",
+          "name": "Alfred Rücker",
+          "original_name": "Alfred Rücker",
+          "popularity": 0.1832,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "",
+          "credit_id": "5b7585670e0a265c2d011897",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22737,
+          "known_for_department": "Acting",
+          "name": "Walter Lendrich",
+          "original_name": "Walter Lendrich",
+          "popularity": 0.8026,
+          "profile_path": "/u09tvzmlT3P8m7JSMkl7YGY2KTf.jpg",
+          "cast_id": 23,
+          "character": "",
+          "credit_id": "5b7585730e0a265c3101215a",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 23050,
+          "known_for_department": "Acting",
+          "name": "Willi Neuenhahn",
+          "original_name": "Willi Neuenhahn",
+          "popularity": 0.6527,
+          "profile_path": null,
+          "cast_id": 24,
+          "character": "",
+          "credit_id": "5b75857b0e0a265c25011d39",
+          "order": 17
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 28753,
+          "known_for_department": "Directing",
+          "name": "Herrmann Zschoche",
+          "original_name": "Herrmann Zschoche",
+          "popularity": 0.4767,
+          "profile_path": "/czVIUaUSKAe57xye4OCoIWTCffg.jpg",
+          "credit_id": "52fe44b89251416c7503ea1d",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22936,
+          "known_for_department": "Directing",
+          "name": "Roland Gräf",
+          "original_name": "Roland Gräf",
+          "popularity": 0.302,
+          "profile_path": null,
+          "credit_id": "52fe44b89251416c7503ea23",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22988,
+          "known_for_department": "Writing",
+          "name": "Ulrich Plenzdorf",
+          "original_name": "Ulrich Plenzdorf",
+          "popularity": 0.3821,
+          "profile_path": null,
+          "credit_id": "52fe44b89251416c7503ea29",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 71317,
+          "known_for_department": "Sound",
+          "name": "Peter Rabenalt",
+          "original_name": "Peter Rabenalt",
+          "popularity": 0.3216,
+          "profile_path": "/1OaM0ceY7Ii5XEJNE8fFA6r2Kxi.jpg",
+          "credit_id": "52fe44b89251416c7503ea2f",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2108671,
+          "known_for_department": "Writing",
+          "name": "Hans-Georg Lietz",
+          "original_name": "Hans-Georg Lietz",
+          "popularity": 0.9623,
+          "profile_path": null,
+          "credit_id": "5b7584e90e0a265c310120c8",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 22569,
+          "known_for_department": "Editing",
+          "name": "Rita Hiller",
+          "original_name": "Rita Hiller",
+          "popularity": 0.2062,
+          "profile_path": null,
+          "credit_id": "5b7584fac3a3687548011e55",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "6",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-12-04T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "XG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "Deutsch",
+              "note": "Berlin, International",
+              "release_date": "1969-12-04T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

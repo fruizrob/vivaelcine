@@ -1,0 +1,169 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/918555?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:09.753Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 918555,
+    "imdb_id": null,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Domingo",
+    "overview": "Desperté un domingo y me di cuenta de algo: Aunque sea un día diseñado para no tener compromisos, mi corazón se rebela y sigue comprometido con el tuyo. Te recuerdo en cada instante, aparecés y formás en mi cabeza, una obra de arte. Pareciera que los domingos, están hechos para pensarte.",
+    "popularity": 0.7475,
+    "poster_path": "/xIp7zbkBT7z0EBD3SeKPoR9EZRj.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2022-07-16",
+    "revenue": 0,
+    "runtime": 6,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "Domingo",
+    "title": "Domingo",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3280481,
+          "known_for_department": "Sound",
+          "name": "Caio Sócrates",
+          "original_name": "Caio Sócrates",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "669abbcfe071eb41a5faa8fe",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3159234,
+          "known_for_department": "Writing",
+          "name": "Matheus Pataro",
+          "original_name": "Matheus Pataro",
+          "popularity": 0.3279,
+          "profile_path": "/j3iE8VwIvpx5p63dRVgN4sJOWun.jpg",
+          "credit_id": "669abb3b611591e000129ad1",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3280480,
+          "known_for_department": "Directing",
+          "name": "Júlia Nunes",
+          "original_name": "Júlia Nunes",
+          "popularity": 0.1539,
+          "profile_path": null,
+          "credit_id": "669abba4027370f1b2dfc449",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3159234,
+          "known_for_department": "Writing",
+          "name": "Matheus Pataro",
+          "original_name": "Matheus Pataro",
+          "popularity": 0.3279,
+          "profile_path": "/j3iE8VwIvpx5p63dRVgN4sJOWun.jpg",
+          "credit_id": "669abafe09acca5ad6124381",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3159234,
+          "known_for_department": "Writing",
+          "name": "Matheus Pataro",
+          "original_name": "Matheus Pataro",
+          "popularity": 0.3279,
+          "profile_path": "/j3iE8VwIvpx5p63dRVgN4sJOWun.jpg",
+          "credit_id": "669abb11eb7e713f838e798c",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3159234,
+          "known_for_department": "Writing",
+          "name": "Matheus Pataro",
+          "original_name": "Matheus Pataro",
+          "popularity": 0.3279,
+          "profile_path": "/j3iE8VwIvpx5p63dRVgN4sJOWun.jpg",
+          "credit_id": "669abb1f549d44ce482fe45b",
+          "department": "Production",
+          "job": "Casting Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3280480,
+          "known_for_department": "Directing",
+          "name": "Júlia Nunes",
+          "original_name": "Júlia Nunes",
+          "popularity": 0.1539,
+          "profile_path": null,
+          "credit_id": "669abb7f70c7460554faa905",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2829780,
+          "known_for_department": "Sound",
+          "name": "Ramon Modenesi",
+          "original_name": "Ramon Modenesi",
+          "popularity": 0.1793,
+          "profile_path": null,
+          "credit_id": "669abbf52dc76f51f512438f",
+          "department": "Sound",
+          "job": "Sound"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "UNA Cine Belas Artes",
+              "release_date": "2022-07-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

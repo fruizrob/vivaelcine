@@ -1,0 +1,354 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1000124?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:54.963Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/4bVlxr9gYKEYSz5IR1vQfgoZhGJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "id": 1000124,
+    "imdb_id": null,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Somos animales",
+    "overview": "Había una vez….\r Tania y Cocteau, un gato que viene de un futuro no muy lejano, narran la historia del paso de  los animales por el mundo y su relación con los humanos.  En la ciudad, destruida y distópica, los gatos, las palomas, las ratas y las cucarachas, viven  moviendo sus colas y agitando sus antenas. Haciéndole recordar a quienes las ven, algo especial, mucho tiempo antes perdido.",
+    "popularity": 0.8979,
+    "poster_path": "/4lGuM6EudUtC9FHUyhBw9sdU3DY.jpg",
+    "production_companies": [
+      {
+        "id": 134655,
+        "logo_path": "/mg9nMn3TCIY2qDvICJ1CGEGsDpA.png",
+        "name": "Escuela Nacional de Artes Cinematográficas (ENAC)",
+        "origin_country": "MX"
+      },
+      {
+        "id": 88614,
+        "logo_path": "/jpid5wWEkbpSqRTsHdJjWwzLWv8.png",
+        "name": "UNAM",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2023-01-05",
+    "revenue": 0,
+    "runtime": 17,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Inglés",
+    "title": "Somos animales",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3628047,
+          "known_for_department": "Acting",
+          "name": "Cocteau",
+          "original_name": "Cocteau",
+          "popularity": 0.2326,
+          "profile_path": "/aGZdiVaWhIDWCeaLGwPv3grFmJH.jpg",
+          "cast_id": 2,
+          "character": "Cocteau",
+          "credit_id": "62d49e88e6d3cc0055c3fa10",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3628086,
+          "known_for_department": "Acting",
+          "name": "La negrita",
+          "original_name": "La negrita",
+          "popularity": 0.2251,
+          "profile_path": "/iQTFrgIpq2yYGq25CdPRPnA86Jv.jpg",
+          "cast_id": 11,
+          "character": "La negrita",
+          "credit_id": "62d4af682dffd80057c6ee48",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3628087,
+          "known_for_department": "Acting",
+          "name": "Bonnie",
+          "original_name": "Bonnie",
+          "popularity": 0.2618,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Bonnie",
+          "credit_id": "62d4af7a23bcf40067bcd7b0",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3628089,
+          "known_for_department": "Acting",
+          "name": "Pishu",
+          "original_name": "Pishu",
+          "popularity": 0.2772,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Pishu",
+          "credit_id": "62d4af8972c13e0059081b92",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3628090,
+          "known_for_department": "Acting",
+          "name": "Aragog",
+          "original_name": "Aragog",
+          "popularity": 0.1614,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Aragog",
+          "credit_id": "62d4af93048638004e01fc94",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2408885,
+          "known_for_department": "Acting",
+          "name": "Andrés Ganem",
+          "original_name": "Andrés Ganem",
+          "popularity": 0.1874,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Hechicero",
+          "credit_id": "62d4afa466f2d2004c4ebb23",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2846280,
+          "known_for_department": "Sound",
+          "name": "Tania Álvarez",
+          "original_name": "Tania Álvarez",
+          "popularity": 0.2189,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Tania (voz)",
+          "credit_id": "62d4b65a23bcf4004ca65b1e",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2846280,
+          "known_for_department": "Sound",
+          "name": "Tania Álvarez",
+          "original_name": "Tania Álvarez",
+          "popularity": 0.2189,
+          "profile_path": null,
+          "credit_id": "62d18bec549dda02d5d338fb",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2843384,
+          "known_for_department": "Directing",
+          "name": "Antonia Silva Alvarado",
+          "original_name": "Antonia Silva Alvarado",
+          "popularity": 0.1298,
+          "profile_path": "/zlUwMnC81hz82Z17BZZZIy4FwLp.jpg",
+          "credit_id": "62d4a2e804b596004f00f7c6",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2842453,
+          "known_for_department": "Sound",
+          "name": "Vicente Méndez Saucedo",
+          "original_name": "Vicente Méndez Saucedo",
+          "popularity": 0.1213,
+          "profile_path": "/lljpmNipLatBOwmfiMBHkeWUSMQ.jpg",
+          "credit_id": "62d4a30afa40460055acbd83",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2846280,
+          "known_for_department": "Sound",
+          "name": "Tania Álvarez",
+          "original_name": "Tania Álvarez",
+          "popularity": 0.2189,
+          "profile_path": null,
+          "credit_id": "62d4a35fd1a893005007681a",
+          "department": "Crew",
+          "job": "Script"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2846277,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Lisa Méndez Robbins",
+          "original_name": "Lisa Méndez Robbins",
+          "popularity": 0.2403,
+          "profile_path": "/p2InVbrA9C2EDz0G2RMIB8NCc4D.jpg",
+          "credit_id": "62d4a39b5aba32004cd61d9b",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3233674,
+          "known_for_department": "Sound",
+          "name": "Joshua Cruz Arellano",
+          "original_name": "Joshua Cruz Arellano",
+          "popularity": 0.5611,
+          "profile_path": null,
+          "credit_id": "62d4a3ce1f3e60005d32d9cb",
+          "department": "Crew",
+          "job": "Sound Design Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2846280,
+          "known_for_department": "Sound",
+          "name": "Tania Álvarez",
+          "original_name": "Tania Álvarez",
+          "popularity": 0.2189,
+          "profile_path": null,
+          "credit_id": "62d4b51e5aba32004f8e6d8e",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2408891,
+          "known_for_department": "Editing",
+          "name": "Pablo Fernández",
+          "original_name": "Pablo Fernández",
+          "popularity": 0.3459,
+          "profile_path": null,
+          "credit_id": "62d4b52d2dffd80061fb7db3",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2846280,
+          "known_for_department": "Sound",
+          "name": "Tania Álvarez",
+          "original_name": "Tania Álvarez",
+          "popularity": 0.2189,
+          "profile_path": null,
+          "credit_id": "62d4b5b7e6d3cc005095a7d1",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3628074,
+          "known_for_department": "Art",
+          "name": "Leonardo Casillas Olivier",
+          "original_name": "Leonardo Casillas Olivier",
+          "popularity": 0.0975,
+          "profile_path": null,
+          "credit_id": "62d55bfd72c13e062e71597b",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2408891,
+          "known_for_department": "Editing",
+          "name": "Pablo Fernández",
+          "original_name": "Pablo Fernández",
+          "popularity": 0.3459,
+          "profile_path": null,
+          "credit_id": "6ac50ecc1ebe77cdec2f46b7",
+          "department": "Crew",
+          "job": "Post Production Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2846277,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Lisa Méndez Robbins",
+          "original_name": "Lisa Méndez Robbins",
+          "popularity": 0.2403,
+          "profile_path": "/p2InVbrA9C2EDz0G2RMIB8NCc4D.jpg",
+          "credit_id": "6ac50ee4e3712c0a8095d530",
+          "department": "Crew",
+          "job": "Post Production Supervisor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2023-01-05T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "We animals",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

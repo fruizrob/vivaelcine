@@ -1,0 +1,151 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/622058?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:27.808Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 622058,
+    "imdb_id": null,
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "THE END",
+    "overview": "",
+    "popularity": 0.6445,
+    "poster_path": "/4PLhKgE74dnz8Bd2NtoKh0cW2dy.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2014-01-01",
+    "revenue": 0,
+    "runtime": 86,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "THE END",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2320364,
+          "known_for_department": "Sound",
+          "name": "渋谷慶一郎",
+          "original_name": "渋谷慶一郎",
+          "popularity": 0.512,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Himself",
+          "credit_id": "5d5097441d820f001779bc9e",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2379736,
+          "known_for_department": "Directing",
+          "name": "Corentin Leconte",
+          "original_name": "Corentin Leconte",
+          "popularity": 0.2122,
+          "profile_path": "/cn0ds6eV2AffuZNfTpdjlY1ceOD.jpg",
+          "credit_id": "5d5095551d820f001879bccf",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2320364,
+          "known_for_department": "Sound",
+          "name": "渋谷慶一郎",
+          "original_name": "渋谷慶一郎",
+          "popularity": 0.512,
+          "profile_path": null,
+          "credit_id": "5d5095a8cc277c0012f0eec1",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2384821,
+          "known_for_department": "Crew",
+          "name": "Toshiki Okada",
+          "original_name": "Toshiki Okada",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "5d5095d89c05503b5f44d457",
+          "department": "Crew",
+          "job": "Script"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2382867,
+          "known_for_department": "Visual Effects",
+          "name": "Masaki Yokobe",
+          "original_name": "Masaki Yokobe",
+          "popularity": 0.1591,
+          "profile_path": null,
+          "credit_id": "5d509623a2d2e9001585e0d3",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2384919,
+          "known_for_department": "Sound",
+          "name": "Hirohito Ebara",
+          "original_name": "Hirohito Ebara",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "5d50b07f0102c900157533f9",
+          "department": "Sound",
+          "job": "Sound Designer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2014-01-01T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

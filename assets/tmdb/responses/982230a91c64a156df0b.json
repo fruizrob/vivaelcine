@@ -1,0 +1,605 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1395839?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:04.286Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/c24H6HAgA8sXGOmUQbn5aJYuwXA.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 1395839,
+    "imdb_id": "tt38348232",
+    "origin_country": [
+      "TW",
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "ザ・カース",
+    "overview": "Riko lleva una vida tranquila con su compañera de piso. Pero un día, mirando una red social parecida a Instagram, descubre unos vídeos extraños y crípticos publicados por una amiga taiwanesa. Esas mismas fechas, aparece un cadáver desfigurado en Taiwán. Riko comprueba que Shufen murió hace seis meses, pero sus redes sociales siguen actualizándose. Estupenda reformulación del J-Horror a cargo de una de las nuevas promesas del cine fantástico nipón.",
+    "popularity": 2.0141,
+    "poster_path": "/eiLtWm1BiqS2BHJ7PuPJSp9d69M.jpg",
+    "production_companies": [
+      {
+        "id": 164697,
+        "logo_path": "/lTR5avd1fG5rE6NsowFNgEAC2PT.png",
+        "name": "Rights Cube",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "TW",
+        "name": "Taiwan"
+      },
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2026-01-16",
+    "revenue": 0,
+    "runtime": 95,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Curse",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4995151,
+          "known_for_department": "Acting",
+          "name": "Yukino Kaizu",
+          "original_name": "Yukino Kaizu",
+          "popularity": 0.4245,
+          "profile_path": "/niHnKtCNu0zNumSqNQZWdRb4iqq.jpg",
+          "cast_id": 4,
+          "character": "Riko",
+          "credit_id": "674be471459e472f93cf5332",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3066719,
+          "known_for_department": "Acting",
+          "name": "楊宇騰",
+          "original_name": "楊宇騰",
+          "popularity": 1.1935,
+          "profile_path": "/fwqrFdCB0eIlVTcTwXilM7f8m8r.jpg",
+          "cast_id": 5,
+          "character": "Jiahao",
+          "credit_id": "674be4e1cba1ad7bd99b1b04",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2870994,
+          "known_for_department": "Acting",
+          "name": "喜矢武豊",
+          "original_name": "喜矢武豊",
+          "popularity": 0.6084,
+          "profile_path": "/nuIx4auFSiotY1H4KfPJqSVB81q.jpg",
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "674be513cba1ad7bd99b1b0a",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3185102,
+          "known_for_department": "Acting",
+          "name": "林思廷",
+          "original_name": "林思廷",
+          "popularity": 0.5352,
+          "profile_path": "/q6rMfOYnCn2geuO1ThoRb2zPx1O.jpg",
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "674be51f55c594a9a1eb0db8",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1576052,
+          "known_for_department": "Acting",
+          "name": "大関れいか",
+          "original_name": "大関れいか",
+          "popularity": 0.5696,
+          "profile_path": "/9VvvFKQvNLWJZGQvg1vffukdIvv.jpg",
+          "cast_id": 19,
+          "character": "Airi",
+          "credit_id": "69809189625ceefba8fd4964",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2906878,
+          "known_for_department": "Acting",
+          "name": "邵奕玫",
+          "original_name": "邵奕玫",
+          "popularity": 1.0316,
+          "profile_path": "/7TaPa0dRf8Klrt64SbNMcZyHyLn.jpg",
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "674be53bcba1ad7bd99b1b0f",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2117114,
+          "known_for_department": "Acting",
+          "name": "范瑞君",
+          "original_name": "范瑞君",
+          "popularity": 1.1736,
+          "profile_path": "/53veHrqextKCouBgptJk7QuxKxy.jpg",
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "674be5a5b23b600e8020246b",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4573690,
+          "known_for_department": "Acting",
+          "name": "大谷主水",
+          "original_name": "大谷主水",
+          "popularity": 0.5558,
+          "profile_path": "/aEenLmy7Ex3WCWxVeZ3FdVSmKrt.jpg",
+          "cast_id": 10,
+          "character": "",
+          "credit_id": "674be5b155c594a9a1eb0e00",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3091384,
+          "known_for_department": "Acting",
+          "name": "陳萬號",
+          "original_name": "陳萬號",
+          "popularity": 0.2881,
+          "profile_path": "/8qG5pmfu9C9VEjSVUJsWKlkQUoo.jpg",
+          "cast_id": 11,
+          "character": "",
+          "credit_id": "674be5e455c594a9a1eb0e07",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4627157,
+          "known_for_department": "Acting",
+          "name": "Raion Yoza",
+          "original_name": "Raion Yoza",
+          "popularity": 0.1498,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "",
+          "credit_id": "674be63bcba1ad7bd99b1b64",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3705453,
+          "known_for_department": "Acting",
+          "name": "Shiho",
+          "original_name": "Shiho",
+          "popularity": 0.1378,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "",
+          "credit_id": "698090aba4c4b29f5ebe5b3e",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5980724,
+          "known_for_department": "Acting",
+          "name": "艾瑪",
+          "original_name": "艾瑪",
+          "popularity": 0.0987,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "",
+          "credit_id": "6980915f998ddd14ae1ec077",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4357023,
+          "known_for_department": "Acting",
+          "name": "Yuhei Shirakawa",
+          "original_name": "Yuhei Shirakawa",
+          "popularity": 0.2885,
+          "profile_path": "/4MFDd2HiM1opJpGrl52bIX1gxQw.jpg",
+          "cast_id": 12,
+          "character": "",
+          "credit_id": "674be611a74f8f4b4d9a96e1",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 135201,
+          "known_for_department": "Acting",
+          "name": "野村宏伸",
+          "original_name": "野村宏伸",
+          "popularity": 0.8405,
+          "profile_path": "/iepFnxKHYPgGZ7SQaY7YseqoUcU.jpg",
+          "cast_id": 20,
+          "character": "",
+          "credit_id": "698091a0185d3e830fb2139d",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 548133,
+          "known_for_department": "Acting",
+          "name": "本宮泰風",
+          "original_name": "本宮泰風",
+          "popularity": 1.7106,
+          "profile_path": "/wTK96YanJtlim3NDKNdIV0RXwjE.jpg",
+          "cast_id": 21,
+          "character": "",
+          "credit_id": "698091b637ed1920b175fe1e",
+          "order": 14
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2092721,
+          "known_for_department": "Directing",
+          "name": "宇賀那健一",
+          "original_name": "宇賀那健一",
+          "popularity": 0.4953,
+          "profile_path": "/pm1olfRggbdlhMB27pyN3P4NIGe.jpg",
+          "credit_id": "674be3e5b23b600e8020241c",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4511967,
+          "known_for_department": "Directing",
+          "name": "林明智",
+          "original_name": "林明智",
+          "popularity": 0.5697,
+          "profile_path": null,
+          "credit_id": "674be3f5459e472f93cf5313",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4120889,
+          "known_for_department": "Production",
+          "name": "鈴木祐介",
+          "original_name": "鈴木祐介",
+          "popularity": 0.6204,
+          "profile_path": null,
+          "credit_id": "674be404cba1ad7bd99b1ad0",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1607826,
+          "known_for_department": "Sound",
+          "name": "小野川浩幸",
+          "original_name": "小野川浩幸",
+          "popularity": 0.3749,
+          "profile_path": "/1CsGmuCpTKDIk3GbOHZeMhLBXGl.jpg",
+          "credit_id": "68c77378e44fdae999f21f4a",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1862965,
+          "known_for_department": "Camera",
+          "name": "伊集守忠",
+          "original_name": "伊集守忠",
+          "popularity": 0.2734,
+          "profile_path": null,
+          "credit_id": "68c7739672b11f7db5ca729a",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2092721,
+          "known_for_department": "Directing",
+          "name": "宇賀那健一",
+          "original_name": "宇賀那健一",
+          "popularity": 0.4953,
+          "profile_path": "/pm1olfRggbdlhMB27pyN3P4NIGe.jpg",
+          "credit_id": "693c2ea61fe0d03057ac9e4c",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1611413,
+          "known_for_department": "Directing",
+          "name": "平波亘",
+          "original_name": "平波亘",
+          "popularity": 0.5094,
+          "profile_path": null,
+          "credit_id": "69e60d5e9b26a736f1520dfb",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4127431,
+          "known_for_department": "Costume & Make-Up",
+          "name": "坂口佳那恵",
+          "original_name": "坂口佳那恵",
+          "popularity": 0.2044,
+          "profile_path": null,
+          "credit_id": "6a1735552170456c5c43b7c5",
+          "department": "Costume & Make-Up",
+          "job": "Makeup & Hair"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Festival du Nouveau Cinéma",
+              "release_date": "2025-10-14T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sitges Film Festival",
+              "release_date": "2025-10-17T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FI",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Night Visions Film Festival",
+              "release_date": "2026-03-25T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Strasbourg European Fantastic Film Festival",
+              "release_date": "2025-09-26T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Manchester Film Festival",
+              "release_date": "2026-03-24T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Glasgow Film Festival",
+              "release_date": "2026-03-06T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-07-13T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "R15+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-01-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "19",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Jeonju International Film Festival",
+              "release_date": "2026-05-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Moscow International Film Festival",
+              "release_date": "2026-04-18T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "18+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-10-22T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Kaohsiung Film Festival",
+              "release_date": "2025-10-26T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-04-10T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-09-04T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Fantastic Fest",
+              "release_date": "2025-09-19T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Nightmares Film Festival",
+              "release_date": "2025-10-18T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ZA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "South African Horrorfest",
+              "release_date": "2025-11-03T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "TW",
+          "title": "陌生人",
+          "type": "former title"
+        },
+        {
+          "iso_3166_1": "TW",
+          "title": "Stranger",
+          "type": "former title"
+        }
+      ]
+    }
+  }
+}

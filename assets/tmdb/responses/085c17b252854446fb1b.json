@@ -1,0 +1,476 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1729628?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:44.672Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/yDNYtJj4kmGyWaDoV0lSq7xLkom.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1729628,
+    "imdb_id": "tt43665990",
+    "origin_country": [
+      "FR",
+      "BR"
+    ],
+    "original_language": "ja",
+    "original_title": "Hanabi",
+    "overview": "",
+    "popularity": 0.8794,
+    "poster_path": "/l6ctzg1jLWLNo841JACngsvRWmJ.jpg",
+    "production_companies": [
+      {
+        "id": 304055,
+        "logo_path": null,
+        "name": "tambores, a noite",
+        "origin_country": "BR"
+      },
+      {
+        "id": 220236,
+        "logo_path": null,
+        "name": "Les Volcans",
+        "origin_country": "FR"
+      },
+      {
+        "id": 11687,
+        "logo_path": "/gW6YiDdhkySff27C0m4JXu30879.png",
+        "name": "Le Fresnoy",
+        "origin_country": "FR"
+      },
+      {
+        "id": 145640,
+        "logo_path": "/kqQKWPK8JvGmeeewRRbDtXA43xL.png",
+        "name": "Stenar Projects",
+        "origin_country": "PT"
+      },
+      {
+        "id": 76612,
+        "logo_path": "/kE6mXnRHkS3bHpu1hikx1U1pFyo.png",
+        "name": "Spectre Productions",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      },
+      {
+        "iso_3166_1": "PT",
+        "name": "Portugal"
+      }
+    ],
+    "release_date": "2026-08-12",
+    "revenue": 0,
+    "runtime": 105,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Hanabi",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6339909,
+          "known_for_department": "Acting",
+          "name": "Yukari Morimoto",
+          "original_name": "Yukari Morimoto",
+          "popularity": 0.1341,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6a516e25e07ba1f75bb5d13d",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2690305,
+          "known_for_department": "Directing",
+          "name": "Kota Takeuchi",
+          "original_name": "Kota Takeuchi",
+          "popularity": 0.1726,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "6a516e2e152cde951f66c62f",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6339911,
+          "known_for_department": "Acting",
+          "name": "Ayami Awazuhara",
+          "original_name": "Ayami Awazuhara",
+          "popularity": 0.1901,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "6a516e361952007d8ef28cad",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6339913,
+          "known_for_department": "Acting",
+          "name": "Yoko Hayasuke",
+          "original_name": "Yoko Hayasuke",
+          "popularity": 0.1812,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "6a516e3bf9de69fdcc612144",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1186028,
+          "known_for_department": "Directing",
+          "name": "Ana Vaz",
+          "original_name": "Ana Vaz",
+          "popularity": 0.5502,
+          "profile_path": "/fRSJYSgXVdBz1nvph7y3GsFDnPo.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "6a516e40e07ba1f75bb5d143",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6339915,
+          "known_for_department": "Acting",
+          "name": "Sadako Aoki",
+          "original_name": "Sadako Aoki",
+          "popularity": 0.2388,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "6a516e49170554c68af28e92",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2751110,
+          "known_for_department": "Acting",
+          "name": "Kazuhiro Ozaki",
+          "original_name": "Kazuhiro Ozaki",
+          "popularity": 0.2186,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "6a516e4f7134f7aa6fe2e142",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6339917,
+          "known_for_department": "Acting",
+          "name": "Tarachine",
+          "original_name": "Tarachine",
+          "popularity": 0.1415,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "6a516e5696214669a8611fef",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4709749,
+          "known_for_department": "Acting",
+          "name": "Naoto Matsumura",
+          "original_name": "Naoto Matsumura",
+          "popularity": 0.1708,
+          "profile_path": "/28dTuENRQ35bBmOMzkK8FuAiarE.jpg",
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "6a516e5c87241be1896978cd",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6339919,
+          "known_for_department": "Acting",
+          "name": "Taio Kaneda",
+          "original_name": "Taio Kaneda",
+          "popularity": 0.095,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "",
+          "credit_id": "6a516e6518b883649f205df2",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6339920,
+          "known_for_department": "Acting",
+          "name": "Noritsugu Miyagawa",
+          "original_name": "Noritsugu Miyagawa",
+          "popularity": 0.095,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "",
+          "credit_id": "6a516e6de07ba1f75bb5d15a",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4585244,
+          "known_for_department": "Art",
+          "name": "Kaori Morimoto",
+          "original_name": "Kaori Morimoto",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "",
+          "credit_id": "6a516e7696214669a8611ff2",
+          "order": 11
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1186028,
+          "known_for_department": "Directing",
+          "name": "Ana Vaz",
+          "original_name": "Ana Vaz",
+          "popularity": 0.5502,
+          "profile_path": "/fRSJYSgXVdBz1nvph7y3GsFDnPo.jpg",
+          "credit_id": "6a516e8d170554c68af28e98",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1186028,
+          "known_for_department": "Directing",
+          "name": "Ana Vaz",
+          "original_name": "Ana Vaz",
+          "popularity": 0.5502,
+          "profile_path": "/fRSJYSgXVdBz1nvph7y3GsFDnPo.jpg",
+          "credit_id": "6a516e9347bda5ec96f28f58",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1186028,
+          "known_for_department": "Directing",
+          "name": "Ana Vaz",
+          "original_name": "Ana Vaz",
+          "popularity": 0.5502,
+          "profile_path": "/fRSJYSgXVdBz1nvph7y3GsFDnPo.jpg",
+          "credit_id": "6a516e9996214669a8611ff6",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1327940,
+          "known_for_department": "Production",
+          "name": "Corinne Castel",
+          "original_name": "Corinne Castel",
+          "popularity": 0.2526,
+          "profile_path": null,
+          "credit_id": "6a516ea327d06aa499b8565e",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2725511,
+          "known_for_department": "Camera",
+          "name": "Gustavo Pastorino",
+          "original_name": "Gustavo Pastorino",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6a516eafd45e4c3bc7b853c9",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1186028,
+          "known_for_department": "Directing",
+          "name": "Ana Vaz",
+          "original_name": "Ana Vaz",
+          "popularity": 0.5502,
+          "profile_path": "/fRSJYSgXVdBz1nvph7y3GsFDnPo.jpg",
+          "credit_id": "6a516eba84fe6d72ea205d3c",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1595565,
+          "known_for_department": "Directing",
+          "name": "Chaghig Arzoumanian",
+          "original_name": "Chaghig Arzoumanian",
+          "popularity": 0.1411,
+          "profile_path": null,
+          "credit_id": "6a516ec59c2f368e03698122",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2516811,
+          "known_for_department": "Sound",
+          "name": "Nuno da Luz",
+          "original_name": "Nuno da Luz",
+          "popularity": 0.2412,
+          "profile_path": null,
+          "credit_id": "6a516ecd47bda5ec96f28f5f",
+          "department": "Sound",
+          "job": "Sound"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Vienna International Film Festival",
+              "release_date": "2026-10-23T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Rio de Janeiro International Film Festival",
+              "release_date": "2026-10-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Locarno Film Festival",
+              "release_date": "2026-08-12T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "BFI London Film Festival",
+              "release_date": "2026-10-16T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "IDFA International Documentary Film Festival Amsterdam",
+              "release_date": "2026-11-13T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Singapore International Film Festival",
+              "release_date": "2026-11-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "New York Film Festival",
+              "release_date": "2026-10-08T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

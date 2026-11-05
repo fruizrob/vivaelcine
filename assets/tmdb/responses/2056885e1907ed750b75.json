@@ -1,0 +1,169 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/499127?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:04.327Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 499127,
+    "imdb_id": "tt0339212",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Jacinto el tullido",
+    "overview": "",
+    "popularity": 0.3862,
+    "poster_path": "/Af8SDzIR8onx2hBXeoQleuVPJMI.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "1984-04-25",
+    "revenue": 0,
+    "runtime": 85,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Jacinto el tullido",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 3,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1043554,
+          "known_for_department": "Acting",
+          "name": "Gerardo Reyes",
+          "original_name": "Gerardo Reyes",
+          "popularity": 0.5248,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5a5ebf08c3a36838520023eb",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1043524,
+          "known_for_department": "Acting",
+          "name": "Eleazar García",
+          "original_name": "Eleazar García",
+          "popularity": 0.2908,
+          "profile_path": "/5tPrI8AYwAjas1lEOsAqgZI1n81.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5a5ebf170e0a264d42002494",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1015113,
+          "known_for_department": "Acting",
+          "name": "Valentina Leyva",
+          "original_name": "Valentina Leyva",
+          "popularity": 0.1605,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "5a5ebf1f9251415aa300241c",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1031939,
+          "known_for_department": "Acting",
+          "name": "Alfredo Wally Barrón",
+          "original_name": "Alfredo Wally Barrón",
+          "popularity": 0.2877,
+          "profile_path": "/rVd1TaVH6gnoDa2WujgQ5DusrYz.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "5a5ebf28c3a3683837002416",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1152416,
+          "known_for_department": "Acting",
+          "name": "Jorge Reynoso",
+          "original_name": "Jorge Reynoso",
+          "popularity": 0.6252,
+          "profile_path": "/yeuQ19pTNdjfMU9OBSLc7ZPtsYf.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "5a5ebf3f9251415a9d002204",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 940826,
+          "known_for_department": "Acting",
+          "name": "Lucila Mariscal",
+          "original_name": "Lucila Mariscal",
+          "popularity": 0.3036,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "5a5ecb08c3a368385e002848",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 933211,
+          "known_for_department": "Directing",
+          "name": "Fernando Durán Rojas",
+          "original_name": "Fernando Durán Rojas",
+          "popularity": 0.2745,
+          "profile_path": "/zuYJjRoxPC915tWnIy5rCHsZjf3.jpg",
+          "credit_id": "5a5ebefc0e0a264d33002568",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1984-04-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

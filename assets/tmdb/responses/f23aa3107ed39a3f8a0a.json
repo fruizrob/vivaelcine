@@ -1,0 +1,155 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1008989?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:39.139Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1008989,
+    "imdb_id": "tt3495068",
+    "origin_country": [
+      "CU"
+    ],
+    "original_language": "es",
+    "original_title": "El viajero inmovil",
+    "overview": "",
+    "popularity": 1.2844,
+    "poster_path": "/1ki7WNAUT6xomO7iYcw0cP7K9Hn.jpg",
+    "production_companies": [
+      {
+        "id": 5175,
+        "logo_path": "/685bT26uK9vuaCwf2Hylufdb4yI.png",
+        "name": "ICAIC",
+        "origin_country": "CU"
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2008-06-26",
+    "revenue": 0,
+    "runtime": 84,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El viajero inmovil",
+    "video": false,
+    "vote_average": 2,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3652220,
+          "known_for_department": "Acting",
+          "name": "Sergio Fernámdez",
+          "original_name": "Sergio Fernámdez",
+          "popularity": 0.1266,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Foción",
+          "credit_id": "62ee0e579369a2009184044b",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2416129,
+          "known_for_department": "Acting",
+          "name": "Georbis Martínez",
+          "original_name": "Georbis Martínez",
+          "popularity": 0.61,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Georbis Martínez",
+          "credit_id": "62ee0e79be4b3600825c341e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3620317,
+          "known_for_department": "Acting",
+          "name": "Catherine Nuñez",
+          "original_name": "Catherine Nuñez",
+          "popularity": 0.6432,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Violante",
+          "credit_id": "62ee0e9346aed400917df8a4",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2930120,
+          "known_for_department": "Crew",
+          "name": "José Manuel Riera",
+          "original_name": "José Manuel Riera",
+          "popularity": 0.5039,
+          "profile_path": null,
+          "credit_id": "62ee0df0ae281100915f480e",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1718929,
+          "known_for_department": "Production",
+          "name": "Humberto Hernández",
+          "original_name": "Humberto Hernández",
+          "popularity": 0.3193,
+          "profile_path": null,
+          "credit_id": "62ee0eb59369a20091840470",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1701412,
+          "known_for_department": "Writing",
+          "name": "Tomás Piard",
+          "original_name": "Tomás Piard",
+          "popularity": 0.1466,
+          "profile_path": null,
+          "credit_id": "62ee0db3be4b3600825c33d3",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2008-06-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

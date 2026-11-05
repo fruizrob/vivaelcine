@@ -1,0 +1,332 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/872927?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:56.875Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 872927,
+    "imdb_id": "tt11656984",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Final 48",
+    "overview": "",
+    "popularity": 0.4741,
+    "poster_path": "/r02PqbE0M0l8MHTAs5TppgA2Ed6.jpg",
+    "production_companies": [
+      {
+        "id": 200363,
+        "logo_path": null,
+        "name": "SeaHawk Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2022-01-23",
+    "revenue": 0,
+    "runtime": 94,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Final 48",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3233035,
+          "known_for_department": "Acting",
+          "name": "Cory Wieczorek",
+          "original_name": "Cory Wieczorek",
+          "popularity": 0.129,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "613f3b7b9450fe00430bfa8e",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1136735,
+          "known_for_department": "Acting",
+          "name": "Kay Hall",
+          "original_name": "Kay Hall",
+          "popularity": 0.189,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "613f3b97aaf8970062bb6c35",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2905965,
+          "known_for_department": "Acting",
+          "name": "Kelly Ladd",
+          "original_name": "Kelly Ladd",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "613f3b9f19ab590026f91cf2",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1570538,
+          "known_for_department": "Acting",
+          "name": "Louis Labovitch",
+          "original_name": "Louis Labovitch",
+          "popularity": 0.1212,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "613f3ba7006b010063eb59bd",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3015595,
+          "known_for_department": "Acting",
+          "name": "Walter Robert Duckworth",
+          "original_name": "Walter Robert Duckworth",
+          "popularity": 0.947,
+          "profile_path": "/6PFWlRfnd6ZL4TVKivjcIFKnjwO.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "613f3bb26af9dd00917d3f9f",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 216205,
+          "known_for_department": "Acting",
+          "name": "Tim Perez-Ross",
+          "original_name": "Tim Perez-Ross",
+          "popularity": 0.4353,
+          "profile_path": "/263ai73MPUUY07YJfjPmQ2edR8i.jpg",
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "613f3bbde27260002a9c40f5",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2578982,
+          "known_for_department": "Directing",
+          "name": "Lisa Sanow",
+          "original_name": "Lisa Sanow",
+          "popularity": 0.1421,
+          "profile_path": null,
+          "credit_id": "613f3c05d236e600935fbe0a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4068366,
+          "known_for_department": "Writing",
+          "name": "Willi Sanow",
+          "original_name": "Willi Sanow",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6465b0be33a37600e6791423",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4068369,
+          "known_for_department": "Editing",
+          "name": "Ayanda Magagula",
+          "original_name": "Ayanda Magagula",
+          "popularity": 0.0987,
+          "profile_path": null,
+          "credit_id": "6465b102a5046e00e5b4d7e9",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4068370,
+          "known_for_department": "Art",
+          "name": "Caitlin Saad",
+          "original_name": "Caitlin Saad",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6465b115a5046e0189400a2c",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2245693,
+          "known_for_department": "Art",
+          "name": "Amber Actaboski",
+          "original_name": "Amber Actaboski",
+          "popularity": 0.1837,
+          "profile_path": null,
+          "credit_id": "6465b129006b01010588b9f0",
+          "department": "Costume & Make-Up",
+          "job": "Key Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4068373,
+          "known_for_department": "Camera",
+          "name": "Dustin Masters",
+          "original_name": "Dustin Masters",
+          "popularity": 0.2578,
+          "profile_path": null,
+          "credit_id": "6465b190006b01010588ba46",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4068367,
+          "known_for_department": "Crew",
+          "name": "Gianfranco Remiggi",
+          "original_name": "Gianfranco Remiggi",
+          "popularity": 0.095,
+          "profile_path": null,
+          "credit_id": "6465b0f2006b0100e6b2e904",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2578982,
+          "known_for_department": "Directing",
+          "name": "Lisa Sanow",
+          "original_name": "Lisa Sanow",
+          "popularity": 0.1421,
+          "profile_path": null,
+          "credit_id": "6465b0d733a3760158d84060",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4068372,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Kendall White",
+          "original_name": "Kendall White",
+          "popularity": 0.1135,
+          "profile_path": null,
+          "credit_id": "6465b15f2bcf67011bf1a9bb",
+          "department": "Costume & Make-Up",
+          "job": "Key Hair Stylist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3230020,
+          "known_for_department": "Directing",
+          "name": "Mya-Breyana Morton",
+          "original_name": "Mya-Breyana Morton",
+          "popularity": 0.1626,
+          "profile_path": null,
+          "credit_id": "6465b17d006b010126f47ed0",
+          "department": "Camera",
+          "job": "Camera Operator"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2021-05-10T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2022-11-22T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Atlanta, GA",
+              "release_date": "2022-01-23T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2022-11-22T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

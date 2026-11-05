@@ -1,0 +1,503 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/371385?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:13.858Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 371385,
+    "imdb_id": "tt0216783",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The Good Beginning",
+    "overview": "",
+    "popularity": 1.3575,
+    "poster_path": "/kFDc2YqA7SsrPQzAQTgsNUnZgCt.jpg",
+    "production_companies": [
+      {
+        "id": 4894,
+        "logo_path": null,
+        "name": "Associated British-Pathé",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "1953-10-05",
+    "revenue": 0,
+    "runtime": 62,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Good Beginning",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 69555,
+          "known_for_department": "Acting",
+          "name": "John Fraser",
+          "original_name": "John Fraser",
+          "popularity": 0.8132,
+          "profile_path": "/4v1WmGZ1Jvom6mxIvxRAYOP4aQm.jpg",
+          "cast_id": 0,
+          "character": "Johnny Lipson",
+          "credit_id": "5663fa3f9251412ad5007617",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 130057,
+          "known_for_department": "Acting",
+          "name": "Eileen Moore",
+          "original_name": "Eileen Moore",
+          "popularity": 0.5557,
+          "profile_path": "/nsiPRmrd57jwtky5e5DwI22BIkO.jpg",
+          "cast_id": 1,
+          "character": "Kit Lipson",
+          "credit_id": "5663fa499251412acd0075ed",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 101500,
+          "known_for_department": "Acting",
+          "name": "Peter Reynolds",
+          "original_name": "Peter Reynolds",
+          "popularity": 0.4758,
+          "profile_path": "/rdOR4MwgFZfmYqCOhCU5Sx5otDy.jpg",
+          "cast_id": 2,
+          "character": "Brian Watson",
+          "credit_id": "5663fa52c3a3682bd0007113",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 126124,
+          "known_for_department": "Acting",
+          "name": "Humphrey Lestocq",
+          "original_name": "Humphrey Lestocq",
+          "popularity": 0.3842,
+          "profile_path": "/po4bux6AqlYLjtEbNMsCQsi0oPp.jpg",
+          "cast_id": 4,
+          "character": "Thorogood",
+          "credit_id": "5663fa819251412ad5007620",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 133245,
+          "known_for_department": "Acting",
+          "name": "Hugh Pryse",
+          "original_name": "Hugh Pryse",
+          "popularity": 0.337,
+          "profile_path": "/oxmwg2Hmy72ErfuRQsfqjuzJkgZ.jpg",
+          "cast_id": 5,
+          "character": "Braithwaite",
+          "credit_id": "5663fa8dc3a3682c01007719",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29675,
+          "known_for_department": "Acting",
+          "name": "David Kossoff",
+          "original_name": "David Kossoff",
+          "popularity": 0.4173,
+          "profile_path": "/xHhjvASCgqQPFCK2rGUbUJzx1e0.jpg",
+          "cast_id": 8,
+          "character": "Dealer",
+          "credit_id": "5663fae8c3a3682bd2007957",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 97427,
+          "known_for_department": "Acting",
+          "name": "Lana Morris",
+          "original_name": "Lana Morris",
+          "popularity": 0.6146,
+          "profile_path": "/AtIBYqksnNDltr0GyfF6atlJumx.jpg",
+          "cast_id": 14,
+          "character": "Evie Watson",
+          "credit_id": "5b69404e0e0a267ef10ebc02",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 600537,
+          "known_for_department": "Acting",
+          "name": "Ann Stephens",
+          "original_name": "Ann Stephens",
+          "popularity": 0.3225,
+          "profile_path": "/j54pNg0VncYaAy6irfImHdNBudZ.jpg",
+          "cast_id": 15,
+          "character": "Polly",
+          "credit_id": "5b6940800e0a267ee70f135e",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 95093,
+          "known_for_department": "Acting",
+          "name": "Peter Jones",
+          "original_name": "Peter Jones",
+          "popularity": 0.4414,
+          "profile_path": "/5gVb0xBDg8tXLs6pn91MTVoEzRz.jpg",
+          "cast_id": 16,
+          "character": "Furrier",
+          "credit_id": "5b6941d1c3a36818970e1f1e",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 135096,
+          "known_for_department": "Acting",
+          "name": "Robert Raglan",
+          "original_name": "Robert Raglan",
+          "popularity": 0.3725,
+          "profile_path": "/sYIRRRZKUty4LCereRznwqsivv0.jpg",
+          "cast_id": 18,
+          "character": "Shelley",
+          "credit_id": "62cc146ae8d0280057a7349d",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 40965,
+          "known_for_department": "Acting",
+          "name": "Victor Maddern",
+          "original_name": "Victor Maddern",
+          "popularity": 0.6437,
+          "profile_path": "/3AnKDnp09P3UJ6nlXoat7W1tv4n.jpg",
+          "cast_id": 19,
+          "character": "Bookies Runner",
+          "credit_id": "62cc15034b9bae1a3d176a18",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 575814,
+          "known_for_department": "Acting",
+          "name": "Roland Curram",
+          "original_name": "Roland Curram",
+          "popularity": 0.3272,
+          "profile_path": "/8TIu11W2r9QI8E2AOdRjjtDabgu.jpg",
+          "cast_id": 20,
+          "character": "Carpenter",
+          "credit_id": "62cc1544498bc21e74bea8e9",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2837976,
+          "known_for_department": "Acting",
+          "name": "Virginia Clay",
+          "original_name": "Virginia Clay",
+          "popularity": 0.9625,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Alma",
+          "credit_id": "62cc157d595a5612ba10f851",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29308,
+          "known_for_department": "Acting",
+          "name": "Oliver Johnston",
+          "original_name": "Oliver Johnston",
+          "popularity": 0.2959,
+          "profile_path": "/pfVdF7LIkbdGii7U9RR5gpjbEP2.jpg",
+          "cast_id": 22,
+          "character": "Owen",
+          "credit_id": "62cc15b94b9bae1a3c1bcc2d",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 23708,
+          "known_for_department": "Acting",
+          "name": "Lou Jacobi",
+          "original_name": "Lou Jacobi",
+          "popularity": 0.5329,
+          "profile_path": "/xCm6ntT3faWFIr5IagDdeHtvRlv.jpg",
+          "cast_id": 23,
+          "character": "Bookmaker",
+          "credit_id": "62cc15f4e004a60346f5cac6",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2101475,
+          "known_for_department": "Acting",
+          "name": "Ronnie Harries",
+          "original_name": "Ronnie Harries",
+          "popularity": 0.3755,
+          "profile_path": null,
+          "cast_id": 24,
+          "character": "Man In Pub",
+          "credit_id": "62cc1618fd4a960f4da58c0f",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29675,
+          "known_for_department": "Acting",
+          "name": "David Kossoff",
+          "original_name": "David Kossoff",
+          "popularity": 0.4173,
+          "profile_path": "/xHhjvASCgqQPFCK2rGUbUJzx1e0.jpg",
+          "cast_id": 25,
+          "character": "2nd Hand Clothes Dealer",
+          "credit_id": "62cc163a595a5612b91096c9",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1543441,
+          "known_for_department": "Acting",
+          "name": "Barbara Cavan",
+          "original_name": "Barbara Cavan",
+          "popularity": 0.2681,
+          "profile_path": null,
+          "cast_id": 26,
+          "character": "Manageress in Fur Shop",
+          "credit_id": "62cc1665498bc21e7253ae38",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3620083,
+          "known_for_department": "Acting",
+          "name": "Rosemary Whitfield",
+          "original_name": "Rosemary Whitfield",
+          "popularity": 0.1008,
+          "profile_path": null,
+          "cast_id": 27,
+          "character": "Celia",
+          "credit_id": "62cc168c4a4bfc0055ec8a2e",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 120764,
+          "known_for_department": "Acting",
+          "name": "Eddie Vitch",
+          "original_name": "Eddie Vitch",
+          "popularity": 0.3195,
+          "profile_path": null,
+          "cast_id": 28,
+          "character": "Speciality Act",
+          "credit_id": "62cc16a9595a5612b9109700",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3620084,
+          "known_for_department": "Acting",
+          "name": "Alma Cookson",
+          "original_name": "Alma Cookson",
+          "popularity": 0.5178,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "Skater",
+          "credit_id": "62cc16c09566580f80ccdd53",
+          "order": 20
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 73257,
+          "known_for_department": "Writing",
+          "name": "Janet Green",
+          "original_name": "Janet Green",
+          "popularity": 0.4478,
+          "profile_path": "/wnqxLtaJgqGOq0ubaCxj08QFliw.jpg",
+          "credit_id": "62cc16ec4b9bae1a3b717e6b",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 985337,
+          "known_for_department": "Directing",
+          "name": "Gilbert Gunn",
+          "original_name": "Gilbert Gunn",
+          "popularity": 0.7717,
+          "profile_path": null,
+          "credit_id": "62cc17064b9bae1a3b717e76",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 132588,
+          "known_for_department": "Editing",
+          "name": "Richard Best",
+          "original_name": "Richard Best",
+          "popularity": 0.4496,
+          "profile_path": null,
+          "credit_id": "62cc1807e8131d0fb85f3713",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 985337,
+          "known_for_department": "Directing",
+          "name": "Gilbert Gunn",
+          "original_name": "Gilbert Gunn",
+          "popularity": 0.7717,
+          "profile_path": null,
+          "credit_id": "5663fb24c3a3682bd2007961",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 73257,
+          "known_for_department": "Writing",
+          "name": "Janet Green",
+          "original_name": "Janet Green",
+          "popularity": 0.4478,
+          "profile_path": "/wnqxLtaJgqGOq0ubaCxj08QFliw.jpg",
+          "credit_id": "5663fb309251412ac4007576",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 73257,
+          "known_for_department": "Writing",
+          "name": "Janet Green",
+          "original_name": "Janet Green",
+          "popularity": 0.4478,
+          "profile_path": "/wnqxLtaJgqGOq0ubaCxj08QFliw.jpg",
+          "credit_id": "5663fb5ec3a3682bd2007964",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1545337,
+          "known_for_department": "Production",
+          "name": "John Redway",
+          "original_name": "John Redway",
+          "popularity": 0.396,
+          "profile_path": null,
+          "credit_id": "5663fb759251412ad3007791",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1302569,
+          "known_for_department": "Sound",
+          "name": "Robert Gill",
+          "original_name": "Robert Gill",
+          "popularity": 0.2422,
+          "profile_path": null,
+          "credit_id": "648ad91ac2ff3d00c5985f59",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 107456,
+          "known_for_department": "Camera",
+          "name": "Lionel Banes",
+          "original_name": "Lionel Banes",
+          "popularity": 0.1477,
+          "profile_path": null,
+          "credit_id": "5ccd81459251414f7c256a90",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "PG",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1953-10-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1954-11-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

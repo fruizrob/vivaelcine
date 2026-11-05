@@ -1,0 +1,477 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/37904?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:09.463Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/oRtQs4p7pWhuET78yv405Ga1FUJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 37904,
+    "imdb_id": "tt0074769",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The Devil's Men",
+    "overview": "Un noble y ermitaño líder sectario llamado Barón Korfacs se dedica a sacrificar adolescentes a su divinidad: el Minotauro. Como contrapeso hay un sacerdote que intentará vencerlo.",
+    "popularity": 1.5421,
+    "poster_path": "/sMpqDIdjNFvkPqEt0RjScSmFx3v.jpg",
+    "production_companies": [
+      {
+        "id": 72256,
+        "logo_path": null,
+        "name": "Getty Pictures Corp.",
+        "origin_country": ""
+      },
+      {
+        "id": 57582,
+        "logo_path": null,
+        "name": "Poseidon Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 1009,
+        "logo_path": null,
+        "name": "Crown International Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GR",
+        "name": "Greece"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1976-08-11",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Greek",
+        "iso_639_1": "el",
+        "name": "ελληνικά"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Poseidos por el demonio",
+    "video": false,
+    "vote_average": 4.08,
+    "vote_count": 50,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 9221,
+          "known_for_department": "Acting",
+          "name": "Donald Pleasence",
+          "original_name": "Donald Pleasence",
+          "popularity": 2.3539,
+          "profile_path": "/crtSwLnlrEidYFPupkVBSL9wK9Z.jpg",
+          "cast_id": 1,
+          "character": "Father Roche",
+          "credit_id": "52fe467c9251416c91056043",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5,
+          "known_for_department": "Acting",
+          "name": "Peter Cushing",
+          "original_name": "Peter Cushing",
+          "popularity": 1.9469,
+          "profile_path": "/if5g03wn6uvHx7F6FxXHLebKc0q.jpg",
+          "cast_id": 3,
+          "character": "Baron Corofax",
+          "credit_id": "52fe467c9251416c9105604d",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 97671,
+          "known_for_department": "Acting",
+          "name": "Luan Peters",
+          "original_name": "Luan Peters",
+          "popularity": 0.7666,
+          "profile_path": "/kNDWW4N6ACVhsdg4KjlO3jaZzZB.jpg",
+          "cast_id": 4,
+          "character": "Laurie Gordon",
+          "credit_id": "52fe467c9251416c91056051",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 106721,
+          "known_for_department": "Acting",
+          "name": "Νίκος Βερλέκης",
+          "original_name": "Νίκος Βερλέκης",
+          "popularity": 0.9683,
+          "profile_path": "/tFkf3zRYcUarG6W2ePArWgs1M4U.jpg",
+          "cast_id": 5,
+          "character": "Ian",
+          "credit_id": "52fe467c9251416c91056055",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 106720,
+          "known_for_department": "Acting",
+          "name": "Κώστας Καραγιώργης",
+          "original_name": "Κώστας Καραγιώργης",
+          "popularity": 0.7759,
+          "profile_path": "/tLlTb0015ZZaHf5HbUANtq0nboQ.jpg",
+          "cast_id": 6,
+          "character": "Milo Kaye",
+          "credit_id": "52fe467c9251416c91056059",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1146995,
+          "known_for_department": "Acting",
+          "name": "Δημήτρης Μπισλάνης",
+          "original_name": "Δημήτρης Μπισλάνης",
+          "popularity": 0.4642,
+          "profile_path": "/q1hUsg4IF5KFzurGIiPsbUNPNah.jpg",
+          "cast_id": 7,
+          "character": "Sgt. Vendris",
+          "credit_id": "52fe467c9251416c9105605d",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1119900,
+          "known_for_department": "Acting",
+          "name": "Άννα Μαντζουράνη",
+          "original_name": "Άννα Μαντζουράνη",
+          "popularity": 0.4403,
+          "profile_path": "/rPO4yJ5on6gpBm7cePD2VbtDfUn.jpg",
+          "cast_id": 8,
+          "character": "Widow - Mrs. Mikaelis",
+          "credit_id": "52fe467c9251416c91056061",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 161461,
+          "known_for_department": "Acting",
+          "name": "Robert Behling",
+          "original_name": "Robert Behling",
+          "popularity": 0.4435,
+          "profile_path": "/hE5YzVBqGLgcHWeGUKDMgl9newI.jpg",
+          "cast_id": 9,
+          "character": "Tom Gifford",
+          "credit_id": "52fe467c9251416c91056065",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1031167,
+          "known_for_department": "Acting",
+          "name": "Ανέστης Βλάχος",
+          "original_name": "Ανέστης Βλάχος",
+          "popularity": 0.476,
+          "profile_path": "/pXed1a1UKkGWUMlnvhKi0HzA7hI.jpg",
+          "cast_id": 10,
+          "character": "Shopkeeper - Karapades",
+          "credit_id": "52fe467c9251416c91056069",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1144063,
+          "known_for_department": "Acting",
+          "name": "Jane Lyle",
+          "original_name": "Jane Lyle",
+          "popularity": 0.7491,
+          "profile_path": "/l545Drn1PThztfhk8K86q2Kq16L.jpg",
+          "cast_id": 11,
+          "character": "Milo's Girlfriend",
+          "credit_id": "52fe467c9251416c9105606d",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1073040,
+          "known_for_department": "Acting",
+          "name": "Jessica Dublin",
+          "original_name": "Jessica Dublin",
+          "popularity": 1.2089,
+          "profile_path": "/8xJj4FKH04I22pMC7zTkp5c9i4j.jpg",
+          "cast_id": 12,
+          "character": "Mrs. Zagros",
+          "credit_id": "52fe467c9251416c91056071",
+          "order": 10
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 97670,
+          "known_for_department": "Directing",
+          "name": "Κώστας Καραγιάννης",
+          "original_name": "Κώστας Καραγιάννης",
+          "popularity": 0.6458,
+          "profile_path": "/szIqDVzyot1zm7hRWn6e93QdgF2.jpg",
+          "credit_id": "52fe467c9251416c91056049",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 119072,
+          "known_for_department": "Writing",
+          "name": "Arthur Rowe",
+          "original_name": "Arthur Rowe",
+          "popularity": 0.2759,
+          "profile_path": null,
+          "credit_id": "580f7d4cc3a3683bea0000e7",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1102075,
+          "known_for_department": "Editing",
+          "name": "Barry Reynolds",
+          "original_name": "Barry Reynolds",
+          "popularity": 0.3634,
+          "profile_path": null,
+          "credit_id": "5bc51aa40e0a266e540686a9",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1312792,
+          "known_for_department": "Art",
+          "name": "Πέτρος Καπουράλης",
+          "original_name": "Πέτρος Καπουράλης",
+          "popularity": 0.2652,
+          "profile_path": null,
+          "credit_id": "5bc51ac692514179b606385f",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1686748,
+          "known_for_department": "Production",
+          "name": "Herbert G. Luft",
+          "original_name": "Herbert G. Luft",
+          "popularity": 0.2413,
+          "profile_path": null,
+          "credit_id": "5bc51a6d92514179c10629b6",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 37317,
+          "known_for_department": "Sound",
+          "name": "Brian Eno",
+          "original_name": "Brian Eno",
+          "popularity": 0.4847,
+          "profile_path": "/lLdYPTiwg5uvFFSY70TI3CCJYE4.jpg",
+          "credit_id": "5bc51a8a92514179c10629e2",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 17584,
+          "known_for_department": "Camera",
+          "name": "Άρης Σταύρου",
+          "original_name": "Άρης Σταύρου",
+          "popularity": 0.1986,
+          "profile_path": null,
+          "credit_id": "5bc51a970e0a266e6406c911",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1312592,
+          "known_for_department": "Production",
+          "name": "Παντελής Φιλιππίδης",
+          "original_name": "Παντελής Φιλιππίδης",
+          "popularity": 0.1585,
+          "profile_path": null,
+          "credit_id": "5bc51ab40e0a266e5d06bda2",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2151348,
+          "known_for_department": "Production",
+          "name": "Frixos Constantine",
+          "original_name": "Frixos Constantine",
+          "popularity": 0.139,
+          "profile_path": null,
+          "credit_id": "5bc51a6092514179ba067b65",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2151349,
+          "known_for_department": "Production",
+          "name": "Nick Morrison",
+          "original_name": "Nick Morrison",
+          "popularity": 0.1203,
+          "profile_path": null,
+          "credit_id": "5bc51a7b0e0a266e6b068ccf",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "1976-08-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1976-08-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "M/16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1976-08-11T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "M/16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1976-08-11T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "PG",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1977-06-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Land of the Minotaur",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "GR",
+          "title": "I maska tou Diavolou",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "IT",
+          "title": "La valle del mostro",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BE",
+          "title": "La secte des morts-vivants",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "GB",
+          "title": "The Devil's People",
+          "type": "working title"
+        },
+        {
+          "iso_3166_1": "GB",
+          "title": "The Devil's Men",
+          "type": "Original Title"
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "La Secte des morts-vivants",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

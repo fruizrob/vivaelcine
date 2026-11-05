@@ -1,0 +1,351 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/538671?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:18.979Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "id": 538671,
+    "imdb_id": "tt0031876",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Angélica",
+    "overview": "",
+    "popularity": 5.7367,
+    "poster_path": "/iRisS2Xu0yqdPBZ8vBcbaJZfWeP.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1939-02-17",
+    "revenue": 0,
+    "runtime": 95,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Angélica",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 39471,
+          "known_for_department": "Acting",
+          "name": "Viviane Romance",
+          "original_name": "Viviane Romance",
+          "popularity": 0.6574,
+          "profile_path": "/mXofrvvdf6cDnvZT8oCSsjkVoVl.jpg",
+          "cast_id": 1,
+          "character": "Angélica",
+          "credit_id": "5f5485b6a589020033e2ca99",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1658,
+          "known_for_department": "Acting",
+          "name": "Georges Flamant",
+          "original_name": "Georges Flamant",
+          "popularity": 0.511,
+          "profile_path": "/lQwmtPsFWME63x5M7IRF6g8bLrR.jpg",
+          "cast_id": 2,
+          "character": "Dom Mannique Ruiz",
+          "credit_id": "5f5485e4bf0f630037d265dd",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 150334,
+          "known_for_department": "Acting",
+          "name": "Guillaume de Sax",
+          "original_name": "Guillaume de Sax",
+          "popularity": 1.1008,
+          "profile_path": "/iW70grofWtwmz6GbMazLTwhzwLE.jpg",
+          "cast_id": 3,
+          "character": "Diaz",
+          "credit_id": "5f5485faf5f1c5003987396c",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32101,
+          "known_for_department": "Acting",
+          "name": "Paul Amiot",
+          "original_name": "Paul Amiot",
+          "popularity": 1.6807,
+          "profile_path": "/jzrCnXDPaaQRuLdhJWeVfN8f38f.jpg",
+          "cast_id": 4,
+          "character": "Iramundi",
+          "credit_id": "5f548619f5f1c50037875738",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 24698,
+          "known_for_department": "Acting",
+          "name": "Regina Bianchi",
+          "original_name": "Regina Bianchi",
+          "popularity": 0.4154,
+          "profile_path": "/9JCpmPsjRZJFwSMYblWyA3Gsn3l.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "5f54862fa589020032e2fcee",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1527701,
+          "known_for_department": "Acting",
+          "name": "Monique Thibaut",
+          "original_name": "Monique Thibaut",
+          "popularity": 0.173,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Manuela",
+          "credit_id": "5f54864c594c940035e339e8",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 543628,
+          "known_for_department": "Directing",
+          "name": "Jean Choux",
+          "original_name": "Jean Choux",
+          "popularity": 0.5002,
+          "profile_path": "/hGLiE6ftfn3Bho6JVvrqU019ceT.jpg",
+          "credit_id": "5bde70de92514137c901b352",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1068310,
+          "known_for_department": "Writing",
+          "name": "Jean-Georges Auriol",
+          "original_name": "Jean-Georges Auriol",
+          "popularity": 0.2884,
+          "profile_path": null,
+          "credit_id": "5f54868fa589020033e2cbcc",
+          "department": "Writing",
+          "job": "Adaptation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1027533,
+          "known_for_department": "Sound",
+          "name": "Jacques Ibert",
+          "original_name": "Jacques Ibert",
+          "popularity": 0.1237,
+          "profile_path": null,
+          "credit_id": "5f5486b0bf0f630036d2abb0",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1769957,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Domenico Gaido",
+          "original_name": "Domenico Gaido",
+          "popularity": 0.33,
+          "profile_path": null,
+          "credit_id": "691197c63c6c3c652c4c84df",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1274407,
+          "known_for_department": "Acting",
+          "name": "Raimondo Van Riel",
+          "original_name": "Raimondo Van Riel",
+          "popularity": 0.4293,
+          "profile_path": "/2TWmkwTEvKdCR8C02pS2m0HGNzg.jpg",
+          "credit_id": "691197dacecfcf4c7e9ac3ad",
+          "department": "Costume & Make-Up",
+          "job": "Makeup & Hair"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 8991,
+          "known_for_department": "Art",
+          "name": "Pierre Schild",
+          "original_name": "Pierre Schild",
+          "popularity": 0.1639,
+          "profile_path": null,
+          "credit_id": "691197ef4ef72b612e31b34d",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1666363,
+          "known_for_department": "Art",
+          "name": "Alfredo Manzi",
+          "original_name": "Alfredo Manzi",
+          "popularity": 0.3969,
+          "profile_path": null,
+          "credit_id": "691197faa5ef06b8d24c808c",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4418,
+          "known_for_department": "Editing",
+          "name": "Eraldo Da Roma",
+          "original_name": "Eraldo Da Roma",
+          "popularity": 0.4327,
+          "profile_path": "/7mU29mK4NziwjL7GSHCIeDb4pb7.jpg",
+          "credit_id": "6911981413e44dda0cdd2331",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4417,
+          "known_for_department": "Camera",
+          "name": "Ubaldo Arata",
+          "original_name": "Ubaldo Arata",
+          "popularity": 0.2789,
+          "profile_path": null,
+          "credit_id": "691198209f53be2e004c82d3",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2607126,
+          "known_for_department": "Production",
+          "name": "Cesare Zanetti",
+          "original_name": "Cesare Zanetti",
+          "popularity": 0.3827,
+          "profile_path": null,
+          "credit_id": "69119831ae981ceb3f9ac1e5",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 39204,
+          "known_for_department": "Directing",
+          "name": "Georges Lampin",
+          "original_name": "Georges Lampin",
+          "popularity": 0.401,
+          "profile_path": null,
+          "credit_id": "691198397dc8f9e2c331b415",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1211304,
+          "known_for_department": "Directing",
+          "name": "Maria Basaglia",
+          "original_name": "Maria Basaglia",
+          "popularity": 0.388,
+          "profile_path": null,
+          "credit_id": "691199bc5a6e68d567ce8c3b",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5807771,
+          "known_for_department": "Writing",
+          "name": "Fabien Frachat",
+          "original_name": "Fabien Frachat",
+          "popularity": 0.556,
+          "profile_path": null,
+          "credit_id": "691199c8fe08b67726a0ccfa",
+          "department": "Writing",
+          "job": "Screenplay"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "fr",
+              "note": "",
+              "release_date": "1940-09-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1939-02-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "XC",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1948-04-30T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

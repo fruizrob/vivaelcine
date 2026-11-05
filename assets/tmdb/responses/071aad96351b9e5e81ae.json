@@ -1,0 +1,5355 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1034716?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:44.233Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/qa3oDSDZSJKSdIdBgQgEAxO0N88.jpg",
+    "belongs_to_collection": null,
+    "budget": 1000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "https://www.netflix.com/es/title/81764371",
+    "id": 1034716,
+    "imdb_id": "tt22740896",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "People We Meet on Vacation",
+    "overview": "Poppy es un espíritu libre y a Alex le gusta planificarlo todo. Tras muchas vacaciones juntos, estos amigos tan diferentes se preguntan si serán la pareja perfecta.",
+    "popularity": 7.7538,
+    "poster_path": "/lCbXqv2NOFoV8L0dYjcSz64zlUs.jpg",
+    "production_companies": [
+      {
+        "id": 130405,
+        "logo_path": "/wKwqaDavAHG8irFwawW9BThM1KD.png",
+        "name": "3000 Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 12292,
+        "logo_path": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+        "name": "Temple Hill Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 137357,
+        "logo_path": "/pQBSNVXY2cXSrPfNgPvCXCXGXNB.png",
+        "name": "HarperCollins Publishers",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-01-06",
+    "revenue": 0,
+    "runtime": 116,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "En las vacaciones, eres libre de seguir tu corazón",
+    "title": "Gente que conocemos en vacaciones",
+    "video": false,
+    "vote_average": 6.943,
+    "vote_count": 761,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1902689,
+          "known_for_department": "Acting",
+          "name": "Emily Bader",
+          "original_name": "Emily Bader",
+          "popularity": 1.5742,
+          "profile_path": "/xWJWSOS3bWZJz26yW5DwKRZdE1t.jpg",
+          "cast_id": 9,
+          "character": "Poppy",
+          "credit_id": "66ad17ff7232d1f132cd7d48",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1524100,
+          "known_for_department": "Acting",
+          "name": "Tom Blyth",
+          "original_name": "Tom Blyth",
+          "popularity": 2.3417,
+          "profile_path": "/q8bkN1GvXqjs1ZGFYWViH9o2WDq.jpg",
+          "cast_id": 8,
+          "character": "Alex",
+          "credit_id": "66ad17f4962334ac3c82f0ee",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2485582,
+          "known_for_department": "Acting",
+          "name": "Sarah Catherine Hook",
+          "original_name": "Sarah Catherine Hook",
+          "popularity": 1.9717,
+          "profile_path": "/37fcP1czSI7LYuF4OgMdYz8SEHf.jpg",
+          "cast_id": 11,
+          "character": "Sarah",
+          "credit_id": "66eb04f482ff873f7d1f68fb",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1624816,
+          "known_for_department": "Acting",
+          "name": "Jameela Jamil",
+          "original_name": "Jameela Jamil",
+          "popularity": 1.0214,
+          "profile_path": "/e9RviCItpPoSwD79y4YYlDbIwM6.jpg",
+          "cast_id": 12,
+          "character": "Swapna",
+          "credit_id": "66eb05125c0519a234d37f2c",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 148096,
+          "known_for_department": "Acting",
+          "name": "Miles Heizer",
+          "original_name": "Miles Heizer",
+          "popularity": 1.2316,
+          "profile_path": "/xfIUIS04M6BtuA27047hAhB1y47.jpg",
+          "cast_id": 15,
+          "character": "David",
+          "credit_id": "66f43d00824701db2f231010",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4218444,
+          "known_for_department": "Acting",
+          "name": "Tommy Do",
+          "original_name": "Tommy Do",
+          "popularity": 0.3522,
+          "profile_path": "/ae9o8FEzjh3bmtgZh34YR7Uq0Fz.jpg",
+          "cast_id": 19,
+          "character": "Nam",
+          "credit_id": "6864ea10c6ffe63cb8414bc0",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 233096,
+          "known_for_department": "Acting",
+          "name": "Lucien Laviscount",
+          "original_name": "Lucien Laviscount",
+          "popularity": 1.9336,
+          "profile_path": "/3GndTFV0wMGDwocS4rP5Z194uYu.jpg",
+          "cast_id": 13,
+          "character": "Trey",
+          "credit_id": "66eb05265168a896e11f84c9",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2394,
+          "known_for_department": "Acting",
+          "name": "Alan Ruck",
+          "original_name": "Alan Ruck",
+          "popularity": 2.0183,
+          "profile_path": "/hj7CuWinT12hMKjRhSO4XEMVq7w.jpg",
+          "cast_id": 16,
+          "character": "Jimmy",
+          "credit_id": "66f43d05740138641e6a1bc3",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 28640,
+          "known_for_department": "Acting",
+          "name": "Molly Shannon",
+          "original_name": "Molly Shannon",
+          "popularity": 1.5781,
+          "profile_path": "/5ZTbNpJtDRU4ZCH24nJvFRxaqAD.jpg",
+          "cast_id": 17,
+          "character": "Wanda",
+          "credit_id": "66f43d0c0eca17da1b0dfe48",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1371509,
+          "known_for_department": "Acting",
+          "name": "Lukas Gage",
+          "original_name": "Lukas Gage",
+          "popularity": 1.634,
+          "profile_path": "/xXknCnXtRBmqg38TkMuPFtugt5s.jpg",
+          "cast_id": 14,
+          "character": "Buck",
+          "credit_id": "66eb053cb2917eb1800bc470",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5125849,
+          "known_for_department": "Acting",
+          "name": "Madeleine Akua",
+          "original_name": "Madeleine Akua",
+          "popularity": 0.2768,
+          "profile_path": "/qn0iuaigaG12HVQP7mKqkWJr9tf.jpg",
+          "cast_id": 23,
+          "character": "Daisy",
+          "credit_id": "6864ea8db513a812fdbb3cc5",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1517252,
+          "known_for_department": "Acting",
+          "name": "Alice Lee",
+          "original_name": "Alice Lee",
+          "popularity": 0.7292,
+          "profile_path": "/oFAOsbgtQk3d50Yjj8pw9jJ5lsH.jpg",
+          "cast_id": 20,
+          "character": "Rachel",
+          "credit_id": "6864ea4d295f1e8653fb846d",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1392534,
+          "known_for_department": "Acting",
+          "name": "Spencer Neville",
+          "original_name": "Spencer Neville",
+          "popularity": 0.6035,
+          "profile_path": "/yGknQt0rrCfNU8qiTdoujjmvNNv.jpg",
+          "cast_id": 21,
+          "character": "Julian",
+          "credit_id": "6864ea787ac939151dbb3c02",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 59085,
+          "known_for_department": "Acting",
+          "name": "Ian Porter",
+          "original_name": "Ian Porter",
+          "popularity": 0.3981,
+          "profile_path": "/qmTTaWGp5OO5rTFey9EFfo0dH5n.jpg",
+          "cast_id": 22,
+          "character": "Ed Nilsen",
+          "credit_id": "6864ea847ac939151dbb3c06",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1431569,
+          "known_for_department": "Acting",
+          "name": "John Jabaley",
+          "original_name": "John Jabaley",
+          "popularity": 0.3799,
+          "profile_path": "/pVjUv11SKJrF2ttkhF7FiwOsh65.jpg",
+          "cast_id": 24,
+          "character": "Motel Night Manager",
+          "credit_id": "6864eaa61df47c80c9eef82b",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1254367,
+          "known_for_department": "Acting",
+          "name": "Bethany Anne Lind",
+          "original_name": "Bethany Anne Lind",
+          "popularity": 0.7224,
+          "profile_path": "/d0FjeKbWYhbTzFSimCnC9K1Maza.jpg",
+          "cast_id": 25,
+          "character": "Stacey",
+          "credit_id": "6864eaae683e6c7398783fed",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2479478,
+          "known_for_department": "Acting",
+          "name": "Michael A. Newcomer",
+          "original_name": "Michael A. Newcomer",
+          "popularity": 0.2544,
+          "profile_path": "/4slhKOHRUKRTTtdlNB0SUcvlhCA.jpg",
+          "cast_id": 34,
+          "character": "Bob",
+          "credit_id": "695d7e216eeeb9593e0295ec",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1601571,
+          "known_for_department": "Acting",
+          "name": "Laura Flannery",
+          "original_name": "Laura Flannery",
+          "popularity": 0.5218,
+          "profile_path": "/BRq8bh80Z6PoU4jH1YVwmXYD7r.jpg",
+          "cast_id": 35,
+          "character": "Spin Class Instructor",
+          "credit_id": "695d7e4ae9240e88fcdd0af2",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1399752,
+          "known_for_department": "Acting",
+          "name": "Layton Williams",
+          "original_name": "Layton Williams",
+          "popularity": 0.5029,
+          "profile_path": "/jvd6JG9RcdN3WPw0WTwbtM2sncm.jpg",
+          "cast_id": 36,
+          "character": "Wedding Officiant",
+          "credit_id": "695d7e63bd6aedf1d76bde82",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1329559,
+          "known_for_department": "Acting",
+          "name": "Amy Le",
+          "original_name": "Amy Le",
+          "popularity": 0.4145,
+          "profile_path": "/bMVoOkPXoUmKHhbmSFmi75Qm8pV.jpg",
+          "cast_id": 171,
+          "character": "Café Du Monde Server",
+          "credit_id": "6a08912cd309db190952021b",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3302023,
+          "known_for_department": "Acting",
+          "name": "Amia Edwards",
+          "original_name": "Amia Edwards",
+          "popularity": 0.1729,
+          "profile_path": null,
+          "cast_id": 38,
+          "character": "Art Bazaar Vendor",
+          "credit_id": "695d7e9e8c83052cab64c2cb",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5922932,
+          "known_for_department": "Acting",
+          "name": "Cindy Adams Zimmer",
+          "original_name": "Cindy Adams Zimmer",
+          "popularity": 0.1025,
+          "profile_path": null,
+          "cast_id": 39,
+          "character": "Domilise's Cashier",
+          "credit_id": "695d7eb110b9420f5d9f8b8d",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1296517,
+          "known_for_department": "Acting",
+          "name": "Theodus Crane",
+          "original_name": "Theodus Crane",
+          "popularity": 0.8234,
+          "profile_path": "/66SvnZSjXRFHCMEEC5X0jvyGBuO.jpg",
+          "cast_id": 40,
+          "character": "Bamboula's Bartender",
+          "credit_id": "695d7eca72c4512b8a6be0d3",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5922934,
+          "known_for_department": "Acting",
+          "name": "Quique Bofill",
+          "original_name": "Quique Bofill",
+          "popularity": 0.095,
+          "profile_path": null,
+          "cast_id": 41,
+          "character": "Very Tan Man",
+          "credit_id": "695d7edf0bd69a05359f8a43",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2707823,
+          "known_for_department": "Acting",
+          "name": "Scheherazade Braithwaite",
+          "original_name": "Scheherazade Braithwaite",
+          "popularity": 0.2528,
+          "profile_path": null,
+          "cast_id": 42,
+          "character": "Beach Model Diner",
+          "credit_id": "695d7ef36c7f808611dc309d",
+          "order": 24
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2046309,
+          "known_for_department": "Acting",
+          "name": "Chloe Berman",
+          "original_name": "Chloe Berman",
+          "popularity": 0.2363,
+          "profile_path": "/gJLAP1tbNpotBM1b0p5ugZiQIas.jpg",
+          "cast_id": 43,
+          "character": "Beach Model Diner",
+          "credit_id": "695d7f099d52b68a839f8bf4",
+          "order": 25
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1502462,
+          "known_for_department": "Acting",
+          "name": "Harry Attwell",
+          "original_name": "Harry Attwell",
+          "popularity": 0.3551,
+          "profile_path": null,
+          "cast_id": 44,
+          "character": "Sasquatch Seller (uncredited)",
+          "credit_id": "695d7f4153d7288e2b0297d8",
+          "order": 26
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5922941,
+          "known_for_department": "Acting",
+          "name": "Robert Bishop",
+          "original_name": "Robert Bishop",
+          "popularity": 0.1243,
+          "profile_path": null,
+          "cast_id": 45,
+          "character": "Linfield Plane Passenger (uncredited)",
+          "credit_id": "695d7f6953d7288e2b0297e4",
+          "order": 27
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4824856,
+          "known_for_department": "Acting",
+          "name": "Tremayne Cole",
+          "original_name": "Tremayne Cole",
+          "popularity": 0.1466,
+          "profile_path": null,
+          "cast_id": 46,
+          "character": "Airport Patron (uncredited)",
+          "credit_id": "695d7f7edc491d3f6517976d",
+          "order": 28
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4299821,
+          "known_for_department": "Acting",
+          "name": "Jennifer Dent",
+          "original_name": "Jennifer Dent",
+          "popularity": 0.1863,
+          "profile_path": null,
+          "cast_id": 47,
+          "character": "Airport Passenger (uncredited)",
+          "credit_id": "695d7f9bdf8265126703d92a",
+          "order": 29
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5922943,
+          "known_for_department": "Acting",
+          "name": "Edu Estalella",
+          "original_name": "Edu Estalella",
+          "popularity": 0.1035,
+          "profile_path": null,
+          "cast_id": 48,
+          "character": "Waiter Wedding (uncredited)",
+          "credit_id": "695d7fb0576c45c3a1179575",
+          "order": 30
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5117496,
+          "known_for_department": "Acting",
+          "name": "Bobby George",
+          "original_name": "Bobby George",
+          "popularity": 0.1606,
+          "profile_path": null,
+          "cast_id": 49,
+          "character": "Bar Patron (uncredited)",
+          "credit_id": "695d7fd64251c4b8509f2dd6",
+          "order": 31
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5418582,
+          "known_for_department": "Acting",
+          "name": "Russell C. Gibbs",
+          "original_name": "Russell C. Gibbs",
+          "popularity": 0.1487,
+          "profile_path": null,
+          "cast_id": 50,
+          "character": "Passenger (uncredited)",
+          "credit_id": "695d80430bd69a05359f8a5e",
+          "order": 32
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1457369,
+          "known_for_department": "Acting",
+          "name": "Andrew Gruen",
+          "original_name": "Andrew Gruen",
+          "popularity": 0.1963,
+          "profile_path": "/tuLntTGp0Aa7ZA880ILdj7dKYLW.jpg",
+          "cast_id": 51,
+          "character": "Campground Park Host (uncredited)",
+          "credit_id": "695d805b8b36dd9d7cdc3073",
+          "order": 33
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2647872,
+          "known_for_department": "Acting",
+          "name": "Joseph Karre",
+          "original_name": "Joseph Karre",
+          "popularity": 0.1282,
+          "profile_path": null,
+          "cast_id": 52,
+          "character": "Airport Traveler (uncredited)",
+          "credit_id": "695d8077bff05a007403d92c",
+          "order": 34
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5612415,
+          "known_for_department": "Acting",
+          "name": "Alisha 'LeeLah' Moore",
+          "original_name": "Alisha 'LeeLah' Moore",
+          "popularity": 0.1172,
+          "profile_path": null,
+          "cast_id": 53,
+          "character": "Happy Couples Background (uncredited)",
+          "credit_id": "695d809772d0301f8d64c48d",
+          "order": 35
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5922951,
+          "known_for_department": "Acting",
+          "name": "Andreius 'Dreko Tha Prophet' Moore",
+          "original_name": "Andreius 'Dreko Tha Prophet' Moore",
+          "popularity": 0.1649,
+          "profile_path": null,
+          "cast_id": 54,
+          "character": "Dog Fair / Happy Couples (uncredited)",
+          "credit_id": "695d80b518d468cd699f8a5b",
+          "order": 36
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5922953,
+          "known_for_department": "Acting",
+          "name": "Angela Peters",
+          "original_name": "Angela Peters",
+          "popularity": 0.1175,
+          "profile_path": null,
+          "cast_id": 55,
+          "character": "Airport Passenger (uncredited)",
+          "credit_id": "695d80cda12f95bd719f8cef",
+          "order": 37
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5922956,
+          "known_for_department": "Acting",
+          "name": "Lisa Raziano",
+          "original_name": "Lisa Raziano",
+          "popularity": 0.0936,
+          "profile_path": null,
+          "cast_id": 56,
+          "character": "Bar Patron (uncredited)",
+          "credit_id": "695d80ee52078a919502951d",
+          "order": 38
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5117522,
+          "known_for_department": "Acting",
+          "name": "Fabiola Reno",
+          "original_name": "Fabiola Reno",
+          "popularity": 0.1631,
+          "profile_path": null,
+          "cast_id": 57,
+          "character": "Flight Attendant (Alejandra) (uncredited)",
+          "credit_id": "695d8111245c829da364c1e0",
+          "order": 39
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5268295,
+          "known_for_department": "Acting",
+          "name": "Alex Rodriguez Ovalle",
+          "original_name": "Alex Rodriguez Ovalle",
+          "popularity": 0.18,
+          "profile_path": null,
+          "cast_id": 58,
+          "character": "Passengers of the fly (uncredited)",
+          "credit_id": "695d813275018b6e04618475",
+          "order": 40
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3711586,
+          "known_for_department": "Acting",
+          "name": "Olivia Treece",
+          "original_name": "Olivia Treece",
+          "popularity": 0.1297,
+          "profile_path": null,
+          "cast_id": 59,
+          "character": "Cheery Woman (uncredited)",
+          "credit_id": "695d8149b56ae67cb99f2ed3",
+          "order": 41
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5922957,
+          "known_for_department": "Acting",
+          "name": "Cole Williams",
+          "original_name": "Cole Williams",
+          "popularity": 0.1235,
+          "profile_path": null,
+          "cast_id": 60,
+          "character": "Bar Patron (uncredited)",
+          "credit_id": "695d8187956119e4da64c17e",
+          "order": 42
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5922959,
+          "known_for_department": "Acting",
+          "name": "Caelan Wolfe",
+          "original_name": "Caelan Wolfe",
+          "popularity": 0.2966,
+          "profile_path": "/mjeAaE7yjAlyCIu6Nw94PwU1MnJ.jpg",
+          "cast_id": 61,
+          "character": "Passenger (uncredited)",
+          "credit_id": "695d81a01b8f45cbde9f2eaf",
+          "order": 43
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 25046,
+          "known_for_department": "Production",
+          "name": "Marty Bowen",
+          "original_name": "Marty Bowen",
+          "popularity": 0.4901,
+          "profile_path": "/dviYV5G5Gj53G5UBl3DcFl77KBD.jpg",
+          "credit_id": "6346ece11b7c59007919fef1",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6040,
+          "known_for_department": "Production",
+          "name": "Wyck Godfrey",
+          "original_name": "Wyck Godfrey",
+          "popularity": 0.6015,
+          "profile_path": "/tKoS0O3m1UROqeM9ZLLfbvgY6Vf.jpg",
+          "credit_id": "6346ece95b4fed007ae89d9b",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 932759,
+          "known_for_department": "Directing",
+          "name": "Brett Haley",
+          "original_name": "Brett Haley",
+          "popularity": 1.1052,
+          "profile_path": "/1Up8rsW38U8Q4DfQjKLYFtio4zf.jpg",
+          "credit_id": "6346ecc7f3b49a007c95bf7d",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1538209,
+          "known_for_department": "Production",
+          "name": "Isaac Klausner",
+          "original_name": "Isaac Klausner",
+          "popularity": 0.4078,
+          "profile_path": "/pjDFZlY2NdoqrnoiMiCB05bMz9y.jpg",
+          "credit_id": "6346ecf5d55c3d007a1b16ec",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1488451,
+          "known_for_department": "Directing",
+          "name": "Yulin Kuang",
+          "original_name": "Yulin Kuang",
+          "popularity": 0.4176,
+          "profile_path": null,
+          "credit_id": "6346ecd3f3b49a0079d5e871",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3739723,
+          "known_for_department": "Writing",
+          "name": "Emily Henry",
+          "original_name": "Emily Henry",
+          "popularity": 0.1923,
+          "profile_path": "/lKpqxpn3gb3m53KJA74N6rDVDah.jpg",
+          "credit_id": "642e3bb70d2f5300b6cc00e7",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3869499,
+          "known_for_department": "Production",
+          "name": "Laura Quicksilver",
+          "original_name": "Laura Quicksilver",
+          "popularity": 0.2333,
+          "profile_path": null,
+          "credit_id": "66ad4c2068790825c3b08a46",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 983343,
+          "known_for_department": "Sound",
+          "name": "Keegan DeWitt",
+          "original_name": "Keegan DeWitt",
+          "popularity": 0.4606,
+          "profile_path": "/lAklxvbA7qMUnFf1yfY6qHMptS5.jpg",
+          "credit_id": "68031930e4753425efad6016",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2563542,
+          "known_for_department": "Directing",
+          "name": "Sergi Páez",
+          "original_name": "Sergi Páez",
+          "popularity": 0.2392,
+          "profile_path": "/sbdwPike7HKoHi2lciKKHzrbhhb.jpg",
+          "credit_id": "6915ab4abdfe22a7d887640e",
+          "department": "Production",
+          "job": "Assistant Production Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3102901,
+          "known_for_department": "Directing",
+          "name": "Àlex Gantzer",
+          "original_name": "Àlex Gantzer",
+          "popularity": 0.3327,
+          "profile_path": null,
+          "credit_id": "6915ab5d78d69718849c5031",
+          "department": "Production",
+          "job": "Assistant Production Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5814410,
+          "known_for_department": "Production",
+          "name": "Gemma Monzó",
+          "original_name": "Gemma Monzó",
+          "popularity": 0.1281,
+          "profile_path": null,
+          "credit_id": "6915ab6b5ffda4900c4c92f7",
+          "department": "Production",
+          "job": "Production Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2425606,
+          "known_for_department": "Writing",
+          "name": "Amos Vernon",
+          "original_name": "Amos Vernon",
+          "popularity": 0.4925,
+          "profile_path": "/qljP9V61X8jrgdNazFrDZJGLBbA.jpg",
+          "credit_id": "692f54b811c6ab582864b1e1",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1735750,
+          "known_for_department": "Writing",
+          "name": "Nunzio Randazzo",
+          "original_name": "Nunzio Randazzo",
+          "popularity": 0.1978,
+          "profile_path": null,
+          "credit_id": "692f54be58cf429f8764b3bd",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1046971,
+          "known_for_department": "Production",
+          "name": "Ted Gidlow",
+          "original_name": "Ted Gidlow",
+          "popularity": 0.2645,
+          "profile_path": null,
+          "credit_id": "692f5521dad0914600399330",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3739723,
+          "known_for_department": "Writing",
+          "name": "Emily Henry",
+          "original_name": "Emily Henry",
+          "popularity": 0.1923,
+          "profile_path": "/lKpqxpn3gb3m53KJA74N6rDVDah.jpg",
+          "credit_id": "692f5527ea90001f0a26f61d",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1261682,
+          "known_for_department": "Camera",
+          "name": "Rob Givens",
+          "original_name": "Rob Givens",
+          "popularity": 0.2986,
+          "profile_path": null,
+          "credit_id": "695d7dddd87edaa26c9f2efd",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1056048,
+          "known_for_department": "Editing",
+          "name": "Evan Henke",
+          "original_name": "Evan Henke",
+          "popularity": 0.2453,
+          "profile_path": "/j2NWeeC4S55PSzzb8HCZkT49K3o.jpg",
+          "credit_id": "6963fd2e409cb929e87b1576",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32236,
+          "known_for_department": "Art",
+          "name": "Bruce Curtis",
+          "original_name": "Bruce Curtis",
+          "popularity": 0.3544,
+          "profile_path": null,
+          "credit_id": "6968c99abc90399f9668a416",
+          "department": "Production",
+          "job": "Production Designer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1289978,
+          "known_for_department": "Crew",
+          "name": "Chelsea Bruland",
+          "original_name": "Chelsea Bruland",
+          "popularity": 0.4139,
+          "profile_path": "/30E6RuNy5gwzVL9hN6ZnYlzDyOO.jpg",
+          "credit_id": "6968ca77349a0e3408dbd0cd",
+          "department": "Crew",
+          "job": "Stunt Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1235012,
+          "known_for_department": "Acting",
+          "name": "Taryn Terrell",
+          "original_name": "Taryn Terrell",
+          "popularity": 0.6425,
+          "profile_path": "/w1hp4YmnKfewADq4O0EEbtjJn1.jpg",
+          "credit_id": "6968ca8640125e38cfe56b15",
+          "department": "Crew",
+          "job": "Stunt Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2452733,
+          "known_for_department": "Crew",
+          "name": "Oscar Dorta",
+          "original_name": "Oscar Dorta",
+          "popularity": 0.4369,
+          "profile_path": "/fQnBp0SmKrzQEJCYPYMa9AvC6To.jpg",
+          "credit_id": "6968caa17ba5a22aeadbd0b4",
+          "department": "Crew",
+          "job": "Stunt Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5658112,
+          "known_for_department": "Crew",
+          "name": "Joan Bartolomé",
+          "original_name": "Joan Bartolomé",
+          "popularity": 0.167,
+          "profile_path": null,
+          "credit_id": "6968cadc8b49a0bb65f40a6c",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5842899,
+          "known_for_department": "Crew",
+          "name": "Sergio Macías Campos",
+          "original_name": "Sergio Macías Campos",
+          "popularity": 0.856,
+          "profile_path": null,
+          "credit_id": "6968caef4fad23a4c7f40915",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5735473,
+          "known_for_department": "Crew",
+          "name": "Sheila Quevedo",
+          "original_name": "Sheila Quevedo",
+          "popularity": 0.3016,
+          "profile_path": "/ia2ELLeH9JSOwRFDB9eAzDOJQ3S.jpg",
+          "credit_id": "6968cb478a7b3cbd1401a6f6",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2206398,
+          "known_for_department": "Crew",
+          "name": "Preston Schrag",
+          "original_name": "Preston Schrag",
+          "popularity": 0.3935,
+          "profile_path": "/s3J8LvLH1MnEDdMS640lfQrF3d.jpg",
+          "credit_id": "6968cc5bf46ad238d5f40a2b",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3736375,
+          "known_for_department": "Crew",
+          "name": "Connor Turley",
+          "original_name": "Connor Turley",
+          "popularity": 0.1439,
+          "profile_path": "/5UqPC2Gzwg0Ghpa3h6A7ETlqPK0.jpg",
+          "credit_id": "6968cc8733e897711368a386",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1046971,
+          "known_for_department": "Production",
+          "name": "Ted Gidlow",
+          "original_name": "Ted Gidlow",
+          "popularity": 0.2645,
+          "profile_path": null,
+          "credit_id": "6968ccb4a432899c8cdbcff3",
+          "department": "Production",
+          "job": "Unit Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2381647,
+          "known_for_department": "Directing",
+          "name": "Rod Smith",
+          "original_name": "Rod Smith",
+          "popularity": 0.3672,
+          "profile_path": "/fUrIc4yik0NK8ZSlCdcE8sqGWhh.jpg",
+          "credit_id": "6968cce8cfba5e33ed68a3a9",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5887719,
+          "known_for_department": "Production",
+          "name": "Annika Patton",
+          "original_name": "Annika Patton",
+          "popularity": 0.2416,
+          "profile_path": null,
+          "credit_id": "6968cda8c437bef76568a335",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2659866,
+          "known_for_department": "Production",
+          "name": "Andreas Wentz",
+          "original_name": "Andreas Wentz",
+          "popularity": 0.2045,
+          "profile_path": null,
+          "credit_id": "6968cdd0956e2830b5a88081",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3286498,
+          "known_for_department": "Production",
+          "name": "Jordi Abarca Taura",
+          "original_name": "Jordi Abarca Taura",
+          "popularity": 0.1539,
+          "profile_path": null,
+          "credit_id": "6968ce08c437bef76568a340",
+          "department": "Production",
+          "job": "Line Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1729081,
+          "known_for_department": "Production",
+          "name": "Allison Furgal",
+          "original_name": "Allison Furgal",
+          "popularity": 0.149,
+          "profile_path": null,
+          "credit_id": "6968ce250731ad18d6e7103b",
+          "department": "Production",
+          "job": "Production Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5803001,
+          "known_for_department": "Production",
+          "name": "Cristina Mateo",
+          "original_name": "Cristina Mateo",
+          "popularity": 0.1828,
+          "profile_path": null,
+          "credit_id": "6968ce405ffbb81a8b01a56c",
+          "department": "Production",
+          "job": "Production Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4309732,
+          "known_for_department": "Directing",
+          "name": "Marta Juls",
+          "original_name": "Marta Juls",
+          "popularity": 0.1609,
+          "profile_path": null,
+          "credit_id": "6968ce50bd0f8cb24be71085",
+          "department": "Directing",
+          "job": "Second Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3005310,
+          "known_for_department": "Art",
+          "name": "Carmine Palmentieri",
+          "original_name": "Carmine Palmentieri",
+          "popularity": 0.1027,
+          "profile_path": null,
+          "credit_id": "6968ce640731ad18d6e71043",
+          "department": "Art",
+          "job": "Supervising Art Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3497130,
+          "known_for_department": "Art",
+          "name": "Philippe Mayanobe",
+          "original_name": "Philippe Mayanobe",
+          "popularity": 0.1151,
+          "profile_path": null,
+          "credit_id": "6968ce833ff9064092f40952",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2490485,
+          "known_for_department": "Art",
+          "name": "Sol Sabán",
+          "original_name": "Sol Sabán",
+          "popularity": 0.3079,
+          "profile_path": null,
+          "credit_id": "6968ce90dd1a1b10b5a87ec3",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4214301,
+          "known_for_department": "Art",
+          "name": "Valéria Campos Lourenço",
+          "original_name": "Valéria Campos Lourenço",
+          "popularity": 0.2442,
+          "profile_path": null,
+          "credit_id": "6968ceb5ba551c844001a614",
+          "department": "Art",
+          "job": "Property Master"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1430500,
+          "known_for_department": "Camera",
+          "name": "Dennis Noyes",
+          "original_name": "Dennis Noyes",
+          "popularity": 0.1592,
+          "profile_path": null,
+          "credit_id": "6968ced9c0dc33c0f7236a00",
+          "department": "Camera",
+          "job": "\"A\" Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5753302,
+          "known_for_department": "Camera",
+          "name": "Anna Albiac",
+          "original_name": "Anna Albiac",
+          "popularity": 0.1582,
+          "profile_path": null,
+          "credit_id": "6968cf504d3f26a5fc01a5a5",
+          "department": "Camera",
+          "job": "Second Assistant \"A\" Camera"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3424290,
+          "known_for_department": "Camera",
+          "name": "Tammo van Hoorn",
+          "original_name": "Tammo van Hoorn",
+          "popularity": 0.2902,
+          "profile_path": null,
+          "credit_id": "6968cf624fad23a4c7f40929",
+          "department": "Camera",
+          "job": "\"B\" Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4597954,
+          "known_for_department": "Camera",
+          "name": "Rafa Miralles",
+          "original_name": "Rafa Miralles",
+          "popularity": 0.1276,
+          "profile_path": null,
+          "credit_id": "6968cf7aa13050e982f409b7",
+          "department": "Camera",
+          "job": "First Assistant \"B\" Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4689948,
+          "known_for_department": "Camera",
+          "name": "Javier Baile Puig",
+          "original_name": "Javier Baile Puig",
+          "popularity": 0.1366,
+          "profile_path": null,
+          "credit_id": "6968cf890f65951f32dbcff2",
+          "department": "Camera",
+          "job": "Second Assistant \"B\" Camera"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1714333,
+          "known_for_department": "Camera",
+          "name": "Mirko Zlatar",
+          "original_name": "Mirko Zlatar",
+          "popularity": 0.271,
+          "profile_path": "/kPqnIGT8uJtCZ0xCuu5dhPaRcdM.jpg",
+          "credit_id": "6968cfb19026a3809ae71017",
+          "department": "Camera",
+          "job": "\"C\" Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1789555,
+          "known_for_department": "Camera",
+          "name": "Adrià Egea",
+          "original_name": "Adrià Egea",
+          "popularity": 0.6965,
+          "profile_path": null,
+          "credit_id": "6968cfd39e9912c2ef078c08",
+          "department": "Camera",
+          "job": "First Assistant \"C\" Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2024663,
+          "known_for_department": "Camera",
+          "name": "Beatriz Delgado",
+          "original_name": "Beatriz Delgado",
+          "popularity": 0.6367,
+          "profile_path": null,
+          "credit_id": "6968cffda13050e982f409bb",
+          "department": "Camera",
+          "job": "Second Assistant \"C\" Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5940676,
+          "known_for_department": "Camera",
+          "name": "Javier García Ordóñez",
+          "original_name": "Javier García Ordóñez",
+          "popularity": 0.1125,
+          "profile_path": null,
+          "credit_id": "6968d06e4c95e3eeb968a36d",
+          "department": "Camera",
+          "job": "Digital Imaging Technician"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1492133,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Ana Cuerda",
+          "original_name": "Ana Cuerda",
+          "popularity": 0.1898,
+          "profile_path": null,
+          "credit_id": "6968d08766d17fcc2b01a517",
+          "department": "Costume & Make-Up",
+          "job": "Costume Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2526070,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Rachael Hranka",
+          "original_name": "Rachael Hranka",
+          "popularity": 0.1707,
+          "profile_path": null,
+          "credit_id": "6968d09c8a7b3cbd1401a75d",
+          "department": "Costume & Make-Up",
+          "job": "Assistant Costume Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1637496,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Fran Cruz",
+          "original_name": "Fran Cruz",
+          "popularity": 0.1651,
+          "profile_path": null,
+          "credit_id": "6968d0a4081d64ff60e56bbc",
+          "department": "Costume & Make-Up",
+          "job": "Assistant Costume Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1657620,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Paula Ventura",
+          "original_name": "Paula Ventura",
+          "popularity": 0.3251,
+          "profile_path": null,
+          "credit_id": "6968d0bc66d17fcc2b01a51a",
+          "department": "Costume & Make-Up",
+          "job": "Key Costumer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2662936,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Rosa Masagué",
+          "original_name": "Rosa Masagué",
+          "popularity": 0.1588,
+          "profile_path": null,
+          "credit_id": "6968d0cba432899c8cdbd008",
+          "department": "Costume & Make-Up",
+          "job": "Costumer"
+        },
+        {
+          "adult": true,
+          "gender": 0,
+          "id": 3168019,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Inés Iribarne",
+          "original_name": "Inés Iribarne",
+          "popularity": 0,
+          "profile_path": null,
+          "credit_id": "6968d0d7a5f6d60ec7a87e40",
+          "department": "Costume & Make-Up",
+          "job": "Costumer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1853812,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Sasha Grossman",
+          "original_name": "Sasha Grossman",
+          "popularity": 0.2497,
+          "profile_path": null,
+          "credit_id": "6968d0ed8b84fb79e868a35a",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Department Head"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1458987,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Tony Ward",
+          "original_name": "Tony Ward",
+          "popularity": 0.2947,
+          "profile_path": null,
+          "credit_id": "6968d2688d4492c17bf409c3",
+          "department": "Costume & Make-Up",
+          "job": "Hair Department Head"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2591254,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Carmen Fraile",
+          "original_name": "Carmen Fraile",
+          "popularity": 0.1785,
+          "profile_path": null,
+          "credit_id": "6968d2851359cf701cf40aca",
+          "department": "Costume & Make-Up",
+          "job": "Hair Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2591254,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Carmen Fraile",
+          "original_name": "Carmen Fraile",
+          "popularity": 0.1785,
+          "profile_path": null,
+          "credit_id": "6968d2906c274c7bd068a496",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3874897,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Mamen Peña",
+          "original_name": "Mamen Peña",
+          "popularity": 0.3212,
+          "profile_path": null,
+          "credit_id": "6968d2b1bc90399f9668a435",
+          "department": "Costume & Make-Up",
+          "job": "Key Hair Stylist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2319788,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Laura Sarabia",
+          "original_name": "Laura Sarabia",
+          "popularity": 0.2551,
+          "profile_path": null,
+          "credit_id": "6968d2c50d8f453063a87e80",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5043588,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Anna Álvarez de Sardi",
+          "original_name": "Anna Álvarez de Sardi",
+          "popularity": 0.5711,
+          "profile_path": "/35UyvytJyme32oG8eMcnU2vYNSb.jpg",
+          "credit_id": "6968d2d6bc90399f9668a43d",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3633977,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Carol Atxukarro",
+          "original_name": "Carol Atxukarro",
+          "popularity": 0.5211,
+          "profile_path": "/jevzvVlf3Iu32x7wG02c7O2nSL7.jpg",
+          "credit_id": "6968d2ebbd0f8cb24be710ca",
+          "department": "Costume & Make-Up",
+          "job": "Hairstylist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5802621,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Pol Martínez",
+          "original_name": "Pol Martínez",
+          "popularity": 0.4311,
+          "profile_path": null,
+          "credit_id": "6968d312bfc7dcbbb8f40929",
+          "department": "Costume & Make-Up",
+          "job": "Hairstylist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1448267,
+          "known_for_department": "Lighting",
+          "name": "Sascha Wolfram",
+          "original_name": "Sascha Wolfram",
+          "popularity": 0.2322,
+          "profile_path": null,
+          "credit_id": "6968d33c031a03858e078c37",
+          "department": "Lighting",
+          "job": "Chief Lighting Technician"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1653115,
+          "known_for_department": "Lighting",
+          "name": "Paco Didlaukies",
+          "original_name": "Paco Didlaukies",
+          "popularity": 0.1069,
+          "profile_path": null,
+          "credit_id": "6968d3a8454850d96a078d37",
+          "department": "Lighting",
+          "job": "Electrician"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4319216,
+          "known_for_department": "Lighting",
+          "name": "Eucaris Conte",
+          "original_name": "Eucaris Conte",
+          "popularity": 0.1225,
+          "profile_path": null,
+          "credit_id": "6968d41066d17fcc2b01a55b",
+          "department": "Lighting",
+          "job": "Electrician"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2308695,
+          "known_for_department": "Lighting",
+          "name": "Ronald Deter",
+          "original_name": "Ronald Deter",
+          "popularity": 0.1424,
+          "profile_path": null,
+          "credit_id": "6968d41b5d5ae068a8a87fae",
+          "department": "Lighting",
+          "job": "Electrician"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3687251,
+          "known_for_department": "Lighting",
+          "name": "Lluc Gimenez",
+          "original_name": "Lluc Gimenez",
+          "popularity": 0.1905,
+          "profile_path": null,
+          "credit_id": "6968d4405ffec245b0e710d2",
+          "department": "Lighting",
+          "job": "Electrician"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5775168,
+          "known_for_department": "Lighting",
+          "name": "Lluís Maymó Barrios",
+          "original_name": "Lluís Maymó Barrios",
+          "popularity": 0.4775,
+          "profile_path": "/1XwbuXxthrp9JrPHf3ozsPX48dY.jpg",
+          "credit_id": "6968d46ac02a78d40cdbd0cd",
+          "department": "Lighting",
+          "job": "Rigging Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5833992,
+          "known_for_department": "Lighting",
+          "name": "Borja Casas",
+          "original_name": "Borja Casas",
+          "popularity": 0.124,
+          "profile_path": null,
+          "credit_id": "6968d4a93ff9064092f40981",
+          "department": "Lighting",
+          "job": "Best Boy Lighting Technician"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2129443,
+          "known_for_department": "Lighting",
+          "name": "Toni Maluquer",
+          "original_name": "Toni Maluquer",
+          "popularity": 0.1614,
+          "profile_path": null,
+          "credit_id": "6968d4c50446fd37d1236a1e",
+          "department": "Lighting",
+          "job": "Best Boy Lighting Technician"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1932451,
+          "known_for_department": "Production",
+          "name": "Nicola Chisholm",
+          "original_name": "Nicola Chisholm",
+          "popularity": 0.1496,
+          "profile_path": null,
+          "credit_id": "697024f6b2ffd7ce1175727e",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1046729,
+          "known_for_department": "Production",
+          "name": "Jessica Kelly",
+          "original_name": "Jessica Kelly",
+          "popularity": 0.5903,
+          "profile_path": null,
+          "credit_id": "697025773f42707bbeceb3ad",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5914,
+          "known_for_department": "Production",
+          "name": "Mary Vernieu",
+          "original_name": "Mary Vernieu",
+          "popularity": 0.898,
+          "profile_path": "/z37Cmn0MJdWCSC8ydkyoseiYUYk.jpg",
+          "credit_id": "6970258b2f49d2b2098b01b1",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2719200,
+          "known_for_department": "Art",
+          "name": "Victoria Resendez",
+          "original_name": "Victoria Resendez",
+          "popularity": 0.292,
+          "profile_path": null,
+          "credit_id": "697025bdee5dd4aeb6ceb3d0",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1094155,
+          "known_for_department": "Art",
+          "name": "Michelle Schluter-Ford",
+          "original_name": "Michelle Schluter-Ford",
+          "popularity": 0.3533,
+          "profile_path": null,
+          "credit_id": "697025dd3861f7da398b01c7",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2171845,
+          "known_for_department": "Production",
+          "name": "Gavin Atilano",
+          "original_name": "Gavin Atilano",
+          "popularity": 0.1273,
+          "profile_path": null,
+          "credit_id": "69702655d856e2aacfa908a5",
+          "department": "Production",
+          "job": "Production Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1125888,
+          "known_for_department": "Production",
+          "name": "Ivan Carrero",
+          "original_name": "Ivan Carrero",
+          "popularity": 0.2259,
+          "profile_path": null,
+          "credit_id": "6970266abb82fd563aceb388",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2592903,
+          "known_for_department": "Art",
+          "name": "Clara Bosch Pi",
+          "original_name": "Clara Bosch Pi",
+          "popularity": 0.3938,
+          "profile_path": null,
+          "credit_id": "697026c5cda3e69814ceb3cd",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4718670,
+          "known_for_department": "Art",
+          "name": "Joan Cervera",
+          "original_name": "Joan Cervera",
+          "popularity": 0.3127,
+          "profile_path": null,
+          "credit_id": "697026e87572241b9d813acf",
+          "department": "Art",
+          "job": "Set Dresser"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5952629,
+          "known_for_department": "Art",
+          "name": "James Crafton",
+          "original_name": "James Crafton",
+          "popularity": 0.0988,
+          "profile_path": null,
+          "credit_id": "6970272026abf5d5a4a908b7",
+          "department": "Art",
+          "job": "Art Department Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2294439,
+          "known_for_department": "Art",
+          "name": "Xuria Cristobal",
+          "original_name": "Xuria Cristobal",
+          "popularity": 0.1374,
+          "profile_path": null,
+          "credit_id": "697027397eeda78b8f757276",
+          "department": "Art",
+          "job": "Art Department Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1821876,
+          "known_for_department": "Art",
+          "name": "Aimee Huber",
+          "original_name": "Aimee Huber",
+          "popularity": 0.1829,
+          "profile_path": null,
+          "credit_id": "69702752c86db72385ceb396",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2247406,
+          "known_for_department": "Art",
+          "name": "Phillip Joffrion",
+          "original_name": "Phillip Joffrion",
+          "popularity": 0.1645,
+          "profile_path": null,
+          "credit_id": "6970276f34463141db26ef53",
+          "department": "Art",
+          "job": "Set Dresser"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5952631,
+          "known_for_department": "Art",
+          "name": "Helga Juárez",
+          "original_name": "Helga Juárez",
+          "popularity": 0.1658,
+          "profile_path": null,
+          "credit_id": "697027a0df532e8234813af8",
+          "department": "Art",
+          "job": "Graphic Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4417233,
+          "known_for_department": "Art",
+          "name": "Tomas Klein",
+          "original_name": "Tomas Klein",
+          "popularity": 0.1151,
+          "profile_path": null,
+          "credit_id": "697028203f42707bbeceb3c8",
+          "department": "Art",
+          "job": "Set Dresser"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1432586,
+          "known_for_department": "Art",
+          "name": "Twig Leveque",
+          "original_name": "Twig Leveque",
+          "popularity": 0.4132,
+          "profile_path": null,
+          "credit_id": "6970283efd99c9e65ca908a7",
+          "department": "Art",
+          "job": "Graphic Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3954870,
+          "known_for_department": "Art",
+          "name": "Chad Palardy",
+          "original_name": "Chad Palardy",
+          "popularity": 0.1326,
+          "profile_path": null,
+          "credit_id": "69702858525c19e43d75729d",
+          "department": "Art",
+          "job": "Set Dresser"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3619655,
+          "known_for_department": "Art",
+          "name": "Iris Santamaría",
+          "original_name": "Iris Santamaría",
+          "popularity": 0.2475,
+          "profile_path": "/oloIk4tD2eOUGwDSrZUkqlbtm4T.jpg",
+          "credit_id": "697028778dd9b794dfa90920",
+          "department": "Art",
+          "job": "Graphic Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2973344,
+          "known_for_department": "Art",
+          "name": "Anna Shuang Folch",
+          "original_name": "Anna Shuang Folch",
+          "popularity": 0.1171,
+          "profile_path": null,
+          "credit_id": "697028cb7fd31a99728b0281",
+          "department": "Art",
+          "job": "Assistant Set Dresser"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4017772,
+          "known_for_department": "Art",
+          "name": "Rubén Tamayo",
+          "original_name": "Rubén Tamayo",
+          "popularity": 0.1035,
+          "profile_path": null,
+          "credit_id": "697028e4c3ea319bfafd0d18",
+          "department": "Art",
+          "job": "Assistant Set Dresser"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4784276,
+          "known_for_department": "Art",
+          "name": "Jasmine Torregano",
+          "original_name": "Jasmine Torregano",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "credit_id": "697029003c06ec0e10fd0d68",
+          "department": "Art",
+          "job": "Set Decorating Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5398043,
+          "known_for_department": "Art",
+          "name": "Alma Toth",
+          "original_name": "Alma Toth",
+          "popularity": 0.1958,
+          "profile_path": null,
+          "credit_id": "69702916dd2d5575d55524bb",
+          "department": "Art",
+          "job": "Assistant Art Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1335147,
+          "known_for_department": "Sound",
+          "name": "Trevor Gates",
+          "original_name": "Trevor Gates",
+          "popularity": 0.3298,
+          "profile_path": null,
+          "credit_id": "6970293fc3ea319bfafd0d1c",
+          "department": "Sound",
+          "job": "Supervising Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1885800,
+          "known_for_department": "Sound",
+          "name": "Eryne Prine",
+          "original_name": "Eryne Prine",
+          "popularity": 0.2161,
+          "profile_path": null,
+          "credit_id": "69702963699cdc7564813af5",
+          "department": "Sound",
+          "job": "First Assistant Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1561557,
+          "known_for_department": "Sound",
+          "name": "David Wyman",
+          "original_name": "David Wyman",
+          "popularity": 0.4454,
+          "profile_path": null,
+          "credit_id": "6970297a50515a9a0626eed6",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2743760,
+          "known_for_department": "Production",
+          "name": "Benjamin Bermudez",
+          "original_name": "Benjamin Bermudez",
+          "popularity": 0.2488,
+          "profile_path": "/iAKN60BbNtG9buDryOmDWdRCJ44.jpg",
+          "credit_id": "6970299f8b35618abca908bb",
+          "department": "Production",
+          "job": "Casting Associate"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4864011,
+          "known_for_department": "Production",
+          "name": "Lindsey Brady",
+          "original_name": "Lindsey Brady",
+          "popularity": 0.1293,
+          "profile_path": null,
+          "credit_id": "697029bc133d916deb5524df",
+          "department": "Production",
+          "job": "Extras Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1099078,
+          "known_for_department": "Production",
+          "name": "Brent Caballero",
+          "original_name": "Brent Caballero",
+          "popularity": 0.2299,
+          "profile_path": null,
+          "credit_id": "697029d0f6484e0176a9089c",
+          "department": "Production",
+          "job": "Extras Casting"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1857753,
+          "known_for_department": "Production",
+          "name": "Theresa Hernandez",
+          "original_name": "Theresa Hernandez",
+          "popularity": 0.2466,
+          "profile_path": null,
+          "credit_id": "697029eb2ef865b0455524a2",
+          "department": "Production",
+          "job": "Casting Associate"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1337656,
+          "known_for_department": "Production",
+          "name": "Meagan Lewis",
+          "original_name": "Meagan Lewis",
+          "popularity": 0.3198,
+          "profile_path": null,
+          "credit_id": "69702a0b3bec8ae548813af6",
+          "department": "Production",
+          "job": "Location Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1463792,
+          "known_for_department": "Production",
+          "name": "Lee Pierce",
+          "original_name": "Lee Pierce",
+          "popularity": 0.158,
+          "profile_path": null,
+          "credit_id": "69702a1f430e5532bb8b020f",
+          "department": "Production",
+          "job": "Extras Casting"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2366291,
+          "known_for_department": "Production",
+          "name": "Sandra Sánchez",
+          "original_name": "Sandra Sánchez",
+          "popularity": 0.1168,
+          "profile_path": null,
+          "credit_id": "69702a375660e487ff26ef49",
+          "department": "Production",
+          "job": "Extras Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5310846,
+          "known_for_department": "Production",
+          "name": "Nina Van Vredenburch",
+          "original_name": "Nina Van Vredenburch",
+          "popularity": 0.1649,
+          "profile_path": null,
+          "credit_id": "69702a4f6ec55bffae813adc",
+          "department": "Production",
+          "job": "Casting Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2506384,
+          "known_for_department": "Editing",
+          "name": "Eirinn Disbrow",
+          "original_name": "Eirinn Disbrow",
+          "popularity": 0.1347,
+          "profile_path": null,
+          "credit_id": "69702aa83c06ec0e10fd0d82",
+          "department": "Editing",
+          "job": "Additional Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129342,
+          "known_for_department": "Editing",
+          "name": "Vincent Manierre",
+          "original_name": "Vincent Manierre",
+          "popularity": 0.1382,
+          "profile_path": null,
+          "credit_id": "69702ac73c06ec0e10fd0d86",
+          "department": "Editing",
+          "job": "First Assistant Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3095599,
+          "known_for_department": "Production",
+          "name": "Lluís Botella",
+          "original_name": "Lluís Botella",
+          "popularity": 0.1287,
+          "profile_path": null,
+          "credit_id": "69702adce34cb5f11b26ef0e",
+          "department": "Production",
+          "job": "Location Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1436739,
+          "known_for_department": "Production",
+          "name": "Carles Cambres",
+          "original_name": "Carles Cambres",
+          "popularity": 0.3056,
+          "profile_path": null,
+          "credit_id": "69702b23ccac939d87ceb3b9",
+          "department": "Production",
+          "job": "Assistant Location Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5952653,
+          "known_for_department": "Production",
+          "name": "Martí Marcos Garcés",
+          "original_name": "Martí Marcos Garcés",
+          "popularity": 0.1221,
+          "profile_path": null,
+          "credit_id": "69702b86e0e7330c445524fa",
+          "department": "Production",
+          "job": "Location Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5952655,
+          "known_for_department": "Production",
+          "name": "Gregory McNamara",
+          "original_name": "Gregory McNamara",
+          "popularity": 0.107,
+          "profile_path": null,
+          "credit_id": "69702bfc44a9df096026eef9",
+          "department": "Production",
+          "job": "Assistant Location Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5493050,
+          "known_for_department": "Production",
+          "name": "Lautaro Nocquet",
+          "original_name": "Lautaro Nocquet",
+          "popularity": 0.1516,
+          "profile_path": null,
+          "credit_id": "69702c25540889740b26ef79",
+          "department": "Production",
+          "job": "Location Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5952656,
+          "known_for_department": "Production",
+          "name": "Sara Onsins",
+          "original_name": "Sara Onsins",
+          "popularity": 0.1109,
+          "profile_path": null,
+          "credit_id": "69702c55dd2d5575d55524fb",
+          "department": "Production",
+          "job": "Location Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5115851,
+          "known_for_department": "Production",
+          "name": "Madeline Tess Peters",
+          "original_name": "Madeline Tess Peters",
+          "popularity": 0.13,
+          "profile_path": null,
+          "credit_id": "69702c7398e29568c35524e6",
+          "department": "Production",
+          "job": "Assistant Location Manager"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1529990,
+          "known_for_department": "Sound",
+          "name": "Season Kent",
+          "original_name": "Season Kent",
+          "popularity": 0.4426,
+          "profile_path": "/xJHOwAJVwaBVyQTMSkCm23ZfGeW.jpg",
+          "credit_id": "69702c941e0d95d7587572af",
+          "department": "Sound",
+          "job": "Music Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1242280,
+          "known_for_department": "Sound",
+          "name": "Cory Milano",
+          "original_name": "Cory Milano",
+          "popularity": 0.3998,
+          "profile_path": null,
+          "credit_id": "69702ca7646008b39fceb3b4",
+          "department": "Sound",
+          "job": "Music Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5952659,
+          "known_for_department": "Directing",
+          "name": "Paloma Galán",
+          "original_name": "Paloma Galán",
+          "popularity": 0.2653,
+          "profile_path": null,
+          "credit_id": "69702ce2dd2d5575d5552519",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1662401,
+          "known_for_department": "Directing",
+          "name": "Julia Schachter",
+          "original_name": "Julia Schachter",
+          "popularity": 0.154,
+          "profile_path": null,
+          "credit_id": "69702cfbe5340adce6fd0d4f",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3203975,
+          "known_for_department": "Production",
+          "name": "Scott Goldie",
+          "original_name": "Scott Goldie",
+          "popularity": 0.1541,
+          "profile_path": null,
+          "credit_id": "69702d5337697e991f0386f9",
+          "department": "Production",
+          "job": "Assistant Production Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2171852,
+          "known_for_department": "Production",
+          "name": "Dennis M. Mitchell II",
+          "original_name": "Dennis M. Mitchell II",
+          "popularity": 0.2919,
+          "profile_path": null,
+          "credit_id": "69702d6d3c06ec0e10fd0d90",
+          "department": "Production",
+          "job": "Production Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 20228,
+          "known_for_department": "Sound",
+          "name": "Goro Koyama",
+          "original_name": "Goro Koyama",
+          "popularity": 0.3378,
+          "profile_path": "/uxaAFpPACs2w4zLbUQYDjFTW9d1.jpg",
+          "credit_id": "697285367d53a8dce4e3d33b",
+          "department": "Sound",
+          "job": "Foley Artist"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1587383,
+          "known_for_department": "Sound",
+          "name": "Spring Aspers",
+          "original_name": "Spring Aspers",
+          "popularity": 0.3061,
+          "profile_path": null,
+          "credit_id": "697f63726e3033301dbbdf61",
+          "department": "Crew",
+          "job": "Executive Music Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5967756,
+          "known_for_department": "Crew",
+          "name": "David Sache",
+          "original_name": "David Sache",
+          "popularity": 0.5065,
+          "profile_path": "/oCTOsWUdjxk7kJxQPmQ9C822doc.jpg",
+          "credit_id": "699a01b7f07796e497b28b49",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1456373,
+          "known_for_department": "Visual Effects",
+          "name": "Wesley Sewell",
+          "original_name": "Wesley Sewell",
+          "popularity": 0.1693,
+          "profile_path": "/3HwGXpYoSfPVyICQrofoI6T5fTW.jpg",
+          "credit_id": "69d565034402acf663edf7fb",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1262418,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Colin Wilkes",
+          "original_name": "Colin Wilkes",
+          "popularity": 0.2471,
+          "profile_path": null,
+          "credit_id": "6a038653b63680f524641668",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AD",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AF",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AI",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AQ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "+13",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AS",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-08T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "M",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BD",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BE",
+          "release_dates": [
+            {
+              "certification": "14",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BF",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BI",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BJ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "14",
+              "descriptors": [
+                "Sexual Content",
+                "Drugs"
+              ],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BS",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BY",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CC",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CD",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CF",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CI",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-08T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CV",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CY",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DJ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "EC",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "EE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "EG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "EH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ER",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ET",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FI",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FJ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GD",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GF",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GI",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GQ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GS",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GY",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ID",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IE",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IN",
+          "release_dates": [
+            {
+              "certification": "A",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IQ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IS",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KI",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KY",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "LA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "LB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "LC",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "LI",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "LK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "LR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "LS",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "LT",
+          "release_dates": [
+            {
+              "certification": "N-13",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "LU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "LV",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "LY",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MC",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MD",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ME",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ML",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MQ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MS",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MV",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MY",
+          "release_dates": [
+            {
+              "certification": "18SG",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NC",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NF",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NI",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "14",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-08T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NZ",
+          "release_dates": [
+            {
+              "certification": "M",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "OM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PF",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-08T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PH",
+          "release_dates": [
+            {
+              "certification": "R-13",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PR",
+          "release_dates": [
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PS",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PY",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "QA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RS",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SC",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SD",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SG",
+          "release_dates": [
+            {
+              "certification": "M18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SI",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SS",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ST",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SV",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TC",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TD",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TH",
+          "release_dates": [
+            {
+              "certification": "13",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TJ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TR",
+          "release_dates": [
+            {
+              "certification": "18+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UA",
+          "release_dates": [
+            {
+              "certification": "12+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-08T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "The Egyptian Theatre (Los Angeles, California)",
+              "release_date": "2026-01-06T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UY",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "VA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "VC",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "VE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "VG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "VI",
+          "release_dates": [
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "VN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "VU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "WF",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "WS",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "YE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "YT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ZA",
+          "release_dates": [
+            {
+              "certification": "13",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ZM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ZW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2026-01-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "GB",
+          "title": "You and Me on Vacation",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BR",
+          "title": "De Férias com Você",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CZ",
+          "title": "Alex, léto a já",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "AZ",
+          "title": "Səyahətdə Tanış Olduğumuz İnsanlar",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "Gente que conocemos en vacaciones",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

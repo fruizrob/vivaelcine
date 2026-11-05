@@ -1,0 +1,102 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/770032?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:04.849Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 770032,
+    "imdb_id": null,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "We Who Have Friends",
+    "overview": "",
+    "popularity": 0.5201,
+    "poster_path": "/xK6m3kFyiMEmNXYWJKMTW1A0TSz.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "1969-05-14",
+    "revenue": 0,
+    "runtime": 49,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "We Who Have Friends",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1297094,
+          "known_for_department": "Directing",
+          "name": "Richard Woolley",
+          "original_name": "Richard Woolley",
+          "popularity": 0.7049,
+          "profile_path": null,
+          "credit_id": "5fc3f36d3a340b0040de9370",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2875094,
+          "known_for_department": "Directing",
+          "name": "Richard Reisz",
+          "original_name": "Richard Reisz",
+          "popularity": 0.3461,
+          "profile_path": null,
+          "credit_id": "5fc3f3c3813cb6004076f746",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-05-14T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

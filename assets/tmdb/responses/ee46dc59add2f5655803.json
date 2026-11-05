@@ -1,0 +1,310 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1559122?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:14.552Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1559122,
+    "imdb_id": "tt0839872",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Kids Incorporated: The Beginning",
+    "overview": "",
+    "popularity": 2.0097,
+    "poster_path": "/hs4fdagQyR2UjFZQAl6W0Ljz00d.jpg",
+    "production_companies": [
+      {
+        "id": 2159,
+        "logo_path": null,
+        "name": "Hal Roach Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 58054,
+        "logo_path": null,
+        "name": "Lynch/Biller Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 60,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Kids Incorporated: The Beginning",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1215870,
+          "known_for_department": "Acting",
+          "name": "Martika",
+          "original_name": "Martika",
+          "popularity": 0.6158,
+          "profile_path": "/vpp0Kmu1HM58dm17f115pD5x5zG.jpg",
+          "cast_id": 1,
+          "character": "Gloria",
+          "credit_id": "68e64fd6bbe5a24813795101",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 20497,
+          "known_for_department": "Acting",
+          "name": "Fergie",
+          "original_name": "Fergie",
+          "popularity": 1.3821,
+          "profile_path": "/nfFaBZSWJY2S00cB70N5hXQlqCO.jpg",
+          "cast_id": 2,
+          "character": "Stacy Ferguson",
+          "credit_id": "68e65000d5e0558120f85218",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1215872,
+          "known_for_department": "Acting",
+          "name": "Rahsaan Patterson",
+          "original_name": "Rahsaan Patterson",
+          "popularity": 0.5966,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Rahsaan",
+          "credit_id": "68e650427beba2dbe88a019a",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1215874,
+          "known_for_department": "Acting",
+          "name": "Jerry Sharell",
+          "original_name": "Jerry Sharell",
+          "popularity": 0.1634,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Mickey",
+          "credit_id": "68e650587d5094e45b3d6f97",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1215871,
+          "known_for_department": "Acting",
+          "name": "Renee Sands",
+          "original_name": "Renee Sands",
+          "popularity": 1.2504,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Renee",
+          "credit_id": "68e651e5d6f3aa761ef852a6",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5737676,
+          "known_for_department": "Acting",
+          "name": "T.J. Buxton",
+          "original_name": "T.J. Buxton",
+          "popularity": 0.2075,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "",
+          "credit_id": "68e65232fe4c1a23017951da",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5737677,
+          "known_for_department": "Acting",
+          "name": "Daniel Howes",
+          "original_name": "Daniel Howes",
+          "popularity": 0.1826,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "",
+          "credit_id": "68e65242334701a57b74744c",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5737680,
+          "known_for_department": "Acting",
+          "name": "Michael Lewis",
+          "original_name": "Michael Lewis",
+          "popularity": 0.1801,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "",
+          "credit_id": "68e65274e42317e9c2a9966e",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5737682,
+          "known_for_department": "Acting",
+          "name": "Tino Saiki",
+          "original_name": "Tino Saiki",
+          "popularity": 0.149,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "",
+          "credit_id": "68e652a6e6e1672d3ea05294",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5737684,
+          "known_for_department": "Acting",
+          "name": "Jenifer Summerhays",
+          "original_name": "Jenifer Summerhays",
+          "popularity": 0.5535,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "",
+          "credit_id": "68e652b3984278b4eba0503f",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 550359,
+          "known_for_department": "Acting",
+          "name": "Christopher Robin Miller",
+          "original_name": "Christopher Robin Miller",
+          "popularity": 1.53,
+          "profile_path": "/eMvNwYW3PnWZRvjASkJCyWZsX8m.jpg",
+          "cast_id": 19,
+          "character": "Chris",
+          "credit_id": "692af37373c443ef104df4f9",
+          "order": 10
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5737666,
+          "known_for_department": "Production",
+          "name": "Alan Cordover",
+          "original_name": "Alan Cordover",
+          "popularity": 0.93,
+          "profile_path": null,
+          "credit_id": "68e651237b37faa6a08a00e8",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 66989,
+          "known_for_department": "Production",
+          "name": "Earl A. Glick",
+          "original_name": "Earl A. Glick",
+          "popularity": 0.6755,
+          "profile_path": null,
+          "credit_id": "68e65136e42317e9c2a99654",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5737668,
+          "known_for_department": "Production",
+          "name": "Michael J. Hill",
+          "original_name": "Michael J. Hill",
+          "popularity": 0.1973,
+          "profile_path": null,
+          "credit_id": "68e65152cc03a5d9788a0146",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1215881,
+          "known_for_department": "Production",
+          "name": "Thomas W. Lynch",
+          "original_name": "Thomas W. Lynch",
+          "popularity": 0.4324,
+          "profile_path": "/idT7tU0FrYklmqBwt9bYLcKZTlV.jpg",
+          "credit_id": "68e651624895bd16dfa995f7",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5737670,
+          "known_for_department": "Production",
+          "name": "Gary P. Biller",
+          "original_name": "Gary P. Biller",
+          "popularity": 0.5499,
+          "profile_path": null,
+          "credit_id": "68e65171fce3bddebb747427",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5737666,
+          "known_for_department": "Production",
+          "name": "Alan Cordover",
+          "original_name": "Alan Cordover",
+          "popularity": 0.93,
+          "profile_path": null,
+          "credit_id": "68e6518eb544ce89f17474d6",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 163539,
+          "known_for_department": "Directing",
+          "name": "Michael Dimich",
+          "original_name": "Michael Dimich",
+          "popularity": 0.3654,
+          "profile_path": null,
+          "credit_id": "68e651b2c587626cce795172",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

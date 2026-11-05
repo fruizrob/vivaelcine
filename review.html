@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Film matching review · ¡Viva el Cine!</title>
+  <link rel="stylesheet" href="review.css">
+  <script type="module" src="review.js"></script>
+</head>
+<body>
+  <header class="page-header">
+    <div><a href="./" class="brand">¡Viva el Cine!</a><h1>Film matching review</h1></div>
+    <button id="export" disabled>Export decisions <span id="export-count"></span></button>
+  </header>
+  <p id="storage-status" role="status">Loading review queue…</p>
+  <main class="workspace">
+    <aside aria-label="Review queue">
+      <div class="queue-tools">
+        <label class="sr-only" for="search">Search films</label>
+        <input id="search" type="search" placeholder="Find a film…">
+        <label class="sr-only" for="filter">Filter reviews</label>
+        <select id="filter"><option value="pending">To review</option><option value="reviewed">Reviewed</option><option value="all">All films</option></select>
+        <p id="progress"></p>
+      </div>
+      <nav id="queue" aria-label="Films"></nav>
+    </aside>
+    <section id="review" aria-label="Film comparison" aria-live="polite"></section>
+  </main>
+  <footer><img src="assets/tmdb-logo.svg" alt="TMDB" width="60">This product uses the TMDB API but is not endorsed or certified by TMDB.</footer>
+</body>
+</html>

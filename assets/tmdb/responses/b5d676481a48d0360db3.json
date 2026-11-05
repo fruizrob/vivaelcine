@@ -1,0 +1,47 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Pensaba+que+te+hab%C3%ADas+olvidado+de+escribirme&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:50.360Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1264679,
+        "title": "Pensaba que te habías olvidado de escribirme",
+        "original_language": "en",
+        "original_title": "Pensaba que te habías olvidado de escribirme",
+        "overview": "",
+        "popularity": 0.194,
+        "poster_path": "/2LFGUUGovrwYJgtlbirQf1pM4ew.jpg",
+        "release_date": "2023-12-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1816256,
+        "title": "Pensaba que te habías olvidado de escribirme",
+        "original_language": "es",
+        "original_title": "Pensaba que te habías olvidado de escribirme",
+        "overview": "",
+        "popularity": 0.1685,
+        "poster_path": null,
+        "release_date": "",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1125534?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:10.243Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "homepage": "",
+    "id": 1125534,
+    "imdb_id": "tt2995032",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "en",
+    "original_title": "The Stranger",
+    "overview": "",
+    "popularity": 0.7239,
+    "poster_path": "/vil1NLpkrmXOnI7bol6miHIw2bF.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "2013-09-11",
+    "revenue": 0,
+    "runtime": 12,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Stranger",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4056678,
+          "known_for_department": "Production",
+          "name": "Andrea Piezzo",
+          "original_name": "Andrea Piezzo",
+          "popularity": 0.1588,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Lètze",
+          "credit_id": "645d11696aa8e00139bd8e00",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3373559,
+          "known_for_department": "Camera",
+          "name": "Lucio Lepri",
+          "original_name": "Lucio Lepri",
+          "popularity": 0.3313,
+          "profile_path": null,
+          "credit_id": "645d111b156cc7017d74f84f",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3373559,
+          "known_for_department": "Camera",
+          "name": "Lucio Lepri",
+          "original_name": "Lucio Lepri",
+          "popularity": 0.3313,
+          "profile_path": null,
+          "credit_id": "645d113c1b70ae00fd6d68fd",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4056678,
+          "known_for_department": "Production",
+          "name": "Andrea Piezzo",
+          "original_name": "Andrea Piezzo",
+          "popularity": 0.1588,
+          "profile_path": null,
+          "credit_id": "645d115577d23b01703975dd",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3373559,
+          "known_for_department": "Camera",
+          "name": "Lucio Lepri",
+          "original_name": "Lucio Lepri",
+          "popularity": 0.3313,
+          "profile_path": null,
+          "credit_id": "645d11291b70ae0145efb931",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4056683,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Fabio Piastra",
+          "original_name": "Fabio Piastra",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "645d11cf3fe16001557365ac",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4056680,
+          "known_for_department": "Sound",
+          "name": "Stefano Gargiulo",
+          "original_name": "Stefano Gargiulo",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "645d117a77d23b00fccce6df",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4056677,
+          "known_for_department": "Production",
+          "name": "Alessio Pieroni",
+          "original_name": "Alessio Pieroni",
+          "popularity": 0.3086,
+          "profile_path": null,
+          "credit_id": "645d11923fe1600155736580",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Effects Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4056677,
+          "known_for_department": "Production",
+          "name": "Alessio Pieroni",
+          "original_name": "Alessio Pieroni",
+          "popularity": 0.3086,
+          "profile_path": null,
+          "credit_id": "645d114afe077a5caae14f0b",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4056678,
+          "known_for_department": "Production",
+          "name": "Andrea Piezzo",
+          "original_name": "Andrea Piezzo",
+          "popularity": 0.1588,
+          "profile_path": null,
+          "credit_id": "645d115a1b70ae0187e2d811",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3373559,
+          "known_for_department": "Camera",
+          "name": "Lucio Lepri",
+          "original_name": "Lucio Lepri",
+          "popularity": 0.3313,
+          "profile_path": null,
+          "credit_id": "645d11213fe160011bedf966",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3373559,
+          "known_for_department": "Camera",
+          "name": "Lucio Lepri",
+          "original_name": "Lucio Lepri",
+          "popularity": 0.3313,
+          "profile_path": null,
+          "credit_id": "645d113277d23b0153961c31",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4056682,
+          "known_for_department": "Camera",
+          "name": "Jacopo Santarello",
+          "original_name": "Jacopo Santarello",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "645d11b677d23b01365f97d5",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3373559,
+          "known_for_department": "Camera",
+          "name": "Lucio Lepri",
+          "original_name": "Lucio Lepri",
+          "popularity": 0.3313,
+          "profile_path": null,
+          "credit_id": "645d11371b70ae0187e2d7f8",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1865861,
+          "known_for_department": "Sound",
+          "name": "Dino Gervasoni",
+          "original_name": "Dino Gervasoni",
+          "popularity": 0.0977,
+          "profile_path": null,
+          "credit_id": "645d119e6aa8e000ff5d2602",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4056683,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Fabio Piastra",
+          "original_name": "Fabio Piastra",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "645d11fafe077a5cabd286ad",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4056677,
+          "known_for_department": "Production",
+          "name": "Alessio Pieroni",
+          "original_name": "Alessio Pieroni",
+          "popularity": 0.3086,
+          "profile_path": null,
+          "credit_id": "645d12046aa8e001738256a9",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4056677,
+          "known_for_department": "Production",
+          "name": "Alessio Pieroni",
+          "original_name": "Alessio Pieroni",
+          "popularity": 0.3086,
+          "profile_path": null,
+          "credit_id": "645d11dafe077a5cac6deebe",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4056684,
+          "known_for_department": "Art",
+          "name": "Alberto Acquaviva",
+          "original_name": "Alberto Acquaviva",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "645d11e5156cc700ffa98c01",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3373559,
+          "known_for_department": "Camera",
+          "name": "Lucio Lepri",
+          "original_name": "Lucio Lepri",
+          "popularity": 0.3313,
+          "profile_path": null,
+          "credit_id": "645d11c277d23b017039760c",
+          "department": "Editing",
+          "job": "Colorist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1865861,
+          "known_for_department": "Sound",
+          "name": "Dino Gervasoni",
+          "original_name": "Dino Gervasoni",
+          "popularity": 0.0977,
+          "profile_path": null,
+          "credit_id": "645d11a43fe1600155736590",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4056685,
+          "known_for_department": "Art",
+          "name": "Federica Fiorenza",
+          "original_name": "Federica Fiorenza",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "645d11ef156cc7013ff3ac13",
+          "department": "Art",
+          "job": "Set Decoration"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-09-11T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

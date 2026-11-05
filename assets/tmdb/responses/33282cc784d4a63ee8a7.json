@@ -1,0 +1,159 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/162761?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:10.648Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 162761,
+    "imdb_id": "tt1318057",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Domingo",
+    "overview": "Narra el domingo de picnic de una pareja cuya vida se convierte en ciencia-ficción en un abrir y cerrar de ojos.",
+    "popularity": 0.4126,
+    "poster_path": "/aO44eMnpH52rglUR06tNQkPXEYB.jpg",
+    "production_companies": [
+      {
+        "id": 10086,
+        "logo_path": null,
+        "name": "Arsénico Producciones",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2007-03-07",
+    "revenue": 0,
+    "runtime": 4,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Domingo",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 9,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1310696,
+          "known_for_department": "Acting",
+          "name": "Pilar Gil",
+          "original_name": "Pilar Gil",
+          "popularity": 0.1502,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Chica",
+          "credit_id": "534fc4940e0a267eb6000d0b",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1170703,
+          "known_for_department": "Acting",
+          "name": "Alejandro Tejerías",
+          "original_name": "Alejandro Tejerías",
+          "popularity": 0.2776,
+          "profile_path": "/p3CEKpLoOo0tHRyWEPGMe8GT1F3.jpg",
+          "cast_id": 5,
+          "character": "Chico",
+          "credit_id": "5f34c06cc4f55200340697ee",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 118303,
+          "known_for_department": "Directing",
+          "name": "Nacho Vigalondo",
+          "original_name": "Nacho Vigalondo",
+          "popularity": 0.7558,
+          "profile_path": "/ydoLch061IWUMdIi5CkbKnFIph8.jpg",
+          "credit_id": "534fc4ac0e0a267eab000cce",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1310697,
+          "known_for_department": "Camera",
+          "name": "Jon D. Domínguez",
+          "original_name": "Jon D. Domínguez",
+          "popularity": 0.4871,
+          "profile_path": "/bp4b10Nv7T7wFouCE2LBdsdbY4y.jpg",
+          "credit_id": "534fc4e60e0a267eb2000cc2",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 118303,
+          "known_for_department": "Directing",
+          "name": "Nacho Vigalondo",
+          "original_name": "Nacho Vigalondo",
+          "popularity": 0.7558,
+          "profile_path": "/ydoLch061IWUMdIi5CkbKnFIph8.jpg",
+          "credit_id": "534fc4a30e0a267eb6000d0f",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2007-03-07T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

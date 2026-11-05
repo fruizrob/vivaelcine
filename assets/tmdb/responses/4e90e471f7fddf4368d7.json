@@ -1,0 +1,511 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/464431?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:13.043Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/fEKEHHvjPn6HN0dVAoGhm6gLYI0.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 10770,
+        "name": "Película de TV"
+      }
+    ],
+    "homepage": "",
+    "id": 464431,
+    "imdb_id": "tt5075490",
+    "origin_country": [
+      "CA",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Wilding",
+    "overview": "Situado en los suburbios de Carolina del Norte, The Wilding se centra en torno a la familia Hayes, una familia típica en busca de un nuevo comienzo después de que su hija de 17 años de edad, Kayla, haya salido de una institución de salud mental después de diez años de tratamiento. Sin embargo us ideales son amenazados con rapidez cuando las apariciones de los muertos de Kayla comienzan a perseguirlos una vez más.",
+    "popularity": 1.1058,
+    "poster_path": "/exJ34CFoFQmn0np3h3oKwkYmOu1.jpg",
+    "production_companies": [
+      {
+        "id": 7625,
+        "logo_path": "/kzq4ibnNeZrp00zpBWv3st1QCOh.png",
+        "name": "Automatik Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 81121,
+        "logo_path": "/1z9ocv9A1qlXhH1ehq2hFqIl0J5.png",
+        "name": "Imperative Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2016-01-01",
+    "revenue": 0,
+    "runtime": 120,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El llamado del otro lado",
+    "video": false,
+    "vote_average": 4.3,
+    "vote_count": 19,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 39481,
+          "known_for_department": "Acting",
+          "name": "Jordana Spiro",
+          "original_name": "Jordana Spiro",
+          "popularity": 1.3392,
+          "profile_path": "/lYWTKhlMG9B2gEoCOCABqeRMbx3.jpg",
+          "cast_id": 0,
+          "character": "Margaret Hayes",
+          "credit_id": "595a54e2c3a3680dec00d176",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 180306,
+          "known_for_department": "Acting",
+          "name": "Antonio Jaramillo",
+          "original_name": "Antonio Jaramillo",
+          "popularity": 0.7152,
+          "profile_path": "/6xLThPXEOLPGxZ7Szi1X3cGRZ8g.jpg",
+          "cast_id": 1,
+          "character": "Carlos Hayes",
+          "credit_id": "595a550a9251410a5903cccd",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1447856,
+          "known_for_department": "Acting",
+          "name": "Nadia Alexander",
+          "original_name": "Nadia Alexander",
+          "popularity": 0.5603,
+          "profile_path": "/bNyMj8UWZNPMCV8OkiVUaVjnRSd.jpg",
+          "cast_id": 2,
+          "character": "Kayla Hayes",
+          "credit_id": "595a552cc3a36825e8039c93",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 64908,
+          "known_for_department": "Acting",
+          "name": "LisaGay Hamilton",
+          "original_name": "LisaGay Hamilton",
+          "popularity": 1.2863,
+          "profile_path": "/bqfowff4gF0cGaQ1c7F89HAL3DH.jpg",
+          "cast_id": 6,
+          "character": "Emily Bergom",
+          "credit_id": "5b05bc2a0e0a260552002278",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1754752,
+          "known_for_department": "Acting",
+          "name": "Amanda Christine",
+          "original_name": "Amanda Christine",
+          "popularity": 1.1957,
+          "profile_path": "/ytG5JgrniXLY6elImmzTKjvGtCZ.jpg",
+          "cast_id": 31,
+          "character": "Beth Bergom",
+          "credit_id": "6993a7dabeda484cea288159",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 154784,
+          "known_for_department": "Acting",
+          "name": "Dominic Fumusa",
+          "original_name": "Dominic Fumusa",
+          "popularity": 1.421,
+          "profile_path": "/1wgHvqNM0LisAhkInYDD9JIGPJ0.jpg",
+          "cast_id": 4,
+          "character": "George",
+          "credit_id": "595a55739251415a4000c98f",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1531967,
+          "known_for_department": "Acting",
+          "name": "Maxwell Haynes",
+          "original_name": "Maxwell Haynes",
+          "popularity": 0.3768,
+          "profile_path": "/tLX5zDWazwerzkvwjPSKaqOL2Us.jpg",
+          "cast_id": 5,
+          "character": "Luke",
+          "credit_id": "595a55abc3a36828a1045931",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1435838,
+          "known_for_department": "Acting",
+          "name": "Dylan Kingwell",
+          "original_name": "Dylan Kingwell",
+          "popularity": 2.3337,
+          "profile_path": "/1wB7LQeSYyjdqVh8WRLZ5dibumm.jpg",
+          "cast_id": 7,
+          "character": "Peyton Reddings",
+          "credit_id": "5c1ae1a5c3a3680b6087077f",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1284139,
+          "known_for_department": "Directing",
+          "name": "Gigi Saul Guerrero",
+          "original_name": "Gigi Saul Guerrero",
+          "popularity": 0.574,
+          "profile_path": "/vCNCMd3bGpG9fSOTe7IiTOcTr1j.jpg",
+          "cast_id": 11,
+          "character": "Spanish Teacher",
+          "credit_id": "653276308d22fc00c9a2df78",
+          "order": 8
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1235815,
+          "known_for_department": "Crew",
+          "name": "Owen Walstrom",
+          "original_name": "Owen Walstrom",
+          "popularity": 0.4121,
+          "profile_path": "/95b5hRbxXzQx7uDSwDmySwxBJZ8.jpg",
+          "credit_id": "650cfb4851a64e0101705234",
+          "department": "Crew",
+          "job": "Utility Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1911436,
+          "known_for_department": "Directing",
+          "name": "Ciarán Foy",
+          "original_name": "Ciarán Foy",
+          "popularity": 0.455,
+          "profile_path": "/bj5y9QiTMdoSJ7cbdMCdUq2YpQZ.jpg",
+          "credit_id": "619c873669d280008c8e984a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2720614,
+          "known_for_department": "Writing",
+          "name": "Silka Luisa",
+          "original_name": "Silka Luisa",
+          "popularity": 0.4825,
+          "profile_path": "/AlwdNx8VkXILKc7uyLNBkLg3XWQ.jpg",
+          "credit_id": "619c874a51e6ab0045b2be7b",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 999763,
+          "known_for_department": "Production",
+          "name": "Brian Kavanaugh-Jones",
+          "original_name": "Brian Kavanaugh-Jones",
+          "popularity": 0.7082,
+          "profile_path": "/tzuxnnZdOVEGl4Hc3qby6D1Wn6d.jpg",
+          "credit_id": "663eee96cea4ab53fe4782cd",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1758415,
+          "known_for_department": "Lighting",
+          "name": "Scott Clark",
+          "original_name": "Scott Clark",
+          "popularity": 0.2258,
+          "profile_path": null,
+          "credit_id": "68ddc218087afa1fab99173b",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1911436,
+          "known_for_department": "Directing",
+          "name": "Ciarán Foy",
+          "original_name": "Ciarán Foy",
+          "popularity": 0.455,
+          "profile_path": "/bj5y9QiTMdoSJ7cbdMCdUq2YpQZ.jpg",
+          "credit_id": "68ddc2288c1c1a7a81bdf9d0",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1396493,
+          "known_for_department": "Production",
+          "name": "Rose Lam",
+          "original_name": "Rose Lam",
+          "popularity": 0.3043,
+          "profile_path": null,
+          "credit_id": "68ddc22ec4da9e7779bdfa00",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1675766,
+          "known_for_department": "Production",
+          "name": "Justin Levy",
+          "original_name": "Justin Levy",
+          "popularity": 0.1883,
+          "profile_path": null,
+          "credit_id": "68ddc23f53a81a52a16a7661",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1478662,
+          "known_for_department": "Production",
+          "name": "Bailey Conway",
+          "original_name": "Bailey Conway",
+          "popularity": 0.2438,
+          "profile_path": null,
+          "credit_id": "68ddc246aee18c93496d4e04",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2720614,
+          "known_for_department": "Writing",
+          "name": "Silka Luisa",
+          "original_name": "Silka Luisa",
+          "popularity": 0.4825,
+          "profile_path": "/AlwdNx8VkXILKc7uyLNBkLg3XWQ.jpg",
+          "credit_id": "68ddc2572453520c05bdf9b2",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17263,
+          "known_for_department": "Writing",
+          "name": "Tim Kring",
+          "original_name": "Tim Kring",
+          "popularity": 0.5139,
+          "profile_path": null,
+          "credit_id": "68ddc25eaee18c93496d4e07",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2257403,
+          "known_for_department": "Sound",
+          "name": "Tomandandy",
+          "original_name": "tomandandy",
+          "popularity": 0.4489,
+          "profile_path": null,
+          "credit_id": "68ddc26dc70fcfcf02bdf9c6",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 23461,
+          "known_for_department": "Camera",
+          "name": "Maxime Alexandre",
+          "original_name": "Maxime Alexandre",
+          "popularity": 0.5476,
+          "profile_path": "/W0YnA5kR1g0PBliPg78ZQPeYO9.jpg",
+          "credit_id": "68ddc2732ce589d9f6405a66",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1330889,
+          "known_for_department": "Art",
+          "name": "Brian Kane",
+          "original_name": "Brian Kane",
+          "popularity": 0.2993,
+          "profile_path": null,
+          "credit_id": "68ddc27e7119986ffa6d4e46",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2194192,
+          "known_for_department": "Editing",
+          "name": "Robert Mead",
+          "original_name": "Robert Mead",
+          "popularity": 0.228,
+          "profile_path": null,
+          "credit_id": "68ddc282c4da9e7779bdfa04",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 66494,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Ariyela Wald-Cohain",
+          "original_name": "Ariyela Wald-Cohain",
+          "popularity": 0.3074,
+          "profile_path": null,
+          "credit_id": "68ddc28d8c1c1a7a81bdf9d5",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 58911,
+          "known_for_department": "Crew",
+          "name": "Krista Bell",
+          "original_name": "Krista Bell",
+          "popularity": 0.4982,
+          "profile_path": "/m9nOse9XgVNWhVyTQZYwun39hDS.jpg",
+          "credit_id": "68ddc29e42ed9f5e536a7685",
+          "department": "Crew",
+          "job": "Stunt Double"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2966493,
+          "known_for_department": "Crew",
+          "name": "Nicole Lissner",
+          "original_name": "Nicole Lissner",
+          "popularity": 0.1692,
+          "profile_path": "/laKJH6m2AKFxTJi80NvPGVfcBqr.jpg",
+          "credit_id": "68ddc2a2fd1b9c82efbdfa01",
+          "department": "Crew",
+          "job": "Stunt Double"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 206654,
+          "known_for_department": "Acting",
+          "name": "Fraser Corbett",
+          "original_name": "Fraser Corbett",
+          "popularity": 0.55,
+          "profile_path": "/wJB4LXYoMWC3WVrge8DIJgEnLbW.jpg",
+          "credit_id": "68ddc2acfd1b9c82efbdfa04",
+          "department": "Crew",
+          "job": "Stunt Double"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2082833,
+          "known_for_department": "Crew",
+          "name": "Zandara Kennedy",
+          "original_name": "Zandara Kennedy",
+          "popularity": 0.3421,
+          "profile_path": "/a53mOT8sC0Q5VNE0IDeeq2myadg.jpg",
+          "credit_id": "68ddc2b10a4e107a81991739",
+          "department": "Crew",
+          "job": "Stunt Double"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1796421,
+          "known_for_department": "Acting",
+          "name": "Tally Rodin",
+          "original_name": "Tally Rodin",
+          "popularity": 0.3538,
+          "profile_path": "/wUWjaPwlTYyvl7pfBsa69upmH1T.jpg",
+          "credit_id": "68ddc2bfaff1dede5b6a766f",
+          "department": "Crew",
+          "job": "Stunt Double"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1396342,
+          "known_for_department": "Camera",
+          "name": "Dean Buscher",
+          "original_name": "Dean Buscher",
+          "popularity": 0.1699,
+          "profile_path": null,
+          "credit_id": "68ddc2cc6cdd136fe8da54dd",
+          "department": "Camera",
+          "job": "Additional Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2016-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

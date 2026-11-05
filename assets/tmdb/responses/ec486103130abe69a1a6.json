@@ -1,0 +1,169 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1687949?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:31.968Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/j0dK9B5nymaxzjBYk6Oyz5jQCWm.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1687949,
+    "imdb_id": null,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Isaac & Úrsula Na Terra das Andorinhas",
+    "overview": "Dos calcetines conversan sobre la finitud.",
+    "popularity": 0.661,
+    "poster_path": "/giF5buR9F6lIOBc0jHpNAgagkvF.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2026-05-17",
+    "revenue": 0,
+    "runtime": 2,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Isaac y Úrsula En La Tierra De Las Golondrinas",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6221102,
+          "known_for_department": "Acting",
+          "name": "Anabeth",
+          "original_name": "Anabeth",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Úrsula",
+          "credit_id": "6a0a2e4ef5304544b4ee4a9c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1692963,
+          "known_for_department": "Acting",
+          "name": "Frank Menezes",
+          "original_name": "Frank Menezes",
+          "popularity": 0.2822,
+          "profile_path": "/deam3UGOXx51kZxnmsbWK4xQyDu.jpg",
+          "cast_id": 1,
+          "character": "Narrador",
+          "credit_id": "6a0a2e2409c238d037d60586",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6221101,
+          "known_for_department": "Acting",
+          "name": "Thiago Atella",
+          "original_name": "Thiago Atella",
+          "popularity": 0.2053,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Isaac",
+          "credit_id": "6a0a2e3a274bdff7d71e71c0",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6221105,
+          "known_for_department": "Production",
+          "name": "Pedro Parangaba",
+          "original_name": "Pedro Parangaba",
+          "popularity": 0.3488,
+          "profile_path": null,
+          "credit_id": "6a0a2ec4310ed73d971e7667",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6221105,
+          "known_for_department": "Production",
+          "name": "Pedro Parangaba",
+          "original_name": "Pedro Parangaba",
+          "popularity": 0.3488,
+          "profile_path": null,
+          "credit_id": "6a0a2fcad29c3e0248dfb203",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6221105,
+          "known_for_department": "Production",
+          "name": "Pedro Parangaba",
+          "original_name": "Pedro Parangaba",
+          "popularity": 0.3488,
+          "profile_path": null,
+          "credit_id": "6a0a2fde01a4e7c6a8f9edb9",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "L",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "",
+              "release_date": "2026-05-17T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Isaac & Úrsula in the Land of Swallows",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PE",
+          "title": "Isaac y Úrsula En La Tierra De Las Golondrinas",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

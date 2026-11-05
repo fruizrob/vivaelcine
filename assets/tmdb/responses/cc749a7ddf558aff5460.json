@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Az+Zeeb&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-05T16:44:45.863Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/hxnEMOgCYGCeSgYBjqK4lLn7oor.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 995888,
+        "title": "Az Zeeb",
+        "original_language": "es",
+        "original_title": "Az Zeeb",
+        "overview": "Rafael, un chileno de ascendencia judía y palestina, descubre unos rollos de película Super 8 tras la muerte de su abuela paterna, lo que le lleva de Chile a Israel y Palestina mientras reconstruye dos historias entrelazadas marcadas por el exilio, la memoria y la resistencia.",
+        "popularity": 1.1848,
+        "poster_path": "/xe5KqqdoONssbJQOtPQmw6lxHDB.jpg",
+        "release_date": "2026-07-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

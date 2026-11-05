@@ -1,0 +1,214 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1102622?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:09.009Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 37,
+        "name": "Western"
+      }
+    ],
+    "homepage": "",
+    "id": 1102622,
+    "imdb_id": "tt0012167",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Fighting Stranger",
+    "overview": "",
+    "popularity": 1.549,
+    "poster_path": "/7J7vc6FWUfRr5NlWEozTD15Maji.jpg",
+    "production_companies": [
+      {
+        "id": 166220,
+        "logo_path": null,
+        "name": "William N. Selig Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 144807,
+        "logo_path": null,
+        "name": "Canyon Pictures Corporation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1921-01-25",
+    "revenue": 0,
+    "runtime": 50,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Fighting Stranger",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 975597,
+          "known_for_department": "Acting",
+          "name": "Franklyn Farnum",
+          "original_name": "Franklyn Farnum",
+          "popularity": 0.6037,
+          "profile_path": "/273KbcYjCmFpDMUcFtNKf7hNTRV.jpg",
+          "cast_id": 3,
+          "character": "Australia Joe",
+          "credit_id": "6418e237e004a600e29f7b47",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3074476,
+          "known_for_department": "Acting",
+          "name": "Flora Hollister",
+          "original_name": "Flora Hollister",
+          "popularity": 0.1541,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Madeline Ayre",
+          "credit_id": "6418e2445690b5007a559f80",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3971307,
+          "known_for_department": "Acting",
+          "name": "W.A. Alleman",
+          "original_name": "W.A. Alleman",
+          "popularity": 0.3031,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Winthrop Ayre",
+          "credit_id": "6418e251e004a600e29f7b51",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1349871,
+          "known_for_department": "Acting",
+          "name": "Vester Pegg",
+          "original_name": "Vester Pegg",
+          "popularity": 1.313,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Joe Kilburn",
+          "credit_id": "6418e261e7414600b96c018c",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3971309,
+          "known_for_department": "Acting",
+          "name": "W.A. Bartlett",
+          "original_name": "W.A. Bartlett",
+          "popularity": 0.3166,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Lughing Bill",
+          "credit_id": "6418e270310325007c0ae9c6",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3971310,
+          "known_for_department": "Acting",
+          "name": "Churchill Scott",
+          "original_name": "Churchill Scott",
+          "popularity": 0.6346,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Bob Scarritt",
+          "credit_id": "6418e27d2b8a43007b79214c",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3971312,
+          "known_for_department": "Acting",
+          "name": "Emma Burns",
+          "original_name": "Emma Burns",
+          "popularity": 0.5223,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Mrs. Ayre",
+          "credit_id": "6418e29fa14bef00d70a5ecd",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1335436,
+          "known_for_department": "Directing",
+          "name": "Webster Cullison",
+          "original_name": "Webster Cullison",
+          "popularity": 0.2725,
+          "profile_path": null,
+          "credit_id": "6418e21d6a222700c6b4ddcf",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1405087,
+          "known_for_department": "Writing",
+          "name": "William E. Wing",
+          "original_name": "William E. Wing",
+          "popularity": 1.0945,
+          "profile_path": null,
+          "credit_id": "6418e227310325007c0ae9b8",
+          "department": "Writing",
+          "job": "Story"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1921-01-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

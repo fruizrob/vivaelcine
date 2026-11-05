@@ -1,0 +1,110 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1543387?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:40.920Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1543387,
+    "imdb_id": null,
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Osdorfer Born. Werbefilm für die “Hamburger Bautage 1969”",
+    "overview": "",
+    "popularity": 0.5996,
+    "poster_path": "/96rFAZHl7g2HDliX2tlWyep4NRv.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "1969-01-01",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Osdorfer Born. Werbefilm für die “Hamburger Bautage 1969”",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 57009,
+          "known_for_department": "Sound",
+          "name": "Thomas Kukuck",
+          "original_name": "Thomas Kukuck",
+          "popularity": 0.2112,
+          "profile_path": null,
+          "credit_id": "68beeffe4b0e8179288cf4b1",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1762413,
+          "known_for_department": "Directing",
+          "name": "Christian Bau",
+          "original_name": "Christian Bau",
+          "popularity": 0.3747,
+          "profile_path": null,
+          "credit_id": "692001f1f1ccd57d674a2dd4",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Kurzfilm Festival Hamburg",
+              "release_date": "2025-06-04T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

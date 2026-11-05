@@ -1,0 +1,211 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1063807?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:24.128Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/20SGxGvDQHKtHyKLvvHvDyJjCkL.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1063807,
+    "imdb_id": null,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Angélica e Luciano sem Huck",
+    "overview": "",
+    "popularity": 0.522,
+    "poster_path": "/qyW6AXYrgF2SYmHYMdqlJ0gnWLY.jpg",
+    "production_companies": [
+      {
+        "id": 179184,
+        "logo_path": null,
+        "name": "Rabicó Produções",
+        "origin_country": "BR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Angélica e Luciano sem Huck",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3839487,
+          "known_for_department": "Acting",
+          "name": "Nathalia Aruna",
+          "original_name": "Nathalia Aruna",
+          "popularity": 0.26,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Angélica",
+          "credit_id": "63a270b451f99a00b3b7b573",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3839488,
+          "known_for_department": "Acting",
+          "name": "Vitor Silva",
+          "original_name": "Vitor Silva",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Lázaro",
+          "credit_id": "63a270bb51f99a00b3b7b581",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3839489,
+          "known_for_department": "Acting",
+          "name": "Gabriel Cavalcanti",
+          "original_name": "Gabriel Cavalcanti",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Wagner",
+          "credit_id": "63a270c6be6d88008cb1689a",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3839490,
+          "known_for_department": "Acting",
+          "name": "Herbert Ricardo",
+          "original_name": "Herbert Ricardo",
+          "popularity": 0.2346,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Luciano",
+          "credit_id": "63a270d08ddc34149eefcbb0",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3633215,
+          "known_for_department": "Sound",
+          "name": "Breno Vieira",
+          "original_name": "Breno Vieira",
+          "popularity": 0.1789,
+          "profile_path": "/dSfdgqY23cHxaayIt1PUfHe3rZM.jpg",
+          "credit_id": "63a2713bbe6d8800d9ce3071",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": true,
+          "gender": 0,
+          "id": 3839493,
+          "known_for_department": "Editing",
+          "name": "Mariana Karis",
+          "original_name": "Mariana Karis",
+          "popularity": 0.0972,
+          "profile_path": null,
+          "credit_id": "63a27150be6d8800d9ce308b",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": true,
+          "gender": 0,
+          "id": 3839491,
+          "known_for_department": "Directing",
+          "name": "Vitor Silva",
+          "original_name": "Vitor Silva",
+          "popularity": 0.1723,
+          "profile_path": null,
+          "credit_id": "63a270e5be6d8800d9ce304a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": true,
+          "gender": 0,
+          "id": 3633203,
+          "known_for_department": "Directing",
+          "name": "Ana Clara Ribeiro",
+          "original_name": "Ana Clara Ribeiro",
+          "popularity": 0.1029,
+          "profile_path": "/wtG6hLobacAQ5sosBqrvSqz64eF.jpg",
+          "credit_id": "63a270f0bcf8c9008997dd12",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3839494,
+          "known_for_department": "Art",
+          "name": "Jota Almeida",
+          "original_name": "Jota Almeida",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "63a2716a2f3b170085dd35d0",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3633205,
+          "known_for_department": "Editing",
+          "name": "Laura Abreu",
+          "original_name": "Laura Abreu",
+          "popularity": 0.0884,
+          "profile_path": "/mlmmIPOLggkamZfOrJ7AfNZH5yZ.jpg",
+          "credit_id": "63a270fb4f33ad008c02137c",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3839492,
+          "known_for_department": "Crew",
+          "name": "Vitor Silva",
+          "original_name": "Vitor Silva",
+          "popularity": 0.1002,
+          "profile_path": null,
+          "credit_id": "63a27126d8e2250e7fdfd214",
+          "department": "Crew",
+          "job": "Script"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/50225?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:44.515Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 50225,
+    "imdb_id": "tt0201899",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "A Rumor of Angels",
+    "overview": "Desolado por la muerte de su madre, James (Trevor Morgan), un chico de doce años, está pasando un verano muy solitario en Cape Cod hasta que conoce a una mujer de edad avanzada (Vanessa Redgrave). Sin embargo, cuando su padre (Ray Liotta) descubre el tipo de conversaciones que mantienen, le prohibe a su hijo que vuelva a verla.",
+    "popularity": 1.413,
+    "poster_path": "/deCJCn5Z1bj1Fow23g7twY3CqlL.jpg",
+    "production_companies": [
+      {
+        "id": 10399,
+        "logo_path": null,
+        "name": "CineTel Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2000-09-08",
+    "revenue": 0,
+    "runtime": 106,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Voces de ángeles",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 27,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 13333,
+          "known_for_department": "Acting",
+          "name": "Vanessa Redgrave",
+          "original_name": "Vanessa Redgrave",
+          "popularity": 2.4497,
+          "profile_path": "/hBsjc7cW1DA0V6APwe3A7ESH3Lv.jpg",
+          "cast_id": 2,
+          "character": "Maddy Bennett",
+          "credit_id": "52fe47bfc3a36847f814627b",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 11477,
+          "known_for_department": "Acting",
+          "name": "Ray Liotta",
+          "original_name": "Ray Liotta",
+          "popularity": 2.8713,
+          "profile_path": "/ve9sB0o1MYTaL2SXEisVW2RMkD5.jpg",
+          "cast_id": 3,
+          "character": "Nathan Neubauer",
+          "credit_id": "52fe47bfc3a36847f814627f",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2462,
+          "known_for_department": "Acting",
+          "name": "Catherine McCormack",
+          "original_name": "Catherine McCormack",
+          "popularity": 3.0015,
+          "profile_path": "/vYyMCGKeIUTZMdEgVwQCgX7q1T3.jpg",
+          "cast_id": 4,
+          "character": "Mary Neubauer",
+          "credit_id": "52fe47bfc3a36847f8146283",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4940,
+          "known_for_department": "Acting",
+          "name": "Trevor Morgan",
+          "original_name": "Trevor Morgan",
+          "popularity": 2.722,
+          "profile_path": "/txZ59fUmdyyv5cowmFDu85HiBeF.jpg",
+          "cast_id": 5,
+          "character": "James Neubauer",
+          "credit_id": "52fe47bfc3a36847f8146287",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17402,
+          "known_for_department": "Acting",
+          "name": "Ron Livingston",
+          "original_name": "Ron Livingston",
+          "popularity": 2.4831,
+          "profile_path": "/pr5CjWnkaf5WKTIYh8wtNufjmyb.jpg",
+          "cast_id": 6,
+          "character": "Uncle Charlie",
+          "credit_id": "52fe47bfc3a36847f814628b",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14102,
+          "known_for_department": "Acting",
+          "name": "George Coe",
+          "original_name": "George Coe",
+          "popularity": 0.486,
+          "profile_path": "/3VkamwMlEhr9rFe3o6zcoGkHqJw.jpg",
+          "cast_id": 7,
+          "character": "Dr. Sam Jenkins",
+          "credit_id": "52fe47bfc3a36847f814628f",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 60026,
+          "known_for_department": "Production",
+          "name": "Michelle Grace",
+          "original_name": "Michelle Grace",
+          "popularity": 0.7784,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Lillian Neubauer",
+          "credit_id": "52fe47bfc3a36847f81462c9",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1104724,
+          "known_for_department": "Acting",
+          "name": "Karsen Liotta",
+          "original_name": "Karsen Liotta",
+          "popularity": 0.3835,
+          "profile_path": "/bVrbVZ2UniD3bMZNq5hCLpyEfdL.jpg",
+          "cast_id": 18,
+          "character": "James as Infant",
+          "credit_id": "52fe47bfc3a36847f81462cd",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 76650,
+          "known_for_department": "Acting",
+          "name": "Colin Rogers",
+          "original_name": "Colin Rogers",
+          "popularity": 0.2058,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "James as a young boy",
+          "credit_id": "52fe47bfc3a36847f81462d1",
+          "order": 8
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 42367,
+          "known_for_department": "Production",
+          "name": "Lisa M. Hansen",
+          "original_name": "Lisa M. Hansen",
+          "popularity": 0.2541,
+          "profile_path": "/iS82mbV6v0EBORdd0ZobS03IeAc.jpg",
+          "credit_id": "52fe47bfc3a36847f81462b9",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 214294,
+          "known_for_department": "Writing",
+          "name": "James Eric",
+          "original_name": "James Eric",
+          "popularity": 0.5162,
+          "profile_path": null,
+          "credit_id": "52fe47bfc3a36847f814629b",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 17425,
+          "known_for_department": "Production",
+          "name": "John Hamilton",
+          "original_name": "John Hamilton",
+          "popularity": 0.3058,
+          "profile_path": null,
+          "credit_id": "52fe47bfc3a36847f81462b3",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 51702,
+          "known_for_department": "Production",
+          "name": "Brad Krevoy",
+          "original_name": "Brad Krevoy",
+          "popularity": 0.5107,
+          "profile_path": "/fSGnlsFaIv2XismPpVOmJ9pHANi.jpg",
+          "credit_id": "52fe47bfc3a36847f81462bf",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1104723,
+          "known_for_department": "Writing",
+          "name": "Grace Duffie Boylan",
+          "original_name": "Grace Duffie Boylan",
+          "popularity": 0.1992,
+          "profile_path": null,
+          "credit_id": "52fe47bfc3a36847f8146295",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 41472,
+          "known_for_department": "Directing",
+          "name": "Peter O'Fallon",
+          "original_name": "Peter O'Fallon",
+          "popularity": 0.3815,
+          "profile_path": null,
+          "credit_id": "52fe47bfc3a36847f81462a7",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 975660,
+          "known_for_department": "Acting",
+          "name": "Jamie Horton",
+          "original_name": "Jamie Horton",
+          "popularity": 0.4324,
+          "profile_path": null,
+          "credit_id": "52fe47bfc3a36847f81462a1",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 59922,
+          "known_for_department": "Production",
+          "name": "Glenn S. Gainor",
+          "original_name": "Glenn S. Gainor",
+          "popularity": 0.3534,
+          "profile_path": "/uQrhhgeUtW9wsQ7LQZLUQAyfNpu.jpg",
+          "credit_id": "52fe47bfc3a36847f81462ad",
+          "department": "Production",
+          "job": "Line Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 41472,
+          "known_for_department": "Directing",
+          "name": "Peter O'Fallon",
+          "original_name": "Peter O'Fallon",
+          "popularity": 0.3815,
+          "profile_path": null,
+          "credit_id": "52fe47bfc3a36847f8146277",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 28241,
+          "known_for_department": "Sound",
+          "name": "Tim Simonec",
+          "original_name": "Tim Simonec",
+          "popularity": 0.2275,
+          "profile_path": null,
+          "credit_id": "52fe47bfc3a36847f81462c5",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1100385,
+          "known_for_department": "Acting",
+          "name": "David Mylrea",
+          "original_name": "David Mylrea",
+          "popularity": 0.3114,
+          "profile_path": null,
+          "credit_id": "655eb6df1dbc88011ea50458",
+          "department": "Crew",
+          "job": "Stunt Double"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 21362,
+          "known_for_department": "Camera",
+          "name": "Roy H. Wagner",
+          "original_name": "Roy H. Wagner",
+          "popularity": 0.2465,
+          "profile_path": null,
+          "credit_id": "61a5abed3dc31300918391ea",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 20825,
+          "known_for_department": "Art",
+          "name": "Stephen McCabe",
+          "original_name": "Stephen McCabe",
+          "popularity": 0.327,
+          "profile_path": null,
+          "credit_id": "61a5abfe3e2ec800458d141d",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1788055,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Natasha Landau",
+          "original_name": "Natasha Landau",
+          "popularity": 0.2249,
+          "profile_path": null,
+          "credit_id": "61a5ac113dc3130091839215",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1413906,
+          "known_for_department": "Art",
+          "name": "Patricia Larman",
+          "original_name": "Patricia Larman",
+          "popularity": 0.3471,
+          "profile_path": null,
+          "credit_id": "61a5ac04b458b800298c8107",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 40151,
+          "known_for_department": "Editing",
+          "name": "Louise Rubacky",
+          "original_name": "Louise Rubacky",
+          "popularity": 0.2944,
+          "profile_path": null,
+          "credit_id": "61a5abf485c0a20044ea6a16",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5060010,
+          "known_for_department": "Sound",
+          "name": "Gerry Jackman",
+          "original_name": "Gerry Jackman",
+          "popularity": 0.4661,
+          "profile_path": null,
+          "credit_id": "67368163ff85881393a0bf7c",
+          "department": "Sound",
+          "job": "Boom Operator"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "18A",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2000-09-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "6",
+              "descriptors": [],
+              "iso_639_1": "de",
+              "note": "",
+              "release_date": "2000-09-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2002-02-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "ES",
+          "title": "Voces de ángeles",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Gerüchte von Engeln",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,860 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/19654?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:00.080Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/bakOPWwFRnAqi5Iq5nUdDyBnJOt.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 19654,
+    "imdb_id": "tt0173906",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "L'Homme que j'aime",
+    "overview": "Martin está enamorado de Lucas, monitor de la piscina en la que trabajan. Pero no lo tendrá nada fácil, ya que éste es muy introvertido, vive con su novia Lisa y no reconoce su condición de gay. A pesar de todo Martin no se desanima, pues para él el tiempo y el amor son demasiado preciosos.",
+    "popularity": 2.4413,
+    "poster_path": "/3300ZzZ8SSh7ybhgdnadPqSfX7x.jpg",
+    "production_companies": [
+      {
+        "id": 8161,
+        "logo_path": "/vqB76m8bZtK9J0i01tzDfEPkfIv.png",
+        "name": "Ellipsanime Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 11332,
+        "logo_path": "/jL4OTBHDF4M6ZoG5ab4MPaXn3EW.png",
+        "name": "La Sept-Arte",
+        "origin_country": "FR"
+      },
+      {
+        "id": 106143,
+        "logo_path": null,
+        "name": "Onya Film Production",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "1997-12-05",
+    "revenue": 0,
+    "runtime": 87,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El hombre que yo amo",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 39,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 85015,
+          "known_for_department": "Acting",
+          "name": "Jean-Michel Portal",
+          "original_name": "Jean-Michel Portal",
+          "popularity": 0.3652,
+          "profile_path": "/8Nc84zuqxPzbw1Ukix9oQa48dKS.jpg",
+          "cast_id": 2,
+          "character": "Lucas",
+          "credit_id": "52fe47e89251416c750a9637",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 85016,
+          "known_for_department": "Acting",
+          "name": "Marcial Di Fonzo Bo",
+          "original_name": "Marcial Di Fonzo Bo",
+          "popularity": 0.3883,
+          "profile_path": "/74PcKog5zcqGBv6rvSCwvkavqbi.jpg",
+          "cast_id": 3,
+          "character": "Martin",
+          "credit_id": "52fe47e89251416c750a963b",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 48577,
+          "known_for_department": "Acting",
+          "name": "Mathilde Seigner",
+          "original_name": "Mathilde Seigner",
+          "popularity": 1.0952,
+          "profile_path": "/xtoetsP4yIHS7BtRRM9JOWmKm40.jpg",
+          "cast_id": 4,
+          "character": "Lise",
+          "credit_id": "52fe47e89251416c750a963f",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 85017,
+          "known_for_department": "Acting",
+          "name": "Vittoria Scognamiglio",
+          "original_name": "Vittoria Scognamiglio",
+          "popularity": 0.3306,
+          "profile_path": "/4fMlmEuNsD5QAihduimWvFSm00N.jpg",
+          "cast_id": 5,
+          "character": "Rose",
+          "credit_id": "52fe47e89251416c750a9643",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 85018,
+          "known_for_department": "Acting",
+          "name": "Jacques Hansen",
+          "original_name": "Jacques Hansen",
+          "popularity": 0.1802,
+          "profile_path": "/eDeB7nsdQuEKUcN2J7DRPe693iI.jpg",
+          "cast_id": 6,
+          "character": "Père de Lucas",
+          "credit_id": "52fe47e89251416c750a9647",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 85019,
+          "known_for_department": "Acting",
+          "name": "Stéphane Lévêque",
+          "original_name": "Stéphane Lévêque",
+          "popularity": 0.3823,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Mathieu",
+          "credit_id": "52fe47e89251416c750a964b",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 85020,
+          "known_for_department": "Acting",
+          "name": "Karim Lounis",
+          "original_name": "Karim Lounis",
+          "popularity": 0.1759,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Pablo",
+          "credit_id": "52fe47e89251416c750a964f",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 49277,
+          "known_for_department": "Acting",
+          "name": "Bernard Nissile",
+          "original_name": "Bernard Nissile",
+          "popularity": 1.7737,
+          "profile_path": "/7JXujcplJBmbT7wC0yG9wM9Aar9.jpg",
+          "cast_id": 9,
+          "character": "Millau",
+          "credit_id": "52fe47e89251416c750a9653",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 85021,
+          "known_for_department": "Acting",
+          "name": "Bruno Bonomo",
+          "original_name": "Bruno Bonomo",
+          "popularity": 1.436,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Prêtre",
+          "credit_id": "52fe47e89251416c750a9657",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 85013,
+          "known_for_department": "Directing",
+          "name": "Stéphane Giusti",
+          "original_name": "Stéphane Giusti",
+          "popularity": 0.3067,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Jérôme",
+          "credit_id": "52fe47e89251416c750a965b",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 85022,
+          "known_for_department": "Acting",
+          "name": "Benjamin Sanchiarelli",
+          "original_name": "Benjamin Sanchiarelli",
+          "popularity": 0.3287,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Enfant aux fleurs",
+          "credit_id": "52fe47e89251416c750a965f",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 85023,
+          "known_for_department": "Acting",
+          "name": "Serguei Tourountsev",
+          "original_name": "Serguei Tourountsev",
+          "popularity": 0.2146,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Doublure plongeon",
+          "credit_id": "52fe47e89251416c750a9663",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 85024,
+          "known_for_department": "Acting",
+          "name": "Nedjib Djebarri",
+          "original_name": "Nedjib Djebarri",
+          "popularity": 0.2642,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Enfant piscine 1",
+          "credit_id": "52fe47e89251416c750a9667",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 85025,
+          "known_for_department": "Acting",
+          "name": "Louis Philippe Lopez",
+          "original_name": "Louis Philippe Lopez",
+          "popularity": 0.3095,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Enfant piscine 2",
+          "credit_id": "52fe47e89251416c750a966b",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 85026,
+          "known_for_department": "Acting",
+          "name": "Elisabeth Giusti",
+          "original_name": "Elisabeth Giusti",
+          "popularity": 0.1697,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Infirmière Martin 1",
+          "credit_id": "52fe47e89251416c750a966f",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2075039,
+          "known_for_department": "Acting",
+          "name": "Véronique Aude",
+          "original_name": "Véronique Aude",
+          "popularity": 0.1607,
+          "profile_path": null,
+          "cast_id": 50,
+          "character": "Infirmière Martin 2",
+          "credit_id": "5b36b6170e0a263ff802e91c",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2075040,
+          "known_for_department": "Acting",
+          "name": "Natasha Solignac",
+          "original_name": "Natasha Solignac",
+          "popularity": 0.2373,
+          "profile_path": null,
+          "cast_id": 51,
+          "character": "Me Raspail",
+          "credit_id": "5b36b61f9251413c74031693",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1567607,
+          "known_for_department": "Acting",
+          "name": "Jean-Charles Fonti",
+          "original_name": "Jean-Charles Fonti",
+          "popularity": 0.2608,
+          "profile_path": null,
+          "cast_id": 52,
+          "character": "Voleur 1",
+          "credit_id": "5b36b6280e0a26401c032878",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2075042,
+          "known_for_department": "Acting",
+          "name": "Ali Hadsj",
+          "original_name": "Ali Hadsj",
+          "popularity": 0.3406,
+          "profile_path": null,
+          "cast_id": 53,
+          "character": "Voleur 2",
+          "credit_id": "5b36b6300e0a26400a031ee7",
+          "order": 18
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 85013,
+          "known_for_department": "Directing",
+          "name": "Stéphane Giusti",
+          "original_name": "Stéphane Giusti",
+          "popularity": 0.3067,
+          "profile_path": null,
+          "credit_id": "52fe47e89251416c750a9633",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19620,
+          "known_for_department": "Sound",
+          "name": "Nicolas Cantin",
+          "original_name": "Nicolas Cantin",
+          "popularity": 0.2445,
+          "profile_path": null,
+          "credit_id": "5b36b4619251413c66033ee9",
+          "department": "Sound",
+          "job": "Assistant Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2075029,
+          "known_for_department": "Lighting",
+          "name": "Eric Finoelst",
+          "original_name": "Eric Finoelst",
+          "popularity": 0.4263,
+          "profile_path": null,
+          "credit_id": "5b36b4b8c3a3685335030a46",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2075026,
+          "known_for_department": "Art",
+          "name": "Frédéric Vialle",
+          "original_name": "Frédéric Vialle",
+          "popularity": 0.151,
+          "profile_path": null,
+          "credit_id": "5b36b44dc3a368533a0214b8",
+          "department": "Art",
+          "job": "Set Dresser"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1950667,
+          "known_for_department": "Acting",
+          "name": "Joëlle Séraphine",
+          "original_name": "Joëlle Séraphine",
+          "popularity": 0.3376,
+          "profile_path": null,
+          "credit_id": "5b36b421c3a36853170357a9",
+          "department": "Crew",
+          "job": "Post Production Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1159690,
+          "known_for_department": "Editing",
+          "name": "Christian Dior",
+          "original_name": "Christian Dior",
+          "popularity": 0.3516,
+          "profile_path": null,
+          "credit_id": "5b36b489c3a3685337029c50",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2075025,
+          "known_for_department": "Art",
+          "name": "Cyril Maero",
+          "original_name": "Cyril Maero",
+          "popularity": 0.2705,
+          "profile_path": null,
+          "credit_id": "5b36b445c3a368531102df24",
+          "department": "Art",
+          "job": "Property Master"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2075038,
+          "known_for_department": "Camera",
+          "name": "Guillaume Schmidt",
+          "original_name": "Guillaume Schmidt",
+          "popularity": 0.1277,
+          "profile_path": null,
+          "credit_id": "5b36b4fbc3a36853260381db",
+          "department": "Camera",
+          "job": "Grip"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1547364,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Valérie Tranier",
+          "original_name": "Valérie Tranier",
+          "popularity": 0.4139,
+          "profile_path": null,
+          "credit_id": "5b36b3f5c3a368532f034474",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2075024,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Eric Rebupa",
+          "original_name": "Eric Rebupa",
+          "popularity": 0.2537,
+          "profile_path": null,
+          "credit_id": "5b36b3eec3a368531402988a",
+          "department": "Costume & Make-Up",
+          "job": "Hairstylist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2075032,
+          "known_for_department": "Camera",
+          "name": "Bertrand Parisot",
+          "original_name": "Bertrand Parisot",
+          "popularity": 0.1445,
+          "profile_path": null,
+          "credit_id": "5b36b4d29251413c70031346",
+          "department": "Camera",
+          "job": "Second Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 49873,
+          "known_for_department": "Editing",
+          "name": "Catherine Schwartz",
+          "original_name": "Catherine Schwartz",
+          "popularity": 1.1053,
+          "profile_path": null,
+          "credit_id": "5b36b3da9251413ca602376d",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1599802,
+          "known_for_department": "Visual Effects",
+          "name": "Didier Carteron",
+          "original_name": "Didier Carteron",
+          "popularity": 0.3112,
+          "profile_path": null,
+          "credit_id": "5b36b42b0e0a263ff602c12c",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2075022,
+          "known_for_department": "Production",
+          "name": "Michel Rivelin",
+          "original_name": "Michel Rivelin",
+          "popularity": 0.1335,
+          "profile_path": null,
+          "credit_id": "5b36b39dc3a368532002d160",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1266047,
+          "known_for_department": "Production",
+          "name": "Julie Flament",
+          "original_name": "Julie Flament",
+          "popularity": 0.7993,
+          "profile_path": null,
+          "credit_id": "5b36b564c3a368533202a9ee",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1558802,
+          "known_for_department": "Editing",
+          "name": "Alain Tortevoix",
+          "original_name": "Alain Tortevoix",
+          "popularity": 0.2703,
+          "profile_path": null,
+          "credit_id": "5b36b3a50e0a264002031232",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1524142,
+          "known_for_department": "Directing",
+          "name": "Frédérique Juhel",
+          "original_name": "Frédérique Juhel",
+          "popularity": 0.1192,
+          "profile_path": null,
+          "credit_id": "5b36b4349251413c8902b6c9",
+          "department": "Directing",
+          "job": "Second Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1187095,
+          "known_for_department": "Crew",
+          "name": "Jacques Bouquin",
+          "original_name": "Jacques Bouquin",
+          "popularity": 0.2086,
+          "profile_path": null,
+          "credit_id": "5b36b4ad0e0a26400203135f",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2075030,
+          "known_for_department": "Lighting",
+          "name": "Thierry Labille",
+          "original_name": "Thierry Labille",
+          "popularity": 0.3187,
+          "profile_path": null,
+          "credit_id": "5b36b4c09251413c66033f31",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2075033,
+          "known_for_department": "Camera",
+          "name": "Michel Revest",
+          "original_name": "Michel Revest",
+          "popularity": 0.4101,
+          "profile_path": null,
+          "credit_id": "5b36b4dc0e0a264014034041",
+          "department": "Camera",
+          "job": "First Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2075036,
+          "known_for_department": "Lighting",
+          "name": "Nectar Saroukos",
+          "original_name": "Nectar Saroukos",
+          "popularity": 0.3939,
+          "profile_path": null,
+          "credit_id": "5b36b4ea9251413ca002c72c",
+          "department": "Lighting",
+          "job": "Electrician"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2075031,
+          "known_for_department": "Camera",
+          "name": "Georges Meran",
+          "original_name": "Georges Meran",
+          "popularity": 0.1864,
+          "profile_path": null,
+          "credit_id": "5b36b4c90e0a2640040307b2",
+          "department": "Camera",
+          "job": "Still Photographer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2075034,
+          "known_for_department": "Lighting",
+          "name": "Stéphane Rochera",
+          "original_name": "Stéphane Rochera",
+          "popularity": 0.2817,
+          "profile_path": null,
+          "credit_id": "5b36b4e30e0a264016032850",
+          "department": "Lighting",
+          "job": "Electrician"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 85013,
+          "known_for_department": "Directing",
+          "name": "Stéphane Giusti",
+          "original_name": "Stéphane Giusti",
+          "popularity": 0.3067,
+          "profile_path": null,
+          "credit_id": "5b36b3760e0a26401a02b021",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1151805,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Catherine Rigault",
+          "original_name": "Catherine Rigault",
+          "popularity": 0.3097,
+          "profile_path": null,
+          "credit_id": "5b36b3e4c3a368532c0354f0",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 19061,
+          "known_for_department": "Sound",
+          "name": "Laurent Lévy",
+          "original_name": "Laurent Lévy",
+          "popularity": 0.8108,
+          "profile_path": "/sWaxX1sPC7ZuAKIQo2ZDv6Jf6Qb.jpg",
+          "credit_id": "5b36b4920e0a26400403077d",
+          "department": "Sound",
+          "job": "Foley Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2075028,
+          "known_for_department": "Camera",
+          "name": "Joseph Areddy",
+          "original_name": "Joseph Areddy",
+          "popularity": 0.3024,
+          "profile_path": "/kvELISPs3cilffYoSXJs5mJ0yAc.jpg",
+          "credit_id": "5b36b4a59251413c8202818a",
+          "department": "Camera",
+          "job": "First Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1402253,
+          "known_for_department": "Camera",
+          "name": "Roland Savoye",
+          "original_name": "Roland Savoye",
+          "popularity": 0.1328,
+          "profile_path": null,
+          "credit_id": "5b36b4f20e0a263ff0033630",
+          "department": "Camera",
+          "job": "Underwater Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 85026,
+          "known_for_department": "Acting",
+          "name": "Elisabeth Giusti",
+          "original_name": "Elisabeth Giusti",
+          "popularity": 0.1697,
+          "profile_path": null,
+          "credit_id": "5b36b4139251413c700312a0",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2075027,
+          "known_for_department": "Sound",
+          "name": "Nathalie Vidal",
+          "original_name": "Nathalie Vidal",
+          "popularity": 0.7314,
+          "profile_path": null,
+          "credit_id": "5b36b49b9251413c8902b70d",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 108844,
+          "known_for_department": "Sound",
+          "name": "Lazare Boghossian",
+          "original_name": "Lazare Boghossian",
+          "popularity": 0.2556,
+          "profile_path": null,
+          "credit_id": "5b36b3aec3a3685314029840",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1943297,
+          "known_for_department": "Sound",
+          "name": "Carole Verner",
+          "original_name": "Carole Verner",
+          "popularity": 0.3093,
+          "profile_path": null,
+          "credit_id": "5b36b547c3a36853170358e9",
+          "department": "Editing",
+          "job": "Assistant Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1566737,
+          "known_for_department": "Directing",
+          "name": "Barbara Constantine",
+          "original_name": "Barbara Constantine",
+          "popularity": 0.1344,
+          "profile_path": null,
+          "credit_id": "5b36b55a0e0a2640020313fd",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1187095,
+          "known_for_department": "Crew",
+          "name": "Jacques Bouquin",
+          "original_name": "Jacques Bouquin",
+          "popularity": 0.2086,
+          "profile_path": null,
+          "credit_id": "5fee92de60620a003c402092",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1997-12-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1997-12-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2001-04-27T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "The Man I Love",
+          "type": "English title"
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Der Mann meines Herzens",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PL",
+          "title": "Mezczyzna, którego kocham",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "RS",
+          "title": "Čovek koga volim",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "RU",
+          "title": "Мужчина, которого я люблю",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

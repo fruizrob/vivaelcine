@@ -1,0 +1,173 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/860923?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:29.911Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 860923,
+    "imdb_id": null,
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "The Four Seasons Restaurant",
+    "overview": "",
+    "popularity": 1.5172,
+    "poster_path": "/mxE8rjMiZYlruY2yAjUvI1Pjp5Y.jpg",
+    "production_companies": [
+      {
+        "id": 158986,
+        "logo_path": null,
+        "name": "Socíetas Raffaello Sanzio",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2012-07-17",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Four Seasons Restaurant",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 124759,
+          "known_for_department": "Acting",
+          "name": "Alice Torriani",
+          "original_name": "Alice Torriani",
+          "popularity": 0.3538,
+          "profile_path": "/wv5PQp6CNLJGq2M3ShwR2ulb0Lj.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "611606463a9937002825e36c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5909133,
+          "known_for_department": "Acting",
+          "name": "Irene Petris",
+          "original_name": "Irene Petris",
+          "popularity": 1.1984,
+          "profile_path": "/lvNKMycbxv6yv2QKPyltLeIfJpW.jpg",
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "697008a257783fe5f696255a",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1662000,
+          "known_for_department": "Art",
+          "name": "Silvia Costa",
+          "original_name": "Silvia Costa",
+          "popularity": 0.512,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "697008c42aade342f8fe13fe",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2701099,
+          "known_for_department": "Acting",
+          "name": "Scott Gibbons",
+          "original_name": "Scott Gibbons",
+          "popularity": 0.2903,
+          "profile_path": null,
+          "credit_id": "6116057e957e6d005c82446b",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1525728,
+          "known_for_department": "Directing",
+          "name": "Romeo Castellucci",
+          "original_name": "Romeo Castellucci",
+          "popularity": 0.3727,
+          "profile_path": "/1EDH1YiA5FS1JkPuD63s7qUOom5.jpg",
+          "credit_id": "66f99bd61a9c9188fecc685b",
+          "department": "Directing",
+          "job": "Stage Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1525728,
+          "known_for_department": "Directing",
+          "name": "Romeo Castellucci",
+          "original_name": "Romeo Castellucci",
+          "popularity": 0.3727,
+          "profile_path": "/1EDH1YiA5FS1JkPuD63s7qUOom5.jpg",
+          "credit_id": "66f99bde621e8616b45f843d",
+          "department": "Writing",
+          "job": "Theatre Play"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1525728,
+          "known_for_department": "Directing",
+          "name": "Romeo Castellucci",
+          "original_name": "Romeo Castellucci",
+          "popularity": 0.3727,
+          "profile_path": "/1EDH1YiA5FS1JkPuD63s7qUOom5.jpg",
+          "credit_id": "6a3cbd2d2b98bc5154823a89",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "el",
+              "note": "",
+              "release_date": "2012-07-17T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/636015?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:54.325Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 636015,
+    "imdb_id": null,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Casino, La lucha",
+    "overview": "Casino refleja la inmensa lucha llevada adelante por más de seiscientos jóvenes que luego de sufrir la irrupción de una patota contratada por la empresa, y de los bastonazos de la Prefectura, se vieron obligados a defender su puesto de trabajo en varios puntos de la Capital Federal, con epicentro en el exclusivo barrio de Puerto Madero.  Con el transcurrir de los minutos, Casino muestra la complicidad de todos los agentes interesados en destruir todo tipo de organización de los trabajadores dentro del ámbito laboral y fuera, de él por parte del gobierno.",
+    "popularity": 0.1473,
+    "poster_path": "/cbeIPf6uljqvtfxg3BzjHoMADKr.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2008-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Casino, La lucha",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2423297,
+          "known_for_department": "Directing",
+          "name": "Grupo Ojo Obrero",
+          "original_name": "Grupo Ojo Obrero",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "5d9444d8a06efe00125b00f4",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2008-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

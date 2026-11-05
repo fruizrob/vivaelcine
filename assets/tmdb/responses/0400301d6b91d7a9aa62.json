@@ -1,0 +1,185 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/763238?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:54.175Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 763238,
+    "imdb_id": null,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Animales Extintos",
+    "overview": "",
+    "popularity": 1.4681,
+    "poster_path": "/jGIrI2oOHJeUYggnefEZSySzakB.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "2020-06-16",
+    "revenue": 0,
+    "runtime": 13,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Animales Extintos",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1966008,
+          "known_for_department": "Acting",
+          "name": "Lux Pascal",
+          "original_name": "Lux Pascal",
+          "popularity": 1.0362,
+          "profile_path": "/Yxf9KXHd2rGcsOGMpj26xxu5fn.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5fac3c99b7a1540041cdf195",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1991324,
+          "known_for_department": "Acting",
+          "name": "Juan Carlos Maldonado",
+          "original_name": "Juan Carlos Maldonado",
+          "popularity": 0.1958,
+          "profile_path": "/p1xJcxXbBXsrsEjgTZjWvnGI9B0.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5fac3ca3bd101e004029ea90",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2008454,
+          "known_for_department": "Acting",
+          "name": "Nicolás Rojas",
+          "original_name": "Nicolás Rojas",
+          "popularity": 0.6448,
+          "profile_path": "/wtA12hR8KUQYu3O3zYVxXxJR0vr.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "5fac3cb2d55c3d0043d1c2de",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2852707,
+          "known_for_department": "Acting",
+          "name": "Jacob Reyes",
+          "original_name": "Jacob Reyes",
+          "popularity": 0.4008,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "5fac3cbbd1ca2a0040a05753",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2022455,
+          "known_for_department": "Directing",
+          "name": "Lucas Quintana",
+          "original_name": "Lucas Quintana",
+          "popularity": 0.5145,
+          "profile_path": null,
+          "credit_id": "5fac3cece63571003e2cc78a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2022455,
+          "known_for_department": "Directing",
+          "name": "Lucas Quintana",
+          "original_name": "Lucas Quintana",
+          "popularity": 0.5145,
+          "profile_path": null,
+          "credit_id": "5fac3cf36cf3d5004116e0c5",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2852708,
+          "known_for_department": "Writing",
+          "name": "Sebastián Gallardo",
+          "original_name": "Sebastián Gallardo",
+          "popularity": 0.2067,
+          "profile_path": null,
+          "credit_id": "5fac3d0233a5330041b969df",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2022455,
+          "known_for_department": "Directing",
+          "name": "Lucas Quintana",
+          "original_name": "Lucas Quintana",
+          "popularity": 0.5145,
+          "profile_path": null,
+          "credit_id": "5fac3d10d1ca2a003fa04dd0",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Palm Springs International Shortfest",
+              "release_date": "2020-06-16T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

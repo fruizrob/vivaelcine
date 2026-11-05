@@ -1,0 +1,342 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1676973?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:15.759Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/ay8cxYGXyjzLfQuqjq7lzudaUlZ.jpg",
+    "belongs_to_collection": null,
+    "budget": 200,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 1676973,
+    "imdb_id": "tt41918764",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Iris Replica",
+    "overview": "",
+    "popularity": 1.3819,
+    "poster_path": "/ta0Pu0fNRCv6O9Y1ysuMkQ8VpUJ.jpg",
+    "production_companies": [
+      {
+        "id": 295942,
+        "logo_path": "/tvm6NCaRSJhLuCzjtWKQRgB4rk7.png",
+        "name": "Dovetail Productions",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2026-06-12",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Iris Replica",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6206386,
+          "known_for_department": "Acting",
+          "name": "Sophia Kadi",
+          "original_name": "Sophia Kadi",
+          "popularity": 0.2201,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "August",
+          "credit_id": "6a02364d07153402033a7f2f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6206387,
+          "known_for_department": "Acting",
+          "name": "Kyla Tidiman",
+          "original_name": "Kyla Tidiman",
+          "popularity": 0.2114,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Louise",
+          "credit_id": "6a02365997b5662477e15343",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6206408,
+          "known_for_department": "Acting",
+          "name": "Tom Newman",
+          "original_name": "Tom Newman",
+          "popularity": 0.2016,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Tommy",
+          "credit_id": "6a02375d97b5662477e153ac",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6153933,
+          "known_for_department": "Directing",
+          "name": "Vin Chapman",
+          "original_name": "Vin Chapman",
+          "popularity": 0.2892,
+          "profile_path": null,
+          "credit_id": "69e546086a4c66b0db549e1e",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6153934,
+          "known_for_department": "Camera",
+          "name": "Matt Sanderson",
+          "original_name": "Matt Sanderson",
+          "popularity": 0.1238,
+          "profile_path": "/34B3v4aI6FnE7zKh0tZgf1BwR4R.jpg",
+          "credit_id": "69e54634fae2f80c3280284b",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6153935,
+          "known_for_department": "Writing",
+          "name": "Sofia Filippi Plaza",
+          "original_name": "Sofia Filippi Plaza",
+          "popularity": 0.4756,
+          "profile_path": "/3XngoaIJ4ZuGsio6m1K72wYGj6Y.jpg",
+          "credit_id": "69e5464bb88cc1d5a1520b0d",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6155302,
+          "known_for_department": "Camera",
+          "name": "Phoebe King",
+          "original_name": "Phoebe King",
+          "popularity": 0.1002,
+          "profile_path": null,
+          "credit_id": "69e6273f2668664f4afb99d8",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6155294,
+          "known_for_department": "Writing",
+          "name": "Hannah Cole",
+          "original_name": "Hannah Cole",
+          "popularity": 0.3496,
+          "profile_path": null,
+          "credit_id": "69e6278fff2cfd58e584f87a",
+          "department": "Lighting",
+          "job": "Lighting Technician"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6155292,
+          "known_for_department": "Directing",
+          "name": "Finbar Pepper",
+          "original_name": "Finbar Pepper",
+          "popularity": 0.481,
+          "profile_path": null,
+          "credit_id": "69e627a151127d18866930ae",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 89820,
+          "known_for_department": "Acting",
+          "name": "April Pearson",
+          "original_name": "April Pearson",
+          "popularity": 0.9137,
+          "profile_path": "/vptBwdDVfwj6qN9NCeclo89fkgY.jpg",
+          "credit_id": "69e627d38a86e7a31854a320",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6155304,
+          "known_for_department": "Production",
+          "name": "Theo Christiansen",
+          "original_name": "Theo Christiansen",
+          "popularity": 0.095,
+          "profile_path": null,
+          "credit_id": "69eb97d6dd8e1736a1150028",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6165266,
+          "known_for_department": "Art",
+          "name": "Leona Schor",
+          "original_name": "Leona Schor",
+          "popularity": 0.1232,
+          "profile_path": null,
+          "credit_id": "69eb97df9d7659e7b80285de",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6165224,
+          "known_for_department": "Directing",
+          "name": "Romy Carter",
+          "original_name": "Romy Carter",
+          "popularity": 0.2789,
+          "profile_path": "/whxCmXxi1VzZptdeqQV8U7Ua7g5.jpg",
+          "credit_id": "69eb97e9dd8e1736a115002b",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6165262,
+          "known_for_department": "Lighting",
+          "name": "Jack Mercer",
+          "original_name": "Jack Mercer",
+          "popularity": 0.1284,
+          "profile_path": null,
+          "credit_id": "69eb980669347e95dd6b1046",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6153935,
+          "known_for_department": "Writing",
+          "name": "Sofia Filippi Plaza",
+          "original_name": "Sofia Filippi Plaza",
+          "popularity": 0.4756,
+          "profile_path": "/3XngoaIJ4ZuGsio6m1K72wYGj6Y.jpg",
+          "credit_id": "69eb9827914645f04a15005c",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6165255,
+          "known_for_department": "Art",
+          "name": "Edie West",
+          "original_name": "Edie West",
+          "popularity": 0.1364,
+          "profile_path": null,
+          "credit_id": "69eb98328179458295dc777f",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6248607,
+          "known_for_department": "Sound",
+          "name": "Tabitha Hayward",
+          "original_name": "Tabitha Hayward",
+          "popularity": 0.1151,
+          "profile_path": null,
+          "credit_id": "6a1984a5b3c735182b744fe0",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6248609,
+          "known_for_department": "Art",
+          "name": "Panjivo Thongtan",
+          "original_name": "Panjivo Thongtan",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6a19850441b435835b6a07d6",
+          "department": "Art",
+          "job": "Property Graphic Designer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6165224,
+          "known_for_department": "Directing",
+          "name": "Romy Carter",
+          "original_name": "Romy Carter",
+          "popularity": 0.2789,
+          "profile_path": "/whxCmXxi1VzZptdeqQV8U7Ua7g5.jpg",
+          "credit_id": "6a1985515cdd64c9301cce77",
+          "department": "Production",
+          "job": "Producer's Assistant"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-06-12T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

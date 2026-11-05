@@ -1,0 +1,47 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=AMOR+ES+EL+MONSTRUO&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:53.871Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/yHlSZVASeY3NC7fH5Lu8PHesYsv.jpg",
+        "genre_ids": [
+          53
+        ],
+        "id": 1504211,
+        "title": "Amor es el monstruo",
+        "original_language": "es",
+        "original_title": "Amor es el monstruo",
+        "overview": "En un mundo distópico marcado por la desigualdad y la violencia cotidiana, una abuela está decidida a aprovechar al máximo el tiempo que le queda con su nieta. Pero a medida que una serie de acontecimientos las empujan hacia un peligro cada vez mayor, el amor y el miedo comienzan a confundirse, obligándola a cruzar límites que jamás imaginó.",
+        "popularity": 1.455,
+        "poster_path": "/s3EKMbyVzqyMYFqqN6TeqGmOi1S.jpg",
+        "release_date": "2026-09-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1037400,
+        "title": "Amor es el monstruo - Short Film",
+        "original_language": "es",
+        "original_title": "Amor es el monstruo - Short Film",
+        "overview": "",
+        "popularity": 1.1278,
+        "poster_path": "/evQsfilKFktUGvlowiG8G7W9kRV.jpg",
+        "release_date": "2022-10-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  }
+}

@@ -1,0 +1,658 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/545925?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:12.654Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/fABfnFOikIuaCIbKsEfe737BKkz.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 545925,
+    "imdb_id": "tt8747308",
+    "origin_country": [
+      "NL"
+    ],
+    "original_language": "nl",
+    "original_title": "Baantjer: Het Begin",
+    "overview": "Un reajuste de la popular serie de televisión holandesa Baantjer. El detective novato Jurre de Cock se une a la fuerza policial de Amsterdam en 1980, una semana antes de la coronación de la nueva Reina de los Países Bajos. Después de que encuentra el cuerpo de un informante desconocido en uno de los canales de la ciudad, él y su compañero Montijn se ven envueltos en una conspiración que involucra a ocupantes ilegales, narcotraficantes belgas y un posible ataque terrorista el día de la coronación.",
+    "popularity": 0.9388,
+    "poster_path": "/36Q73QiHIjPjzPvA1HuYSIdfiFb.jpg",
+    "production_companies": [
+      {
+        "id": 12118,
+        "logo_path": "/iePmWNWpZO0GAfvrXukWgefbYyO.png",
+        "name": "Millstreet Films",
+        "origin_country": "NL"
+      },
+      {
+        "id": 37337,
+        "logo_path": "/fzazAbAURS3TfvByHePSl80OgWB.png",
+        "name": "FBO",
+        "origin_country": "BE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "release_date": "2019-04-18",
+    "revenue": 0,
+    "runtime": 111,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Dutch",
+        "iso_639_1": "nl",
+        "name": "Nederlands"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Baantjer The beginning",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 34,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 87675,
+          "known_for_department": "Acting",
+          "name": "Waldemar Torenstra",
+          "original_name": "Waldemar Torenstra",
+          "popularity": 0.35,
+          "profile_path": "/1Vcv7QE19LJPV2m1gd7ZL3351BJ.jpg",
+          "cast_id": 0,
+          "character": "Jurre de Cock",
+          "credit_id": "5b8abe519251415197017fbb",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 43646,
+          "known_for_department": "Acting",
+          "name": "Tygo Gernandt",
+          "original_name": "Tygo Gernandt",
+          "popularity": 0.5553,
+          "profile_path": "/8hz3XHqKo97jqZndXzQC0GbnWuY.jpg",
+          "cast_id": 1,
+          "character": "Tonnie Montijn",
+          "credit_id": "5b8abe5fc3a36851fd01c4f2",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 52168,
+          "known_for_department": "Acting",
+          "name": "Lisa Smit",
+          "original_name": "Lisa Smit",
+          "popularity": 0.4264,
+          "profile_path": "/mLp7JVqi8EcA0y19uypzc1RmNqu.jpg",
+          "cast_id": 15,
+          "character": "Pien Montijn",
+          "credit_id": "5bc627e392514179c1075113",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 45754,
+          "known_for_department": "Acting",
+          "name": "Fedja van Huêt",
+          "original_name": "Fedja van Huêt",
+          "popularity": 1.3311,
+          "profile_path": "/fIN5xMtn1B7XD0HD5Qqg6uZIDd8.jpg",
+          "cast_id": 11,
+          "character": "Bob Donkers",
+          "credit_id": "5bacf54692514150ee037a23",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 587415,
+          "known_for_department": "Acting",
+          "name": "Robert de Hoog",
+          "original_name": "Robert de Hoog",
+          "popularity": 0.4807,
+          "profile_path": "/5EyBuILpK61Krxiaq4GkeMNTWlU.jpg",
+          "cast_id": 17,
+          "character": "Siem Looder",
+          "credit_id": "5bc627f692514179c107512d",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 91353,
+          "known_for_department": "Acting",
+          "name": "Ruben van der Meer",
+          "original_name": "Ruben van der Meer",
+          "popularity": 1.0407,
+          "profile_path": "/93zSUBMW63ACJhm2TyF7uE3zrmh.jpg",
+          "cast_id": 13,
+          "character": "Detective van Kemenade",
+          "credit_id": "5bc627cc0e0a266e57081c7d",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 91352,
+          "known_for_department": "Acting",
+          "name": "Horace Cohen",
+          "original_name": "Horace Cohen",
+          "popularity": 0.4087,
+          "profile_path": "/rJHjVLYrikvzabT4HWychfHmiIb.jpg",
+          "cast_id": 14,
+          "character": "Detective Baks",
+          "credit_id": "5bc627da0e0a266e6b07df74",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 1388527,
+          "known_for_department": "Acting",
+          "name": "Raven van Dorst",
+          "original_name": "Raven van Dorst",
+          "popularity": 0.2037,
+          "profile_path": "/5HfJqRWPvv3jUW8Sj0XsrTEQltL.jpg",
+          "cast_id": 12,
+          "character": "Dr. Rusteloos",
+          "credit_id": "5bacf551c3a3683aaa03ef30",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 90978,
+          "known_for_department": "Acting",
+          "name": "Jelka van Houten",
+          "original_name": "Jelka van Houten",
+          "popularity": 0.5455,
+          "profile_path": "/ku5tSDws9h8Aek1f6SIfJf3yVtG.jpg",
+          "cast_id": 10,
+          "character": "Wachtcommandant Selma",
+          "credit_id": "5bacf53bc3a3683a9704164a",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 27883,
+          "known_for_department": "Acting",
+          "name": "Loes Luca",
+          "original_name": "Loes Luca",
+          "popularity": 0.328,
+          "profile_path": "/oljuHwFzzwowpdBsJdgoakniRKM.jpg",
+          "cast_id": 16,
+          "character": "Louise Montijn",
+          "credit_id": "5bc627ecc3a368110900f08a",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1108176,
+          "known_for_department": "Acting",
+          "name": "Tim Murck",
+          "original_name": "Tim Murck",
+          "popularity": 0.2368,
+          "profile_path": "/7l2Oo0VkQhrLQPnoJnUtrKBkzFT.jpg",
+          "cast_id": 31,
+          "character": "Jesse Schippers",
+          "credit_id": "5e0b62016082eb00168186b5",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 88158,
+          "known_for_department": "Acting",
+          "name": "Peter Bolhuis",
+          "original_name": "Peter Bolhuis",
+          "popularity": 0.308,
+          "profile_path": "/g0WdBRtCMEtxXzVirBFwutTbk5w.jpg",
+          "cast_id": 32,
+          "character": "Police Chief",
+          "credit_id": "5e0b622566540800113da0b1",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1077771,
+          "known_for_department": "Acting",
+          "name": "Juda Goslinga",
+          "original_name": "Juda Goslinga",
+          "popularity": 0.7041,
+          "profile_path": "/iBv53tGePT2q777wotMRNEDMoif.jpg",
+          "cast_id": 33,
+          "character": "Lowietje",
+          "credit_id": "5e0b628f96033100140486a0",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1439988,
+          "known_for_department": "Acting",
+          "name": "Tom Vermeir",
+          "original_name": "Tom Vermeir",
+          "popularity": 0.4382,
+          "profile_path": "/3sX6JZ1KRdUcWSraAr4ACRieu9M.jpg",
+          "cast_id": 34,
+          "character": "Seppe Brunae",
+          "credit_id": "5e0b62bc6082eb001681872f",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1563277,
+          "known_for_department": "Acting",
+          "name": "Hélène De Vos",
+          "original_name": "Hélène De Vos",
+          "popularity": 0.2962,
+          "profile_path": "/4e2d8zUCXk80uc0hmkz3T2IaG6q.jpg",
+          "cast_id": 35,
+          "character": "Kitty",
+          "credit_id": "5e0b62d26082eb0016818759",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1961320,
+          "known_for_department": "Acting",
+          "name": "Ruud Smulders",
+          "original_name": "Ruud Smulders",
+          "popularity": 0.4389,
+          "profile_path": "/dvq6nAqGHE84qbdT1bq32oUcFl8.jpg",
+          "cast_id": 36,
+          "character": "Thierry Lejeune",
+          "credit_id": "673b5dd0dc4bbc01c691ea23",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6108908,
+          "known_for_department": "Acting",
+          "name": "Mark Baars",
+          "original_name": "Mark Baars",
+          "popularity": 0.1225,
+          "profile_path": "/cv6KLBwi3vHO1BeC6HZcahiYyRB.jpg",
+          "cast_id": 37,
+          "character": "Agent bureau Warmoesstraat",
+          "credit_id": "69d16667115ee4c3a84d2fbc",
+          "order": 16
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 230965,
+          "known_for_department": "Directing",
+          "name": "Arne Toonen",
+          "original_name": "Arne Toonen",
+          "popularity": 0.9307,
+          "profile_path": "/k32O0uCw1TJqq7gEG65mKwoDS4V.jpg",
+          "credit_id": "5b8abe9b925141518a01964d",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 91348,
+          "known_for_department": "Acting",
+          "name": "Thijs Römer",
+          "original_name": "Thijs Römer",
+          "popularity": 0.44,
+          "profile_path": "/l7QJDLUajLw9C7dMDf69aGQVRdx.jpg",
+          "credit_id": "5b8abead0e0a261d6e01c832",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 211186,
+          "known_for_department": "Acting",
+          "name": "Peter Römer",
+          "original_name": "Peter Römer",
+          "popularity": 0.2226,
+          "profile_path": "/e6u5Rk2PzgGA09h6EYJ49sHlNj3.jpg",
+          "credit_id": "5b8abebd925141519b0182cb",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 221028,
+          "known_for_department": "Writing",
+          "name": "Carl Joos",
+          "original_name": "Carl Joos",
+          "popularity": 0.3119,
+          "profile_path": null,
+          "credit_id": "5b8abec9c3a368520f01b75d",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 91348,
+          "known_for_department": "Acting",
+          "name": "Thijs Römer",
+          "original_name": "Thijs Römer",
+          "popularity": 0.44,
+          "profile_path": "/l7QJDLUajLw9C7dMDf69aGQVRdx.jpg",
+          "credit_id": "5b8abed5c3a368520c01c4e1",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1126740,
+          "known_for_department": "Production",
+          "name": "Rachel van Bommel",
+          "original_name": "Rachel van Bommel",
+          "popularity": 0.3322,
+          "profile_path": "/71pqfDiW42evLIj5Sf2U5VPSJGP.jpg",
+          "credit_id": "5b8abf00c3a368520601d1e7",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1108177,
+          "known_for_department": "Writing",
+          "name": "Willem Bosch",
+          "original_name": "Willem Bosch",
+          "popularity": 0.3206,
+          "profile_path": null,
+          "credit_id": "5e0b5e72be6d88001301697e",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1077763,
+          "known_for_department": "Production",
+          "name": "Job Castelijn",
+          "original_name": "Job Castelijn",
+          "popularity": 0.2679,
+          "profile_path": null,
+          "credit_id": "5e0b5e8b66540800133db579",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1490312,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Marion Boot",
+          "original_name": "Marion Boot",
+          "popularity": 0.2602,
+          "profile_path": null,
+          "credit_id": "5e0b5eaf66540800113d9be5",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2494135,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Evelien Klein Gebbink",
+          "original_name": "Evelien Klein Gebbink",
+          "popularity": 0.2252,
+          "profile_path": null,
+          "credit_id": "5e0b5ece1da7a600121b209d",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1371205,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Marleen Holthuis",
+          "original_name": "Marleen Holthuis",
+          "popularity": 0.3013,
+          "profile_path": null,
+          "credit_id": "5e0b5f01595a560015155e9d",
+          "department": "Costume & Make-Up",
+          "job": "Makeup & Hair"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1908993,
+          "known_for_department": "Sound",
+          "name": "Joris Oonk",
+          "original_name": "Joris Oonk",
+          "popularity": 0.1745,
+          "profile_path": null,
+          "credit_id": "5e0b5f769369a2001891da06",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1047474,
+          "known_for_department": "Art",
+          "name": "Kurt Loyens",
+          "original_name": "Kurt Loyens",
+          "popularity": 0.2197,
+          "profile_path": null,
+          "credit_id": "5e0b5f95be6d8800160189ab",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1263797,
+          "known_for_department": "Sound",
+          "name": "Herman Pieëte",
+          "original_name": "Herman Pieëte",
+          "popularity": 0.3252,
+          "profile_path": null,
+          "credit_id": "5e0b601b595a56001515609e",
+          "department": "Sound",
+          "job": "Sound Re-Recording Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1487612,
+          "known_for_department": "Sound",
+          "name": "Erik Griekspoor",
+          "original_name": "Erik Griekspoor",
+          "popularity": 0.7897,
+          "profile_path": null,
+          "credit_id": "5e0b6035d5dbc20018fd85b5",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1059888,
+          "known_for_department": "Editing",
+          "name": "Marc Bechtold",
+          "original_name": "Marc Bechtold",
+          "popularity": 0.1202,
+          "profile_path": null,
+          "credit_id": "5e0b60561da7a600171ad8b6",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1478187,
+          "known_for_department": "Camera",
+          "name": "Jeroen de Bruin",
+          "original_name": "Jeroen de Bruin",
+          "popularity": 0.3441,
+          "profile_path": null,
+          "credit_id": "5e0b60797a1bd600120acce7",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 117216,
+          "known_for_department": "Production",
+          "name": "Berry van Zwieten",
+          "original_name": "Berry van Zwieten",
+          "popularity": 0.1701,
+          "profile_path": null,
+          "credit_id": "5e0b60f3d5dbc20013fd67af",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 69915,
+          "known_for_department": "Production",
+          "name": "Hilde De Laere",
+          "original_name": "Hilde De Laere",
+          "popularity": 0.3576,
+          "profile_path": null,
+          "credit_id": "5e0b6108be6d880011019c33",
+          "department": "Production",
+          "job": "Co-Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BE",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-04-18T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2022-09-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-04-18T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DVD, Blu ray",
+              "release_date": "2019-09-04T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "RTL4",
+              "release_date": "2019-12-30T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RO",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-04-18T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "GB",
+          "title": "Baantjer the Beginning",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "NL",
+          "title": "Baantjer: Het Begin",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "Amsterdam Vice",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

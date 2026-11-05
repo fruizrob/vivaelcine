@@ -1,0 +1,443 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/874511?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:05.725Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/hZG53e1esFlW7CqFdMys6lfOOew.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "http://suicafilms.com/film/domingo-domingo",
+    "id": 874511,
+    "imdb_id": "tt23221304",
+    "origin_country": [
+      "LT",
+      "ES"
+    ],
+    "original_language": "ca",
+    "original_title": "Domingo Domingo",
+    "overview": "Domingo Domingo, un ingenioso cultivador de naranjas valenciano, intenta plantar cara a las multinacionales que oprimen a los humildes trabajadores de la tierra.",
+    "popularity": 1.5603,
+    "poster_path": "/8xkTYgSXEdVw7Tj3HNSMOEbgeUE.jpg",
+    "production_companies": [
+      {
+        "id": 109457,
+        "logo_path": "/pYEbj8odvX8Yckezf2XZQuDuouj.png",
+        "name": "Suica Films",
+        "origin_country": "ES"
+      },
+      {
+        "id": 109456,
+        "logo_path": null,
+        "name": "Studio Nominum",
+        "origin_country": "LT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      },
+      {
+        "iso_3166_1": "LT",
+        "name": "Lithuania"
+      }
+    ],
+    "release_date": "2023-03-05",
+    "revenue": 0,
+    "runtime": 72,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Catalan",
+        "iso_639_1": "ca",
+        "name": "Català"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Domingo Domingo",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4109472,
+          "known_for_department": "Acting",
+          "name": "Domingo Domingo Vilar",
+          "original_name": "Domingo Domingo Vilar",
+          "popularity": 0.4284,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Self",
+          "credit_id": "64885e4d99259c00c5b64157",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4109469,
+          "known_for_department": "Acting",
+          "name": "Vicent Molés García",
+          "original_name": "Vicent Molés García",
+          "popularity": 0.2797,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Self",
+          "credit_id": "64885e416f8d9501023db832",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4109473,
+          "known_for_department": "Acting",
+          "name": "Carles Peris Ramos",
+          "original_name": "Carles Peris Ramos",
+          "popularity": 0.243,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Self",
+          "credit_id": "64885e5499259c00acce6dce",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4109474,
+          "known_for_department": "Acting",
+          "name": "José Silvestre Vilar",
+          "original_name": "José Silvestre Vilar",
+          "popularity": 0.4683,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Self",
+          "credit_id": "64885e5ae27260010723e32f",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3235426,
+          "known_for_department": "Directing",
+          "name": "Laura García Andreu",
+          "original_name": "Laura García Andreu",
+          "popularity": 0.3242,
+          "profile_path": "/d0XYBaTkwPSBdeEyIrQTcxXGfie.jpg",
+          "credit_id": "6141d6779a3c490043d07c14",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 550068,
+          "known_for_department": "Directing",
+          "name": "Arūnas Matelis",
+          "original_name": "Arūnas Matelis",
+          "popularity": 0.3275,
+          "profile_path": "/oIZZkntuWV2YhAWOW1XAUFUxEfF.jpg",
+          "credit_id": "64885e22bf31f25054b78bfc",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3235426,
+          "known_for_department": "Directing",
+          "name": "Laura García Andreu",
+          "original_name": "Laura García Andreu",
+          "popularity": 0.3242,
+          "profile_path": "/d0XYBaTkwPSBdeEyIrQTcxXGfie.jpg",
+          "credit_id": "64885e2c99259c00e2f6b473",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2203962,
+          "known_for_department": "Camera",
+          "name": "José Luis González Iglesias",
+          "original_name": "José Luis González Iglesias",
+          "popularity": 0.474,
+          "profile_path": null,
+          "credit_id": "64c326d9028f14010fcd7683",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2278210,
+          "known_for_department": "Production",
+          "name": "Algimantė Matelienė",
+          "original_name": "Algimantė Matelienė",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "64c32696dbad5000af16222d",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3286090,
+          "known_for_department": "Sound",
+          "name": "Dani Navarro",
+          "original_name": "Dani Navarro",
+          "popularity": 0.1288,
+          "profile_path": "/9zQUNYDJn2WGLTRbvBpUOnFUAYq.jpg",
+          "credit_id": "64c3288d1d1bf400af3a4be4",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3655956,
+          "known_for_department": "Sound",
+          "name": "Martín Tourón",
+          "original_name": "Martín Tourón",
+          "popularity": 0.1455,
+          "profile_path": null,
+          "credit_id": "64c328abd861af013909c274",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1805111,
+          "known_for_department": "Sound",
+          "name": "José Manuel Sospedra",
+          "original_name": "José Manuel Sospedra",
+          "popularity": 0.5021,
+          "profile_path": "/xfnAKpEuTV332rs6jf6QzPwafh5.jpg",
+          "credit_id": "64c328f643250f00e80438f3",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4184237,
+          "known_for_department": "Sound",
+          "name": "Javi Belda",
+          "original_name": "Javi Belda",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "64c3286eec370c011c465bd8",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2203963,
+          "known_for_department": "Sound",
+          "name": "Alberto Lucendo",
+          "original_name": "Alberto Lucendo",
+          "popularity": 0.117,
+          "profile_path": null,
+          "credit_id": "64c3274943250f01455ac4d0",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2203960,
+          "known_for_department": "Directing",
+          "name": "Rafa Molés",
+          "original_name": "Rafa Molés",
+          "popularity": 0.3948,
+          "profile_path": "/2lKXLzJp2VC8bAw8KuuVcgOpuxU.jpg",
+          "credit_id": "64c3261fd861af013909c020",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4184229,
+          "known_for_department": "Production",
+          "name": "Pepe Andreu Ibarra",
+          "original_name": "Pepe Andreu Ibarra",
+          "popularity": 0.2511,
+          "profile_path": null,
+          "credit_id": "64c326371d1bf400e5694137",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 550068,
+          "known_for_department": "Directing",
+          "name": "Arūnas Matelis",
+          "original_name": "Arūnas Matelis",
+          "popularity": 0.3275,
+          "profile_path": "/oIZZkntuWV2YhAWOW1XAUFUxEfF.jpg",
+          "credit_id": "64c326516331b2011ca0f137",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1805109,
+          "known_for_department": "Sound",
+          "name": "Iván Martínez-Rufat",
+          "original_name": "Iván Martínez-Rufat",
+          "popularity": 0.3699,
+          "profile_path": null,
+          "credit_id": "64c32839ec370c00ad5179cd",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4184238,
+          "known_for_department": "Art",
+          "name": "Cristina Sanz Ferrer",
+          "original_name": "Cristina Sanz Ferrer",
+          "popularity": 0.0975,
+          "profile_path": null,
+          "credit_id": "64c32912ec370c00c56a515c",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1608420,
+          "known_for_department": "Production",
+          "name": "Natalia Maestro",
+          "original_name": "Natalia Maestro",
+          "popularity": 0.2708,
+          "profile_path": "/65w55anSYMBkgFfYMEwmru49QyE.jpg",
+          "credit_id": "64c3267043250f00c99f82f1",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4184236,
+          "known_for_department": "Sound",
+          "name": "Arturo Salom",
+          "original_name": "Arturo Salom",
+          "popularity": 0.1237,
+          "profile_path": null,
+          "credit_id": "64c32859dbad50011ccab38d",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4184234,
+          "known_for_department": "Editing",
+          "name": "Sara Marco Caballero",
+          "original_name": "Sara Marco Caballero",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "64c327d81d1bf4011fab2114",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1805109,
+          "known_for_department": "Sound",
+          "name": "Iván Martínez-Rufat",
+          "original_name": "Iván Martínez-Rufat",
+          "popularity": 0.3699,
+          "profile_path": null,
+          "credit_id": "64c32828eec4f300aeeed2d2",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3788119,
+          "known_for_department": "Editing",
+          "name": "Jonas Zagorskas",
+          "original_name": "Jonas Zagorskas",
+          "popularity": 0.2578,
+          "profile_path": null,
+          "credit_id": "64c328076331b2013920a349",
+          "department": "Visual Effects",
+          "job": "Color Designer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Atlàntida Film Fest",
+              "release_date": "2023-07-23T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Filmin",
+              "release_date": "2023-07-24T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Thessaloniki Documentary Festival",
+              "release_date": "2023-03-05T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "GR",
+          "title": "Ντομίνγκο Ντομίνγκο",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

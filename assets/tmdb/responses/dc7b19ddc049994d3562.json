@@ -1,0 +1,167 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1200925?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:49.232Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 1200925,
+    "imdb_id": null,
+    "origin_country": [
+      "MA"
+    ],
+    "original_language": "ar",
+    "original_title": "إشاعة",
+    "overview": "",
+    "popularity": 1.8139,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2020-06-24",
+    "revenue": 0,
+    "runtime": 100,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "إشاعة",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3632953,
+          "known_for_department": "Acting",
+          "name": "Said Ait Bajja",
+          "original_name": "Said Ait Bajja",
+          "popularity": 1.0179,
+          "profile_path": "/26oF7POcMcQ9xr1jEwWCXiUhSI1.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6abed541aecc069b910a40f7",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1125200,
+          "known_for_department": "Acting",
+          "name": "Fatema Ouechay",
+          "original_name": "Fatema Ouechay",
+          "popularity": 0.8591,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "6abed66315213e0a5935194c",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1389579,
+          "known_for_department": "Acting",
+          "name": "Rabie Kati",
+          "original_name": "Rabie Kati",
+          "popularity": 0.3737,
+          "profile_path": "/r0mBb9mtYtJpiiO0JDdgpXEHDM9.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "6abed66e0294159b8f00a624",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1876104,
+          "known_for_department": "Acting",
+          "name": "Mohamed Khouyi",
+          "original_name": "Mohamed Khouyi",
+          "popularity": 0.5419,
+          "profile_path": "/q6jh4c7xFPRo8Ig0pt68u9Ky9r4.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "6abed676aecc069b910a40ff",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4794677,
+          "known_for_department": "Acting",
+          "name": "Najat Khairallah",
+          "original_name": "Najat Khairallah",
+          "popularity": 0.452,
+          "profile_path": "/yWUKbLQWQMNZpbIlG4074dVMQi5.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "6abed68d18b39bc83843c2d5",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1778112,
+          "known_for_department": "Acting",
+          "name": "Benaissa El Jirari",
+          "original_name": "Benaissa El Jirari",
+          "popularity": 0.3028,
+          "profile_path": "/AhQEg8SsozdypijPMXWFKp7mFuR.jpg",
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "6abed6a174e10b3c9bbc2d65",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6490275,
+          "known_for_department": "Acting",
+          "name": "Mustapha Madmoun",
+          "original_name": "Mustapha Madmoun",
+          "popularity": 0.323,
+          "profile_path": null,
+          "credit_id": "6abed6d023d4d7aa03da58ed",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-06-24T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

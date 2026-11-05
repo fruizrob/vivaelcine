@@ -1,0 +1,194 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1667687?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:52.376Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1667687,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "La Lucha De Lucia",
+    "overview": "",
+    "popularity": 0.9885,
+    "poster_path": "/ph8COLT1urTUa59Ze0xef1bPI2b.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2026-06-04",
+    "revenue": 0,
+    "runtime": 14,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Lucha De Lucia",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6132507,
+          "known_for_department": "Acting",
+          "name": "Valeria Casillas",
+          "original_name": "Valeria Casillas",
+          "popularity": 0.283,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Lucia",
+          "credit_id": "69d9225631ad1491d5b64276",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6132508,
+          "known_for_department": "Acting",
+          "name": "Mario Tadeo",
+          "original_name": "Mario Tadeo",
+          "popularity": 0.145,
+          "profile_path": "/5NnJINiuYG6kaVtq9wbBgDxEHuz.jpg",
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "69d922676401b6f8a9b6424e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6132509,
+          "known_for_department": "Acting",
+          "name": "Renee Ortiz",
+          "original_name": "Renee Ortiz",
+          "popularity": 0.5852,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "69d922768a12ffe9f935762c",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4846363,
+          "known_for_department": "Acting",
+          "name": "Maria Sofia Hernandez",
+          "original_name": "Maria Sofia Hernandez",
+          "popularity": 0.4186,
+          "profile_path": null,
+          "credit_id": "69d921e690035d13241d89e1",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3712976,
+          "known_for_department": "Production",
+          "name": "Saskia d'Altena",
+          "original_name": "Saskia d'Altena",
+          "popularity": 0.1147,
+          "profile_path": null,
+          "credit_id": "69d921f2f2ef3bf2833576dc",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4846363,
+          "known_for_department": "Acting",
+          "name": "Maria Sofia Hernandez",
+          "original_name": "Maria Sofia Hernandez",
+          "popularity": 0.4186,
+          "profile_path": null,
+          "credit_id": "69d92207090581956bb642ba",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5011442,
+          "known_for_department": "Sound",
+          "name": "Aaron Dozal",
+          "original_name": "Aaron Dozal",
+          "popularity": 0.2769,
+          "profile_path": null,
+          "credit_id": "69d9222a4ecda9ae530265a5",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2591492,
+          "known_for_department": "Directing",
+          "name": "Jonathan Cuartas",
+          "original_name": "Jonathan Cuartas",
+          "popularity": 0.2643,
+          "profile_path": null,
+          "credit_id": "69d9223a31ad1491d5b64266",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3108851,
+          "known_for_department": "Directing",
+          "name": "Andrew Garcia",
+          "original_name": "Andrew Garcia",
+          "popularity": 0.3332,
+          "profile_path": "/sZgnBCTlanLTEIcphinOU1LTVFa.jpg",
+          "credit_id": "69d92244460a66f9199b7216",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Leiden International Film Festival",
+              "release_date": "2026-10-10T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Tribeca Film Festival",
+              "release_date": "2026-06-04T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

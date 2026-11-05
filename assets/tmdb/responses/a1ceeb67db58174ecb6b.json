@@ -1,0 +1,488 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/539441?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:12.584Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/CUyDxJn8I12h02truHCHPXmLp5.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 539441,
+    "imdb_id": "tt9025112",
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Domingo",
+    "overview": "",
+    "popularity": 1.862,
+    "poster_path": "/zIzySOMQhxfIfnc0t21Gih90uAn.jpg",
+    "production_companies": [
+      {
+        "id": 34630,
+        "logo_path": "/lKKe99vus0EbdBoMunQMm8olFVA.png",
+        "name": "República Pureza Filmes",
+        "origin_country": "BR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2018-09-05",
+    "revenue": 0,
+    "runtime": 95,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Domingo",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 12,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 571932,
+          "known_for_department": "Acting",
+          "name": "Ítala Nandi",
+          "original_name": "Ítala Nandi",
+          "popularity": 0.5281,
+          "profile_path": "/g1zlvM3b6cL1syYFJ9Qp0qG1Yki.jpg",
+          "cast_id": 2,
+          "character": "Laura",
+          "credit_id": "5b604fe80e0a263fc200dbdf",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1011370,
+          "known_for_department": "Acting",
+          "name": "Camila Morgado",
+          "original_name": "Camila Morgado",
+          "popularity": 0.6946,
+          "profile_path": "/mMvG6f4g5PkGIE3eduNzYKVUF6g.jpg",
+          "cast_id": 4,
+          "character": "Bete",
+          "credit_id": "5b60500a0e0a263fae00d0c6",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 571469,
+          "known_for_department": "Acting",
+          "name": "Augusto Madeira",
+          "original_name": "Augusto Madeira",
+          "popularity": 0.5456,
+          "profile_path": "/uSqWYUnEzawmDCTsLAN3a3DENFC.jpg",
+          "cast_id": 5,
+          "character": "Nestor",
+          "credit_id": "5b964a460e0a2619850357eb",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1265054,
+          "known_for_department": "Acting",
+          "name": "Martha Nowill",
+          "original_name": "Martha Nowill",
+          "popularity": 0.3519,
+          "profile_path": "/cYk1PDunjudo9UHfu4k1hSTEBG1.jpg",
+          "cast_id": 6,
+          "character": "Eliana",
+          "credit_id": "5b964a4d9251414338030be1",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1184879,
+          "known_for_department": "Directing",
+          "name": "Michael Wahrmann",
+          "original_name": "Michael Wahrmann",
+          "popularity": 0.1837,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Eduardo",
+          "credit_id": "5fe1740a6ee3d7003fe9e21a",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 494735,
+          "known_for_department": "Writing",
+          "name": "Ismael Caneppele",
+          "original_name": "Ismael Caneppele",
+          "popularity": 0.9631,
+          "profile_path": "/ufy6MnfafGuIV4RhyqcgD14HKb0.jpg",
+          "cast_id": 3,
+          "character": "Miguel",
+          "credit_id": "5b604ffac3a368583f00e96a",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2279456,
+          "known_for_department": "Acting",
+          "name": "Silvana Silvia",
+          "original_name": "Silvana Silvia",
+          "popularity": 0.206,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Inês",
+          "credit_id": "5fe173e9f9a3fb003cbdc160",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 553527,
+          "known_for_department": "Acting",
+          "name": "Clemente Viscaíno",
+          "original_name": "Clemente Viscaíno",
+          "popularity": 0.2851,
+          "profile_path": "/8YNNy49fcT8JvIkqRohEowPemO4.jpg",
+          "cast_id": 9,
+          "character": "José",
+          "credit_id": "5fe173fc1d3563004130742a",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1257379,
+          "known_for_department": "Acting",
+          "name": "Chay Suede",
+          "original_name": "Chay Suede",
+          "popularity": 1.2868,
+          "profile_path": "/txVt6TP2zffG3BfqUIcUF48cQ8u.jpg",
+          "cast_id": 7,
+          "character": "Mauro",
+          "credit_id": "5b9c98409251410243007020",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3486766,
+          "known_for_department": "Acting",
+          "name": "Manu Morelli",
+          "original_name": "Manu Morelli",
+          "popularity": 0.7649,
+          "profile_path": "/1KTnIoPxV2cz5W0U9BfOc8Kk7jR.jpg",
+          "cast_id": 22,
+          "character": "Valentina",
+          "credit_id": "651d7b67c50ad200eac081c7",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4305175,
+          "known_for_department": "Acting",
+          "name": "Maria Vitória Valença",
+          "original_name": "Maria Vitória Valença",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Rita",
+          "credit_id": "651d7ac82f3b1700e40a3475",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2361551,
+          "known_for_department": "Acting",
+          "name": "João Pedro Prates",
+          "original_name": "João Pedro Prates",
+          "popularity": 0.766,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Marcelo",
+          "credit_id": "651d79b18c22c0012054b8fd",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3250355,
+          "known_for_department": "Acting",
+          "name": "Francesco Fochesato",
+          "original_name": "Francesco Fochesato",
+          "popularity": 0.3366,
+          "profile_path": "/nkqSYGXEhVJCrTGdHrB4SfzaZbA.jpg",
+          "cast_id": 23,
+          "character": "Carlos",
+          "credit_id": "651da654a097dc013a57ccaf",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4305177,
+          "known_for_department": "Acting",
+          "name": "Cecília Soares",
+          "original_name": "Cecília Soares",
+          "popularity": 0.3091,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Fernanda",
+          "credit_id": "651d7b110721660139c77e54",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4305174,
+          "known_for_department": "Acting",
+          "name": "Donald Marshall",
+          "original_name": "Donald Marshall",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Diego",
+          "credit_id": "651d7a158c22c000e60314a3",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4305438,
+          "known_for_department": "Acting",
+          "name": "João Henrique Domingues",
+          "original_name": "João Henrique Domingues",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "cast_id": 24,
+          "character": "Mateus",
+          "credit_id": "651da68f3d355700ff616768",
+          "order": 15
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1797712,
+          "known_for_department": "Sound",
+          "name": "Victor Quintanilha",
+          "original_name": "Victor Quintanilha",
+          "popularity": 0.3436,
+          "profile_path": "/bRLPHJy7nlrKXYKpBzGMmihM1b1.jpg",
+          "credit_id": "60b2c23562e86f007066dd19",
+          "department": "Sound",
+          "job": "Dialogue Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1666696,
+          "known_for_department": "Production",
+          "name": "Marcello Ludwig Maia",
+          "original_name": "Marcello Ludwig Maia",
+          "popularity": 0.4285,
+          "profile_path": null,
+          "credit_id": "65a947080e5aba01387df9cd",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1275990,
+          "known_for_department": "Directing",
+          "name": "Fellipe Barbosa",
+          "original_name": "Fellipe Barbosa",
+          "popularity": 0.2898,
+          "profile_path": null,
+          "credit_id": "5b604f90925141181c00c0fa",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1323747,
+          "known_for_department": "Directing",
+          "name": "Clara Linhart",
+          "original_name": "Clara Linhart",
+          "popularity": 0.1476,
+          "profile_path": null,
+          "credit_id": "5b604f9d925141180300bd77",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1748338,
+          "known_for_department": "Writing",
+          "name": "Lucas Paraizo",
+          "original_name": "Lucas Paraizo",
+          "popularity": 0.4799,
+          "profile_path": "/3q5rJqIO7apbUj6jJglOFynG25h.jpg",
+          "credit_id": "5fe1745f0c3ec8003d2e6037",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1342931,
+          "known_for_department": "Sound",
+          "name": "Waldir Xavier",
+          "original_name": "Waldir Xavier",
+          "popularity": 1.3734,
+          "profile_path": null,
+          "credit_id": "5fe174985bce9e0040301bc3",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2209142,
+          "known_for_department": "Art",
+          "name": "Rafael Faustini",
+          "original_name": "Rafael Faustini",
+          "popularity": 0.1459,
+          "profile_path": null,
+          "credit_id": "5fe174da9e4586003c9b4606",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2904537,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Paula Stroeher",
+          "original_name": "Paula Stroeher",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "5fe174e65bce9e0040301c8e",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1989566,
+          "known_for_department": "Directing",
+          "name": "Louise Botkay",
+          "original_name": "Louise Botkay",
+          "popularity": 0.6284,
+          "profile_path": null,
+          "credit_id": "67f8892ecce7690230ad4feb",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [
+                "Sexual Content",
+                "Illegal Drugs",
+                "Violence"
+              ],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-10-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-10-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-09-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Busan International Film Festival",
+              "release_date": "2018-10-07T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "KR",
+          "title": "일요일",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "KR",
+          "title": "도밍고",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Domingo - Das Familientreffen",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

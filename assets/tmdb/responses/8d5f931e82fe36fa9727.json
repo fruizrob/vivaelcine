@@ -1,0 +1,105 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/646887?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:30.437Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 646887,
+    "imdb_id": "tt2188919",
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "original_language": "en",
+    "original_title": "The Seasons",
+    "overview": "",
+    "popularity": 0.4439,
+    "poster_path": "/tBSdY8dC0gfX99t7lxdMhnRVbf5.jpg",
+    "production_companies": [
+      {
+        "id": 10473,
+        "logo_path": "/lMUDQZVtg8On4PAW5XFQPaQy6UK.png",
+        "name": "ONF | NFB",
+        "origin_country": "CA"
+      },
+      {
+        "id": 282180,
+        "logo_path": null,
+        "name": "Imperial Oil",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "1954-08-02",
+    "revenue": 0,
+    "runtime": 18,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Seasons",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1193183,
+          "known_for_department": "Directing",
+          "name": "Christopher Chapman",
+          "original_name": "Christopher Chapman",
+          "popularity": 0.3374,
+          "profile_path": null,
+          "credit_id": "5dc849c699259c0015845ff0",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1193183,
+          "known_for_department": "Directing",
+          "name": "Christopher Chapman",
+          "original_name": "Christopher Chapman",
+          "popularity": 0.3374,
+          "profile_path": null,
+          "credit_id": "6930a9bfa706fdfb8d631e02",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1954-08-02T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

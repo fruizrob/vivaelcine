@@ -1,0 +1,108 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/868665?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:53.806Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 868665,
+    "imdb_id": null,
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "es",
+    "original_title": "La Lucha Sigue",
+    "overview": "",
+    "popularity": 0.2305,
+    "poster_path": "/bqvoXu7JEuVJchV7LJ4v2VHHZMR.jpg",
+    "production_companies": [
+      {
+        "id": 121359,
+        "logo_path": "/8jTVa5tdWScXEpx6hhJA2Hwe1LK.png",
+        "name": "Mutual Aid Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 159943,
+        "logo_path": null,
+        "name": "COPINH",
+        "origin_country": ""
+      },
+      {
+        "id": 159944,
+        "logo_path": null,
+        "name": "Ofraneh",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "HN",
+        "name": "Honduras"
+      }
+    ],
+    "release_date": "2021-08-19",
+    "revenue": 0,
+    "runtime": 66,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Lucha Sigue",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2373877,
+          "known_for_department": "Production",
+          "name": "Sam Vinal",
+          "original_name": "Sam Vinal",
+          "popularity": 0.2211,
+          "profile_path": null,
+          "credit_id": "612bb7a5e8a3e1008cfc9c81",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2021-08-19T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

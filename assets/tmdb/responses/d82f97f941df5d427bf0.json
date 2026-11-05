@@ -1,0 +1,195 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/296974?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:40.409Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10770,
+        "name": "Película de TV"
+      }
+    ],
+    "homepage": "",
+    "id": 296974,
+    "imdb_id": "tt1592552",
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Das schönste Fest der Welt",
+    "overview": "",
+    "popularity": 0.8012,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 4606,
+        "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+        "name": "ZDF",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "1969-04-15",
+    "revenue": 0,
+    "runtime": 70,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Das schönste Fest der Welt",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 18543,
+          "known_for_department": "Acting",
+          "name": "Horst Tappert",
+          "original_name": "Horst Tappert",
+          "popularity": 0.629,
+          "profile_path": "/jr1u9yhQUS8ZbdOEMStUvnWuoF6.jpg",
+          "cast_id": 1,
+          "character": "Marquis",
+          "credit_id": "54386212c3a3686eec003198",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1026027,
+          "known_for_department": "Acting",
+          "name": "Friedrich W. Bauschulte",
+          "original_name": "Friedrich W. Bauschulte",
+          "popularity": 0.3698,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Barbirolli",
+          "credit_id": "54386221c3a3686ee600327a",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 26520,
+          "known_for_department": "Acting",
+          "name": "Ulrich Matschoss",
+          "original_name": "Ulrich Matschoss",
+          "popularity": 0.415,
+          "profile_path": "/3ef7g0bPQruz8Uji6YmoVr9zCWQ.jpg",
+          "cast_id": 3,
+          "character": "Oppelsheimer",
+          "credit_id": "54386230c3a3686ee600327d",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 221245,
+          "known_for_department": "Directing",
+          "name": "Thomas Fantl",
+          "original_name": "Thomas Fantl",
+          "popularity": 0.205,
+          "profile_path": null,
+          "credit_id": "543861ff0e0a2617cd0031f2",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1630789,
+          "known_for_department": "Art",
+          "name": "Gerd Krauss",
+          "original_name": "Gerd Krauss",
+          "popularity": 0.2683,
+          "profile_path": null,
+          "credit_id": "61696efb681888008fc53911",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2619719,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Helga Pinnow-Stadelmann",
+          "original_name": "Helga Pinnow-Stadelmann",
+          "popularity": 0.1219,
+          "profile_path": null,
+          "credit_id": "61696f0b5cea1800424c300f",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1271592,
+          "known_for_department": "Writing",
+          "name": "Siegfried Lenz",
+          "original_name": "Siegfried Lenz",
+          "popularity": 0.2342,
+          "profile_path": null,
+          "credit_id": "5e033cd075110d0018dd08ff",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 221245,
+          "known_for_department": "Directing",
+          "name": "Thomas Fantl",
+          "original_name": "Thomas Fantl",
+          "popularity": 0.205,
+          "profile_path": null,
+          "credit_id": "5e033cdbd1a8930014911333",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-04-15T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1264679?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:50.511Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1264679,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "en",
+    "original_title": "Pensaba que te habías olvidado de escribirme",
+    "overview": "",
+    "popularity": 0.194,
+    "poster_path": "/2LFGUUGovrwYJgtlbirQf1pM4ew.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-12-22",
+    "revenue": 0,
+    "runtime": 3,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pensaba que te habías olvidado de escribirme",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4283937,
+          "known_for_department": "Directing",
+          "name": "Sofía Hansen",
+          "original_name": "Sofía Hansen",
+          "popularity": 0.1238,
+          "profile_path": null,
+          "credit_id": "66021c8f1b1f3c0163996fa9",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2023-12-22T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

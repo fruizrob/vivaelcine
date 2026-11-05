@@ -1,0 +1,89 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/344239?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:59.953Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 6000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 344239,
+    "imdb_id": "tt1806780",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Animales de alquiler",
+    "overview": "",
+    "popularity": 0.1754,
+    "poster_path": "/ke54hhggb2NAetcJc8A5mqRGR8u.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CR",
+        "name": "Costa Rica"
+      }
+    ],
+    "release_date": "2010-11-12",
+    "revenue": 0,
+    "runtime": 10,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Animales de alquiler",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 2,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1476274,
+          "known_for_department": "Directing",
+          "name": "Pablo Ortega",
+          "original_name": "Pablo Ortega",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "5579c29ec3a36804a4000654",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-11-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

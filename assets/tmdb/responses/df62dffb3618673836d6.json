@@ -1,0 +1,104 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1785595?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:37.089Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1785595,
+    "imdb_id": null,
+    "origin_country": [
+      "PL"
+    ],
+    "original_language": "pl",
+    "original_title": "Dziewczyna z wiatrem we włosach",
+    "overview": "",
+    "popularity": 0.3551,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "PL",
+        "name": "Poland"
+      }
+    ],
+    "release_date": "1969-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dziewczyna z wiatrem we włosach",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4128778,
+          "known_for_department": "Camera",
+          "name": "Mirosław Araszewski",
+          "original_name": "Mirosław Araszewski",
+          "popularity": 0.1006,
+          "profile_path": null,
+          "credit_id": "6abe01f47a6254f4a18f95ac",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4128778,
+          "known_for_department": "Camera",
+          "name": "Mirosław Araszewski",
+          "original_name": "Mirosław Araszewski",
+          "popularity": 0.1006,
+          "profile_path": null,
+          "credit_id": "6abe02034c22b87c96f40058",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3602908,
+          "known_for_department": "Editing",
+          "name": "Wiesława Owczarek",
+          "original_name": "Wiesława Owczarek",
+          "popularity": 0.1282,
+          "profile_path": null,
+          "credit_id": "6abe02155cf7a0a7071868ae",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

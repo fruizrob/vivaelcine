@@ -1,0 +1,117 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1279658?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:08.072Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1279658,
+    "imdb_id": null,
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "iu",
+    "original_title": "The People’s Land, Eskimos of Pond Inlet",
+    "overview": "",
+    "popularity": 0.4314,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "1976-01-12",
+    "revenue": 0,
+    "runtime": 52,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The People’s Land, Eskimos of Pond Inlet",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 589933,
+          "known_for_department": "Directing",
+          "name": "David Gladwell",
+          "original_name": "David Gladwell",
+          "popularity": 0.2763,
+          "profile_path": null,
+          "credit_id": "66297b0a221ba601631596fd",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1065676,
+          "known_for_department": "Directing",
+          "name": "Michael Grigsby",
+          "original_name": "Michael Grigsby",
+          "popularity": 0.4597,
+          "profile_path": "/26K4USisT5TiM5HW4fNSuww80kn.jpg",
+          "credit_id": "662978dc344a8e0166af34b7",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 55409,
+          "known_for_department": "Camera",
+          "name": "Ivan Strasburg",
+          "original_name": "Ivan Strasburg",
+          "popularity": 0.2666,
+          "profile_path": null,
+          "credit_id": "66297a8ccb6db50149ae5929",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1844915,
+          "known_for_department": "Sound",
+          "name": "Mike McDuffie",
+          "original_name": "Mike McDuffie",
+          "popularity": 0.2671,
+          "profile_path": null,
+          "credit_id": "66297acf221ba601631596f0",
+          "department": "Sound",
+          "job": "Sound"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1976-01-12T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1622621?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:39:41.129Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/1Tah0sxqSrBe5Wr2cfxwMVAUvZY.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 1622621,
+    "imdb_id": "tt41293380",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "君と花火と約束と",
+    "overview": "",
+    "popularity": 1.4103,
+    "poster_path": "/aBiHOhnc0IrDi6IbqVvhbs9FGX.jpg",
+    "production_companies": [
+      {
+        "id": 109486,
+        "logo_path": "/5sKwEOp3RdoAukp6qHwSE8MoTit.png",
+        "name": "SynergySP",
+        "origin_country": "JP"
+      },
+      {
+        "id": 12305,
+        "logo_path": null,
+        "name": "The Answerstudio",
+        "origin_country": "JP"
+      },
+      {
+        "id": 5141,
+        "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+        "name": "Shin-Ei Animation",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2026-07-17",
+    "revenue": 362000,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "君と花火と約束と",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1748365,
+          "known_for_department": "Acting",
+          "name": "佐藤勝利",
+          "original_name": "佐藤勝利",
+          "popularity": 0.911,
+          "profile_path": "/c2JIyWlfMa9w65w5xqdpPM4HvAK.jpg",
+          "cast_id": 1,
+          "character": "Makoto Natsume (voice)",
+          "credit_id": "69760d7eaaa1abc6cbab9d1f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1564419,
+          "known_for_department": "Acting",
+          "name": "Nanoka Hara",
+          "original_name": "原菜乃華",
+          "popularity": 1.7644,
+          "profile_path": "/gbK8GbkeOvd1ZdYoxkEajYvXFjI.jpg",
+          "cast_id": 2,
+          "character": "Aki Hayama (voice)",
+          "credit_id": "69760da85b185f2a69ab9bbc",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1492982,
+          "known_for_department": "Acting",
+          "name": "Rie Takahashi",
+          "original_name": "高橋李依",
+          "popularity": 2.7017,
+          "profile_path": "/aeB7z0cBTASdjKOjQriBAO6hYq4.jpg",
+          "cast_id": 10,
+          "character": "Haru (voice)",
+          "credit_id": "6a0bfe8b1047f62bed409c1a",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1698192,
+          "known_for_department": "Acting",
+          "name": "Natsuko Yokosawa",
+          "original_name": "Natsuko Yokosawa",
+          "popularity": 0.3499,
+          "profile_path": "/a3OW15Gvwf7dH5T8DAZjJpfwBJd.jpg",
+          "cast_id": 11,
+          "character": "Yukari Natsume (voice)",
+          "credit_id": "6a0bfea4a5e038b3ad8b2231",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3750829,
+          "known_for_department": "Directing",
+          "name": "Akira Suzuki",
+          "original_name": "鈴木慧",
+          "popularity": 0.3765,
+          "profile_path": null,
+          "credit_id": "69760debe1d733d98c1a0cec",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5961572,
+          "known_for_department": "Writing",
+          "name": "Kōhei Mori",
+          "original_name": "Kōhei Mori",
+          "popularity": 0.4951,
+          "profile_path": null,
+          "credit_id": "69760e515b185f2a69ab9bc7",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2160634,
+          "known_for_department": "Visual Effects",
+          "name": "Yuji Watanabe",
+          "original_name": "渡辺裕二",
+          "popularity": 0.4251,
+          "profile_path": null,
+          "credit_id": "69760ea4394dfbd830a38130",
+          "department": "Visual Effects",
+          "job": "Character Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2756635,
+          "known_for_department": "Production",
+          "name": "梅澤道彦",
+          "original_name": "梅澤道彦",
+          "popularity": 0.2956,
+          "profile_path": null,
+          "credit_id": "69760ebdbb9a2847c1ae35fc",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2789442,
+          "known_for_department": "Acting",
+          "name": "松島聡",
+          "original_name": "松島聡",
+          "popularity": 0.684,
+          "profile_path": "/9zOEc3m9pM8rVX74GThsjF7UoUU.jpg",
+          "credit_id": "6a0bfe63df7d16ed5a8fadca",
+          "department": "Sound",
+          "job": "Theme Song Performance"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1748365,
+          "known_for_department": "Acting",
+          "name": "佐藤勝利",
+          "original_name": "佐藤勝利",
+          "popularity": 0.911,
+          "profile_path": "/c2JIyWlfMa9w65w5xqdpPM4HvAK.jpg",
+          "credit_id": "6a0bfe6a8e24afb1688faca7",
+          "department": "Sound",
+          "job": "Theme Song Performance"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1564446,
+          "known_for_department": "Acting",
+          "name": "菊池風磨",
+          "original_name": "菊池風磨",
+          "popularity": 0.9963,
+          "profile_path": "/t3umQpScZsY89BOyRTbTP4hQhja.jpg",
+          "credit_id": "6a0bfe72ba55a3bdfd8fadab",
+          "department": "Sound",
+          "job": "Theme Song Performance"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1410085,
+          "known_for_department": "Art",
+          "name": "水谷利春",
+          "original_name": "水谷利春",
+          "popularity": 0.6338,
+          "profile_path": null,
+          "credit_id": "6a0bfec09c5e5e835368d436",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3230727,
+          "known_for_department": "Visual Effects",
+          "name": "久力志保",
+          "original_name": "久力志保",
+          "popularity": 0.2186,
+          "profile_path": null,
+          "credit_id": "6a0bfecb6de5bc7b3ecd1122",
+          "department": "Visual Effects",
+          "job": "Color Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4158736,
+          "known_for_department": "Camera",
+          "name": "Shinji Saito",
+          "original_name": "齋藤真次",
+          "popularity": 0.3467,
+          "profile_path": null,
+          "credit_id": "6a0bfedcc82dcdea6c68d476",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1616869,
+          "known_for_department": "Sound",
+          "name": "Takeshi Takadera",
+          "original_name": "高寺たけし",
+          "popularity": 0.8047,
+          "profile_path": null,
+          "credit_id": "6a0bfeea44f1c7edf8409c6f",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2617399,
+          "known_for_department": "Sound",
+          "name": "Alisa Okehazama",
+          "original_name": "桶狭間ありさ",
+          "popularity": 0.6103,
+          "profile_path": null,
+          "credit_id": "6a0bfef69414842b238b2239",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3108745,
+          "known_for_department": "Visual Effects",
+          "name": "茶谷与志雄",
+          "original_name": "茶谷与志雄",
+          "popularity": 0.457,
+          "profile_path": null,
+          "credit_id": "6a8a9e5b74ed2afdcd3ea110",
+          "department": "Visual Effects",
+          "job": "Key Animation"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-07-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PH",
+          "release_dates": [
+            {
+              "certification": "PG",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Japanese Film Festival",
+              "release_date": "2026-10-01T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "PG",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "SM Cinemas",
+              "release_date": "2026-10-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-12-04T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "JP",
+          "title": "Kimi to Hanabi to Yakusoku to",
+          "type": "romaji"
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "You, Fireworks, and the Promise",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "JP",
+          "title": "Kimi-Hana",
+          "type": "abbreviation, romaji"
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "You, Fireworks, and Our Promise",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

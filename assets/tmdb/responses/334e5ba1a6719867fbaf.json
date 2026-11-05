@@ -1,0 +1,83 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1717106?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:03.383Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1717106,
+    "imdb_id": null,
+    "origin_country": [
+      "PE"
+    ],
+    "original_language": "es",
+    "original_title": "Jacinto",
+    "overview": "",
+    "popularity": 0.3095,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "PE",
+        "name": "Peru"
+      }
+    ],
+    "release_date": "1979-07-13",
+    "revenue": 0,
+    "runtime": 10,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Jacinto",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6287225,
+          "known_for_department": "Directing",
+          "name": "Marcelino Salguero Núñez",
+          "original_name": "Marcelino Salguero Núñez",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6a347528b0cea7864225bd3f",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1979-07-13T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

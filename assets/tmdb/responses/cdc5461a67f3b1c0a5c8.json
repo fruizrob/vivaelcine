@@ -1,0 +1,463 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1010891?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:40.016Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10770,
+        "name": "Película de TV"
+      }
+    ],
+    "homepage": "",
+    "id": 1010891,
+    "imdb_id": "tt0064636",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Marcus Welby, M.D.: A Matter of Humanities",
+    "overview": "",
+    "popularity": 0.98,
+    "poster_path": "/rqyPxZEyK6rgZDP5WXda7h1mUf9.jpg",
+    "production_companies": [
+      {
+        "id": 26727,
+        "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+        "name": "Universal Television",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1969-03-26",
+    "revenue": 0,
+    "runtime": 100,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Marcus Welby, M.D.: A Matter of Humanities",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14868,
+          "known_for_department": "Acting",
+          "name": "Robert Young",
+          "original_name": "Robert Young",
+          "popularity": 0.99,
+          "profile_path": "/A4aDKtpsmYVbXbaD7DECL1MyKbs.jpg",
+          "cast_id": 1,
+          "character": "Marcus Welby",
+          "credit_id": "62f38d95594c94007aa617ae",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 9274,
+          "known_for_department": "Acting",
+          "name": "James Brolin",
+          "original_name": "James Brolin",
+          "popularity": 2.4839,
+          "profile_path": "/rNboIDJ2WfqE6vdTLWevG9pMNNn.jpg",
+          "cast_id": 2,
+          "character": "Steven Kiley",
+          "credit_id": "62f38da3880c9200828fba85",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 10606,
+          "known_for_department": "Acting",
+          "name": "Anne Baxter",
+          "original_name": "Anne Baxter",
+          "popularity": 1.9831,
+          "profile_path": "/mUMKB7ZGzHJ38LpDWnA4VheIGBB.jpg",
+          "cast_id": 3,
+          "character": "Myra Sherwood",
+          "credit_id": "62f38db4db72c0007a0671fa",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 30043,
+          "known_for_department": "Acting",
+          "name": "Susan Strasberg",
+          "original_name": "Susan Strasberg",
+          "popularity": 0.8358,
+          "profile_path": "/wrU3UqQtSVGvXzD6k0611kEcbqL.jpg",
+          "cast_id": 4,
+          "character": "Tina Sawyer",
+          "credit_id": "62f38dc9880c92007f1834db",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2007,
+          "known_for_department": "Acting",
+          "name": "Lew Ayres",
+          "original_name": "Lew Ayres",
+          "popularity": 0.8806,
+          "profile_path": "/nNinKMWvSxrhiNMnMkbpUd4HEZO.jpg",
+          "cast_id": 5,
+          "character": "Dr. Andrew Swanson",
+          "credit_id": "62f38ddf594c94007aa617ca",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 41217,
+          "known_for_department": "Acting",
+          "name": "Tom Bosley",
+          "original_name": "Tom Bosley",
+          "popularity": 1.954,
+          "profile_path": "/zMHTd6ZJDiNMRlmEGjN9ZAr6Ooy.jpg",
+          "cast_id": 6,
+          "character": "Tiny Baker",
+          "credit_id": "62f38dee1f748b007cc9d478",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 159500,
+          "known_for_department": "Acting",
+          "name": "Pete Duel",
+          "original_name": "Pete Duel",
+          "popularity": 0.8226,
+          "profile_path": "/3xdss5RpWij3rs5IMF4lQSN0OP6.jpg",
+          "cast_id": 7,
+          "character": "Lew Sawyer",
+          "credit_id": "62f38e02813cb600923b6c7e",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 160736,
+          "known_for_department": "Acting",
+          "name": "Sheila Larken",
+          "original_name": "Sheila Larken",
+          "popularity": 0.5569,
+          "profile_path": "/wGGsjT7TbXsg8wVSkSAbNRl4O4s.jpg",
+          "cast_id": 8,
+          "character": "Sandy Welby",
+          "credit_id": "62f38e145b2f47007a7652ca",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2609805,
+          "known_for_department": "Acting",
+          "name": "Mercer Harris",
+          "original_name": "Mercer Harris",
+          "popularity": 0.2089,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Ray Wells",
+          "credit_id": "62f38e24813cb6007b34f3dc",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 80599,
+          "known_for_department": "Acting",
+          "name": "Penny Santon",
+          "original_name": "Penny Santon",
+          "popularity": 0.3985,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Consuelo Guadalupe-Lopez",
+          "credit_id": "62f38e3adb72c00091a4d163",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 10344,
+          "known_for_department": "Acting",
+          "name": "Richard Loo",
+          "original_name": "Richard Loo",
+          "popularity": 1.0049,
+          "profile_path": "/mCQFpDqmxaNMm0A4SKodUuNA92v.jpg",
+          "cast_id": 11,
+          "character": "Kenji Yamashita",
+          "credit_id": "62f38e4bdb72c0007a067238",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 55431,
+          "known_for_department": "Acting",
+          "name": "Larry Linville",
+          "original_name": "Larry Linville",
+          "popularity": 1.1722,
+          "profile_path": "/wiTdU3JFXFUX9PB74mtw7i0DxYU.jpg",
+          "cast_id": 12,
+          "character": "",
+          "credit_id": "62f38e5a1f748b008488442d",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 71781,
+          "known_for_department": "Acting",
+          "name": "Ben Wright",
+          "original_name": "Ben Wright",
+          "popularity": 1.1233,
+          "profile_path": "/7io2bWkZ0vYLNyWqPoADf9O2LD3.jpg",
+          "cast_id": 13,
+          "character": "",
+          "credit_id": "62f38e631f748b0084884432",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 165042,
+          "known_for_department": "Acting",
+          "name": "Ron Stokes",
+          "original_name": "Ron Stokes",
+          "popularity": 0.3779,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "",
+          "credit_id": "62f38e6c5b2f47007a7652f5",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 93672,
+          "known_for_department": "Acting",
+          "name": "Allison McKay",
+          "original_name": "Allison McKay",
+          "popularity": 0.9401,
+          "profile_path": "/9F9oogbkca5Pk5YpBdX4CvZrisQ.jpg",
+          "cast_id": 15,
+          "character": "",
+          "credit_id": "62f38e76813cb6007b34f412",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1232789,
+          "known_for_department": "Acting",
+          "name": "Craig Littler",
+          "original_name": "Craig Littler",
+          "popularity": 0.2944,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "",
+          "credit_id": "62f38e80813cb6007b34f418",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1217248,
+          "known_for_department": "Acting",
+          "name": "Sheila Rogers",
+          "original_name": "Sheila Rogers",
+          "popularity": 0.3153,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "",
+          "credit_id": "62f38e8b0b5fd6007f76622c",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 152670,
+          "known_for_department": "Acting",
+          "name": "Fran Ryan",
+          "original_name": "Fran Ryan",
+          "popularity": 0.6871,
+          "profile_path": "/s9iUEerQL8gUO7Vhpu3AwKCqWsz.jpg",
+          "cast_id": 18,
+          "character": "",
+          "credit_id": "62f38e936f31af007d656114",
+          "order": 17
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 40187,
+          "known_for_department": "Directing",
+          "name": "David Lowell Rich",
+          "original_name": "David Lowell Rich",
+          "popularity": 0.7265,
+          "profile_path": "/eO3vlXH9IAZxQTBNI1JCUiEhF2d.jpg",
+          "credit_id": "62f38ea2813cb600806e5ef6",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1233637,
+          "known_for_department": "Production",
+          "name": "David J. O'Connell",
+          "original_name": "David J. O'Connell",
+          "popularity": 0.2253,
+          "profile_path": null,
+          "credit_id": "62f38ec8db72c00091a4d188",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 139930,
+          "known_for_department": "Writing",
+          "name": "Don Mankiewicz",
+          "original_name": "Don Mankiewicz",
+          "popularity": 0.4221,
+          "profile_path": null,
+          "credit_id": "62f38ed90b5fd6007f76624b",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1335591,
+          "known_for_department": "Art",
+          "name": "George Patrick",
+          "original_name": "George Patrick",
+          "popularity": 0.2186,
+          "profile_path": null,
+          "credit_id": "62f38f1f1f748b007cc9d4da",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2027,
+          "known_for_department": "Sound",
+          "name": "Leonard Rosenman",
+          "original_name": "Leonard Rosenman",
+          "popularity": 0.4125,
+          "profile_path": "/f3hxgLgST2hfFkjkiP9hdCcWkj9.jpg",
+          "credit_id": "62f38f05880c9200828fbaf3",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1539059,
+          "known_for_department": "Editing",
+          "name": "Gene Palmer",
+          "original_name": "Gene Palmer",
+          "popularity": 0.1947,
+          "profile_path": null,
+          "credit_id": "62f38f12880c92007f183546",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1233635,
+          "known_for_department": "Production",
+          "name": "David Victor",
+          "original_name": "David Victor",
+          "popularity": 0.5911,
+          "profile_path": null,
+          "credit_id": "62f38eb3594c94007f47d93e",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1233635,
+          "known_for_department": "Production",
+          "name": "David Victor",
+          "original_name": "David Victor",
+          "popularity": 0.5911,
+          "profile_path": null,
+          "credit_id": "62f38ee56f31af007d65613b",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 13809,
+          "known_for_department": "Camera",
+          "name": "Russell Metty",
+          "original_name": "Russell Metty",
+          "popularity": 0.4053,
+          "profile_path": null,
+          "credit_id": "62f38ef3880c92007f18353a",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "ABC",
+              "release_date": "1969-03-26T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "A Matter of Humanities",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

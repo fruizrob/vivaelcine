@@ -1,0 +1,94 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/641350?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:15.946Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 641350,
+    "imdb_id": "tt1764566",
+    "origin_country": [
+      "SE"
+    ],
+    "original_language": "sv",
+    "original_title": "Replica",
+    "overview": "",
+    "popularity": 0.8804,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Swedish",
+        "iso_639_1": "sv",
+        "name": "svenska"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Replica",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2437151,
+          "known_for_department": "Acting",
+          "name": "Maria Ahlroth",
+          "original_name": "Maria Ahlroth",
+          "popularity": 0.4056,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5dadfdb51cac8c00150a6d09",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 929609,
+          "known_for_department": "Acting",
+          "name": "Niklas Åkerfelt",
+          "original_name": "Niklas Åkerfelt",
+          "popularity": 0.3801,
+          "profile_path": "/7gsRBLYLz5ZSPqP98xSK4vs4ITo.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5dadfdc4ae36680011d5571b",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2193656,
+          "known_for_department": "Crew",
+          "name": "Jan Inberg",
+          "original_name": "Jan Inberg",
+          "popularity": 0.2808,
+          "profile_path": null,
+          "credit_id": "5dadfe41f288380014faccb3",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

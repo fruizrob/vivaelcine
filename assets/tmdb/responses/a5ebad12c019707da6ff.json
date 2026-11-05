@@ -1,0 +1,78 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1469976?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:35.682Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1469976,
+    "imdb_id": null,
+    "origin_country": [
+      "CH"
+    ],
+    "original_language": "xx",
+    "original_title": "The four seasons",
+    "overview": "",
+    "popularity": 0.3096,
+    "poster_path": "/4HT2vVm9zHkZaLiA1Y4rj1APt6.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1977-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The four seasons",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5393209,
+          "known_for_department": "Directing",
+          "name": "Hans Glanzmann",
+          "original_name": "Hans Glanzmann",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "680a244ef3cf6d66d79d0a51",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1977-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

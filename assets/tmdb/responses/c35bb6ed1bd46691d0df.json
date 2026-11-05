@@ -1,0 +1,34 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=WINNIPEG%2C+EL+BARCO+DE+LA+ESPERANZA&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-05T16:45:39.460Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/4zJ562gmJwdRV8VeneQgEpKjQjo.jpg",
+        "genre_ids": [
+          12,
+          16,
+          18,
+          36,
+          10752
+        ],
+        "id": 815043,
+        "title": "Winnipeg, El Barco de la Esperanza",
+        "original_language": "es",
+        "original_title": "Winnipeg, El Barco de la Esperanza",
+        "overview": "",
+        "popularity": 0.5767,
+        "poster_path": "/kbyVwqt7QRW40YQJdMdBRka89Z4.jpg",
+        "release_date": "2026-07-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

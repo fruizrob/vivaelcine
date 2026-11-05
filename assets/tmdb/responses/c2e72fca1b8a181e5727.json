@@ -1,0 +1,233 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1628469?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:55.494Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/9BzSAPAXkf0drieOMVduMxc158L.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 1628469,
+    "imdb_id": "tt1511321",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "48 Hours in Purgatory",
+    "overview": "",
+    "popularity": 1.5613,
+    "poster_path": "/sSMuL7cRSl90KTkilMoTTwM9xP6.jpg",
+    "production_companies": [
+      {
+        "id": 282826,
+        "logo_path": null,
+        "name": "SKG Films",
+        "origin_country": "CA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2026-02-05",
+    "revenue": 0,
+    "runtime": 106,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "48 Hours in Purgatory",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 999449,
+          "known_for_department": "Acting",
+          "name": "Emily Alatalo",
+          "original_name": "Emily Alatalo",
+          "popularity": 2.0154,
+          "profile_path": "/kF3vPObPKPYKDzsqsjvq8baOrrG.jpg",
+          "cast_id": 1,
+          "character": "Veronique Villemaire",
+          "credit_id": "6983ac76ee4ac775a16ee77c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 239970,
+          "known_for_department": "Acting",
+          "name": "Andrew Roth",
+          "original_name": "Andrew Roth",
+          "popularity": 2.1138,
+          "profile_path": "/bA9WNbID83BVjbaixLJ4SVMh73J.jpg",
+          "cast_id": 2,
+          "character": "Brody Hawkins",
+          "credit_id": "6983ac90a7a791841b998fb2",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1390414,
+          "known_for_department": "Acting",
+          "name": "Stephanie Christiaens",
+          "original_name": "Stephanie Christiaens",
+          "popularity": 0.2272,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Kristen Chalmers",
+          "credit_id": "6983ad2e2b1d80f7bf4f64c0",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5986652,
+          "known_for_department": "Acting",
+          "name": "Jaclyn Scobie",
+          "original_name": "Jaclyn Scobie",
+          "popularity": 0.6168,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Andrea",
+          "credit_id": "6983ad5476b7985eb6998f5c",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1642133,
+          "known_for_department": "Acting",
+          "name": "Jenna Jade Rain",
+          "original_name": "Jenna Jade Rain",
+          "popularity": 0.794,
+          "profile_path": "/2ceYDn42EJ39Dnf3kq8Le4Rqc9i.jpg",
+          "cast_id": 5,
+          "character": "Claire",
+          "credit_id": "6983ad8a453f6d21ea36308c",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1020684,
+          "known_for_department": "Acting",
+          "name": "Colin Paradine",
+          "original_name": "Colin Paradine",
+          "popularity": 0.4316,
+          "profile_path": "/zrXoUkSEiPeqGzVhEAN68dwFItb.jpg",
+          "cast_id": 6,
+          "character": "James",
+          "credit_id": "6983adcfee4ac775a16ee794",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1715655,
+          "known_for_department": "Directing",
+          "name": "Jason Armstrong",
+          "original_name": "Jason Armstrong",
+          "popularity": 0.5965,
+          "profile_path": null,
+          "credit_id": "6983ae2946f1c084b074a6c2",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2932263,
+          "known_for_department": "Camera",
+          "name": "Nick Matthews",
+          "original_name": "Nick Matthews",
+          "popularity": 0.1237,
+          "profile_path": null,
+          "credit_id": "6983ae454dda2906e36e7144",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5868884,
+          "known_for_department": "Crew",
+          "name": "Chris Lawson",
+          "original_name": "Chris Lawson",
+          "popularity": 0.3052,
+          "profile_path": null,
+          "credit_id": "6983ae7661b6d418126e70ae",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3107572,
+          "known_for_department": "Directing",
+          "name": "Mike Klassen",
+          "original_name": "Mike Klassen",
+          "popularity": 0.2265,
+          "profile_path": null,
+          "credit_id": "6983aee4691924fa224f651e",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1715655,
+          "known_for_department": "Directing",
+          "name": "Jason Armstrong",
+          "original_name": "Jason Armstrong",
+          "popularity": 0.5965,
+          "profile_path": null,
+          "credit_id": "6983afe3a4908d7aa91a2101",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2026-02-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/803790?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:07.880Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 803790,
+    "imdb_id": "tt5369808",
+    "origin_country": [
+      "PT"
+    ],
+    "original_language": "pt",
+    "original_title": "Domingo",
+    "overview": "",
+    "popularity": 1.2564,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 32795,
+        "logo_path": null,
+        "name": "Filmes do Caixote",
+        "origin_country": "BR"
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2015-06-07",
+    "revenue": 0,
+    "runtime": 2,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Domingo",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1807508,
+          "known_for_department": "Directing",
+          "name": "João Marcos de Almeida",
+          "original_name": "João Marcos de Almeida",
+          "popularity": 0.531,
+          "profile_path": "/wC7vvCTkSXt8YdQZGrpnQEtoO1t.jpg",
+          "cast_id": 8,
+          "character": "Shark",
+          "credit_id": "60467849d8e225005a7819e9",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1553817,
+          "known_for_department": "Directing",
+          "name": "John Trengove",
+          "original_name": "John Trengove",
+          "popularity": 0.6529,
+          "profile_path": "/md15cLZZnD6vMzvNqYYkyRboMlD.jpg",
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "6046785ba410c800455dfb39",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1050896,
+          "known_for_department": "Directing",
+          "name": "Marco Dutra",
+          "original_name": "Marco Dutra",
+          "popularity": 0.2477,
+          "profile_path": "/76BFw5IDBRyw7MnoBHL44l6Rfr4.jpg",
+          "credit_id": "604677c490fca3006f74eda6",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1050896,
+          "known_for_department": "Directing",
+          "name": "Marco Dutra",
+          "original_name": "Marco Dutra",
+          "popularity": 0.2477,
+          "profile_path": "/76BFw5IDBRyw7MnoBHL44l6Rfr4.jpg",
+          "credit_id": "604678039e458600243a0d3b",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1050896,
+          "known_for_department": "Directing",
+          "name": "Marco Dutra",
+          "original_name": "Marco Dutra",
+          "popularity": 0.2477,
+          "profile_path": "/76BFw5IDBRyw7MnoBHL44l6Rfr4.jpg",
+          "credit_id": "6046780a0102c90044efa1de",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1807508,
+          "known_for_department": "Directing",
+          "name": "João Marcos de Almeida",
+          "original_name": "João Marcos de Almeida",
+          "popularity": 0.531,
+          "profile_path": "/wC7vvCTkSXt8YdQZGrpnQEtoO1t.jpg",
+          "credit_id": "6046782870b44400459b95b9",
+          "department": "Crew",
+          "job": "Visual Effects Art Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1050896,
+          "known_for_department": "Directing",
+          "name": "Marco Dutra",
+          "original_name": "Marco Dutra",
+          "popularity": 0.2477,
+          "profile_path": "/76BFw5IDBRyw7MnoBHL44l6Rfr4.jpg",
+          "credit_id": "604677f190dde0005a0ef70c",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1050896,
+          "known_for_department": "Directing",
+          "name": "Marco Dutra",
+          "original_name": "Marco Dutra",
+          "popularity": 0.2477,
+          "profile_path": "/76BFw5IDBRyw7MnoBHL44l6Rfr4.jpg",
+          "credit_id": "604677e1fab3fa004382908a",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "xx",
+              "note": "",
+              "release_date": "2015-06-07T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

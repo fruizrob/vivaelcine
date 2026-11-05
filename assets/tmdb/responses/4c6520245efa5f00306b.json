@@ -1,0 +1,64 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/722008?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:35.521Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 722008,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Seasons in the Sea",
+    "overview": "",
+    "popularity": 0.19,
+    "poster_path": "/zYWwGaqxuNskPRoDnpMf5P2Tj0q.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1990-01-01",
+    "revenue": 0,
+    "runtime": 55,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Seasons in the Sea",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "{\"folded_name\"=>\"English\", \"english_name\"=>\"English\", \"iso_639_1\"=>\"en\", \"native_name\"=>\"English\"}",
+              "note": "VHS tape has 1990 copyright.",
+              "release_date": "1990-01-01T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

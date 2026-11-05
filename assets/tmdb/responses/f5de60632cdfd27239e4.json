@@ -1,0 +1,129 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/357812?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:52.480Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 357812,
+    "imdb_id": "tt1773572",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Mimbre",
+    "overview": "",
+    "popularity": 1.3036,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 150748,
+        "logo_path": null,
+        "name": "Centro de Cine Experimental",
+        "origin_country": "CL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "1958-05-15",
+    "revenue": 0,
+    "runtime": 10,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mimbre",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 4,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1504617,
+          "known_for_department": "Directing",
+          "name": "Sergio Bravo",
+          "original_name": "Sergio Bravo",
+          "popularity": 0.6249,
+          "profile_path": "/asBR2au4V52cri1CLcNCWnwxS45.jpg",
+          "credit_id": "55e84fcdc3a3682c62002699",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1064940,
+          "known_for_department": "Sound",
+          "name": "Violeta Parra",
+          "original_name": "Violeta Parra",
+          "popularity": 0.1515,
+          "profile_path": "/1dmxMHzpNLYATxx8Vd2PHC78dPI.jpg",
+          "credit_id": "55e850959251413e380024f6",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1504617,
+          "known_for_department": "Directing",
+          "name": "Sergio Bravo",
+          "original_name": "Sergio Bravo",
+          "popularity": 0.6249,
+          "profile_path": "/asBR2au4V52cri1CLcNCWnwxS45.jpg",
+          "credit_id": "5cf021659251416255b98c99",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1504617,
+          "known_for_department": "Directing",
+          "name": "Sergio Bravo",
+          "original_name": "Sergio Bravo",
+          "popularity": 0.6249,
+          "profile_path": "/asBR2au4V52cri1CLcNCWnwxS45.jpg",
+          "credit_id": "5cf0216f0e0a266b5acb2731",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1958-05-15T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,10 +1,13 @@
+import { applyFilmMetadata } from './film-metadata.js';
 import { festivals, festivalFor } from './data.js?v=20261105-tmdb-years';
 import { clock, durationOf, endOf, initialDay, roomLocation, yearOf } from './core.js?v=20261105-years';
-import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261105-years';
+import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261105-premieres';
 import { screeningUrl } from './story.js?v=20261104-2';
 import { setupSharing } from './sharing.js?v=20261104-share-menu';
+import { renderFestivalHistory } from './festival-history.js?v=20261105-premieres';
+import { renderFilmPoster } from './film-poster.js?v=20261105-posters';
 
-const data = festivalFor(location.search);
+const data = { ...structuredClone(festivalFor(location.search)), festivalHistory: {}, filmPosters: {} };
 const $ = selector => document.querySelector(selector);
 const requestedDay = new URLSearchParams(location.search).get('dia');
 const eventsById = new Map(data.events.map(event => [event.id, event]));
@@ -113,11 +116,16 @@ function renderDetail() {
   ].filter(Boolean);
   $('#film-detail').innerHTML = `
     <p class="film-section" style="color:${section.ink}">${esc(section.label)}</p>
-    <h2 id="film-title">${esc(event.title || film.title)}${year ? ` <span class="film-year">(${year})</span>` : ''}</h2>
-    ${film.director ? `<p class="film-director">${esc(film.director)}</p>` : ''}
-    <p class="film-meta">${facts.map(esc).join(' · ')}</p>
-    ${film.alias ? `<p class="film-meta">${esc(film.alias)}</p>` : ''}
-    ${film.free ? '<p class="film-admission">Entrada gratuita</p>' : ''}
+    <div class="film-heading">
+      ${renderFilmPoster(data, event)}
+      <div class="film-heading-text">
+        <h2 id="film-title">${esc(event.title || film.title)}${year ? ` <span class="film-year">(${year})</span>` : ''}</h2>
+        ${film.director ? `<p class="film-director">${esc(film.director)}</p>` : ''}
+        <p class="film-meta">${facts.map(esc).join(' · ')}</p>
+        ${film.alias ? `<p class="film-meta">${esc(film.alias)}</p>` : ''}
+        ${film.free ? '<p class="film-admission">Entrada gratuita</p>' : ''}
+      </div>
+    </div>
     <p class="detail-when">
       ${dateLabel(event.date)}
       <strong>${clock(event.start)}${finish === null ? '' : `–${clock(finish, true)}`}</strong>
@@ -129,6 +137,7 @@ function renderDetail() {
       ${ticket && ticket !== source ? `<a href="${esc(ticket)}" target="_blank" rel="noopener">Entradas ↗</a>` : ''}
       ${letterboxd ? `<a href="https://letterboxd.com/film/${esc(letterboxd)}/" target="_blank" rel="noopener">Letterboxd ↗</a>` : ''}
     </div>
+    ${renderFestivalHistory(data, event)}
     ${letterboxd ? `
       <iframe class="letterboxd-rating"
         src="https://embed.letterboxd.com/film/${esc(letterboxd)}/embed-histogram/?theme=light&notitle=true&nobackground=true"
@@ -139,7 +148,7 @@ function renderDetail() {
       <details>
         <summary>Películas</summary>
         <ul class="short-list">${film.components.map(short => `
-          <li><a href="${esc(short.source)}" target="_blank" rel="noopener">${esc(short.title)}</a>${yearOf({}, short) ? ` · ${yearOf({}, short)}` : ''}${Number.isFinite(short.duration) ? ` · ${short.duration} min` : ''}${short.director ? `<br>${esc(short.director)}` : ''}${short.letterboxd ? `<br><a href="https://letterboxd.com/film/${esc(short.letterboxd)}/" target="_blank" rel="noopener" aria-label="${esc(short.title)} en Letterboxd">Letterboxd ↗</a>` : ''}</li>
+          <li><div class="short-heading">${renderFilmPoster(data, event, short)}<div><a href="${esc(short.source)}" target="_blank" rel="noopener">${esc(short.title)}</a>${yearOf({}, short) ? ` · ${yearOf({}, short)}` : ''}${Number.isFinite(short.duration) ? ` · ${short.duration} min` : ''}${short.director ? `<br>${esc(short.director)}` : ''}${short.letterboxd ? `<br><a href="https://letterboxd.com/film/${esc(short.letterboxd)}/" target="_blank" rel="noopener" aria-label="${esc(short.title)} en Letterboxd">Letterboxd ↗</a>` : ''}</div></div>${renderFestivalHistory(data, event, short)}</li>
         `).join('')}</ul>
       </details>
     ` : ''}
@@ -236,6 +245,9 @@ dialog.addEventListener('click', event => {
   const bounds = dialog.getBoundingClientRect();
   if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) dialog.close();
 });
+dialog.addEventListener('error', event => {
+  if (event.target.matches('.film-poster')) event.target.hidden = true;
+}, true);
 $('#share-screening').addEventListener('click', event => showShare(eventsById.get(detailEvent), event.currentTarget));
 dialog.addEventListener('close', () => {
   const url = new URL(location.href);
@@ -255,3 +267,27 @@ renderFestival();
 renderDays();
 renderSchedule();
 if (requestedScreening) showDetail(requestedScreening.id);
+
+// The agenda works immediately, even if the optional local snapshot is unavailable.
+fetch('./data/tmdb-festival-history.json?v=20261105-tmdb-authority', { signal: AbortSignal.timeout(5000) })
+  .then(response => { if (!response.ok) throw new Error('History unavailable'); return response.json(); })
+  .then(snapshot => {
+    data.festivalHistory = snapshot.films || {};
+    data.filmPosters = snapshot.posters || {};
+    applyFilmMetadata(data, snapshot.metadata);
+    const active = document.activeElement;
+    const focusedEvent = active.closest('[data-event]')?.dataset.event;
+    const focusedControl = active.matches('.event-share') ? '.event-share' : active.matches('.event-rating') ? '.event-rating' : '.event-main';
+    renderSchedule();
+    if (focusedEvent) {
+      const card = document.querySelector(`[data-event="${focusedEvent}"]`);
+      const control = card?.querySelector(focusedControl);
+      (control?.offsetParent ? control : card?.querySelector('.event-main'))?.focus({ preventScroll: true });
+    }
+    if (dialog.open) {
+      const programmeOpen = $('#film-detail details')?.open;
+      renderDetail();
+      if (programmeOpen) $('#film-detail details').open = true;
+    }
+  })
+  .catch(() => {});

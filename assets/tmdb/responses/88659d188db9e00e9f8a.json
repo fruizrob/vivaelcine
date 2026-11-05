@@ -1,0 +1,637 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/764776?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:24.985Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "homepage": "",
+    "id": 764776,
+    "imdb_id": "tt0063326",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Gli amori di Angelica",
+    "overview": "El emperador Tiberio envía tropas al norte de Africa para someter a los rebeldes.",
+    "popularity": 0.5494,
+    "poster_path": "/wDQZNTEKTN4Yz4v6MgGIvoX08zV.jpg",
+    "production_companies": [
+      {
+        "id": 143818,
+        "logo_path": null,
+        "name": "Eridania Cinematografica",
+        "origin_country": "IT"
+      },
+      {
+        "id": 143128,
+        "logo_path": null,
+        "name": "Finarte",
+        "origin_country": ""
+      },
+      {
+        "id": 136839,
+        "logo_path": null,
+        "name": "Teide P.C",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      },
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "1966-12-26",
+    "revenue": 0,
+    "runtime": 88,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La mujer del desierto",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1019113,
+          "known_for_department": "Acting",
+          "name": "Claudie Lange",
+          "original_name": "Claudie Lange",
+          "popularity": 0.3332,
+          "profile_path": "/dUms4gAdEfFQYAhBtaRsScNHj1P.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5fb1963ea22d3e003f0652d6",
+          "order": 0
+        },
+        {
+          "adult": true,
+          "gender": 2,
+          "id": 1587928,
+          "known_for_department": "Acting",
+          "name": "Joaquín Blanco",
+          "original_name": "Joaquín Blanco",
+          "popularity": 0,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5fb19645afa1b0003fb6666a",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 557108,
+          "known_for_department": "Acting",
+          "name": "Aldo Berti",
+          "original_name": "Aldo Berti",
+          "popularity": 0.5492,
+          "profile_path": "/nvkkID9FmnBDKUsKZFjLnl9npai.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "5fb1964ddb154f003d4b3a09",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2857943,
+          "known_for_department": "Acting",
+          "name": "Carroll Breck",
+          "original_name": "Carroll Breck",
+          "popularity": 0.2158,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "5fb19654d0b434003fa067ab",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1042793,
+          "known_for_department": "Acting",
+          "name": "Dina De Santis",
+          "original_name": "Dina De Santis",
+          "popularity": 0.2955,
+          "profile_path": "/g36ZrZEYdsIWjtWlksUhXVetCic.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "5fb1965b3a48c5003d8021eb",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 138677,
+          "known_for_department": "Acting",
+          "name": "Marta May",
+          "original_name": "Marta May",
+          "popularity": 1.122,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "5fb1966137b3a9004203bd59",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1182824,
+          "known_for_department": "Acting",
+          "name": "Mercedes Monterrey",
+          "original_name": "Mercedes Monterrey",
+          "popularity": 0.2736,
+          "profile_path": "/aVyN4Wv0zodb1AehgDHrpGfVZsf.jpg",
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "5fb196677caa4700408b4cc5",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1098434,
+          "known_for_department": "Acting",
+          "name": "Dámaso Muní",
+          "original_name": "Dámaso Muní",
+          "popularity": 0.6785,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "5fb1966fa22d3e0041056884",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 139130,
+          "known_for_department": "Acting",
+          "name": "Vassili Karis",
+          "original_name": "Vassili Karis",
+          "popularity": 0.4417,
+          "profile_path": "/bdMpe1MdsVT0NmRWNPFseO7Pq7e.jpg",
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "5fb1967737b3a9004203bd9f",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1054263,
+          "known_for_department": "Acting",
+          "name": "Fernando Alesves",
+          "original_name": "Carlos Otero",
+          "popularity": 0.2058,
+          "profile_path": "/x1yCoERobxuRQFPNrhtFFkiFOeU.jpg",
+          "cast_id": 10,
+          "character": "",
+          "credit_id": "5fb1967d1f027500405950bc",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2857944,
+          "known_for_department": "Acting",
+          "name": "Peter Ucci",
+          "original_name": "Peter Ucci",
+          "popularity": 0.095,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "",
+          "credit_id": "5fb196833a48c5003c7f24d5",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2857945,
+          "known_for_department": "Acting",
+          "name": "Ettore Toscano",
+          "original_name": "Ettore Toscano",
+          "popularity": 0.1354,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "",
+          "credit_id": "5fb1968ad55e4d003cd277b1",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2786140,
+          "known_for_department": "Acting",
+          "name": "Marilù Sangiorgi",
+          "original_name": "Marilù Sangiorgi",
+          "popularity": 0.1369,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "",
+          "credit_id": "5fb19690945c200040eaf053",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 571158,
+          "known_for_department": "Acting",
+          "name": "Cristina Tamborra",
+          "original_name": "Cristina Tamborra",
+          "popularity": 0.2329,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "",
+          "credit_id": "5fb196c812c604003fb5b722",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 89774,
+          "known_for_department": "Acting",
+          "name": "Julián Ugarte",
+          "original_name": "Julián Ugarte",
+          "popularity": 1.2195,
+          "profile_path": "/koF6SbF0lgzpHerZTqHgfKfvs2m.jpg",
+          "cast_id": 15,
+          "character": "",
+          "credit_id": "5fb196d04a4bfc0040b68405",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32677,
+          "known_for_department": "Acting",
+          "name": "Claudio Gora",
+          "original_name": "Claudio Gora",
+          "popularity": 0.529,
+          "profile_path": "/otKGKlrLIP0NnuVehXGaFyyItGm.jpg",
+          "cast_id": 16,
+          "character": "",
+          "credit_id": "5fb196e9d0b434003fa0682b",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2857950,
+          "known_for_department": "Acting",
+          "name": "José Fiol",
+          "original_name": "José Fiol",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "",
+          "credit_id": "5fb196f89d592c003c5a49b6",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2777628,
+          "known_for_department": "Acting",
+          "name": "Sandro Mondini",
+          "original_name": "Sandro Mondini",
+          "popularity": 0.1542,
+          "profile_path": "/5XP7qRjfymSikbxZrcjtmCZE6o4.jpg",
+          "cast_id": 18,
+          "character": "",
+          "credit_id": "5fb1970013af5f003e3d59ee",
+          "order": 17
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1089076,
+          "known_for_department": "Writing",
+          "name": "Luigi Emmanuele",
+          "original_name": "Luigi Emmanuele",
+          "popularity": 0.3242,
+          "profile_path": null,
+          "credit_id": "5fb19744ec45520040f97803",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1204959,
+          "known_for_department": "Camera",
+          "name": "Romolo Garroni",
+          "original_name": "Romolo Garroni",
+          "popularity": 0.1871,
+          "profile_path": null,
+          "credit_id": "5fb197699ca75900424db7a4",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2857953,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Mario De Rossi",
+          "original_name": "Mario De Rossi",
+          "popularity": 0.0961,
+          "profile_path": null,
+          "credit_id": "5fb19799a22d3e003e05b096",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": true,
+          "gender": 2,
+          "id": 1203540,
+          "known_for_department": "Writing",
+          "name": "Luigi Latini de Marchi",
+          "original_name": "Luigi Latini de Marchi",
+          "popularity": 0,
+          "profile_path": null,
+          "credit_id": "5fb1973a626208003db64991",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1425168,
+          "known_for_department": "Acting",
+          "name": "Albino Principe",
+          "original_name": "Albino Principe",
+          "popularity": 0.3377,
+          "profile_path": null,
+          "credit_id": "5fb197ae229ae2003f42ab7e",
+          "department": "Production",
+          "job": "General Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1695066,
+          "known_for_department": "Art",
+          "name": "Manuel Infiesta",
+          "original_name": "Manuel Infiesta",
+          "popularity": 0.3765,
+          "profile_path": null,
+          "credit_id": "5fb19783735205003f162137",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2857954,
+          "known_for_department": "Sound",
+          "name": "Bruno Bonavolontà",
+          "original_name": "Bruno Bonavolontà",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "5fb197e66262080040b46ebd",
+          "department": "Sound",
+          "job": "Conductor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2015633,
+          "known_for_department": "Production",
+          "name": "Ugo Novello",
+          "original_name": "Ugo Novello",
+          "popularity": 0.1516,
+          "profile_path": null,
+          "credit_id": "5fb197b89b6e47003ca71dea",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2325446,
+          "known_for_department": "Directing",
+          "name": "Herminia Arnau",
+          "original_name": "Herminia Arnau",
+          "popularity": 0.1339,
+          "profile_path": null,
+          "credit_id": "5fb198097caa47003f8ac5bf",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 233355,
+          "known_for_department": "Directing",
+          "name": "Vittorio De Sisti",
+          "original_name": "Vittorio De Sisti",
+          "popularity": 0.4936,
+          "profile_path": "/6k4yWaJvXa52LoOnRbuRtkgU3Ls.jpg",
+          "credit_id": "5fb197c2ec4552003ff90782",
+          "department": "Sound",
+          "job": "Sound Engineer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2857955,
+          "known_for_department": "Production",
+          "name": "Antonio Albano",
+          "original_name": "Antonio Albano",
+          "popularity": 0.113,
+          "profile_path": null,
+          "credit_id": "5fb19814626208003fb4ed31",
+          "department": "Production",
+          "job": "Production Secretary"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1580266,
+          "known_for_department": "Editing",
+          "name": "Dolores Tamburini",
+          "original_name": "Dolores Tamburini",
+          "popularity": 0.2311,
+          "profile_path": null,
+          "credit_id": "5fb19771a22d3e003f06560e",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1875269,
+          "known_for_department": "Production",
+          "name": "Antonio Jover",
+          "original_name": "Antonio Jover",
+          "popularity": 0.6989,
+          "profile_path": null,
+          "credit_id": "5fb197a3c15f89003f85541d",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2857951,
+          "known_for_department": "Art",
+          "name": "Manuel Balzarini",
+          "original_name": "Manuel Balzarini",
+          "popularity": 0.1075,
+          "profile_path": null,
+          "credit_id": "5fb1977b9ca75900404d2b57",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 30892,
+          "known_for_department": "Sound",
+          "name": "Marcello Gigante",
+          "original_name": "Marcello Gigante",
+          "popularity": 0.1816,
+          "profile_path": null,
+          "credit_id": "5fb1974f3a48c5003c7f25bd",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 571161,
+          "known_for_department": "Camera",
+          "name": "Jaime Deu Casas",
+          "original_name": "Jaime Deu Casas",
+          "popularity": 0.2851,
+          "profile_path": null,
+          "credit_id": "5fb19760229ae2003f42ab0f",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 53949,
+          "known_for_department": "Editing",
+          "name": "Luis Puigvert",
+          "original_name": "Luis Puigvert",
+          "popularity": 0.4501,
+          "profile_path": null,
+          "credit_id": "5fb197d6c15f89003f855424",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": true,
+          "gender": 2,
+          "id": 1203540,
+          "known_for_department": "Writing",
+          "name": "Luigi Latini de Marchi",
+          "original_name": "Luigi Latini de Marchi",
+          "popularity": 0,
+          "profile_path": null,
+          "credit_id": "5fb1971937b3a9003f02e16b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2341079,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Fernando De Rossi",
+          "original_name": "Fernando De Rossi",
+          "popularity": 0.1183,
+          "profile_path": null,
+          "credit_id": "5fb1978f13af5f00413ea2d1",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1125523,
+          "known_for_department": "Camera",
+          "name": "Claudio Morabito",
+          "original_name": "Claudio Morabito",
+          "popularity": 0.2078,
+          "profile_path": "/rHncPEpOECBrPg6ejyrDlgzKp1A.jpg",
+          "credit_id": "5fb197cc3a48c5003f7fd15c",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Barcelona",
+              "release_date": "1969-01-13T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Madrid",
+              "release_date": "1971-04-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1966-12-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

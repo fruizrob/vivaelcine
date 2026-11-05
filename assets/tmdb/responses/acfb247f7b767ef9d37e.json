@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Quedate+quieto+o+te+amo&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:02.176Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/6IbHn8oNOt7x4SRduFg5SXYoR9P.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1197118,
+        "title": "Quedate quieto o te amo",
+        "original_language": "es",
+        "original_title": "Quedate quieto o te amo",
+        "overview": "Hasta los animales más insignificantes tienen intacto el instinto de supervivencia. Pero El Malincho no: este joven bandido busca desesperadamente refugio en el amor.",
+        "popularity": 0.8722,
+        "poster_path": "/a99StEW3VtbGN5o1c4x12PyDYU8.jpg",
+        "release_date": "2023-11-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

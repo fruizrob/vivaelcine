@@ -1,0 +1,355 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/621875?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:20.842Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/aDUC4b47NsOAI1yBj0zDis9D1RA.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 621875,
+    "imdb_id": "tt0141887",
+    "origin_country": [
+      "RO"
+    ],
+    "original_language": "ro",
+    "original_title": "Țărmul n-are sfârșit",
+    "overview": "",
+    "popularity": 0.7384,
+    "poster_path": "/zyRPvx8BbivsJWLaHQ1eEvpg1go.jpg",
+    "production_companies": [
+      {
+        "id": 13644,
+        "logo_path": null,
+        "name": "Studioul Cinematografic București",
+        "origin_country": "RO"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "RO",
+        "name": "Romania"
+      }
+    ],
+    "release_date": "1992-01-01",
+    "revenue": 0,
+    "runtime": 73,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Romanian",
+        "iso_639_1": "ro",
+        "name": "Română"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Țărmul n-are sfârșit",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 7,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2382047,
+          "known_for_department": "Acting",
+          "name": "Marina Voica",
+          "original_name": "Marina Voica",
+          "popularity": 0.115,
+          "profile_path": "/1PhFK6gyz7GITngwg1VrQCrMPl9.jpg",
+          "cast_id": 2,
+          "character": "Fata sovietică",
+          "credit_id": "5d4cf7613c887d7082847328",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2382048,
+          "known_for_department": "Acting",
+          "name": "Eugen Popiță",
+          "original_name": "Eugen Popiță",
+          "popularity": 0.3447,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Băiatul",
+          "credit_id": "5d4cf77b1065d300134d4558",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2382055,
+          "known_for_department": "Production",
+          "name": "Octavian Nicolae",
+          "original_name": "Octavian Nicolae",
+          "popularity": 0.1477,
+          "profile_path": null,
+          "credit_id": "5d4cfb4b1283e90013869bda",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2375033,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Aurelia Baciu",
+          "original_name": "Aurelia Baciu",
+          "popularity": 0.1771,
+          "profile_path": null,
+          "credit_id": "5d4cf99a699fb700179fb4d3",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2306960,
+          "known_for_department": "Sound",
+          "name": "Victor Cantuniari",
+          "original_name": "Victor Cantuniari",
+          "popularity": 0.1088,
+          "profile_path": null,
+          "credit_id": "5d4cfa10699fb700169fa5b2",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2382052,
+          "known_for_department": "Editing",
+          "name": "Valentina Uriadinskaia",
+          "original_name": "Valentina Uriadinskaia",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "credit_id": "5d4cfa3a3c887d001584cb22",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1161939,
+          "known_for_department": "Directing",
+          "name": "Mircea Săucan",
+          "original_name": "Mircea Săucan",
+          "popularity": 0.1615,
+          "profile_path": "/vhyTwA9ZPVdXaIdB5EGJJm8chNb.jpg",
+          "credit_id": "5d4cf7301283e90014869487",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2382049,
+          "known_for_department": "Writing",
+          "name": "Watzlaw Stukas",
+          "original_name": "Watzlaw Stukas",
+          "popularity": 0.1013,
+          "profile_path": null,
+          "credit_id": "5d4cf7f4699fb700139f966a",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2382050,
+          "known_for_department": "Editing",
+          "name": "Mihai Tolu",
+          "original_name": "Mihai Tolu",
+          "popularity": 0.1008,
+          "profile_path": null,
+          "credit_id": "5d4cf91f1065d300154d25fc",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1161942,
+          "known_for_department": "Sound",
+          "name": "Tiberiu Olah",
+          "original_name": "Tiberiu Olah",
+          "popularity": 0.2286,
+          "profile_path": "/oAUCB2YbrN3gcJVhgL0C4Zr4pw0.jpg",
+          "credit_id": "5d4cfb643c887d001184cfe9",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2377167,
+          "known_for_department": "Sound",
+          "name": "Iosif Conta",
+          "original_name": "Iosif Conta",
+          "popularity": 0.1665,
+          "profile_path": null,
+          "credit_id": "5d4cfb901283e90016869795",
+          "department": "Sound",
+          "job": "Conductor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2382059,
+          "known_for_department": "Crew",
+          "name": "Constantin Roateș",
+          "original_name": "Constantin Roateș",
+          "popularity": 0.1404,
+          "profile_path": null,
+          "credit_id": "5d4cfc001283e90013869e6d",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1640059,
+          "known_for_department": "Art",
+          "name": "Zoltán Szabó",
+          "original_name": "Zoltán Szabó",
+          "popularity": 0.3772,
+          "profile_path": null,
+          "credit_id": "5d4cf96a699fb700149fb514",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2382053,
+          "known_for_department": "Production",
+          "name": "Constanţa Stancu",
+          "original_name": "Constanţa Stancu",
+          "popularity": 0.1144,
+          "profile_path": null,
+          "credit_id": "5d4cfb353c887d001384d615",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2382061,
+          "known_for_department": "Camera",
+          "name": "Costea Ionescu",
+          "original_name": "Costea Ionescu",
+          "popularity": 0.1119,
+          "profile_path": null,
+          "credit_id": "5d4cfc4e1283e90012868192",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1161941,
+          "known_for_department": "Camera",
+          "name": "Gheorghe Viorel Todan",
+          "original_name": "Gheorghe Viorel Todan",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "5d4cfc39699fb700179fc185",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2083412,
+          "known_for_department": "Directing",
+          "name": "Gheorghe Constantinescu",
+          "original_name": "Gheorghe Constantinescu",
+          "popularity": 0.2439,
+          "profile_path": null,
+          "credit_id": "5d4cfabf699fb700179fbbf4",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1161939,
+          "known_for_department": "Directing",
+          "name": "Mircea Săucan",
+          "original_name": "Mircea Săucan",
+          "popularity": 0.1615,
+          "profile_path": "/vhyTwA9ZPVdXaIdB5EGJJm8chNb.jpg",
+          "credit_id": "5d4cf8073c887d001284c1db",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1739007,
+          "known_for_department": "Directing",
+          "name": "Constantin Neagu",
+          "original_name": "Constantin Neagu",
+          "popularity": 0.4752,
+          "profile_path": null,
+          "credit_id": "5d4cfa89699fb700169fa8ca",
+          "department": "Directing",
+          "job": "Second Unit Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "year only",
+              "release_date": "1992-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ro",
+              "note": "year only",
+              "release_date": "1962-01-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

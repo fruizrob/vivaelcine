@@ -1,0 +1,85 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/764379?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:41.450Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 764379,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Terra",
+    "overview": "",
+    "popularity": 0.5266,
+    "poster_path": "/ykFcgLgeMSiuCCd8MAzYnx8QRAM.jpg",
+    "production_companies": [
+      {
+        "id": 10473,
+        "logo_path": "/lMUDQZVtg8On4PAW5XFQPaQy6UK.png",
+        "name": "ONF | NFB",
+        "origin_country": "CA"
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2005-02-01",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1996907,
+          "known_for_department": "Directing",
+          "name": "Alan Pakarnyk",
+          "original_name": "Alan Pakarnyk",
+          "popularity": 0.5021,
+          "profile_path": null,
+          "credit_id": "5fb05c127caa470040894996",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-02-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

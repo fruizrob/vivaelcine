@@ -1,0 +1,612 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/580600?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:34.592Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/ivKorzMwX7ZEWtJozRn6Q3VgZgO.jpg",
+    "belongs_to_collection": null,
+    "budget": 5100000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 580600,
+    "imdb_id": "tt8329148",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Terra Willy, planète inconnue",
+    "overview": "Tras la destrucción de su nave, el joven Willy se separa de sus padres con quienes viajó por el espacio. Su cápsula de rescate aterriza en un planeta salvaje e inexplorado. Con la ayuda de Buck, un robot de supervivencia, tendrá que esperar hasta la llegada de la misión de rescate. Mientras tanto, Willy, Buck y Flash, una criatura alienígena de la que se han hecho amigos, se dispondrán a conocer este planeta en el que han aterrizado por casualidad. Descubrirán su fauna, su flora ... pero también sus peligros.",
+    "popularity": 4.1723,
+    "poster_path": "/jDZZl36lkxRqrLfpQRsEr2MP5Bq.jpg",
+    "production_companies": [
+      {
+        "id": 92840,
+        "logo_path": "/4LyDs7gsAMq5sg3fPjUa1P52emj.png",
+        "name": "Logical Pictures",
+        "origin_country": "FR"
+      },
+      {
+        "id": 28792,
+        "logo_path": "/v50Ht1JMylIOeMfjHGO9u4YU6iF.png",
+        "name": "TAT Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 208,
+        "logo_path": "/bxQYlRhQu6nbohBEL0SWz8xIAGy.png",
+        "name": "Bac Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 591,
+        "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+        "name": "France 3 Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 18570,
+        "logo_path": null,
+        "name": "Master Films",
+        "origin_country": ""
+      },
+      {
+        "id": 310,
+        "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+        "name": "CNC",
+        "origin_country": "FR"
+      },
+      {
+        "id": 7131,
+        "logo_path": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+        "name": "France Télévisions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 11620,
+        "logo_path": "/f3hRdCaK1w9qH1Qs8nLd2L2bae1.png",
+        "name": "OCS",
+        "origin_country": "FR"
+      },
+      {
+        "id": 311,
+        "logo_path": "/TNGvZ8zOklntjPP3EcsHtrR8Rc.png",
+        "name": "PROCIREP",
+        "origin_country": "FR"
+      },
+      {
+        "id": 10611,
+        "logo_path": "/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png",
+        "name": "Ciné+",
+        "origin_country": "FR"
+      },
+      {
+        "id": 254343,
+        "logo_path": null,
+        "name": "Cofiloisirs",
+        "origin_country": "FR"
+      },
+      {
+        "id": 11699,
+        "logo_path": "/83QgqlqE0sqlpyDNfelHdUlkw6E.png",
+        "name": "Sacem",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2019-04-03",
+    "revenue": 3123088,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra Willy: Planeta desconocido",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 231,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1370967,
+          "known_for_department": "Acting",
+          "name": "Timothé Vom Dorp",
+          "original_name": "Timothé Vom Dorp",
+          "popularity": 1.0256,
+          "profile_path": "/qDMd9aaWb36rPt3jFxZgwtS1SZO.jpg",
+          "cast_id": 5,
+          "character": "Willy (voice)",
+          "credit_id": "5d6bfee665686e000f88c730",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 41035,
+          "known_for_department": "Acting",
+          "name": "Édouard Baer",
+          "original_name": "Édouard Baer",
+          "popularity": 0.5386,
+          "profile_path": "/dXrcKH4VFwXs34e4UlUwEUdAh0g.jpg",
+          "cast_id": 6,
+          "character": "Buck (voice)",
+          "credit_id": "5d6bff0c0e4fc81ce0d8e9aa",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1826565,
+          "known_for_department": "Acting",
+          "name": "Marie-Eugénie Maréchal",
+          "original_name": "Marie-Eugénie Maréchal",
+          "popularity": 0.4628,
+          "profile_path": "/45D2ELhj5vPLbgqbEZEgIZ5K9U8.jpg",
+          "cast_id": 7,
+          "character": "Mom (voice)",
+          "credit_id": "5d6bff20efcea900119a6884",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1295322,
+          "known_for_department": "Acting",
+          "name": "Guillaume Lebon",
+          "original_name": "Guillaume Lebon",
+          "popularity": 0.3323,
+          "profile_path": "/5Wsc8UmY4iEH1nN1NOhkcaCzU3y.jpg",
+          "cast_id": 8,
+          "character": "Dad (voice)",
+          "credit_id": "5d6bff4f0e4fc80013d9a03d",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1336655,
+          "known_for_department": "Acting",
+          "name": "Barbara Tissier",
+          "original_name": "Barbara Tissier",
+          "popularity": 0.5111,
+          "profile_path": "/oAhObnVhqsdJHO6vlMuW2a82Mwa.jpg",
+          "cast_id": 9,
+          "character": "Buck's internal voice (voice)",
+          "credit_id": "5d6bff6865686e3c12881258",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1049952,
+          "known_for_department": "Directing",
+          "name": "Eric Tosti",
+          "original_name": "Eric Tosti",
+          "popularity": 0.4708,
+          "profile_path": "/wfOTI2jpbxydcZnJ2KbVkhXQQMf.jpg",
+          "credit_id": "5c5c124f9251413376b9c546",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1049953,
+          "known_for_department": "Production",
+          "name": "Jean-François Tosti",
+          "original_name": "Jean-François Tosti",
+          "popularity": 0.3484,
+          "profile_path": null,
+          "credit_id": "5d6bffc2549dda24447eb44a",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1049952,
+          "known_for_department": "Directing",
+          "name": "Eric Tosti",
+          "original_name": "Eric Tosti",
+          "popularity": 0.4708,
+          "profile_path": "/wfOTI2jpbxydcZnJ2KbVkhXQQMf.jpg",
+          "credit_id": "5d6bffae5f2db1000f517599",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1903957,
+          "known_for_department": "Sound",
+          "name": "Olivier Cussac",
+          "original_name": "Olivier Cussac",
+          "popularity": 0.2048,
+          "profile_path": null,
+          "credit_id": "5d6bffd05f2db10011517a42",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1049951,
+          "known_for_department": "Directing",
+          "name": "David Alaux",
+          "original_name": "David Alaux",
+          "popularity": 0.6296,
+          "profile_path": "/xW08I8oCSSNUHEU6xL0qeIC764b.jpg",
+          "credit_id": "5d6bffa25f2db100105178c8",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1049953,
+          "known_for_department": "Production",
+          "name": "Jean-François Tosti",
+          "original_name": "Jean-François Tosti",
+          "popularity": 0.3484,
+          "profile_path": null,
+          "credit_id": "5d6bffe05f2db100105178e3",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-09-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BE",
+          "release_dates": [
+            {
+              "certification": "6",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-04-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-02-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CZ",
+          "release_dates": [
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-07-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "6",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-12-05T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DK",
+          "release_dates": [
+            {
+              "certification": "7",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-05-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-04-26T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "APTA",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-09-27T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-04-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-08-23T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GR",
+          "release_dates": [
+            {
+              "certification": "Κ",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-07-30T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DVD",
+              "release_date": "2021-02-01T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HU",
+          "release_dates": [
+            {
+              "certification": "6",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-11-07T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ID",
+          "release_dates": [
+            {
+              "certification": "SU",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-05-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-04-18T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "6",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-12-04T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-05-31T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RU",
+          "release_dates": [
+            {
+              "certification": "6+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-05-10T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "6+",
+              "descriptors": [],
+              "iso_639_1": "ru",
+              "note": "Экспонента Фильм",
+              "release_date": "2022-08-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SE",
+          "release_dates": [
+            {
+              "certification": "7",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-05-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SK",
+          "release_dates": [
+            {
+              "certification": "7",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-07-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-05-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "PG",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "VOD",
+              "release_date": "2020-10-23T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Terra Willy: Unexplored Planet",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PT",
+          "title": "Planeta Willy",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "JP",
+          "title": "僕とロボと不思議な惑星",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "Terra Willy: Planeta desconocido",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DK",
+          "title": "Terra Willy Planete inconnue",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "EE",
+          "title": "Willy Ja Koletisplaneet",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

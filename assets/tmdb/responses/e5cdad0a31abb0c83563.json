@@ -1,0 +1,177 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/724541?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:23.562Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 724541,
+    "imdb_id": null,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Angélica María frente al Mar",
+    "overview": "",
+    "popularity": 0.8855,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2011-01-01",
+    "revenue": 0,
+    "runtime": 29,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Angélica María frente al Mar",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 145455,
+          "known_for_department": "Acting",
+          "name": "Angélica María",
+          "original_name": "Angélica María",
+          "popularity": 0.6211,
+          "profile_path": "/lOOCxxanJgfJEKvhPOk071ZJsFD.jpg",
+          "cast_id": 1,
+          "character": "Herself",
+          "credit_id": "5f0e89725c071b003570cc9e",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 80738,
+          "known_for_department": "Acting",
+          "name": "Angélica Vale",
+          "original_name": "Angélica Vale",
+          "popularity": 0.7628,
+          "profile_path": "/v7sqnNlV6dQmUjp1gI3ZeJLGOby.jpg",
+          "cast_id": 2,
+          "character": "Herself",
+          "credit_id": "5f0e8982d9554b0037b14c91",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2655540,
+          "known_for_department": "Directing",
+          "name": "Luis Zapata",
+          "original_name": "Luis Zapata",
+          "popularity": 0.1909,
+          "profile_path": "/8wZA9M1lkC2aKu6wzmopkXacB9K.jpg",
+          "cast_id": 3,
+          "character": "Himself",
+          "credit_id": "5f0e898f67b6130036b15f0b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2712719,
+          "known_for_department": "Acting",
+          "name": "Enrique Caballero",
+          "original_name": "Enrique Caballero",
+          "popularity": 0.8741,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "5f0e89f651a64e00336b1793",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2712720,
+          "known_for_department": "Acting",
+          "name": "Nelly Terán",
+          "original_name": "Nelly Terán",
+          "popularity": 0.2766,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "5f0e8a01d9554b0036b1212b",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2655544,
+          "known_for_department": "Writing",
+          "name": "José Dimayuga",
+          "original_name": "José Dimayuga",
+          "popularity": 0.2029,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "5f0e8a0d9672ed003746d08c",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2655544,
+          "known_for_department": "Writing",
+          "name": "José Dimayuga",
+          "original_name": "José Dimayuga",
+          "popularity": 0.2029,
+          "profile_path": null,
+          "credit_id": "5f0e8a385c071b003470e106",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2655540,
+          "known_for_department": "Directing",
+          "name": "Luis Zapata",
+          "original_name": "Luis Zapata",
+          "popularity": 0.1909,
+          "profile_path": "/8wZA9M1lkC2aKu6wzmopkXacB9K.jpg",
+          "credit_id": "5f0e8a2f67b6130036b15fd8",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "{\"folded_name\"=>\"Spanish; Castilian\", \"english_name\"=>\"Spanish\", \"iso_639_1\"=>\"es\", \"native_name\"=>\"Spanish; Castilian\"}",
+              "note": "",
+              "release_date": "2011-01-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

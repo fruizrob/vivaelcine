@@ -1,0 +1,454 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/518601?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:00.368Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/dyjTbGeV6iqO5zA0s2bvSjM71qj.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 518601,
+    "imdb_id": "tt7403570",
+    "origin_country": [
+      "RU"
+    ],
+    "original_language": "ru",
+    "original_title": "Два хвоста",
+    "overview": "Las aventuras de dos animales completamente diferentes por naturaleza: un serio y ahorrativo castor y un inquieto gato. Se conocen cuando el gato busca refugio de la lluvia en el bosque. El castor rescata al gato y se convierten en amigos íntimos. El gato realmente quiere ser famoso y cree que todos quieren serlo, pero no todos pueden admitirlo. Un día, la vida de esta pareja cambia abruptamente cuando extraterrestres de una galaxia lejana aterrizan en el bosque.",
+    "popularity": 1.7905,
+    "poster_path": "/xM93JAEDMySOGlQcPr18hAK9NgC.jpg",
+    "production_companies": [
+      {
+        "id": 103418,
+        "logo_path": null,
+        "name": "Licensing Brands",
+        "origin_country": "RU"
+      },
+      {
+        "id": 76049,
+        "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
+        "name": "Cinema Foundation of Russia",
+        "origin_country": "RU"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "RU",
+        "name": "Russia"
+      }
+    ],
+    "release_date": "2018-05-31",
+    "revenue": 0,
+    "runtime": 75,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Animales en apuros",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 41,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 932353,
+          "known_for_department": "Acting",
+          "name": "Сергей Бурунов",
+          "original_name": "Сергей Бурунов",
+          "popularity": 1.0547,
+          "profile_path": "/c2pbTB0BomzUMZPbTKTZ8wa7byW.jpg",
+          "cast_id": 9,
+          "character": "Max (voice)",
+          "credit_id": "5af0370b0e0a261d7c00ed5f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1754218,
+          "known_for_department": "Acting",
+          "name": "Диомид Виноградов",
+          "original_name": "Диомид Виноградов",
+          "popularity": 0.3613,
+          "profile_path": "/4VXryQlIAvpsXwUm2VTqsQI4ouJ.jpg",
+          "cast_id": 13,
+          "character": "(voice)",
+          "credit_id": "5c1ad00b9251414af5532137",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2046420,
+          "known_for_department": "Acting",
+          "name": "Ирина Киреева",
+          "original_name": "Ирина Киреева",
+          "popularity": 0.9782,
+          "profile_path": "/7ohjYfffIa6lbBrFb5KjFCElnnN.jpg",
+          "cast_id": 14,
+          "character": "(voice)",
+          "credit_id": "5c1ad01c0e0a265f6255b34d",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1265147,
+          "known_for_department": "Directing",
+          "name": "Василий Ровенский",
+          "original_name": "Василий Ровенский",
+          "popularity": 0.8796,
+          "profile_path": null,
+          "credit_id": "5ad502a59251415dd200634b",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2023975,
+          "known_for_department": "Editing",
+          "name": "Eduard Nuritdinov",
+          "original_name": "Eduard Nuritdinov",
+          "popularity": 0.1277,
+          "profile_path": null,
+          "credit_id": "5ad503210e0a2660b9006b2e",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2023970,
+          "known_for_department": "Directing",
+          "name": "Victor Azeev",
+          "original_name": "Victor Azeev",
+          "popularity": 0.1172,
+          "profile_path": null,
+          "credit_id": "5ad502730e0a2660b60069b5",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1265147,
+          "known_for_department": "Directing",
+          "name": "Василий Ровенский",
+          "original_name": "Василий Ровенский",
+          "popularity": 0.8796,
+          "profile_path": null,
+          "credit_id": "5ad5029d9251415dc90061e7",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 238618,
+          "known_for_department": "Production",
+          "name": "Роман Борисевич",
+          "original_name": "Роман Борисевич",
+          "popularity": 0.213,
+          "profile_path": null,
+          "credit_id": "5ad502b4c3a3680c0500607e",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2037965,
+          "known_for_department": "Directing",
+          "name": "Наталья Нилова",
+          "original_name": "Наталья Нилова",
+          "popularity": 0.5021,
+          "profile_path": null,
+          "credit_id": "5af0378d925141763e011aa9",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2037970,
+          "known_for_department": "Art",
+          "name": "Larisa Stupenkova",
+          "original_name": "Larisa Stupenkova",
+          "popularity": 0.1408,
+          "profile_path": null,
+          "credit_id": "5af03ab90e0a261d8c010f22",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2023972,
+          "known_for_department": "Production",
+          "name": "Максим Рогальский",
+          "original_name": "Максим Рогальский",
+          "popularity": 0.5164,
+          "profile_path": null,
+          "credit_id": "5af037dfc3a368140f0159c5",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2023973,
+          "known_for_department": "Camera",
+          "name": "Фёдор Мезенцев",
+          "original_name": "Фёдор Мезенцев",
+          "popularity": 0.13,
+          "profile_path": null,
+          "credit_id": "5c407be00e0a261554906fc1",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2023974,
+          "known_for_department": "Sound",
+          "name": "Иван Урюпин",
+          "original_name": "Иван Урюпин",
+          "popularity": 0.1893,
+          "profile_path": null,
+          "credit_id": "5c407bf19251417ba0ac47ec",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "L",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-11-15T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-05-31T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DK",
+          "release_dates": [
+            {
+              "certification": "7",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-02-07T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-11-15T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-03-30T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-10-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-11-06T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "ALL",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-11-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "AL",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-05-31T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RU",
+          "release_dates": [
+            {
+              "certification": "6+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-05-31T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SE",
+          "release_dates": [
+            {
+              "certification": "7",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-01-28T00:00:00.000Z",
+              "type": 4
+            },
+            {
+              "certification": "7",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DVD release",
+              "release_date": "2019-02-04T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-07-20T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "PG",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-12-31T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "VN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-08-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "GB",
+          "title": "Bob & Max - Furry Heroes",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CL",
+          "title": "Dva khvosta",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

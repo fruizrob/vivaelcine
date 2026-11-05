@@ -1,0 +1,308 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1580490?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:53.363Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 40,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "id": 1580490,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "48 Hours",
+    "overview": "",
+    "popularity": 0.7544,
+    "poster_path": "/6oghuDlvc5fu0jcfsiCYIpY3rnU.jpg",
+    "production_companies": [
+      {
+        "id": 258329,
+        "logo_path": null,
+        "name": "NW Studios",
+        "origin_country": ""
+      },
+      {
+        "id": 248950,
+        "logo_path": null,
+        "name": "SN Pictures",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-03-20",
+    "revenue": 0,
+    "runtime": 25,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "48 Hours",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4992960,
+          "known_for_department": "Acting",
+          "name": "Sanjay Arman Kumar II",
+          "original_name": "Sanjay Arman Kumar II",
+          "popularity": 0.1445,
+          "profile_path": "/vErElte1UEjHlOt6G8Fo3VDSHQq.jpg",
+          "cast_id": 1,
+          "character": "Tyler Cameron",
+          "credit_id": "6916c782763b5097ddac2807",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5573185,
+          "known_for_department": "Acting",
+          "name": "Manny Meza",
+          "original_name": "Manny Meza",
+          "popularity": 0.1998,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Brandon James",
+          "credit_id": "6916c79f763b5097ddac280b",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5816094,
+          "known_for_department": "Acting",
+          "name": "Josh Drozdenko",
+          "original_name": "Josh Drozdenko",
+          "popularity": 0.0884,
+          "profile_path": "/4KXWkuSbcMV0kmbbE3AhqzLI81T.jpg",
+          "cast_id": 3,
+          "character": "The Kidnapper",
+          "credit_id": "6916c7ba443c9c2d82876aaf",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5816095,
+          "known_for_department": "Acting",
+          "name": "Meredith Triplett",
+          "original_name": "Meredith Triplett",
+          "popularity": 0.1172,
+          "profile_path": "/wH6RKmxCHRohqMKhlyck7aGknY.jpg",
+          "cast_id": 4,
+          "character": "Kara Vargas",
+          "credit_id": "6916c7cd7dc8f9e2c331c96f",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4992967,
+          "known_for_department": "Directing",
+          "name": "Nick Wright",
+          "original_name": "Nick Wright",
+          "popularity": 0.1344,
+          "profile_path": null,
+          "credit_id": "6916db5b6cb3e5b8574c98e7",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4992947,
+          "known_for_department": "Camera",
+          "name": "Nick Wright",
+          "original_name": "Nick Wright",
+          "popularity": 0.095,
+          "profile_path": null,
+          "credit_id": "6916db6d6cb3e5b8574c98ea",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5816187,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Matthew Bedrosian",
+          "original_name": "Matthew Bedrosian",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6916db9195aa21afb7a0e14d",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5816188,
+          "known_for_department": "Editing",
+          "name": "Andres Bahns",
+          "original_name": "Andres Bahns",
+          "popularity": 0.0925,
+          "profile_path": null,
+          "credit_id": "6916dba6dc7b73f47c31c888",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5573195,
+          "known_for_department": "Acting",
+          "name": "Tracy Lane",
+          "original_name": "Tracy Lane",
+          "popularity": 0.2855,
+          "profile_path": null,
+          "credit_id": "6916dbd3034982ba0940e6a5",
+          "department": "Crew",
+          "job": "Score Engineer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5816192,
+          "known_for_department": "Crew",
+          "name": "Secoya Joaquin",
+          "original_name": "Secoya Joaquin",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "6916dc25dc4f028746a0df79",
+          "department": "Crew",
+          "job": "Score Engineer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5816193,
+          "known_for_department": "Sound",
+          "name": "Jonah Shoemaker",
+          "original_name": "Jonah Shoemaker",
+          "popularity": 0.1193,
+          "profile_path": null,
+          "credit_id": "6916dc42aebdc1993d876ad3",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5816194,
+          "known_for_department": "Camera",
+          "name": "Kekoa Sylva",
+          "original_name": "Kekoa Sylva",
+          "popularity": 0.1093,
+          "profile_path": null,
+          "credit_id": "6916dc875fb76ce1f8a0e274",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4992945,
+          "known_for_department": "Acting",
+          "name": "Eliot Derbenti",
+          "original_name": "Eliot Derbenti",
+          "popularity": 0.0977,
+          "profile_path": null,
+          "credit_id": "6916dcaa55b34f734fa0e0ef",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5816195,
+          "known_for_department": "Production",
+          "name": "Jack Furlong",
+          "original_name": "Jack Furlong",
+          "popularity": 0.1178,
+          "profile_path": null,
+          "credit_id": "6916dcba78d69718849c54d4",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5816196,
+          "known_for_department": "Production",
+          "name": "Camryn Shaffer",
+          "original_name": "Camryn Shaffer",
+          "popularity": 0.1169,
+          "profile_path": null,
+          "credit_id": "6916dcedd282b6e6929c5440",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4992947,
+          "known_for_department": "Camera",
+          "name": "Nick Wright",
+          "original_name": "Nick Wright",
+          "popularity": 0.095,
+          "profile_path": null,
+          "credit_id": "6916dd713eb4570f659c54a9",
+          "department": "Editing",
+          "job": "Editorial Coordinator"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2026-03-20T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

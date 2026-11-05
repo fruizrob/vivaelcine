@@ -1,0 +1,195 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/498263?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:01.756Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 498263,
+    "imdb_id": "tt7602640",
+    "origin_country": [
+      "SA"
+    ],
+    "original_language": "ar",
+    "original_title": "The Crow's Siesta",
+    "overview": "",
+    "popularity": 0.8438,
+    "poster_path": "/39BtpvmduXbl8jbjv3V5XVzgqSw.jpg",
+    "production_companies": [
+      {
+        "id": 240728,
+        "logo_path": null,
+        "name": "Sindbad Productions",
+        "origin_country": "TN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "TN",
+        "name": "Tunisia"
+      }
+    ],
+    "release_date": "2018-01-05",
+    "revenue": 0,
+    "runtime": 85,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Crow's Siesta",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1261821,
+          "known_for_department": "Acting",
+          "name": "Souhir Ben Amara",
+          "original_name": "Souhir Ben Amara",
+          "popularity": 0.6037,
+          "profile_path": "/6X9twGn6YAhmqaZ4vtMRr5ej8nh.jpg",
+          "cast_id": 0,
+          "character": "",
+          "credit_id": "5a5b78890e0a267fe6021e4c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 232729,
+          "known_for_department": "Acting",
+          "name": "Ahmed Abdelmonaâm Chouayet",
+          "original_name": "Ahmed Abdelmonaâm Chouayet",
+          "popularity": 0.1956,
+          "profile_path": "/ur0DseYJmLzcWxZJrxbEFv9a5JV.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5a5b78a8c3a36867d6020891",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1936859,
+          "known_for_department": "Acting",
+          "name": "Foued Litaiem",
+          "original_name": "Foued Litaiem",
+          "popularity": 0.4021,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5a5b78dd9251413f6b020125",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2389247,
+          "known_for_department": "Acting",
+          "name": "Fethi Akkari",
+          "original_name": "Fethi Akkari",
+          "popularity": 0.2847,
+          "profile_path": "/44iY9dqpkmjmGnUpJUoKVBVwjka.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "66fe96f1c9a10d46ea7c942b",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4978229,
+          "known_for_department": "Acting",
+          "name": "Boutheina Hemissi",
+          "original_name": "Boutheina Hemissi",
+          "popularity": 0.2081,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "66fe970ee84eeb35a0f7d1b9",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2103147,
+          "known_for_department": "Production",
+          "name": "Moez Kamoun",
+          "original_name": "Moez Kamoun",
+          "popularity": 0.3875,
+          "profile_path": null,
+          "credit_id": "66fe96bb6fc74e5756f7d308",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2103147,
+          "known_for_department": "Production",
+          "name": "Moez Kamoun",
+          "original_name": "Moez Kamoun",
+          "popularity": 0.3875,
+          "profile_path": null,
+          "credit_id": "66fe96c56fc74e5756f7d311",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "TN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "{\"folded_name\"=>\"Arabic\", \"english_name\"=>\"Arabic\", \"iso_639_1\"=>\"ar\", \"native_name\"=>\"Arabic\"}",
+              "note": "",
+              "release_date": "2018-01-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "TN",
+          "title": "شيطان القايلة",
+          "type": "Original title"
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "La sieste du corbeau",
+          "type": "French title"
+        }
+      ]
+    }
+  }
+}

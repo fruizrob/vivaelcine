@@ -1,0 +1,73 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/521623?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:39.714Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 521623,
+    "imdb_id": null,
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Graf Zokan (Franz West)",
+    "overview": "",
+    "popularity": 1.0091,
+    "poster_path": "/5DWTEznzFx6CwLfMNkRPjYpgd7I.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1969-12-23",
+    "revenue": 0,
+    "runtime": 3,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Graf Zokan (Franz West)",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1364072,
+          "known_for_department": "Directing",
+          "name": "Friedl vom Gröller",
+          "original_name": "Friedl vom Gröller",
+          "popularity": 0.4736,
+          "profile_path": "/zcZlEUNeMXRnJWPLKkwTqKxKva2.jpg",
+          "credit_id": "5ae7eb1a9251410cec01045a",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-12-23T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

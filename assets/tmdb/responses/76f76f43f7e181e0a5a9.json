@@ -1,0 +1,204 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1408541?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:26.083Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 1408541,
+    "imdb_id": "tt2331111",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The End",
+    "overview": "",
+    "popularity": 1.0724,
+    "poster_path": "/ye9EfzSdXMsRe5AV0ddnHmuTguk.jpg",
+    "production_companies": [
+      {
+        "id": 29318,
+        "logo_path": null,
+        "name": "Innova Entertainment",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2009-01-01",
+    "revenue": 0,
+    "runtime": 9,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The End",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5144533,
+          "known_for_department": "Acting",
+          "name": "Gabriella Albert",
+          "original_name": "Gabriella Albert",
+          "popularity": 0.2707,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Girl",
+          "credit_id": "676f535e769852f29012c56a",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4048004,
+          "known_for_department": "Acting",
+          "name": "Kahlil Méndez",
+          "original_name": "Kahlil Méndez",
+          "popularity": 0.4904,
+          "profile_path": "/pEYLxdZHtxFnssB2w0qCFKooTb9.jpg",
+          "cast_id": 2,
+          "character": "Fugitive",
+          "credit_id": "676f5374bf10ff1984618a71",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1517275,
+          "known_for_department": "Acting",
+          "name": "Edelyn Okano",
+          "original_name": "Edelyn Okano",
+          "popularity": 0.4982,
+          "profile_path": "/vfUfkG0J1rwi9DgFSqDFBR9Gq0K.jpg",
+          "cast_id": 3,
+          "character": "Fugitive's Wife",
+          "credit_id": "676f53901efc2434cf12c7b7",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1092388,
+          "known_for_department": "Directing",
+          "name": "Benjamín López",
+          "original_name": "Benjamín López",
+          "popularity": 0.2422,
+          "profile_path": "/uMcsAVHgR1n0LaNVvoO9CgwNmJL.jpg",
+          "credit_id": "676f53b3bf10ff1984618a7c",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1092388,
+          "known_for_department": "Directing",
+          "name": "Benjamín López",
+          "original_name": "Benjamín López",
+          "popularity": 0.2422,
+          "profile_path": "/uMcsAVHgR1n0LaNVvoO9CgwNmJL.jpg",
+          "credit_id": "676f53bd0c4402b63192b379",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1092388,
+          "known_for_department": "Directing",
+          "name": "Benjamín López",
+          "original_name": "Benjamín López",
+          "popularity": 0.2422,
+          "profile_path": "/uMcsAVHgR1n0LaNVvoO9CgwNmJL.jpg",
+          "credit_id": "676f53f8cfe62644df12d346",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1092388,
+          "known_for_department": "Directing",
+          "name": "Benjamín López",
+          "original_name": "Benjamín López",
+          "popularity": 0.2422,
+          "profile_path": "/uMcsAVHgR1n0LaNVvoO9CgwNmJL.jpg",
+          "credit_id": "676f54060c4402b63192b38a",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4788056,
+          "known_for_department": "Editing",
+          "name": "Yarimar Rodas",
+          "original_name": "Yarimar Rodas",
+          "popularity": 0.0936,
+          "profile_path": null,
+          "credit_id": "676f54363dff0de99b618f03",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5148497,
+          "known_for_department": "Production",
+          "name": "Rebecca Smith Albert",
+          "original_name": "Rebecca Smith Albert",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "677210e9d8dc22e6c6926ed7",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2009-01-01T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

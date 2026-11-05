@@ -1,0 +1,147 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/802533?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:24.288Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 802533,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Puccini - Suor Angelica",
+    "overview": "",
+    "popularity": 0.2719,
+    "poster_path": "/qwlyogR1O9K4vwL665ygvH0vUyC.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "2011-02-05",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Puccini - Suor Angelica",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1437951,
+          "known_for_department": "Acting",
+          "name": "Ermonela Jaho",
+          "original_name": "Ermonela Jaho",
+          "popularity": 0.4412,
+          "profile_path": "/5cXV7EMRi2AUwMNM4KiBuwDib7m.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6040f2fbaaf8970045566e78",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1437952,
+          "known_for_department": "Acting",
+          "name": "Anna Larsson",
+          "original_name": "Anna Larsson",
+          "popularity": 0.8301,
+          "profile_path": "/n9dfUFXy8ueImIFwEzRH1WozWlc.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "6040f3055be00e006e758534",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2998160,
+          "known_for_department": "Acting",
+          "name": "Irina Mishura",
+          "original_name": "Irina Mishura",
+          "popularity": 0.1267,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "6040f30deea34d006e54abe1",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 958346,
+          "known_for_department": "Sound",
+          "name": "Giacomo Puccini",
+          "original_name": "Giacomo Puccini",
+          "popularity": 0.1831,
+          "profile_path": "/mAVi1Op8QWvu6QC63nb6tn1MXDm.jpg",
+          "credit_id": "66919d1c88675bdb2b333991",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1006168,
+          "known_for_department": "Sound",
+          "name": "Antonio Pappano",
+          "original_name": "Antonio Pappano",
+          "popularity": 0.2368,
+          "profile_path": "/sUQ9lJlOJVBXm1DtWaqNaxUyOIa.jpg",
+          "credit_id": "6040f31fdb70580043779f06",
+          "department": "Sound",
+          "job": "Conductor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1437954,
+          "known_for_department": "Directing",
+          "name": "Richard Jones",
+          "original_name": "Richard Jones",
+          "popularity": 0.3219,
+          "profile_path": "/flb2tQyO4QAj2kGP9F2BlnT7hMh.jpg",
+          "credit_id": "6040f32e3a99370076909005",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2011-02-05T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

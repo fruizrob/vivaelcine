@@ -1,0 +1,316 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1794054?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:07.243Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/6mjlPv5dPHGpmsYLiODiCQW0o27.jpg",
+    "belongs_to_collection": null,
+    "budget": 40000,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1794054,
+    "imdb_id": null,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Norte claro, sur oscuro",
+    "overview": "Francisca reabre su casa familiar, vacía desde la muerte de sus padres. Mientras la rehabita junto a su hermano, la figura de su padre alcohólico tomará forma, en una exploración material sobre lo que persiste silenciosamente entre generaciones.",
+    "popularity": 0.8673,
+    "poster_path": "/yGZhUsuvZjfgqsB5oeYYdXN62XV.jpg",
+    "production_companies": [
+      {
+        "id": 313851,
+        "logo_path": null,
+        "name": "Temporal Cine",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 24,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Post Production",
+    "tagline": "",
+    "title": "Norte claro, sur oscuro",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6540386,
+          "known_for_department": "Directing",
+          "name": "Francisca Amigo Moraga",
+          "original_name": "Francisca Amigo Moraga",
+          "popularity": 0.465,
+          "profile_path": "/qaiuL4MA5Ae07wYnrREMy8huqHP.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6acab9af39cfcae6f02043de",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6540387,
+          "known_for_department": "Acting",
+          "name": "Roberto Amigo",
+          "original_name": "Roberto Amigo",
+          "popularity": 0.2644,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "6acab9c7a5e2f1900cd34034",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6540386,
+          "known_for_department": "Directing",
+          "name": "Francisca Amigo Moraga",
+          "original_name": "Francisca Amigo Moraga",
+          "popularity": 0.465,
+          "profile_path": "/qaiuL4MA5Ae07wYnrREMy8huqHP.jpg",
+          "credit_id": "6acaba36cb090b941ede4538",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6540386,
+          "known_for_department": "Directing",
+          "name": "Francisca Amigo Moraga",
+          "original_name": "Francisca Amigo Moraga",
+          "popularity": 0.465,
+          "profile_path": "/qaiuL4MA5Ae07wYnrREMy8huqHP.jpg",
+          "credit_id": "6acaba603e34ee723522548c",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6540396,
+          "known_for_department": "Writing",
+          "name": "Keitlyn Aránguiz",
+          "original_name": "Keitlyn Aránguiz",
+          "popularity": 0.1248,
+          "profile_path": null,
+          "credit_id": "6acaba7eb22b37b291de437b",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4936932,
+          "known_for_department": "Production",
+          "name": "Javier Vásquez Ampuero",
+          "original_name": "Javier Vásquez Ampuero",
+          "popularity": 0.0925,
+          "profile_path": "/dq3ZDF7wyNFrggidfRB8m81sPfO.jpg",
+          "credit_id": "6acaba99d9b6651eecb66ac3",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6540396,
+          "known_for_department": "Writing",
+          "name": "Keitlyn Aránguiz",
+          "original_name": "Keitlyn Aránguiz",
+          "popularity": 0.1248,
+          "profile_path": null,
+          "credit_id": "6acababc303c987cb02668af",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4459060,
+          "known_for_department": "Sound",
+          "name": "Nacho Pincheira",
+          "original_name": "Nacho Pincheira",
+          "popularity": 0.3021,
+          "profile_path": "/njffNFaQKwsqcNsI2VGuwqgz83z.jpg",
+          "credit_id": "6acabad07f5a5d08f2d340c7",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6540396,
+          "known_for_department": "Writing",
+          "name": "Keitlyn Aránguiz",
+          "original_name": "Keitlyn Aránguiz",
+          "popularity": 0.1248,
+          "profile_path": null,
+          "credit_id": "6acabad977a28bbd18f1010e",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6540386,
+          "known_for_department": "Directing",
+          "name": "Francisca Amigo Moraga",
+          "original_name": "Francisca Amigo Moraga",
+          "popularity": 0.465,
+          "profile_path": "/qaiuL4MA5Ae07wYnrREMy8huqHP.jpg",
+          "credit_id": "6acabae529189a70452157ce",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5405788,
+          "known_for_department": "Sound",
+          "name": "Diego Avilez Carvallo",
+          "original_name": "Diego Avilez Carvallo",
+          "popularity": 0.5197,
+          "profile_path": null,
+          "credit_id": "6acabb63c294327689d3415b",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4304200,
+          "known_for_department": "Directing",
+          "name": "Sasha Obilinovic",
+          "original_name": "Sasha Obilinovic",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "credit_id": "6acabb74ac7e467b6a3c6eb9",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5058151,
+          "known_for_department": "Editing",
+          "name": "Almendra Huequelef",
+          "original_name": "Almendra Huequelef",
+          "popularity": 0.0999,
+          "profile_path": null,
+          "credit_id": "6acabb8fa3aac2f37b2254a8",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4191635,
+          "known_for_department": "Camera",
+          "name": "Gabriel Letelier",
+          "original_name": "Gabriel Letelier",
+          "popularity": 0.1901,
+          "profile_path": null,
+          "credit_id": "6acabbbff4f93f5f77de42e8",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4191635,
+          "known_for_department": "Camera",
+          "name": "Gabriel Letelier",
+          "original_name": "Gabriel Letelier",
+          "popularity": 0.1901,
+          "profile_path": null,
+          "credit_id": "6acabbca75412120cc2deb10",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4194699,
+          "known_for_department": "Production",
+          "name": "Sofía Casarino",
+          "original_name": "Sofía Casarino",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6acabbdfd19c62bd2263b612",
+          "department": "Art",
+          "job": "Assistant Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4012502,
+          "known_for_department": "Sound",
+          "name": "Carlos Pérez",
+          "original_name": "Carlos Pérez",
+          "popularity": 0.4037,
+          "profile_path": null,
+          "credit_id": "6acabc7763c5c0c0d22157b6",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2311170,
+          "known_for_department": "Sound",
+          "name": "Camila Pruzzo",
+          "original_name": "Camila Pruzzo",
+          "popularity": 0.1916,
+          "profile_path": null,
+          "credit_id": "6ad23c20f424eae639c62f96",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "When the clouds move south",
+          "type": "English"
+        }
+      ]
+    }
+  }
+}

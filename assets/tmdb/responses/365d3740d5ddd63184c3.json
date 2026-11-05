@@ -1,0 +1,78 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1185971?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:22.708Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1185971,
+    "imdb_id": "tt26677664",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Angélica",
+    "overview": "",
+    "popularity": 0.2677,
+    "poster_path": "/gBls0Z0WmAbrn4qNHxVIWf8fWx5.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2023-07-30",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Angélica",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1761728,
+          "known_for_department": "Directing",
+          "name": "Victor Velasco",
+          "original_name": "Victor Velasco",
+          "popularity": 0.2996,
+          "profile_path": null,
+          "credit_id": "65193674a199a600fe7675e2",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2023-07-30T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

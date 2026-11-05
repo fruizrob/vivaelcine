@@ -1,0 +1,666 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/947271?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:20.437Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/b1jZN94IqftSi7miCikwhcETjNV.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 947271,
+    "imdb_id": "tt15313118",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Murder Motel",
+    "overview": "",
+    "popularity": 0.9262,
+    "poster_path": "/y2Cp4IgQl6rtvU0p0bPcPRnZerm.jpg",
+    "production_companies": [
+      {
+        "id": 171224,
+        "logo_path": null,
+        "name": "This Moment Media",
+        "origin_country": ""
+      },
+      {
+        "id": 171225,
+        "logo_path": null,
+        "name": "Sensory, Uncensored TheatreWorks",
+        "origin_country": ""
+      },
+      {
+        "id": 171226,
+        "logo_path": null,
+        "name": "Elusive Tiger",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2023-09-22",
+    "revenue": 0,
+    "runtime": 111,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Murder Motel",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1497919,
+          "known_for_department": "Acting",
+          "name": "Alexandra Grey",
+          "original_name": "Alexandra Grey",
+          "popularity": 0.4937,
+          "profile_path": "/owR14KdbQD5mun2ilL2WdyFoaoU.jpg",
+          "cast_id": 1,
+          "character": "Tonya",
+          "credit_id": "6227eac009ed8f005e5c937f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 112879,
+          "known_for_department": "Acting",
+          "name": "Jeremy Luke",
+          "original_name": "Jeremy Luke",
+          "popularity": 0.6432,
+          "profile_path": "/aQn5wGJTGNoqcXVBzwKLjffuVSI.jpg",
+          "cast_id": 2,
+          "character": "Mickey",
+          "credit_id": "6227eacb2f1be0001b275c92",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 53252,
+          "known_for_department": "Acting",
+          "name": "Noel Gugliemi",
+          "original_name": "Noel Gugliemi",
+          "popularity": 1.8132,
+          "profile_path": "/8jujXofjpSroMQ1R2JLB0GWIPor.jpg",
+          "cast_id": 3,
+          "character": "Paul",
+          "credit_id": "6227eae955c1f40047a28910",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32897,
+          "known_for_department": "Acting",
+          "name": "Nicholas Turturro",
+          "original_name": "Nicholas Turturro",
+          "popularity": 1.951,
+          "profile_path": "/ljkk4jMBlYvYg02LHeeAK8DqoYM.jpg",
+          "cast_id": 4,
+          "character": "Crystal Bobby",
+          "credit_id": "6227eaf4c1606a00196224c4",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2683,
+          "known_for_department": "Acting",
+          "name": "Glenn Plummer",
+          "original_name": "Glenn Plummer",
+          "popularity": 1.4409,
+          "profile_path": "/lNfRFcxD7bhqKLZwOqdpumA83TL.jpg",
+          "cast_id": 5,
+          "character": "Ron",
+          "credit_id": "6227eafc1130bd001bbeb8e6",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 785,
+          "known_for_department": "Acting",
+          "name": "James Russo",
+          "original_name": "James Russo",
+          "popularity": 3.2504,
+          "profile_path": "/nubhNb5OUkzsrndD1BNqzp7MGyo.jpg",
+          "cast_id": 6,
+          "character": "Joe",
+          "credit_id": "6227eb0535818f001b36603a",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2295,
+          "known_for_department": "Acting",
+          "name": "Mickey Rourke",
+          "original_name": "Mickey Rourke",
+          "popularity": 3.6688,
+          "profile_path": "/yzDh8B2qhQBQJlccMd4Va7tsAzC.jpg",
+          "cast_id": 7,
+          "character": "Dino",
+          "credit_id": "6227eb0b35818f0046f836bf",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 42557,
+          "known_for_department": "Acting",
+          "name": "John Enos III",
+          "original_name": "John Enos III",
+          "popularity": 0.6911,
+          "profile_path": "/4OtSbi1QxeuOgOVskiduUycj88V.jpg",
+          "cast_id": 8,
+          "character": "Nightmare",
+          "credit_id": "6227eb14cdbaff004776184e",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1454845,
+          "known_for_department": "Acting",
+          "name": "Naomi Grossman",
+          "original_name": "Naomi Grossman",
+          "popularity": 1.2632,
+          "profile_path": "/gcuTmKNEZNrzZP4pPWRP4zLvWbM.jpg",
+          "cast_id": 9,
+          "character": "Anna",
+          "credit_id": "6227eb210d5d850047a1c368",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 131771,
+          "known_for_department": "Acting",
+          "name": "Kirby Bliss Blanton",
+          "original_name": "Kirby Bliss Blanton",
+          "popularity": 0.5773,
+          "profile_path": "/ocjvHecG7af2WxqUbZhWg6o4ZC9.jpg",
+          "cast_id": 10,
+          "character": "Sandy",
+          "credit_id": "6227eb2a1bf2660019aa7a35",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1175677,
+          "known_for_department": "Acting",
+          "name": "Yvette Gonzalez-Nacer",
+          "original_name": "Yvette Gonzalez-Nacer",
+          "popularity": 0.3633,
+          "profile_path": "/cFLnAbuOopmBXFzzaT3yNx0wFxS.jpg",
+          "cast_id": 11,
+          "character": "Amanda",
+          "credit_id": "6227eb3235818f006c383a26",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1517536,
+          "known_for_department": "Acting",
+          "name": "Jaime Zevallos",
+          "original_name": "Jaime Zevallos",
+          "popularity": 0.3107,
+          "profile_path": "/BAbo8u4hvNA6jRSWu78r6kBhp8.jpg",
+          "cast_id": 12,
+          "character": "Officer Tracker",
+          "credit_id": "6227eb3bd2c0c100461649ed",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2513027,
+          "known_for_department": "Acting",
+          "name": "Leila Almas Rose",
+          "original_name": "Leila Almas Rose",
+          "popularity": 0.779,
+          "profile_path": "/rXjcMv8JZlCeJYdl02kNyesONhG.jpg",
+          "cast_id": 13,
+          "character": "Angela",
+          "credit_id": "6227eb46c1606a0067da0daf",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1658437,
+          "known_for_department": "Acting",
+          "name": "Daniel V. Graulau",
+          "original_name": "Daniel V. Graulau",
+          "popularity": 0.211,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Detective Ruiz",
+          "credit_id": "6227eb4f0d5d85006e4857e5",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 236182,
+          "known_for_department": "Directing",
+          "name": "Brian A. Metcalf",
+          "original_name": "Brian A. Metcalf",
+          "popularity": 0.2561,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Detective Park",
+          "credit_id": "6227eb5b09ed8f001b2a3433",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1749298,
+          "known_for_department": "Acting",
+          "name": "Gisla Stringer",
+          "original_name": "Gisla Stringer",
+          "popularity": 0.1601,
+          "profile_path": "/86FsZyhV43NvU2K2Fq0JjxRZFTH.jpg",
+          "cast_id": 16,
+          "character": "Ms. Ann",
+          "credit_id": "6227eb64b042280047715495",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3458159,
+          "known_for_department": "Acting",
+          "name": "Alexander James Rodriguez",
+          "original_name": "Alexander James Rodriguez",
+          "popularity": 0.2493,
+          "profile_path": "/kAadm8iWWfL9WmUSyzwCVagkTen.jpg",
+          "cast_id": 17,
+          "character": "Young Mickey",
+          "credit_id": "6227eb71871b340047b6189e",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1362816,
+          "known_for_department": "Acting",
+          "name": "Gabrielle Walsh",
+          "original_name": "Gabrielle Walsh",
+          "popularity": 0.7521,
+          "profile_path": "/z7ZSuPsB6DTUpl72PF2yFlHAUUx.jpg",
+          "cast_id": 18,
+          "character": "Monica",
+          "credit_id": "6227eb7901757f0048be5479",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1449104,
+          "known_for_department": "Acting",
+          "name": "Gloria Laino",
+          "original_name": "Gloria Laino",
+          "popularity": 0.3835,
+          "profile_path": "/ll7ALAcxgo0DhFsDqNcwmPb4Bw3.jpg",
+          "cast_id": 19,
+          "character": "Wanda",
+          "credit_id": "6227eb84cdbaff0047761961",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 558916,
+          "known_for_department": "Acting",
+          "name": "Stephan Smith Collins",
+          "original_name": "Stephan Smith Collins",
+          "popularity": 0.4919,
+          "profile_path": "/pRakYvHmE9vWwbeziNwMC89qXwy.jpg",
+          "cast_id": 20,
+          "character": "Terry",
+          "credit_id": "6227eb8ccdbaff0069d53091",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3458161,
+          "known_for_department": "Acting",
+          "name": "Jhon Mejía",
+          "original_name": "Jhon Mejía",
+          "popularity": 1.1766,
+          "profile_path": "/9Te09MhVAEL7SlKDXpkleUlDo9x.jpg",
+          "cast_id": 21,
+          "character": "Felipe",
+          "credit_id": "6227eb9bc1606a0019622732",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3458162,
+          "known_for_department": "Acting",
+          "name": "Freddy Giorlando",
+          "original_name": "Freddy Giorlando",
+          "popularity": 0.1515,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "Boomer",
+          "credit_id": "6227eba2b0422800703317db",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1586678,
+          "known_for_department": "Acting",
+          "name": "Chad Addison",
+          "original_name": "Chad Addison",
+          "popularity": 0.3594,
+          "profile_path": "/fNKeEChNcVsud9Jhsv4bd0pTb9F.jpg",
+          "cast_id": 23,
+          "character": "Scooter",
+          "credit_id": "6227ebaaa6d931001cbe204d",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1754195,
+          "known_for_department": "Acting",
+          "name": "Janelle Marie",
+          "original_name": "Janelle Marie",
+          "popularity": 0.2753,
+          "profile_path": "/b2AX2c1U7z2CdYHGXsnUnhbwNIJ.jpg",
+          "cast_id": 24,
+          "character": "Shy Girl",
+          "credit_id": "6227ebc51130bd0045dc653d",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3214674,
+          "known_for_department": "Acting",
+          "name": "Kennedy Porter",
+          "original_name": "Kennedy Porter",
+          "popularity": 0.2345,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "Juvenile Hall Inmate",
+          "credit_id": "6227ebd5b04228001c10858e",
+          "order": 24
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1946292,
+          "known_for_department": "Acting",
+          "name": "Omar Cook",
+          "original_name": "Omar Cook",
+          "popularity": 0.3146,
+          "profile_path": null,
+          "cast_id": 26,
+          "character": "Juvenile Hall Inmate",
+          "credit_id": "6227ebe1cdbaff0069d53244",
+          "order": 25
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1691341,
+          "known_for_department": "Acting",
+          "name": "Makena Taylor",
+          "original_name": "Makena Taylor",
+          "popularity": 0.2374,
+          "profile_path": "/akEOTGWsCDigGGO8TQ1gnbRHeHo.jpg",
+          "cast_id": 27,
+          "character": "Giovanna",
+          "credit_id": "6227ebeab04228001c1085ae",
+          "order": 26
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1783250,
+          "known_for_department": "Acting",
+          "name": "Adam Feingold",
+          "original_name": "Adam Feingold",
+          "popularity": 0.5965,
+          "profile_path": null,
+          "cast_id": 28,
+          "character": "Little Joe",
+          "credit_id": "6227ebf4b76cbb004567773b",
+          "order": 27
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3034762,
+          "known_for_department": "Acting",
+          "name": "Yakov Kolontarov",
+          "original_name": "Yakov Kolontarov",
+          "popularity": 0.4463,
+          "profile_path": "/uLrNGvr8iOmmEX3FWipMlkK2qHA.jpg",
+          "cast_id": 29,
+          "character": "Klucks",
+          "credit_id": "6227ebfc01757f0048be561c",
+          "order": 28
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3458165,
+          "known_for_department": "Acting",
+          "name": "Clay Wilde",
+          "original_name": "Clay Wilde",
+          "popularity": 0.0977,
+          "profile_path": null,
+          "cast_id": 30,
+          "character": "Juvenile Hall Inmate",
+          "credit_id": "6227ec04cdbaff0047761b2a",
+          "order": 29
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3458166,
+          "known_for_department": "Acting",
+          "name": "Carissa Rhea Tajudeen",
+          "original_name": "Carissa Rhea Tajudeen",
+          "popularity": 0.0987,
+          "profile_path": null,
+          "cast_id": 31,
+          "character": "Dead Girl",
+          "credit_id": "6227ec0db76cbb001b9ff55a",
+          "order": 30
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3458167,
+          "known_for_department": "Acting",
+          "name": "Marc Gutierrez",
+          "original_name": "Marc Gutierrez",
+          "popularity": 0.4194,
+          "profile_path": null,
+          "cast_id": 32,
+          "character": "Diner patron",
+          "credit_id": "6227ec222f1be0001b2760d8",
+          "order": 31
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2542735,
+          "known_for_department": "Directing",
+          "name": "Anthony R. Risen",
+          "original_name": "Anthony R. Risen",
+          "popularity": 0.2608,
+          "profile_path": null,
+          "cast_id": 33,
+          "character": "Bouncer",
+          "credit_id": "6227ec2ac1606a00196228ca",
+          "order": 32
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3243998,
+          "known_for_department": "Acting",
+          "name": "Spencer Weitzel",
+          "original_name": "Spencer Weitzel",
+          "popularity": 0.1904,
+          "profile_path": null,
+          "cast_id": 34,
+          "character": "Dan the Casting Director",
+          "credit_id": "6227ec35c1606a0067da1088",
+          "order": 33
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3458168,
+          "known_for_department": "Acting",
+          "name": "Mendel Abehsera",
+          "original_name": "Mendel Abehsera",
+          "popularity": 0.1057,
+          "profile_path": null,
+          "cast_id": 35,
+          "character": "Bumps",
+          "credit_id": "6227ec40e92d830048403573",
+          "order": 34
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3458169,
+          "known_for_department": "Acting",
+          "name": "Stephone Davis",
+          "original_name": "Stephone Davis",
+          "popularity": 0.2875,
+          "profile_path": null,
+          "cast_id": 36,
+          "character": "Young Tonya",
+          "credit_id": "6227ec4841a5610044ef5ded",
+          "order": 35
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3458170,
+          "known_for_department": "Directing",
+          "name": "Paul Tully",
+          "original_name": "Paul Tully",
+          "popularity": 0.757,
+          "profile_path": "/xEwwQ7lBEaBSZRsi6QADVvy6oaP.jpg",
+          "credit_id": "6227ec5ea6d9310046227849",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3458170,
+          "known_for_department": "Directing",
+          "name": "Paul Tully",
+          "original_name": "Paul Tully",
+          "popularity": 0.757,
+          "profile_path": "/xEwwQ7lBEaBSZRsi6QADVvy6oaP.jpg",
+          "credit_id": "6227ec667a1bd600448e1427",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1734564,
+          "known_for_department": "Acting",
+          "name": "Michelle Jubilee Gonzalez",
+          "original_name": "Michelle Jubilee Gonzalez",
+          "popularity": 0.5093,
+          "profile_path": "/rs6h9fvozdaRa2uCFKtPRQb9bFa.jpg",
+          "credit_id": "664a1c8f5f10374414df8005",
+          "department": "Crew",
+          "job": "Stunt Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4773921,
+          "known_for_department": "Sound",
+          "name": "Erica Smith",
+          "original_name": "Erica Smith",
+          "popularity": 0.1584,
+          "profile_path": null,
+          "credit_id": "666b6a497d391e00b570aefb",
+          "department": "Sound",
+          "job": "Dialogue Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Burbank International Film Festival",
+              "release_date": "2023-09-22T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Replica",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

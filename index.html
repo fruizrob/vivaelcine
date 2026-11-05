@@ -7,8 +7,8 @@
   <meta name="description" content="Programación de festivales de cine. Horarios y películas por sala.">
   <title>¡Viva el Cine!</title>
   <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="./styles.css?v=20261105-tmdb-years">
-  <script type="module" src="./app.js?v=20261105-tmdb-years"></script>
+  <link rel="stylesheet" href="./styles.css?v=20261105-posters">
+  <script type="module" src="./app.js?v=20261105-tmdb-authority"></script>
 </head>
 <body>
   <a class="skip-link" href="#schedule">Ir a las funciones</a>
@@ -40,13 +40,12 @@
       <div class="empty-results" id="empty-results" role="status" hidden>Sin resultados. <button id="reset-filters">Quitar filtros</button></div>
     </section>
     <footer class="footer">
-      <p class="footer-credit"><a href="https://letterboxd.com/fel1g/" target="_blank" rel="noopener" aria-label="fel1g en Letterboxd"><span class="letterboxd-dots" aria-hidden="true"></span>fel1g <span aria-hidden="true">↗</span></a></p>
-      <details class="tmdb-credit">
-        <summary>Créditos</summary>
-        <a href="https://www.themoviedb.org" target="_blank" rel="noopener"><img src="./assets/tmdb-logo.svg" width="80" height="11" alt="TMDB"></a>
-        <p lang="en">This product uses the TMDB API but is not endorsed or certified by TMDB.</p>
-        <a id="festival-source" href="https://sanfic.com/esta-edicion/programacion/" target="_blank" rel="noopener">SANFIC22 ↗</a>
-      </details>
+      <div class="footer-links"><a id="festival-source" href="https://sanfic.com/esta-edicion/programacion/" target="_blank" rel="noopener">SANFIC22 ↗</a></div>
+      <div class="footer-credit">
+        <a id="tmdb-credit" href="https://www.themoviedb.org" target="_blank" rel="noopener"><img src="./assets/tmdb-logo.svg" width="80" height="11" alt="TMDB"></a>
+        <a href="https://letterboxd.com/fel1g/" target="_blank" rel="noopener"><span class="letterboxd-dots" aria-hidden="true"></span>fel1g en Letterboxd <span aria-hidden="true">↗</span></a>
+      </div>
+      <p class="footer-notice" lang="en">This product uses the TMDB API but is not endorsed or certified by TMDB.</p>
     </footer>
   </main>
   <dialog id="film-dialog" aria-labelledby="film-title">

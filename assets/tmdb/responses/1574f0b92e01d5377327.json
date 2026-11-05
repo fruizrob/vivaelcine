@@ -1,0 +1,206 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1152855?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:36.386Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/yYhDoQ04uekprtPu9o6lGaibDlR.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "id": 1152855,
+    "imdb_id": "tt0370008",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Terra",
+    "overview": "",
+    "popularity": 1.4771,
+    "poster_path": "/9zMp0oCFo5Xl9qehiUVL5cpl0L1.jpg",
+    "production_companies": [
+      {
+        "id": 3223,
+        "logo_path": null,
+        "name": "MeniThings Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 81467,
+        "logo_path": null,
+        "name": "Fox Searchlab",
+        "origin_country": ""
+      },
+      {
+        "id": 25,
+        "logo_path": "/nM2MfoMqzJQRiSynsDabOtFKetD.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2003-05-15",
+    "revenue": 0,
+    "runtime": 7,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1214812,
+          "known_for_department": "Acting",
+          "name": "Cricket Leigh",
+          "original_name": "Cricket Leigh",
+          "popularity": 0.2916,
+          "profile_path": "/aEzjB7HIX3FXVy9jwWe5ofuWwlA.jpg",
+          "cast_id": 7,
+          "character": "Mala (voice)",
+          "credit_id": "64b457540bb076010c515efd",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4165926,
+          "known_for_department": "Acting",
+          "name": "Steve Weingartener",
+          "original_name": "Steve Weingartener",
+          "popularity": 0.2648,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Father (voice)",
+          "credit_id": "64b4576723d2780145854da6",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 80949,
+          "known_for_department": "Writing",
+          "name": "Aristomenis Tsirbas",
+          "original_name": "Aristomenis Tsirbas",
+          "popularity": 0.3921,
+          "profile_path": "/necVozJDvoFJyzFRNyK7fiL1DkT.jpg",
+          "credit_id": "64b456f112197e00ff019146",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 52454,
+          "known_for_department": "Sound",
+          "name": "Mateo Messina",
+          "original_name": "Mateo Messina",
+          "popularity": 0.3491,
+          "profile_path": "/pXJpOTQpBZuwgZQIsSZXLTgOqUS.jpg",
+          "credit_id": "64b4572c0bb076010c515ee8",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 80949,
+          "known_for_department": "Writing",
+          "name": "Aristomenis Tsirbas",
+          "original_name": "Aristomenis Tsirbas",
+          "popularity": 0.3921,
+          "profile_path": "/necVozJDvoFJyzFRNyK7fiL1DkT.jpg",
+          "credit_id": "64b4573ce0ca7f01442a86e8",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1386918,
+          "known_for_department": "Visual Effects",
+          "name": "Dane Allan Smith",
+          "original_name": "Dane Allan Smith",
+          "popularity": 0.1999,
+          "profile_path": null,
+          "credit_id": "64b4571b78570e011da99d6d",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 80949,
+          "known_for_department": "Writing",
+          "name": "Aristomenis Tsirbas",
+          "original_name": "Aristomenis Tsirbas",
+          "popularity": 0.3921,
+          "profile_path": "/necVozJDvoFJyzFRNyK7fiL1DkT.jpg",
+          "credit_id": "64b456fd0e4fc8010182efa9",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1386918,
+          "known_for_department": "Visual Effects",
+          "name": "Dane Allan Smith",
+          "original_name": "Dane Allan Smith",
+          "popularity": 0.1999,
+          "profile_path": null,
+          "credit_id": "64b457110e4fc800c68415ca",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2003-05-15T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

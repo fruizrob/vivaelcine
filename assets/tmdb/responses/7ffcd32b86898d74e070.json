@@ -1,0 +1,159 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/957192?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:12.278Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/20XnyPPgg9iGMDqg6e3Sq6D7dXX.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 957192,
+    "imdb_id": "tt5261722",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "The Beginning",
+    "overview": "Marta es una ejecutiva que se ve atrapada por el acoso sexual de sus jefes y que luchará por mantener sus principios en esta situación con la ayuda de Ricky, que cambiará su forma de ver la vida.",
+    "popularity": 1.2784,
+    "poster_path": "/dZYOSZsRQsGmM9qaiEUgVy8Nf38.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2016-02-04",
+    "revenue": 0,
+    "runtime": 30,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Beginning",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1417568,
+          "known_for_department": "Acting",
+          "name": "Mar Saura",
+          "original_name": "Mar Saura",
+          "popularity": 0.3008,
+          "profile_path": "/j8IfaZ3Anh5zmxS5j0KuTb0Q93d.jpg",
+          "cast_id": 3,
+          "character": "Marta",
+          "credit_id": "624b2f0b8d77c4004e273098",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 36817,
+          "known_for_department": "Acting",
+          "name": "Juanjo Artero",
+          "original_name": "Juanjo Artero",
+          "popularity": 0.3684,
+          "profile_path": "/XdUHzzZsegAmifWmUTo5SqQJ4B.jpg",
+          "cast_id": 4,
+          "character": "Julio",
+          "credit_id": "624b2f1c05822400aa0fddec",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 78994,
+          "known_for_department": "Acting",
+          "name": "Sergio Peris Mencheta",
+          "original_name": "Sergio Peris-Mencheta",
+          "popularity": 0.7607,
+          "profile_path": "/uPE1n0JpbicJ5gm2fNarbsx6Nc4.jpg",
+          "cast_id": 5,
+          "character": "Ricky",
+          "credit_id": "624b2f2dcb71b80063f0665c",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2107376,
+          "known_for_department": "Acting",
+          "name": "Montse Pla",
+          "original_name": "Montse Pla",
+          "popularity": 0.2502,
+          "profile_path": "/4N3XZuehQVJu62kzFTMf8cwh2E.jpg",
+          "cast_id": 6,
+          "character": "Montse",
+          "credit_id": "624b2f4415a4a1006382267f",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 141967,
+          "known_for_department": "Directing",
+          "name": "Benito Zambrano",
+          "original_name": "Benito Zambrano",
+          "popularity": 0.2946,
+          "profile_path": "/2ELhLt1S2U3BlvDnavfqH7yDOrc.jpg",
+          "credit_id": "624b2e58a9117f00647f2166",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 141967,
+          "known_for_department": "Directing",
+          "name": "Benito Zambrano",
+          "original_name": "Benito Zambrano",
+          "popularity": 0.2946,
+          "profile_path": "/2ELhLt1S2U3BlvDnavfqH7yDOrc.jpg",
+          "credit_id": "624b2eef8c7b0f009a16cb78",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2016-02-04T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

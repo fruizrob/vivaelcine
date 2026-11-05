@@ -1,0 +1,133 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/878114?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:34.291Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/hBD0B9BJkkLJSz12W46hrQ33JEr.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 878114,
+    "imdb_id": null,
+    "origin_country": [
+      "DE",
+      "US"
+    ],
+    "original_language": "de",
+    "original_title": "Vivaldi: The Four Seasons",
+    "overview": "",
+    "popularity": 0.4637,
+    "poster_path": "/2zQktskZEOjr4OfmUoAzcSQD6Ay.jpg",
+    "production_companies": [
+      {
+        "id": 3324,
+        "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+        "name": "BBC",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2002-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Vivaldi: The Four Seasons",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1275528,
+          "known_for_department": "Acting",
+          "name": "Julia Fischer",
+          "original_name": "Julia Fischer",
+          "popularity": 0.1982,
+          "profile_path": "/7gz7iBmQTW5WKQWT9fo8uUlI644.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "63804174d6d64d00a71f4f70",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1505030,
+          "known_for_department": "Directing",
+          "name": "Rhodri Huw",
+          "original_name": "Rhodri Huw",
+          "popularity": 0.3558,
+          "profile_path": null,
+          "credit_id": "63a32db68ddc34149ef00dbc",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "0",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2002-01-01T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Julia Fischer - Vivaldi: The Four Seasons",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Vivaldi : Les Quatre Saisons",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BR",
+          "title": "JULIA FISCHER VIVALDI THE FOUR SEASONS",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

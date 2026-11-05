@@ -1,0 +1,501 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/191242?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:55.674Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "id": 191242,
+    "imdb_id": "tt0903770",
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_title": "48 Oras",
+    "overview": "",
+    "popularity": 0.5905,
+    "poster_path": "/yQ3lVrBgmFYJoUhGz5273EasX13.jpg",
+    "production_companies": [
+      {
+        "id": 9346,
+        "logo_path": null,
+        "name": "Premiere Productions",
+        "origin_country": "PH"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PH",
+        "name": "Philippines"
+      }
+    ],
+    "release_date": "1950-04-06",
+    "revenue": 0,
+    "runtime": 123,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "Tagalog",
+        "iso_639_1": "tl",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "48 Oras",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1449496,
+          "known_for_department": "Acting",
+          "name": "Rogelio de la Rosa",
+          "original_name": "Rogelio de la Rosa",
+          "popularity": 1.3302,
+          "profile_path": "/pwKRqhBFiIB1vOtuHFGnR4gASBR.jpg",
+          "cast_id": 2,
+          "character": "Ricardo",
+          "credit_id": "551fc2acc3a36854cd001146",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1449497,
+          "known_for_department": "Acting",
+          "name": "Virginia Montes",
+          "original_name": "Virginia Montes",
+          "popularity": 0.6071,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Stella",
+          "credit_id": "551fc2b5c3a3684dc900128a",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1449498,
+          "known_for_department": "Acting",
+          "name": "Enrico Pimentel",
+          "original_name": "Enrico Pimentel",
+          "popularity": 0.1154,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Melchor",
+          "credit_id": "551fc2bec3a3684dc900128f",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1414246,
+          "known_for_department": "Acting",
+          "name": "Nena Cardenas",
+          "original_name": "Nena Cardenas",
+          "popularity": 0.3307,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Mercedes",
+          "credit_id": "551fc2ca9251415c820015ec",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1414595,
+          "known_for_department": "Acting",
+          "name": "Lopito",
+          "original_name": "Lopito",
+          "popularity": 0.2,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Pitong",
+          "credit_id": "62f5eb8c66a0d3007f17b783",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 582744,
+          "known_for_department": "Acting",
+          "name": "Oscar Keesee",
+          "original_name": "Oscar Keesee",
+          "popularity": 0.4552,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Andres",
+          "credit_id": "62f5eb95abdec00082348779",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1547526,
+          "known_for_department": "Directing",
+          "name": "Conrado Conde",
+          "original_name": "Conrado Conde",
+          "popularity": 0.2219,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Padre Ibañez",
+          "credit_id": "62f5eba0ecbde9008270a630",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1415996,
+          "known_for_department": "Acting",
+          "name": "Patria Plata",
+          "original_name": "Patria Plata",
+          "popularity": 0.3092,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Bb. Rodriguez",
+          "credit_id": "62f5ebb0b39e35007b096f4d",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 583340,
+          "known_for_department": "Acting",
+          "name": "Bebong Osorio",
+          "original_name": "Bebong Osorio",
+          "popularity": 0.2513,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Eddie",
+          "credit_id": "62f5ebbaf9183a007a502d27",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1352871,
+          "known_for_department": "Acting",
+          "name": "Dely Atay-atayan",
+          "original_name": "Dely Atay-atayan",
+          "popularity": 0.5173,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Aling Dely",
+          "credit_id": "62f5ebc6abdec0007f16752e",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1598831,
+          "known_for_department": "Acting",
+          "name": "Totoy Torrente",
+          "original_name": "Totoy Torrente",
+          "popularity": 0.3518,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Japanese Officer",
+          "credit_id": "62f5ebd6594c940082d0b293",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3660751,
+          "known_for_department": "Acting",
+          "name": "Ponching Reyes",
+          "original_name": "Ponching Reyes",
+          "popularity": 0.1128,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "David",
+          "credit_id": "62f5ebe0fea6e3007d0881dd",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1459964,
+          "known_for_department": "Acting",
+          "name": "Tony Tolman",
+          "original_name": "Tony Tolman",
+          "popularity": 0.2917,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Tony",
+          "credit_id": "62f5ebec1f748b0084890622",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3660752,
+          "known_for_department": "Acting",
+          "name": "Deleng Tinoco",
+          "original_name": "Deleng Tinoco",
+          "popularity": 0.1009,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Night Club Man",
+          "credit_id": "62f5ebf5ba4802007d407f97",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1264666,
+          "known_for_department": "Acting",
+          "name": "Max Alvarado",
+          "original_name": "Max Alvarado",
+          "popularity": 0.8034,
+          "profile_path": "/oQf3YkF7aia7dHlJAY1i2McBD83.jpg",
+          "cast_id": 16,
+          "character": "Night Club Man",
+          "credit_id": "62f5ec04c3bffe007a72d0d2",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1075299,
+          "known_for_department": "Acting",
+          "name": "Francisco Cruz",
+          "original_name": "Francisco Cruz",
+          "popularity": 0.7009,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "",
+          "credit_id": "62f5ec0becbde9007a73c7a5",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1829409,
+          "known_for_department": "Acting",
+          "name": "Frankie Gordon",
+          "original_name": "Frankie Gordon",
+          "popularity": 0.1955,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "",
+          "credit_id": "62f5ec151f748b0084890631",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3660754,
+          "known_for_department": "Acting",
+          "name": "Romeo Guarin",
+          "original_name": "Romeo Guarin",
+          "popularity": 0.1196,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "",
+          "credit_id": "62f5ec2266a0d30093d876d2",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3660755,
+          "known_for_department": "Acting",
+          "name": "Francisco Salcedo",
+          "original_name": "Francisco Salcedo",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "",
+          "credit_id": "62f5ec30498bc2007c54593b",
+          "order": 18
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 112403,
+          "known_for_department": "Directing",
+          "name": "Gerardo de Leon",
+          "original_name": "Gerardo de Leon",
+          "popularity": 0.8618,
+          "profile_path": "/hE1a2oIi2Dh4mM4BLkB1gx4N7Dc.jpg",
+          "credit_id": "52fe4c7e9251416c910f69ed",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3660756,
+          "known_for_department": "Production",
+          "name": "Ciriaco A. Santiago",
+          "original_name": "Ciriaco A. Santiago",
+          "popularity": 0.1119,
+          "profile_path": null,
+          "credit_id": "62f5ec62ecbde9007d659572",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3660759,
+          "known_for_department": "Editing",
+          "name": "Eugenio Acantilado",
+          "original_name": "Eugenio Acantilado",
+          "popularity": 0.0992,
+          "profile_path": null,
+          "credit_id": "62f5ec85b39e35008f76de41",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1415540,
+          "known_for_department": "Writing",
+          "name": "Ding M. De Jesus",
+          "original_name": "Ding M. De Jesus",
+          "popularity": 0.328,
+          "profile_path": null,
+          "credit_id": "62f5ec4eabdec000823487aa",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3660762,
+          "known_for_department": "Art",
+          "name": "Jose de los Reyes",
+          "original_name": "Jose de los Reyes",
+          "popularity": 0.1059,
+          "profile_path": null,
+          "credit_id": "62f5ec92498bc2007c545961",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1511316,
+          "known_for_department": "Sound",
+          "name": "Ariston Avelino",
+          "original_name": "Ariston Avelino",
+          "popularity": 0.1791,
+          "profile_path": null,
+          "credit_id": "62f5ec6aabdec0007f16756e",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1828225,
+          "known_for_department": "Crew",
+          "name": "Tommy Marcelino",
+          "original_name": "Tommy Marcelino",
+          "popularity": 0.1277,
+          "profile_path": null,
+          "credit_id": "62f5ec775b2f47007ffc607a",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3660763,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Boy Quinto",
+          "original_name": "Boy Quinto",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "62f5eca5fea6e30091367bbe",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1144745,
+          "known_for_department": "Directing",
+          "name": "Cesar Gallardo",
+          "original_name": "Cesar Gallardo",
+          "popularity": 0.2215,
+          "profile_path": null,
+          "credit_id": "62f5ec43b39e35007b096f72",
+          "department": "Writing",
+          "job": "Story"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "3rd Three Continents Festival, Nantes",
+              "release_date": "1981-12-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1950-04-06T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

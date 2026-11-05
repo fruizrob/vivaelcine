@@ -1,0 +1,145 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/789139?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:37.048Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/ayQ52AcQtzQbnOJR5wwtNwyet6y.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 789139,
+    "imdb_id": "tt13373802",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Terra Libre",
+    "overview": "",
+    "popularity": 1.5053,
+    "poster_path": "/uqCwTuSq2dFhEdtYkbZDJRD0Mlj.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2021-09-22",
+    "revenue": 0,
+    "runtime": 125,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra Libre",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1296936,
+          "known_for_department": "Acting",
+          "name": "Sebastião Salgado",
+          "original_name": "Sebastião Salgado",
+          "popularity": 0.4732,
+          "profile_path": "/hv3Ji7U3WH4ZWzRVesan1ZHgLMu.jpg",
+          "cast_id": 3,
+          "character": "Self",
+          "credit_id": "618dc1af2cde9800627ba59e",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1276017,
+          "known_for_department": "Acting",
+          "name": "Bernard Lavilliers",
+          "original_name": "Bernard Lavilliers",
+          "popularity": 0.8012,
+          "profile_path": "/1elva8c9IMmm3e5WigkCQRzDxpm.jpg",
+          "cast_id": 4,
+          "character": "Self",
+          "credit_id": "618dc1cfb076e500914117d2",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2947528,
+          "known_for_department": "Directing",
+          "name": "Gert-Peter Bruch",
+          "original_name": "Gert-Peter Bruch",
+          "popularity": 0.3002,
+          "profile_path": null,
+          "credit_id": "600b24ebd70594003e1df0ff",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2947528,
+          "known_for_department": "Directing",
+          "name": "Gert-Peter Bruch",
+          "original_name": "Gert-Peter Bruch",
+          "popularity": 0.3002,
+          "profile_path": null,
+          "credit_id": "600b24fc50f7ca003da6e7cc",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2021-09-22T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

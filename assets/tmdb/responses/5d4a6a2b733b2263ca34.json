@@ -1,0 +1,332 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/240860?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:20.793Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/gdtLgGqY5VGAbixZjoMWNbi1LeR.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 240860,
+    "imdb_id": "tt0089574",
+    "origin_country": [
+      "PL"
+    ],
+    "original_language": "pl",
+    "original_title": "Medium",
+    "overview": "Historia de cuatro personas en Sopot en 1933, reunidas misteriosamente en una antigua villa para recrear un ritual de asesinato que tuvo lugar 36 años antes.",
+    "popularity": 2.286,
+    "poster_path": "/yMWMYVgeOT02XyTyH402pE8cUsm.jpg",
+    "production_companies": [
+      {
+        "id": 266296,
+        "logo_path": null,
+        "name": "Zespół Filmowy \"Tor\"",
+        "origin_country": "PL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PL",
+        "name": "Poland"
+      }
+    ],
+    "release_date": "1985-10-03",
+    "revenue": 0,
+    "runtime": 98,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Polish",
+        "iso_639_1": "pl",
+        "name": "Polski"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Un misterio llamado Aleksander Orwicz",
+    "video": false,
+    "vote_average": 5.625,
+    "vote_count": 24,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17889,
+          "known_for_department": "Acting",
+          "name": "Władysław Kowalski",
+          "original_name": "Władysław Kowalski",
+          "popularity": 0.2495,
+          "profile_path": "/tjPV7qMmVUvKaHBPG3Imlx2w0KX.jpg",
+          "cast_id": 6,
+          "character": "Selin",
+          "credit_id": "52fe4eaec3a36847f82a0d27",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 229004,
+          "known_for_department": "Acting",
+          "name": "Michał Bajor",
+          "original_name": "Michał Bajor",
+          "popularity": 0.4961,
+          "profile_path": "/jZLlF5CDpiCUoc29B2OlU0KBJzO.jpg",
+          "cast_id": 7,
+          "character": "Krank",
+          "credit_id": "52fe4eaec3a36847f82a0d2b",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 7121,
+          "known_for_department": "Acting",
+          "name": "Jerzy Zelnik",
+          "original_name": "Jerzy Zelnik",
+          "popularity": 0.4548,
+          "profile_path": "/kbp8xSVSOsMvtSyj2sVH8nuzHjw.jpg",
+          "cast_id": 8,
+          "character": "Andrzej Gaszewski",
+          "credit_id": "52fe4eaec3a36847f82a0d2f",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1148,
+          "known_for_department": "Acting",
+          "name": "Jerzy Stuhr",
+          "original_name": "Jerzy Stuhr",
+          "popularity": 0.9464,
+          "profile_path": "/xzkvKrdITQm8BzYLF8o0xhG3fdA.jpg",
+          "cast_id": 9,
+          "character": "Georg Netz",
+          "credit_id": "52fe4eaec3a36847f82a0d33",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1384,
+          "known_for_department": "Acting",
+          "name": "Grażyna Szapołowska",
+          "original_name": "Grażyna Szapołowska",
+          "popularity": 0.7471,
+          "profile_path": "/pjI5gFihRcpee7nWJs2CFPIrQgZ.jpg",
+          "cast_id": 10,
+          "character": "Teacher Luiza",
+          "credit_id": "52fe4eaec3a36847f82a0d37",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 7119,
+          "known_for_department": "Acting",
+          "name": "Jerzy Nowak",
+          "original_name": "Jerzy Nowak",
+          "popularity": 0.4008,
+          "profile_path": "/5zFZcl8yeXcoQCQ59d6J9bph4eB.jpg",
+          "cast_id": 14,
+          "character": "Ernst Wagner",
+          "credit_id": "6137b9b43fe7970043f332ff",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 583448,
+          "known_for_department": "Acting",
+          "name": "Ewa Dałkowska",
+          "original_name": "Ewa Dałkowska",
+          "popularity": 0.3625,
+          "profile_path": "/omvnmaSwgD2gTxKXNlTjeABqYp5.jpg",
+          "cast_id": 15,
+          "character": "Greta Wagner",
+          "credit_id": "6137b9bab1f68d008c31bc7a",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 543992,
+          "known_for_department": "Acting",
+          "name": "Piotr Machalica",
+          "original_name": "Piotr Machalica",
+          "popularity": 0.728,
+          "profile_path": "/xoXFSBm3AH09f4S576md2yKl0Cm.jpg",
+          "cast_id": 16,
+          "character": "Gauleiter",
+          "credit_id": "6137b9c5d64ac2002c552464",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 259737,
+          "known_for_department": "Acting",
+          "name": "Ewa Kasprzyk",
+          "original_name": "Ewa Kasprzyk",
+          "popularity": 0.7417,
+          "profile_path": "/hNqsUYiFNYZrKKG9mXlEl3EfuPY.jpg",
+          "cast_id": 17,
+          "character": "Maria",
+          "credit_id": "6137b9da091e62002ceb7f99",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1068465,
+          "known_for_department": "Acting",
+          "name": "Henryk Bista",
+          "original_name": "Henryk Bista",
+          "popularity": 1.8022,
+          "profile_path": "/mS9m0Qt7DeAr9OU9z4UsfI2D5f9.jpg",
+          "cast_id": 18,
+          "character": "Dr. Mincel",
+          "credit_id": "6137b9e52cde980089df2b7d",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 930883,
+          "known_for_department": "Acting",
+          "name": "Zygmunt Zintel",
+          "original_name": "Zygmunt Zintel",
+          "popularity": 1.1322,
+          "profile_path": "/nPzRdmNGbCPEtFKiVheNJEoKug0.jpg",
+          "cast_id": 19,
+          "character": "Krause",
+          "credit_id": "6137b9f70b7316008a664a20",
+          "order": 10
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1140427,
+          "known_for_department": "Directing",
+          "name": "Jacek Koprowicz",
+          "original_name": "Jacek Koprowicz",
+          "popularity": 0.5115,
+          "profile_path": null,
+          "credit_id": "52fe4eaec3a36847f82a0d0b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1140427,
+          "known_for_department": "Directing",
+          "name": "Jacek Koprowicz",
+          "original_name": "Jacek Koprowicz",
+          "popularity": 0.5115,
+          "profile_path": null,
+          "credit_id": "52fe4eaec3a36847f82a0d11",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1275986,
+          "known_for_department": "Camera",
+          "name": "Wit Dąbal",
+          "original_name": "Wit Dąbal",
+          "popularity": 0.2501,
+          "profile_path": "/4UTlj8GdvZXwK0mm9whQc5z62Pl.jpg",
+          "credit_id": "5826b28fc3a368038100de7c",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1923198,
+          "known_for_department": "Sound",
+          "name": "Krzesimir Dębski",
+          "original_name": "Krzesimir Dębski",
+          "popularity": 0.2417,
+          "profile_path": "/aFsxIgjJ2NM6ywdJk0XAyYou5NI.jpg",
+          "credit_id": "5826b29d9251417b1a015732",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 13140,
+          "known_for_department": "Camera",
+          "name": "Jerzy Zieliński",
+          "original_name": "Jerzy Zieliński",
+          "popularity": 0.4726,
+          "profile_path": "/2NDwJW1GOfYcc2HaOUpLq6URHXe.jpg",
+          "credit_id": "5826b2899251417b23014fd7",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1985-10-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "AR",
+          "title": "Un misterio llamado Aleksander Orwicz",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DK",
+          "title": "Mediet",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "IT",
+          "title": "Mysteria replica di un omicidio",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "HK",
+          "title": "靈異案件",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1708375?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:26.176Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/rx0O9QF5lmC3PfUivmrNvM1t6f8.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1708375,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "El tigre del este",
+    "overview": "",
+    "popularity": 0.2226,
+    "poster_path": "/xBZfRJm7HN5il6IUED0EoJU1TY2.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      },
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2026-06-19",
+    "revenue": 0,
+    "runtime": 91,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El tigre del este",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2907203,
+          "known_for_department": "Sound",
+          "name": "Jorge Acevedo",
+          "original_name": "Jorge Acevedo",
+          "popularity": 0.1182,
+          "profile_path": null,
+          "credit_id": "6aeb9b4a151ed648b59c2b01",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Shanghai International Film Festival",
+              "release_date": "2026-06-19T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

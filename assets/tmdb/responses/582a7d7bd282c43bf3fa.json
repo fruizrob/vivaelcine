@@ -1,0 +1,230 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/916531?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:58.660Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 916531,
+    "imdb_id": "tt16433654",
+    "origin_country": [
+      "ZA"
+    ],
+    "original_language": "af",
+    "original_title": "Letters to the Man I Love",
+    "overview": "",
+    "popularity": 0.7457,
+    "poster_path": "/vZINmxbMifa3K1nMSH4A5SMdLFo.jpg",
+    "production_companies": [
+      {
+        "id": 23394,
+        "logo_path": null,
+        "name": "Kinoburo",
+        "origin_country": "ZA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ZA",
+        "name": "South Africa"
+      }
+    ],
+    "release_date": "2021-11-29",
+    "revenue": 0,
+    "runtime": 16,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Afrikaans",
+        "iso_639_1": "af",
+        "name": "Afrikaans"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Letters to the Man I Love",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3349236,
+          "known_for_department": "Acting",
+          "name": "Ayden Croy",
+          "original_name": "Ayden Croy",
+          "popularity": 0.6883,
+          "profile_path": "/89y6X6OpNRWGocd7V8ZhlNI6gnM.jpg",
+          "cast_id": 8,
+          "character": "Willem",
+          "credit_id": "61bb06e66a300b00451aed80",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3349015,
+          "known_for_department": "Acting",
+          "name": "Victor Namwandi",
+          "original_name": "Victor Namwandi",
+          "popularity": 0.3689,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Jonathan",
+          "credit_id": "61bb06f4cb75d10040ed96f5",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3349864,
+          "known_for_department": "Acting",
+          "name": "Boudine Ballem",
+          "original_name": "Boudine Ballem",
+          "popularity": 0.1985,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Woman (voice)",
+          "credit_id": "61bbb7a9223e20001d67a0d2",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 3072543,
+          "known_for_department": "Directing",
+          "name": "Brandon Clarke",
+          "original_name": "Brandon Clarke",
+          "popularity": 0.2652,
+          "profile_path": null,
+          "credit_id": "61bbb7c5d2f5b5001ca53153",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3349865,
+          "known_for_department": "Directing",
+          "name": "Chadlee Skriker",
+          "original_name": "Chadlee Skriker",
+          "popularity": 0.1704,
+          "profile_path": null,
+          "credit_id": "61bbb7d76a300b006494d2e6",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 3072543,
+          "known_for_department": "Directing",
+          "name": "Brandon Clarke",
+          "original_name": "Brandon Clarke",
+          "popularity": 0.2652,
+          "profile_path": null,
+          "credit_id": "61ba75aac616ac009a1592ec",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2386994,
+          "known_for_department": "Lighting",
+          "name": "Nicholas Faure",
+          "original_name": "Nicholas Faure",
+          "popularity": 0.1266,
+          "profile_path": null,
+          "credit_id": "61ba75b828723c008740c235",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3020822,
+          "known_for_department": "Directing",
+          "name": "Chadlee Skrikker",
+          "original_name": "Chadlee Skrikker",
+          "popularity": 0.1618,
+          "profile_path": "/wr5azEv1PLyuqRf7sCXD7WbxCW4.jpg",
+          "credit_id": "61ba75c9e72fe80095e52b89",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3349018,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Mia McDonogh",
+          "original_name": "Mia McDonogh",
+          "popularity": 0.1687,
+          "profile_path": null,
+          "credit_id": "61ba76074da3d40086d71e54",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3072547,
+          "known_for_department": "Sound",
+          "name": "Adam van Schoor",
+          "original_name": "Adam van Schoor",
+          "popularity": 0.1467,
+          "profile_path": null,
+          "credit_id": "61ba76181f3319008d433c42",
+          "department": "Sound",
+          "job": "Sound"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "af",
+              "note": "Roze Filmdagen Amsterdam LGBTQ+ Film Festival",
+              "release_date": "2022-03-12T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ZA",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "af",
+              "note": "",
+              "release_date": "2021-11-29T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

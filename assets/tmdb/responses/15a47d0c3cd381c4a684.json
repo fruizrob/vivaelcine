@@ -1,0 +1,554 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/66076?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:15.072Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/c9WReCXtINnNyXyko524qI6aHtH.jpg",
+    "belongs_to_collection": {
+      "id": 943641,
+      "name": "Lassie TV Collection",
+      "poster_path": "/AkGE7crcpbCzdxraOQu0ENfxedL.jpg",
+      "backdrop_path": "/6UFYKgQh7JDYXfG7b2R4NbVuogZ.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10770,
+        "name": "Película de TV"
+      }
+    ],
+    "homepage": "",
+    "id": 66076,
+    "imdb_id": "tt0284250",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Lassie: The New Beginning",
+    "overview": "Lassie, el perro que todo el mundo quiere, regresa en una nueva y excitante aventura. La familia Turner, Papá, la pequeña Jennifer, el adolescente Matt y su nueva mamá han decidido empezar una nueva vida en el campo, abandonando la ciudad por la salvaje Virginia. El traslado ha supuesto problemas para todos, especialmente para Matt, que se siente perdido y solo en su nuevo entorno. Pero por suerte, los Turner van a ver ayudados por un perro Collie, sin hogar, que entra a formar parte de sus vidas, y que ayuda a Matt a enfrentarse a los problemas gracias a su inquebrantable lealtad...",
+    "popularity": 1.8054,
+    "poster_path": "/r1gv9l4T044RPvN8RJkD9zTDl3v.jpg",
+    "production_companies": [
+      {
+        "id": 10593,
+        "logo_path": null,
+        "name": "Wrather Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1978-09-17",
+    "revenue": 0,
+    "runtime": 100,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El retorno de Lassie",
+    "video": false,
+    "vote_average": 5.4,
+    "vote_count": 7,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 544576,
+          "known_for_department": "Acting",
+          "name": "Sally Boyden",
+          "original_name": "Sally Boyden",
+          "popularity": 0.2761,
+          "profile_path": "/a7LAoSD1ZRyUroVIcvu12G4HMDK.jpg",
+          "cast_id": 2,
+          "character": "Samantha Stratton",
+          "credit_id": "52fe4727c3a368484e0b7d01",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 167384,
+          "known_for_department": "Acting",
+          "name": "Shane Sinutko",
+          "original_name": "Shane Sinutko",
+          "popularity": 0.7051,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Chip Stratton",
+          "credit_id": "52fe4727c3a368484e0b7d05",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 24520,
+          "known_for_department": "Acting",
+          "name": "John Reilly",
+          "original_name": "John Reilly",
+          "popularity": 0.4432,
+          "profile_path": "/xjA5k7Hh5zMCzwxAnN539HwSPUn.jpg",
+          "cast_id": 10,
+          "character": "Stuart",
+          "credit_id": "63fe8fdd699fb7007d8e2952",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14831,
+          "known_for_department": "Acting",
+          "name": "David Wayne",
+          "original_name": "David Wayne",
+          "popularity": 0.8884,
+          "profile_path": "/mXatzN2o2Dcx4hUQxeKXkbkE9Fk.jpg",
+          "cast_id": 11,
+          "character": "Amos",
+          "credit_id": "63fe8fe87a4ee70086396579",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 89582,
+          "known_for_department": "Acting",
+          "name": "Gene Evans",
+          "original_name": "Gene Evans",
+          "popularity": 0.6926,
+          "profile_path": "/h8G0iqraU7LHwU8DzlBp2ZcgkyY.jpg",
+          "cast_id": 12,
+          "character": "Sheriff Marsh",
+          "credit_id": "63fe90139f1be700869f192b",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 160328,
+          "known_for_department": "Acting",
+          "name": "Lee Bryant",
+          "original_name": "Lee Bryant",
+          "popularity": 0.4525,
+          "profile_path": "/d2FU1VP2ScXDBqHHgPdL41Pl8az.jpg",
+          "cast_id": 13,
+          "character": "Kathy",
+          "credit_id": "63fe904b699fb70096ff0ade",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 157473,
+          "known_for_department": "Acting",
+          "name": "Jeff Harlan",
+          "original_name": "Jeff Harlan",
+          "popularity": 0.3863,
+          "profile_path": "/kzvc88F8rX1UutvZhrmnB6Lqxht.jpg",
+          "cast_id": 14,
+          "character": "Buzz",
+          "credit_id": "63fe9056c7176d009d6df1b2",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 7520,
+          "known_for_department": "Acting",
+          "name": "Jeanette Nolan",
+          "original_name": "Jeanette Nolan",
+          "popularity": 1.8859,
+          "profile_path": "/wb9G3heeItXTpXqPy4HlNDMJWrE.jpg",
+          "cast_id": 4,
+          "character": "Ada Stratton",
+          "credit_id": "52fe4727c3a368484e0b7d09",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 53010,
+          "known_for_department": "Acting",
+          "name": "John McIntire",
+          "original_name": "John McIntire",
+          "popularity": 1.6813,
+          "profile_path": "/6t1VIejDVkfyspgrwlvgyrbDwWk.jpg",
+          "cast_id": 15,
+          "character": "Dr. Spreckles",
+          "credit_id": "63fe9078cf62cd00811bce6a",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 111387,
+          "known_for_department": "Acting",
+          "name": "Jim Antonio",
+          "original_name": "Jim Antonio",
+          "popularity": 0.5103,
+          "profile_path": "/bH4XEoN5D48suAHw8hpdH46NMdH.jpg",
+          "cast_id": 16,
+          "character": "Mr. Waldrup",
+          "credit_id": "63fe9086c7176d008516940a",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16031,
+          "known_for_department": "Acting",
+          "name": "Logan Ramsey",
+          "original_name": "Logan Ramsey",
+          "popularity": 0.6485,
+          "profile_path": "/p0nGZszv0Lv82bABCKxheiegWnh.jpg",
+          "cast_id": 17,
+          "character": "Flannagan",
+          "credit_id": "63fe9093c7176d0081881c97",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 12430,
+          "known_for_department": "Acting",
+          "name": "Lucille Benson",
+          "original_name": "Lucille Benson",
+          "popularity": 0.6119,
+          "profile_path": "/rkskOG1F2Bod1eg2DiDGJz4OOYs.jpg",
+          "cast_id": 18,
+          "character": "Juno",
+          "credit_id": "63fe909d9f1be700aaec0001",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1212079,
+          "known_for_department": "Acting",
+          "name": "Helen Page Camp",
+          "original_name": "Helen Page Camp",
+          "popularity": 0.4109,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Miss Tremayne",
+          "credit_id": "63fe90b79f1be700869f194d",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 121042,
+          "known_for_department": "Acting",
+          "name": "Woody Chambliss",
+          "original_name": "Woody Chambliss",
+          "popularity": 0.7256,
+          "profile_path": "/lz9SXREy1EFSY34k7qnf0WyovEV.jpg",
+          "cast_id": 20,
+          "character": "Victor Turkey",
+          "credit_id": "63fe90c3c7176d00a8e81d97",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 166131,
+          "known_for_department": "Acting",
+          "name": "James Crittenden",
+          "original_name": "James Crittenden",
+          "popularity": 0.2873,
+          "profile_path": "/wRJbDbRRRJy1axf3mzm5HloCRY3.jpg",
+          "cast_id": 21,
+          "character": "Mitch",
+          "credit_id": "63fe90ce7a4ee700b916e401",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 44897,
+          "known_for_department": "Acting",
+          "name": "Shelley Morrison",
+          "original_name": "Shelley Morrison",
+          "popularity": 0.5956,
+          "profile_path": "/kFCRZZ7T47CVCeBMpQP8Ba7PGaF.jpg",
+          "cast_id": 22,
+          "character": "Lena",
+          "credit_id": "63fe90d8cf62cd00811bce89",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 53552,
+          "known_for_department": "Acting",
+          "name": "John O'Leary",
+          "original_name": "John O'Leary",
+          "popularity": 1.183,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "Jerry Bergan",
+          "credit_id": "63fe90e69653f600894e3190",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1484152,
+          "known_for_department": "Acting",
+          "name": "Fred Pinkard",
+          "original_name": "Fred Pinkard",
+          "popularity": 0.4634,
+          "profile_path": "/u70lev5ls6jH1wmdIPQMBd0id0U.jpg",
+          "cast_id": 24,
+          "character": "Sgt. Lewis",
+          "credit_id": "63fe90f2699fb700e6fd3dd1",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1936257,
+          "known_for_department": "Acting",
+          "name": "Danil Torppe",
+          "original_name": "Danil Torppe",
+          "popularity": 0.2616,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "Ron",
+          "credit_id": "63fe90fc7a4ee700f0f97cd8",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4974,
+          "known_for_department": "Acting",
+          "name": "Charles Tyner",
+          "original_name": "Charles Tyner",
+          "popularity": 0.7183,
+          "profile_path": "/hSLaCMrZL0sPgqJx9dcWxm11nT5.jpg",
+          "cast_id": 26,
+          "character": "Asa Bluel",
+          "credit_id": "63fe910c9653f6007c1cd3df",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 101971,
+          "known_for_department": "Acting",
+          "name": "Gwen Van Dam",
+          "original_name": "Gwen Van Dam",
+          "popularity": 0.6714,
+          "profile_path": "/hZMfoxcIj8SOLi38nWxsAYbom4i.jpg",
+          "cast_id": 27,
+          "character": "Mrs. Waldrup",
+          "credit_id": "63fe91187a4ee700f0f97ce2",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 109221,
+          "known_for_department": "Acting",
+          "name": "Ned Wertimer",
+          "original_name": "Ned Wertimer",
+          "popularity": 0.4012,
+          "profile_path": "/yjNDhrQqt88ChUvu5ecP9une8OQ.jpg",
+          "cast_id": 28,
+          "character": "Leroy Aames",
+          "credit_id": "63fe91259f1be700869f1982",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1465182,
+          "known_for_department": "Acting",
+          "name": "Frank Whiteman",
+          "original_name": "Frank Whiteman",
+          "popularity": 0.2905,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "Officer Ken",
+          "credit_id": "63fe9131c7176d00a8e81dc4",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4136611,
+          "known_for_department": "Acting",
+          "name": "Lassie",
+          "original_name": "Lassie",
+          "popularity": 0.1962,
+          "profile_path": "/jYelpKcmRrRme39vJWJj0b3joIt.jpg",
+          "cast_id": 38,
+          "character": "Lassie the Dog",
+          "credit_id": "69e90d83601a7e2abb0f4908",
+          "order": 23
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 25558,
+          "known_for_department": "Directing",
+          "name": "Don Chaffey",
+          "original_name": "Don Chaffey",
+          "popularity": 0.8115,
+          "profile_path": "/oP3Hz06ax8zioume0Wjmi4i0Pjj.jpg",
+          "credit_id": "52fe4727c3a368484e0b7cfd",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 61479,
+          "known_for_department": "Writing",
+          "name": "Earl Hamner, Jr.",
+          "original_name": "Earl Hamner, Jr.",
+          "popularity": 0.3962,
+          "profile_path": null,
+          "credit_id": "63fe9142c7176d00db58ed9c",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1250687,
+          "known_for_department": "Directing",
+          "name": "William Beaudine Jr.",
+          "original_name": "William Beaudine Jr.",
+          "popularity": 0.2337,
+          "profile_path": null,
+          "credit_id": "63fe92477a4ee700f0f97d31",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3943526,
+          "known_for_department": "Writing",
+          "name": "Jack Miller",
+          "original_name": "Jack Miller",
+          "popularity": 0.1967,
+          "profile_path": null,
+          "credit_id": "63fe9230cf62cd009d194e58",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 10151,
+          "known_for_department": "Editing",
+          "name": "Samuel E. Beetley",
+          "original_name": "Samuel E. Beetley",
+          "popularity": 0.2998,
+          "profile_path": null,
+          "credit_id": "63fe92779f1be700869f19d0",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12119,
+          "known_for_department": "Camera",
+          "name": "Charles F. Wheeler",
+          "original_name": "Charles F. Wheeler",
+          "popularity": 0.4611,
+          "profile_path": null,
+          "credit_id": "63fe926e7a4ee7008639660e",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 230125,
+          "known_for_department": "Sound",
+          "name": "Jerrold Immel",
+          "original_name": "Jerrold Immel",
+          "popularity": 0.2709,
+          "profile_path": null,
+          "credit_id": "63fe92649653f600894e31ed",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3549896,
+          "known_for_department": "Production",
+          "name": "Tom McDermott",
+          "original_name": "Tom McDermott",
+          "popularity": 0.1626,
+          "profile_path": null,
+          "credit_id": "63fe9259699fb700877425d2",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3943526,
+          "known_for_department": "Writing",
+          "name": "Jack Miller",
+          "original_name": "Jack Miller",
+          "popularity": 0.1967,
+          "profile_path": null,
+          "credit_id": "63fe91fd9653f600b58b33e3",
+          "department": "Writing",
+          "job": "Teleplay"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "ABC",
+              "release_date": "1978-09-17T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

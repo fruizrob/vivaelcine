@@ -1,0 +1,106 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/423641?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:22.869Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 423641,
+    "imdb_id": "tt5672096",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Angélica. Una tragedia",
+    "overview": "",
+    "popularity": 0.8565,
+    "poster_path": "/1ENw5Nxf7FqC4Na71VEAGQQTrFk.jpg",
+    "production_companies": [
+      {
+        "id": 130364,
+        "logo_path": null,
+        "name": "Ordenpropia",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2016-04-01",
+    "revenue": 0,
+    "runtime": 83,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Angélica. Una tragedia",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2868465,
+          "known_for_department": "Acting",
+          "name": "Angélica Liddell",
+          "original_name": "Angélica Liddell",
+          "popularity": 0.1859,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5fbd02d0d9f4a6003f996b48",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1173695,
+          "known_for_department": "Directing",
+          "name": "Manuel Fernández-Valdés",
+          "original_name": "Manuel Fernández-Valdés",
+          "popularity": 0.3776,
+          "profile_path": "/dxbl5Yv5XgVVQ05dbD3Z7CMEhfm.jpg",
+          "credit_id": "5ee4923197eab4001fe37a6e",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "{\"folded_name\"=>\"Spanish; Castilian\", \"english_name\"=>\"Spanish\", \"iso_639_1\"=>\"es\", \"native_name\"=>\"Spanish; Castilian\"}",
+              "note": "",
+              "release_date": "2016-04-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

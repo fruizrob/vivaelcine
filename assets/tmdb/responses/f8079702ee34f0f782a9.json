@@ -1,0 +1,172 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/484449?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:41.300Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/o6t8VM5zdbxNxfuMNkS1cdfxWke.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 484449,
+    "imdb_id": "tt6704384",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Terra Masonica",
+    "overview": "",
+    "popularity": 1.0225,
+    "poster_path": "/9MDhJldEorDSDbIrXGA0C6FeAuY.jpg",
+    "production_companies": [
+      {
+        "id": 7561,
+        "logo_path": "/yWTuzkQnp4NCS7fDVd5vzgLjoux.png",
+        "name": "Nexus Factory",
+        "origin_country": "BE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      }
+    ],
+    "release_date": "2017-05-01",
+    "revenue": 0,
+    "runtime": 116,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra Masonica",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1915106,
+          "known_for_department": "Acting",
+          "name": "Chris Brooker",
+          "original_name": "Chris Brooker",
+          "popularity": 0.3018,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Narrator",
+          "credit_id": "59f888e5c3a36860af0146a7",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1915100,
+          "known_for_department": "Directing",
+          "name": "Tristan Bourlard",
+          "original_name": "Tristan Bourlard",
+          "popularity": 0.2692,
+          "profile_path": null,
+          "credit_id": "59f887ba92514169fd01546a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1915100,
+          "known_for_department": "Directing",
+          "name": "Tristan Bourlard",
+          "original_name": "Tristan Bourlard",
+          "popularity": 0.2692,
+          "profile_path": null,
+          "credit_id": "59f887cd92514169db0157e0",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1016185,
+          "known_for_department": "Production",
+          "name": "Sylvain Goldberg",
+          "original_name": "Sylvain Goldberg",
+          "popularity": 0.3721,
+          "profile_path": "/wpyt8cQzA2NcxU5ZjZdX09niX7i.jpg",
+          "credit_id": "59f8880cc3a3686058014a4b",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1016184,
+          "known_for_department": "Production",
+          "name": "Serge de Poucques",
+          "original_name": "Serge de Poucques",
+          "popularity": 0.4233,
+          "profile_path": "/1OCVaWEF7mC1W3tLvN6SeUeoopk.jpg",
+          "credit_id": "59f8882bc3a3686093014190",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1915101,
+          "known_for_department": "Sound",
+          "name": "Michel Duprez",
+          "original_name": "Michel Duprez",
+          "popularity": 0.1101,
+          "profile_path": null,
+          "credit_id": "59f8887a92514169a5015148",
+          "department": "Sound",
+          "job": "Music Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2017-05-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

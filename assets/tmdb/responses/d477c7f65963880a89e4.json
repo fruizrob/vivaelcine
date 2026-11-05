@@ -1,0 +1,135 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1485600?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:09.443Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1485600,
+    "imdb_id": null,
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "Domingo",
+    "overview": "La nostalgia y la alegría, los recuerdos y los domingos por venir, conviven y se fusionan en una mirada tierna de la gente que nos rodea y muchas veces pasa inadvertida. Este documental pretende ser un viaje a otros mundos, los diversos mundos de la gente con la que convivimos, de otras realidades, y a la vez un trago dulce para reírse y emocionarse.",
+    "popularity": 0.9737,
+    "poster_path": "/yS8HOTOpGTunlUKmE9XlaDKjEvD.jpg",
+    "production_companies": [
+      {
+        "id": 225521,
+        "logo_path": null,
+        "name": "Anoche Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2025-05-25",
+    "revenue": 0,
+    "runtime": 65,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Domingo",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4636740,
+          "known_for_department": "Directing",
+          "name": "Julián Pérez Cantón",
+          "original_name": "Julián Pérez Cantón",
+          "popularity": 0.1893,
+          "profile_path": null,
+          "credit_id": "682f5cf215103bb6157ba63a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4636740,
+          "known_for_department": "Directing",
+          "name": "Julián Pérez Cantón",
+          "original_name": "Julián Pérez Cantón",
+          "popularity": 0.1893,
+          "profile_path": null,
+          "credit_id": "682f5d05c5c021c3757ba7c5",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4638703,
+          "known_for_department": "Sound",
+          "name": "Lautaro González de Cap",
+          "original_name": "Lautaro González de Cap",
+          "popularity": 0.1968,
+          "profile_path": null,
+          "credit_id": "682f5d0eefdba7018ea8d4d5",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4638703,
+          "known_for_department": "Sound",
+          "name": "Lautaro González de Cap",
+          "original_name": "Lautaro González de Cap",
+          "popularity": 0.1968,
+          "profile_path": null,
+          "credit_id": "682f5d12b2c1b9c0193af8d9",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2025-05-25T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

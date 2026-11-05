@@ -1,0 +1,107 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1597500?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:01.913Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1597500,
+    "imdb_id": "tt31859919",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Stranger in the Snow",
+    "overview": "",
+    "popularity": 1.1561,
+    "poster_path": "/oQpg5sbBW5Mjgfh4MhAN0PqEn0Y.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2025-08-15",
+    "revenue": 0,
+    "runtime": 12,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Stranger in the Snow",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1676786,
+          "known_for_department": "Production",
+          "name": "Mark J. Parker",
+          "original_name": "Mark J. Parker",
+          "popularity": 0.6512,
+          "profile_path": "/k9HgwRsWC4fULbEchJDgYCai6QI.jpg",
+          "credit_id": "69d87183afd045bb5944a35f",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1676786,
+          "known_for_department": "Production",
+          "name": "Mark J. Parker",
+          "original_name": "Mark J. Parker",
+          "popularity": 0.6512,
+          "profile_path": "/k9HgwRsWC4fULbEchJDgYCai6QI.jpg",
+          "credit_id": "69d871c49c37837ea87f2522",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1676786,
+          "known_for_department": "Production",
+          "name": "Mark J. Parker",
+          "original_name": "Mark J. Parker",
+          "popularity": 0.6512,
+          "profile_path": "/k9HgwRsWC4fULbEchJDgYCai6QI.jpg",
+          "credit_id": "69d871e8931d979205191867",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2025-08-15T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2026-02-13T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

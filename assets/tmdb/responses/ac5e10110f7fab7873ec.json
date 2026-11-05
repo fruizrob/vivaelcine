@@ -1,0 +1,86 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1162395?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:51.843Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1162395,
+    "imdb_id": null,
+    "origin_country": [
+      "AU",
+      "BO",
+      "US"
+    ],
+    "original_language": "qu",
+    "original_title": "La Lucha",
+    "overview": "",
+    "popularity": 0.2316,
+    "poster_path": "/87oVtU6Ot2HZgMf6wIoNjA7OtUV.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-08-03",
+    "revenue": 0,
+    "runtime": 89,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Quechua",
+        "iso_639_1": "qu",
+        "name": ""
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Lucha",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1452042,
+          "known_for_department": "Directing",
+          "name": "Violeta Ayala",
+          "original_name": "Violeta Ayala",
+          "popularity": 0.1461,
+          "profile_path": "/8XClb7lJG7y53LVQhGxhOqoVpiP.jpg",
+          "credit_id": "64d2aaec03726400fffc02e3",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "BlackStar Film Festival",
+              "release_date": "2023-08-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1031052?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:08.417Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1031052,
+    "imdb_id": "tt13405578",
+    "origin_country": [
+      "SY"
+    ],
+    "original_language": "ar",
+    "original_title": "The People of No Man's Land: Rukban Desert Camp",
+    "overview": "",
+    "popularity": 0.3119,
+    "poster_path": "/uFXpItvGr1R3jY860CNi3GOGo9l.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "SY",
+        "name": "Syrian Arab Republic"
+      }
+    ],
+    "release_date": "2019-09-10",
+    "revenue": 0,
+    "runtime": 24,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The People of No Man's Land: Rukban Desert Camp",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3724472,
+          "known_for_department": "Directing",
+          "name": "Daham Alasaad",
+          "original_name": "Daham Alasaad",
+          "popularity": 0.196,
+          "profile_path": "/jB2yeSuj9bGJzRm2CWfI5FPGB0L.jpg",
+          "credit_id": "6339bd6eab1bc70097f3ddb1",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-09-10T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

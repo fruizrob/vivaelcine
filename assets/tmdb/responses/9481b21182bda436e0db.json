@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=La+Batalla+de+Chile+%E2%80%94+parte+III&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:58.820Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/67t3dSgVDYyG8l2hqToe2BZJdAx.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 132150,
+        "title": "La batalla de Chile: La lucha de un pueblo sin armas - Tercera parte: El poder popular",
+        "original_language": "es",
+        "original_title": "La batalla de Chile: La lucha de un pueblo sin armas - Tercera parte: El poder popular",
+        "overview": "Al margen de los grandes acontecimientos que narran los filmes precedentes ocurren también otros fenómenos originales, a veces efímeros, incompletos, que recoge la tercera parte. Numerosos sectores de la población y en particular las capas populares que apoyan a Allende organizan y ponen en marcha una serie de acciones colectivas: almacenes comunitarios, cordones industriales, comités campesinos, etc., con la intención de neutralizar el caos y superar la crisis. Estas instituciones, en su mayoría espontáneas, representan un “estado” adentro del Estado.",
+        "popularity": 1.4964,
+        "poster_path": "/9ILZtNQWe4j6RO4hhA6ZeSUY0dK.jpg",
+        "release_date": "1979-03-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 42
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

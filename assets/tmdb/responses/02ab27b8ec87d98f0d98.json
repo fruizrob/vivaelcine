@@ -1,0 +1,526 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/431011?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:15.285Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 431011,
+    "imdb_id": "tt1982855",
+    "origin_country": [
+      "HU"
+    ],
+    "original_language": "hu",
+    "original_title": "The Beginning",
+    "overview": "",
+    "popularity": 0.6444,
+    "poster_path": "/e1rReUNk411YNpGXnW6OiT7OAfJ.jpg",
+    "production_companies": [
+      {
+        "id": 93922,
+        "logo_path": "/uVOxypZFhX6pWhP15hAkV03w1rg.png",
+        "name": "Birdhouse",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2007-11-06",
+    "revenue": 0,
+    "runtime": 55,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Beginning",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16832,
+          "known_for_department": "Acting",
+          "name": "Tony Hawk",
+          "original_name": "Tony Hawk",
+          "popularity": 0.6078,
+          "profile_path": "/gYNmD0a7LemMX6zDZ1lyDs6YYwd.jpg",
+          "cast_id": 0,
+          "character": "Self",
+          "credit_id": "5859244692514146c9059121",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1025692,
+          "known_for_department": "Acting",
+          "name": "Brian Wenning",
+          "original_name": "Brian Wenning",
+          "popularity": 0.2973,
+          "profile_path": "/8lDgV0No8vP5trCgNRKRiDWh8cN.jpg",
+          "cast_id": 1,
+          "character": "Self",
+          "credit_id": "58592457925141724d03efd9",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 96823,
+          "known_for_department": "Acting",
+          "name": "Jason Dill",
+          "original_name": "Jason Dill",
+          "popularity": 0.4496,
+          "profile_path": "/627QABMMbwXizbDu4NVrb17Dxrj.jpg",
+          "cast_id": 2,
+          "character": "Self",
+          "credit_id": "58592465c3a36806a705ce54",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1082582,
+          "known_for_department": "Acting",
+          "name": "Josh Kalis",
+          "original_name": "Josh Kalis",
+          "popularity": 0.3991,
+          "profile_path": "/zVApBexXTGmVBA3mLBTdXSLmIsY.jpg",
+          "cast_id": 3,
+          "character": "Self",
+          "credit_id": "5859246d92514146c905913c",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1230736,
+          "known_for_department": "Acting",
+          "name": "Kerry Getz",
+          "original_name": "Kerry Getz",
+          "popularity": 0.4135,
+          "profile_path": "/z0I0Y1yr8rQHLm8lW2AsYXSzWkO.jpg",
+          "cast_id": 4,
+          "character": "Self",
+          "credit_id": "58592475c3a36831500638a3",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1511159,
+          "known_for_department": "Acting",
+          "name": "Danny Way",
+          "original_name": "Danny Way",
+          "popularity": 1.0465,
+          "profile_path": "/57xExovjkR0Sq8ngTDBzgWiiVgC.jpg",
+          "cast_id": 7,
+          "character": "Self",
+          "credit_id": "5947e4149251413ff4040f00",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1826040,
+          "known_for_department": "Acting",
+          "name": "Derek Burdette",
+          "original_name": "Derek Burdette",
+          "popularity": 0.2917,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Self",
+          "credit_id": "5999bda892514149e200067e",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1300108,
+          "known_for_department": "Acting",
+          "name": "Jon Dickson",
+          "original_name": "Jon Dickson",
+          "popularity": 0.5881,
+          "profile_path": "/gLEafTSihGJdc6qNuupXNzPMxuP.jpg",
+          "cast_id": 20,
+          "character": "Self",
+          "credit_id": "5999bdb29251414a130006e2",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1760838,
+          "known_for_department": "Acting",
+          "name": "Sean Eaton",
+          "original_name": "Sean Eaton",
+          "popularity": 0.253,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Self",
+          "credit_id": "5999bdc292514149e2000697",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1873298,
+          "known_for_department": "Acting",
+          "name": "Justin Figueroa",
+          "original_name": "Justin Figueroa",
+          "popularity": 0.788,
+          "profile_path": "/pFbeBcZW0PmgSr6H1eJKqRnlwmK.jpg",
+          "cast_id": 22,
+          "character": "Self",
+          "credit_id": "5999bdcbc3a36839a00006f4",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1873299,
+          "known_for_department": "Acting",
+          "name": "Shaun Gergoire",
+          "original_name": "Shaun Gergoire",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "Self",
+          "credit_id": "5999bdd492514149cc000733",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1231261,
+          "known_for_department": "Acting",
+          "name": "Riley Hawk",
+          "original_name": "Riley Hawk",
+          "popularity": 0.4043,
+          "profile_path": "/s5SaOchvG1OfqEdcH1xrNC1z3oC.jpg",
+          "cast_id": 24,
+          "character": "Self",
+          "credit_id": "5999bddf9251414a06000705",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1248558,
+          "known_for_department": "Acting",
+          "name": "Jeremy Klein",
+          "original_name": "Jeremy Klein",
+          "popularity": 0.2336,
+          "profile_path": "/AnbUn8Qiditxzb4aNlvovUxLVez.jpg",
+          "cast_id": 25,
+          "character": "Self",
+          "credit_id": "5999be4ac3a36839f90007d3",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1873304,
+          "known_for_department": "Acting",
+          "name": "Nate LaCoste",
+          "original_name": "Nate LaCoste",
+          "popularity": 0.1123,
+          "profile_path": "/50oGVp9RZRfKNIkoAIFvK4rukaY.jpg",
+          "cast_id": 26,
+          "character": "Self",
+          "credit_id": "5999be56c3a36839f90007e0",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1826042,
+          "known_for_department": "Acting",
+          "name": "David Loy",
+          "original_name": "David Loy",
+          "popularity": 0.3793,
+          "profile_path": "/zcCGGtmFdS0F1LoU7N0byyMxZxc.jpg",
+          "cast_id": 27,
+          "character": "Self",
+          "credit_id": "5999be62c3a36839e800077e",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 558037,
+          "known_for_department": "Acting",
+          "name": "Steve Nesser",
+          "original_name": "Steve Nesser",
+          "popularity": 0.1251,
+          "profile_path": null,
+          "cast_id": 28,
+          "character": "Self",
+          "credit_id": "5999be6b92514149e200076f",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1826041,
+          "known_for_department": "Acting",
+          "name": "Randy Ploesser",
+          "original_name": "Randy Ploesser",
+          "popularity": 0.2296,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "Self",
+          "credit_id": "5999be779251414a130007ae",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1873308,
+          "known_for_department": "Acting",
+          "name": "Jean Postec",
+          "original_name": "Jean Postec",
+          "popularity": 0.0977,
+          "profile_path": null,
+          "cast_id": 30,
+          "character": "Self",
+          "credit_id": "5999be7f9251414a0d00075e",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1249313,
+          "known_for_department": "Acting",
+          "name": "Willy Santos",
+          "original_name": "Willy Santos",
+          "popularity": 1.2206,
+          "profile_path": null,
+          "cast_id": 31,
+          "character": "Self",
+          "credit_id": "5999be889251414a130007be",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 229060,
+          "known_for_department": "Acting",
+          "name": "Brian Sumner",
+          "original_name": "Brian Sumner",
+          "popularity": 0.2779,
+          "profile_path": "/toWScLCl9aj3ZE9sorsvVUgWdtI.jpg",
+          "cast_id": 32,
+          "character": "Self",
+          "credit_id": "5999be91c3a368396400078f",
+          "order": 19
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1725194,
+          "known_for_department": "Production",
+          "name": "Joe Castrucci",
+          "original_name": "Joe Castrucci",
+          "popularity": 0.565,
+          "profile_path": "/mzMgjBb8FopE4StHIrsbItr6tc9.jpg",
+          "credit_id": "58592590c3a368258f067041",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16832,
+          "known_for_department": "Acting",
+          "name": "Tony Hawk",
+          "original_name": "Tony Hawk",
+          "popularity": 0.6078,
+          "profile_path": "/gYNmD0a7LemMX6zDZ1lyDs6YYwd.jpg",
+          "credit_id": "5999baf1c3a36839f90003df",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 229086,
+          "known_for_department": "Acting",
+          "name": "Per Welinder",
+          "original_name": "Per Welinder",
+          "popularity": 0.9155,
+          "profile_path": null,
+          "credit_id": "5999bb08c3a36839640003b1",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1873291,
+          "known_for_department": "Production",
+          "name": "Brian Brannon",
+          "original_name": "Brian Brannon",
+          "popularity": 0.1651,
+          "profile_path": null,
+          "credit_id": "5999bb23c3a36839a00003e1",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1873292,
+          "known_for_department": "Editing",
+          "name": "Kevin Phelps",
+          "original_name": "Kevin Phelps",
+          "popularity": 0.1002,
+          "profile_path": null,
+          "credit_id": "5999bb3b9251414a13000433",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1873293,
+          "known_for_department": "Editing",
+          "name": "Steve Haring",
+          "original_name": "Steve Haring",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "5999bb4b9251414a21000462",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1873292,
+          "known_for_department": "Editing",
+          "name": "Kevin Phelps",
+          "original_name": "Kevin Phelps",
+          "popularity": 0.1002,
+          "profile_path": null,
+          "credit_id": "5999bb5c92514149cc000465",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1873293,
+          "known_for_department": "Editing",
+          "name": "Steve Haring",
+          "original_name": "Steve Haring",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "5999bb6792514149c5000483",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1873294,
+          "known_for_department": "Editing",
+          "name": "Allen Danze",
+          "original_name": "Allen Danze",
+          "popularity": 0.0975,
+          "profile_path": null,
+          "credit_id": "5999bbc792514149cc0004d5",
+          "department": "Editing",
+          "job": "Additional Editing"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 108239,
+          "known_for_department": "Editing",
+          "name": "Matt Haring",
+          "original_name": "Matt Haring",
+          "popularity": 0.1241,
+          "profile_path": null,
+          "credit_id": "5999bbd692514149e2000484",
+          "department": "Editing",
+          "job": "Additional Editing"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1248558,
+          "known_for_department": "Acting",
+          "name": "Jeremy Klein",
+          "original_name": "Jeremy Klein",
+          "popularity": 0.2336,
+          "profile_path": "/AnbUn8Qiditxzb4aNlvovUxLVez.jpg",
+          "credit_id": "5999bbe5c3a36839f90004f4",
+          "department": "Editing",
+          "job": "Additional Editing"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1873295,
+          "known_for_department": "Editing",
+          "name": "Benji Meyer",
+          "original_name": "Benji Meyer",
+          "popularity": 0.12,
+          "profile_path": null,
+          "credit_id": "5999bbf8c3a36839e8000494",
+          "department": "Editing",
+          "job": "Additional Editing"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2007-11-06T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Birdhouse - The Beginning",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

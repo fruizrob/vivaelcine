@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=RELICTO&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-05T16:45:33.177Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/6kg7UvjMayUdtYFNIEBfgAlzlFQ.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1633353,
+        "title": "Relicto",
+        "original_language": "es",
+        "original_title": "Relicto",
+        "overview": "",
+        "popularity": 0.7453,
+        "poster_path": "/sTTnQtAmxez5p70okxjlTrpowGc.jpg",
+        "release_date": "2026-03-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

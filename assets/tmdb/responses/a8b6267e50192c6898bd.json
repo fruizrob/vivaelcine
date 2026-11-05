@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=The+Kartli+Kingdom&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:53.124Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/3m4yOv2sn1wCMVarBkRWiuuu3qn.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1567600,
+        "title": "ქართლის ცხოვრება",
+        "original_language": "ka",
+        "original_title": "ქართლის ცხოვრება",
+        "overview": "",
+        "popularity": 0.3103,
+        "poster_path": "/gPkxkpZ1RBm43Wx4Yp2DvH3HbXJ.jpg",
+        "release_date": "2025-11-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

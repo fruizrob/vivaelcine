@@ -1,0 +1,102 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1165678?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:20.277Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1165678,
+    "imdb_id": null,
+    "origin_country": [
+      "HK"
+    ],
+    "original_language": "en",
+    "original_title": "複製人",
+    "overview": "",
+    "popularity": 0.5,
+    "poster_path": "/hngc1BCQVFDfjBeNraR0OCJDnd8.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1998-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "複製人",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 26786,
+          "known_for_department": "Acting",
+          "name": "黃錦燊",
+          "original_name": "黃錦燊",
+          "popularity": 1.4234,
+          "profile_path": "/miusigvb9jQtHxsony2jlfzw1NT.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "64dc616359e8a900c59fed56",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 119452,
+          "known_for_department": "Acting",
+          "name": "元武",
+          "original_name": "元武",
+          "popularity": 0.8109,
+          "profile_path": "/lzpCy5dif52Nh3kOrw5CGscVf5O.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "678f1833e1af20590faaa9f5",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1276975,
+          "known_for_department": "Directing",
+          "name": "Yiu Tin-Hung",
+          "original_name": "Yiu Tin-Hung",
+          "popularity": 0.3031,
+          "profile_path": null,
+          "credit_id": "64dc617459e8a900c59fed62",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "HK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1998-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

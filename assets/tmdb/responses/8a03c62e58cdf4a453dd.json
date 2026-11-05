@@ -1,0 +1,31 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Les+Roches+Rouges&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-05T16:44:54.888Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/wVJPuSrEsSWWTMzYH1xLClAWSkb.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 1265831,
+        "title": "Les Roches Rouges",
+        "original_language": "fr",
+        "original_title": "Les Roches Rouges",
+        "overview": "",
+        "popularity": 1.8155,
+        "poster_path": "/6q3zCTkbrHw0AhdfWtK0mTQW9tP.jpg",
+        "release_date": "2026-09-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.818,
+        "vote_count": 11
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

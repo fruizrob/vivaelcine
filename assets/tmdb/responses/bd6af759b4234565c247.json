@@ -1,0 +1,161 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1765677?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:20.641Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 1765677,
+    "imdb_id": null,
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_title": "亲密副本",
+    "overview": "",
+    "popularity": 0.7558,
+    "poster_path": "/5mWFpKhOaYA8HcXTC3Mtjv9BxPW.jpg",
+    "production_companies": [
+      {
+        "id": 94956,
+        "logo_path": null,
+        "name": "北京电影学院青年电影制片厂",
+        "origin_country": "CN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      }
+    ],
+    "release_date": "2026-06-17",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "亲密副本",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4745289,
+          "known_for_department": "Acting",
+          "name": "马大智",
+          "original_name": "马大智",
+          "popularity": 0.4942,
+          "profile_path": "/5XnCViJAqXqXKfBdeRlaZYtrupU.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "6a9edda9f352273b71c75206",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5356662,
+          "known_for_department": "Acting",
+          "name": "安思逾",
+          "original_name": "安思逾",
+          "popularity": 0.3578,
+          "profile_path": "/bbf1pb9O7jDcCYniXJ2ij0kiyeE.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "6a9eddb273400d7f9160e876",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6462915,
+          "known_for_department": "Writing",
+          "name": "Liu Shaojie",
+          "original_name": "Liu Shaojie",
+          "popularity": 0.3645,
+          "profile_path": null,
+          "credit_id": "6a9edd68e484893edb4b0c39",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6462915,
+          "known_for_department": "Writing",
+          "name": "Liu Shaojie",
+          "original_name": "Liu Shaojie",
+          "popularity": 0.3645,
+          "profile_path": null,
+          "credit_id": "6a9edd7704a07bec244b4fdf",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6462916,
+          "known_for_department": "Writing",
+          "name": "Zhen Jize",
+          "original_name": "Zhen Jize",
+          "popularity": 0.2768,
+          "profile_path": null,
+          "credit_id": "6a9edd9a1f35243c097d4e54",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Beijing Film Academy",
+              "release_date": "2026-06-17T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Pingyao International Film Festival",
+              "release_date": "2026-09-26T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,721 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/50135?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:56.820Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/9bKg2Tft4P3AovKHzb7RTflcX3X.jpg",
+    "belongs_to_collection": {
+      "id": 1394923,
+      "name": "Animales al Ataque - Colección",
+      "poster_path": null,
+      "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 50135,
+    "imdb_id": "tt1620449",
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Konferenz der Tiere",
+    "overview": "Inspirada en el libro \"La conferencia de los animales\", del escritor Erich Kästner, cuenta cómo los animales, hartos de que los humanos les quiten el agua para sus intereses comerciales, se reúnen para poner fin a esta situación.  Un grupo de animales en espera de la inundación anual que dependen para su alimento y agua a descubrir que los seres humanos, que han estado destruyendo sus hábitats han construido una presa para un complejo de ocio.",
+    "popularity": 3.1465,
+    "poster_path": "/tqqJf2X9UxvUL2VqO3jpoEGw3jl.jpg",
+    "production_companies": [
+      {
+        "id": 8104,
+        "logo_path": null,
+        "name": "Ambient Entertainment",
+        "origin_country": "DE"
+      },
+      {
+        "id": 47,
+        "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+        "name": "Constantin Film",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2010-10-07",
+    "revenue": 0,
+    "runtime": 83,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Animales al Ataque",
+    "video": false,
+    "vote_average": 5.588,
+    "vote_count": 357,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5649,
+          "known_for_department": "Acting",
+          "name": "Christoph Maria Herbst",
+          "original_name": "Christoph Maria Herbst",
+          "popularity": 1.9741,
+          "profile_path": "/8v3lDa0QCJlDtOx9flqlMNIA3uf.jpg",
+          "cast_id": 35,
+          "character": "Charles",
+          "credit_id": "568932df9251417e1500edc5",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 59335,
+          "known_for_department": "Acting",
+          "name": "Ralf Schmitz",
+          "original_name": "Ralf Schmitz",
+          "popularity": 0.6728,
+          "profile_path": "/sIW9zdAN8iZ2b8qcjwndkSjcNqj.jpg",
+          "cast_id": 36,
+          "character": "Billy",
+          "credit_id": "5689331bc3a3684bcc028b10",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32586,
+          "known_for_department": "Acting",
+          "name": "Thomas Fritsch",
+          "original_name": "Thomas Fritsch",
+          "popularity": 0.5164,
+          "profile_path": "/lYWEhWGyTNff5DYVVQZq2Mln94x.jpg",
+          "cast_id": 37,
+          "character": "Sokrates",
+          "credit_id": "56893345c3a368362800f212",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16815,
+          "known_for_department": "Acting",
+          "name": "Bastian Pastewka",
+          "original_name": "Bastian Pastewka",
+          "popularity": 0.43,
+          "profile_path": "/kSRVRenZT6fy8mfG9dnfsYL9eMD.jpg",
+          "cast_id": 38,
+          "character": "Angie",
+          "credit_id": "568933539251417e6300e94b",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16814,
+          "known_for_department": "Acting",
+          "name": "Oliver Kalkofe",
+          "original_name": "Oliver Kalkofe",
+          "popularity": 0.3595,
+          "profile_path": "/yBnZQwKbZHATG6nev7qOtv4xncd.jpg",
+          "cast_id": 39,
+          "character": "Smith",
+          "credit_id": "568933609251417e6300e94e",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1557544,
+          "known_for_department": "Acting",
+          "name": "Nana Spier",
+          "original_name": "Nana Spier",
+          "popularity": 0.271,
+          "profile_path": "/pVKyc9BCBLg02lhgj6ssR447Dd6.jpg",
+          "cast_id": 40,
+          "character": "Bonnie",
+          "credit_id": "56893386925141133401d73e",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32866,
+          "known_for_department": "Acting",
+          "name": "Constantin von Jascheroff",
+          "original_name": "Constantin von Jascheroff",
+          "popularity": 0.5444,
+          "profile_path": "/bg1M8lf8I4jgwe6w6kWpi1j4Zcy.jpg",
+          "cast_id": 41,
+          "character": "Meerkat #1",
+          "credit_id": "5689339892514132db024f14",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3576786,
+          "known_for_department": "Acting",
+          "name": "Jessica Owen",
+          "original_name": "Jessica Owen",
+          "popularity": 0.137,
+          "profile_path": null,
+          "cast_id": 46,
+          "character": "Meerkat #2",
+          "credit_id": "629c6c261e9225004f8f8551",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1974020,
+          "known_for_department": "Acting",
+          "name": "Dirk Petrick",
+          "original_name": "Dirk Petrick",
+          "popularity": 0.1979,
+          "profile_path": "/esRgN5WIeeCn2yUwIxnsQAJeoXt.jpg",
+          "cast_id": 47,
+          "character": "Junior",
+          "credit_id": "677bded9c5070b8a466699ae",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 71433,
+          "known_for_department": "Acting",
+          "name": "Tilo Schmitz",
+          "original_name": "Tilo Schmitz",
+          "popularity": 0.3178,
+          "profile_path": "/1O7VHh86Qraiw5ixhXDzJNYup4k.jpg",
+          "cast_id": 48,
+          "character": "Biggie",
+          "credit_id": "677be581d9b0e70d5d724c91",
+          "order": 9
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 57035,
+          "known_for_department": "Writing",
+          "name": "Reinhard Klooss",
+          "original_name": "Reinhard Klooss",
+          "popularity": 0.3347,
+          "profile_path": "/9ymwHfcv1EYMN1fisz6uc01eVd3.jpg",
+          "credit_id": "52fe47bbc3a36847f8145455",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 57035,
+          "known_for_department": "Writing",
+          "name": "Reinhard Klooss",
+          "original_name": "Reinhard Klooss",
+          "popularity": 0.3347,
+          "profile_path": "/9ymwHfcv1EYMN1fisz6uc01eVd3.jpg",
+          "credit_id": "52fe47bbc3a36847f814546d",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 66942,
+          "known_for_department": "Directing",
+          "name": "Holger Tappe",
+          "original_name": "Holger Tappe",
+          "popularity": 0.3433,
+          "profile_path": null,
+          "credit_id": "52fe47bbc3a36847f814545b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17080,
+          "known_for_department": "Production",
+          "name": "Martin Moszkowicz",
+          "original_name": "Martin Moszkowicz",
+          "popularity": 0.2817,
+          "profile_path": "/hRpeYFukt2UUwBYG050AE9JRhDU.jpg",
+          "credit_id": "550ca65c9251413443001e33",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 584480,
+          "known_for_department": "Directing",
+          "name": "Eckhart Schmidt",
+          "original_name": "Eckhart Schmidt",
+          "popularity": 0.5317,
+          "profile_path": "/9gC60dhxqgk4kfB4Kw0g2RJcyfG.jpg",
+          "credit_id": "550ca6709251414695004216",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1442742,
+          "known_for_department": "Art",
+          "name": "Henning Ahlers",
+          "original_name": "Henning Ahlers",
+          "popularity": 0.1382,
+          "profile_path": null,
+          "credit_id": "550ca6c4c3a3681db2003bc7",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1442744,
+          "known_for_department": "Visual Effects",
+          "name": "Hakan Akögretmen",
+          "original_name": "Hakan Akögretmen",
+          "popularity": 0.1135,
+          "profile_path": null,
+          "credit_id": "550ca6ed9251414695004227",
+          "department": "Visual Effects",
+          "job": "Modeling"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 57106,
+          "known_for_department": "Editing",
+          "name": "Alexander Dittner",
+          "original_name": "Alexander Dittner",
+          "popularity": 0.3205,
+          "profile_path": "/jmAY3PJHH9nFuNywwCOtRZlxJ70.jpg",
+          "credit_id": "550ca6b0925141469c004255",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1442743,
+          "known_for_department": "Art",
+          "name": "Jens Benecke",
+          "original_name": "Jens Benecke",
+          "popularity": 0.1853,
+          "profile_path": null,
+          "credit_id": "550ca6d192514146a0004062",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 36332,
+          "known_for_department": "Production",
+          "name": "Bernhard Thür",
+          "original_name": "Bernhard Thür",
+          "popularity": 0.2897,
+          "profile_path": null,
+          "credit_id": "550ca680c3a3684886004496",
+          "department": "Production",
+          "job": "Line Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 95544,
+          "known_for_department": "Directing",
+          "name": "Sven Severin",
+          "original_name": "Sven Severin",
+          "popularity": 0.354,
+          "profile_path": null,
+          "credit_id": "594853c6925141400d047637",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 11920,
+          "known_for_department": "Writing",
+          "name": "Erich Kästner",
+          "original_name": "Erich Kästner",
+          "popularity": 0.689,
+          "profile_path": null,
+          "credit_id": "5948538ac3a368170f0496c3",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3393,
+          "known_for_department": "Sound",
+          "name": "David Newman",
+          "original_name": "David Newman",
+          "popularity": 1.1336,
+          "profile_path": "/gK3u0Xi2OCCF6ZImm0vciW82Sj9.jpg",
+          "credit_id": "594853dc9251417e4c026b9a",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 66943,
+          "known_for_department": "Writing",
+          "name": "Oliver Huzly",
+          "original_name": "Oliver Huzly",
+          "popularity": 0.3844,
+          "profile_path": null,
+          "credit_id": "594853aec3a36816c5048316",
+          "department": "Writing",
+          "job": "Screenplay"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-10-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "L",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-10-07T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CH",
+          "release_dates": [
+            {
+              "certification": "0",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-10-07T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2012-03-22T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "0",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-10-07T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DK",
+          "release_dates": [
+            {
+              "certification": "7",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2012-05-13T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2011-02-09T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-12-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HU",
+          "release_dates": [
+            {
+              "certification": "6",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-10-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IE",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-12-17T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "T",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2011-01-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "9",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-10-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "M/6",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2011-08-04T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "sk",
+              "note": "",
+              "release_date": "2012-03-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2011-03-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-10-07T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "FR",
+          "title": "Animaux et Cie",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "SE",
+          "title": "The Animals United",
+          "type": "imdb display title"
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "Animals United",
+          "type": "International English title"
+        },
+        {
+          "iso_3166_1": "RU",
+          "title": "Союз зверей",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BR",
+          "title": "Animais Unidos Jamais Serão Vencidos",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "TR",
+          "title": "Sevimli Hayvanlar",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BR",
+          "title": "Animals United",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CL",
+          "title": "Animales al Ataque",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DK",
+          "title": "Savanne Banden",
+          "type": "Lokal dansk titel"
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "Animals United - 3D",
+          "type": "3D version"
+        },
+        {
+          "iso_3166_1": "HU",
+          "title": "Egyesült állatok",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PT",
+          "title": "Animais Unidos Jamais Serão Vencidos",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "GR",
+          "title": "Ζωάκια Ενωθείτε",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "HR",
+          "title": "Konferencija životinja",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Animaux Et Compagnie",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CO",
+          "title": "Animales al Ataque",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "KR",
+          "title": "빌리와 용감한 녀석들",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "JP",
+          "title": "アドベンチャー・イン・アフリカ",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "LK",
+          "title": "කැළෑ ගම",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "EE",
+          "title": "Loomade kokkutulek",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

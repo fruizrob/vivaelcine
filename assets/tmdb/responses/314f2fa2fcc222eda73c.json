@@ -1,0 +1,386 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1753261?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:23.407Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 250,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1753261,
+    "imdb_id": null,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Terra",
+    "overview": "",
+    "popularity": 0.4797,
+    "poster_path": "/f5BFeOWuhicAjkBTdaQgfx5a1Xq.jpg",
+    "production_companies": [
+      {
+        "id": 308147,
+        "logo_path": null,
+        "name": "Estrela da Manhã Filmes",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2026-08-20",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425441,
+          "known_for_department": "Acting",
+          "name": "Marih Araújo",
+          "original_name": "Marih Araújo",
+          "popularity": 0.1206,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Maria",
+          "credit_id": "6a87563b93434276b2c0b95a",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4119505,
+          "known_for_department": "Acting",
+          "name": "Bibi Flor",
+          "original_name": "Bibi Flor",
+          "popularity": 0.095,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Maria Jovem",
+          "credit_id": "6a8756501c3d452c758c97f9",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425442,
+          "known_for_department": "Acting",
+          "name": "Cilene Ribeiro",
+          "original_name": "Cilene Ribeiro",
+          "popularity": 0.1199,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Mãe de Maria",
+          "credit_id": "6a8756761335f031018c9819",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425445,
+          "known_for_department": "Writing",
+          "name": "Pedro Enrico",
+          "original_name": "Pedro Enrico",
+          "popularity": 0.1247,
+          "profile_path": "/jGukWVoVjKex0zbEYKNhQPIVIYK.jpg",
+          "credit_id": "6a8756e2f17e9d1cff367cac",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425447,
+          "known_for_department": "Production",
+          "name": "Ana Flávia Brito",
+          "original_name": "Ana Flávia Brito",
+          "popularity": 0.1522,
+          "profile_path": null,
+          "credit_id": "6a87570f1335f031018c9840",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425449,
+          "known_for_department": "Writing",
+          "name": "Matheus Francisco",
+          "original_name": "Matheus Francisco",
+          "popularity": 0.1133,
+          "profile_path": null,
+          "credit_id": "6a87572426c667419e8ae170",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425451,
+          "known_for_department": "Camera",
+          "name": "Julia Ghiraldi",
+          "original_name": "Julia Ghiraldi",
+          "popularity": 0.1107,
+          "profile_path": null,
+          "credit_id": "6a87575035b57836585673ca",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425454,
+          "known_for_department": "Editing",
+          "name": "Danillo Bragato",
+          "original_name": "Danillo Bragato",
+          "popularity": 0.1255,
+          "profile_path": null,
+          "credit_id": "6a87579f5279afef7fc7bce7",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425455,
+          "known_for_department": "Directing",
+          "name": "Geanne Gonçalves",
+          "original_name": "Geanne Gonçalves",
+          "popularity": 0.1255,
+          "profile_path": null,
+          "credit_id": "6a8757c4bb4b0bc6bd56743a",
+          "department": "Directing",
+          "job": "Continuity"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425456,
+          "known_for_department": "Art",
+          "name": "Luanna Morenilla",
+          "original_name": "Luanna Morenilla",
+          "popularity": 0.1129,
+          "profile_path": null,
+          "credit_id": "6a87580a0c316247cd8ae1ff",
+          "department": "Art",
+          "job": "Art Department Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4825557,
+          "known_for_department": "Acting",
+          "name": "Gabriela Ferreira Costa",
+          "original_name": "Gabriela Ferreira Costa",
+          "popularity": 0.2711,
+          "profile_path": null,
+          "credit_id": "6a87640f4547ec5464300f5f",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425456,
+          "known_for_department": "Art",
+          "name": "Luanna Morenilla",
+          "original_name": "Luanna Morenilla",
+          "popularity": 0.1129,
+          "profile_path": null,
+          "credit_id": "6a8788113b6a89398c796153",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425452,
+          "known_for_department": "Camera",
+          "name": "Andressa Brito",
+          "original_name": "Andressa Brito",
+          "popularity": 0.1198,
+          "profile_path": null,
+          "credit_id": "6a8788389e84f3fe274b8e28",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425449,
+          "known_for_department": "Writing",
+          "name": "Matheus Francisco",
+          "original_name": "Matheus Francisco",
+          "popularity": 0.1133,
+          "profile_path": null,
+          "credit_id": "6a87885d6f7e2189f0ec0026",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425445,
+          "known_for_department": "Writing",
+          "name": "Pedro Enrico",
+          "original_name": "Pedro Enrico",
+          "popularity": 0.1247,
+          "profile_path": "/jGukWVoVjKex0zbEYKNhQPIVIYK.jpg",
+          "credit_id": "6a8788869e385d41904b8e92",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425456,
+          "known_for_department": "Art",
+          "name": "Luanna Morenilla",
+          "original_name": "Luanna Morenilla",
+          "popularity": 0.1129,
+          "profile_path": null,
+          "credit_id": "6a8788e82f58f99369796190",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425860,
+          "known_for_department": "Sound",
+          "name": "Leonardo Riga",
+          "original_name": "Leonardo Riga",
+          "popularity": 0.1189,
+          "profile_path": null,
+          "credit_id": "6a87894f8277effdf14b8e1a",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6259491,
+          "known_for_department": "Sound",
+          "name": "Felipe Lopes Basilichi",
+          "original_name": "Felipe Lopes Basilichi",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "6a8789c3318693a8f3796298",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425454,
+          "known_for_department": "Editing",
+          "name": "Danillo Bragato",
+          "original_name": "Danillo Bragato",
+          "popularity": 0.1255,
+          "profile_path": null,
+          "credit_id": "6a8789d87c2c8174d64b8e63",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425445,
+          "known_for_department": "Writing",
+          "name": "Pedro Enrico",
+          "original_name": "Pedro Enrico",
+          "popularity": 0.1247,
+          "profile_path": "/jGukWVoVjKex0zbEYKNhQPIVIYK.jpg",
+          "credit_id": "6a878a2a7016144fd16e2ba3",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425454,
+          "known_for_department": "Editing",
+          "name": "Danillo Bragato",
+          "original_name": "Danillo Bragato",
+          "popularity": 0.1255,
+          "profile_path": null,
+          "credit_id": "6a878a9ca646cd2965c391f4",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425449,
+          "known_for_department": "Writing",
+          "name": "Matheus Francisco",
+          "original_name": "Matheus Francisco",
+          "popularity": 0.1133,
+          "profile_path": null,
+          "credit_id": "6a878bde0f46ceeca35130ce",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425447,
+          "known_for_department": "Production",
+          "name": "Ana Flávia Brito",
+          "original_name": "Ana Flávia Brito",
+          "popularity": 0.1522,
+          "profile_path": null,
+          "credit_id": "6a878c33eb350a037351312e",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "L",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "",
+              "release_date": "2026-08-20T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

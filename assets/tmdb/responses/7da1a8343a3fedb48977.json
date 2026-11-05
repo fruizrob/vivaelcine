@@ -1,0 +1,154 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1060889?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:55.983Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/92sB18gwvWCeIGT3n8FtCbo5HDx.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1060889,
+    "imdb_id": "tt21272246",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_title": "48 Kos",
+    "overview": "",
+    "popularity": 0.4066,
+    "poster_path": "/uMdJyR9JwNrpeIumWRikRDs8EUN.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2022-07-08",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "48 Kos",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 140691,
+          "known_for_department": "Acting",
+          "name": "Arun Bakshi",
+          "original_name": "Arun Bakshi",
+          "popularity": 0.5113,
+          "profile_path": "/rswhZt6yecx9UVAHoYN4NiN1CpO.jpg",
+          "cast_id": 1,
+          "character": "Sham Lal",
+          "credit_id": "63985d512cefc200a2feb251",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1033068,
+          "known_for_department": "Acting",
+          "name": "Anil Dhawan",
+          "original_name": "Anil Dhawan",
+          "popularity": 0.3754,
+          "profile_path": "/oApALmbgo0FzKYy2vJj4TFGkc71.jpg",
+          "cast_id": 2,
+          "character": "Dhani Ram",
+          "credit_id": "63985dd18a88b200c4e32ffa",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3829020,
+          "known_for_department": "Acting",
+          "name": "Aashi Jasuja",
+          "original_name": "Aashi Jasuja",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Aashi",
+          "credit_id": "63985df92cefc200c38b64d2",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1238025,
+          "known_for_department": "Acting",
+          "name": "Pankaj Berry",
+          "original_name": "Pankaj Berry",
+          "popularity": 0.4036,
+          "profile_path": "/448NE3vQuRowyaPYANL6fTkKtWp.jpg",
+          "cast_id": 4,
+          "character": "Aacharya",
+          "credit_id": "63985e17d05a030094f20c5f",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2984108,
+          "known_for_department": "Directing",
+          "name": "Rajinder Verma",
+          "original_name": "Rajinder Verma",
+          "popularity": 0.2484,
+          "profile_path": null,
+          "credit_id": "639861ced05a030094f20e39",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3829040,
+          "known_for_department": "Writing",
+          "name": "A. Thaman",
+          "original_name": "A. Thaman",
+          "popularity": 0.1303,
+          "profile_path": null,
+          "credit_id": "639862028a88b2007d94318a",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "hi",
+              "note": "",
+              "release_date": "2022-07-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

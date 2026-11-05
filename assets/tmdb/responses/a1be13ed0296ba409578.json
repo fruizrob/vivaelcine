@@ -1,0 +1,556 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/517327?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:57.846Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/qsdUqPcjmFCQOutD4IQeHAtFfLH.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 517327,
+    "imdb_id": "tt7474914",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Animales sin collar",
+    "overview": "Abel es un político volcado en la lucha por los más desfavorecidos y Nora, su mujer, es el apoyo incondicional para él y que, guarda un importante secreto que puede transformarlo todo. Su tranquila vida en un retirado cortijo andaluz cambiará cuando aparezca Víctor, un alto cargo derrocado. Virginia y Félix serán la sorpresa final, dos antiguos amigos de una época que prefirieron dejar atrás. Juntos tendrán que hacer frente a las adversidades y descubrir hasta donde están dispuesto a llegar por mantenerse juntos.",
+    "popularity": 0.5905,
+    "poster_path": "/iPBIRjrPdyqXQHG33nSQxgQMmER.jpg",
+    "production_companies": [
+      {
+        "id": 78370,
+        "logo_path": "/vUrbxyePsBv2dkiM3SFkrkEzhSV.png",
+        "name": "La Canica Films",
+        "origin_country": "ES"
+      },
+      {
+        "id": 13314,
+        "logo_path": null,
+        "name": "Palomar",
+        "origin_country": "CA"
+      },
+      {
+        "id": 85066,
+        "logo_path": "/5FhRorfPgloqzv7zlEAMi0dsiCa.png",
+        "name": "Film Factory",
+        "origin_country": "ES"
+      },
+      {
+        "id": 67412,
+        "logo_path": "/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png",
+        "name": "Movistar Plus",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2018-09-14",
+    "revenue": 0,
+    "runtime": 100,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Una Película de Jota Linares",
+    "title": "Animales sin collar",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 36,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1270686,
+          "known_for_department": "Acting",
+          "name": "Natalia de Molina",
+          "original_name": "Natalia de Molina",
+          "popularity": 0.7354,
+          "profile_path": "/6wlQQgxW8sQTCQU79sNpEL4lYfs.jpg",
+          "cast_id": 0,
+          "character": "Nora",
+          "credit_id": "5acc9b87c3a368674c00a34e",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 233947,
+          "known_for_department": "Acting",
+          "name": "Daniel Grao",
+          "original_name": "Daniel Grao",
+          "popularity": 0.8121,
+          "profile_path": "/8pNOwG9UxgHestAriO0N7r5GHN8.jpg",
+          "cast_id": 1,
+          "character": "Abel",
+          "credit_id": "5acc9b92c3a3687e4802cd0a",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 965929,
+          "known_for_department": "Acting",
+          "name": "Natalia Mateo",
+          "original_name": "Natalia Mateo",
+          "popularity": 0.7114,
+          "profile_path": "/p0rlEemHWWDf4gE6OjIM3jVIfqk.jpg",
+          "cast_id": 2,
+          "character": "Virginia",
+          "credit_id": "5acc9bb1c3a3687e27028cae",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1490110,
+          "known_for_department": "Acting",
+          "name": "Ignacio Mateos",
+          "original_name": "Ignacio Mateos",
+          "popularity": 0.6398,
+          "profile_path": "/ury6LzY0kMTemHQG85YSTbA1iOn.jpg",
+          "cast_id": 3,
+          "character": "Víctor",
+          "credit_id": "5acc9bcac3a3687e40028595",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1852132,
+          "known_for_department": "Acting",
+          "name": "Borja Luna",
+          "original_name": "Borja Luna",
+          "popularity": 0.6087,
+          "profile_path": "/cMn8NR2FUy92adqEx4D3cGTahg8.jpg",
+          "cast_id": 4,
+          "character": "Félix",
+          "credit_id": "5acc9bd9c3a3687e400285a0",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1316401,
+          "known_for_department": "Acting",
+          "name": "Mario Tardón",
+          "original_name": "Mario Tardón",
+          "popularity": 0.2518,
+          "profile_path": "/x2tq4GYBlk4e912IBI2mA4u0BhW.jpg",
+          "cast_id": 8,
+          "character": "Martín",
+          "credit_id": "5d698a561e648900126fbf3a",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 15591,
+          "known_for_department": "Acting",
+          "name": "Mariana Cordero",
+          "original_name": "Mariana Cordero",
+          "popularity": 0.3387,
+          "profile_path": "/d7Rb8arhKcX1ydsSMy0TP0wsXX1.jpg",
+          "cast_id": 9,
+          "character": "Madre Víctor",
+          "credit_id": "5d698a73bdd5680015bb1d26",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3340345,
+          "known_for_department": "Acting",
+          "name": "Adrián Fonseca",
+          "original_name": "Adrián Fonseca",
+          "popularity": 0.1006,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Camarero El General",
+          "credit_id": "61b0b99a904f6d0087dd02b1",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1042754,
+          "known_for_department": "Acting",
+          "name": "Antonio Estrada",
+          "original_name": "Antonio Estrada",
+          "popularity": 0.2319,
+          "profile_path": "/ap211KkpdTAY3oRkhkWU3AEHVBe.jpg",
+          "cast_id": 20,
+          "character": "Padre Nora",
+          "credit_id": "61b0b9a81e259a008cf12d13",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2868298,
+          "known_for_department": "Acting",
+          "name": "José Luis Rasero",
+          "original_name": "José Luis Rasero",
+          "popularity": 0.7896,
+          "profile_path": "/43YPDoAKkxD0ZpOBnUuHyhDwo11.jpg",
+          "cast_id": 21,
+          "character": "Taxista 1",
+          "credit_id": "61b0b9b333ad8f005ef6ac7c",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1169141,
+          "known_for_department": "Acting",
+          "name": "Beatriz Arjona",
+          "original_name": "Beatriz Arjona",
+          "popularity": 0.6541,
+          "profile_path": "/jxIFEzPxyPWKzw9MMD2pf7hHyz1.jpg",
+          "cast_id": 22,
+          "character": "Rosa",
+          "credit_id": "61b0b9bf6d97e60063f1ed21",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3340346,
+          "known_for_department": "Acting",
+          "name": "José Luis Fernández",
+          "original_name": "José Luis Fernández",
+          "popularity": 0.0991,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "Taxista 2",
+          "credit_id": "61b0b9e69979d20061857443",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2199021,
+          "known_for_department": "Acting",
+          "name": "Esteban Garrido",
+          "original_name": "Esteban Garrido",
+          "popularity": 1.8436,
+          "profile_path": null,
+          "cast_id": 24,
+          "character": "Portero Bar",
+          "credit_id": "61b0b9f133ad8f005ef6acb2",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 224733,
+          "known_for_department": "Acting",
+          "name": "Marcos Ruiz",
+          "original_name": "Marcos Ruiz",
+          "popularity": 1.0938,
+          "profile_path": "/tqXnnig2asDyfx3DbRXk5LnUXaM.jpg",
+          "cast_id": 25,
+          "character": "Carlos",
+          "credit_id": "61b0b9fbaf85de008ff7666b",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3340347,
+          "known_for_department": "Acting",
+          "name": "Pedro Ángel Sánchez Rodríguez",
+          "original_name": "Pedro Ángel Sánchez Rodríguez",
+          "popularity": 0.095,
+          "profile_path": null,
+          "cast_id": 26,
+          "character": "Locutor 1",
+          "credit_id": "61b0ba0c6d97e60043c5088f",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3340348,
+          "known_for_department": "Acting",
+          "name": "Irene López Navarro",
+          "original_name": "Irene López Navarro",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "cast_id": 27,
+          "character": "Locutor 2",
+          "credit_id": "61b0ba171e259a00412377ed",
+          "order": 15
+        },
+        {
+          "adult": true,
+          "gender": 1,
+          "id": 2051627,
+          "known_for_department": "Acting",
+          "name": "Jessica Blue",
+          "original_name": "Jessica Blue",
+          "popularity": 0,
+          "profile_path": "/bmbjWC93OLv9N5jeRYTiBcxZFww.jpg",
+          "cast_id": 28,
+          "character": "Office Worker",
+          "credit_id": "61b0ba23da9ef2008dacb1b7",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1113263,
+          "known_for_department": "Acting",
+          "name": "Alan Maxson",
+          "original_name": "Alan Maxson",
+          "popularity": 0.6454,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "Carlos / Worker 2 / Male White Shirt / Man 3 (voice)",
+          "credit_id": "61b0ba5676eecf00664f3095",
+          "order": 17
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1534502,
+          "known_for_department": "Directing",
+          "name": "Jota Linares",
+          "original_name": "Jota Linares",
+          "popularity": 0.2578,
+          "profile_path": "/t62DMBKBWePISmrYIHmlVMhEkG4.jpg",
+          "credit_id": "5acc9bf6c3a3687e0e026d8e",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2020248,
+          "known_for_department": "Camera",
+          "name": "Junior Díaz",
+          "original_name": "Junior Díaz",
+          "popularity": 0.1317,
+          "profile_path": null,
+          "credit_id": "5acc9c0c9251410c3900a0bd",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": true,
+          "gender": 2,
+          "id": 2257884,
+          "known_for_department": "Editing",
+          "name": "Xavi G. Pereiro",
+          "original_name": "Xavi G. Pereiro",
+          "popularity": 0,
+          "profile_path": null,
+          "credit_id": "5c7e52120e0a2642fb59f8c5",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2115596,
+          "known_for_department": "Sound",
+          "name": "Vanessa Garde",
+          "original_name": "Vanessa Garde",
+          "popularity": 0.2678,
+          "profile_path": "/5hmwzKP2dN5zdxiZALjPKQacD5b.jpg",
+          "credit_id": "5d698ac81e648900106fc052",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2020248,
+          "known_for_department": "Camera",
+          "name": "Junior Díaz",
+          "original_name": "Junior Díaz",
+          "popularity": 0.1317,
+          "profile_path": null,
+          "credit_id": "5d698b39713ed40012f27129",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1576862,
+          "known_for_department": "Art",
+          "name": "Pilar Quintana",
+          "original_name": "Pilar Quintana",
+          "popularity": 0.6458,
+          "profile_path": "/vZCVY0q1DvyZohoI6D4WgGINQPZ.jpg",
+          "credit_id": "5d698b98bdd5680013bb207d",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1557037,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Alberto Valcárcel Rodríguez",
+          "original_name": "Alberto Valcárcel Rodríguez",
+          "popularity": 0.2439,
+          "profile_path": "/b3szSsDoSTpFeKG7BteYfmKkVJo.jpg",
+          "credit_id": "5d698bb8bdd5680014bb1f47",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16981,
+          "known_for_department": "Editing",
+          "name": "Ángel Hernández Zoido",
+          "original_name": "Ángel Hernández Zoido",
+          "popularity": 0.599,
+          "profile_path": "/dInCvScAv4tzkUyAzx9ACO5z6j0.jpg",
+          "credit_id": "5d698b7c1e648900126fc0f1",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1534502,
+          "known_for_department": "Directing",
+          "name": "Jota Linares",
+          "original_name": "Jota Linares",
+          "popularity": 0.2578,
+          "profile_path": "/t62DMBKBWePISmrYIHmlVMhEkG4.jpg",
+          "credit_id": "5d698b17bdd5680015bb1e45",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1818501,
+          "known_for_department": "Production",
+          "name": "Beatriz Bodegas",
+          "original_name": "Beatriz Bodegas",
+          "popularity": 0.3692,
+          "profile_path": "/6mo8kTYQjXZq4N7L8vOujnZ4KdU.jpg",
+          "credit_id": "5d698a94713ed40011f270ef",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2248432,
+          "known_for_department": "Production",
+          "name": "Nicola Serra",
+          "original_name": "Nicola Serra",
+          "popularity": 0.2312,
+          "profile_path": null,
+          "credit_id": "5d698ab4713ed40012f2702b",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1534503,
+          "known_for_department": "Sound",
+          "name": "Pablo Trujillo",
+          "original_name": "Pablo Trujillo",
+          "popularity": 0.1247,
+          "profile_path": null,
+          "credit_id": "5d698adcbdd5680012bb1cf2",
+          "department": "Sound",
+          "job": "Sound"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2018-09-14T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-08-30T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RO",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-09-14T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Unkontrollierbar",
+          "type": "Don't know don't care"
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "Animales sin collar",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

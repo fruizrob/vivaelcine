@@ -1,0 +1,89 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1160422?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:21.441Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 1160422,
+    "imdb_id": "tt20450662",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "心霊曼邪羅VR 愛人形～LoveReplica～",
+    "overview": "",
+    "popularity": 0.6544,
+    "poster_path": "/iOmaMLjP7vOFPCnJZEXNUSvk2hE.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2018-07-24",
+    "revenue": 0,
+    "runtime": 20,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "心霊曼邪羅VR 愛人形～LoveReplica～",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3583251,
+          "known_for_department": "Directing",
+          "name": "松本了",
+          "original_name": "松本了",
+          "popularity": 0.4119,
+          "profile_path": null,
+          "credit_id": "64ccf367764b9900ae128830",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ja",
+              "note": "",
+              "release_date": "2018-07-24T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

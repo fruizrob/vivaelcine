@@ -1,0 +1,215 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/684397?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:38.953Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/74lN2E5ErxZhvhAAB41rCrC4V9Q.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "id": 684397,
+    "imdb_id": null,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Terra",
+    "overview": "",
+    "popularity": 1.0986,
+    "poster_path": "/qofCGV5Rkp1rFHRNvICLxRBZw7d.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2019-08-19",
+    "revenue": 0,
+    "runtime": 20,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1688070,
+          "known_for_department": "Acting",
+          "name": "Gregório Benevides",
+          "original_name": "Gregório Benevides",
+          "popularity": 0.2646,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Frederico",
+          "credit_id": "5e72c1f8e74146001567ed74",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2570712,
+          "known_for_department": "Acting",
+          "name": "Tuanny Araujo",
+          "original_name": "Tuanny Araujo",
+          "popularity": 0.3507,
+          "profile_path": "/rAEj8bjZBvwB55zkviE1A8qFwQy.jpg",
+          "cast_id": 6,
+          "character": "Maia",
+          "credit_id": "5e72c236f9aa470015d1f97f",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2570713,
+          "known_for_department": "Acting",
+          "name": "Jéssica Laranja",
+          "original_name": "Jéssica Laranja",
+          "popularity": 0.1408,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Virgínia",
+          "credit_id": "5e72c2a78de0ae001557d3d6",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1844404,
+          "known_for_department": "Acting",
+          "name": "Leo Thilé",
+          "original_name": "Leo Thilé",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Dona Margarida",
+          "credit_id": "5e72c2d98de0ae001557d410",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1679046,
+          "known_for_department": "Editing",
+          "name": "Henrique Laterza",
+          "original_name": "Henrique Laterza",
+          "popularity": 0.095,
+          "profile_path": "/84lmLywtr1UYOGKUTltg0o68RIB.jpg",
+          "credit_id": "651cdf6f65c26c00aec926b4",
+          "department": "Editing",
+          "job": "Colorist"
+        },
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 3749965,
+          "known_for_department": "Writing",
+          "name": "Marisa Arraes",
+          "original_name": "Marisa Arraes",
+          "popularity": 0.2667,
+          "profile_path": "/6PToPxnzqHYnKu5E3D6z32TZSSP.jpg",
+          "credit_id": "635198c6be4b36009c63225e",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 3749965,
+          "known_for_department": "Writing",
+          "name": "Marisa Arraes",
+          "original_name": "Marisa Arraes",
+          "popularity": 0.2667,
+          "profile_path": "/6PToPxnzqHYnKu5E3D6z32TZSSP.jpg",
+          "credit_id": "635198b1d8e225007d985edd",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1679046,
+          "known_for_department": "Editing",
+          "name": "Henrique Laterza",
+          "original_name": "Henrique Laterza",
+          "popularity": 0.095,
+          "profile_path": "/84lmLywtr1UYOGKUTltg0o68RIB.jpg",
+          "credit_id": "5e72c148e74146001567ec7d",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1679069,
+          "known_for_department": "Art",
+          "name": "Nathália Mendes",
+          "original_name": "Nathália Mendes",
+          "popularity": 0.1512,
+          "profile_path": null,
+          "credit_id": "5f598cb460b58d0038853c3f",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1679046,
+          "known_for_department": "Editing",
+          "name": "Henrique Laterza",
+          "original_name": "Henrique Laterza",
+          "popularity": 0.095,
+          "profile_path": "/84lmLywtr1UYOGKUTltg0o68RIB.jpg",
+          "credit_id": "5f7a507e3429ff0036be3095",
+          "department": "Sound",
+          "job": "Music"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "",
+              "release_date": "2019-08-19T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/642006?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:45.634Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 642006,
+    "imdb_id": "tt0075218",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "La siesta",
+    "overview": "La vida aparentemente apacible de un pueblo levantino oculta las pasiones más turbias y ardientes. Calixto, un reparador de antenas, es requerido por las fogosas matronas para saciar sus instintos.",
+    "popularity": 0.3944,
+    "poster_path": "/eYlSf17XUyfoLaUjQnDDKtoPhnP.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "1976-06-16",
+    "revenue": 0,
+    "runtime": 97,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La siesta",
+    "video": false,
+    "vote_average": 4,
+    "vote_count": 5,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1062326,
+          "known_for_department": "Acting",
+          "name": "Ovidi Montllor",
+          "original_name": "Ovidi Montllor",
+          "popularity": 0.7747,
+          "profile_path": "/oSuziEoDTGULkz7kApCaBzXqW6i.jpg",
+          "cast_id": 1,
+          "character": "Calixto",
+          "credit_id": "5db16542629b2c00132dc055",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 103520,
+          "known_for_department": "Acting",
+          "name": "Vicente Parra",
+          "original_name": "Vicente Parra",
+          "popularity": 0.2716,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Luís",
+          "credit_id": "5db1654fcb30840013acdfd8",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2439714,
+          "known_for_department": "Acting",
+          "name": "María Jesús Sirvent",
+          "original_name": "María Jesús Sirvent",
+          "popularity": 1.1091,
+          "profile_path": "/h7jwmGcnoAhN1Uw0UjsPfzUuXYJ.jpg",
+          "cast_id": 3,
+          "character": "Natalia",
+          "credit_id": "5db16571d9554b0014e0d83b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 97688,
+          "known_for_department": "Acting",
+          "name": "José Lifante",
+          "original_name": "José Lifante",
+          "popularity": 1.4949,
+          "profile_path": "/l3sV4lkRIHvQX4c86Pw9h1L7YFK.jpg",
+          "cast_id": 4,
+          "character": "Jacinto",
+          "credit_id": "5db16580629b2c00182d453d",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2012089,
+          "known_for_department": "Acting",
+          "name": "María Porcel",
+          "original_name": "María Porcel",
+          "popularity": 0.6399,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Pili",
+          "credit_id": "5db1658dcb30840013ace040",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 100814,
+          "known_for_department": "Acting",
+          "name": "Manuel Pereiro",
+          "original_name": "Manuel Pereiro",
+          "popularity": 0.2877,
+          "profile_path": "/eKoh8qbFMnKoulqEU3WI0i4OcJ0.jpg",
+          "cast_id": 6,
+          "character": "Josele",
+          "credit_id": "5db1659cd9554b0018e10e12",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 33821,
+          "known_for_department": "Directing",
+          "name": "Jorge Grau",
+          "original_name": "Jorge Grau",
+          "popularity": 1.3938,
+          "profile_path": "/nlAEI1yRZ2to0LkKRtgPkLASdeA.jpg",
+          "credit_id": "5db165adcb30840013ace062",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 103508,
+          "known_for_department": "Production",
+          "name": "José Frade",
+          "original_name": "José Frade",
+          "popularity": 0.4801,
+          "profile_path": "/zpsVXH49HAhPak8WANdHspD6iXB.jpg",
+          "credit_id": "5db165cfcb30840013ace0b5",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "1976-06-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

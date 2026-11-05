@@ -1,0 +1,331 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/266695?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:41.811Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 266695,
+    "imdb_id": "tt0061979",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Mini Weekend",
+    "overview": "",
+    "popularity": 0.6385,
+    "poster_path": "/jzoFxRZMki85EOZJFnodfSRRdbC.jpg",
+    "production_companies": [
+      {
+        "id": 4579,
+        "logo_path": null,
+        "name": "Tigon British Film Productions",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "1968-08-19",
+    "revenue": 0,
+    "runtime": 79,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mini Weekend",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1313700,
+          "known_for_department": "Acting",
+          "name": "Anthony Trent",
+          "original_name": "Anthony Trent",
+          "popularity": 0.1776,
+          "profile_path": null,
+          "cast_id": 0,
+          "character": "Tom",
+          "credit_id": "535aef18c3a3683091000647",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1083951,
+          "known_for_department": "Acting",
+          "name": "Veronica Lang",
+          "original_name": "Veronica Lang",
+          "popularity": 0.413,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Jenny",
+          "credit_id": "535aef31c3a3683084000703",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1313702,
+          "known_for_department": "Acting",
+          "name": "Connie Frazer",
+          "original_name": "Connie Frazer",
+          "popularity": 0.0925,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Mother",
+          "credit_id": "535aef74c3a36830b90006c9",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2367362,
+          "known_for_department": "Acting",
+          "name": "Liz Rogers",
+          "original_name": "Liz Rogers",
+          "popularity": 0.2519,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Sandra",
+          "credit_id": "5d344c9acaab6d1640ac7afa",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 18764,
+          "known_for_department": "Acting",
+          "name": "Anna Palk",
+          "original_name": "Anna Palk",
+          "popularity": 0.878,
+          "profile_path": "/mxIAO9Pig7XznmdPmN7ZwNW9KwS.jpg",
+          "cast_id": 12,
+          "character": "Girl in Cinema",
+          "credit_id": "5d344cb6caab6d358097771d",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2366856,
+          "known_for_department": "Acting",
+          "name": "Karen Leslie-Lyttle",
+          "original_name": "Karen Leslie-Lyttle",
+          "popularity": 0.2799,
+          "profile_path": "/5XMBAAfJyY5giyIO1xqPgZv3zkV.jpg",
+          "cast_id": 13,
+          "character": "Girl in Pub",
+          "credit_id": "5d344ccd6a300b11afa9c6f0",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 193016,
+          "known_for_department": "Acting",
+          "name": "Valerie Stanton",
+          "original_name": "Valerie Stanton",
+          "popularity": 0.2172,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Girl in Barbershop",
+          "credit_id": "5d344cefcaab6d77939b72dd",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1313705,
+          "known_for_department": "Writing",
+          "name": "Georges Robin",
+          "original_name": "Georges Robin",
+          "popularity": 0.1349,
+          "profile_path": null,
+          "credit_id": "535aefb8c3a36830a90006bd",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 69559,
+          "known_for_department": "Production",
+          "name": "Tony Tenser",
+          "original_name": "Tony Tenser",
+          "popularity": 0.378,
+          "profile_path": null,
+          "credit_id": "535aefcec3a36830b000069a",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 568430,
+          "known_for_department": "Directing",
+          "name": "Arnold L. Miller",
+          "original_name": "Arnold L. Miller",
+          "popularity": 0.2276,
+          "profile_path": null,
+          "credit_id": "535aefeac3a3683091000659",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 69559,
+          "known_for_department": "Production",
+          "name": "Tony Tenser",
+          "original_name": "Tony Tenser",
+          "popularity": 0.378,
+          "profile_path": null,
+          "credit_id": "535af002c3a36830a90006c9",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1313706,
+          "known_for_department": "Editing",
+          "name": "Roy Nevill",
+          "original_name": "Roy Nevill",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "credit_id": "535af038c3a36830b90006db",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1313704,
+          "known_for_department": "Directing",
+          "name": "Georges Robin",
+          "original_name": "Georges Robin",
+          "popularity": 0.1901,
+          "profile_path": null,
+          "credit_id": "535aef9dc3a368308a0006ce",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 568422,
+          "known_for_department": "Directing",
+          "name": "Stanley A. Long",
+          "original_name": "Stanley A. Long",
+          "popularity": 0.3188,
+          "profile_path": "/hDhxMruY83Rl6fLLyHgZcNz5gPx.jpg",
+          "credit_id": "535af017c3a36830b90006d7",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1313707,
+          "known_for_department": "Art",
+          "name": "Tony Curtis",
+          "original_name": "Tony Curtis",
+          "popularity": 0.2504,
+          "profile_path": null,
+          "credit_id": "535af060c3a36830b90006e3",
+          "department": "Art",
+          "job": "Art Direction"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FI",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1974-05-24T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-12-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1968-08-19T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1968-11-13T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "The Tomcat",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1446626?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:54.419Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1446626,
+    "imdb_id": null,
+    "origin_country": [
+      "DE",
+      "ES"
+    ],
+    "original_language": "de",
+    "original_title": "48 Stunden Barcelona",
+    "overview": "",
+    "popularity": 1.0516,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2006-05-08",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "48 Stunden Barcelona",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1083,
+          "known_for_department": "Acting",
+          "name": "Armin Rohde",
+          "original_name": "Armin Rohde",
+          "popularity": 0.518,
+          "profile_path": "/h1CuhGgADJFD9vw1IYFskJK9q9V.jpg",
+          "cast_id": 2,
+          "character": "Kurt",
+          "credit_id": "67d02d6413990a058b6084d1",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 17068,
+          "known_for_department": "Acting",
+          "name": "Jessica Schwarz",
+          "original_name": "Jessica Schwarz",
+          "popularity": 0.5998,
+          "profile_path": "/bJNuHoKOhKv9EYWXEoJWq5zPfIE.jpg",
+          "cast_id": 3,
+          "character": "Carla",
+          "credit_id": "67d02d72b5ee0e397c608d59",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1359392,
+          "known_for_department": "Acting",
+          "name": "Ximo Solano",
+          "original_name": "Ximo Solano",
+          "popularity": 0.1849,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Raúl",
+          "credit_id": "67d02da466892bad62812905",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 57129,
+          "known_for_department": "Acting",
+          "name": "Kristina Pauls",
+          "original_name": "Kristina Pauls",
+          "popularity": 1.0924,
+          "profile_path": "/4JeXXEYk7XkliFXU4AjQcQcmbtv.jpg",
+          "cast_id": 5,
+          "character": "Girl",
+          "credit_id": "67d02db166892bad62812918",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1604,
+          "known_for_department": "Acting",
+          "name": "Lluís Homar",
+          "original_name": "Lluís Homar",
+          "popularity": 0.7367,
+          "profile_path": "/p1AFBzyZRbHzA6S8q3RWw0YXoAf.jpg",
+          "cast_id": 6,
+          "character": "Antonio",
+          "credit_id": "67d02dbe66892bad62812924",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1545562,
+          "known_for_department": "Acting",
+          "name": "Stefan Roschy",
+          "original_name": "Stefan Roschy",
+          "popularity": 0.1574,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "67d02dd866892bad62812944",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 85336,
+          "known_for_department": "Writing",
+          "name": "David Carreras",
+          "original_name": "David Carreras",
+          "popularity": 0.6593,
+          "profile_path": null,
+          "credit_id": "67d02d4f66892bad628128da",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-05-08T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

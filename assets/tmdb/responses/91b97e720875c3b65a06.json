@@ -1,0 +1,214 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/200148?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:03.307Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/2djPmqqxye3gTQEzKeeTxhKJ48Y.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 200148,
+    "imdb_id": "tt0104263",
+    "origin_country": [],
+    "original_language": "hy",
+    "original_title": "Վերջը",
+    "overview": "",
+    "popularity": 0.4764,
+    "poster_path": "/s3DZKwvcZQxKFjjf4aR1qtxndwP.jpg",
+    "production_companies": [
+      {
+        "id": 72486,
+        "logo_path": null,
+        "name": "Hayk Studio",
+        "origin_country": "SU"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AM",
+        "name": "Armenia"
+      }
+    ],
+    "release_date": "1992-01-01",
+    "revenue": 0,
+    "runtime": 10,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Վերջը",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 28,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1166966,
+          "known_for_department": "Directing",
+          "name": "Artavazd Peleshian",
+          "original_name": "Artavazd Peleshian",
+          "popularity": 0.3466,
+          "profile_path": "/w7fcAywIWYrPwAupDmV28b4TSes.jpg",
+          "credit_id": "52fe4c7dc3a368484e1b96ef",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1166966,
+          "known_for_department": "Directing",
+          "name": "Artavazd Peleshian",
+          "original_name": "Artavazd Peleshian",
+          "popularity": 0.3466,
+          "profile_path": "/w7fcAywIWYrPwAupDmV28b4TSes.jpg",
+          "credit_id": "56a691659251412a000006da",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1568366,
+          "known_for_department": "Camera",
+          "name": "Vahagn Ter-Hakobyan",
+          "original_name": "Vahagn Ter-Hakobyan",
+          "popularity": 0.114,
+          "profile_path": null,
+          "credit_id": "5d40ab5434e1521fb8e9e734",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1166966,
+          "known_for_department": "Directing",
+          "name": "Artavazd Peleshian",
+          "original_name": "Artavazd Peleshian",
+          "popularity": 0.3466,
+          "profile_path": "/w7fcAywIWYrPwAupDmV28b4TSes.jpg",
+          "credit_id": "6ae173de67ca06954f2c39eb",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AM",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1992-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "L",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "São Paulo International Film Festival (4K Restoration)",
+              "release_date": "2026-10-24T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Toronto International Film Festival",
+              "release_date": "2026-09-14T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Festival dei Popoli",
+              "release_date": "1994-11-30T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Gira de Documentales Ambulante",
+              "release_date": "2015-02-03T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "New York Film Festival",
+              "release_date": "2026-09-26T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "RU",
+          "title": "Konets",
+          "type": "transliterated title"
+        },
+        {
+          "iso_3166_1": "AM",
+          "title": "Verj",
+          "type": "transliterated title"
+        },
+        {
+          "iso_3166_1": "GB",
+          "title": "The End",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "AM",
+          "title": "Վերջը",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

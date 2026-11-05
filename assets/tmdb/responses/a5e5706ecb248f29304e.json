@@ -1,0 +1,339 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1316267?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:23.758Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1316267,
+    "imdb_id": "tt0065402",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Angelica, the Young Vixen",
+    "overview": "",
+    "popularity": 1.3188,
+    "poster_path": "/hqDor3EMPIDYSX9oNNNX5lbdWXZ.jpg",
+    "production_companies": [
+      {
+        "id": 233739,
+        "logo_path": null,
+        "name": "CALNEVA International Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1970-01-01",
+    "revenue": 0,
+    "runtime": 60,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Angelica, the Young Vixen",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": true,
+          "gender": 1,
+          "id": 1063501,
+          "known_for_department": "Acting",
+          "name": "Dixie Donovan",
+          "original_name": "Dixie Donovan",
+          "popularity": 0,
+          "profile_path": "/e2Z2L4Q15knVaRFH9lyyee7kckO.jpg",
+          "cast_id": 20,
+          "character": "Angelica",
+          "credit_id": "675491f33a9c6990b1e494c7",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4826471,
+          "known_for_department": "Acting",
+          "name": "Lou d'Jena",
+          "original_name": "Lou d'Jena",
+          "popularity": 0.5035,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Judge Blaine",
+          "credit_id": "6691d4ef8c3ce067b442254b",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4826477,
+          "known_for_department": "Acting",
+          "name": "William Fosterwick",
+          "original_name": "William Fosterwick",
+          "popularity": 0.4977,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Sherrif",
+          "credit_id": "6691d56fe657768c9da54246",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1166385,
+          "known_for_department": "Acting",
+          "name": "William Johnson",
+          "original_name": "William Johnson",
+          "popularity": 0.801,
+          "profile_path": "/qH3fXsfEQ484H9Sr0G1XdBcxdAM.jpg",
+          "cast_id": 4,
+          "character": "Ned Hurley",
+          "credit_id": "6691d58ec4805442210dd1fe",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4826482,
+          "known_for_department": "Acting",
+          "name": "Josie Kirk",
+          "original_name": "Josie Kirk",
+          "popularity": 0.4467,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Marlou Blaine",
+          "credit_id": "6691d5c61d690a7305422514",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4826484,
+          "known_for_department": "Acting",
+          "name": "Paula Lorca",
+          "original_name": "Paula Lorca",
+          "popularity": 0.782,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Cafe Singer",
+          "credit_id": "6691d5e47ffa65daf6f78a0d",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4826486,
+          "known_for_department": "Acting",
+          "name": "Vincent Ricco",
+          "original_name": "Vincent Ricco",
+          "popularity": 0.4946,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Big Nick",
+          "credit_id": "6691d604c9679ad4c0c44cd1",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4826488,
+          "known_for_department": "Acting",
+          "name": "Richard Smedley",
+          "original_name": "Richard Smedley",
+          "popularity": 0.1405,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Jeff",
+          "credit_id": "6691d66b79eda1d6eb334bb7",
+          "order": 7
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 88986,
+          "known_for_department": "Writing",
+          "name": "Oliver Drake",
+          "original_name": "Oliver Drake",
+          "popularity": 1.1402,
+          "profile_path": null,
+          "credit_id": "6691d6c5f68bca1565f1aee0",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 88986,
+          "known_for_department": "Writing",
+          "name": "Oliver Drake",
+          "original_name": "Oliver Drake",
+          "popularity": 1.1402,
+          "profile_path": null,
+          "credit_id": "6691d6e19107e8da9202497a",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 88986,
+          "known_for_department": "Writing",
+          "name": "Oliver Drake",
+          "original_name": "Oliver Drake",
+          "popularity": 1.1402,
+          "profile_path": null,
+          "credit_id": "6691d6f97155efae01f78b05",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4826489,
+          "known_for_department": "Production",
+          "name": "Larry Buehler",
+          "original_name": "Larry Buehler",
+          "popularity": 0.166,
+          "profile_path": null,
+          "credit_id": "6691d71f21d050b21e6e2db9",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4826490,
+          "known_for_department": "Production",
+          "name": "Joseph William Hunt",
+          "original_name": "Joseph William Hunt",
+          "popularity": 0.1986,
+          "profile_path": null,
+          "credit_id": "6691d7459107e8da920249aa",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30836,
+          "known_for_department": "Sound",
+          "name": "Raoul Kraushaar",
+          "original_name": "Raoul Kraushaar",
+          "popularity": 0.4207,
+          "profile_path": null,
+          "credit_id": "6691d7675ced9bdda0c44eef",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2282224,
+          "known_for_department": "Directing",
+          "name": "William De Diego",
+          "original_name": "William De Diego",
+          "popularity": 0.1653,
+          "profile_path": null,
+          "credit_id": "6691d79ba4495c58ef5e6e89",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4826493,
+          "known_for_department": "Editing",
+          "name": "Ray Cobb",
+          "original_name": "Ray Cobb",
+          "popularity": 0.1491,
+          "profile_path": null,
+          "credit_id": "6691d7c03ab543433e638516",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4826495,
+          "known_for_department": "Sound",
+          "name": "James Fullerton",
+          "original_name": "James Fullerton",
+          "popularity": 0.1664,
+          "profile_path": null,
+          "credit_id": "6691d7f6cb977e2a5d0248f5",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4826497,
+          "known_for_department": "Lighting",
+          "name": "Bob Polan",
+          "original_name": "Bob Polan",
+          "popularity": 0.139,
+          "profile_path": null,
+          "credit_id": "6691d8238a101afa0ea54098",
+          "department": "Lighting",
+          "job": "Lighting Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4826498,
+          "known_for_department": "Art",
+          "name": "Mike Ford",
+          "original_name": "Mike Ford",
+          "popularity": 0.1335,
+          "profile_path": null,
+          "credit_id": "6691d858c38de2471e5e6f2f",
+          "department": "Art",
+          "job": "Property Master"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "1970-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

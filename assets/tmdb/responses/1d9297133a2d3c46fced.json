@@ -1,0 +1,64 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1036571?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:05.630Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1036571,
+    "imdb_id": null,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "en",
+    "original_title": "Emilio Jacinto: Ang Utak Ng Katipunan",
+    "overview": "",
+    "popularity": 0.1455,
+    "poster_path": "/uxY6wEWk6rC6v3ohBvlgMyhUTjL.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2020-09-28",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Emilio Jacinto: Ang Utak Ng Katipunan",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-09-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

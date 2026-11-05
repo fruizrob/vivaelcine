@@ -1,0 +1,564 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/485126?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:25.139Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/otkZ7vpc0HNJeSVleS5ucB39NDA.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "id": 485126,
+    "imdb_id": "tt0060916",
+    "origin_country": [
+      "FR",
+      "IT",
+      "ES"
+    ],
+    "original_language": "it",
+    "original_title": "Rose rosse per Angelica",
+    "overview": "El Conde de Verlaine es el amante de la mujer de el Barón de Lafleche, pero dos eventos cambiarán el rumbo de sus vidas. Primero, la bella Angélica conoce al Marsellés, mitad brillante, mitad rebelde, de quien se enamora. Y la otra, cuando muere el Marsellés, y Verlaine termina por poner orden y toma su lugar, luchando contra el cruel de Lafleche, mientras la revolución es inminente...",
+    "popularity": 1.248,
+    "poster_path": "/rYoexCVdRBLm1XvQQQX1sqFzW8l.jpg",
+    "production_companies": [
+      {
+        "id": 12783,
+        "logo_path": null,
+        "name": "Bercol Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 86337,
+        "logo_path": null,
+        "name": "Cineurop",
+        "origin_country": "FR"
+      },
+      {
+        "id": 1501,
+        "logo_path": null,
+        "name": "Flora Film",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "1966-05-20",
+    "revenue": 0,
+    "runtime": 110,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El aventurero de la rosa roja",
+    "video": false,
+    "vote_average": 4.9,
+    "vote_count": 5,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 20030,
+          "known_for_department": "Acting",
+          "name": "Jacques Perrin",
+          "original_name": "Jacques Perrin",
+          "popularity": 1.8251,
+          "profile_path": "/lGbDfSdDgFg3QHgungWIDsV9uh7.jpg",
+          "cast_id": 0,
+          "character": "Henri de Verlaine",
+          "credit_id": "59fdc1b792514146bd0190f0",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 93124,
+          "known_for_department": "Acting",
+          "name": "Raffaella Carrà",
+          "original_name": "Raffaella Carrà",
+          "popularity": 0.4759,
+          "profile_path": "/kWL2XgqIjUKRrNnX78sphMqBpJj.jpg",
+          "cast_id": 1,
+          "character": "Angelique",
+          "credit_id": "59fdc1d492514146f5018a74",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 537175,
+          "known_for_department": "Acting",
+          "name": "Carlos Estrada",
+          "original_name": "Carlos Estrada",
+          "popularity": 0.39,
+          "profile_path": "/8RpfUU8pM6hoAUMkHxsGxKm6GyI.jpg",
+          "cast_id": 2,
+          "character": "Baron La Fleche",
+          "credit_id": "59fdc1f9c3a3686893019d16",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 26166,
+          "known_for_department": "Acting",
+          "name": "Michèle Girardon",
+          "original_name": "Michèle Girardon",
+          "popularity": 0.508,
+          "profile_path": "/nZxOMzM2PAygAeaC9Du6Qus8qXX.jpg",
+          "cast_id": 3,
+          "character": "Antoinette La Fleche",
+          "credit_id": "59fdc21792514146e8017558",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 100861,
+          "known_for_department": "Acting",
+          "name": "Cris Huerta",
+          "original_name": "Cris Huerta",
+          "popularity": 0.5224,
+          "profile_path": "/nqhksVqJnSCrpJ559OuHj6N70d3.jpg",
+          "cast_id": 4,
+          "character": "Paul",
+          "credit_id": "59fdc254925141471d01970b",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 114970,
+          "known_for_department": "Acting",
+          "name": "Jacques Castelot",
+          "original_name": "Jacques Castelot",
+          "popularity": 0.3818,
+          "profile_path": "/onzPxbwZ4B19Vca0ajTmJQpCTC8.jpg",
+          "cast_id": 5,
+          "character": "Conte d'Artois",
+          "credit_id": "59fdc2e39251414705018347",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 231188,
+          "known_for_department": "Acting",
+          "name": "Marta Padovan",
+          "original_name": "Marta Padovan",
+          "popularity": 0.5149,
+          "profile_path": "/7ykum9NmcOH6FuYEPSRjqK9TGkl.jpg",
+          "cast_id": 6,
+          "character": "Louise",
+          "credit_id": "59fdc366925141471d0199f9",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 543560,
+          "known_for_department": "Acting",
+          "name": "Giulio Bosetti",
+          "original_name": "Giulio Bosetti",
+          "popularity": 0.2539,
+          "profile_path": "/e27cpb23DH7QBWZzlpWRSz3KGzy.jpg",
+          "cast_id": 7,
+          "character": "Il Marsigliese",
+          "credit_id": "59fdc39dc3a3686868017a46",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 100901,
+          "known_for_department": "Acting",
+          "name": "José María Caffarel",
+          "original_name": "José María Caffarel",
+          "popularity": 0.3611,
+          "profile_path": "/pNhFAAydpowE9ve8owPJYI2P860.jpg",
+          "cast_id": 8,
+          "character": "Louis XVI",
+          "credit_id": "59fdc403925141470501861b",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 589787,
+          "known_for_department": "Acting",
+          "name": "Mario Feliciani",
+          "original_name": "Mario Feliciani",
+          "popularity": 0.3394,
+          "profile_path": "/npKxR6qbSsMOu71rNhnUT8rOdcD.jpg",
+          "cast_id": 24,
+          "character": "Dr. Durand",
+          "credit_id": "5c12e5f592514132c90952d9",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1470505,
+          "known_for_department": "Acting",
+          "name": "Enrique Navarro",
+          "original_name": "Enrique Navarro",
+          "popularity": 0.4613,
+          "profile_path": "/w54Fan6dRJZ3ifd4tYvpA1PjgBT.jpg",
+          "cast_id": 25,
+          "character": "Lalume",
+          "credit_id": "5c12e6020e0a26037c3b1fc8",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1063555,
+          "known_for_department": "Acting",
+          "name": "Saturno Cerra",
+          "original_name": "Saturno Cerra",
+          "popularity": 0.2867,
+          "profile_path": "/hhZ896B9SL7AsHRkj4h3AkWopoE.jpg",
+          "cast_id": 26,
+          "character": "Grandet",
+          "credit_id": "5c12e60f92514132c009515c",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1385763,
+          "known_for_department": "Acting",
+          "name": "Sandro Moretti",
+          "original_name": "Sandro Moretti",
+          "popularity": 0.2864,
+          "profile_path": "/abbTwmF8OnbnzVRgqYKQw6ZeBJg.jpg",
+          "cast_id": 27,
+          "character": "Ramboullet",
+          "credit_id": "5c12e61c92514132c0095165",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 37586,
+          "known_for_department": "Acting",
+          "name": "Ángel Álvarez",
+          "original_name": "Ángel Álvarez",
+          "popularity": 0.3902,
+          "profile_path": "/wewnIJOBTbw2puTShBROFaKtc2h.jpg",
+          "cast_id": 28,
+          "character": "",
+          "credit_id": "5c12e62d0e0a26038b3b2074",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 228497,
+          "known_for_department": "Acting",
+          "name": "José Riesgo",
+          "original_name": "José Riesgo",
+          "popularity": 0.3459,
+          "profile_path": "/yNUDnP93jkH6fygM29mJtUSX9M6.jpg",
+          "cast_id": 29,
+          "character": "",
+          "credit_id": "5c12e6360e0a26038b3b207a",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 240900,
+          "known_for_department": "Acting",
+          "name": "Renato Chiantoni",
+          "original_name": "Renato Chiantoni",
+          "popularity": 0.2239,
+          "profile_path": null,
+          "cast_id": 30,
+          "character": "Direttore del Carcere",
+          "credit_id": "5c12e645c3a36866ce354753",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1442487,
+          "known_for_department": "Acting",
+          "name": "Armando Furlai",
+          "original_name": "Armando Furlai",
+          "popularity": 0.3992,
+          "profile_path": "/dSiPIGul3nY36SjZ93VlL88gUvy.jpg",
+          "cast_id": 31,
+          "character": "Bernard",
+          "credit_id": "5c12e652c3a36866bd354588",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1479247,
+          "known_for_department": "Crew",
+          "name": "Enzo Musumeci Greco",
+          "original_name": "Enzo Musumeci Greco",
+          "popularity": 0.6449,
+          "profile_path": null,
+          "cast_id": 32,
+          "character": "Michaud",
+          "credit_id": "5c12e66092514132ba09586a",
+          "order": 17
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 67924,
+          "known_for_department": "Directing",
+          "name": "Steno",
+          "original_name": "Steno",
+          "popularity": 0.4638,
+          "profile_path": null,
+          "credit_id": "59fdc50792514146e8017b56",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 98776,
+          "known_for_department": "Writing",
+          "name": "Roberto Gianviti",
+          "original_name": "Roberto Gianviti",
+          "popularity": 0.3468,
+          "profile_path": null,
+          "credit_id": "5c12e52292514132bd0952db",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1120583,
+          "known_for_department": "Editing",
+          "name": "Giuliana Attenni",
+          "original_name": "Giuliana Attenni",
+          "popularity": 0.2055,
+          "profile_path": null,
+          "credit_id": "5c12e550c3a36866c735468c",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1354795,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Maria Baroni",
+          "original_name": "Maria Baroni",
+          "popularity": 0.1979,
+          "profile_path": null,
+          "credit_id": "5c12e57ac3a36866c53545f1",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 72720,
+          "known_for_department": "Production",
+          "name": "Leo Cevenini",
+          "original_name": "Leo Cevenini",
+          "popularity": 0.3536,
+          "profile_path": null,
+          "credit_id": "5c12e4e792514132c00950fb",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 101111,
+          "known_for_department": "Writing",
+          "name": "Natividad Zaro",
+          "original_name": "Natividad Zaro",
+          "popularity": 0.3612,
+          "profile_path": "/1yiyzaLHzzblVnbU5TgxGVefGv8.jpg",
+          "credit_id": "5c12e53692514132c3095176",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14807,
+          "known_for_department": "Sound",
+          "name": "Angelo Francesco Lavagnino",
+          "original_name": "Angelo Francesco Lavagnino",
+          "popularity": 0.28,
+          "profile_path": null,
+          "credit_id": "5c12e543c3a36866d83545bd",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1417531,
+          "known_for_department": "Art",
+          "name": "Ivo Battelli",
+          "original_name": "Ivo Battelli",
+          "popularity": 0.4034,
+          "profile_path": null,
+          "credit_id": "5c12e55dc3a36866c0354254",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1074076,
+          "known_for_department": "Writing",
+          "name": "Marcello Ciorciolini",
+          "original_name": "Marcello Ciorciolini",
+          "popularity": 0.3736,
+          "profile_path": "/7CVNsJMi51kI0hjdFFT84LctFs1.jpg",
+          "credit_id": "5c12e4f5c3a36866c53545cd",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 24840,
+          "known_for_department": "Writing",
+          "name": "Alejandro Dumas",
+          "original_name": "Alexandre Dumas",
+          "popularity": 0.9274,
+          "profile_path": "/4SMjZU8QwvKZR8uvTWiUDHQd2rW.jpg",
+          "credit_id": "5c12e5180e0a26037c3b1f71",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 24847,
+          "known_for_department": "Camera",
+          "name": "Mario Capriotti",
+          "original_name": "Mario Capriotti",
+          "popularity": 0.2479,
+          "profile_path": null,
+          "credit_id": "5c12e59cc3a36866c735469f",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 67924,
+          "known_for_department": "Directing",
+          "name": "Steno",
+          "original_name": "Steno",
+          "popularity": 0.4638,
+          "profile_path": null,
+          "credit_id": "5c12e52dc3a36866c53545df",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1715202,
+          "known_for_department": "Art",
+          "name": "Antonio Cortés",
+          "original_name": "Antonio Cortés",
+          "popularity": 0.2793,
+          "profile_path": null,
+          "credit_id": "5c12e56fc3a36866c7354692",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2194760,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Flora Bonocore",
+          "original_name": "Flora Bonocore",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "credit_id": "5c12e5870e0a26037f3b1d77",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1968-10-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1966-05-20T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "DE",
+          "title": "Rote Rosen für Angelika",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Le chevalier à la rose rouge",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,573 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/387399?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:45.493Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/48bM3QSBsizO0ab3gArywK11djU.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 387399,
+    "imdb_id": "tt3904278",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "We Go On",
+    "overview": "Paralizado por su miedo a morir, Miles Grissom está ofreciendo una recompensa a la primera persona que pueda mostrarle un fantasma, un ángel, un demonio; cualquier cosa que le demuestre que seguimos vivos después de nuestras muertes.",
+    "popularity": 1.3065,
+    "poster_path": "/igBeJLSb6bt1cSqd4ndWnKCdi4w.jpg",
+    "production_companies": [
+      {
+        "id": 40560,
+        "logo_path": null,
+        "name": "Filmed Imagination",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2016-03-05",
+    "revenue": 0,
+    "runtime": 89,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "We Go On",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 180,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 138771,
+          "known_for_department": "Acting",
+          "name": "Clark Freeman",
+          "original_name": "Clark Freeman",
+          "popularity": 0.5023,
+          "profile_path": "/bFQlS3H0JLtzEklJFl5S3c7qUWt.jpg",
+          "cast_id": 1,
+          "character": "Miles",
+          "credit_id": "57934d929251414b3b0090a1",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1654843,
+          "known_for_department": "Acting",
+          "name": "Jay Dunn",
+          "original_name": "Jay Dunn",
+          "popularity": 0.168,
+          "profile_path": "/yZ5lez2vEYcvs4y9WyzGVtcYKjx.jpg",
+          "cast_id": 3,
+          "character": "Nelson",
+          "credit_id": "57934da792514169c5007dc7",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5589,
+          "known_for_department": "Acting",
+          "name": "John Glover",
+          "original_name": "John Glover",
+          "popularity": 1.8158,
+          "profile_path": "/aPmq20MXqFALrUxaaJoC2Xonumo.jpg",
+          "cast_id": 4,
+          "character": "Dr. Ellison",
+          "credit_id": "57934db4c3a368631c0083e7",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 138774,
+          "known_for_department": "Acting",
+          "name": "Laura Heisler",
+          "original_name": "Laura Heisler",
+          "popularity": 1.5887,
+          "profile_path": "/xEXWcw7mhD1TnnOSOIIxwqSp9qj.jpg",
+          "cast_id": 5,
+          "character": "Alice",
+          "credit_id": "57934dbc9251414b3b0090bb",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1734,
+          "known_for_department": "Acting",
+          "name": "Annette O'Toole",
+          "original_name": "Annette O'Toole",
+          "popularity": 3.4724,
+          "profile_path": "/mCTEEzuNXlCdyl9uM4ot688IfVz.jpg",
+          "cast_id": 10,
+          "character": "Charlotte",
+          "credit_id": "59142a63925141583c009f8f",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 18466,
+          "known_for_department": "Acting",
+          "name": "Giovanna Zacarías",
+          "original_name": "Giovanna Zacarías",
+          "popularity": 0.6247,
+          "profile_path": "/hyw0Bd8kKkAXNG008R8NVkNCgEx.jpg",
+          "cast_id": 11,
+          "character": "Josephina",
+          "credit_id": "59650298c3a368253c0f5dc8",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 159280,
+          "known_for_department": "Acting",
+          "name": "David Bickford",
+          "original_name": "David Bickford",
+          "popularity": 0.7831,
+          "profile_path": "/sa4xpoBx2bXnSXdHMWCrxfCM6i4.jpg",
+          "cast_id": 12,
+          "character": "TV Spokesman",
+          "credit_id": "596546bdc3a3680d590efc0c",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 138770,
+          "known_for_department": "Acting",
+          "name": "Cassidy Freeman",
+          "original_name": "Cassidy Freeman",
+          "popularity": 1.7925,
+          "profile_path": "/6QooKF97oaUoIrW2lbx36aYYGZH.jpg",
+          "cast_id": 13,
+          "character": "Young Charlotte",
+          "credit_id": "596546cec3a368293b12095e",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1849534,
+          "known_for_department": "Acting",
+          "name": "Edwin Garcia II",
+          "original_name": "Edwin Garcia II",
+          "popularity": 0.2795,
+          "profile_path": "/wRNvDZy5URJzxbwIFmTgdHzgMtk.jpg",
+          "cast_id": 14,
+          "character": "Chef",
+          "credit_id": "596546dcc3a368265d10faec",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1849535,
+          "known_for_department": "Acting",
+          "name": "Terry Kaye",
+          "original_name": "Terry Kaye",
+          "popularity": 0.2432,
+          "profile_path": "/irobOZiEE6b0QsMa7KTRfN00wyY.jpg",
+          "cast_id": 15,
+          "character": "TV Mon",
+          "credit_id": "596546f5c3a3680dec0f19de",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1849536,
+          "known_for_department": "Acting",
+          "name": "Logan Kishi",
+          "original_name": "Logan Kishi",
+          "popularity": 0.2006,
+          "profile_path": "/iCJqzH97l4fq2P1fhMbmoNPZAG9.jpg",
+          "cast_id": 16,
+          "character": "Paulo",
+          "credit_id": "596547069251410a59114854",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1545667,
+          "known_for_department": "Acting",
+          "name": "Peter Lucas",
+          "original_name": "Peter Lucas",
+          "popularity": 0.3776,
+          "profile_path": "/wYmhaQNVJ2Uu6QMbjg6Fbcq0v36.jpg",
+          "cast_id": 17,
+          "character": "Priest",
+          "credit_id": "5965471dc3a368253c0fa19b",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1849538,
+          "known_for_department": "Acting",
+          "name": "Matt McLeod",
+          "original_name": "Matt McLeod",
+          "popularity": 0.1296,
+          "profile_path": "/1HP7RwBE4ePKfuer7bDFyrYXL8d.jpg",
+          "cast_id": 18,
+          "character": "Bus Passenger",
+          "credit_id": "5965475cc3a36825e8102da3",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1849539,
+          "known_for_department": "Acting",
+          "name": "C. Ronald McPherson",
+          "original_name": "C. Ronald McPherson",
+          "popularity": 0.1114,
+          "profile_path": "/fo4mxCN2YV1jiqhsL1ShuasNjGe.jpg",
+          "cast_id": 19,
+          "character": "Cemetery Ghost",
+          "credit_id": "596547719251410a591148c3",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1849540,
+          "known_for_department": "Acting",
+          "name": "Edgar Nentwig",
+          "original_name": "Edgar Nentwig",
+          "popularity": 0.1294,
+          "profile_path": "/tONE8qMM9gXZNysOMQfAmy6Iatj.jpg",
+          "cast_id": 20,
+          "character": "Park Janitor",
+          "credit_id": "59654786c3a368293b120a26",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1475369,
+          "known_for_department": "Acting",
+          "name": "Nicholas Popov",
+          "original_name": "Nicholas Popov",
+          "popularity": 0.1226,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Nick",
+          "credit_id": "5965479792514121f00fa575",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1849542,
+          "known_for_department": "Acting",
+          "name": "Micky Satiar",
+          "original_name": "Micky Satiar",
+          "popularity": 0.1375,
+          "profile_path": "/cMLOZRaVBlue9F6QQI3syFowmDT.jpg",
+          "cast_id": 22,
+          "character": "Max",
+          "credit_id": "596547a8c3a368265d10fbb8",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1849543,
+          "known_for_department": "Acting",
+          "name": "Lucky Schwarz",
+          "original_name": "Lucky Schwarz",
+          "popularity": 0.1065,
+          "profile_path": "/bF42MQqcyInHJ56CMxtOJi1pe7X.jpg",
+          "cast_id": 23,
+          "character": "Kieran",
+          "credit_id": "596547b4c3a36828a11322b7",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1849545,
+          "known_for_department": "Acting",
+          "name": "Rachel Stamberg",
+          "original_name": "Rachel Stamberg",
+          "popularity": 0.0925,
+          "profile_path": "/txhXlWZmFw5xK9mPFosRecBZ1bf.jpg",
+          "cast_id": 24,
+          "character": "Heather",
+          "credit_id": "596547c1c3a36828a11322c9",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1619444,
+          "known_for_department": "Acting",
+          "name": "Dig Wayne",
+          "original_name": "Dig Wayne",
+          "popularity": 0.5735,
+          "profile_path": "/17V1qZKzWWePXQ8S6UTAMnNB6dh.jpg",
+          "cast_id": 25,
+          "character": "Emmet Frum",
+          "credit_id": "596547e09251410bfa11d8b9",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1849546,
+          "known_for_department": "Acting",
+          "name": "Heather Wynters",
+          "original_name": "Heather Wynters",
+          "popularity": 0.2914,
+          "profile_path": "/kxqvAk0tTeRNIdhhEkzfwYSBtnA.jpg",
+          "cast_id": 26,
+          "character": "Homeless Woman",
+          "credit_id": "596547eec3a368253c0fa251",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3203826,
+          "known_for_department": "Acting",
+          "name": "Ian Sharkey",
+          "original_name": "Ian Sharkey",
+          "popularity": 0.869,
+          "profile_path": "/qK01I306dlZuH0ZuJ0qj8i990vT.jpg",
+          "cast_id": 31,
+          "character": "Toddler Miles",
+          "credit_id": "63d4a8b722df2e00df3c9ad5",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1509463,
+          "known_for_department": "Acting",
+          "name": "Gracie Prewitt",
+          "original_name": "Gracie Prewitt",
+          "popularity": 0.2848,
+          "profile_path": "/2miGAfherRVAiHNeLgQHihnfiEV.jpg",
+          "cast_id": 32,
+          "character": "",
+          "credit_id": "6993af841f5614a9c795983c",
+          "order": 22
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 138775,
+          "known_for_department": "Writing",
+          "name": "Andy Mitton",
+          "original_name": "Andy Mitton",
+          "popularity": 0.2475,
+          "profile_path": "/iT7kJUa8yWOPPaG5YbOa3CZehcY.jpg",
+          "credit_id": "57934ddec3a368636b0082d3",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 138776,
+          "known_for_department": "Directing",
+          "name": "Jesse Holland",
+          "original_name": "Jesse Holland",
+          "popularity": 0.3098,
+          "profile_path": "/fOf3SXA2rnHxbkEVJNkohFvCmo5.jpg",
+          "credit_id": "57934df29251413ce1009bb1",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 138776,
+          "known_for_department": "Directing",
+          "name": "Jesse Holland",
+          "original_name": "Jesse Holland",
+          "popularity": 0.3098,
+          "profile_path": "/fOf3SXA2rnHxbkEVJNkohFvCmo5.jpg",
+          "credit_id": "57934e08c3a368401200dd82",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 138775,
+          "known_for_department": "Writing",
+          "name": "Andy Mitton",
+          "original_name": "Andy Mitton",
+          "popularity": 0.2475,
+          "profile_path": "/iT7kJUa8yWOPPaG5YbOa3CZehcY.jpg",
+          "credit_id": "57934e13c3a36862cd0077d2",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1849548,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Jacqueline Martinez",
+          "original_name": "Jacqueline Martinez",
+          "popularity": 0.1848,
+          "profile_path": "/b4S6MpJzw1gbbT2ebdKw2ya2Rq3.jpg",
+          "credit_id": "59654b3f9251410bfa11dc0b",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1449066,
+          "known_for_department": "Crew",
+          "name": "Anna Mercedes Mendez",
+          "original_name": "Anna Mercedes Mendez",
+          "popularity": 0.5347,
+          "profile_path": "/dSqd1f9qsk4eZkhdUZeSciQbRpR.jpg",
+          "credit_id": "59654c0bc3a3680dec0f1f67",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1531775,
+          "known_for_department": "Lighting",
+          "name": "Ace Underhill",
+          "original_name": "Ace Underhill",
+          "popularity": 0.2747,
+          "profile_path": "/1DAYpsiAnHLn2P2ywkv2bthYGvI.jpg",
+          "credit_id": "59654c2f9251410b86119631",
+          "department": "Crew",
+          "job": "Stunt Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1395513,
+          "known_for_department": "Production",
+          "name": "Marius Haugan",
+          "original_name": "Marius Haugan",
+          "popularity": 0.1616,
+          "profile_path": "/tsD2TsAD8KkPoaKZIJwj2qh0Gca.jpg",
+          "credit_id": "59654dfd92514122510f6340",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "14A",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2016-03-05T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "R18+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2017-02-07T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2017-12-27T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2016-03-05T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "CZ",
+          "title": "Pokračujeme",
+          "type": "Doslovný překlad názvu filmu"
+        },
+        {
+          "iso_3166_1": "JP",
+          "title": "WE GO ON －死霊の証明－",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "JP",
+          "title": "WE GO ON -死霊の証明-",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/824067?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:36.079Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 824067,
+    "imdb_id": null,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Terra Nova",
+    "overview": "",
+    "popularity": 2.4204,
+    "poster_path": "/kaHhoP196dlnmJlfCF5ytURWM5S.jpg",
+    "production_companies": [
+      {
+        "id": 73425,
+        "logo_path": null,
+        "name": "Artrupe Produções",
+        "origin_country": "BR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2021-07-22",
+    "revenue": 0,
+    "runtime": 22,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra Nova",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3072197,
+          "known_for_department": "Acting",
+          "name": "Karol Medeiros",
+          "original_name": "Karol Medeiros",
+          "popularity": 0.0984,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Karol",
+          "credit_id": "608acae9a6e2d20041ab60f3",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2354136,
+          "known_for_department": "Acting",
+          "name": "Isabela Catão",
+          "original_name": "Isabela Catão",
+          "popularity": 0.7241,
+          "profile_path": "/3oV10ClxIedLoAOXImMAWokvlln.jpg",
+          "cast_id": 2,
+          "character": "Isabela",
+          "credit_id": "608acaf77b7b4d00295893ce",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1580232,
+          "known_for_department": "Acting",
+          "name": "Diego Bauer",
+          "original_name": "Diego Bauer",
+          "popularity": 0.9425,
+          "profile_path": "/q84wFEL49clHDC5g0XZr5YTuTsB.jpg",
+          "cast_id": 3,
+          "character": "João Carlos",
+          "credit_id": "608acb0525882300570315ed",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2986780,
+          "known_for_department": "Production",
+          "name": "Ítalo Bruce",
+          "original_name": "Ítalo Bruce",
+          "popularity": 0.9597,
+          "profile_path": "/47xOQK3mIaw8QNRczeNLs5vj6fy.jpg",
+          "cast_id": 4,
+          "character": "Atendente da CAIXA",
+          "credit_id": "608acb1143250f00296f82d1",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2963044,
+          "known_for_department": "Art",
+          "name": "Ana Carolina Souza",
+          "original_name": "Ana Carolina Souza",
+          "popularity": 0.4,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "(voice)",
+          "credit_id": "60fa11f471f095002d9efcb9",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3168418,
+          "known_for_department": "Acting",
+          "name": "Glória Vieira",
+          "original_name": "Glória Vieira",
+          "popularity": 0.1006,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "(voice)",
+          "credit_id": "60fa12093d355700759ab83d",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3168419,
+          "known_for_department": "Acting",
+          "name": "Izabela Garcia",
+          "original_name": "Izabela Garcia",
+          "popularity": 0.315,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "(voice)",
+          "credit_id": "60fa1215df857c0045b3abd8",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1580232,
+          "known_for_department": "Acting",
+          "name": "Diego Bauer",
+          "original_name": "Diego Bauer",
+          "popularity": 0.9425,
+          "profile_path": "/q84wFEL49clHDC5g0XZr5YTuTsB.jpg",
+          "credit_id": "608acb3e67e0f7006fb35959",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1580232,
+          "known_for_department": "Acting",
+          "name": "Diego Bauer",
+          "original_name": "Diego Bauer",
+          "popularity": 0.9425,
+          "profile_path": "/q84wFEL49clHDC5g0XZr5YTuTsB.jpg",
+          "credit_id": "608acb2c66469a00716db9d0",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1580232,
+          "known_for_department": "Acting",
+          "name": "Diego Bauer",
+          "original_name": "Diego Bauer",
+          "popularity": 0.9425,
+          "profile_path": "/q84wFEL49clHDC5g0XZr5YTuTsB.jpg",
+          "credit_id": "60fa12320dea6e005e8c279e",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2986780,
+          "known_for_department": "Production",
+          "name": "Ítalo Bruce",
+          "original_name": "Ítalo Bruce",
+          "popularity": 0.9597,
+          "profile_path": "/47xOQK3mIaw8QNRczeNLs5vj6fy.jpg",
+          "credit_id": "60fa12453d3557005e1731d1",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1580236,
+          "known_for_department": "Editing",
+          "name": "César Nogueira",
+          "original_name": "César Nogueira",
+          "popularity": 0.7093,
+          "profile_path": "/5BHyJhw1sAL8NMjVkorcMJywzQe.jpg",
+          "credit_id": "60fa125d3d355700472062aa",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2963054,
+          "known_for_department": "Sound",
+          "name": "Heverson Batista",
+          "original_name": "Heverson Batista",
+          "popularity": 0.2165,
+          "profile_path": null,
+          "credit_id": "60fa12fb960331004727512f",
+          "department": "Sound",
+          "job": "Boom Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2963058,
+          "known_for_department": "Sound",
+          "name": "Lucas Coelho",
+          "original_name": "Lucas Coelho",
+          "popularity": 0.3227,
+          "profile_path": null,
+          "credit_id": "60fa1327c439c0005c2f8d99",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2986799,
+          "known_for_department": "Sound",
+          "name": "Pablo Araújo",
+          "original_name": "Pablo Araújo",
+          "popularity": 0.1465,
+          "profile_path": null,
+          "credit_id": "60fa12e62afb2500461ad94a",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3168430,
+          "known_for_department": "Directing",
+          "name": "Sofia Sahakian",
+          "original_name": "Sofia Sahakian",
+          "popularity": 0.1062,
+          "profile_path": null,
+          "credit_id": "60fa13b90dea6e002db0c5e0",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3168431,
+          "known_for_department": "Directing",
+          "name": "Diego Leo",
+          "original_name": "Diego Leo",
+          "popularity": 0.095,
+          "profile_path": null,
+          "credit_id": "60fa13ded7fbda0079f39632",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2131522,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Paulo Oberdan",
+          "original_name": "Paulo Oberdan",
+          "popularity": 0.197,
+          "profile_path": null,
+          "credit_id": "60fa1375c439c00029ee3c70",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3168421,
+          "known_for_department": "Production",
+          "name": "Viviane Palandi",
+          "original_name": "Viviane Palandi",
+          "popularity": 0.1141,
+          "profile_path": null,
+          "credit_id": "60fa12b22afb25002ce76e7d",
+          "department": "Production",
+          "job": "Casting Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2963058,
+          "known_for_department": "Sound",
+          "name": "Lucas Coelho",
+          "original_name": "Lucas Coelho",
+          "popularity": 0.3227,
+          "profile_path": null,
+          "credit_id": "60fa1317df857c0075c73494",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1652133,
+          "known_for_department": "Art",
+          "name": "Francisco Ricardo",
+          "original_name": "Francisco Ricardo",
+          "popularity": 0.4753,
+          "profile_path": "/1WYMTt57mKJdMyGQcF8UkxlTByx.jpg",
+          "credit_id": "60fa134071f095007fd2749c",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2131522,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Paulo Oberdan",
+          "original_name": "Paulo Oberdan",
+          "popularity": 0.197,
+          "profile_path": null,
+          "credit_id": "60fa13663103250046d11c21",
+          "department": "Costume & Make-Up",
+          "job": "Costumer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1797711,
+          "known_for_department": "Editing",
+          "name": "Eduardo Resing",
+          "original_name": "Eduardo Resing",
+          "popularity": 0.3258,
+          "profile_path": "/vGew6WWWvSQDSwB4NJGlqD4npuD.jpg",
+          "credit_id": "60fa127197fdec0045919d5f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3168429,
+          "known_for_department": "Editing",
+          "name": "João Gabriel Riveres",
+          "original_name": "João Gabriel Riveres",
+          "popularity": 0.8124,
+          "profile_path": null,
+          "credit_id": "60fa139a9603310060fed51f",
+          "department": "Editing",
+          "job": "Colorist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1582724,
+          "known_for_department": "Camera",
+          "name": "Robert Coelho",
+          "original_name": "Robert Coelho",
+          "popularity": 0.271,
+          "profile_path": null,
+          "credit_id": "60fa13f707e281007d826233",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3168432,
+          "known_for_department": "Camera",
+          "name": "Naila Fernandes",
+          "original_name": "Naila Fernandes",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "60fa140cc439c00029ee3e06",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3168435,
+          "known_for_department": "Crew",
+          "name": "Marlene Silva",
+          "original_name": "Marlene Silva",
+          "popularity": 0.1041,
+          "profile_path": null,
+          "credit_id": "60fa1468fd140b005d2f6122",
+          "department": "Crew",
+          "job": "Catering"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3168436,
+          "known_for_department": "Camera",
+          "name": "Larissa Martins",
+          "original_name": "Larissa Martins",
+          "popularity": 0.1346,
+          "profile_path": null,
+          "credit_id": "60fa1476960331002eab8ae7",
+          "department": "Camera",
+          "job": "Still Photographer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3168437,
+          "known_for_department": "Crew",
+          "name": "Isis Catarina",
+          "original_name": "Isis Catarina",
+          "popularity": 0.1079,
+          "profile_path": null,
+          "credit_id": "60fa1487c439c00046632a59",
+          "department": "Crew",
+          "job": "Intern"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3168434,
+          "known_for_department": "Crew",
+          "name": "Vanda Almeida",
+          "original_name": "Vanda Almeida",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "credit_id": "60fa145b310325005da7ee41",
+          "department": "Crew",
+          "job": "Catering"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2963044,
+          "known_for_department": "Art",
+          "name": "Ana Carolina Souza",
+          "original_name": "Ana Carolina Souza",
+          "popularity": 0.4,
+          "profile_path": null,
+          "credit_id": "60fa1427944a570075db534c",
+          "department": "Art",
+          "job": "Assistant Art Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2749559,
+          "known_for_department": "Production",
+          "name": "Evandro Repolho da Silva",
+          "original_name": "Evandro Repolho da Silva",
+          "popularity": 0.1082,
+          "profile_path": null,
+          "credit_id": "60fa1447f1759c00466982be",
+          "department": "Crew",
+          "job": "Machinist"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "",
+              "release_date": "2021-07-22T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

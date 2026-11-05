@@ -1,0 +1,202 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1810714?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:57.778Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1810714,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "Ciudad Jardín",
+    "overview": "",
+    "popularity": 1.4763,
+    "poster_path": "/cYg6GvBBznWBpRjD9EDZmNUZOSh.jpg",
+    "production_companies": [
+      {
+        "id": 316120,
+        "logo_path": null,
+        "name": "El Espino Films",
+        "origin_country": ""
+      },
+      {
+        "id": 110614,
+        "logo_path": "/riAFxERom05fmY00YX1ARKx9wXM.png",
+        "name": "Gentil",
+        "origin_country": "AR"
+      },
+      {
+        "id": 189373,
+        "logo_path": null,
+        "name": "Grieta Cine",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      },
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 99,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ciudad Jardín",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4061041,
+          "known_for_department": "Acting",
+          "name": "Javier Zoro",
+          "original_name": "Javier Zoro",
+          "popularity": 0.1278,
+          "profile_path": null,
+          "credit_id": "6ae217e6059df5f67e051166",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4061041,
+          "known_for_department": "Acting",
+          "name": "Javier Zoro",
+          "original_name": "Javier Zoro",
+          "popularity": 0.1278,
+          "profile_path": null,
+          "credit_id": "6ae217f027ede55f632d8dc6",
+          "department": "Crew",
+          "job": "Script"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1406432,
+          "known_for_department": "Directing",
+          "name": "Ignacio Masllorens",
+          "original_name": "Ignacio Masllorens",
+          "popularity": 0.4202,
+          "profile_path": "/p6ME16mqPTyC77E1Bdi2iawWOGc.jpg",
+          "credit_id": "6ae21803ed024c94c6ed8b97",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1986891,
+          "known_for_department": "Production",
+          "name": "Eugenia Campos Guevara",
+          "original_name": "Eugenia Campos Guevara",
+          "popularity": 0.3542,
+          "profile_path": "/gxl5T7m7A0bufx6YxA59WP6CS53.jpg",
+          "credit_id": "6ae21827a70557111ea66a20",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1081879,
+          "known_for_department": "Art",
+          "name": "Macarena Aguiló",
+          "original_name": "Macarena Aguiló",
+          "popularity": 0.2396,
+          "profile_path": "/ekUCeaH54n0uwCHxGI1CkEeBdYF.jpg",
+          "credit_id": "6ae2183727ede55f632d8dd7",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2162652,
+          "known_for_department": "Camera",
+          "name": "Manuel Vlastelica",
+          "original_name": "Manuel Vlastelica",
+          "popularity": 0.1509,
+          "profile_path": "/mJJeBnDD1iouCau9lZ6il3vLj8h.jpg",
+          "credit_id": "6ae218698ab6658ddded8b9a",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2545675,
+          "known_for_department": "Editing",
+          "name": "Florencia Gómez García",
+          "original_name": "Florencia Gómez García",
+          "popularity": 0.5398,
+          "profile_path": "/rXLvYJA7nCWXLEeN778hKh7XvPY.jpg",
+          "credit_id": "6ae2187d8ab6658ddded8ba8",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2772807,
+          "known_for_department": "Sound",
+          "name": "Lautaro Zamaro",
+          "original_name": "Lautaro Zamaro",
+          "popularity": 0.2007,
+          "profile_path": null,
+          "credit_id": "6ae21b23f3506c1dbea66aae",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 278888,
+          "known_for_department": "Camera",
+          "name": "David Bravo",
+          "original_name": "David Bravo",
+          "popularity": 0.3365,
+          "profile_path": "/zy4te3BlESsbQh8nn4615LNNftw.jpg",
+          "credit_id": "6ae21b39b06dcfce5c048658",
+          "department": "Editing",
+          "job": "Color Grading"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

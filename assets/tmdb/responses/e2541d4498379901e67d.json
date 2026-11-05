@@ -1,0 +1,1408 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/45938?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:08.031Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/xkIaVZo98JFCteffdXRgZfcW5A.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 45938,
+    "imdb_id": "tt0067805",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Sunday Bloody Sunday",
+    "overview": "Alex Greville, una mujer de mediana edad, y el doctor Daniel Hirsh mantienen un affaire por separado con la misma persona, el joven científico Elkin. Ambos lucharán por su amor.",
+    "popularity": 2.5333,
+    "poster_path": "/lEGBRAE2JHQw77RStduQOcWbpAR.jpg",
+    "production_companies": [
+      {
+        "id": 11707,
+        "logo_path": null,
+        "name": "Vic Films Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 34757,
+        "logo_path": null,
+        "name": "Vectia",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "1971-09-21",
+    "revenue": 0,
+    "runtime": 110,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Hebrew",
+        "iso_639_1": "he",
+        "name": "עִבְרִית"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Se trata de tres personas decentes. Se romperán el corazón.",
+    "title": "Domingo, maldito domingo",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 145,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29903,
+          "known_for_department": "Acting",
+          "name": "Peter Finch",
+          "original_name": "Peter Finch",
+          "popularity": 0.9153,
+          "profile_path": "/uwIimbLsEGMkqsEGtYCSKXoWZag.jpg",
+          "cast_id": 2,
+          "character": "Dr. Daniel Hirsh",
+          "credit_id": "52fe46dac3a36847f8115e4d",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 115573,
+          "known_for_department": "Acting",
+          "name": "Glenda Jackson",
+          "original_name": "Glenda Jackson",
+          "popularity": 0.7578,
+          "profile_path": "/hRkDjkUKuZEJQOkjPPNQEsxsGRi.jpg",
+          "cast_id": 3,
+          "character": "Alex Greville",
+          "credit_id": "52fe46dac3a36847f8115e51",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 231333,
+          "known_for_department": "Acting",
+          "name": "Murray Head",
+          "original_name": "Murray Head",
+          "popularity": 1.0066,
+          "profile_path": "/edhmPPgmVH4toSmZ9NwxYva3IWP.jpg",
+          "cast_id": 4,
+          "character": "Bob Elkin",
+          "credit_id": "52fe46dac3a36847f8115e55",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3672,
+          "known_for_department": "Acting",
+          "name": "Peggy Ashcroft",
+          "original_name": "Peggy Ashcroft",
+          "popularity": 1.3963,
+          "profile_path": "/bF2GD1brYDKT17j25ANkZQR739R.jpg",
+          "cast_id": 5,
+          "character": "Mrs. Greville",
+          "credit_id": "52fe46dac3a36847f8115e59",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 39950,
+          "known_for_department": "Acting",
+          "name": "Tony Britton",
+          "original_name": "Tony Britton",
+          "popularity": 0.7918,
+          "profile_path": "/2M13wssFS5bKgWlOu3Iilu0J6H8.jpg",
+          "cast_id": 6,
+          "character": "George Harding",
+          "credit_id": "52fe46dac3a36847f8115e5d",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 39952,
+          "known_for_department": "Acting",
+          "name": "Maurice Denham",
+          "original_name": "Maurice Denham",
+          "popularity": 0.6558,
+          "profile_path": "/emSAhipSEjxZfAeymqlWHLvC5rT.jpg",
+          "cast_id": 7,
+          "character": "Mr. Greville",
+          "credit_id": "52fe46dac3a36847f8115e61",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 29258,
+          "known_for_department": "Acting",
+          "name": "Bessie Love",
+          "original_name": "Bessie Love",
+          "popularity": 0.5723,
+          "profile_path": "/aOt4c5AoO1Zp8W93JTBnl1eEcFk.jpg",
+          "cast_id": 8,
+          "character": "Answering Service Lady",
+          "credit_id": "52fe46dac3a36847f8115e65",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 19616,
+          "known_for_department": "Acting",
+          "name": "Vivian Pickles",
+          "original_name": "Vivian Pickles",
+          "popularity": 0.4813,
+          "profile_path": "/aNbtwiqk3hVHp25fdGpHqJiJseX.jpg",
+          "cast_id": 9,
+          "character": "Alva Hodson",
+          "credit_id": "52fe46dac3a36847f8115e69",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 190526,
+          "known_for_department": "Acting",
+          "name": "Frank Windsor",
+          "original_name": "Frank Windsor",
+          "popularity": 0.4007,
+          "profile_path": "/bWPxwFuJE86uudIWizruO6Rb46P.jpg",
+          "cast_id": 10,
+          "character": "Bill Hodson",
+          "credit_id": "52fe46dac3a36847f8115e6d",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 44696,
+          "known_for_department": "Acting",
+          "name": "Thomas Baptiste",
+          "original_name": "Thomas Baptiste",
+          "popularity": 0.3729,
+          "profile_path": "/t4kZ9p6mmGVWemoOreXES6Sqq0F.jpg",
+          "cast_id": 25,
+          "character": "Prof. Johns",
+          "credit_id": "5c115ea80e0a2638bc103e30",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 121360,
+          "known_for_department": "Acting",
+          "name": "Richard Pearson",
+          "original_name": "Richard Pearson",
+          "popularity": 1.1153,
+          "profile_path": "/fHLK1HrQ0sly4KXdZhQCKl6i8fW.jpg",
+          "cast_id": 26,
+          "character": "Patient",
+          "credit_id": "63f914d86aa8e0008e82fe48",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 16481,
+          "known_for_department": "Acting",
+          "name": "June Brown",
+          "original_name": "June Brown",
+          "popularity": 0.5062,
+          "profile_path": "/b4fkSiIkFPQceP8ycDaiTKNNpdi.jpg",
+          "cast_id": 27,
+          "character": "Woman Patient",
+          "credit_id": "63f914e6fb52990079e17f4d",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 8223,
+          "known_for_department": "Acting",
+          "name": "Jon Finch",
+          "original_name": "Jon Finch",
+          "popularity": 0.5605,
+          "profile_path": "/byUzcX9wGtPxRY4vWhd1OuCMQk2.jpg",
+          "cast_id": 11,
+          "character": "Scotsman",
+          "credit_id": "52fe46dac3a36847f8115e71",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1472414,
+          "known_for_department": "Acting",
+          "name": "Hannah Norbert",
+          "original_name": "Hannah Norbert",
+          "popularity": 0.3414,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "Daniel's Mother",
+          "credit_id": "64919bea2f8d09011d25d874",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 130172,
+          "known_for_department": "Acting",
+          "name": "Harold Goldblatt",
+          "original_name": "Harold Goldblatt",
+          "popularity": 0.4176,
+          "profile_path": "/rc58hRjDPECwHtaPZfkqFyyrBUy.jpg",
+          "cast_id": 30,
+          "character": "Daniel's Father",
+          "credit_id": "64919bfbc2ff3d00ffbd510a",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 101855,
+          "known_for_department": "Acting",
+          "name": "Marie Burke",
+          "original_name": "Marie Burke",
+          "popularity": 0.5448,
+          "profile_path": "/6BN5PXZsScoZGiPMp9EYN011CRO.jpg",
+          "cast_id": 28,
+          "character": "Aunt Astrid",
+          "credit_id": "63f914f757176f009db2d8d2",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 11841,
+          "known_for_department": "Acting",
+          "name": "Robert Rietti",
+          "original_name": "Robert Rietti",
+          "popularity": 0.4405,
+          "profile_path": "/2Xa7VvAyV2zMqd2OhrgcUoorG0w.jpg",
+          "cast_id": 34,
+          "character": "Daniel's Brother",
+          "credit_id": "64919c61c2ff3d00ffbd5150",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1231659,
+          "known_for_department": "Acting",
+          "name": "Liane Aukin",
+          "original_name": "Liane Aukin",
+          "popularity": 0.5282,
+          "profile_path": null,
+          "cast_id": 35,
+          "character": "Daniel's Sister-in-Law",
+          "credit_id": "64919cabc3c891014ebf6d86",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4121405,
+          "known_for_department": "Acting",
+          "name": "Robin Presky",
+          "original_name": "Robin Presky",
+          "popularity": 0.4646,
+          "profile_path": null,
+          "cast_id": 36,
+          "character": "Daniel's Nephew",
+          "credit_id": "64919cba559d2200c578477a",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 37442,
+          "known_for_department": "Acting",
+          "name": "Caroline Blakiston",
+          "original_name": "Caroline Blakiston",
+          "popularity": 1.2488,
+          "profile_path": "/t9wSkPNW7Rsk9VnyiM5nNkaCHHe.jpg",
+          "cast_id": 31,
+          "character": "Rowing Wife",
+          "credit_id": "64919c30263462012d4bd417",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 27169,
+          "known_for_department": "Acting",
+          "name": "Peter Halliday",
+          "original_name": "Peter Halliday",
+          "popularity": 0.4466,
+          "profile_path": "/yEZrtx5RAPVxIo0xQA1cyZdVcKd.jpg",
+          "cast_id": 32,
+          "character": "Rowing Husband",
+          "credit_id": "64919c3e263462014e59b0bb",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4121406,
+          "known_for_department": "Acting",
+          "name": "Kimi Tallmadge",
+          "original_name": "Kimi Tallmadge",
+          "popularity": 0.2814,
+          "profile_path": null,
+          "cast_id": 37,
+          "character": "Hodson Child",
+          "credit_id": "64919ce7c3c89100eb345522",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 96374,
+          "known_for_department": "Writing",
+          "name": "Russell Lewis",
+          "original_name": "Russell Lewis",
+          "popularity": 0.4014,
+          "profile_path": null,
+          "cast_id": 38,
+          "character": "Hodson Child",
+          "credit_id": "64919cff2f8d0900c66772b2",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4121407,
+          "known_for_department": "Acting",
+          "name": "Emma Schlesinger",
+          "original_name": "Emma Schlesinger",
+          "popularity": 0.0991,
+          "profile_path": null,
+          "cast_id": 39,
+          "character": "Hodson Child",
+          "credit_id": "64919d0f263462010cbd7af1",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2981155,
+          "known_for_department": "Acting",
+          "name": "Carl Ferber",
+          "original_name": "Carl Ferber",
+          "popularity": 0.4702,
+          "profile_path": null,
+          "cast_id": 40,
+          "character": "Hodson Child",
+          "credit_id": "64919d1c26346200eb77e3b6",
+          "order": 24
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4121408,
+          "known_for_department": "Acting",
+          "name": "Patrick Thornberry",
+          "original_name": "Patrick Thornberry",
+          "popularity": 0.2157,
+          "profile_path": null,
+          "cast_id": 41,
+          "character": "Hodson Child",
+          "credit_id": "64919d2fc3c89100ae529fab",
+          "order": 25
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 18768,
+          "known_for_department": "Acting",
+          "name": "Niké Arrighi",
+          "original_name": "Niké Arrighi",
+          "popularity": 0.5476,
+          "profile_path": "/yH1miAd3AMu3SLWnZ3voqmvD6FY.jpg",
+          "cast_id": 24,
+          "character": "Party Guest",
+          "credit_id": "5aca70e592514143220012bb",
+          "order": 26
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 178411,
+          "known_for_department": "Acting",
+          "name": "Douglas Lambert",
+          "original_name": "Douglas Lambert",
+          "popularity": 0.5086,
+          "profile_path": "/bSfkhDCcRV8eIMoCGw43fM6SVBs.jpg",
+          "cast_id": 33,
+          "character": "Man at Party",
+          "credit_id": "64919c4c559d220139bf9cec",
+          "order": 27
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 17161,
+          "known_for_department": "Acting",
+          "name": "Ann Firbank",
+          "original_name": "Ann Firbank",
+          "popularity": 0.7621,
+          "profile_path": "/23Fz7yPmKzotn5d5SMDPihyo6A5.jpg",
+          "cast_id": 42,
+          "character": "Party Guest",
+          "credit_id": "64919d962f8d09011d25d912",
+          "order": 28
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 39035,
+          "known_for_department": "Acting",
+          "name": "Barbara Markham",
+          "original_name": "Barbara Markham",
+          "popularity": 0.4083,
+          "profile_path": "/jSE7K8FSorsKQAJxRe0MHixjhWb.jpg",
+          "cast_id": 43,
+          "character": "Party Guest",
+          "credit_id": "64919da4c3c891010ca6a321",
+          "order": 29
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 20425,
+          "known_for_department": "Acting",
+          "name": "Donald Sumpter",
+          "original_name": "Donald Sumpter",
+          "popularity": 1.8479,
+          "profile_path": "/jfdH7vojRZ3fRSesLF8K3tZwwtq.jpg",
+          "cast_id": 44,
+          "character": "Party Guest",
+          "credit_id": "64919db1263462012d4bd495",
+          "order": 30
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1359578,
+          "known_for_department": "Acting",
+          "name": "Rohan McCullough",
+          "original_name": "Rohan McCullough",
+          "popularity": 0.4393,
+          "profile_path": null,
+          "cast_id": 45,
+          "character": "Party Guest",
+          "credit_id": "64919dbd559d220139bf9d73",
+          "order": 31
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1224751,
+          "known_for_department": "Acting",
+          "name": "John Warner",
+          "original_name": "John Warner",
+          "popularity": 0.4683,
+          "profile_path": "/dlCtSxIvReZVmnN0Dx9bUwIcY52.jpg",
+          "cast_id": 46,
+          "character": "Party Guest",
+          "credit_id": "64919dca263462014e59b14c",
+          "order": 32
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3117863,
+          "known_for_department": "Acting",
+          "name": "Francis Ghent",
+          "original_name": "Francis Ghent",
+          "popularity": 0.3048,
+          "profile_path": null,
+          "cast_id": 47,
+          "character": "Party Guest",
+          "credit_id": "64919dd642bf0100ae332d2a",
+          "order": 33
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 40164,
+          "known_for_department": "Acting",
+          "name": "William Job",
+          "original_name": "William Job",
+          "popularity": 0.191,
+          "profile_path": null,
+          "cast_id": 48,
+          "character": "Party Guest",
+          "credit_id": "64919de8c3c891012d5f6438",
+          "order": 34
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4121411,
+          "known_for_department": "Acting",
+          "name": "Derek Gilbert",
+          "original_name": "Derek Gilbert",
+          "popularity": 0.2141,
+          "profile_path": null,
+          "cast_id": 49,
+          "character": "Party Guest",
+          "credit_id": "64919e0126346200ae1d7b98",
+          "order": 35
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3831650,
+          "known_for_department": "Acting",
+          "name": "Robert Wilde",
+          "original_name": "Robert Wilde",
+          "popularity": 0.4179,
+          "profile_path": null,
+          "cast_id": 50,
+          "character": "Party Guest",
+          "credit_id": "64919e1626346200eb77e3fa",
+          "order": 36
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 33315,
+          "known_for_department": "Directing",
+          "name": "Richard Loncraine",
+          "original_name": "Richard Loncraine",
+          "popularity": 0.4583,
+          "profile_path": "/2mpUQgkeo8QNMQwmJE1OzAmGAM5.jpg",
+          "cast_id": 51,
+          "character": "Bob's Partner",
+          "credit_id": "64919e2ac2ff3d011cbb39a9",
+          "order": 37
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 201340,
+          "known_for_department": "Acting",
+          "name": "Royce Mills",
+          "original_name": "Royce Mills",
+          "popularity": 0.225,
+          "profile_path": "/amFVE3ZUevsNsEgjofqLoOxrCen.jpg",
+          "cast_id": 52,
+          "character": "Bob's Partner",
+          "credit_id": "64919e362f8d090100ac0a13",
+          "order": 38
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1234475,
+          "known_for_department": "Acting",
+          "name": "Gabrielle Daye",
+          "original_name": "Gabrielle Daye",
+          "popularity": 0.3674,
+          "profile_path": null,
+          "cast_id": 53,
+          "character": "Wife at Hospital",
+          "credit_id": "64919e4542bf0100ae332d56",
+          "order": 39
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 202428,
+          "known_for_department": "Acting",
+          "name": "Edward Evans",
+          "original_name": "Edward Evans",
+          "popularity": 0.2527,
+          "profile_path": null,
+          "cast_id": 54,
+          "character": "Husband at Hospital",
+          "credit_id": "64919e5442bf0100c7fd1f5c",
+          "order": 40
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 139690,
+          "known_for_department": "Acting",
+          "name": "George Belbin",
+          "original_name": "George Belbin",
+          "popularity": 0.256,
+          "profile_path": "/kdgmEaxUX2t9eIPdr4ogSqbZ0AL.jpg",
+          "cast_id": 55,
+          "character": "Next Door Neighbour",
+          "credit_id": "64919e61559d220139bf9da5",
+          "order": 41
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 201569,
+          "known_for_department": "Acting",
+          "name": "Ellis Dale",
+          "original_name": "Ellis Dale",
+          "popularity": 0.3871,
+          "profile_path": null,
+          "cast_id": 56,
+          "character": "Chemist",
+          "credit_id": "64919e6bc3c891012d5f646c",
+          "order": 42
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2345716,
+          "known_for_department": "Acting",
+          "name": "Monica Vasileiou",
+          "original_name": "Monica Vasileiou",
+          "popularity": 0.2449,
+          "profile_path": null,
+          "cast_id": 57,
+          "character": "Travel Agent",
+          "credit_id": "64919e7d26346200ca1bc74c",
+          "order": 43
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1982045,
+          "known_for_department": "Acting",
+          "name": "Joe Wadham",
+          "original_name": "Joe Wadham",
+          "popularity": 0.3449,
+          "profile_path": null,
+          "cast_id": 58,
+          "character": "Lorry Driver",
+          "credit_id": "64919e8bc2ff3d00ad03bd20",
+          "order": 44
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 104306,
+          "known_for_department": "Acting",
+          "name": "John Rae",
+          "original_name": "John Rae",
+          "popularity": 0.1822,
+          "profile_path": null,
+          "cast_id": 59,
+          "character": "Airline Doctor",
+          "credit_id": "64919e9e42bf010101c055d5",
+          "order": 45
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4121412,
+          "known_for_department": "Acting",
+          "name": "Henry Danziger",
+          "original_name": "Henry Danziger",
+          "popularity": 0.359,
+          "profile_path": null,
+          "cast_id": 60,
+          "character": "Cantor",
+          "credit_id": "64919eb0559d2200ff12967f",
+          "order": 46
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1353832,
+          "known_for_department": "Production",
+          "name": "Esta Charkham",
+          "original_name": "Esta Charkham",
+          "popularity": 0.4871,
+          "profile_path": null,
+          "cast_id": 61,
+          "character": "Barmitzvah Guest",
+          "credit_id": "64919ec1559d2200e207fd27",
+          "order": 47
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1250204,
+          "known_for_department": "Acting",
+          "name": "Hilary Hardiman",
+          "original_name": "Hilary Hardiman",
+          "popularity": 0.1673,
+          "profile_path": null,
+          "cast_id": 62,
+          "character": "Barmitzvah Guest",
+          "credit_id": "64919ecf2f8d09013afbb53c",
+          "order": 48
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1399663,
+          "known_for_department": "Acting",
+          "name": "Simon Joseph",
+          "original_name": "Simon Joseph",
+          "popularity": 0.4689,
+          "profile_path": null,
+          "cast_id": 63,
+          "character": "Barmitzvah Guest",
+          "credit_id": "64919ee042bf01011e755918",
+          "order": 49
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3468208,
+          "known_for_department": "Acting",
+          "name": "Gideon Kolb",
+          "original_name": "Gideon Kolb",
+          "popularity": 0.3628,
+          "profile_path": null,
+          "cast_id": 64,
+          "character": "Barmitzvah Guest",
+          "credit_id": "64919eef42bf0100ae332d91",
+          "order": 50
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2204604,
+          "known_for_department": "Acting",
+          "name": "Martin Lawrence",
+          "original_name": "Martin Lawrence",
+          "popularity": 0.6704,
+          "profile_path": null,
+          "cast_id": 65,
+          "character": "Barmitzvah Guest",
+          "credit_id": "64919f07559d2200ad83e034",
+          "order": 51
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2240172,
+          "known_for_department": "Acting",
+          "name": "Mercia Mansfield",
+          "original_name": "Mercia Mansfield",
+          "popularity": 0.5395,
+          "profile_path": null,
+          "cast_id": 66,
+          "character": "Barmitzvah Guest",
+          "credit_id": "64919f15559d2200ad83e03b",
+          "order": 52
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4121414,
+          "known_for_department": "Acting",
+          "name": "Reuben Elvy",
+          "original_name": "Reuben Elvy",
+          "popularity": 0.4063,
+          "profile_path": null,
+          "cast_id": 67,
+          "character": "Barmitzvah Guest",
+          "credit_id": "64919f25263462010cbd7b9b",
+          "order": 53
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4121415,
+          "known_for_department": "Acting",
+          "name": "Jovey Douben",
+          "original_name": "Jovey Douben",
+          "popularity": 0.1245,
+          "profile_path": null,
+          "cast_id": 68,
+          "character": "Barmitzvah Guest",
+          "credit_id": "64919f36c2ff3d00c59bbeef",
+          "order": 54
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1226595,
+          "known_for_department": "Acting",
+          "name": "Henry Gilbert",
+          "original_name": "Henry Gilbert",
+          "popularity": 0.6676,
+          "profile_path": null,
+          "cast_id": 69,
+          "character": "Rabbi, 1930s Flashback",
+          "credit_id": "64919f4a2f8d09013afbb56b",
+          "order": 55
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2663259,
+          "known_for_department": "Acting",
+          "name": "Arthur Goodman",
+          "original_name": "Arthur Goodman",
+          "popularity": 0.2043,
+          "profile_path": null,
+          "cast_id": 73,
+          "character": "Rabbi (uncredited)",
+          "credit_id": "64919faac2ff3d00e2e21c9d",
+          "order": 56
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4121418,
+          "known_for_department": "Acting",
+          "name": "Cindy Burrows",
+          "original_name": "Cindy Burrows",
+          "popularity": 0.3165,
+          "profile_path": null,
+          "cast_id": 71,
+          "character": "Alex as a Child (uncredited)",
+          "credit_id": "64919f77c3c89100cadbf52c",
+          "order": 57
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1225729,
+          "known_for_department": "Acting",
+          "name": "Petra Markham",
+          "original_name": "Petra Markham",
+          "popularity": 0.4739,
+          "profile_path": "/fG9MLfTNYzocGpDhZ0Snax9eLvz.jpg",
+          "cast_id": 72,
+          "character": "Bob's Partner's/Designer's Girlfriend (uncredited)",
+          "credit_id": "64919f98263462012d4bd538",
+          "order": 58
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 11856,
+          "known_for_department": "Acting",
+          "name": "Daniel Day-Lewis",
+          "original_name": "Daniel Day-Lewis",
+          "popularity": 3.4401,
+          "profile_path": "/3kNA9VcmymoEwT0btQ4bvMYxzcP.jpg",
+          "cast_id": 70,
+          "character": "Child Vandal (uncredited)",
+          "credit_id": "64919f5d42bf01011e755959",
+          "order": 59
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1812082,
+          "known_for_department": "Acting",
+          "name": "Jack Arrow",
+          "original_name": "Jack Arrow",
+          "popularity": 0.2621,
+          "profile_path": null,
+          "cast_id": 74,
+          "character": "Commuter (uncredited)",
+          "credit_id": "64919fdc26346200ae1d7c56",
+          "order": 60
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4121419,
+          "known_for_department": "Acting",
+          "name": "Robert Clarke",
+          "original_name": "Robert Clarke",
+          "popularity": 0.1766,
+          "profile_path": null,
+          "cast_id": 75,
+          "character": "Man under Umbrella (uncredited)",
+          "credit_id": "6491a00b263462014e59b206",
+          "order": 61
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2462366,
+          "known_for_department": "Acting",
+          "name": "Jill Goldston",
+          "original_name": "Jill Goldston",
+          "popularity": 0.407,
+          "profile_path": "/qnLeqbWGhO6g30A19NdJBRxwEaJ.jpg",
+          "cast_id": 76,
+          "character": "Woman at Synagogue (uncredited)",
+          "credit_id": "6491a022263462012d4bd560",
+          "order": 62
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 93950,
+          "known_for_department": "Acting",
+          "name": "Murray Kash",
+          "original_name": "Murray Kash",
+          "popularity": 0.3448,
+          "profile_path": null,
+          "cast_id": 77,
+          "character": "Man at TWA Desk (uncredited)",
+          "credit_id": "6491a034c2ff3d00ffbd52b1",
+          "order": 63
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3819717,
+          "known_for_department": "Acting",
+          "name": "Bunny Seaman",
+          "original_name": "Bunny Seaman",
+          "popularity": 0.5716,
+          "profile_path": null,
+          "cast_id": 79,
+          "character": "Sleeping Woman in Beauty Salon (uncredited)",
+          "credit_id": "6491a086c2ff3d00ad03bdc6",
+          "order": 64
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1407888,
+          "known_for_department": "Acting",
+          "name": "David Webb",
+          "original_name": "David Webb",
+          "popularity": 0.5881,
+          "profile_path": "/o0o5ZTsdHhKIKaF6CVQiIl7r0dA.jpg",
+          "cast_id": 80,
+          "character": "Restaurant Owner (scenes deleted)",
+          "credit_id": "6491a0a126346200eb77e4f1",
+          "order": 65
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1324518,
+          "known_for_department": "Acting",
+          "name": "Helen Lindsay",
+          "original_name": "Helen Lindsay",
+          "popularity": 0.7921,
+          "profile_path": "/3apvEi5tG6QwODSWd557Yqk3gkK.jpg",
+          "cast_id": 81,
+          "character": "(Scenes Deleted)",
+          "credit_id": "6491a0b042bf010101c056aa",
+          "order": 66
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19304,
+          "known_for_department": "Directing",
+          "name": "John Schlesinger",
+          "original_name": "John Schlesinger",
+          "popularity": 0.6479,
+          "profile_path": "/pN9COwowU7v7dmslrPpQrjNRBBJ.jpg",
+          "credit_id": "52fe46dac3a36847f8115e49",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1115473,
+          "known_for_department": "Writing",
+          "name": "Penelope Gilliatt",
+          "original_name": "Penelope Gilliatt",
+          "popularity": 0.815,
+          "profile_path": null,
+          "credit_id": "52fe46dac3a36847f8115e7b",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 31930,
+          "known_for_department": "Production",
+          "name": "Joseph Janni",
+          "original_name": "Joseph Janni",
+          "popularity": 0.3555,
+          "profile_path": null,
+          "credit_id": "59e9443f9251410c0e0023d5",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 11848,
+          "known_for_department": "Camera",
+          "name": "Billy Williams",
+          "original_name": "Billy Williams",
+          "popularity": 0.4935,
+          "profile_path": "/tBopjaQ4vu9EJOq6SZcFKYBQWaC.jpg",
+          "credit_id": "59e9444e9251410c0e0023ef",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 21921,
+          "known_for_department": "Production",
+          "name": "Edward Joseph",
+          "original_name": "Edward Joseph",
+          "popularity": 0.3897,
+          "profile_path": null,
+          "credit_id": "59e944579251410c0e002407",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14931,
+          "known_for_department": "Editing",
+          "name": "Richard Marden",
+          "original_name": "Richard Marden",
+          "popularity": 0.319,
+          "profile_path": null,
+          "credit_id": "59e94462c3a3687f9400228f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 14141,
+          "known_for_department": "Production",
+          "name": "Miriam Brickman",
+          "original_name": "Miriam Brickman",
+          "popularity": 0.2093,
+          "profile_path": null,
+          "credit_id": "59e94468c3a3687f8100216a",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 17165,
+          "known_for_department": "Art",
+          "name": "Luciana Arrighi",
+          "original_name": "Luciana Arrighi",
+          "popularity": 0.6157,
+          "profile_path": null,
+          "credit_id": "59e9446fc3a3687fc60022d5",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12810,
+          "known_for_department": "Art",
+          "name": "Norman Dorme",
+          "original_name": "Norman Dorme",
+          "popularity": 0.2089,
+          "profile_path": null,
+          "credit_id": "59e94475c3a3687f66002040",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1559022,
+          "known_for_department": "Art",
+          "name": "Harry Cordwell",
+          "original_name": "Harry Cordwell",
+          "popularity": 0.4594,
+          "profile_path": null,
+          "credit_id": "59e9447c9251412cf5000676",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 9905,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Jocelyn Rickards",
+          "original_name": "Jocelyn Rickards",
+          "popularity": 0.2983,
+          "profile_path": null,
+          "credit_id": "59e94485c3a3687f6600205d",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1314343,
+          "known_for_department": "Editing",
+          "name": "David Campling",
+          "original_name": "David Campling",
+          "popularity": 0.4254,
+          "profile_path": null,
+          "credit_id": "66411dbec30aa88242bf0929",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1335726,
+          "known_for_department": "Sound",
+          "name": "Ron Geesin",
+          "original_name": "Ron Geesin",
+          "popularity": 0.4203,
+          "profile_path": null,
+          "credit_id": "665b5607a149eeb0752b8147",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1972-02-24T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1972-03-09T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1971-12-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1972-01-19T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FI",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1972-01-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1971-09-22T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": " Leicester Square Theatre (London, England)",
+              "release_date": "1971-07-01T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1971-09-26T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2008-09-29T00:00:00.000Z",
+              "type": 4
+            },
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "1995-05-11T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Venice Film Festival",
+              "release_date": "1971-09-05T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1972-02-18T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1971-12-22T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1972-04-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1972-01-19T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "R",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1971-09-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "ES",
+          "title": "Domingo, maldito domingo",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Un dimanche comme les autres",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PT",
+          "title": "Domingo, Maldito Domingo",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "IT",
+          "title": "Domenica, maledetta domenica",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "UA",
+          "title": "Неділя, проклята неділя",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

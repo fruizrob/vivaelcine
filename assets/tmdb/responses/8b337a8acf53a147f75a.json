@@ -1,0 +1,146 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/649895?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:59.588Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/bfkJWYMmkb6KE4CH8N7THVXneHl.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 649895,
+    "imdb_id": "tt9379208",
+    "origin_country": [
+      "TH"
+    ],
+    "original_language": "th",
+    "original_title": "The Right Man: เพราะ … ฉัน รัก",
+    "overview": "",
+    "popularity": 0.7567,
+    "poster_path": "/qIUySUVZlfkdAA8gzaDzWe0T86p.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "TH",
+        "name": "Thailand"
+      }
+    ],
+    "release_date": "2016-08-08",
+    "revenue": 0,
+    "runtime": 15,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Thai",
+        "iso_639_1": "th",
+        "name": "ภาษาไทย"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Right Man: เพราะ … ฉัน รัก",
+    "video": true,
+    "vote_average": 7,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2595478,
+          "known_for_department": "Acting",
+          "name": "วนรัตน์ รัศมีรัตน์",
+          "original_name": "วนรัตน์ รัศมีรัตน์",
+          "popularity": 1.1622,
+          "profile_path": "/jMh4iur4YzAJgqVzc3GqEHbuyL.jpg",
+          "cast_id": 3,
+          "character": "Than",
+          "credit_id": "64b0c06f9672ed00e30a4547",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2463972,
+          "known_for_department": "Acting",
+          "name": "Lee Ardivat",
+          "original_name": "Lee Ardivat",
+          "popularity": 0.6104,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Palm",
+          "credit_id": "5dd79f8b28723c001252fcf8",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2608433,
+          "known_for_department": "Directing",
+          "name": "ธนะมินทร์ วงษ์สกุลพัชร์",
+          "original_name": "ธนะมินทร์ วงษ์สกุลพัชร์",
+          "popularity": 0.7857,
+          "profile_path": "/3pYp7oJAWkxgtLaKgJsXSHDWMXW.jpg",
+          "credit_id": "66673e279edb5175ca01c071",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4301252,
+          "known_for_department": "Directing",
+          "name": "Yuan Tin Tun Danop",
+          "original_name": "Yuan Tin Tun Danop",
+          "popularity": 0.6565,
+          "profile_path": null,
+          "credit_id": "66673e17422c8d07f0a6971e",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "TH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "{\"folded_name\"=>\"Thai\", \"english_name\"=>\"Thai\", \"iso_639_1\"=>\"th\", \"native_name\"=>\"Thai\"}",
+              "note": "",
+              "release_date": "2016-08-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "TH",
+          "title": "The Right Man เพราะ...ฉันรัก",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "TH",
+          "title": "The Right Man: Pror Chan Rak",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

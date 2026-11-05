@@ -1,0 +1,249 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1541435?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:37.564Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/6YcXa0iWrsGMtECZJfUrt6ZAf8p.jpg",
+    "belongs_to_collection": null,
+    "budget": 35000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 1541435,
+    "imdb_id": "tt33998241",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Fencer",
+    "overview": "",
+    "popularity": 1.3648,
+    "poster_path": "/LLoypMakuGKA22xZhTZfbVIxk4.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-02-20",
+    "revenue": 0,
+    "runtime": 12,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Fencer",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4078089,
+          "known_for_department": "Acting",
+          "name": "Bear D'Angelo",
+          "original_name": "Bear D'Angelo",
+          "popularity": 0.2536,
+          "profile_path": "/ewpnW3LWB4kGuqON5Pdz92t5MWp.jpg",
+          "cast_id": 1,
+          "character": "Gabbie",
+          "credit_id": "68b9ca781cc83836311bb6ba",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1213027,
+          "known_for_department": "Acting",
+          "name": "Ray Abruzzo",
+          "original_name": "Ray Abruzzo",
+          "popularity": 0.9812,
+          "profile_path": "/x0Qf3LP7q6CAvfQk2TRH6dILrKb.jpg",
+          "cast_id": 2,
+          "character": "Enzo",
+          "credit_id": "68b9ca8321a023df8a9bf74a",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3622504,
+          "known_for_department": "Acting",
+          "name": "Ben Jaeger-Thomas",
+          "original_name": "Ben Jaeger-Thomas",
+          "popularity": 0.2552,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Doctor",
+          "credit_id": "68b9cab7c7cfcca8619bb502",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4359410,
+          "known_for_department": "Acting",
+          "name": "Daniel Lopez",
+          "original_name": "Daniel Lopez",
+          "popularity": 0.0991,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Ref",
+          "credit_id": "68b9cacb7adab25efd9bb534",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5670755,
+          "known_for_department": "Acting",
+          "name": "Sophia Dondisch",
+          "original_name": "Sophia Dondisch",
+          "popularity": 0.1167,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Erin",
+          "credit_id": "68b9cb437adab25efd9bb54c",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5032502,
+          "known_for_department": "Writing",
+          "name": "Nicholas Marchetti",
+          "original_name": "Nicholas Marchetti",
+          "popularity": 0.2215,
+          "profile_path": null,
+          "credit_id": "68b9cadd0251feffce9465f4",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4186705,
+          "known_for_department": "Camera",
+          "name": "Emily Kordovich",
+          "original_name": "Emily Kordovich",
+          "popularity": 0.2609,
+          "profile_path": null,
+          "credit_id": "68b9caec25f494771c4e5156",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5067916,
+          "known_for_department": "Editing",
+          "name": "Savannah Bayse",
+          "original_name": "Savannah Bayse",
+          "popularity": 0.1008,
+          "profile_path": null,
+          "credit_id": "68b9cb004e058dc0fe9bf466",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5032518,
+          "known_for_department": "Directing",
+          "name": "Alyssa Lomuscio",
+          "original_name": "Alyssa Lomuscio",
+          "popularity": 0.1013,
+          "profile_path": null,
+          "credit_id": "68b9cb641295813a1a068d24",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5032502,
+          "known_for_department": "Writing",
+          "name": "Nicholas Marchetti",
+          "original_name": "Nicholas Marchetti",
+          "popularity": 0.2215,
+          "profile_path": null,
+          "credit_id": "68b9cb7565e6732d2f9bb417",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5032507,
+          "known_for_department": "Production",
+          "name": "George Nicholas Makrinos",
+          "original_name": "George Nicholas Makrinos",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "68b9cb8b34f75d1e3e98af63",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1971713,
+          "known_for_department": "Acting",
+          "name": "Alanah Rafferty",
+          "original_name": "Alanah Rafferty",
+          "popularity": 0.5068,
+          "profile_path": "/yGM2qpV7ka5cMkM2cS1xUqR5jjj.jpg",
+          "credit_id": "68b9cb9ebce7b2a2989bf4c8",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1478924,
+          "known_for_department": "Acting",
+          "name": "Angela Wong Carbone",
+          "original_name": "Angela Wong Carbone",
+          "popularity": 0.4174,
+          "profile_path": "/jetiltActpqk7615DPS3xrFeSoA.jpg",
+          "credit_id": "68b9cbae840ac1eeea9bb71c",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2025-02-20T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

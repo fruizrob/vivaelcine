@@ -1,0 +1,102 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1240087?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:44.726Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1240087,
+    "imdb_id": "tt21843330",
+    "origin_country": [
+      "RO"
+    ],
+    "original_language": "en",
+    "original_title": "Rural Rumor",
+    "overview": "",
+    "popularity": 0.1414,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 219907,
+        "logo_path": null,
+        "name": "buro bocage",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "RO",
+        "name": "Romania"
+      }
+    ],
+    "release_date": "2022-09-15",
+    "revenue": 0,
+    "runtime": 28,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rural Rumor",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4516495,
+          "known_for_department": "Directing",
+          "name": "Antoine Alesandrini",
+          "original_name": "Antoine Alesandrini",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "65be8764931ea101639aaa8b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2660255,
+          "known_for_department": "Directing",
+          "name": "Chrystele Nicot",
+          "original_name": "Chrystele Nicot",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "65be8752ba480201826a853d",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "RO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ro",
+              "note": "",
+              "release_date": "2022-09-15T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

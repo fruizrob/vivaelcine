@@ -1,0 +1,674 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1187414?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:18.219Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/vKcEW4JF34ii0mU4kDDwKZzhRWe.jpg",
+    "belongs_to_collection": null,
+    "budget": 118000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "id": 1187414,
+    "imdb_id": "tt11326796",
+    "origin_country": [
+      "FI",
+      "MX"
+    ],
+    "original_language": "en",
+    "original_title": "About the Beginning",
+    "overview": "",
+    "popularity": 0.7967,
+    "poster_path": "/aYAOg7fyu1jUNGtIEqGsn2TkSaV.jpg",
+    "production_companies": [
+      {
+        "id": 210222,
+        "logo_path": null,
+        "name": "Fearless Pinecone",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FI",
+        "name": "Finland"
+      },
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2023-10-28",
+    "revenue": 0,
+    "runtime": 85,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "About the Beginning",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1499890,
+          "known_for_department": "Directing",
+          "name": "Arnolda Noir",
+          "original_name": "Arnolda Noir",
+          "popularity": 0.2621,
+          "profile_path": "/1tbZx4SD4sjM3146JGUmiKa2gRL.jpg",
+          "cast_id": 1,
+          "character": "Anna",
+          "credit_id": "651da894a097dc0100439bf3",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1067829,
+          "known_for_department": "Acting",
+          "name": "Frano Mašković",
+          "original_name": "Frano Mašković",
+          "popularity": 0.2705,
+          "profile_path": "/xRQmyo98j8vhlPur8nkfvfOMv97.jpg",
+          "cast_id": 2,
+          "character": "Goran",
+          "credit_id": "651da8a25b124000e3d2709d",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4305453,
+          "known_for_department": "Acting",
+          "name": "Armando Alvarado",
+          "original_name": "Armando Alvarado",
+          "popularity": 0.109,
+          "profile_path": "/jhmeP2CeKihhzy6BcNBIOsUSvpd.jpg",
+          "cast_id": 3,
+          "character": "Armando",
+          "credit_id": "651da8b4ea84c700aeebfde8",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4305456,
+          "known_for_department": "Acting",
+          "name": "César Julio Ortega",
+          "original_name": "César Julio Ortega",
+          "popularity": 0.1561,
+          "profile_path": "/k98NZyhtVk3NtIVv2T9Qnay2qKL.jpg",
+          "cast_id": 4,
+          "character": "H",
+          "credit_id": "651da8c9072166011c036f0e",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4305458,
+          "known_for_department": "Acting",
+          "name": "Pau Zabaleta",
+          "original_name": "Pau Zabaleta",
+          "popularity": 0.2216,
+          "profile_path": "/5z0MN1Gx1yQculvQ6UxIw1jUNY4.jpg",
+          "cast_id": 5,
+          "character": "Alexandre",
+          "credit_id": "651da8fb967cc73425f2684f",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1637760,
+          "known_for_department": "Acting",
+          "name": "Jaakko Kiljunen",
+          "original_name": "Jaakko Kiljunen",
+          "popularity": 0.3811,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Jaakko",
+          "credit_id": "651da912c50ad2012c1b50d8",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3143951,
+          "known_for_department": "Acting",
+          "name": "Will Stauff",
+          "original_name": "Will Stauff",
+          "popularity": 0.6358,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Kosjeric (Voice)",
+          "credit_id": "651da9453d355700adb4e7d3",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4308305,
+          "known_for_department": "Acting",
+          "name": "Milan Milosavljević",
+          "original_name": "Milan Milosavljević",
+          "popularity": 0.2002,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Graffiti Artist",
+          "credit_id": "6520204fc50ad2012c1c6784",
+          "order": 7
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3579691,
+          "known_for_department": "Directing",
+          "name": "Amulio José Espinosa",
+          "original_name": "Amulio José Espinosa",
+          "popularity": 0.5712,
+          "profile_path": "/6xBUmY2yRXJXNsTNDM69UVrgQsY.jpg",
+          "credit_id": "651da95b8c22c000c908ade4",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3579691,
+          "known_for_department": "Directing",
+          "name": "Amulio José Espinosa",
+          "original_name": "Amulio José Espinosa",
+          "popularity": 0.5712,
+          "profile_path": "/6xBUmY2yRXJXNsTNDM69UVrgQsY.jpg",
+          "credit_id": "65201e273d3557011c0106c2",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3579691,
+          "known_for_department": "Directing",
+          "name": "Amulio José Espinosa",
+          "original_name": "Amulio José Espinosa",
+          "popularity": 0.5712,
+          "profile_path": "/6xBUmY2yRXJXNsTNDM69UVrgQsY.jpg",
+          "credit_id": "65201fb574507d00e21189dd",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4308313,
+          "known_for_department": "Sound",
+          "name": "Juan Carlos Flores Santamaría",
+          "original_name": "Juan Carlos Flores Santamaría",
+          "popularity": 0.6318,
+          "profile_path": null,
+          "credit_id": "652022fd967cc73429602b27",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2067193,
+          "known_for_department": "Editing",
+          "name": "Pablo Betancourt",
+          "original_name": "Pablo Betancourt",
+          "popularity": 0.333,
+          "profile_path": null,
+          "credit_id": "6520231b74507d00ac48ad00",
+          "department": "Sound",
+          "job": "Sound Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4308313,
+          "known_for_department": "Sound",
+          "name": "Juan Carlos Flores Santamaría",
+          "original_name": "Juan Carlos Flores Santamaría",
+          "popularity": 0.6318,
+          "profile_path": null,
+          "credit_id": "652022223d355700c5f39df2",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2067193,
+          "known_for_department": "Editing",
+          "name": "Pablo Betancourt",
+          "original_name": "Pablo Betancourt",
+          "popularity": 0.333,
+          "profile_path": null,
+          "credit_id": "65202256c50ad200ad83fc72",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4308314,
+          "known_for_department": "Sound",
+          "name": "Diego Betancourt",
+          "original_name": "Diego Betancourt",
+          "popularity": 0.8005,
+          "profile_path": null,
+          "credit_id": "6520228507216600e2d94a11",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4308318,
+          "known_for_department": "Sound",
+          "name": "Adriana Santiago",
+          "original_name": "Adriana Santiago",
+          "popularity": 0.1006,
+          "profile_path": null,
+          "credit_id": "652022e75b124001004e5f67",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3218984,
+          "known_for_department": "Directing",
+          "name": "Max Fernandez",
+          "original_name": "Max Fernandez",
+          "popularity": 0.6945,
+          "profile_path": "/8l6rm1Oy4tIzfoHQCndveeh2AxP.jpg",
+          "credit_id": "65201fec5b124000ad6909c1",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4308312,
+          "known_for_department": "Sound",
+          "name": "Antti Vuori",
+          "original_name": "Antti Vuori",
+          "popularity": 0.5048,
+          "profile_path": null,
+          "credit_id": "652021fb74507d00ff9932a5",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3218984,
+          "known_for_department": "Directing",
+          "name": "Max Fernandez",
+          "original_name": "Max Fernandez",
+          "popularity": 0.6945,
+          "profile_path": "/8l6rm1Oy4tIzfoHQCndveeh2AxP.jpg",
+          "credit_id": "65201f27c50ad200eac1af9a",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1698537,
+          "known_for_department": "Sound",
+          "name": "Pablo Mondragón",
+          "original_name": "Pablo Mondragón",
+          "popularity": 0.1773,
+          "profile_path": null,
+          "credit_id": "652022765b1240011d7df858",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1382672,
+          "known_for_department": "Directing",
+          "name": "Carlos Marroquin",
+          "original_name": "Carlos Marroquin",
+          "popularity": 0.3495,
+          "profile_path": "/shKjz5dUUwDLfAL0Kxnzny1E5TV.jpg",
+          "credit_id": "652020795b124000c6060088",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3579691,
+          "known_for_department": "Directing",
+          "name": "Amulio José Espinosa",
+          "original_name": "Amulio José Espinosa",
+          "popularity": 0.5712,
+          "profile_path": "/6xBUmY2yRXJXNsTNDM69UVrgQsY.jpg",
+          "credit_id": "652020913d355700ff62ba2e",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4308318,
+          "known_for_department": "Sound",
+          "name": "Adriana Santiago",
+          "original_name": "Adriana Santiago",
+          "popularity": 0.1006,
+          "profile_path": null,
+          "credit_id": "652022cc5b124000ad690b1d",
+          "department": "Sound",
+          "job": "Sound Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2067193,
+          "known_for_department": "Editing",
+          "name": "Pablo Betancourt",
+          "original_name": "Pablo Betancourt",
+          "popularity": 0.333,
+          "profile_path": null,
+          "credit_id": "6520232f07216600ff39101f",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3579691,
+          "known_for_department": "Directing",
+          "name": "Amulio José Espinosa",
+          "original_name": "Amulio José Espinosa",
+          "popularity": 0.5712,
+          "profile_path": "/6xBUmY2yRXJXNsTNDM69UVrgQsY.jpg",
+          "credit_id": "65202178c50ad2012c1c6812",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4305456,
+          "known_for_department": "Acting",
+          "name": "César Julio Ortega",
+          "original_name": "César Julio Ortega",
+          "popularity": 0.1561,
+          "profile_path": "/k98NZyhtVk3NtIVv2T9Qnay2qKL.jpg",
+          "credit_id": "652021893d3557011c010879",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1067829,
+          "known_for_department": "Acting",
+          "name": "Frano Mašković",
+          "original_name": "Frano Mašković",
+          "popularity": 0.2705,
+          "profile_path": "/xRQmyo98j8vhlPur8nkfvfOMv97.jpg",
+          "credit_id": "652025765b124001004e609c",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4305458,
+          "known_for_department": "Acting",
+          "name": "Pau Zabaleta",
+          "original_name": "Pau Zabaleta",
+          "popularity": 0.2216,
+          "profile_path": "/5z0MN1Gx1yQculvQ6UxIw1jUNY4.jpg",
+          "credit_id": "652025a7c50ad2014dd13957",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3579691,
+          "known_for_department": "Directing",
+          "name": "Amulio José Espinosa",
+          "original_name": "Amulio José Espinosa",
+          "popularity": 0.5712,
+          "profile_path": "/6xBUmY2yRXJXNsTNDM69UVrgQsY.jpg",
+          "credit_id": "652024fac50ad200eac1b20b",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3218984,
+          "known_for_department": "Directing",
+          "name": "Max Fernandez",
+          "original_name": "Max Fernandez",
+          "popularity": 0.6945,
+          "profile_path": "/8l6rm1Oy4tIzfoHQCndveeh2AxP.jpg",
+          "credit_id": "6520252c967cc734246a035c",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2232214,
+          "known_for_department": "Sound",
+          "name": "Maria Alejandra Rojas",
+          "original_name": "Maria Alejandra Rojas",
+          "popularity": 0.4294,
+          "profile_path": "/zoeXuL3EOciylI7oSj7VczYYPgq.jpg",
+          "credit_id": "652023d3967cc73427f494f9",
+          "department": "Sound",
+          "job": "Foley Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4308333,
+          "known_for_department": "Art",
+          "name": "Jocelyn Castañeda",
+          "original_name": "Jocelyn Castañeda",
+          "popularity": 0.2632,
+          "profile_path": null,
+          "credit_id": "6520248407216600ff3910ac",
+          "department": "Art",
+          "job": "Graphic Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4305456,
+          "known_for_department": "Acting",
+          "name": "César Julio Ortega",
+          "original_name": "César Julio Ortega",
+          "popularity": 0.1561,
+          "profile_path": "/k98NZyhtVk3NtIVv2T9Qnay2qKL.jpg",
+          "credit_id": "6520259a5b124001004e60be",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4308332,
+          "known_for_department": "Camera",
+          "name": "Tomaz Kos",
+          "original_name": "Tomaz Kos",
+          "popularity": 0.5472,
+          "profile_path": null,
+          "credit_id": "6520245574507d00e2118bfe",
+          "department": "Camera",
+          "job": "Still Photographer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4308327,
+          "known_for_department": "Sound",
+          "name": "Arantxa Oliver",
+          "original_name": "Arantxa Oliver",
+          "popularity": 0.3104,
+          "profile_path": null,
+          "credit_id": "652023ee5b1240013c7cd16a",
+          "department": "Sound",
+          "job": "Foley Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4305453,
+          "known_for_department": "Acting",
+          "name": "Armando Alvarado",
+          "original_name": "Armando Alvarado",
+          "popularity": 0.109,
+          "profile_path": "/jhmeP2CeKihhzy6BcNBIOsUSvpd.jpg",
+          "credit_id": "6520254374507d00ff99340d",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1382672,
+          "known_for_department": "Directing",
+          "name": "Carlos Marroquin",
+          "original_name": "Carlos Marroquin",
+          "popularity": 0.3495,
+          "profile_path": "/shKjz5dUUwDLfAL0Kxnzny1E5TV.jpg",
+          "credit_id": "652025603d355700e23ea8eb",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2834579,
+          "known_for_department": "Sound",
+          "name": "Arnulfo Flores Solares",
+          "original_name": "Arnulfo Flores Solares",
+          "popularity": 0.4387,
+          "profile_path": null,
+          "credit_id": "6520241bc50ad200eac1b197",
+          "department": "Sound",
+          "job": "Foley Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1499890,
+          "known_for_department": "Directing",
+          "name": "Arnolda Noir",
+          "original_name": "Arnolda Noir",
+          "popularity": 0.2621,
+          "profile_path": "/1tbZx4SD4sjM3146JGUmiKa2gRL.jpg",
+          "credit_id": "6520258674507d00e2118c74",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4308334,
+          "known_for_department": "Production",
+          "name": "Ona Sabrina Saarnisalo",
+          "original_name": "Ona Sabrina Saarnisalo",
+          "popularity": 0.2419,
+          "profile_path": "/7vgst3NnkzK3LvZzaC2jEfOy5OS.jpg",
+          "credit_id": "6520250707216600c56a1cda",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "EE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "IBEROFEST 2026",
+              "release_date": "2026-04-29T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FI",
+          "release_dates": [
+            {
+              "certification": "S",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "Official Selection in Cinemaissí Latin American Film Festival 2023",
+              "release_date": "2023-10-28T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "S",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "VUFF - Vantaa Urban Film Festival 2026",
+              "release_date": "2026-04-11T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "S",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "Orion Cinema Special Screening",
+              "release_date": "2026-05-02T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "MX",
+          "title": "Acerca del Inicio",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

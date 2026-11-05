@@ -1,0 +1,135 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/545591?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:45.251Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 545591,
+    "imdb_id": "tt4966060",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Rumor from Ground Control",
+    "overview": "",
+    "popularity": 0.5314,
+    "poster_path": "/1CNJY7O45XQ3oA2krqWAxqeh0oc.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2018-08-28",
+    "revenue": 0,
+    "runtime": 86,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rumor from Ground Control",
+    "video": false,
+    "vote_average": 3,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12226,
+          "known_for_department": "Acting",
+          "name": "Michael B. Silver",
+          "original_name": "Michael B. Silver",
+          "popularity": 0.8418,
+          "profile_path": null,
+          "cast_id": 0,
+          "character": "Baxter",
+          "credit_id": "5b88882fc3a3682e58000f53",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1368475,
+          "known_for_department": "Acting",
+          "name": "Peter Gardner",
+          "original_name": "Peter Gardner",
+          "popularity": 0.3872,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Sam",
+          "credit_id": "5b88883d9251414ce300173c",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 54706,
+          "known_for_department": "Acting",
+          "name": "Charley Rossman",
+          "original_name": "Charley Rossman",
+          "popularity": 0.4888,
+          "profile_path": "/c9AAKS6KBxD71DnO2qGyVqmicV2.jpg",
+          "cast_id": 2,
+          "character": "Don",
+          "credit_id": "5b8888490e0a2679b100133a",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1511170,
+          "known_for_department": "Acting",
+          "name": "Megan Le",
+          "original_name": "Megan Le",
+          "popularity": 0.8615,
+          "profile_path": "/5WIQmIMgEqSo3w69TiDoUKehae8.jpg",
+          "cast_id": 3,
+          "character": "Karen",
+          "credit_id": "5b8888600e0a2679a8001a7d",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1975791,
+          "known_for_department": "Editing",
+          "name": "Seaton Lin",
+          "original_name": "Seaton Lin",
+          "popularity": 0.4201,
+          "profile_path": null,
+          "credit_id": "5b8888789251414cea001946",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-08-28T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

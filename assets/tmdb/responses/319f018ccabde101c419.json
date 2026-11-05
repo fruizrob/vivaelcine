@@ -1,0 +1,117 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/706550?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:17.474Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 706550,
+    "imdb_id": "tt14569364",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Replica",
+    "overview": "",
+    "popularity": 0.1439,
+    "poster_path": "/hWnnF0auGYXzdNdTmIccJBuhbTH.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2020-07-09",
+    "revenue": 0,
+    "runtime": 13,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Replica",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2758054,
+          "known_for_department": "Acting",
+          "name": "Olivia Matas",
+          "original_name": "Olivia Matas",
+          "popularity": 0.1356,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Woman",
+          "credit_id": "5f4903fba2e6020033f41702",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1543018,
+          "known_for_department": "Directing",
+          "name": "Álvaro de la Hoz",
+          "original_name": "Álvaro de la Hoz",
+          "popularity": 0.1188,
+          "profile_path": null,
+          "credit_id": "5ec55ca2ae2811002039fd96",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "검색결과 웹 검색결과  24th Bucheon International Fantastic Film Festival",
+              "release_date": "2020-07-09T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "(virtual cinema) (BRUKIVKA International Film Festival) ",
+              "release_date": "2020-05-16T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

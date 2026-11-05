@@ -1,0 +1,146 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/824116?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:03.467Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/xBanFTlgjOrg84BXR2EDiyjaM0F.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "id": 824116,
+    "imdb_id": null,
+    "origin_country": [
+      "US",
+      "AU"
+    ],
+    "original_language": "en",
+    "original_title": "The Unboxing Video",
+    "overview": "",
+    "popularity": 0.2868,
+    "poster_path": "/biGNfaM47cTuzJmFAprSMeOFszX.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      }
+    ],
+    "release_date": "2021-01-06",
+    "revenue": 0,
+    "runtime": 12,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Unboxing Video",
+    "video": false,
+    "vote_average": 2,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1548250,
+          "known_for_department": "Writing",
+          "name": "Scott Pickett",
+          "original_name": "Scott Pickett",
+          "popularity": 0.1723,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "James, Replicant 1.0",
+          "credit_id": "608af49920af770029246500",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 61344,
+          "known_for_department": "Acting",
+          "name": "Fiona Press",
+          "original_name": "Fiona Press",
+          "popularity": 0.4513,
+          "profile_path": "/1sJHossy4SCi1jYG0zGdbr3rYPq.jpg",
+          "cast_id": 3,
+          "character": "Mum",
+          "credit_id": "608af4b267e0f70040523db3",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3072472,
+          "known_for_department": "Acting",
+          "name": "Patrick Chambers",
+          "original_name": "Patrick Chambers",
+          "popularity": 0.1802,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Delivery",
+          "credit_id": "608af4d00835470078ed5e4e",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1548250,
+          "known_for_department": "Writing",
+          "name": "Scott Pickett",
+          "original_name": "Scott Pickett",
+          "popularity": 0.1723,
+          "profile_path": null,
+          "credit_id": "608af42071ffdf0056614f9c",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1548250,
+          "known_for_department": "Writing",
+          "name": "Scott Pickett",
+          "original_name": "Scott Pickett",
+          "popularity": 0.1723,
+          "profile_path": null,
+          "credit_id": "608af55266469a00716df9dd",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2021-01-06T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

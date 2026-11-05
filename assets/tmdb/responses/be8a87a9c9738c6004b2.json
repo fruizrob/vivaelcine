@@ -1,0 +1,707 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/382751?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:52.172Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/yHsl5iMiQ1FNG1cygye53SxaMGy.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "id": 382751,
+    "imdb_id": "tt5140182",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Junction 48",
+    "overview": "Describe la vida del joven Kareem en un barrio marginal de Lod, ciudad judeo-árabe próxima a Tel Aviv, donde campa la delincuencia. A Kareem no le falta el afecto de sus padres músicos, quienes se preocupan constantemente por el rumbo que toma la vida de su hijo. Kareem se derrumba cuando su padre muere en un accidente de tráfico.",
+    "popularity": 0.8515,
+    "poster_path": "/xoCa0btnQ5Y5MKZ0gAmeWQGmMo8.jpg",
+    "production_companies": [
+      {
+        "id": 56947,
+        "logo_path": null,
+        "name": "Blackbird Films",
+        "origin_country": ""
+      },
+      {
+        "id": 6475,
+        "logo_path": "/mYl70mLGBYjx56NRJfGLaL1DgE3.png",
+        "name": "Metro Communications",
+        "origin_country": "IL"
+      },
+      {
+        "id": 16,
+        "logo_path": "/7690NQfOfnbvrY3vFgyMO2Pc8WS.png",
+        "name": "United King Films",
+        "origin_country": "IL"
+      },
+      {
+        "id": 96,
+        "logo_path": "/9ps82gVzUeNdkjmLzoGDQLiLDio.png",
+        "name": "X Filme Creative Pool",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "IL",
+        "name": "Israel"
+      }
+    ],
+    "release_date": "2016-04-15",
+    "revenue": 0,
+    "runtime": 97,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hebrew",
+        "iso_639_1": "he",
+        "name": "עִבְרִית"
+      },
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Cruce 48",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 15,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1268445,
+          "known_for_department": "Acting",
+          "name": "Salwa Nakkara",
+          "original_name": "Salwa Nakkara",
+          "popularity": 1.0538,
+          "profile_path": "/kzYkdo8P6WeBPsME8owxSLxMvuf.jpg",
+          "cast_id": 23,
+          "character": "Kareem's Mother",
+          "credit_id": "570ede58c3a3685373000cb2",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1605446,
+          "known_for_department": "Writing",
+          "name": "Tamer Nafar",
+          "original_name": "Tamer Nafar",
+          "popularity": 0.1477,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Kareem",
+          "credit_id": "570ede20c3a368538b000e08",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1605452,
+          "known_for_department": "Acting",
+          "name": "سمر قبطي",
+          "original_name": "سمر قبطي",
+          "popularity": 0.8223,
+          "profile_path": "/g9QhRQCpByoVwkHaUO3gzMMKMt2.jpg",
+          "cast_id": 22,
+          "character": "Manar",
+          "credit_id": "570ede4092514102b9000d40",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1605453,
+          "known_for_department": "Acting",
+          "name": "Ayed Fadel",
+          "original_name": "Ayed Fadel",
+          "popularity": 0.5411,
+          "profile_path": null,
+          "cast_id": 24,
+          "character": "Hussam",
+          "credit_id": "570ede7c92514102bc000be8",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1605454,
+          "known_for_department": "Acting",
+          "name": "Sameh 'Saz' Zakout",
+          "original_name": "Sameh 'Saz' Zakout",
+          "popularity": 0.1181,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "Amir",
+          "credit_id": "570ede92c3a368538b000e3a",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1605455,
+          "known_for_department": "Acting",
+          "name": "Saeed Dassuki",
+          "original_name": "Saeed Dassuki",
+          "popularity": 0.4436,
+          "profile_path": null,
+          "cast_id": 26,
+          "character": "Talal",
+          "credit_id": "570edea3c3a3685370000e03",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1968410,
+          "known_for_department": "Acting",
+          "name": "Adeeb Safadi",
+          "original_name": "Adeeb Safadi",
+          "popularity": 0.2285,
+          "profile_path": null,
+          "cast_id": 27,
+          "character": "Yousef",
+          "credit_id": "68acca4641a01cf59e8d2792",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 53099,
+          "known_for_department": "Acting",
+          "name": "Tarik Kopty",
+          "original_name": "Tarik Kopty",
+          "popularity": 0.302,
+          "profile_path": "/xYvFGN3yKnJZjLZdN5PKlWWticO.jpg",
+          "cast_id": 28,
+          "character": "Abu-Talal",
+          "credit_id": "68acca519f35787c88a9acfc",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1298093,
+          "known_for_department": "Acting",
+          "name": "הישאם סולימאן",
+          "original_name": "הישאם סולימאן",
+          "popularity": 0.6925,
+          "profile_path": "/vEV148sh5N8ZEeK7EtptNYxzJ7D.jpg",
+          "cast_id": 29,
+          "character": "Sheikh",
+          "credit_id": "68accaa368d62872b38d279b",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5649221,
+          "known_for_department": "Acting",
+          "name": "Maryam Abu Khaled",
+          "original_name": "Maryam Abu Khaled",
+          "popularity": 0.1276,
+          "profile_path": null,
+          "cast_id": 30,
+          "character": "Mariam",
+          "credit_id": "68accab4dfa562a3e2548945",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 110359,
+          "known_for_department": "Acting",
+          "name": "מיכאל מושונוב",
+          "original_name": "מיכאל מושונוב",
+          "popularity": 0.6221,
+          "profile_path": "/4VsXjL3CnIgky2KwR5JxLTxudXj.jpg",
+          "cast_id": 31,
+          "character": "RPG",
+          "credit_id": "68accabd0217ddf7dc548b83",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1079533,
+          "known_for_department": "Acting",
+          "name": "Maisa Abd Elhadi",
+          "original_name": "ميساء عبد الهادي",
+          "popularity": 0.8258,
+          "profile_path": "/oB1GjX3FcVjvmFa4casNGc7XR6f.jpg",
+          "cast_id": 32,
+          "character": "Lawyer",
+          "credit_id": "68accac925106622de7826de",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1800142,
+          "known_for_department": "Acting",
+          "name": "Byan Anteer",
+          "original_name": "Byan Anteer",
+          "popularity": 0.6772,
+          "profile_path": null,
+          "cast_id": 33,
+          "character": "Abu-Kareem",
+          "credit_id": "68accadc4a076878a8670a11",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3120517,
+          "known_for_department": "Acting",
+          "name": "Ghassan Ashkar",
+          "original_name": "Ghassan Ashkar",
+          "popularity": 0.2436,
+          "profile_path": null,
+          "cast_id": 34,
+          "character": "Rashid",
+          "credit_id": "68accb4659474a61271e5367",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5649224,
+          "known_for_department": "Acting",
+          "name": "Shirli Buganim",
+          "original_name": "Shirli Buganim",
+          "popularity": 0.1002,
+          "profile_path": null,
+          "cast_id": 35,
+          "character": "TV Host",
+          "credit_id": "68accb5443d900a450a9a8f5",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5649225,
+          "known_for_department": "Acting",
+          "name": "Elizabeth Gilboa",
+          "original_name": "Elizabeth Gilboa",
+          "popularity": 0.1272,
+          "profile_path": null,
+          "cast_id": 36,
+          "character": "Jewish mother",
+          "credit_id": "68accb61b83ab1b9c7670b84",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5649226,
+          "known_for_department": "Acting",
+          "name": "Avishag Kahalani",
+          "original_name": "Avishag Kahalani",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 37,
+          "character": "Naima Daughter",
+          "credit_id": "68accb712cf904ae89a9a89b",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3752738,
+          "known_for_department": "Acting",
+          "name": "Yasmin Lavie",
+          "original_name": "Yasmin Lavie",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 38,
+          "character": "Tali",
+          "credit_id": "68accba9bdd4f40c236cef83",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2271445,
+          "known_for_department": "Acting",
+          "name": "Mahmoud More",
+          "original_name": "Mahmoud More",
+          "popularity": 0.1207,
+          "profile_path": null,
+          "cast_id": 39,
+          "character": "Sami",
+          "credit_id": "68accbbac6eff2f62ca9a7a3",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5649228,
+          "known_for_department": "Acting",
+          "name": "Adiv Sfadi",
+          "original_name": "Adiv Sfadi",
+          "popularity": 0.0925,
+          "profile_path": null,
+          "cast_id": 40,
+          "character": "Yusuf",
+          "credit_id": "68accbc83c99df3eaa4491c6",
+          "order": 19
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 99665,
+          "known_for_department": "Production",
+          "name": "Lawrence Inglee",
+          "original_name": "Lawrence Inglee",
+          "popularity": 0.3805,
+          "profile_path": "/3NGAGm36qXcu7THf0rXbtUNidxA.jpg",
+          "credit_id": "570edbf4c3a3685373000c1d",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 53094,
+          "known_for_department": "Production",
+          "name": "David Silber",
+          "original_name": "David Silber",
+          "popularity": 0.1359,
+          "profile_path": null,
+          "credit_id": "570edc12925141118b000ca8",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1617,
+          "known_for_department": "Production",
+          "name": "James Schamus",
+          "original_name": "James Schamus",
+          "popularity": 0.7292,
+          "profile_path": "/a19sHOYYuXMJQPryiX0AKCPTXaR.jpg",
+          "credit_id": "570edb33925141523e00052c",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 34110,
+          "known_for_department": "Writing",
+          "name": "Oren Moverman",
+          "original_name": "Oren Moverman",
+          "popularity": 0.5355,
+          "profile_path": "/40C07hmGi2n7VZTc7DyTsZQFsLK.jpg",
+          "credit_id": "570edb4cc3a3685385000d8c",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 330,
+          "known_for_department": "Editing",
+          "name": "Jay Rabinowitz",
+          "original_name": "Jay Rabinowitz",
+          "popularity": 0.3087,
+          "profile_path": null,
+          "credit_id": "570edcc0c3a368537d000d50",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1532264,
+          "known_for_department": "Production",
+          "name": "Susan Wrubel",
+          "original_name": "Susan Wrubel",
+          "popularity": 0.2215,
+          "profile_path": null,
+          "credit_id": "570edba6c3a3685369000f82",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1605449,
+          "known_for_department": "Sound",
+          "name": "Itamar Ziegler",
+          "original_name": "Itamar Ziegler",
+          "popularity": 0.105,
+          "profile_path": null,
+          "credit_id": "570edce292514102b6000ef0",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1183421,
+          "known_for_department": "Production",
+          "name": "Eyal Rimmon",
+          "original_name": "Eyal Rimmon",
+          "popularity": 0.3431,
+          "profile_path": null,
+          "credit_id": "570edbd2c3a368537d000d27",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1605446,
+          "known_for_department": "Writing",
+          "name": "Tamer Nafar",
+          "original_name": "Tamer Nafar",
+          "popularity": 0.1477,
+          "profile_path": null,
+          "credit_id": "570edcee92514102b3000cc8",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 53092,
+          "known_for_department": "Production",
+          "name": "Moshe Edery",
+          "original_name": "Moshe Edery",
+          "popularity": 0.3357,
+          "profile_path": null,
+          "credit_id": "570edb60c3a3685373000c04",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1398473,
+          "known_for_department": "Camera",
+          "name": "Amnon Zlayet",
+          "original_name": "Amnon Zlayet",
+          "popularity": 0.308,
+          "profile_path": "/v6zEZ21Y9Dx5UFxIAy6VCKRPTai.jpg",
+          "credit_id": "570edc89c3a368537d000d40",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1605450,
+          "known_for_department": "Art",
+          "name": "Salim Shehade",
+          "original_name": "Salim Shehade",
+          "popularity": 0.126,
+          "profile_path": null,
+          "credit_id": "570edd08c3a368538b000db4",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1113566,
+          "known_for_department": "Production",
+          "name": "Michael J. Mailis",
+          "original_name": "Michael J. Mailis",
+          "popularity": 0.1792,
+          "profile_path": null,
+          "credit_id": "570edbb892514102bc000b61",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1073,
+          "known_for_department": "Production",
+          "name": "Stefan Arndt",
+          "original_name": "Stefan Arndt",
+          "popularity": 0.6187,
+          "profile_path": "/9US9mDEfUXF6I8bnORJRtPGw82W.jpg",
+          "credit_id": "570edc01c3a3685378000ce9",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1485547,
+          "known_for_department": "Production",
+          "name": "Gideon Tadmor",
+          "original_name": "Gideon Tadmor",
+          "popularity": 0.2818,
+          "profile_path": null,
+          "credit_id": "570edb7fc3a3685385000d9d",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 53093,
+          "known_for_department": "Production",
+          "name": "Leon Edery",
+          "original_name": "Leon Edery",
+          "popularity": 0.3197,
+          "profile_path": null,
+          "credit_id": "570edb93c3a3685373000c0f",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1350832,
+          "known_for_department": "Directing",
+          "name": "Udi Aloni",
+          "original_name": "Udi Aloni",
+          "popularity": 0.3451,
+          "profile_path": null,
+          "credit_id": "570edbe8c3a3685370000d4b",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1350832,
+          "known_for_department": "Directing",
+          "name": "Udi Aloni",
+          "original_name": "Udi Aloni",
+          "popularity": 0.3451,
+          "profile_path": null,
+          "credit_id": "570edad192514102bf000c60",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 68075,
+          "known_for_department": "Editing",
+          "name": "Isaac Sehayek",
+          "original_name": "Isaac Sehayek",
+          "popularity": 0.1427,
+          "profile_path": null,
+          "credit_id": "570edcaa925141523e00055b",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 34110,
+          "known_for_department": "Writing",
+          "name": "Oren Moverman",
+          "original_name": "Oren Moverman",
+          "popularity": 0.5355,
+          "profile_path": "/40C07hmGi2n7VZTc7DyTsZQFsLK.jpg",
+          "credit_id": "6a79a3db3a69574246f57a85",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1605446,
+          "known_for_department": "Writing",
+          "name": "Tamer Nafar",
+          "original_name": "Tamer Nafar",
+          "popularity": 0.1477,
+          "profile_path": null,
+          "credit_id": "6a79a3df91f9ec00f65f9868",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Berlin International Film Festival",
+              "release_date": "2016-02-13T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2017-01-19T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Palm Springs International Film Festival",
+              "release_date": "2017-01-07T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Tribeca Film Festival",
+              "release_date": "2016-04-15T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "SA",
+          "title": "مفرق 48",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

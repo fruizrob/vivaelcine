@@ -1,0 +1,416 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/434510?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:17.945Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 7000,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 434510,
+    "imdb_id": "tt0374170",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Replica",
+    "overview": "",
+    "popularity": 1.4924,
+    "poster_path": "/sw1xy2IvkkSemEKAGYkVY1gRfpL.jpg",
+    "production_companies": [
+      {
+        "id": 23390,
+        "logo_path": null,
+        "name": "Moviehead Pictures",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2005-04-01",
+    "revenue": 0,
+    "runtime": 66,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Replica",
+    "video": false,
+    "vote_average": 3.7,
+    "vote_count": 11,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1737970,
+          "known_for_department": "Acting",
+          "name": "John David Braddock",
+          "original_name": "John David Braddock",
+          "popularity": 0.2572,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Joe Thomas",
+          "credit_id": "58782dbd92514178530017e4",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1737972,
+          "known_for_department": "Acting",
+          "name": "Lana Dykstra",
+          "original_name": "Lana Dykstra",
+          "popularity": 0.1225,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Dr. Evelyn Tyler",
+          "credit_id": "58782dd6c3a3683ed70016b1",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1757490,
+          "known_for_department": "Acting",
+          "name": "Rick Campos",
+          "original_name": "Rick Campos",
+          "popularity": 0.3069,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Dr. G",
+          "credit_id": "58a2cd18c3a368292a004fcd",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1376429,
+          "known_for_department": "Camera",
+          "name": "David Nguyen",
+          "original_name": "David Nguyen",
+          "popularity": 0.3052,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Detective Lee",
+          "credit_id": "58a2cd75c3a368295d005233",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1757495,
+          "known_for_department": "Writing",
+          "name": "Steve Mckoy",
+          "original_name": "Steve Mckoy",
+          "popularity": 0.4485,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Sales Manager",
+          "credit_id": "58a2ce079251415387005114",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1757496,
+          "known_for_department": "Acting",
+          "name": "Lee Boren",
+          "original_name": "Lee Boren",
+          "popularity": 0.28,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Product Manager",
+          "credit_id": "58a2ce3dc3a368295d0052a7",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 123695,
+          "known_for_department": "Directing",
+          "name": "James Nguyen",
+          "original_name": "James Nguyen",
+          "popularity": 0.4402,
+          "profile_path": "/hg8oAnnnf5jrhotyX69390yirsq.jpg",
+          "cast_id": 8,
+          "character": "Himself",
+          "credit_id": "58a2ce77925141538b005349",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1062435,
+          "known_for_department": "Acting",
+          "name": "Robert Anthony Peters",
+          "original_name": "Robert Anthony Peters",
+          "popularity": 0.5805,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Lab Tech / Hitman",
+          "credit_id": "58a2cf0492514153870051be",
+          "order": 7
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1322572,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Julei Anderson",
+          "original_name": "Julei Anderson",
+          "popularity": 0.1308,
+          "profile_path": null,
+          "credit_id": "65b20766fd140b00e8a06f93",
+          "department": "Costume & Make-Up",
+          "job": "Costume Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 123695,
+          "known_for_department": "Directing",
+          "name": "James Nguyen",
+          "original_name": "James Nguyen",
+          "popularity": 0.4402,
+          "profile_path": "/hg8oAnnnf5jrhotyX69390yirsq.jpg",
+          "credit_id": "58768242c3a3682d2b000883",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 123695,
+          "known_for_department": "Directing",
+          "name": "James Nguyen",
+          "original_name": "James Nguyen",
+          "popularity": 0.4402,
+          "profile_path": "/hg8oAnnnf5jrhotyX69390yirsq.jpg",
+          "credit_id": "58782d69925141785a001771",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 123695,
+          "known_for_department": "Directing",
+          "name": "James Nguyen",
+          "original_name": "James Nguyen",
+          "popularity": 0.4402,
+          "profile_path": "/hg8oAnnnf5jrhotyX69390yirsq.jpg",
+          "credit_id": "58a2d810c3a368291d005414",
+          "department": "Lighting",
+          "job": "Lighting Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1757524,
+          "known_for_department": "Art",
+          "name": "Tom Patrick",
+          "original_name": "Tom Patrick",
+          "popularity": 0.1008,
+          "profile_path": null,
+          "credit_id": "58a2d9cfc3a36829410060af",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1757514,
+          "known_for_department": "Sound",
+          "name": "Kim Il Chow",
+          "original_name": "Kim Il Chow",
+          "popularity": 0.1119,
+          "profile_path": null,
+          "credit_id": "58a2d728925141538b0058ad",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 123695,
+          "known_for_department": "Directing",
+          "name": "James Nguyen",
+          "original_name": "James Nguyen",
+          "popularity": 0.4402,
+          "profile_path": "/hg8oAnnnf5jrhotyX69390yirsq.jpg",
+          "credit_id": "58a2d9ebc3a368295d0059fa",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1757510,
+          "known_for_department": "Sound",
+          "name": "Miguel Campos",
+          "original_name": "Miguel Campos",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "58a2d5e0c3a36829540056c8",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1757513,
+          "known_for_department": "Crew",
+          "name": "Alex Smith",
+          "original_name": "Alex Smith",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "58a2d66192514153830059d2",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1757514,
+          "known_for_department": "Sound",
+          "name": "Kim Il Chow",
+          "original_name": "Kim Il Chow",
+          "popularity": 0.1119,
+          "profile_path": null,
+          "credit_id": "58a2d7d792514153870056ef",
+          "department": "Sound",
+          "job": "Sound Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 123695,
+          "known_for_department": "Directing",
+          "name": "James Nguyen",
+          "original_name": "James Nguyen",
+          "popularity": 0.4402,
+          "profile_path": "/hg8oAnnnf5jrhotyX69390yirsq.jpg",
+          "credit_id": "58a2da3692514153a2005b79",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1757523,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Marla Chand",
+          "original_name": "Marla Chand",
+          "popularity": 0.095,
+          "profile_path": null,
+          "credit_id": "58a2d98a925141539b005764",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1757517,
+          "known_for_department": "Sound",
+          "name": "Jack Chan",
+          "original_name": "Jack Chan",
+          "popularity": 0.11,
+          "profile_path": null,
+          "credit_id": "58a2d892c3a368292a005685",
+          "department": "Sound",
+          "job": "Boom Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1757516,
+          "known_for_department": "Visual Effects",
+          "name": "Tom Newby",
+          "original_name": "Tom Newby",
+          "popularity": 0.0961,
+          "profile_path": null,
+          "credit_id": "58a2d7ae92514153870056d1",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 123695,
+          "known_for_department": "Directing",
+          "name": "James Nguyen",
+          "original_name": "James Nguyen",
+          "popularity": 0.4402,
+          "profile_path": "/hg8oAnnnf5jrhotyX69390yirsq.jpg",
+          "credit_id": "58a2d742c3a368291d00537a",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1757516,
+          "known_for_department": "Visual Effects",
+          "name": "Tom Newby",
+          "original_name": "Tom Newby",
+          "popularity": 0.0961,
+          "profile_path": null,
+          "credit_id": "58a2d783925141537f00597d",
+          "department": "Visual Effects",
+          "job": "Visual Effects"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2005-04-01T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

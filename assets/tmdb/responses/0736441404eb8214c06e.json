@@ -1,0 +1,164 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/955262?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:36.722Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 955262,
+    "imdb_id": "tt0291251",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "How We Stopped the War",
+    "overview": "",
+    "popularity": 0.4465,
+    "poster_path": "/wM4aG5i0eZSSmDXX5Ta7Uv0v13P.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1969-01-01",
+    "revenue": 0,
+    "runtime": 28,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "How We Stopped the War",
+    "video": false,
+    "vote_average": 9,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1120065,
+          "known_for_department": "Acting",
+          "name": "Bruce Barthol",
+          "original_name": "Bruce Barthol",
+          "popularity": 0.3137,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Self",
+          "credit_id": "6240b11197a4e60047a02cbc",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1120066,
+          "known_for_department": "Acting",
+          "name": "David Cohen",
+          "original_name": "David Cohen",
+          "popularity": 0.3099,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Self",
+          "credit_id": "6240b126c616ac009113ec16",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1120067,
+          "known_for_department": "Acting",
+          "name": "Chicken Hirsh",
+          "original_name": "Chicken Hirsh",
+          "popularity": 0.2965,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Self",
+          "credit_id": "6240b1349451e7008c8f685d",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1120068,
+          "known_for_department": "Acting",
+          "name": "Country Joe McDonald",
+          "original_name": "Country Joe McDonald",
+          "popularity": 0.2159,
+          "profile_path": "/bkO0EbSV0gTq3lvwMQpOGTIhujp.jpg",
+          "cast_id": 5,
+          "character": "Self",
+          "credit_id": "6240b1430f365500966054ec",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1120069,
+          "known_for_department": "Acting",
+          "name": "Barry Melton",
+          "original_name": "Barry Melton",
+          "popularity": 0.3933,
+          "profile_path": "/u3h7SzOmWGWR17gmEWqXvTAjbbE.jpg",
+          "cast_id": 6,
+          "character": "Self",
+          "credit_id": "6240b1529451e700497e36b1",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 7191,
+          "known_for_department": "Writing",
+          "name": "David Webb Peoples",
+          "original_name": "David Webb Peoples",
+          "popularity": 0.8925,
+          "profile_path": "/rK1eEwQ60MN7CkPbzxSeQPE8mmi.jpg",
+          "credit_id": "6240b0d85f2b8d008bf82734",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "1969-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

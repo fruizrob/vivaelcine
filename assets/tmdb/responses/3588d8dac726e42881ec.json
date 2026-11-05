@@ -1,0 +1,350 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1248866?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:40.763Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1248866,
+    "imdb_id": "tt0309657",
+    "origin_country": [
+      "DE",
+      "LI"
+    ],
+    "original_language": "de",
+    "original_title": "Happening in Weiß",
+    "overview": "",
+    "popularity": 0.6339,
+    "poster_path": "/vGNpw5wzgTXVuEHFqIVdQYUmytV.jpg",
+    "production_companies": [
+      {
+        "id": 221990,
+        "logo_path": null,
+        "name": "Meridian Film",
+        "origin_country": "LI"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "LI",
+        "name": "Liechtenstein"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "1969-11-01",
+    "revenue": 0,
+    "runtime": 47,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Happening in Weiß",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4561993,
+          "known_for_department": "Acting",
+          "name": "Nino Bibbia",
+          "original_name": "Nino Bibbia",
+          "popularity": 0.1734,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "",
+          "credit_id": "65de7978109cd0018719d83b",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2188028,
+          "known_for_department": "Acting",
+          "name": "Arthur Furrer",
+          "original_name": "Arthur Furrer",
+          "popularity": 0.2046,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "",
+          "credit_id": "65de798fb39e3501862f3299",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4561994,
+          "known_for_department": "Acting",
+          "name": "Hermann Göllner",
+          "original_name": "Hermann Göllner",
+          "popularity": 0.2592,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "",
+          "credit_id": "65de79c6109cd0016419d02b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4561995,
+          "known_for_department": "Acting",
+          "name": "Ludwig Leitner",
+          "original_name": "Ludwig Leitner",
+          "popularity": 0.2849,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "",
+          "credit_id": "65de79d4d5dbc201635748fa",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3407338,
+          "known_for_department": "Acting",
+          "name": "Tom LeRoy",
+          "original_name": "Tom LeRoy",
+          "popularity": 0.3176,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "",
+          "credit_id": "65de79da109cd0018719d976",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4561996,
+          "known_for_department": "Acting",
+          "name": "Günther Matzdorf",
+          "original_name": "Günther Matzdorf",
+          "popularity": 0.2334,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "",
+          "credit_id": "65de79eeb39e3501632f23cc",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2188029,
+          "known_for_department": "Acting",
+          "name": "Roger Staub",
+          "original_name": "Roger Staub",
+          "popularity": 0.4105,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "",
+          "credit_id": "65de79f2b76cbb017dd78ee5",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4561998,
+          "known_for_department": "Acting",
+          "name": "Sonja Matzdorf-Pfersdorf",
+          "original_name": "Sonja Matzdorf-Pfersdorf",
+          "popularity": 0.2426,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "",
+          "credit_id": "65de79f898f1f1017d98ad0f",
+          "order": 7
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1504609,
+          "known_for_department": "Acting",
+          "name": "Gunter Sachs",
+          "original_name": "Gunter Sachs",
+          "popularity": 0.4172,
+          "profile_path": "/k3xKM4skyZhfXc6PfnFCH06v6a0.jpg",
+          "credit_id": "65d7e35ee0ca7f017b365194",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1504609,
+          "known_for_department": "Acting",
+          "name": "Gunter Sachs",
+          "original_name": "Gunter Sachs",
+          "popularity": 0.4172,
+          "profile_path": "/k3xKM4skyZhfXc6PfnFCH06v6a0.jpg",
+          "credit_id": "65de7920140bad0162932186",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1504609,
+          "known_for_department": "Acting",
+          "name": "Gunter Sachs",
+          "original_name": "Gunter Sachs",
+          "popularity": 0.4172,
+          "profile_path": "/k3xKM4skyZhfXc6PfnFCH06v6a0.jpg",
+          "credit_id": "65de79328c44b9017c130538",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 37418,
+          "known_for_department": "Camera",
+          "name": "Atze Glanert",
+          "original_name": "Atze Glanert",
+          "popularity": 0.2552,
+          "profile_path": null,
+          "credit_id": "65de79397f2d4a017c1e8099",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 24127,
+          "known_for_department": "Camera",
+          "name": "Konrad Kotowski",
+          "original_name": "Konrad Kotowski",
+          "popularity": 0.1751,
+          "profile_path": null,
+          "credit_id": "65de7941b39e3501862f3077",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4561990,
+          "known_for_department": "Camera",
+          "name": "Atze Pommerening",
+          "original_name": "Atze Pommerening",
+          "popularity": 0.3651,
+          "profile_path": null,
+          "credit_id": "65de794a8c44b9017c1305f4",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2511411,
+          "known_for_department": "Editing",
+          "name": "Eva Maria Tittes",
+          "original_name": "Eva Maria Tittes",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "65de795098f1f1016498a2e3",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 18508,
+          "known_for_department": "Sound",
+          "name": "Peter Thomas",
+          "original_name": "Peter Thomas",
+          "popularity": 0.4342,
+          "profile_path": "/t12B9ao7UHwfHOiMiOhRH4PBceD.jpg",
+          "credit_id": "65de7962b76cbb017dd78b9d",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1504609,
+          "known_for_department": "Acting",
+          "name": "Gunter Sachs",
+          "original_name": "Gunter Sachs",
+          "popularity": 0.4172,
+          "profile_path": "/k3xKM4skyZhfXc6PfnFCH06v6a0.jpg",
+          "credit_id": "65de796a8e87020184036b29",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4562001,
+          "known_for_department": "Production",
+          "name": "Hermann Rauch",
+          "original_name": "Hermann Rauch",
+          "popularity": 0.509,
+          "profile_path": null,
+          "credit_id": "65de7a55109cd0016419d172",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-11-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "6",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1970-12-25T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "DE",
+          "title": "Happening in Weiss",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

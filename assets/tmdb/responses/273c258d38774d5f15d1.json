@@ -1,0 +1,333 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1395698?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:10.420Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 1000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 1395698,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Stranger",
+    "overview": "",
+    "popularity": 0.5834,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 246069,
+        "logo_path": null,
+        "name": "3017th Studios",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2024-12-01",
+    "revenue": 0,
+    "runtime": 12,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Stranger",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5091627,
+          "known_for_department": "Acting",
+          "name": "Jay Soni",
+          "original_name": "Jay Soni",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "The Stranger",
+          "credit_id": "674b65609ea503893a4a42f6",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5091628,
+          "known_for_department": "Acting",
+          "name": "Frankie Kachur",
+          "original_name": "Frankie Kachur",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Mary",
+          "credit_id": "674b65752d7800f5358a4010",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5091629,
+          "known_for_department": "Acting",
+          "name": "Rowan Hinebaugh",
+          "original_name": "Rowan Hinebaugh",
+          "popularity": 0.1491,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Sammy",
+          "credit_id": "674b65824dcfed159acf5d43",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4690484,
+          "known_for_department": "Camera",
+          "name": "Jonah Manibusan",
+          "original_name": "Jonah Manibusan",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "674b65a42d7800f5358a4023",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4690485,
+          "known_for_department": "Camera",
+          "name": "Jonah Manibusan",
+          "original_name": "Jonah Manibusan",
+          "popularity": 0.1169,
+          "profile_path": null,
+          "credit_id": "674b65af4dcfed159acf5d57",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4690484,
+          "known_for_department": "Camera",
+          "name": "Jonah Manibusan",
+          "original_name": "Jonah Manibusan",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "674b65bbbb110073e8ab8dfe",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3566926,
+          "known_for_department": "Camera",
+          "name": "Shawn Malangyaon",
+          "original_name": "Shawn Malangyaon",
+          "popularity": 0.1013,
+          "profile_path": null,
+          "credit_id": "674b65c89ea503893a4a430f",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5091632,
+          "known_for_department": "Editing",
+          "name": "Paul Lee",
+          "original_name": "Paul Lee",
+          "popularity": 0.1206,
+          "profile_path": null,
+          "credit_id": "674b65e2bb110073e8ab8e21",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3566926,
+          "known_for_department": "Camera",
+          "name": "Shawn Malangyaon",
+          "original_name": "Shawn Malangyaon",
+          "popularity": 0.1013,
+          "profile_path": null,
+          "credit_id": "674b65f0343c7b133dfe1f35",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5091633,
+          "known_for_department": "Camera",
+          "name": "Krystal Neou",
+          "original_name": "Krystal Neou",
+          "popularity": 0.0972,
+          "profile_path": null,
+          "credit_id": "674b6609ebe29bdfd3026864",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5091634,
+          "known_for_department": "Sound",
+          "name": "Nicolette Cash",
+          "original_name": "Nicolette Cash",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "674b662dbb110073e8ab8e36",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5091636,
+          "known_for_department": "Sound",
+          "name": "Nicolette Cash",
+          "original_name": "Nicolette Cash",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "674b66482d7800f5358a4051",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5091637,
+          "known_for_department": "Directing",
+          "name": "Sabrina Beach",
+          "original_name": "Sabrina Beach",
+          "popularity": 0.1129,
+          "profile_path": null,
+          "credit_id": "674b6654419bd0cccaeac232",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4690311,
+          "known_for_department": "Directing",
+          "name": "Stephanie Faura",
+          "original_name": "Stephanie Faura",
+          "popularity": 0.1002,
+          "profile_path": null,
+          "credit_id": "674b666d343c7b133dfe1f64",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5091634,
+          "known_for_department": "Sound",
+          "name": "Nicolette Cash",
+          "original_name": "Nicolette Cash",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "674b694de27288ff458c4cfa",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4690308,
+          "known_for_department": "Camera",
+          "name": "Nate Henry",
+          "original_name": "Nate Henry",
+          "popularity": 0.2377,
+          "profile_path": "/5GA5vnWjWj8QMNXhrwA7bApC3HZ.jpg",
+          "credit_id": "674b696ae27288ff458c4d06",
+          "department": "Sound",
+          "job": "Boom Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4690315,
+          "known_for_department": "Lighting",
+          "name": "Warren Spears",
+          "original_name": "Warren Spears",
+          "popularity": 0.1464,
+          "profile_path": null,
+          "credit_id": "674b6997bb110073e8ab8f2b",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3566915,
+          "known_for_department": "Lighting",
+          "name": "Martin Trompetta",
+          "original_name": "Martin Trompetta",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "674b69ed9ea503893a4a43ad",
+          "department": "Camera",
+          "job": "Key Grip"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4685899,
+          "known_for_department": "Production",
+          "name": "Sae-Jong Jordan",
+          "original_name": "Sae-Jong Jordan",
+          "popularity": 0.0909,
+          "profile_path": "/3RjRTml6hiQ6PnRji956zpYeBkn.jpg",
+          "credit_id": "674b6a0febe29bdfd30269df",
+          "department": "Camera",
+          "job": "BTS Photographer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2024-12-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

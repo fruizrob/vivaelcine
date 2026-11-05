@@ -1,0 +1,396 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/211327?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:14.336Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/qSNU1KuH9Y25YqctxaVGgkQMm9p.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "id": 211327,
+    "imdb_id": "tt2295318",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Nomad the Beginning",
+    "overview": "En una búsqueda desesperada para encontrar a su hermano desaparecido, Marianna a regañadientes recoge un extraño sin memoria, John. Juntos deben llegan a un punto de encuentro en la costa oeste, donde les espera una figura sombría. Unbeknownst a ellos un equipo de operaciones encubiertas splinter cell está rastreando a John. Envían agente especial Thomas Dockins, un asesino militar altamente entrenado y lavado de cerebro, para matar a John y a la mujer que lo acompaña. Mientras luchan por sus vidas, John y Marianna descubren que son sorprendidos en medio de una siniestra trama extraterrestre.",
+    "popularity": 1.2816,
+    "poster_path": "/biXqYnIgfqaAXQP6B4kz41SOCni.jpg",
+    "production_companies": [
+      {
+        "id": 50493,
+        "logo_path": null,
+        "name": "Fabrication Films",
+        "origin_country": ""
+      },
+      {
+        "id": 78745,
+        "logo_path": null,
+        "name": "Storyteller",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2013-07-03",
+    "revenue": 0,
+    "runtime": 87,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Nomad the Beginning",
+    "video": false,
+    "vote_average": 3,
+    "vote_count": 10,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1057970,
+          "known_for_department": "Acting",
+          "name": "Maria Aceves",
+          "original_name": "Maria Aceves",
+          "popularity": 0.4694,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Marianna",
+          "credit_id": "52fe4d92c3a368484e1f09e9",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1070188,
+          "known_for_department": "Acting",
+          "name": "Clint Glenn Hummel",
+          "original_name": "Clint Glenn Hummel",
+          "popularity": 0.6084,
+          "profile_path": "/jgfqoBbCPCGFpXOGoBzXXhJ5Nlm.jpg",
+          "cast_id": 1,
+          "character": "John",
+          "credit_id": "52fe4d92c3a368484e1f09e5",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1195319,
+          "known_for_department": "Acting",
+          "name": "Brantley Black",
+          "original_name": "Brantley Black",
+          "popularity": 0.3599,
+          "profile_path": "/nQ0bZGS3cpeiKn1DTWBSmLGJmMK.jpg",
+          "cast_id": 4,
+          "character": "Zitchen",
+          "credit_id": "52fe4d92c3a368484e1f09f1",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 92845,
+          "known_for_department": "Acting",
+          "name": "Joshua Desroches",
+          "original_name": "Joshua Desroches",
+          "popularity": 0.411,
+          "profile_path": "/1ikInanhSNoupiIvzxY21nAPaZS.jpg",
+          "cast_id": 3,
+          "character": "Dockins",
+          "credit_id": "52fe4d92c3a368484e1f09ed",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 64374,
+          "known_for_department": "Acting",
+          "name": "Josiah D. Lee",
+          "original_name": "Josiah D. Lee",
+          "popularity": 0.8274,
+          "profile_path": "/uHoh8DgzseNJWLpwqdIsGc15OG1.jpg",
+          "cast_id": 16,
+          "character": "Nicodemus",
+          "credit_id": "577643869251417d96001879",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1043651,
+          "known_for_department": "Acting",
+          "name": "Andreas Lyon",
+          "original_name": "Andreas Lyon",
+          "popularity": 0.2912,
+          "profile_path": "/cbQ0WpiFv5Q7mzz3zbPfjYsPhYl.jpg",
+          "cast_id": 17,
+          "character": "Nomad",
+          "credit_id": "5776439dc3a3684f15001764",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 88032,
+          "known_for_department": "Acting",
+          "name": "Vince Lozano",
+          "original_name": "Vince Lozano",
+          "popularity": 0.974,
+          "profile_path": "/tgUss3KYMqL3BaTh8637kjD4s5k.jpg",
+          "cast_id": 18,
+          "character": "Rook",
+          "credit_id": "577643b49251417d96001890",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1099106,
+          "known_for_department": "Acting",
+          "name": "Natasha Blasick",
+          "original_name": "Natasha Blasick",
+          "popularity": 0.8122,
+          "profile_path": "/d1ZmchlaQ8XHQqFyEN1giXv8jD9.jpg",
+          "cast_id": 21,
+          "character": "Laleeth",
+          "credit_id": "577643f79251417e16001727",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 29479,
+          "known_for_department": "Acting",
+          "name": "Jennifer O'Dell",
+          "original_name": "Jennifer O'Dell",
+          "popularity": 1.2585,
+          "profile_path": "/fQ3nLCHfxj5hVsYQWSEA1ZeVzo7.jpg",
+          "cast_id": 20,
+          "character": "Stephanie",
+          "credit_id": "577643dec3a3684f1500177c",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 147,
+          "known_for_department": "Acting",
+          "name": "Michael Søren Madsen",
+          "original_name": "Michael Madsen",
+          "popularity": 2.4036,
+          "profile_path": "/fvr2EXEPrVwsF2JlfRp0Olbj4g8.jpg",
+          "cast_id": 19,
+          "character": "Wolf",
+          "credit_id": "577643c8c3a3684e54001946",
+          "order": 9
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 544956,
+          "known_for_department": "Directing",
+          "name": "Thomas Dixon",
+          "original_name": "Thomas Dixon",
+          "popularity": 0.8635,
+          "profile_path": null,
+          "credit_id": "52fe4d92c3a368484e1f09f7",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 544956,
+          "known_for_department": "Directing",
+          "name": "Thomas Dixon",
+          "original_name": "Thomas Dixon",
+          "popularity": 0.8635,
+          "profile_path": null,
+          "credit_id": "52fe4d92c3a368484e1f09fd",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 140829,
+          "known_for_department": "Acting",
+          "name": "Christina Ferra-Gilmore",
+          "original_name": "Christina Ferra-Gilmore",
+          "popularity": 0.4265,
+          "profile_path": "/9ZIBOoeOBcK46dFbVpYvWRq5gJm.jpg",
+          "credit_id": "577642559251417e1600169b",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1563450,
+          "known_for_department": "Sound",
+          "name": "Wes Kobernick",
+          "original_name": "Wes Kobernick",
+          "popularity": 0.1569,
+          "profile_path": null,
+          "credit_id": "577642c7c3a3684f15001729",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1643801,
+          "known_for_department": "Visual Effects",
+          "name": "Andrew Lewitin",
+          "original_name": "Andrew Lewitin",
+          "popularity": 0.4942,
+          "profile_path": null,
+          "credit_id": "577642e29251417eb00017eb",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1643799,
+          "known_for_department": "Art",
+          "name": "Markos Keyto",
+          "original_name": "Markos Keyto",
+          "popularity": 0.1359,
+          "profile_path": null,
+          "credit_id": "57764278c3a3685031001956",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1643797,
+          "known_for_department": "Production",
+          "name": "Robert Duncan",
+          "original_name": "Robert Duncan",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "credit_id": "577641b3c3a3684f6c001751",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1206669,
+          "known_for_department": "Sound",
+          "name": "Holly Amber Church",
+          "original_name": "Holly Amber Church",
+          "popularity": 0.3127,
+          "profile_path": null,
+          "credit_id": "577641fac3a368381a001f9f",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1643800,
+          "known_for_department": "Sound",
+          "name": "Marcus Blanchard",
+          "original_name": "Marcus Blanchard",
+          "popularity": 0.5274,
+          "profile_path": null,
+          "credit_id": "577642b59251417e160016bc",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1643798,
+          "known_for_department": "Camera",
+          "name": "Aaron Grasso",
+          "original_name": "Aaron Grasso",
+          "popularity": 0.2907,
+          "profile_path": null,
+          "credit_id": "5776421dc3a3684e5400189b",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1332524,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Ren Rohling",
+          "original_name": "Ren Rohling",
+          "popularity": 0.1177,
+          "profile_path": null,
+          "credit_id": "577642f6c3a3684f6c0017cf",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Department Head"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "DVD",
+              "release_date": "2016-05-02T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-07-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "GB",
+          "title": "Alien Battlefield",
+          "type": "DVD Title"
+        }
+      ]
+    }
+  }
+}

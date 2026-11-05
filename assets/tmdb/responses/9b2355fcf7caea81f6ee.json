@@ -1,0 +1,151 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1549879?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:17.991Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/tcpG6pkDslvBTAHkqxBsbIs7ujI.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1549879,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Replicá",
+    "overview": "",
+    "popularity": 0.4231,
+    "poster_path": "/pVIAOmbQmDY6TMWPKjv64wKuXjX.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2025-09-23",
+    "revenue": 0,
+    "runtime": 6,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Replicá",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5702618,
+          "known_for_department": "Acting",
+          "name": "Karl Pauly",
+          "original_name": "Karl Pauly",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "The human replica/Protagonist",
+          "credit_id": "68d0202cc535fe8294cec347",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5707069,
+          "known_for_department": "Acting",
+          "name": "Fey Whilancelli",
+          "original_name": "Fey Whilancelli",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Dreamgirl",
+          "credit_id": "68d2d98e09fbe406a1d42327",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3675257,
+          "known_for_department": "Acting",
+          "name": "Ian Kießig",
+          "original_name": "Ian Kießig",
+          "popularity": 0.1006,
+          "profile_path": "/o2TxH2if35Gv8gSepPi6zlx6RAz.jpg",
+          "cast_id": 6,
+          "character": "Noble Homeowner",
+          "credit_id": "68d2d9ceafb194b888ac8f8a",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3675257,
+          "known_for_department": "Acting",
+          "name": "Ian Kießig",
+          "original_name": "Ian Kießig",
+          "popularity": 0.1006,
+          "profile_path": "/o2TxH2if35Gv8gSepPi6zlx6RAz.jpg",
+          "credit_id": "68d01fc819a93df4e37a44d0",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3675257,
+          "known_for_department": "Acting",
+          "name": "Ian Kießig",
+          "original_name": "Ian Kießig",
+          "popularity": 0.1006,
+          "profile_path": "/o2TxH2if35Gv8gSepPi6zlx6RAz.jpg",
+          "credit_id": "68d2d95c36ea691370cd83ff",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3675257,
+          "known_for_department": "Acting",
+          "name": "Ian Kießig",
+          "original_name": "Ian Kießig",
+          "popularity": 0.1006,
+          "profile_path": "/o2TxH2if35Gv8gSepPi6zlx6RAz.jpg",
+          "credit_id": "68d2d96d1ec443b100cd8440",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "de",
+              "note": "",
+              "release_date": "2025-09-23T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

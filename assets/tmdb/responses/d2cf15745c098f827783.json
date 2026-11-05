@@ -1,0 +1,287 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1423748?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:03.079Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/dOJWjmKW7JEqJmuzpIMLZeXsOsd.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1423748,
+    "imdb_id": "tt32020767",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Strangers in the Same Shirt",
+    "overview": "",
+    "popularity": 0.8671,
+    "poster_path": "/aXDipA0I6hw5t7fICA0dlAhYcWB.jpg",
+    "production_companies": [
+      {
+        "id": 218821,
+        "logo_path": null,
+        "name": "Monarch Content",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-03-01",
+    "revenue": 0,
+    "runtime": 16,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Strangers in the Same Shirt",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1331185,
+          "known_for_department": "Acting",
+          "name": "Andre Hyland",
+          "original_name": "Andre Hyland",
+          "popularity": 0.4971,
+          "profile_path": "/47bApEaHjt7q793rWJqndMe6kwR.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "67957ac70a30d6d05923da42",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3450037,
+          "known_for_department": "Acting",
+          "name": "Darby Lee-Stack",
+          "original_name": "Darby Lee-Stack",
+          "popularity": 1.2298,
+          "profile_path": "/fEfWi9TJF8OrmvUdgHZtQWJmyMl.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "67957ad857975f1b0b18a91c",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 140825,
+          "known_for_department": "Acting",
+          "name": "Laura Mason",
+          "original_name": "Laura Mason",
+          "popularity": 0.2835,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "67957ae93be0b7b6f323d383",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5203432,
+          "known_for_department": "Acting",
+          "name": "Joel Applegate",
+          "original_name": "Joel Applegate",
+          "popularity": 0.1288,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "67957af13be0b7b6f323d398",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4973287,
+          "known_for_department": "Directing",
+          "name": "Anthon Chase Johnson",
+          "original_name": "Anthon Chase Johnson",
+          "popularity": 0.1579,
+          "profile_path": null,
+          "credit_id": "67957b15eeb0e2b7012afcd8",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4973287,
+          "known_for_department": "Directing",
+          "name": "Anthon Chase Johnson",
+          "original_name": "Anthon Chase Johnson",
+          "popularity": 0.1579,
+          "profile_path": null,
+          "credit_id": "67957b2c0a30d6d05923da91",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4490557,
+          "known_for_department": "Production",
+          "name": "Nicholas S. Hill",
+          "original_name": "Nicholas S. Hill",
+          "popularity": 0.1522,
+          "profile_path": null,
+          "credit_id": "67957b543be0b7b6f323d3bf",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1141753,
+          "known_for_department": "Directing",
+          "name": "Robert Machoian",
+          "original_name": "Robert Machoian",
+          "popularity": 0.3282,
+          "profile_path": "/au1ovXUv4rE3sj7JvNWDldaDYss.jpg",
+          "credit_id": "67957b60d4ba1725f12aeb94",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5203435,
+          "known_for_department": "Production",
+          "name": "Lauralee Gonzalez",
+          "original_name": "Lauralee Gonzalez",
+          "popularity": 0.1463,
+          "profile_path": null,
+          "credit_id": "67957b6c25d2980fb023d65e",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5203436,
+          "known_for_department": "Production",
+          "name": "Andrew Scott James",
+          "original_name": "Andrew Scott James",
+          "popularity": 0.1369,
+          "profile_path": null,
+          "credit_id": "67957b7a08c1729ec918a4e9",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5203437,
+          "known_for_department": "Production",
+          "name": "Clay Connor Dean",
+          "original_name": "Clay Connor Dean",
+          "popularity": 0.1414,
+          "profile_path": null,
+          "credit_id": "67957b8808c1729ec918a4f8",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2632017,
+          "known_for_department": "Camera",
+          "name": "Oscar Ignacio Jiménez",
+          "original_name": "Oscar Ignacio Jiménez",
+          "popularity": 0.4859,
+          "profile_path": null,
+          "credit_id": "67957ba708c1729ec918a504",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1975997,
+          "known_for_department": "Editing",
+          "name": "Charlie Porter",
+          "original_name": "Charlie Porter",
+          "popularity": 0.5497,
+          "profile_path": null,
+          "credit_id": "67957bb608c1729ec918a50f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5203441,
+          "known_for_department": "Production",
+          "name": "Kimberly Roy",
+          "original_name": "Kimberly Roy",
+          "popularity": 0.0986,
+          "profile_path": null,
+          "credit_id": "67957be53be0b7b6f323d3ed",
+          "department": "Production",
+          "job": "Production Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4630348,
+          "known_for_department": "Sound",
+          "name": "Julienne Guffain",
+          "original_name": "Julienne Guffain",
+          "popularity": 0.1025,
+          "profile_path": null,
+          "credit_id": "67957bf457975f1b0b18a9b0",
+          "department": "Sound",
+          "job": "Sound Designer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "SXSW",
+              "release_date": "2025-03-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

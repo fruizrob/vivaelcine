@@ -1,0 +1,119 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/821655?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:30.278Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 821655,
+    "imdb_id": null,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The Four Seasons",
+    "overview": "",
+    "popularity": 0.889,
+    "poster_path": "/uV4mdqADVudug6jXz9OazOjjE7j.jpg",
+    "production_companies": [
+      {
+        "id": 3324,
+        "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+        "name": "BBC",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2002-06-12",
+    "revenue": 0,
+    "runtime": 105,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Four Seasons",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1275528,
+          "known_for_department": "Acting",
+          "name": "Julia Fischer",
+          "original_name": "Julia Fischer",
+          "popularity": 0.1982,
+          "profile_path": "/7gz7iBmQTW5WKQWT9fo8uUlI644.jpg",
+          "cast_id": 1,
+          "character": "Violin",
+          "credit_id": "64870093bf31f25054b6ee68",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5522351,
+          "known_for_department": "Acting",
+          "name": "Academy of St. Martin in the fields",
+          "original_name": "Academy of St. Martin in the fields",
+          "popularity": 0.8868,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Orchestra",
+          "credit_id": "685fd30a9676ddd952805cdb",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2877955,
+          "known_for_department": "Sound",
+          "name": "Kenneth Sillito",
+          "original_name": "Kenneth Sillito",
+          "popularity": 0.4275,
+          "profile_path": null,
+          "credit_id": "648702b6c0348b011fbdfd86",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2002-06-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

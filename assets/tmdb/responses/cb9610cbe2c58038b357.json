@@ -1,0 +1,73 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1631655?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:02.411Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1631655,
+    "imdb_id": null,
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_title": "Unboxing Nosferatu",
+    "overview": "",
+    "popularity": 0.572,
+    "poster_path": "/ns8vOEo6vQ51yENlJsbZz4CpjB4.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2019-01-01",
+    "revenue": 0,
+    "runtime": 20,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Unboxing Nosferatu",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5554613,
+          "known_for_department": "Directing",
+          "name": "MilleFeuille",
+          "original_name": "MilleFeuille",
+          "popularity": 0.1016,
+          "profile_path": "/17tESPeojGlDjdeYiCdEBi1QMER.jpg",
+          "credit_id": "6988db0b913bd896b1f8123b",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-01-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

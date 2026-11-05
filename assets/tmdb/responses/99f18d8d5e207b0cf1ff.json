@@ -1,0 +1,179 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1814532?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:34.996Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1814532,
+    "imdb_id": "tt37023609",
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "Latir",
+    "overview": "",
+    "popularity": 0.2441,
+    "poster_path": "/1fgkG57ZRqLtthoI9R4eiwQ4BC6.jpg",
+    "production_companies": [
+      {
+        "id": 159098,
+        "logo_path": null,
+        "name": "Suroeste Films",
+        "origin_country": "CL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "2026-11-04",
+    "revenue": 0,
+    "runtime": 93,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Latir",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2000873,
+          "known_for_department": "Acting",
+          "name": "Rodolfo Pulgar",
+          "original_name": "Rodolfo Pulgar",
+          "popularity": 0.3586,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6ae780ec5df07a896f8ac57d",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 941061,
+          "known_for_department": "Acting",
+          "name": "María Izquierdo",
+          "original_name": "María Izquierdo",
+          "popularity": 0.4363,
+          "profile_path": "/7uTHfv4xls7ZyhJHBjsu4IWe5uU.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "6ae780fb33706bdde2baf3f3",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 590876,
+          "known_for_department": "Acting",
+          "name": "Francisca Gavilán",
+          "original_name": "Francisca Gavilán",
+          "popularity": 0.4331,
+          "profile_path": "/vXzct0AFIl5C6LcTJtxi0rUayjr.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "6ae7810853139f832ba6d89d",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1142175,
+          "known_for_department": "Acting",
+          "name": "Antonia Santa María",
+          "original_name": "Antonia Santa María",
+          "popularity": 0.7578,
+          "profile_path": "/dvCkc3MrkiKWWewjZOa8nrNm4z7.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "6ae7810f1c24281482c8dc7a",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1549195,
+          "known_for_department": "Writing",
+          "name": "Patricio Loutit",
+          "original_name": "Patricio Loutit",
+          "popularity": 0.1471,
+          "profile_path": null,
+          "credit_id": "6ae7811b1c24281482c8dc8e",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1549195,
+          "known_for_department": "Writing",
+          "name": "Patricio Loutit",
+          "original_name": "Patricio Loutit",
+          "popularity": 0.1471,
+          "profile_path": null,
+          "credit_id": "6ae7812f4b3a867ad8f1ba6e",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1318947,
+          "known_for_department": "Directing",
+          "name": "Alfonso Gazitúa Gaete",
+          "original_name": "Alfonso Gazitúa Gaete",
+          "popularity": 0.7187,
+          "profile_path": null,
+          "credit_id": "6ae7813fec95d65bd78ac543",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2026-11-04T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

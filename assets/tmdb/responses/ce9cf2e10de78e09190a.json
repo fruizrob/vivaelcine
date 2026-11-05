@@ -1,0 +1,635 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/64528?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:21.659Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/3wmq54GdhgimOl2GMxwo5P6RcOe.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 64528,
+    "imdb_id": "tt0068206",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Alla ricerca del piacere",
+    "overview": "Un escritor y su secretaria intentan encontrar al mejor amigo de éste, y se verán dentro de un falso complot de asesinato. (FILMAFFINITY)",
+    "popularity": 1.9474,
+    "poster_path": "/x91qyv3JGMqGa2WwKhZJCjdyFwJ.jpg",
+    "production_companies": [
+      {
+        "id": 76635,
+        "logo_path": null,
+        "name": "West Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "1972-03-21",
+    "revenue": 0,
+    "runtime": 98,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Amuck",
+    "video": false,
+    "vote_average": 5.771,
+    "vote_count": 59,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 16021,
+          "known_for_department": "Acting",
+          "name": "Barbara Bouchet",
+          "original_name": "Barbara Bouchet",
+          "popularity": 2.4238,
+          "profile_path": "/fVrl3R8UQGFrhfuId7MRqWpnOsA.jpg",
+          "cast_id": 18,
+          "character": "Greta Franklin",
+          "credit_id": "5ebdd73f076ce8002076461c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12497,
+          "known_for_department": "Acting",
+          "name": "Farley Granger",
+          "original_name": "Farley Granger",
+          "popularity": 1.2105,
+          "profile_path": "/4Tqi22qSxBdeWGDAOVvfa8pDX8E.jpg",
+          "cast_id": 17,
+          "character": "Richard Stuart",
+          "credit_id": "5ebdd71a8e2e000021144249",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 30664,
+          "known_for_department": "Acting",
+          "name": "Rosalba Neri",
+          "original_name": "Rosalba Neri",
+          "popularity": 0.8676,
+          "profile_path": "/f5O6JjcXjYUEzBcVwscFCVCWeFz.jpg",
+          "cast_id": 19,
+          "character": "Eleanora Stuart",
+          "credit_id": "5ebdd75f15a4a1001e9ca029",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1209852,
+          "known_for_department": "Acting",
+          "name": "Dino Mele",
+          "original_name": "Dino Mele",
+          "popularity": 0.2819,
+          "profile_path": "/iSwlH1VXf9BO8NxAPfLk6a3ZTxt.jpg",
+          "cast_id": 21,
+          "character": "Sandro",
+          "credit_id": "5ebdd7cebc8abc0021c254f5",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 25816,
+          "known_for_department": "Acting",
+          "name": "Umberto Raho",
+          "original_name": "Umberto Raho",
+          "popularity": 0.7894,
+          "profile_path": "/oYhu89cnv7KndDnAY5Q4hhGIla2.jpg",
+          "cast_id": 22,
+          "character": "Giovanni il maggiordomo",
+          "credit_id": "5ebdd7f86d675a00207a6cae",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1074525,
+          "known_for_department": "Acting",
+          "name": "Patrizia Viotti",
+          "original_name": "Patrizia Viotti",
+          "popularity": 0.4349,
+          "profile_path": "/j90Z43oEVkSdOwLGhKmjV5m6zQ8.jpg",
+          "cast_id": 23,
+          "character": "Sally Reece",
+          "credit_id": "5ebdd8258e2e0000201317a5",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 142269,
+          "known_for_department": "Acting",
+          "name": "Nino Segurini",
+          "original_name": "Nino Segurini",
+          "popularity": 0.3574,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "commissario Antonelli",
+          "credit_id": "5ebdd7a1bc8abc0022c28732",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1209851,
+          "known_for_department": "Acting",
+          "name": "Petar Martinovitch",
+          "original_name": "Petar Martinovitch",
+          "popularity": 0.2979,
+          "profile_path": null,
+          "cast_id": 24,
+          "character": "Rocco",
+          "credit_id": "5ebdd8438e2e0000201317b1",
+          "order": 7
+        },
+        {
+          "adult": true,
+          "gender": 2,
+          "id": 1616540,
+          "known_for_department": "Acting",
+          "name": "Bruno Alias",
+          "original_name": "Bruno Alias",
+          "popularity": 0,
+          "profile_path": "/gyjdfRyN9Vb6kJdUIOT6MOnm7rC.jpg",
+          "cast_id": 25,
+          "character": "ospite festa",
+          "credit_id": "5ebdd86d3d3557001edece30",
+          "order": 8
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 239315,
+          "known_for_department": "Directing",
+          "name": "Silvio Amadio",
+          "original_name": "Silvio Amadio",
+          "popularity": 0.3462,
+          "profile_path": "/3UJhcOEHzCQ2QQbVJVAlI3DisVd.jpg",
+          "credit_id": "52fe46ddc3a368484e0a8173",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 56721,
+          "known_for_department": "Production",
+          "name": "Italo Zingarelli",
+          "original_name": "Italo Zingarelli",
+          "popularity": 0.2641,
+          "profile_path": "/A60Mi2wsvz8ebFUZJ0bfsmMlq3T.jpg",
+          "credit_id": "52fe46ddc3a368484e0a817f",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 548636,
+          "known_for_department": "Sound",
+          "name": "Teo Usuelli",
+          "original_name": "Teo Usuelli",
+          "popularity": 0.2862,
+          "profile_path": null,
+          "credit_id": "52fe46ddc3a368484e0a8185",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 67974,
+          "known_for_department": "Editing",
+          "name": "Antonio Siciliano",
+          "original_name": "Antonio Siciliano",
+          "popularity": 0.2007,
+          "profile_path": null,
+          "credit_id": "5882252b925141302800e1d7",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 26712,
+          "known_for_department": "Art",
+          "name": "Enzo Bulgarelli",
+          "original_name": "Enzo Bulgarelli",
+          "popularity": 0.7393,
+          "profile_path": null,
+          "credit_id": "5882254a925141303700e5dd",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 91806,
+          "known_for_department": "Camera",
+          "name": "Angelo Lannutti",
+          "original_name": "Angelo Lannutti",
+          "popularity": 0.2264,
+          "profile_path": null,
+          "credit_id": "5ebdda5a6d675a00217a9765",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1997036,
+          "known_for_department": "Sound",
+          "name": "Franco Groppioni",
+          "original_name": "Franco Groppioni",
+          "popularity": 0.2577,
+          "profile_path": null,
+          "credit_id": "5ebdda028e2e000021144594",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1606291,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Franco Schioppa",
+          "original_name": "Franco Schioppa",
+          "popularity": 0.1758,
+          "profile_path": null,
+          "credit_id": "5ebdd95e15a4a1001d9cb8a6",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 239315,
+          "known_for_department": "Directing",
+          "name": "Silvio Amadio",
+          "original_name": "Silvio Amadio",
+          "popularity": 0.3462,
+          "profile_path": "/3UJhcOEHzCQ2QQbVJVAlI3DisVd.jpg",
+          "credit_id": "5ebdd8aa076ce800207646e1",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2639002,
+          "known_for_department": "Production",
+          "name": "Claudio Vinale",
+          "original_name": "Claudio Vinale",
+          "popularity": 0.1369,
+          "profile_path": null,
+          "credit_id": "5ebdd9bc076ce8002177aecf",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1120104,
+          "known_for_department": "Production",
+          "name": "Ezio Palaggi",
+          "original_name": "Ezio Palaggi",
+          "popularity": 0.5092,
+          "profile_path": null,
+          "credit_id": "5ebdd9a0076ce8002076480e",
+          "department": "Production",
+          "job": "Executive In Charge Of Production"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1659253,
+          "known_for_department": "Camera",
+          "name": "Enrico Fontana",
+          "original_name": "Enrico Fontana",
+          "popularity": 0.1943,
+          "profile_path": null,
+          "credit_id": "5ebdda3015a4a1001d9cb988",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 56723,
+          "known_for_department": "Production",
+          "name": "Roberto Palaggi",
+          "original_name": "Roberto Palaggi",
+          "popularity": 0.3108,
+          "profile_path": null,
+          "credit_id": "5ebdd908bc8abc0021c255b1",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2301989,
+          "known_for_department": "Editing",
+          "name": "Lucia Melis",
+          "original_name": "Lucia Melis",
+          "popularity": 0.1642,
+          "profile_path": null,
+          "credit_id": "5ebdda76bc8abc0021c25716",
+          "department": "Editing",
+          "job": "Assistant Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 239315,
+          "known_for_department": "Directing",
+          "name": "Silvio Amadio",
+          "original_name": "Silvio Amadio",
+          "popularity": 0.3462,
+          "profile_path": "/3UJhcOEHzCQ2QQbVJVAlI3DisVd.jpg",
+          "credit_id": "5ebdd8cc15a4a1001d9cb80c",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2639003,
+          "known_for_department": "Art",
+          "name": "Mario Mastrogiacomo",
+          "original_name": "Mario Mastrogiacomo",
+          "popularity": 0.134,
+          "profile_path": null,
+          "credit_id": "5ebdd9e1bc8abc0022c28aec",
+          "department": "Art",
+          "job": "Assistant Set Dresser"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2505634,
+          "known_for_department": "Sound",
+          "name": "Edda Dell'Orso",
+          "original_name": "Edda Dell'Orso",
+          "popularity": 0.2416,
+          "profile_path": null,
+          "credit_id": "5ebddafe3d3557001eded35c",
+          "department": "Sound",
+          "job": "Vocals"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 548636,
+          "known_for_department": "Sound",
+          "name": "Teo Usuelli",
+          "original_name": "Teo Usuelli",
+          "popularity": 0.2862,
+          "profile_path": null,
+          "credit_id": "5ebddaa96d675a00207a70ce",
+          "department": "Sound",
+          "job": "Music Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 33930,
+          "known_for_department": "Camera",
+          "name": "Aldo Giordani",
+          "original_name": "Aldo Giordani",
+          "popularity": 0.2648,
+          "profile_path": null,
+          "credit_id": "5ebdd9353d3557001cdd93f1",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2514407,
+          "known_for_department": "Production",
+          "name": "Ruggero Cappelli",
+          "original_name": "Ruggero Cappelli",
+          "popularity": 0.2372,
+          "profile_path": null,
+          "credit_id": "5ebdd9803d3557001eded10b",
+          "department": "Production",
+          "job": "Production Manager"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1974-11-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "it",
+              "note": "Blu-ray, Camera Obscura",
+              "release_date": "2017-04-28T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1973-03-01T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "DVD",
+              "release_date": "2017-02-27T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "VM18",
+              "descriptors": [],
+              "iso_639_1": "it",
+              "note": "",
+              "release_date": "1972-03-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1974-10-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Blu ray",
+              "release_date": "2017-02-27T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "R",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1978-06-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "AU",
+          "title": "Hot Bed of Sex",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BR",
+          "title": "Em Busca do Prazer",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "À la recherche du plaisir",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Haus der tödlichen Sünden",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "IT",
+          "title": "Replica di un delitto",
+          "type": "working title"
+        },
+        {
+          "iso_3166_1": "MX",
+          "title": "En busca del placer",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PT",
+          "title": "A Fúria do Assassino",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "SU",
+          "title": "В поисках удовольствия",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "GB",
+          "title": "Hot Bed of Sex",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "In Search of Pleasure",
+          "type": "informal literal English title"
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "Leather and Whips",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "Maniac Mansion",
+          "type": "alternative title"
+        },
+        {
+          "iso_3166_1": "CN",
+          "title": "辣手毒狐狸",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CN",
+          "title": "疯狂寻欢",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

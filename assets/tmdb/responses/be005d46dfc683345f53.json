@@ -1,0 +1,457 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/47170?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:00:54.627Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 47170,
+    "imdb_id": "tt0774030",
+    "origin_country": [
+      "US",
+      "IE"
+    ],
+    "original_language": "en",
+    "original_title": "48 Angels",
+    "overview": "",
+    "popularity": 0.5037,
+    "poster_path": "/3pKryUsiAWrwcUnTsbBNRBtb2Wk.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "IE",
+        "name": "Ireland"
+      }
+    ],
+    "release_date": "2006-01-01",
+    "revenue": 0,
+    "runtime": 92,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "48 Angels",
+    "video": false,
+    "vote_average": 4.5,
+    "vote_count": 14,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3969,
+          "known_for_department": "Acting",
+          "name": "Shane Brolly",
+          "original_name": "Shane Brolly",
+          "popularity": 0.8166,
+          "profile_path": "/Arw4qi3nvBhp34hSaMFFk0xIUnf.jpg",
+          "cast_id": 1003,
+          "character": "Darry",
+          "credit_id": "52fe4722c3a36847f81253b3",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 76106,
+          "known_for_department": "Acting",
+          "name": "John Travers",
+          "original_name": "John Travers",
+          "popularity": 0.354,
+          "profile_path": "/4axUtVq881hu5LVv5wOVlkpX0pk.jpg",
+          "cast_id": 1004,
+          "character": "James",
+          "credit_id": "52fe4722c3a36847f81253b7",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 556444,
+          "known_for_department": "Acting",
+          "name": "Ciaran Flynn",
+          "original_name": "Ciaran Flynn",
+          "popularity": 0.27,
+          "profile_path": "/beLmZqHiZpKyAabr8FNaowneHgt.jpg",
+          "cast_id": 1005,
+          "character": "Seamus",
+          "credit_id": "52fe4722c3a36847f81253bb",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 556445,
+          "known_for_department": "Acting",
+          "name": "Darragh Kelly",
+          "original_name": "Darragh Kelly",
+          "popularity": 0.8321,
+          "profile_path": null,
+          "cast_id": 1006,
+          "character": "Matthew",
+          "credit_id": "52fe4722c3a36847f81253bf",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 68534,
+          "known_for_department": "Acting",
+          "name": "Brendan Mackey",
+          "original_name": "Brendan Mackey",
+          "popularity": 0.3346,
+          "profile_path": "/4VsohTAiMb9k671QGOG0X1EF8lm.jpg",
+          "cast_id": 1007,
+          "character": "The driver",
+          "credit_id": "52fe4722c3a36847f81253c3",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 556446,
+          "known_for_department": "Acting",
+          "name": "Elizabeth Moynihan",
+          "original_name": "Elizabeth Moynihan",
+          "popularity": 0.4267,
+          "profile_path": "/sY9aUV5C35h0VM1GuUsZOo2cogh.jpg",
+          "cast_id": 1008,
+          "character": "Seamus' Mam",
+          "credit_id": "52fe4722c3a36847f81253c7",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 87907,
+          "known_for_department": "Acting",
+          "name": "Tom Murphy",
+          "original_name": "Tom Murphy",
+          "popularity": 0.5195,
+          "profile_path": "/y7QnQAHNRybcR7XmUkdx35wlCxT.jpg",
+          "cast_id": 1009,
+          "character": "Stevie (as Tom Jordan Murphy)",
+          "credit_id": "52fe4722c3a36847f81253cb",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2468,
+          "known_for_department": "Acting",
+          "name": "Sean McGinley",
+          "original_name": "Sean McGinley",
+          "popularity": 0.7698,
+          "profile_path": "/6dNAreBr5Egv3vVLEtCqJuyjDG9.jpg",
+          "cast_id": 1010,
+          "character": "Dilly",
+          "credit_id": "52fe4722c3a36847f81253cf",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 556447,
+          "known_for_department": "Acting",
+          "name": "Michelle Hand",
+          "original_name": "Michelle Hand",
+          "popularity": 0.1477,
+          "profile_path": null,
+          "cast_id": 1011,
+          "character": "Grace",
+          "credit_id": "52fe4722c3a36847f81253d3",
+          "order": 8
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 556441,
+          "known_for_department": "Directing",
+          "name": "Marion Comer",
+          "original_name": "Marion Comer",
+          "popularity": 0.1459,
+          "profile_path": null,
+          "credit_id": "52fe4722c3a36847f81253a9",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 556443,
+          "known_for_department": "Writing",
+          "name": "Craig Holland",
+          "original_name": "Craig Holland",
+          "popularity": 0.1031,
+          "profile_path": null,
+          "credit_id": "52fe4722c3a36847f81253af",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 556441,
+          "known_for_department": "Directing",
+          "name": "Marion Comer",
+          "original_name": "Marion Comer",
+          "popularity": 0.1459,
+          "profile_path": null,
+          "credit_id": "52fe4722c3a36847f81253d9",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 556441,
+          "known_for_department": "Directing",
+          "name": "Marion Comer",
+          "original_name": "Marion Comer",
+          "popularity": 0.1459,
+          "profile_path": null,
+          "credit_id": "66f749f1f5d56e9ed8a1e56a",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 63354,
+          "known_for_department": "Production",
+          "name": "Kieran Corrigan",
+          "original_name": "Kieran Corrigan",
+          "popularity": 0.2854,
+          "profile_path": null,
+          "credit_id": "66f749fbf5d56e9ed8a1e571",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 43145,
+          "known_for_department": "Production",
+          "name": "Brendan McCarthy",
+          "original_name": "Brendan McCarthy",
+          "popularity": 0.7109,
+          "profile_path": null,
+          "credit_id": "66f74a102c4bdc9db05f0a30",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 63371,
+          "known_for_department": "Production",
+          "name": "John McDonnell",
+          "original_name": "John McDonnell",
+          "popularity": 0.2905,
+          "profile_path": null,
+          "credit_id": "66f74a1a0f6fa2cfce5f08ce",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4967572,
+          "known_for_department": "Production",
+          "name": "Robert Medema",
+          "original_name": "Robert Medema",
+          "popularity": 0.1099,
+          "profile_path": null,
+          "credit_id": "66f74a340f6fa2cfce5f08e9",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1320140,
+          "known_for_department": "Sound",
+          "name": "Paul McDonnell",
+          "original_name": "Paul McDonnell",
+          "popularity": 0.2284,
+          "profile_path": null,
+          "credit_id": "66f74a4a0a12215631cbee88",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1346435,
+          "known_for_department": "Camera",
+          "name": "Russell Gleeson",
+          "original_name": "Russell Gleeson",
+          "popularity": 0.1714,
+          "profile_path": null,
+          "credit_id": "66f74a55393cda1d1dcbef4c",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 18984,
+          "known_for_department": "Editing",
+          "name": "J. Patrick Duffner",
+          "original_name": "J. Patrick Duffner",
+          "popularity": 0.1029,
+          "profile_path": null,
+          "credit_id": "66f74a66140fbf6a1a5f0978",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2356094,
+          "known_for_department": "Production",
+          "name": "Dorothy MacGabhann",
+          "original_name": "Dorothy MacGabhann",
+          "popularity": 0.1081,
+          "profile_path": null,
+          "credit_id": "66f74a7b140fbf6a1a5f0985",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4967575,
+          "known_for_department": "Art",
+          "name": "Rita Comacha",
+          "original_name": "Rita Comacha",
+          "popularity": 0.095,
+          "profile_path": null,
+          "credit_id": "66f74a8d393cda1d1dcbef70",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1325905,
+          "known_for_department": "Art",
+          "name": "Heather Greenlees",
+          "original_name": "Heather Greenlees",
+          "popularity": 0.3429,
+          "profile_path": null,
+          "credit_id": "66f74a98393cda1d1dcbef80",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2129971,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Kerry Gooding",
+          "original_name": "Kerry Gooding",
+          "popularity": 0.1364,
+          "profile_path": null,
+          "credit_id": "66f74aa50a12215631cbee96",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1926299,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Anita Brolly",
+          "original_name": "Anita Brolly",
+          "popularity": 0.1993,
+          "profile_path": null,
+          "credit_id": "66f74ab20a12215631cbeea7",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1832910,
+          "known_for_department": "Acting",
+          "name": "Patrick Duncan",
+          "original_name": "Patrick Duncan",
+          "popularity": 0.3563,
+          "profile_path": null,
+          "credit_id": "6792781d9e4172cd38920841",
+          "department": "Production",
+          "job": "Casting Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1878409,
+          "known_for_department": "Production",
+          "name": "Lisa McAtackney",
+          "original_name": "Lisa McAtackney",
+          "popularity": 0.478,
+          "profile_path": null,
+          "credit_id": "6aaaba51ba966bcc29e95955",
+          "department": "Production",
+          "job": "Associate Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2007-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "DE",
+          "title": "48 Engel (2006)",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

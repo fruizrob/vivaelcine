@@ -1,0 +1,97 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/529458?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:29.231Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/wGmF2Z2aEAogSEuZSfZ6y7tzT9F.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 529458,
+    "imdb_id": "tt2069958",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "The Seasons",
+    "overview": "",
+    "popularity": 2.0446,
+    "poster_path": "/xIFYPAahNbafvuXWoobnEN320vF.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2008-01-01",
+    "revenue": 0,
+    "runtime": 30,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Seasons",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1141460,
+          "known_for_department": "Directing",
+          "name": "牧野貴",
+          "original_name": "牧野貴",
+          "popularity": 0.5266,
+          "profile_path": "/tpkPhwGtuVw4nypkRR5Kz81YLw9.jpg",
+          "credit_id": "5b1ec8720e0a264f9500e9c5",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 980261,
+          "known_for_department": "Sound",
+          "name": "Jim O'Rourke",
+          "original_name": "Jim O'Rourke",
+          "popularity": 0.789,
+          "profile_path": "/eF1HcAXQ5YUnagBkLBCoc60D2mA.jpg",
+          "credit_id": "5e961c4ecdf2e6001465858a",
+          "department": "Sound",
+          "job": "Music"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2008-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

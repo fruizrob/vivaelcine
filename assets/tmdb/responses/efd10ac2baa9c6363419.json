@@ -1,0 +1,52 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Hanabi&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-05T02:39:40.978Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/yDNYtJj4kmGyWaDoV0lSq7xLkom.jpg",
+        "genre_ids": [
+          18,
+          99
+        ],
+        "id": 1729628,
+        "title": "Hanabi",
+        "original_language": "ja",
+        "original_title": "Hanabi",
+        "overview": "",
+        "popularity": 0.8794,
+        "poster_path": "/l6ctzg1jLWLNo841JACngsvRWmJ.jpg",
+        "release_date": "2026-08-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1Tah0sxqSrBe5Wr2cfxwMVAUvZY.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10749
+        ],
+        "id": 1622621,
+        "title": "君と花火と約束と",
+        "original_language": "ja",
+        "original_title": "君と花火と約束と",
+        "overview": "",
+        "popularity": 1.3484,
+        "poster_path": "/aBiHOhnc0IrDi6IbqVvhbs9FGX.jpg",
+        "release_date": "2026-07-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1484340?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:01.507Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/sLzKzDrJnYRdLaK0A8d5pLQg5id.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 37,
+        "name": "Western"
+      }
+    ],
+    "homepage": "",
+    "id": 1484340,
+    "imdb_id": null,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "The Magnificent Stranger",
+    "overview": "En la década de los 60, Hoyo de Manzanares fue el primer poblado de decorados con edificaciones estables en Europa. Durante más de diez años, estos decorados fueron el escenario de más de 100 películas del género western. Entre ellas se encuentra Por un puñado de dólares (1964), una de las películas más influyentes de Sergio Leone. El documental narra cómo fueron esos años de cine en el municipio y cómo ese poblado, hoy conocido como Golden City, cambió la vida de los hoyenses, conformando parte de su historia reciente e identidad.",
+    "popularity": 0.9065,
+    "poster_path": "/5zIGwEqkKSdzFmJtyGjAVc548j9.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2025-10-09",
+    "revenue": 0,
+    "runtime": 81,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Magnificent Stranger",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1195187,
+          "known_for_department": "Directing",
+          "name": "Víctor Matellano",
+          "original_name": "Víctor Matellano",
+          "popularity": 0.2238,
+          "profile_path": "/JJ38GDxjXJv0KX8fieJzF8b0gX.jpg",
+          "cast_id": 3,
+          "character": "Aparición",
+          "credit_id": "6abdac696656653af1273f43",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 13159,
+          "known_for_department": "Production",
+          "name": "Andrés Vicente Gómez",
+          "original_name": "Andrés Vicente Gómez",
+          "popularity": 0.3245,
+          "profile_path": "/6Nj5VCa0IAybaXVsZ77He69h08V.jpg",
+          "cast_id": 4,
+          "character": "Aparición",
+          "credit_id": "6abdac81da0d93dfbcf4dba2",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1342691,
+          "known_for_department": "Acting",
+          "name": "Carlos Aguilar",
+          "original_name": "Carlos Aguilar",
+          "popularity": 0.2248,
+          "profile_path": "/t39B8Mi4yGBYh9LqL4qVV7y0SLK.jpg",
+          "cast_id": 5,
+          "character": "Aparición",
+          "credit_id": "6abdac917acb24a0ab8f95ab",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 80945,
+          "known_for_department": "Art",
+          "name": "José Luis Galicia",
+          "original_name": "José Luis Galicia",
+          "popularity": 1.1874,
+          "profile_path": "/a7MXx6VKHJNUGEEngUvtyApkKBT.jpg",
+          "cast_id": 6,
+          "character": "Aparicion",
+          "credit_id": "6abdacafd31ad1cb479b78c5",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4299366,
+          "known_for_department": "Production",
+          "name": "Miguel Ángel Guerra",
+          "original_name": "Miguel Ángel Guerra",
+          "popularity": 0.3643,
+          "profile_path": null,
+          "credit_id": "682c4850a58c5098532f79f1",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3168014,
+          "known_for_department": "Editing",
+          "name": "Iván Karras",
+          "original_name": "Iván Karras",
+          "popularity": 0.3885,
+          "profile_path": null,
+          "credit_id": "682c485ed9192568c18c1021",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3168014,
+          "known_for_department": "Editing",
+          "name": "Iván Karras",
+          "original_name": "Iván Karras",
+          "popularity": 0.3885,
+          "profile_path": null,
+          "credit_id": "6abdacdc4f1705e3b48f95c7",
+          "department": "Writing",
+          "job": "Script Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2025-10-09T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

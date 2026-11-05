@@ -1,0 +1,571 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1431314?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:28.654Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/sjRbja3ZMAH4m4hr2QbH8N8KCAX.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 1431314,
+    "imdb_id": null,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "ca",
+    "original_title": "SOTA TERRA",
+    "overview": "",
+    "popularity": 0.7997,
+    "poster_path": "/xnRxRBpGKOnsnB3crt3KjKLKiRk.jpg",
+    "production_companies": [
+      {
+        "id": 78523,
+        "logo_path": "/tlptuYlIEOmXlb4PnuJXj6R4H3A.png",
+        "name": "Universitat Pompeu Fabra",
+        "origin_country": "ES"
+      },
+      {
+        "id": 107050,
+        "logo_path": null,
+        "name": "Canon Spain",
+        "origin_country": ""
+      },
+      {
+        "id": 255729,
+        "logo_path": null,
+        "name": "Nanlite",
+        "origin_country": ""
+      },
+      {
+        "id": 257488,
+        "logo_path": null,
+        "name": "cromalite",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2025-07-18",
+    "revenue": 0,
+    "runtime": 15,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Catalan",
+        "iso_639_1": "ca",
+        "name": "Català"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "SOTA TERRA",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1667684,
+          "known_for_department": "Acting",
+          "name": "Patricia Santos",
+          "original_name": "Patricia Santos",
+          "popularity": 0.1641,
+          "profile_path": "/5ffTJcjPjsP9X16yN7unDbnoe6v.jpg",
+          "cast_id": 45,
+          "character": "Laura",
+          "credit_id": "6a9a9888edab75c49940cc93",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4676559,
+          "known_for_department": "Acting",
+          "name": "Pep Linares",
+          "original_name": "Pep Linares",
+          "popularity": 0.1533,
+          "profile_path": "/dS0YQfhX4iIjZ2LFovaEJmsXDnV.jpg",
+          "cast_id": 28,
+          "character": "Ramon",
+          "credit_id": "67cdb793ff1a840b9910ea1d",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4749238,
+          "known_for_department": "Acting",
+          "name": "Òscar Franco i Morró",
+          "original_name": "Òscar Franco i Morró",
+          "popularity": 0.1391,
+          "profile_path": "/2e24LHTY3sWAj6IVrfL3qSXkj68.jpg",
+          "cast_id": 29,
+          "character": "Daniel",
+          "credit_id": "67cdb79ead486b43ebe2d4e6",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3822804,
+          "known_for_department": "Directing",
+          "name": "Ferran Ortega Briz",
+          "original_name": "Ferran Ortega Briz",
+          "popularity": 0.256,
+          "profile_path": "/jEAFpypJgO6YYxODgVqm2utuYrh.jpg",
+          "credit_id": "67a7b88f1729ffa1cae07722",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4248359,
+          "known_for_department": "Camera",
+          "name": "Saül Pocurull Placín",
+          "original_name": "Saül Pocurull Placín",
+          "popularity": 0.1079,
+          "profile_path": null,
+          "credit_id": "67a7b89a1729ffa1cae07734",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3822807,
+          "known_for_department": "Camera",
+          "name": "Júlia Boqué Gaya",
+          "original_name": "Júlia Boqué Gaya",
+          "popularity": 0.5117,
+          "profile_path": null,
+          "credit_id": "67a7b8b22287f3b917c8ae4c",
+          "department": "Production",
+          "job": "Production Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4424332,
+          "known_for_department": "Camera",
+          "name": "Aniol Hernández",
+          "original_name": "Aniol Hernández",
+          "popularity": 0.0925,
+          "profile_path": null,
+          "credit_id": "67a7b8c42287f3b917c8ae54",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4248340,
+          "known_for_department": "Acting",
+          "name": "Carla Carreras",
+          "original_name": "Carla Carreras",
+          "popularity": 0.1207,
+          "profile_path": null,
+          "credit_id": "67a7b8d52287f3b917c8ae5d",
+          "department": "Art",
+          "job": "Art Department Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4368853,
+          "known_for_department": "Production",
+          "name": "Júlia Felius Vilela",
+          "original_name": "Júlia Felius Vilela",
+          "popularity": 0.1002,
+          "profile_path": null,
+          "credit_id": "67a7b94abf0a9f6f54e07f62",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3822812,
+          "known_for_department": "Sound",
+          "name": "Roger Mach Niubó",
+          "original_name": "Roger Mach Niubó",
+          "popularity": 0.3074,
+          "profile_path": null,
+          "credit_id": "67a7e79306bd0cefa6e04e62",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3822804,
+          "known_for_department": "Directing",
+          "name": "Ferran Ortega Briz",
+          "original_name": "Ferran Ortega Briz",
+          "popularity": 0.256,
+          "profile_path": "/jEAFpypJgO6YYxODgVqm2utuYrh.jpg",
+          "credit_id": "67a7e7a058d93cefedc8c581",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3521611,
+          "known_for_department": "Production",
+          "name": "Clàudia Sant Lorente",
+          "original_name": "Clàudia Sant Lorente",
+          "popularity": 0.1076,
+          "profile_path": null,
+          "credit_id": "67a7e84bdf55e8f213f11ef3",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3521601,
+          "known_for_department": "Crew",
+          "name": "Marc Llinàs Pruna",
+          "original_name": "Marc Llinàs Pruna",
+          "popularity": 0.1377,
+          "profile_path": null,
+          "credit_id": "67a7e86b06bd0cefa6e04eb0",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3822804,
+          "known_for_department": "Directing",
+          "name": "Ferran Ortega Briz",
+          "original_name": "Ferran Ortega Briz",
+          "popularity": 0.256,
+          "profile_path": "/jEAFpypJgO6YYxODgVqm2utuYrh.jpg",
+          "credit_id": "67a7e87c2287f3b917c8b29d",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4248359,
+          "known_for_department": "Camera",
+          "name": "Saül Pocurull Placín",
+          "original_name": "Saül Pocurull Placín",
+          "popularity": 0.1079,
+          "profile_path": null,
+          "credit_id": "67a7e88758d93cefedc8c619",
+          "department": "Writing",
+          "job": "Writers' Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3822807,
+          "known_for_department": "Camera",
+          "name": "Júlia Boqué Gaya",
+          "original_name": "Júlia Boqué Gaya",
+          "popularity": 0.5117,
+          "profile_path": null,
+          "credit_id": "67a7e89206bd0cefa6e04eb5",
+          "department": "Writing",
+          "job": "Writers' Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3822807,
+          "known_for_department": "Camera",
+          "name": "Júlia Boqué Gaya",
+          "original_name": "Júlia Boqué Gaya",
+          "popularity": 0.5117,
+          "profile_path": null,
+          "credit_id": "67a91234b01153d6f49367b6",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4248358,
+          "known_for_department": "Directing",
+          "name": "Ana Romero López",
+          "original_name": "Ana Romero López",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "credit_id": "67a9124e0bf46f8e880f67bc",
+          "department": "Art",
+          "job": "Art Department Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3822807,
+          "known_for_department": "Camera",
+          "name": "Júlia Boqué Gaya",
+          "original_name": "Júlia Boqué Gaya",
+          "popularity": 0.5117,
+          "profile_path": null,
+          "credit_id": "67a91268d15e4f3d94935fa9",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3822804,
+          "known_for_department": "Directing",
+          "name": "Ferran Ortega Briz",
+          "original_name": "Ferran Ortega Briz",
+          "popularity": 0.256,
+          "profile_path": "/jEAFpypJgO6YYxODgVqm2utuYrh.jpg",
+          "credit_id": "67a91280f8898b1cac05f8e2",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5269447,
+          "known_for_department": "Camera",
+          "name": "David Aguinaga",
+          "original_name": "David Aguinaga",
+          "popularity": 0.1002,
+          "profile_path": null,
+          "credit_id": "67be1ac754589cd857560a7e",
+          "department": "Camera",
+          "job": "Camera Department Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4248359,
+          "known_for_department": "Camera",
+          "name": "Saül Pocurull Placín",
+          "original_name": "Saül Pocurull Placín",
+          "popularity": 0.1079,
+          "profile_path": null,
+          "credit_id": "67cdb7b8f9a48698e2e2da6e",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4424332,
+          "known_for_department": "Camera",
+          "name": "Aniol Hernández",
+          "original_name": "Aniol Hernández",
+          "popularity": 0.0925,
+          "profile_path": null,
+          "credit_id": "67cdb7cc75c9f1bd12e2d3ad",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3823447,
+          "known_for_department": "Sound",
+          "name": "Eduard Martí",
+          "original_name": "Eduard Martí",
+          "popularity": 0.0992,
+          "profile_path": null,
+          "credit_id": "67cdb7f7ad486b43ebe2d50a",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5327690,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Mar Porta Giné",
+          "original_name": "Mar Porta Giné",
+          "popularity": 0.101,
+          "profile_path": null,
+          "credit_id": "67e2f9e9d4052f4793dc8095",
+          "department": "Costume & Make-Up",
+          "job": "Costume Designer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3762010,
+          "known_for_department": "Production",
+          "name": "Andrea Lizarte",
+          "original_name": "Andrea Lizarte",
+          "popularity": 0.2313,
+          "profile_path": null,
+          "credit_id": "67e2fa3e440f311ace760080",
+          "department": "Production",
+          "job": "Producer's Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5327693,
+          "known_for_department": "Production",
+          "name": "Jaume Fabregat Sánchez",
+          "original_name": "Jaume Fabregat Sánchez",
+          "popularity": 0.1052,
+          "profile_path": null,
+          "credit_id": "67e2fa897b7313b5aef07a2e",
+          "department": "Production",
+          "job": "Production Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5327696,
+          "known_for_department": "Lighting",
+          "name": "Iris Porcuna",
+          "original_name": "Iris Porcuna",
+          "popularity": 0.0967,
+          "profile_path": null,
+          "credit_id": "67e2faa6440f311ace7600ab",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5327698,
+          "known_for_department": "Lighting",
+          "name": "Andrea Ribes Chavarria",
+          "original_name": "Andrea Ribes Chavarria",
+          "popularity": 0.1075,
+          "profile_path": null,
+          "credit_id": "67e2fab3eba79f6ff7f0a192",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5327699,
+          "known_for_department": "Camera",
+          "name": "Marina Serra Comajoan",
+          "original_name": "Marina Serra Comajoan",
+          "popularity": 0.1226,
+          "profile_path": null,
+          "credit_id": "67e2fac2a63bcc4997dc8885",
+          "department": "Camera",
+          "job": "BTS Photographer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5327700,
+          "known_for_department": "Art",
+          "name": "Jules Prat Clusellas",
+          "original_name": "Jules Prat Clusellas",
+          "popularity": 0.1009,
+          "profile_path": null,
+          "credit_id": "67e2fad8440f311ace7600d2",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5327702,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Natalia Pazo Pérez",
+          "original_name": "Natalia Pazo Pérez",
+          "popularity": 0.1175,
+          "profile_path": null,
+          "credit_id": "67e2fae7a63bcc4997dc8894",
+          "department": "Costume & Make-Up",
+          "job": "Makeup & Hair"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5327703,
+          "known_for_department": "Art",
+          "name": "André Capocchi",
+          "original_name": "André Capocchi",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "67e2faf84c52746665dca902",
+          "department": "Art",
+          "job": "Art Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5327704,
+          "known_for_department": "Visual Effects",
+          "name": "Marc Abad Jiménez",
+          "original_name": "Marc Abad Jiménez",
+          "popularity": 0.0986,
+          "profile_path": null,
+          "credit_id": "67e2fb0ad70c61590375f0f5",
+          "department": "Visual Effects",
+          "job": "VFX Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5327705,
+          "known_for_department": "Lighting",
+          "name": "Ferran Garcia Palomo",
+          "original_name": "Ferran Garcia Palomo",
+          "popularity": 0.1044,
+          "profile_path": null,
+          "credit_id": "67e2fb61440f311ace7600f7",
+          "department": "Lighting",
+          "job": "Gaffer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ca",
+              "note": "Future festivals",
+              "release_date": "2026-12-31T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ca",
+              "note": "Universitat Pompeu Fabra - TFG",
+              "release_date": "2025-07-18T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

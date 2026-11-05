@@ -1,0 +1,89 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1103026?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:41.609Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1103026,
+    "imdb_id": "tt0407108",
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "Los perros",
+    "overview": "Documental sobre un taxista santiagueño que formó parte del ERP (Ejército Revolucionario del Pueblo) en los años ’70. Documentary about a taxi driver from Santiago who was part of the ERP (People's Revolutionary Army) in the 1970s.",
+    "popularity": 0.3235,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2004-07-22",
+    "revenue": 0,
+    "runtime": 80,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Los perros",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3185233,
+          "known_for_department": "Writing",
+          "name": "Adrián Jaime",
+          "original_name": "Adrián Jaime",
+          "popularity": 0.1677,
+          "profile_path": null,
+          "credit_id": "641a35f5ac8e6b0084c34a95",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2004-07-22T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

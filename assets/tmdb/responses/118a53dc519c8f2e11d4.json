@@ -1,0 +1,128 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/799855?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:30.958Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 799855,
+    "imdb_id": null,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "The Seasons",
+    "overview": "",
+    "popularity": 0.1685,
+    "poster_path": "/fMxDjpr95SE4HeBGjsgLDO6gDC3.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2009-08-01",
+    "revenue": 0,
+    "runtime": 3,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Seasons",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3536770,
+          "known_for_department": "Directing",
+          "name": "Junpei Fujita",
+          "original_name": "Junpei Fujita",
+          "popularity": 0.13,
+          "profile_path": null,
+          "credit_id": "627309a3c74eba0f0dee14fd",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3536770,
+          "known_for_department": "Directing",
+          "name": "Junpei Fujita",
+          "original_name": "Junpei Fujita",
+          "popularity": 0.13,
+          "profile_path": null,
+          "credit_id": "6273099f7cffda7318194688",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2988318,
+          "known_for_department": "Sound",
+          "name": "Twoth",
+          "original_name": "Twoth",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "603547e5223e20004002db45",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2988316,
+          "known_for_department": "Sound",
+          "name": "Kyoko Teramura",
+          "original_name": "Kyoko Teramura",
+          "popularity": 0.0936,
+          "profile_path": null,
+          "credit_id": "603547ce223e20003d02e1b2",
+          "department": "Sound",
+          "job": "Sound Designer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "xx",
+              "note": "",
+              "release_date": "2009-08-01T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

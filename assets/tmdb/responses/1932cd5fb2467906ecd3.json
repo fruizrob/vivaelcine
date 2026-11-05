@@ -1,0 +1,92 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1661537?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:18.512Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1661537,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "replica fireplace",
+    "overview": "",
+    "popularity": 0.3546,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "replica fireplace",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5431753,
+          "known_for_department": "Production",
+          "name": "Jacobb Leyva",
+          "original_name": "Jacobb Leyva",
+          "popularity": 0.0991,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Rome",
+          "credit_id": "69cc827e8b238dce51550d18",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5431753,
+          "known_for_department": "Production",
+          "name": "Jacobb Leyva",
+          "original_name": "Jacobb Leyva",
+          "popularity": 0.0991,
+          "profile_path": null,
+          "credit_id": "69cc828f8b238dce51550d22",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5431753,
+          "known_for_department": "Production",
+          "name": "Jacobb Leyva",
+          "original_name": "Jacobb Leyva",
+          "popularity": 0.0991,
+          "profile_path": null,
+          "credit_id": "69cc829913aad663a948ed3c",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

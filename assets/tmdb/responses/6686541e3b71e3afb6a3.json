@@ -1,0 +1,89 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Mimbre&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:52.297Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 357812,
+        "title": "Mimbre",
+        "original_language": "es",
+        "original_title": "Mimbre",
+        "overview": "",
+        "popularity": 1.3036,
+        "poster_path": null,
+        "release_date": "1958-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qhPuXbHCIbE94doMxYsY2W3wMry.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 16307,
+        "title": "El hombre de mimbre",
+        "original_language": "en",
+        "original_title": "The Wicker Man",
+        "overview": "Una carta que hace sospechar que una joven desaparecida ha sido asesinada lleva al sargento Howie de Scotland Yard hasta Summerisle, una isla en la costa de Inglaterra. Allí el inspector se entera de que hay una especie de culto pagano, y conoce a Lord Summerisle, el líder religioso de la isla.",
+        "popularity": 6.7717,
+        "poster_path": "/qeNitlsX0CMxj4of9UM9cVuvUIN.jpg",
+        "release_date": "1973-12-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.329,
+        "vote_count": 1769
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1186633,
+        "title": "Mimbre y Greda",
+        "original_language": "es",
+        "original_title": "Mimbre y Greda",
+        "overview": "Cortometraje que narra de forma didáctica los procesos del desarrollo de artesanía en mimbre y greda. La cinta parte de la experiencia de un personaje que cuenta una historia a sus sobrinos. Trabajo realizado como parte de la serie documental Andanzas de un Chileno.",
+        "popularity": 0.3194,
+        "poster_path": "/aE2xo0tCA1s8bGd1JYQjjMlXyEY.jpg",
+        "release_date": "1966-09-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oJiBH1aSFv0gOKwb34I7CCKqgRE.jpg",
+        "genre_ids": [
+          27,
+          9648,
+          53
+        ],
+        "id": 79544,
+        "title": "The Wicker Tree",
+        "original_language": "en",
+        "original_title": "The Wicker Tree",
+        "overview": "Beth y Steve son miembros de los \"Cowboys de Cristo\", un grupo evangélico que hace proselitismo fuera de los Estados Unidos. El apostolado lleva a la pareja a un pueblecito escocés llamado Tressock, donde son invitados a asistir a una celebración. La pareja acepta, sin saber que la ceremonia se basa en rituales paganos.",
+        "popularity": 0.8145,
+        "poster_path": "/l86p3fObjImjm5CLJFAcgVLWm9n.jpg",
+        "release_date": "2011-08-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 3.9,
+        "vote_count": 62
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+  }
+}

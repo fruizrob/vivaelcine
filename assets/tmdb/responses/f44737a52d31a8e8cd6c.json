@@ -1,0 +1,242 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/833696?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:35.451Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 833696,
+    "imdb_id": null,
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Terra",
+    "overview": "",
+    "popularity": 1.783,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 143518,
+        "logo_path": null,
+        "name": "Lontane Province Film",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "2002-11-01",
+    "revenue": 0,
+    "runtime": 6,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1344688,
+          "known_for_department": "Acting",
+          "name": "Giulietta De Bernardi",
+          "original_name": "Giulietta De Bernardi",
+          "popularity": 0.7054,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "60ae7c4650f7ca007854e3f8",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2852454,
+          "known_for_department": "Acting",
+          "name": "Teresa Momo",
+          "original_name": "Teresa Momo",
+          "popularity": 0.2594,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "60ae7c53ecbde9005747de65",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1991970,
+          "known_for_department": "Acting",
+          "name": "Mariella Navale",
+          "original_name": "Mariella Navale",
+          "popularity": 0.1686,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "60ae7c60c1ffbd00567a01fd",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3104451,
+          "known_for_department": "Acting",
+          "name": "Adelina Cappone",
+          "original_name": "Adelina Cappone",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "60ae7c77bccf1e0077236d14",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3104452,
+          "known_for_department": "Acting",
+          "name": "Simone Chiapino",
+          "original_name": "Simone Chiapino",
+          "popularity": 0.2244,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "60ae7c8d17b5ef0029745054",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2852095,
+          "known_for_department": "Acting",
+          "name": "Franco Chiapino",
+          "original_name": "Franco Chiapino",
+          "popularity": 0.2045,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "60ae7c9bc1ffbd0040c0c33b",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3104454,
+          "known_for_department": "Acting",
+          "name": "Artù",
+          "original_name": "Artù",
+          "popularity": 0.4345,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "60ae7ce800bfe800771d9e03",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1132633,
+          "known_for_department": "Directing",
+          "name": "Tonino De Bernardi",
+          "original_name": "Tonino De Bernardi",
+          "popularity": 0.3888,
+          "profile_path": "/6t3K7VZymqWMpJKifzN6xEFlPqK.jpg",
+          "credit_id": "60ae7d02bccf1e0077236dfe",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1344695,
+          "known_for_department": "Acting",
+          "name": "Alberto Momo",
+          "original_name": "Alberto Momo",
+          "popularity": 0.108,
+          "profile_path": null,
+          "credit_id": "60ae7d70568463006db6730d",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1601250,
+          "known_for_department": "Sound",
+          "name": "Giuseppe D'Amato",
+          "original_name": "Giuseppe D'Amato",
+          "popularity": 0.555,
+          "profile_path": null,
+          "credit_id": "60ae7d9e87e63e002978f2c9",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2851935,
+          "known_for_department": "Editing",
+          "name": "Pietro Lassandro",
+          "original_name": "Pietro Lassandro",
+          "popularity": 0.309,
+          "profile_path": null,
+          "credit_id": "60ae7d1217b5ef005711c33b",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1132633,
+          "known_for_department": "Directing",
+          "name": "Tonino De Bernardi",
+          "original_name": "Tonino De Bernardi",
+          "popularity": 0.3888,
+          "profile_path": "/6t3K7VZymqWMpJKifzN6xEFlPqK.jpg",
+          "credit_id": "60ae7db4dff66e0059c32534",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2002-11-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

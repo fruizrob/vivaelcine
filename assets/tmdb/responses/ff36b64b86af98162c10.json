@@ -1,0 +1,600 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/419699?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:08.938Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/s3uqYa8zG2oiXY6pJZvWpGFMWSQ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 419699,
+    "imdb_id": "tt3444008",
+    "origin_country": [
+      "IL"
+    ],
+    "original_language": "he",
+    "original_title": "מדינת הגמדים",
+    "overview": "",
+    "popularity": 0.9309,
+    "poster_path": "/gcMECs1mjk99alKiPxTqvLcMHQ2.jpg",
+    "production_companies": [
+      {
+        "id": 97284,
+        "logo_path": "/2SvM3oCu7WChbXjvXxbGnmhi9SL.png",
+        "name": "WhiteBird Films",
+        "origin_country": "IL"
+      },
+      {
+        "id": 26889,
+        "logo_path": "/4EJtZKdtpnfozCqI3svM0ImBqhu.png",
+        "name": "Fresco Films",
+        "origin_country": "PS"
+      },
+      {
+        "id": 97282,
+        "logo_path": null,
+        "name": "Noescapeteam",
+        "origin_country": ""
+      },
+      {
+        "id": 97283,
+        "logo_path": null,
+        "name": "Royal Rat Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IL",
+        "name": "Israel"
+      },
+      {
+        "iso_3166_1": "PS",
+        "name": "Palestinian Territory"
+      }
+    ],
+    "release_date": "2016-06-06",
+    "revenue": 0,
+    "runtime": 83,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hebrew",
+        "iso_639_1": "he",
+        "name": "עִבְרִית"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "מדינת הגמדים",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 11,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1209525,
+          "known_for_department": "Acting",
+          "name": "Ofer Hayoun",
+          "original_name": "Ofer Hayoun",
+          "popularity": 0.3994,
+          "profile_path": "/esqB9DVr3tPWif8Is4Ew2c4B25B.jpg",
+          "cast_id": 24,
+          "character": "Omer",
+          "credit_id": "5a08c4ebc3a36867ac00619e",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1765087,
+          "known_for_department": "Acting",
+          "name": "מאור שוויצר",
+          "original_name": "מאור שוויצר",
+          "popularity": 0.3606,
+          "profile_path": "/6TKkGLDKyYBq8pvjIJA1wvFWz2B.jpg",
+          "cast_id": 25,
+          "character": "Yaron",
+          "credit_id": "5a08c502c3a36867f0005f77",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922725,
+          "known_for_department": "Acting",
+          "name": "Debbie Jovany-Elallouf",
+          "original_name": "Debbie Jovany-Elallouf",
+          "popularity": 0.1126,
+          "profile_path": null,
+          "cast_id": 26,
+          "character": "Carolina",
+          "credit_id": "5a08c5199251417811006b71",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922726,
+          "known_for_department": "Acting",
+          "name": "Eytan Sharon",
+          "original_name": "Eytan Sharon",
+          "popularity": 0.3325,
+          "profile_path": null,
+          "cast_id": 27,
+          "character": "Man at the beach",
+          "credit_id": "5a08c5329251417824006aa4",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922727,
+          "known_for_department": "Acting",
+          "name": "Gefen Berman",
+          "original_name": "Gefen Berman",
+          "popularity": 0.3332,
+          "profile_path": null,
+          "cast_id": 28,
+          "character": "Yonatan's Sister",
+          "credit_id": "5a08c549c3a3686791006a24",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922728,
+          "known_for_department": "Acting",
+          "name": "Ben Sela",
+          "original_name": "Ben Sela",
+          "popularity": 0.1161,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "Yaki",
+          "credit_id": "5a08c5639251417824006ae5",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922729,
+          "known_for_department": "Acting",
+          "name": "Ibrahim El-Atawna",
+          "original_name": "Ibrahim El-Atawna",
+          "popularity": 0.7095,
+          "profile_path": null,
+          "cast_id": 30,
+          "character": "Street Sweeper",
+          "credit_id": "5a08c579c3a368676100690a",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922730,
+          "known_for_department": "Acting",
+          "name": "Lauren Lomayer",
+          "original_name": "Lauren Lomayer",
+          "popularity": 0.207,
+          "profile_path": null,
+          "cast_id": 31,
+          "character": "Tali's Friend",
+          "credit_id": "5a08c590925141783b00659d",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922731,
+          "known_for_department": "Acting",
+          "name": "Mishel Pruzansky",
+          "original_name": "Mishel Pruzansky",
+          "popularity": 0.3855,
+          "profile_path": null,
+          "cast_id": 32,
+          "character": "Tali",
+          "credit_id": "5a08c5a59251417824006b4c",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922732,
+          "known_for_department": "Acting",
+          "name": "Nimrod Hochenberg",
+          "original_name": "Nimrod Hochenberg",
+          "popularity": 0.2133,
+          "profile_path": null,
+          "cast_id": 33,
+          "character": "Jacky",
+          "credit_id": "5a08c5bb92514177f6006a11",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922733,
+          "known_for_department": "Acting",
+          "name": "Ido Kestler",
+          "original_name": "Ido Kestler",
+          "popularity": 0.1119,
+          "profile_path": null,
+          "cast_id": 34,
+          "character": "Louie",
+          "credit_id": "5a08c5d2c3a368674f0067b6",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922734,
+          "known_for_department": "Acting",
+          "name": "Hen Saban",
+          "original_name": "Hen Saban",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "cast_id": 35,
+          "character": "Ronit",
+          "credit_id": "5a08c5ea925141783b006624",
+          "order": 11
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1647483,
+          "known_for_department": "Directing",
+          "name": "Yaniv Berman",
+          "original_name": "Yaniv Berman",
+          "popularity": 0.1648,
+          "profile_path": null,
+          "credit_id": "57f61bd1c3a3681616004fca",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1647483,
+          "known_for_department": "Directing",
+          "name": "Yaniv Berman",
+          "original_name": "Yaniv Berman",
+          "popularity": 0.1648,
+          "profile_path": null,
+          "credit_id": "5a08c2f4925141783b0061c7",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922707,
+          "known_for_department": "Production",
+          "name": "Tony Copti",
+          "original_name": "Tony Copti",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "5a08c30e925141785d00646b",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1922708,
+          "known_for_department": "Sound",
+          "name": "Gad Emile Zeitune",
+          "original_name": "Gad Emile Zeitune",
+          "popularity": 0.2287,
+          "profile_path": null,
+          "credit_id": "5a08c325925141783b006206",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1733552,
+          "known_for_department": "Camera",
+          "name": "Rami Katzav",
+          "original_name": "Rami Katzav",
+          "popularity": 0.1773,
+          "profile_path": null,
+          "credit_id": "5a08c33bc3a36867790062ac",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922709,
+          "known_for_department": "Editing",
+          "name": "Oz Guttman",
+          "original_name": "Oz Guttman",
+          "popularity": 0.1232,
+          "profile_path": null,
+          "credit_id": "5a08c34c925141784500688a",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922712,
+          "known_for_department": "Editing",
+          "name": "Ziv Karshen",
+          "original_name": "Ziv Karshen",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "credit_id": "5a08c35dc3a36867790062dd",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 970107,
+          "known_for_department": "Art",
+          "name": "Yoel Herzberg",
+          "original_name": "Yoel Herzberg",
+          "popularity": 0.2486,
+          "profile_path": null,
+          "credit_id": "5a08c3719251417811006894",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922713,
+          "known_for_department": "Art",
+          "name": "Eden Ohana",
+          "original_name": "Eden Ohana",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "5a08c386c3a368672a00686f",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922714,
+          "known_for_department": "Art",
+          "name": "Maayan Sokol",
+          "original_name": "Maayan Sokol",
+          "popularity": 0.1006,
+          "profile_path": null,
+          "credit_id": "5a08c398c3a368674f0064a0",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922715,
+          "known_for_department": "Directing",
+          "name": "Keren Hoter",
+          "original_name": "Keren Hoter",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "5a08c3b9c3a368672a0068b3",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1579382,
+          "known_for_department": "Sound",
+          "name": "Oren Yaacoby",
+          "original_name": "Oren Yaacoby",
+          "popularity": 0.5052,
+          "profile_path": null,
+          "credit_id": "5a08c3cd925141785d0065a2",
+          "department": "Sound",
+          "job": "Music Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922716,
+          "known_for_department": "Production",
+          "name": "Einav Markel",
+          "original_name": "Einav Markel",
+          "popularity": 0.116,
+          "profile_path": null,
+          "credit_id": "5a08c3dfc3a36867ac00601d",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922717,
+          "known_for_department": "Lighting",
+          "name": "Motti Angel",
+          "original_name": "Motti Angel",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "5a08c3f4925141783b00633d",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922718,
+          "known_for_department": "Lighting",
+          "name": "Noam Huber",
+          "original_name": "Noam Huber",
+          "popularity": 0.1207,
+          "profile_path": null,
+          "credit_id": "5a08c404925141784f006325",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922719,
+          "known_for_department": "Camera",
+          "name": "Mickey Langental",
+          "original_name": "Mickey Langental",
+          "popularity": 0.1016,
+          "profile_path": null,
+          "credit_id": "5a08c41592514177f60067e7",
+          "department": "Camera",
+          "job": "First Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922720,
+          "known_for_department": "Visual Effects",
+          "name": "Itzik Nadel",
+          "original_name": "Itzik Nadel",
+          "popularity": 0.1008,
+          "profile_path": null,
+          "credit_id": "5a08c42d9251417824006953",
+          "department": "Visual Effects",
+          "job": "Visual Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1775053,
+          "known_for_department": "Sound",
+          "name": "Bogdan Zavarzin",
+          "original_name": "Bogdan Zavarzin",
+          "popularity": 0.34,
+          "profile_path": "/rFBPV6htoba4wmtBlcKBgb2UN8Q.jpg",
+          "credit_id": "5a08c449c3a368672a0069a1",
+          "department": "Sound",
+          "job": "Foley"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1542310,
+          "known_for_department": "Sound",
+          "name": "Arina Knyazeva",
+          "original_name": "Arina Knyazeva",
+          "popularity": 0.1448,
+          "profile_path": null,
+          "credit_id": "5a08c45dc3a36867ac0060ed",
+          "department": "Sound",
+          "job": "Foley"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1542309,
+          "known_for_department": "Sound",
+          "name": "Rustam Gimadiyev",
+          "original_name": "Rustam Gimadiyev",
+          "popularity": 0.3243,
+          "profile_path": "/lXyCizQvUvxJ80tTAbMXpCobMJa.jpg",
+          "credit_id": "5a08c47692514178240069ac",
+          "department": "Sound",
+          "job": "Foley"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1922721,
+          "known_for_department": "Sound",
+          "name": "Igor Kazmirchuk",
+          "original_name": "Igor Kazmirchuk",
+          "popularity": 0.4055,
+          "profile_path": "/iD6BgZa6Gqz9bPgINJS3uly19yU.jpg",
+          "credit_id": "5a08c4879251417845006a5a",
+          "department": "Sound",
+          "job": "Foley Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1922722,
+          "known_for_department": "Sound",
+          "name": "Игорь Яшин",
+          "original_name": "Игорь Яшин",
+          "popularity": 0.1695,
+          "profile_path": "/im5PebHQvjYi5l64ep94Hb0iCRr.jpg",
+          "credit_id": "5a08c49b92514177f60068b4",
+          "department": "Sound",
+          "job": "Foley Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922723,
+          "known_for_department": "Sound",
+          "name": "Michael Goorevich",
+          "original_name": "Michael Goorevich",
+          "popularity": 0.113,
+          "profile_path": null,
+          "credit_id": "5a08c4b6c3a368672a006a3d",
+          "department": "Sound",
+          "job": "Sound Re-Recording Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922724,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Carmit Buzaglo",
+          "original_name": "Carmit Buzaglo",
+          "popularity": 0.1126,
+          "profile_path": null,
+          "credit_id": "5a08c4cc9251417845006aad",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cinema South Film Festival",
+              "release_date": "2016-06-06T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "IL",
+          "title": "Medinat Hagamadim",
+          "type": "transliteration"
+        }
+      ]
+    }
+  }
+}

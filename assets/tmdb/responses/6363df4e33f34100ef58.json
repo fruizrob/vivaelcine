@@ -1,0 +1,126 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/831997?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:17.640Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 831997,
+    "imdb_id": null,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Replica",
+    "overview": "Génesis 1:26 - Entonces Dios dijo: Hagamos al hombre a nuestra imagen, y semejanza. Entonces Edu hizo eso con Carmen, su maniquí.",
+    "popularity": 1.7633,
+    "poster_path": "/rPi1SMvn2Lq9CUsLRdYOfLl8Q7C.jpg",
+    "production_companies": [
+      {
+        "id": 154625,
+        "logo_path": null,
+        "name": "Geñal",
+        "origin_country": ""
+      },
+      {
+        "id": 132914,
+        "logo_path": null,
+        "name": "YAQ Distribución",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2019-05-17",
+    "revenue": 0,
+    "runtime": 13,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Replica",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1535237,
+          "known_for_department": "Acting",
+          "name": "Pablo Castellano",
+          "original_name": "Pablo Castellano",
+          "popularity": 0.3251,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "60a78d297dfda6005940c009",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2264694,
+          "known_for_department": "Acting",
+          "name": "Iria del Río",
+          "original_name": "Iria del Río",
+          "popularity": 1.2413,
+          "profile_path": "/z7Dqvpnb8R13P6B5pmUCDxb2Jvv.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "60a78d3b8dbc330041a182ae",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1535240,
+          "known_for_department": "Writing",
+          "name": "Santi Capuz",
+          "original_name": "Santi Capuz",
+          "popularity": 0.6999,
+          "profile_path": null,
+          "credit_id": "60a78d549a64c10058c3782f",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-05-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

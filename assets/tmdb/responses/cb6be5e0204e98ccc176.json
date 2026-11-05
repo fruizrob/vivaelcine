@@ -1,0 +1,405 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1437120?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:51.543Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/5NRMbug9m1M0ertdAwoXScco6cB.jpg",
+    "belongs_to_collection": null,
+    "budget": 100,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1437120,
+    "imdb_id": null,
+    "origin_country": [
+      "VE"
+    ],
+    "original_language": "es",
+    "original_title": "La Lucha",
+    "overview": "Un joven intenta salvar la relación con su padre antes de que sus diferencias los conduzcan a un abismo sin retorno.",
+    "popularity": 0.7476,
+    "poster_path": "/uHe5IBDuxhSLl65hsxaAEc7tXEi.jpg",
+    "production_companies": [
+      {
+        "id": 129229,
+        "logo_path": "/cf0YjHoXCgAAc15Ck4ZflRrOuAn.png",
+        "name": "Escuela Nacional de Cine",
+        "origin_country": "VE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "VE",
+        "name": "Venezuela"
+      }
+    ],
+    "release_date": "2023-03-22",
+    "revenue": 0,
+    "runtime": 19,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Lucha",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5258325,
+          "known_for_department": "Acting",
+          "name": "Rohan Montilla",
+          "original_name": "Rohan Montilla",
+          "popularity": 0.2821,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Leandro",
+          "credit_id": "67b68ee599998623c1147fdc",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5041441,
+          "known_for_department": "Acting",
+          "name": "Óscar Salomón Ley",
+          "original_name": "Óscar Salomón Ley",
+          "popularity": 0.1679,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Manuel",
+          "credit_id": "67b68ef964def0053f147ec8",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5258326,
+          "known_for_department": "Acting",
+          "name": "Rafael Jiménez",
+          "original_name": "Rafael Jiménez",
+          "popularity": 0.1924,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Cheo",
+          "credit_id": "67b68f5264def0053f147ed6",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5048151,
+          "known_for_department": "Directing",
+          "name": "Fernando Alva",
+          "original_name": "Fernando Alva",
+          "popularity": 0.1041,
+          "profile_path": "/vrIGtTM9bZDwYbMd670baj9iO8v.jpg",
+          "credit_id": "67b68f820dd22ec79c3b011b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5048151,
+          "known_for_department": "Directing",
+          "name": "Fernando Alva",
+          "original_name": "Fernando Alva",
+          "popularity": 0.1041,
+          "profile_path": "/vrIGtTM9bZDwYbMd670baj9iO8v.jpg",
+          "credit_id": "67b68f9064def0053f147eea",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5258945,
+          "known_for_department": "Directing",
+          "name": "Santiago Martín",
+          "original_name": "Santiago Martín",
+          "popularity": 0.1102,
+          "profile_path": "/3gMlRJuCEDEkP9D429hJfJ871iJ.jpg",
+          "credit_id": "67b71ced11ff03409ec3fb0c",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5258946,
+          "known_for_department": "Crew",
+          "name": "Simón Hermida",
+          "original_name": "Simón Hermida",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "67b71d0a11ff03409ec3fb42",
+          "department": "Crew",
+          "job": "Script"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5258947,
+          "known_for_department": "Camera",
+          "name": "Alejandro Arenas",
+          "original_name": "Alejandro Arenas",
+          "popularity": 0.1204,
+          "profile_path": null,
+          "credit_id": "67b71d27ed0bbcc50f6576fb",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5258948,
+          "known_for_department": "Art",
+          "name": "Claudia Aumaitre",
+          "original_name": "Claudia Aumaitre",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "67b71d4a11ff03409ec3fb94",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5048151,
+          "known_for_department": "Directing",
+          "name": "Fernando Alva",
+          "original_name": "Fernando Alva",
+          "popularity": 0.1041,
+          "profile_path": "/vrIGtTM9bZDwYbMd670baj9iO8v.jpg",
+          "credit_id": "67b71d84b3f8fb27c41a10c3",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5048151,
+          "known_for_department": "Directing",
+          "name": "Fernando Alva",
+          "original_name": "Fernando Alva",
+          "popularity": 0.1041,
+          "profile_path": "/vrIGtTM9bZDwYbMd670baj9iO8v.jpg",
+          "credit_id": "67b71d9aed0bbcc50f65778d",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5048151,
+          "known_for_department": "Directing",
+          "name": "Fernando Alva",
+          "original_name": "Fernando Alva",
+          "popularity": 0.1041,
+          "profile_path": "/vrIGtTM9bZDwYbMd670baj9iO8v.jpg",
+          "credit_id": "67b71dcaed0bbcc50f6577f5",
+          "department": "Art",
+          "job": "Graphic Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5258956,
+          "known_for_department": "Editing",
+          "name": "Sebastián Ruiz",
+          "original_name": "Sebastián Ruiz",
+          "popularity": 0.1286,
+          "profile_path": null,
+          "credit_id": "67b71dff11ff03409ec3fc81",
+          "department": "Editing",
+          "job": "Assistant Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5258948,
+          "known_for_department": "Art",
+          "name": "Claudia Aumaitre",
+          "original_name": "Claudia Aumaitre",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "67b71e1111ff03409ec3fc97",
+          "department": "Editing",
+          "job": "Assistant Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5258959,
+          "known_for_department": "Sound",
+          "name": "Robert Guerra",
+          "original_name": "Robert Guerra",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "67b71e5fed0bbcc50f6578b8",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5258961,
+          "known_for_department": "Production",
+          "name": "Angie Ortiz",
+          "original_name": "Angie Ortiz",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "67b71eb5b3f8fb27c41a1280",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5260157,
+          "known_for_department": "Lighting",
+          "name": "Israel Chona",
+          "original_name": "Israel Chona",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "67b7ba1dbc84d56cbeba329c",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5048151,
+          "known_for_department": "Directing",
+          "name": "Fernando Alva",
+          "original_name": "Fernando Alva",
+          "popularity": 0.1041,
+          "profile_path": "/vrIGtTM9bZDwYbMd670baj9iO8v.jpg",
+          "credit_id": "67b7ba32444dd7fcefba3048",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5260164,
+          "known_for_department": "Lighting",
+          "name": "Paola Proietti",
+          "original_name": "Paola Proietti",
+          "popularity": 0.095,
+          "profile_path": null,
+          "credit_id": "67b7bab7a2284666f1eb1894",
+          "department": "Lighting",
+          "job": "Electrician"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4258865,
+          "known_for_department": "Directing",
+          "name": "Jholibeth Melo",
+          "original_name": "Jholibeth Melo",
+          "popularity": 0.1133,
+          "profile_path": null,
+          "credit_id": "67b7bb0421d4708b60eb20cf",
+          "department": "Production",
+          "job": "Assistant Production Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5260167,
+          "known_for_department": "Art",
+          "name": "Michelle Rodríguez",
+          "original_name": "Michelle Rodríguez",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "67b7bb665503292756223e51",
+          "department": "Art",
+          "job": "Assistant Art Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5260167,
+          "known_for_department": "Art",
+          "name": "Michelle Rodríguez",
+          "original_name": "Michelle Rodríguez",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "67b7bbb37434200c28224315",
+          "department": "Production",
+          "job": "Assistant Production Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5048151,
+          "known_for_department": "Directing",
+          "name": "Fernando Alva",
+          "original_name": "Fernando Alva",
+          "popularity": 0.1041,
+          "profile_path": "/vrIGtTM9bZDwYbMd670baj9iO8v.jpg",
+          "credit_id": "67b7bbf7a2284666f1eb18ec",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4258795,
+          "known_for_department": "Acting",
+          "name": "Sebastián Linares",
+          "original_name": "Sebastián Linares",
+          "popularity": 0.1394,
+          "profile_path": null,
+          "credit_id": "6a6cdd7c70743838dd65ec99",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "VE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2023-03-22T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "The struggle",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

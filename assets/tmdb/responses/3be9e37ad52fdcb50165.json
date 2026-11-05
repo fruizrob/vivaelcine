@@ -1,0 +1,31 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Norte+claro%2C+sur+oscuro&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:07.049Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/6mjlPv5dPHGpmsYLiODiCQW0o27.jpg",
+        "genre_ids": [
+          99,
+          18
+        ],
+        "id": 1794054,
+        "title": "Norte claro, sur oscuro",
+        "original_language": "es",
+        "original_title": "Norte claro, sur oscuro",
+        "overview": "Francisca reabre su casa familiar, vacía desde la muerte de sus padres. Mientras la rehabita junto a su hermano, la figura de su padre alcohólico tomará forma, en una exploración material sobre lo que persiste silenciosamente entre generaciones.",
+        "popularity": 0.8673,
+        "poster_path": "/yGZhUsuvZjfgqsB5oeYYdXN62XV.jpg",
+        "release_date": "",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

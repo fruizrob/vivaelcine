@@ -1,0 +1,432 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1621216?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:30.899Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "id": 1621216,
+    "imdb_id": "tt39601967",
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Narciso",
+    "overview": "",
+    "popularity": 2.7069,
+    "poster_path": "/6JO7whKfN2GB7KIoflDtF5ym1l6.jpg",
+    "production_companies": [
+      {
+        "id": 164667,
+        "logo_path": null,
+        "name": "Buda Filmes",
+        "origin_country": "BR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2026-03-19",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Narciso",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3651731,
+          "known_for_department": "Acting",
+          "name": "Arthur Ferreira",
+          "original_name": "Arthur Ferreira",
+          "popularity": 0.3813,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Narciso",
+          "credit_id": "6972785a9ac7be64b0e3d258",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5659,
+          "known_for_department": "Acting",
+          "name": "Seu Jorge",
+          "original_name": "Seu Jorge",
+          "popularity": 0.6801,
+          "profile_path": "/p8VUk0ZSzfAF9uWjWg2jEVpPtTy.jpg",
+          "cast_id": 10,
+          "character": "Gênio",
+          "credit_id": "69727868d24a47fc2e942566",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1467506,
+          "known_for_department": "Acting",
+          "name": "Bukassa Kabengele",
+          "original_name": "Bukassa Kabengele",
+          "popularity": 0.4616,
+          "profile_path": "/wg1lFAnr2cYQsIC1DoES6i1VbCx.jpg",
+          "cast_id": 11,
+          "character": "Joaquim",
+          "credit_id": "697278a50dd8debc0a37b2f9",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 497226,
+          "known_for_department": "Acting",
+          "name": "Ju Colombo",
+          "original_name": "Ju Colombo",
+          "popularity": 0.1982,
+          "profile_path": "/f7g8IK2W89VEKVbbhU8Bjon885W.jpg",
+          "cast_id": 12,
+          "character": "Carmem",
+          "credit_id": "697278b22884cd3841aedb0a",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4632341,
+          "known_for_department": "Acting",
+          "name": "Faíska Alves",
+          "original_name": "Faíska Alves",
+          "popularity": 0.3168,
+          "profile_path": "/ng03En7lYawW0DPl7ENKsX2R8s6.jpg",
+          "cast_id": 13,
+          "character": "Alexandre",
+          "credit_id": "697278bf3ee9addfc1e3d24c",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2078051,
+          "known_for_department": "Acting",
+          "name": "Diego Francisco",
+          "original_name": "Diego Francisco",
+          "popularity": 0.9441,
+          "profile_path": "/mfC8PycX19Ap8mCKGtTUj987Cfv.jpg",
+          "cast_id": 14,
+          "character": "Naldo",
+          "credit_id": "697278ceefdad681e2e3d27e",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3923061,
+          "known_for_department": "Acting",
+          "name": "Levi Asaf",
+          "original_name": "Levi Asaf",
+          "popularity": 0.2414,
+          "profile_path": "/es92F0ACfqTxdd2awn7BU3H6oPB.jpg",
+          "cast_id": 15,
+          "character": "Carlinhos",
+          "credit_id": "697278d950aa119c9437b2f6",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5956010,
+          "known_for_department": "Acting",
+          "name": "Isadora Iglesias",
+          "original_name": "Isadora Iglesias",
+          "popularity": 0.2788,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Isis",
+          "credit_id": "697278f9b103566caf94258c",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1024133,
+          "known_for_department": "Acting",
+          "name": "Juliana Alves",
+          "original_name": "Juliana Alves",
+          "popularity": 0.3467,
+          "profile_path": "/pj09WWfCqXLkYr7VipALPSVUE2Z.jpg",
+          "cast_id": 17,
+          "character": "Sônia",
+          "credit_id": "6972791191cdad10739425f0",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2695983,
+          "known_for_department": "Acting",
+          "name": "Larissa Nunes",
+          "original_name": "Larissa Nunes",
+          "popularity": 0.2541,
+          "profile_path": "/3zVdzi7SvNJbYH3mfEjm9YxkqNN.jpg",
+          "cast_id": 18,
+          "character": "Lili",
+          "credit_id": "697279ec93289345fadca12b",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1759957,
+          "known_for_department": "Acting",
+          "name": "Wilson Rabelo",
+          "original_name": "Wilson Rabelo",
+          "popularity": 0.2355,
+          "profile_path": "/rwFWrqYYtvCfDUZi3Rmfdr130ef.jpg",
+          "cast_id": 19,
+          "character": "Juarez",
+          "credit_id": "69727a04939f18da4613cb7c",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1927763,
+          "known_for_department": "Acting",
+          "name": "Teka Romualdo",
+          "original_name": "Teka Romualdo",
+          "popularity": 0.5555,
+          "profile_path": "/bmUbib0P2dn6zrTn9LjRfQnR6Nc.jpg",
+          "cast_id": 20,
+          "character": "Josefa",
+          "credit_id": "69727a12149ba0f7259d0357",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1887513,
+          "known_for_department": "Acting",
+          "name": "Ernesto Piccolo",
+          "original_name": "Ernesto Piccolo",
+          "popularity": 0.3706,
+          "profile_path": "/7QLOWbm1cZ5pQITJSoOrn0iG5hB.jpg",
+          "cast_id": 21,
+          "character": "Jaime",
+          "credit_id": "69727a2850aa119c9437b307",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1810711,
+          "known_for_department": "Acting",
+          "name": "Fernanda Nobre",
+          "original_name": "Fernanda Nobre",
+          "popularity": 0.4942,
+          "profile_path": "/zR5SxQZCFIyIxgxa45xW4mPfcsQ.jpg",
+          "cast_id": 22,
+          "character": "Luiza",
+          "credit_id": "69727a339ac7d0f610dca0f5",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 583632,
+          "known_for_department": "Acting",
+          "name": "Marcelo Serrado",
+          "original_name": "Marcelo Serrado",
+          "popularity": 0.4977,
+          "profile_path": "/mcOfeFNzVfmBCgnGNslo1IlZUBR.jpg",
+          "cast_id": 23,
+          "character": "Fernando",
+          "credit_id": "69727a41716bab77ba37b339",
+          "order": 14
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1424874,
+          "known_for_department": "Directing",
+          "name": "Jeferson De",
+          "original_name": "Jeferson De",
+          "popularity": 0.3184,
+          "profile_path": "/8qoYv6Exb3Hz7d4MkfGQlu5miPK.jpg",
+          "credit_id": "697276a019e42664beaedb56",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2252937,
+          "known_for_department": "Writing",
+          "name": "Cristiane Arenas",
+          "original_name": "Cristiane Arenas",
+          "popularity": 0.6383,
+          "profile_path": null,
+          "credit_id": "697276e18366659d41380304",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1424874,
+          "known_for_department": "Directing",
+          "name": "Jeferson De",
+          "original_name": "Jeferson De",
+          "popularity": 0.3184,
+          "profile_path": "/8qoYv6Exb3Hz7d4MkfGQlu5miPK.jpg",
+          "credit_id": "697276f27465fee9023802de",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2252937,
+          "known_for_department": "Writing",
+          "name": "Cristiane Arenas",
+          "original_name": "Cristiane Arenas",
+          "popularity": 0.6383,
+          "profile_path": null,
+          "credit_id": "697277018366659d4138030b",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5956002,
+          "known_for_department": "Editing",
+          "name": "Pedro Iglesias Amaral",
+          "original_name": "Pedro Iglesias Amaral",
+          "popularity": 0.113,
+          "profile_path": null,
+          "credit_id": "697277fed24a47fc2e942560",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5111434,
+          "known_for_department": "Art",
+          "name": "Belisa Bagiani",
+          "original_name": "Belisa Bagiani",
+          "popularity": 0.1373,
+          "profile_path": null,
+          "credit_id": "6972781c7db40dcd5c9d039e",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1476080,
+          "known_for_department": "Sound",
+          "name": "Ariel Henrique",
+          "original_name": "Ariel Henrique",
+          "popularity": 0.2566,
+          "profile_path": null,
+          "credit_id": "69727840149ba0f7259d034d",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2524460,
+          "known_for_department": "Camera",
+          "name": "Lílis Soares",
+          "original_name": "Lílis Soares",
+          "popularity": 0.1536,
+          "profile_path": "/en4S9w5o4ReSTYKEjFzRWbXHHOF.jpg",
+          "credit_id": "6a03fee8f23bbb4dd82d0747",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6209591,
+          "known_for_department": "Sound",
+          "name": "Pedro Dom",
+          "original_name": "Pedro Dom",
+          "popularity": 0.0936,
+          "profile_path": null,
+          "credit_id": "6a03ff46c729fa176b886069",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "",
+              "release_date": "2026-03-19T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "Vancouver Black Independent Film Festival, World Premiere 2025",
+              "release_date": "2025-11-02T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

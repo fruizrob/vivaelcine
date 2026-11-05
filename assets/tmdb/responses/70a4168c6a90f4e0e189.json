@@ -1,0 +1,104 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1496363?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:26.378Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1496363,
+    "imdb_id": null,
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Mal Gossenpflanze und mal Lady Die Schauspielerin Angelica Domröse",
+    "overview": "",
+    "popularity": 0.5844,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2001-04-07",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mal Gossenpflanze und mal Lady Die Schauspielerin Angelica Domröse",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 22917,
+          "known_for_department": "Acting",
+          "name": "Angelica Domröse",
+          "original_name": "Angelica Domröse",
+          "popularity": 0.4867,
+          "profile_path": "/s1Sqjg7R8JkMLWUL9UUvoN2CNs5.jpg",
+          "cast_id": 2,
+          "character": "Self",
+          "credit_id": "6849808842b3d43e161eb4a7",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1515676,
+          "known_for_department": "Directing",
+          "name": "Dagmar Wittmers",
+          "original_name": "Dagmar Wittmers",
+          "popularity": 0.2804,
+          "profile_path": null,
+          "credit_id": "6849807b7350568d43de7a5f",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2001-04-07T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

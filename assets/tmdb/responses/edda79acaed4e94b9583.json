@@ -1,0 +1,131 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/507572?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:05.931Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 507572,
+    "imdb_id": "tt8024834",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "El domingo",
+    "overview": "Es domingo. Mathieu (David Kammenos) y su hija Chiara (Bruna González) van a pasar el día en el lago. Mamá decide no acompañarlos. Cuando regresen a la casa ya nada será igual. Todo habrá cambiado.  Este cortometraje es el prólogo de una historia que sucede treinta y cinco años más tarde. ¿Por qué esa niña abandonada por su madre con ocho años, desea volver a reencontrarse con ella? ¿Qué se esconde tras ese deseo? Todo esto tendrá respuesta en el largometraje LA ENFERMEDAD DEL DOMINGO.",
+    "popularity": 1.9873,
+    "poster_path": "/rQmr5stryE7mCxkEIuyniV4lb6d.jpg",
+    "production_companies": [
+      {
+        "id": 9967,
+        "logo_path": "/273isjO76GPpWVBLjBiBgFPUfwu.png",
+        "name": "Zeta Studios",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2017-11-20",
+    "revenue": 0,
+    "runtime": 12,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El domingo",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1757603,
+          "known_for_department": "Acting",
+          "name": "Bruna González",
+          "original_name": "Bruna González",
+          "popularity": 0.2881,
+          "profile_path": "/hXFu425GS3IZKiLXMFKeSQDkuGp.jpg",
+          "cast_id": 0,
+          "character": "Chiara",
+          "credit_id": "5a93645e925141417a026d4b",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 544686,
+          "known_for_department": "Acting",
+          "name": "David Kammenos",
+          "original_name": "David Kammenos",
+          "popularity": 0.7058,
+          "profile_path": "/mRDIDNzrLGU6sUS8SApjMEvmFjq.jpg",
+          "cast_id": 1,
+          "character": "Mathieu",
+          "credit_id": "5a93646c925141417d0269f9",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 125064,
+          "known_for_department": "Directing",
+          "name": "Ramón Salazar",
+          "original_name": "Ramón Salazar",
+          "popularity": 0.4426,
+          "profile_path": "/vkIbXraPExbkFmO0gyXTYJrBEf9.jpg",
+          "credit_id": "5a93648a0e0a265f7a0163a3",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2017-11-20T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "GB",
+          "title": "Sunday",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

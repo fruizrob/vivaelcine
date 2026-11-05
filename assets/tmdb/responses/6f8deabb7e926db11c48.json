@@ -1,0 +1,579 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/442811?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:11.699Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/yhp0XL2qzloIXMELePuGgkbinIT.jpg",
+    "belongs_to_collection": null,
+    "budget": 105000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 442811,
+    "imdb_id": "tt6053948",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "La enfermedad del domingo",
+    "overview": "Anabel abandonó a su hija Chiara cuando esta apenas tenía ocho años. Treinta y cinco años después Chiara regresa con una extraña petición para su madre; le pide que pasen diez días juntas. Anabel ve en ese viaje la oportunidad para recuperar a su hija, pero no sabe que Chiara tiene un propósito oculto y que tendrá que enfrentarse a la decisión más importante de su vida.",
+    "popularity": 1.9848,
+    "poster_path": "/vGcKedYXda262TpNkV7vKQ0fm22.jpg",
+    "production_companies": [
+      {
+        "id": 9967,
+        "logo_path": "/273isjO76GPpWVBLjBiBgFPUfwu.png",
+        "name": "Zeta Studios",
+        "origin_country": "ES"
+      },
+      {
+        "id": 981,
+        "logo_path": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+        "name": "TVE",
+        "origin_country": "ES"
+      },
+      {
+        "id": 5085,
+        "logo_path": "/mPuVc7m1Ki7OQQvAYwYfIlEI3vu.png",
+        "name": "TV3",
+        "origin_country": "ES"
+      },
+      {
+        "id": 35559,
+        "logo_path": "/xLqNfq5xXETBKjq3jSSiNqqPiN7.png",
+        "name": "ICEC",
+        "origin_country": "ES"
+      },
+      {
+        "id": 201633,
+        "logo_path": "/6Ox2aOmqNP6vEmlh02fqygwOkeE.png",
+        "name": "Instituto de la Cinematografía y de las Artes Audiovisuales",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2018-02-23",
+    "revenue": 0,
+    "runtime": 104,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La enfermedad del domingo",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 116,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 724188,
+          "known_for_department": "Acting",
+          "name": "Bárbara Lennie",
+          "original_name": "Bárbara Lennie",
+          "popularity": 0.9494,
+          "profile_path": "/pEiyonuiZbpkpfdGf5inWQ8Tr1h.jpg",
+          "cast_id": 0,
+          "character": "Chiara",
+          "credit_id": "58aaffeb925141418a0043e2",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 101401,
+          "known_for_department": "Acting",
+          "name": "Susi Sánchez",
+          "original_name": "Susi Sánchez",
+          "popularity": 0.7709,
+          "profile_path": "/hsOZ4Hyw3Zu2GnariSg28sUixPV.jpg",
+          "cast_id": 1,
+          "character": "Anabel",
+          "credit_id": "58aafff2c3a3686e8c004306",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1061583,
+          "known_for_department": "Acting",
+          "name": "Greta Fernández",
+          "original_name": "Greta Fernández",
+          "popularity": 1.8466,
+          "profile_path": "/iNZZThidLYeZGBZGi9qhsVA1YRd.jpg",
+          "cast_id": 2,
+          "character": "Greta",
+          "credit_id": "58aafffc9251414195004564",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 230213,
+          "known_for_department": "Acting",
+          "name": "Miguel Ángel Solá",
+          "original_name": "Miguel Ángel Solá",
+          "popularity": 0.7055,
+          "profile_path": "/jvkbzIBASI8H91kuN0z9bnLuQuB.jpg",
+          "cast_id": 3,
+          "character": "Bernabé",
+          "credit_id": "58ab000d925141419900453e",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1977,
+          "known_for_department": "Acting",
+          "name": "Richard Bohringer",
+          "original_name": "Richard Bohringer",
+          "popularity": 1.0904,
+          "profile_path": "/v6372ku0d2Y28zUJ7mGrwaNQ04g.jpg",
+          "cast_id": 7,
+          "character": "Matthieu",
+          "credit_id": "5a65ecccc3a3687f7503fe05",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1757603,
+          "known_for_department": "Acting",
+          "name": "Bruna González",
+          "original_name": "Bruna González",
+          "popularity": 0.2881,
+          "profile_path": "/hXFu425GS3IZKiLXMFKeSQDkuGp.jpg",
+          "cast_id": 16,
+          "character": "Chiara Niña",
+          "credit_id": "5ea6e6fda2d2e9001adf41f1",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 544686,
+          "known_for_department": "Acting",
+          "name": "David Kammenos",
+          "original_name": "David Kammenos",
+          "popularity": 0.7058,
+          "profile_path": "/mRDIDNzrLGU6sUS8SApjMEvmFjq.jpg",
+          "cast_id": 17,
+          "character": "Matthieu Joven",
+          "credit_id": "5ea6e7195a4690002512f4ea",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2616587,
+          "known_for_department": "Acting",
+          "name": "Ima Ranedo",
+          "original_name": "Ima Ranedo",
+          "popularity": 0.1604,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Señora Cena",
+          "credit_id": "5ea6e861a2d2e9001adf4328",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 15594,
+          "known_for_department": "Acting",
+          "name": "Mònica van Campen",
+          "original_name": "Mònica van Campen",
+          "popularity": 0.5066,
+          "profile_path": "/gtZGWusox7WQkVe2OtNBHpwzoBV.jpg",
+          "cast_id": 21,
+          "character": "Mujer Cena",
+          "credit_id": "5ea6f55d6d1bb20024a5ee7a",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1656995,
+          "known_for_department": "Acting",
+          "name": "Fred Adenis",
+          "original_name": "Fred Adenis",
+          "popularity": 0.2724,
+          "profile_path": "/gwGumcyX03R37fHOacp5C9Mfx57.jpg",
+          "cast_id": 22,
+          "character": "Tobías",
+          "credit_id": "5ea6f5badb72c0001fbedd42",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 28518,
+          "known_for_department": "Acting",
+          "name": "Iván Morales",
+          "original_name": "Iván Morales",
+          "popularity": 1.0271,
+          "profile_path": "/3DlwJPbJDd35G4CYhkmWhYbNcnq.jpg",
+          "cast_id": 23,
+          "character": "Guillem",
+          "credit_id": "5ea6f5d918b751001d3a1dc0",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1524683,
+          "known_for_department": "Acting",
+          "name": "Carla Linares",
+          "original_name": "Carla Linares",
+          "popularity": 0.1777,
+          "profile_path": "/3p4kFCnpzukOWAQDmBoyKZqHE1m.jpg",
+          "cast_id": 24,
+          "character": "Asistente",
+          "credit_id": "5ea6f5f118b751001f3a1a4d",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1149052,
+          "known_for_department": "Acting",
+          "name": "Abdelatif Hwidar",
+          "original_name": "Abdelatif Hwidar",
+          "popularity": 0.4403,
+          "profile_path": "/zeJjozJIvaa0qlZRufSC0J2sr86.jpg",
+          "cast_id": 25,
+          "character": "Lugareño",
+          "credit_id": "5ea6f6236d1bb2001da5e683",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1712704,
+          "known_for_department": "Acting",
+          "name": "Lucy Tillett",
+          "original_name": "Lucy Tillett",
+          "popularity": 0.3762,
+          "profile_path": "/wkwUxd1PIUmPgOfsnpi9Jy2Hu2o.jpg",
+          "cast_id": 26,
+          "character": "Mujer Bosque",
+          "credit_id": "5ea6f66635c30a001fc0628e",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2616616,
+          "known_for_department": "Acting",
+          "name": "Pierre Livet",
+          "original_name": "Pierre Livet",
+          "popularity": 0.172,
+          "profile_path": null,
+          "cast_id": 27,
+          "character": "Hombre Bosque",
+          "credit_id": "5ea6f681db72c0001dbed7c7",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2363918,
+          "known_for_department": "Acting",
+          "name": "Manuel Castillo",
+          "original_name": "Manuel Castillo",
+          "popularity": 0.5879,
+          "profile_path": "/dznS5bpYruhPKcOWdBUuMnXWUm2.jpg",
+          "cast_id": 28,
+          "character": "Jefe Protocolo",
+          "credit_id": "607994e2f6787a00403caef8",
+          "order": 15
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 125064,
+          "known_for_department": "Directing",
+          "name": "Ramón Salazar",
+          "original_name": "Ramón Salazar",
+          "popularity": 0.4426,
+          "profile_path": "/vkIbXraPExbkFmO0gyXTYJrBEf9.jpg",
+          "credit_id": "58ab001bc3a3686ee9003b4d",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 125064,
+          "known_for_department": "Directing",
+          "name": "Ramón Salazar",
+          "original_name": "Ramón Salazar",
+          "popularity": 0.4426,
+          "profile_path": "/vkIbXraPExbkFmO0gyXTYJrBEf9.jpg",
+          "credit_id": "5964c5b59251410b86110096",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 59881,
+          "known_for_department": "Editing",
+          "name": "Teresa Font",
+          "original_name": "Teresa Font",
+          "popularity": 0.2308,
+          "profile_path": "/cPN0BUKn7WjdCqhK6J1Jw7B1BIp.jpg",
+          "credit_id": "5a65ed510e0a261a0403d534",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1466012,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Clara Bilbao",
+          "original_name": "Clara Bilbao",
+          "popularity": 0.658,
+          "profile_path": null,
+          "credit_id": "5a65ed5ec3a3687f7d03c49b",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 25896,
+          "known_for_department": "Directing",
+          "name": "Ricardo de Gracia",
+          "original_name": "Ricardo de Gracia",
+          "popularity": 0.3021,
+          "profile_path": null,
+          "credit_id": "5a82145c0e0a267f35006514",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1965289,
+          "known_for_department": "Sound",
+          "name": "Nico Casal",
+          "original_name": "Nico Casal",
+          "popularity": 0.2637,
+          "profile_path": "/eXlqwphIihhLDtO7CxRh3qXiy7w.jpg",
+          "credit_id": "5a8214830e0a267f2900685d",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1418148,
+          "known_for_department": "Art",
+          "name": "Sylvia Steinbrecht",
+          "original_name": "Sylvia Steinbrecht",
+          "popularity": 0.3444,
+          "profile_path": "/uudhizcIA1ER7n17XIlMoptXtXo.jpg",
+          "credit_id": "5a8214e7c3a3684ce900531e",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2639589,
+          "known_for_department": "Production",
+          "name": "Rafael López Manzanara",
+          "original_name": "Rafael López Manzanara",
+          "popularity": 0.0961,
+          "profile_path": null,
+          "credit_id": "67b536033751180bfcdfa292",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2854346,
+          "known_for_department": "Acting",
+          "name": "Francisco Ramos",
+          "original_name": "Francisco Ramos",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "67b536119e32f72b4d888f65",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2504216,
+          "known_for_department": "Acting",
+          "name": "Cruz Rodriguez",
+          "original_name": "Cruz Rodriguez",
+          "popularity": 0.2041,
+          "profile_path": null,
+          "credit_id": "67b5361d3751180bfcdfa2ac",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2203925,
+          "known_for_department": "Production",
+          "name": "Ana Sainz-Trápaga",
+          "original_name": "Ana Sainz-Trápaga",
+          "popularity": 0.785,
+          "profile_path": "/yDa6c88Mn7XOBruGbwqMHXmLOAx.jpg",
+          "credit_id": "67b536293751180bfcdfa2c4",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2203926,
+          "known_for_department": "Production",
+          "name": "Patricia Álvarez de Miranda",
+          "original_name": "Patricia Álvarez de Miranda",
+          "popularity": 1.2549,
+          "profile_path": "/1x4BOA7VvMJWgHWxtoLjDooZ8DQ.jpg",
+          "credit_id": "67b536403751180bfcdfa2ea",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2177400,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Ainhoa Eskisabel",
+          "original_name": "Ainhoa Eskisabel",
+          "popularity": 0.2784,
+          "profile_path": "/krdmTMtK6UjtCRgjIEGhjoKSOan.jpg",
+          "credit_id": "67b536569e32f72b4d888fb8",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1885281,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Sergio Pérez Berbel",
+          "original_name": "Sergio Pérez Berbel",
+          "popularity": 0.2728,
+          "profile_path": "/2QxsZ3prP6ObYx36KPVSk9yd1AR.jpg",
+          "credit_id": "67b5366b9e32f72b4d888fc2",
+          "department": "Costume & Make-Up",
+          "job": "Hairstylist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1436793,
+          "known_for_department": "Sound",
+          "name": "Nicolás de Poulpiquet",
+          "original_name": "Nicolás de Poulpiquet",
+          "popularity": 0.8053,
+          "profile_path": "/6RIxNtQNpVHTIIGzDGTqilpiJxW.jpg",
+          "credit_id": "67b536829e32f72b4d888fce",
+          "department": "Sound",
+          "job": "Foley Artist"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Berlin International Film Festival",
+              "release_date": "2018-02-20T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2018-02-23T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2018-06-15T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Tribeca Film Festival",
+              "release_date": "2018-04-19T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-06-15T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

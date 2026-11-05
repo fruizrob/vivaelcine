@@ -1,0 +1,100 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/772080?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:06.619Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 772080,
+    "imdb_id": "tt0134624",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Domingo siete",
+    "overview": "",
+    "popularity": 1.7469,
+    "poster_path": "/8nMXs9UPczBr1bnRliq5YCmuyBK.jpg",
+    "production_companies": [
+      {
+        "id": 27880,
+        "logo_path": "/yt24dH6cML0ovAtPMtt4quBeNdA.png",
+        "name": "Centro Universitario de Estudios Cinematográficos (CUEC)",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "1995-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Domingo siete",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 3,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1572716,
+          "known_for_department": "Acting",
+          "name": "Lety Gómez",
+          "original_name": "Lety Gómez",
+          "popularity": 0.3198,
+          "profile_path": "/aNLe9SgVXOYwVPSFbe2U8psJuL.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "68d77e9a90957a399fb99479",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 946164,
+          "known_for_department": "Writing",
+          "name": "Flavio González Mello",
+          "original_name": "Flavio González Mello",
+          "popularity": 0.1516,
+          "profile_path": null,
+          "credit_id": "669f51d3296d90af09a71f13",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1995-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

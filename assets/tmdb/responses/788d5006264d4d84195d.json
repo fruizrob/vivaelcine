@@ -1,0 +1,221 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/347150?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:54.857Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/73p8NVeamYyW1VswN9guoh3cgeF.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 347150,
+    "imdb_id": "tt1264071",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Los Campeones de la Lucha Libre",
+    "overview": "",
+    "popularity": 0.7541,
+    "poster_path": "/rob6cgu3f7DDmOiwvjMZLzltzsY.jpg",
+    "production_companies": [
+      {
+        "id": 167792,
+        "logo_path": null,
+        "name": "Fwak! Animation",
+        "origin_country": ""
+      },
+      {
+        "id": 167793,
+        "logo_path": null,
+        "name": "Azteca Cine",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2008-10-17",
+    "revenue": 406994,
+    "runtime": 72,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Los Campeones de la Lucha Libre",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 17,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1483822,
+          "known_for_department": "Acting",
+          "name": "Gabriel Basurto",
+          "original_name": "Gabriel Basurto",
+          "popularity": 0.1905,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5594f9179251410b96001064",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1483823,
+          "known_for_department": "Acting",
+          "name": "Eduardo Giaccardi",
+          "original_name": "Eduardo Giaccardi",
+          "popularity": 0.1231,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "5594f9219251416317001655",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1483824,
+          "known_for_department": "Acting",
+          "name": "Gerardo Vázquez",
+          "original_name": "Gerardo Vázquez",
+          "popularity": 0.1287,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "5594f92a9251415a0f0028ce",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1193968,
+          "known_for_department": "Acting",
+          "name": "Iliana Fox",
+          "original_name": "Iliana Fox",
+          "popularity": 0.3228,
+          "profile_path": "/7Rx4oKdQxwluOTLsPaSk4lWhEWn.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "5594f932c3a36870d0002585",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 146363,
+          "known_for_department": "Acting",
+          "name": "Andrés Palacios",
+          "original_name": "Andrés Palacios",
+          "popularity": 0.4069,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "5594f938c3a36870d5002498",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2018481,
+          "known_for_department": "Acting",
+          "name": "Lux Interior",
+          "original_name": "Lux Interior",
+          "popularity": 0.2332,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Rayo X",
+          "credit_id": "5ac9d8f7c3a3687a4f01edf5",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1483820,
+          "known_for_department": "Directing",
+          "name": "Eddie Mort",
+          "original_name": "Eddie Mort",
+          "popularity": 0.2449,
+          "profile_path": null,
+          "credit_id": "5594f8ca9251410b96001056",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1483821,
+          "known_for_department": "Writing",
+          "name": "Keith J. Rainville",
+          "original_name": "Keith J. Rainville",
+          "popularity": 0.1825,
+          "profile_path": null,
+          "credit_id": "5594f8d2c3a368146d0004a5",
+          "department": "Writing",
+          "job": "Screenplay"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2008-10-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

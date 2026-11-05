@@ -1,0 +1,193 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/655061?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:08.778Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/nrHOo4wcIVR0uf3EC0RwMzyJf7J.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 655061,
+    "imdb_id": "tt11423386",
+    "origin_country": [
+      "SE"
+    ],
+    "original_language": "sv",
+    "original_title": "I fjällfolkets land : Dagar i Lappland",
+    "overview": "",
+    "popularity": 0.5468,
+    "poster_path": "/36dETfB6hCwC21ghW78fNwUVVPG.jpg",
+    "production_companies": [
+      {
+        "id": 6181,
+        "logo_path": "/gYyww91VI1jdH89xpZgFFc8zN3F.png",
+        "name": "SF Studios",
+        "origin_country": "SE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "SE",
+        "name": "Sweden"
+      }
+    ],
+    "release_date": "1923-12-03",
+    "revenue": 0,
+    "runtime": 62,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "I fjällfolkets land : Dagar i Lappland",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2480194,
+          "known_for_department": "Acting",
+          "name": "Inka Länta",
+          "original_name": "Inka Länta",
+          "popularity": 0.1192,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "The Sámi girl",
+          "credit_id": "5df0ba1d688cd00014234c2d",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2480195,
+          "known_for_department": "Acting",
+          "name": "Nils Anders Gruvvisare",
+          "original_name": "Nils Anders Gruvvisare",
+          "popularity": 0.1252,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Reindeer handler",
+          "credit_id": "5df0ba3dce4ddc0018632823",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2480197,
+          "known_for_department": "Acting",
+          "name": "Nils Anut",
+          "original_name": "Nils Anut",
+          "popularity": 0.1404,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "5df0ba5f1dbc880016acf376",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2480198,
+          "known_for_department": "Acting",
+          "name": "Sigga Länta",
+          "original_name": "Sigga Länta",
+          "popularity": 0.1185,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Inka's grand mother",
+          "credit_id": "5df0ba941dbc880016acf440",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2134877,
+          "known_for_department": "Acting",
+          "name": "Anta Pirak",
+          "original_name": "Anta Pirak",
+          "popularity": 0.1474,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "62b8041ee6d3cc0054e68415",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2480199,
+          "known_for_department": "Directing",
+          "name": "Erik Bergström",
+          "original_name": "Erik Bergström",
+          "popularity": 0.1079,
+          "profile_path": null,
+          "credit_id": "5df0baaf1dbc880014acac22",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2480201,
+          "known_for_department": "Writing",
+          "name": "Olof Norrman",
+          "original_name": "Olof Norrman",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "5df0bac2eda4b70013045c31",
+          "department": "Writing",
+          "job": "Idea"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1416258,
+          "known_for_department": "Camera",
+          "name": "Gustaf Boge",
+          "original_name": "Gustaf Boge",
+          "popularity": 0.5992,
+          "profile_path": "/qkCuFnmOLHV1MEeZ3Mkle4MZgxA.jpg",
+          "credit_id": "5df0bad70257640018582b17",
+          "department": "Camera",
+          "job": "Camera Operator"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "SE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1923-12-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

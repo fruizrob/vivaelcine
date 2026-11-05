@@ -1,0 +1,136 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/805307?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:46.870Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 805307,
+    "imdb_id": "tt13955094",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "We",
+    "overview": "",
+    "popularity": 1.3822,
+    "poster_path": "/ex8deNcwY7FOxCV5hmY7H8O87Fg.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1990-01-01",
+    "revenue": 0,
+    "runtime": 4,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "We",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 18,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1279859,
+          "known_for_department": "Directing",
+          "name": "Shelly Silver",
+          "original_name": "Shelly Silver",
+          "popularity": 0.4966,
+          "profile_path": null,
+          "credit_id": "604c1e8617b5ef006be74322",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1279859,
+          "known_for_department": "Directing",
+          "name": "Shelly Silver",
+          "original_name": "Shelly Silver",
+          "popularity": 0.4966,
+          "profile_path": null,
+          "credit_id": "604c1ea8bdc34c006b98dfa6",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1279859,
+          "known_for_department": "Directing",
+          "name": "Shelly Silver",
+          "original_name": "Shelly Silver",
+          "popularity": 0.4966,
+          "profile_path": null,
+          "credit_id": "604c1eaf89f749003c735d79",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1938,
+          "known_for_department": "Sound",
+          "name": "Henry Mancini",
+          "original_name": "Henry Mancini",
+          "popularity": 0.7168,
+          "profile_path": "/sXl1lCYNnSf10ESG1nyCEDYGs1L.jpg",
+          "credit_id": "604c1ec9109cd00054a210fb",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1333562,
+          "known_for_department": "Writing",
+          "name": "Thomas Bernhard",
+          "original_name": "Thomas Bernhard",
+          "popularity": 0.2797,
+          "profile_path": "/eIQgci6BA7PBF9IkJeJ8RdPsJo2.jpg",
+          "credit_id": "604c1ee9dd47160028a1fe2e",
+          "department": "Writing",
+          "job": "Novel"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1990-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

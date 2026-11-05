@@ -1,0 +1,490 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1584470?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:52.068Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/xb2Z51ylwpdEFI41EAR7ua0wIjY.jpg",
+    "belongs_to_collection": null,
+    "budget": 100000,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1584470,
+    "imdb_id": "tt36773121",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "La Lucha Imposible",
+    "overview": "",
+    "popularity": 0.8158,
+    "poster_path": "/zPfsXEyOVyTjiBau6H377My0PS9.jpg",
+    "production_companies": [
+      {
+        "id": 281073,
+        "logo_path": null,
+        "name": "Prevenidos Y Acción Producciones",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 80,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Wolof",
+        "iso_639_1": "wo",
+        "name": "Wolof"
+      }
+    ],
+    "status": "Post Production",
+    "tagline": "",
+    "title": "La Lucha Imposible",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5828728,
+          "known_for_department": "Acting",
+          "name": "Abbas Sene",
+          "original_name": "Abbas Sene",
+          "popularity": 0.2162,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Bismarck",
+          "credit_id": "691f2a0d88b85db38beb679b",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4111046,
+          "known_for_department": "Directing",
+          "name": "Babacar Gueye",
+          "original_name": "Babacar Gueye",
+          "popularity": 0.2462,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Moussa",
+          "credit_id": "691f2a1f8356246ca9adbd67",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5828729,
+          "known_for_department": "Acting",
+          "name": "Mamadou Gaye",
+          "original_name": "Mamadou Gaye",
+          "popularity": 0.2408,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "El Hadji",
+          "credit_id": "691f2a31f62a9a1730fa2b62",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5153695,
+          "known_for_department": "Editing",
+          "name": "Álvaro García-Baquero",
+          "original_name": "Álvaro García-Baquero",
+          "popularity": 0.2704,
+          "profile_path": "/ytNAC1yMi8iSggOax0JOOEB2j58.jpg",
+          "credit_id": "691f291635e81483aefa2c16",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5012935,
+          "known_for_department": "Acting",
+          "name": "Nick Kremm",
+          "original_name": "Nick Kremm",
+          "popularity": 0.2012,
+          "profile_path": "/leNjwDODWlmP2PvoB3IpAoLRlQw.jpg",
+          "credit_id": "691f2923f1f72334af2e2b39",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5828723,
+          "known_for_department": "Production",
+          "name": "Oscar Gracia",
+          "original_name": "Oscar Gracia",
+          "popularity": 0.143,
+          "profile_path": null,
+          "credit_id": "691f293b9de4b60283fa2cb3",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5828724,
+          "known_for_department": "Production",
+          "name": "Francisca Javier Álvarez Hoyuela",
+          "original_name": "Francisca Javier Álvarez Hoyuela",
+          "popularity": 0.2095,
+          "profile_path": null,
+          "credit_id": "691f2971eba7945d20adbcce",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5828725,
+          "known_for_department": "Camera",
+          "name": "Daniel Belza",
+          "original_name": "Daniel Belza",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "691f298feba7945d20adbcda",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4460497,
+          "known_for_department": "Sound",
+          "name": "Borja Murel",
+          "original_name": "Borja Murel",
+          "popularity": 0.2133,
+          "profile_path": null,
+          "credit_id": "691f299e308057c78c5d5bf7",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4701501,
+          "known_for_department": "Sound",
+          "name": "David Botello",
+          "original_name": "David Botello",
+          "popularity": 0.3197,
+          "profile_path": null,
+          "credit_id": "691f29b147ec0a40f64a2a0f",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4378091,
+          "known_for_department": "Editing",
+          "name": "Maria Mun",
+          "original_name": "Maria Mun",
+          "popularity": 0.2636,
+          "profile_path": null,
+          "credit_id": "691f29bbfc22bd80fdc2ce71",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5828726,
+          "known_for_department": "Production",
+          "name": "Tamás Rózsai",
+          "original_name": "Tamás Rózsai",
+          "popularity": 0.2408,
+          "profile_path": null,
+          "credit_id": "691f29d1c7d6c153bec2ce57",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4983999,
+          "known_for_department": "Directing",
+          "name": "Lucas Naranjo Rodríguez",
+          "original_name": "Lucas Naranjo Rodríguez",
+          "popularity": 0.2228,
+          "profile_path": "/aisBOsIMwDBLCLY1exD2OEDu4Rz.jpg",
+          "credit_id": "691f29f1636dcd54ed21a6bb",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5830142,
+          "known_for_department": "Production",
+          "name": "Raquel Esteban",
+          "original_name": "Raquel Esteban",
+          "popularity": 0.1397,
+          "profile_path": null,
+          "credit_id": "692015640423198c74fa3055",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5830691,
+          "known_for_department": "Art",
+          "name": "Virginia Tinoco",
+          "original_name": "Virginia Tinoco",
+          "popularity": 0.127,
+          "profile_path": null,
+          "credit_id": "6920999ba0f5efe42b2e31e4",
+          "department": "Art",
+          "job": "Art Department Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1456463,
+          "known_for_department": "Crew",
+          "name": "David Botello",
+          "original_name": "David Botello",
+          "popularity": 0.1893,
+          "profile_path": null,
+          "credit_id": "692099ae2041a7d4ce4a323f",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5524778,
+          "known_for_department": "Sound",
+          "name": "Daniel Tijeras",
+          "original_name": "Daniel Tijeras",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "692099cf65fbc1253fc2d4ea",
+          "department": "Sound",
+          "job": "Sound Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5830693,
+          "known_for_department": "Camera",
+          "name": "Iván Fernández",
+          "original_name": "Iván Fernández",
+          "popularity": 0.2142,
+          "profile_path": null,
+          "credit_id": "692099ea86e83188e85d62c7",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5476997,
+          "known_for_department": "Lighting",
+          "name": "Chari Goleto",
+          "original_name": "Chari Goleto",
+          "popularity": 0.1057,
+          "profile_path": null,
+          "credit_id": "69209a006d47adb1734a32f5",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5830694,
+          "known_for_department": "Production",
+          "name": "Antonio Aboza",
+          "original_name": "Antonio Aboza",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "69209a18f1f72334af2e3285",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5830695,
+          "known_for_department": "Camera",
+          "name": "César Llerena",
+          "original_name": "César Llerena",
+          "popularity": 0.1636,
+          "profile_path": null,
+          "credit_id": "69209a3835e81483aefa31ae",
+          "department": "Camera",
+          "job": "BTS Photographer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5017519,
+          "known_for_department": "Acting",
+          "name": "David Palomares",
+          "original_name": "David Palomares",
+          "popularity": 0.3534,
+          "profile_path": null,
+          "credit_id": "69209a4a893ce19060adc4db",
+          "department": "Crew",
+          "job": "Driver"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5830699,
+          "known_for_department": "Crew",
+          "name": "Seydou Diopp",
+          "original_name": "Seydou Diopp",
+          "popularity": 0.1782,
+          "profile_path": null,
+          "credit_id": "69209a64893ce19060adc4e4",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5830701,
+          "known_for_department": "Crew",
+          "name": "Manuel García Rodríguez",
+          "original_name": "Manuel García Rodríguez",
+          "popularity": 0.1273,
+          "profile_path": null,
+          "credit_id": "69209a71612bee5782058beb",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5830702,
+          "known_for_department": "Crew",
+          "name": "Fran Gómez",
+          "original_name": "Fran Gómez",
+          "popularity": 0.1981,
+          "profile_path": null,
+          "credit_id": "69209a7f669258848a058e87",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5102555,
+          "known_for_department": "Camera",
+          "name": "Carmen Navlet",
+          "original_name": "Carmen Navlet",
+          "popularity": 0.1455,
+          "profile_path": null,
+          "credit_id": "69209a8eaaba19850e058cd1",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2773430,
+          "known_for_department": "Acting",
+          "name": "Mila Fernández",
+          "original_name": "Mila Fernández",
+          "popularity": 0.2451,
+          "profile_path": "/xNExenIOLvJSPBq8XxMYQQsVO5I.jpg",
+          "credit_id": "69209aa6552287864ac2d411",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5830703,
+          "known_for_department": "Crew",
+          "name": "Hugo Fernandez Fernandez",
+          "original_name": "Hugo Fernandez Fernandez",
+          "popularity": 0.2429,
+          "profile_path": null,
+          "credit_id": "69209ab68162b8f494eb6f3a",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5830704,
+          "known_for_department": "Crew",
+          "name": "Serafín Balverde",
+          "original_name": "Serafín Balverde",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69209ad5d4f0d3344ceb6efc",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5830706,
+          "known_for_department": "Crew",
+          "name": "Alvaro González Castillo",
+          "original_name": "Alvaro González Castillo",
+          "popularity": 0.1741,
+          "profile_path": null,
+          "credit_id": "69209b9078de0b8de8c2d66d",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5830708,
+          "known_for_department": "Crew",
+          "name": "Jesús Font",
+          "original_name": "Jesús Font",
+          "popularity": 0.1054,
+          "profile_path": null,
+          "credit_id": "69209bbc2041a7d4ce4a327c",
+          "department": "Crew",
+          "job": "Thanks"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

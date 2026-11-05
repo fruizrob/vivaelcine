@@ -1,0 +1,109 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1128885?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:06.792Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1128885,
+    "imdb_id": "tt4203260",
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Domingo",
+    "overview": "",
+    "popularity": 1.0959,
+    "poster_path": "/zOCd0OQXb8ZgfFibuGuSZsD6QIf.jpg",
+    "production_companies": [
+      {
+        "id": 87963,
+        "logo_path": null,
+        "name": "Associação Cultural Videobrasil",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2014-05-01",
+    "revenue": 0,
+    "runtime": 26,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Domingo",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 55018,
+          "known_for_department": "Directing",
+          "name": "Karim Aïnouz",
+          "original_name": "Karim Aïnouz",
+          "popularity": 0.7687,
+          "profile_path": "/hbxUnYlBs9flmWYKMi3VrOihc9n.jpg",
+          "credit_id": "64675d3fa5046e00e5b599ed",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 55018,
+          "known_for_department": "Directing",
+          "name": "Karim Aïnouz",
+          "original_name": "Karim Aïnouz",
+          "popularity": 0.7687,
+          "profile_path": "/hbxUnYlBs9flmWYKMi3VrOihc9n.jpg",
+          "credit_id": "64675d44a5046e00e5b599f4",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2014-05-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/267126?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:43.680Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/6qdXafL7A847YVWwCLPulBWbONO.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "homepage": "",
+    "id": 267126,
+    "imdb_id": "tt0111526",
+    "origin_country": [
+      "FR",
+      "CH"
+    ],
+    "original_language": "fr",
+    "original_title": "Tzedek : les justes",
+    "overview": "",
+    "popularity": 0.5403,
+    "poster_path": "/nyfmaYQdyTu7YTjGXKIzAFFmX7P.jpg",
+    "production_companies": [
+      {
+        "id": 83,
+        "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+        "name": "France 2 Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 8138,
+        "logo_path": "/4P6c8TiJZhL2z7b0LbPOUTZwP4z.png",
+        "name": "Vega Film",
+        "origin_country": "CH"
+      },
+      {
+        "id": 876,
+        "logo_path": null,
+        "name": "Sara Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 72213,
+        "logo_path": null,
+        "name": "Palmyre Productions",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "CH",
+        "name": "Switzerland"
+      }
+    ],
+    "release_date": "1994-11-30",
+    "revenue": 0,
+    "runtime": 161,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Hebrew",
+        "iso_639_1": "he",
+        "name": "עִבְרִית"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Tzedek : les justes",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 3,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1745787,
+          "known_for_department": "Writing",
+          "name": "Marek Halter",
+          "original_name": "Marek Halter",
+          "popularity": 0.2219,
+          "profile_path": "/xx6GpvIRKEGI3ade51rz1Rn3AqD.jpg",
+          "cast_id": 10,
+          "character": "Self",
+          "credit_id": "687c91ad8b3b81d371244438",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2697962,
+          "known_for_department": "Acting",
+          "name": "Inge Deutschkron",
+          "original_name": "Inge Deutschkron",
+          "popularity": 0.228,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Self",
+          "credit_id": "687c91d86bf9cee73a55ca8a",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1172548,
+          "known_for_department": "Acting",
+          "name": "Haroun Tazieff",
+          "original_name": "Haroun Tazieff",
+          "popularity": 0.3743,
+          "profile_path": "/kx4Z4OO8cKFXmRt98ib3TDAUuin.jpg",
+          "cast_id": 12,
+          "character": "Self",
+          "credit_id": "687c91ff1600dcfb76244270",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1745787,
+          "known_for_department": "Writing",
+          "name": "Marek Halter",
+          "original_name": "Marek Halter",
+          "popularity": 0.2219,
+          "profile_path": "/xx6GpvIRKEGI3ade51rz1Rn3AqD.jpg",
+          "credit_id": "588a7cbec3a368181000bf47",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1745789,
+          "known_for_department": "Writing",
+          "name": "Clara Halter",
+          "original_name": "Clara Halter",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "588a7ccf92514156a600c3b1",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1745787,
+          "known_for_department": "Writing",
+          "name": "Marek Halter",
+          "original_name": "Marek Halter",
+          "popularity": 0.2219,
+          "profile_path": "/xx6GpvIRKEGI3ade51rz1Rn3AqD.jpg",
+          "credit_id": "64b475dc0bb07600ae3c5abf",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": true,
+          "gender": 0,
+          "id": 1185208,
+          "known_for_department": "Camera",
+          "name": "Hugues de Haeck",
+          "original_name": "Hugues de Haeck",
+          "popularity": 0,
+          "profile_path": null,
+          "credit_id": "687c9142a854e42eb3f765a8",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5297445,
+          "known_for_department": "Editing",
+          "name": "André Chaudagne",
+          "original_name": "André Chaudagne",
+          "popularity": 0.1509,
+          "profile_path": null,
+          "credit_id": "687c91549f14f68eb2244311",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 95166,
+          "known_for_department": "Production",
+          "name": "Ruth Waldburger",
+          "original_name": "Ruth Waldburger",
+          "popularity": 0.4174,
+          "profile_path": "/mSVTUctaqfM3FeLJJlEJAcuOyRM.jpg",
+          "credit_id": "687c9163e517610e93f7658b",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3560,
+          "known_for_department": "Production",
+          "name": "Alain Sarde",
+          "original_name": "Alain Sarde",
+          "popularity": 0.2683,
+          "profile_path": "/dtVAJzxII67u7dYDBwDGqqeqiq2.jpg",
+          "credit_id": "687c91794993f24968244400",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 73267,
+          "known_for_department": "Production",
+          "name": "Antoine Gannagé",
+          "original_name": "Antoine Gannagé",
+          "popularity": 0.2822,
+          "profile_path": null,
+          "credit_id": "687c918e317a5cfe9cf765d2",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1745787,
+          "known_for_department": "Writing",
+          "name": "Marek Halter",
+          "original_name": "Marek Halter",
+          "popularity": 0.2219,
+          "profile_path": "/xx6GpvIRKEGI3ade51rz1Rn3AqD.jpg",
+          "credit_id": "687c919f2e48947adff764d1",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "TIFF",
+              "release_date": "1994-09-30T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Berlin International Film Festival",
+              "release_date": "1995-02-20T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1994-11-30T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Philadelphia Jewish International Film Festival",
+              "release_date": "1995-11-19T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "ES",
+          "title": "Tzedek: los justos",
+          "type": "ARTE"
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Tzedek – Die Gerechten",
+          "type": "ARTE"
+        },
+        {
+          "iso_3166_1": "PL",
+          "title": "Tzedek: sprawiedliwi",
+          "type": "ARTE"
+        },
+        {
+          "iso_3166_1": "IT",
+          "title": "Tzedek: i giusti",
+          "type": "ARTE"
+        },
+        {
+          "iso_3166_1": "GB",
+          "title": "Tzedek: The Righteous Ones",
+          "type": "ARTE"
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "Tzedek: The Righteous",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

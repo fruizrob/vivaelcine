@@ -1,0 +1,571 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/633803?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:42.340Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 10770,
+        "name": "Película de TV"
+      }
+    ],
+    "homepage": "",
+    "id": 633803,
+    "imdb_id": "tt0933219",
+    "origin_country": [
+      "PL"
+    ],
+    "original_language": "pl",
+    "original_title": "Wenus z Ille",
+    "overview": "",
+    "popularity": 0.5242,
+    "poster_path": "/yJY04Z4DoXoDlXco7TsNCkjwLi7.jpg",
+    "production_companies": [
+      {
+        "id": 42243,
+        "logo_path": null,
+        "name": "Zespół Filmowy \"Kamera\"",
+        "origin_country": "PL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PL",
+        "name": "Poland"
+      }
+    ],
+    "release_date": "1969-04-30",
+    "revenue": 0,
+    "runtime": 26,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Polish",
+        "iso_639_1": "pl",
+        "name": "Polski"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Wenus z Ille",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 72659,
+          "known_for_department": "Acting",
+          "name": "Michael Kane",
+          "original_name": "Michael Kane",
+          "popularity": 0.5378,
+          "profile_path": "/vYW6BC95irpoz97ElU5s72aod3p.jpg",
+          "cast_id": 11,
+          "character": "Archeologist",
+          "credit_id": "6641fa1b4eecfd338a4e1f64",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4711211,
+          "known_for_department": "Acting",
+          "name": "Isabelle Jan",
+          "original_name": "Isabelle Jan",
+          "popularity": 0.1423,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Alfons' Wife",
+          "credit_id": "6641fa53df3e069c7d4e2fb6",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1138928,
+          "known_for_department": "Acting",
+          "name": "Jacek Woszczerowicz",
+          "original_name": "Jacek Woszczerowicz",
+          "popularity": 0.5754,
+          "profile_path": "/nCPKMoNuviBlO9FOX5dUXn98J5b.jpg",
+          "cast_id": 13,
+          "character": "Innkeeper",
+          "credit_id": "6641fa62ef3e3f7bee1df664",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 589248,
+          "known_for_department": "Acting",
+          "name": "Andrzej Nowakowski",
+          "original_name": "Andrzej Nowakowski",
+          "popularity": 0.1892,
+          "profile_path": "/b7EhuG60RAkdzq7QzHyX84KMbz9.jpg",
+          "cast_id": 14,
+          "character": "Alfons",
+          "credit_id": "6641fa7a337b4ffb1101d0df",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1977711,
+          "known_for_department": "Acting",
+          "name": "Halina Kossobudzka",
+          "original_name": "Halina Kossobudzka",
+          "popularity": 1.0563,
+          "profile_path": "/w8RzuqDtxKt18UikDc2DOWFZKJl.jpg",
+          "cast_id": 6,
+          "character": "Innkeeper's Wife",
+          "credit_id": "5ebc2cf2614c6d001d90115d",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 28834,
+          "known_for_department": "Acting",
+          "name": "Leon Niemczyk",
+          "original_name": "Leon Niemczyk",
+          "popularity": 0.6253,
+          "profile_path": "/e1Zb5lIptXAPowqqOVUpvLzRonm.jpg",
+          "cast_id": 5,
+          "character": "Aragonese Man",
+          "credit_id": "5ebc2cecaad9c20021238469",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1537606,
+          "known_for_department": "Acting",
+          "name": "Mieczysław Stoor",
+          "original_name": "Mieczysław Stoor",
+          "popularity": 0.42,
+          "profile_path": "/fXdrGgw57XYNWLPCbkGQRftZ06m.jpg",
+          "cast_id": 4,
+          "character": "Helper",
+          "credit_id": "5ebc2ce60cb3350020d74f15",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1138936,
+          "known_for_department": "Acting",
+          "name": "Zbigniew Koczanowicz",
+          "original_name": "Zbigniew Koczanowicz",
+          "popularity": 0.3511,
+          "profile_path": "/5CF8xPsrTZBrMpIbQuEZN9FYWG4.jpg",
+          "cast_id": 3,
+          "character": "Police Commissioner",
+          "credit_id": "5ebc2cdf0cb335001fceb92e",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 54074,
+          "known_for_department": "Acting",
+          "name": "Witold Pyrkosz",
+          "original_name": "Witold Pyrkosz",
+          "popularity": 0.3436,
+          "profile_path": "/eUzBNATuLJEgKYE3g8L5TuFHNAk.jpg",
+          "cast_id": 2,
+          "character": "Artur",
+          "credit_id": "5ebc2cd9614c6d001e8f6333",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1156314,
+          "known_for_department": "Acting",
+          "name": "Maciej Maciejewski",
+          "original_name": "Maciej Maciejewski",
+          "popularity": 0.2803,
+          "profile_path": "/eJwVmh9zO9tEcjOKmzjGLdjbsiK.jpg",
+          "cast_id": 15,
+          "character": "Archeologist (voice)",
+          "credit_id": "6641fadd716e54f185968e25",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 625257,
+          "known_for_department": "Acting",
+          "name": "Zofia Mrozowska",
+          "original_name": "Zofia Mrozowska",
+          "popularity": 0.3388,
+          "profile_path": "/fjaA3gtF4ojRPyXMFm2bsQdfuNx.jpg",
+          "cast_id": 16,
+          "character": "Alfons' Wife (voice)",
+          "credit_id": "6641fae8c10d4be3e80c56c1",
+          "order": 10
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 148059,
+          "known_for_department": "Writing",
+          "name": "Prosper Mérimée",
+          "original_name": "Prosper Mérimée",
+          "popularity": 1.1423,
+          "profile_path": null,
+          "credit_id": "6641faf9cb2e3cd823968118",
+          "department": "Writing",
+          "job": "Short Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 591269,
+          "known_for_department": "Directing",
+          "name": "Janusz Majewski",
+          "original_name": "Janusz Majewski",
+          "popularity": 0.4631,
+          "profile_path": "/pIImEyI5sTdhpUcc8n82uO66nY1.jpg",
+          "credit_id": "6641fb034746e98a8dfb5a69",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1707023,
+          "known_for_department": "Directing",
+          "name": "Halina Garus",
+          "original_name": "Halina Garus",
+          "popularity": 0.1702,
+          "profile_path": null,
+          "credit_id": "6641fb0ca987ac51291df41f",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2844868,
+          "known_for_department": "Production",
+          "name": "Michal Ronikier",
+          "original_name": "Michal Ronikier",
+          "popularity": 0.1243,
+          "profile_path": null,
+          "credit_id": "6641fb17108892216a01c508",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2844822,
+          "known_for_department": "Directing",
+          "name": "Krystyna Grochowicz",
+          "original_name": "Krystyna Grochowicz",
+          "popularity": 0.3569,
+          "profile_path": null,
+          "credit_id": "6641fb22bcd44fc7284e3368",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1573534,
+          "known_for_department": "Camera",
+          "name": "Andrzej Ramlau",
+          "original_name": "Andrzej Ramlau",
+          "popularity": 0.2641,
+          "profile_path": "/305Mw7GVoPERPDoWvcPdsi3Of70.jpg",
+          "credit_id": "6641fb33bcd44fc7284e3371",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4012094,
+          "known_for_department": "Camera",
+          "name": "Stefan Kurzyp",
+          "original_name": "Stefan Kurzyp",
+          "popularity": 0.4864,
+          "profile_path": null,
+          "credit_id": "6641fb3c108892216a01c51f",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 7097,
+          "known_for_department": "Art",
+          "name": "Tadeusz Kosarewicz",
+          "original_name": "Tadeusz Kosarewicz",
+          "popularity": 0.2693,
+          "profile_path": "/tlYkbE3GhNCB7mY7y3onH1EOugz.jpg",
+          "credit_id": "6641fb45aec500dd501df728",
+          "department": "Art",
+          "job": "Assistant Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1486934,
+          "known_for_department": "Production",
+          "name": "Tadeusz Wybult",
+          "original_name": "Tadeusz Wybult",
+          "popularity": 0.2475,
+          "profile_path": null,
+          "credit_id": "6641fb4e6d9d8bda31968446",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1548912,
+          "known_for_department": "Art",
+          "name": "Albert Kuchnia",
+          "original_name": "Albert Kuchnia",
+          "popularity": 0.3065,
+          "profile_path": null,
+          "credit_id": "6641fb59ff5ed5ff3bf12feb",
+          "department": "Art",
+          "job": "Assistant Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1537592,
+          "known_for_department": "Art",
+          "name": "Leonard Mokicz",
+          "original_name": "Leonard Mokicz",
+          "popularity": 0.2704,
+          "profile_path": null,
+          "credit_id": "6641fb6118ad1e758821083b",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1536616,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Jerzy Szeski",
+          "original_name": "Jerzy Szeski",
+          "popularity": 0.2556,
+          "profile_path": "/orovyl5MQ6ibFcmuyv2WGqvozbi.jpg",
+          "credit_id": "6641fb6aac0d46031b375327",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1545623,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Alicja Ptaszyńska",
+          "original_name": "Alicja Ptaszyńska",
+          "popularity": 0.1473,
+          "profile_path": null,
+          "credit_id": "6641fb745479700619fb5632",
+          "department": "Costume & Make-Up",
+          "job": "Costume Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1277604,
+          "known_for_department": "Sound",
+          "name": "Lucjan Kaszycki",
+          "original_name": "Lucjan Kaszycki",
+          "popularity": 0.4788,
+          "profile_path": "/gvFpGss1qS1ZDattzXaLoa8cZe4.jpg",
+          "credit_id": "6641fb7c18ad1e7588210848",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1602831,
+          "known_for_department": "Sound",
+          "name": "Bohdan Bieńkowski",
+          "original_name": "Bohdan Bieńkowski",
+          "popularity": 0.454,
+          "profile_path": null,
+          "credit_id": "6641fba434c7a6f0395a3714",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1401,
+          "known_for_department": "Editing",
+          "name": "Elżbieta Kurkowska",
+          "original_name": "Elżbieta Kurkowska",
+          "popularity": 0.3014,
+          "profile_path": "/jtbwIlyJIVkyhsxrAQNWRRwvrai.jpg",
+          "credit_id": "6641fbae18382cb0015a4a73",
+          "department": "Editing",
+          "job": "Assistant Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3090799,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Anna Włodarczyk",
+          "original_name": "Anna Włodarczyk",
+          "popularity": 0.3701,
+          "profile_path": null,
+          "credit_id": "6641fbb67fee1306834e258f",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3450537,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Zygmunt Kaźmierski",
+          "original_name": "Zygmunt Kaźmierski",
+          "popularity": 0.3396,
+          "profile_path": null,
+          "credit_id": "6641fbc05e96ad1f102ca96e",
+          "department": "Costume & Make-Up",
+          "job": "Assistant Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1545625,
+          "known_for_department": "Production",
+          "name": "Ryszard Straszewski",
+          "original_name": "Ryszard Straszewski",
+          "popularity": 0.1963,
+          "profile_path": "/mgsRtY1JJmgbZAadL8W0F9UwK1O.jpg",
+          "credit_id": "6641fbccdad8f6f56820fe6f",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3515385,
+          "known_for_department": "Production",
+          "name": "Wanda Wojnar-Iliew",
+          "original_name": "Wanda Wojnar-Iliew",
+          "popularity": 0.3487,
+          "profile_path": null,
+          "credit_id": "6641fbd6dad8f6f56820fe74",
+          "department": "Production",
+          "job": "Assistant Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2816841,
+          "known_for_department": "Production",
+          "name": "Wiesława Borecka",
+          "original_name": "Wiesława Borecka",
+          "popularity": 0.1665,
+          "profile_path": null,
+          "credit_id": "6641fbe1f770cd48b70c506f",
+          "department": "Production",
+          "job": "Assistant Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1545636,
+          "known_for_department": "Acting",
+          "name": "Józef Rosinski",
+          "original_name": "Józef Rosinski",
+          "popularity": 0.1811,
+          "profile_path": null,
+          "credit_id": "6641fbeae93908ff7d2ca956",
+          "department": "Production",
+          "job": "Assistant Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 591269,
+          "known_for_department": "Directing",
+          "name": "Janusz Majewski",
+          "original_name": "Janusz Majewski",
+          "popularity": 0.4631,
+          "profile_path": "/pIImEyI5sTdhpUcc8n82uO66nY1.jpg",
+          "credit_id": "5d89ee976c1e04000fac1c42",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 18541,
+          "known_for_department": "Camera",
+          "name": "Stefan Matyjaszkiewicz",
+          "original_name": "Stefan Matyjaszkiewicz",
+          "popularity": 0.7755,
+          "profile_path": null,
+          "credit_id": "5ebc2d15a294f000200c06b1",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1545621,
+          "known_for_department": "Editing",
+          "name": "Tomira Matyjaszkiewicz",
+          "original_name": "Tomira Matyjaszkiewicz",
+          "popularity": 0.5105,
+          "profile_path": null,
+          "credit_id": "5ebc2d1c1dbc88001cdaa9ec",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "pl",
+              "note": "",
+              "release_date": "1969-04-30T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

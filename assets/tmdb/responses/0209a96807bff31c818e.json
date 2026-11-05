@@ -1,0 +1,332 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1663170?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:32.376Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 2000,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1663170,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Fairest of the Seasons",
+    "overview": "",
+    "popularity": 0.5954,
+    "poster_path": "/fCBk0VFlcxuUP2ygKciEBlppw7a.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 31,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Fairest of the Seasons",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6116375,
+          "known_for_department": "Acting",
+          "name": "Doğa Ozbilun",
+          "original_name": "Doğa Ozbilun",
+          "popularity": 0.232,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Mila",
+          "credit_id": "69d019f2212d937cd85a035c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3158238,
+          "known_for_department": "Acting",
+          "name": "Mariama Condé",
+          "original_name": "Mariama Condé",
+          "popularity": 0.1583,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Andy",
+          "credit_id": "69d01a0a15673e13ee4d25e8",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5272529,
+          "known_for_department": "Acting",
+          "name": "Amanda Prugnaud",
+          "original_name": "Amanda Prugnaud",
+          "popularity": 0.2927,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Gwen",
+          "credit_id": "69d01a43e0d6238ac2d2999b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4399589,
+          "known_for_department": "Directing",
+          "name": "Colin Eckardt",
+          "original_name": "Colin Eckardt",
+          "popularity": 0.4605,
+          "profile_path": "/3taQ5arVDnZ9jq0AjMiLz8nPUBn.jpg",
+          "cast_id": 4,
+          "character": "Cooper",
+          "credit_id": "69d01a59a445234b5cb2e591",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6116395,
+          "known_for_department": "Acting",
+          "name": "Sam Wilbur",
+          "original_name": "Sam Wilbur",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Tommy",
+          "credit_id": "69d01ac5794ca384460b94d0",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6116398,
+          "known_for_department": "Acting",
+          "name": "Rocco Gagliarducci",
+          "original_name": "Rocco Gagliarducci",
+          "popularity": 0.1109,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Alé",
+          "credit_id": "69d01ae5b0c9d1d17f2f7a31",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6116423,
+          "known_for_department": "Acting",
+          "name": "Mark Weills",
+          "original_name": "Mark Weills",
+          "popularity": 0.1041,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Eugene",
+          "credit_id": "69d01c376fe81d74b8a64602",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6116402,
+          "known_for_department": "Directing",
+          "name": "Avni Kumra",
+          "original_name": "Avni Kumra",
+          "popularity": 0.1512,
+          "profile_path": null,
+          "credit_id": "69d01b25d9d863baaab2e677",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4399589,
+          "known_for_department": "Directing",
+          "name": "Colin Eckardt",
+          "original_name": "Colin Eckardt",
+          "popularity": 0.4605,
+          "profile_path": "/3taQ5arVDnZ9jq0AjMiLz8nPUBn.jpg",
+          "credit_id": "69d01b4000cbb083c72f7703",
+          "department": "Editing",
+          "job": "Color Grading"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5030730,
+          "known_for_department": "Directing",
+          "name": "Davis Lowe",
+          "original_name": "Davis Lowe",
+          "popularity": 0.0934,
+          "profile_path": null,
+          "credit_id": "69d01b5454c96034e24b5ce9",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6116402,
+          "known_for_department": "Directing",
+          "name": "Avni Kumra",
+          "original_name": "Avni Kumra",
+          "popularity": 0.1512,
+          "profile_path": null,
+          "credit_id": "69d01b64794ca384460b94dd",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5030730,
+          "known_for_department": "Directing",
+          "name": "Davis Lowe",
+          "original_name": "Davis Lowe",
+          "popularity": 0.0934,
+          "profile_path": null,
+          "credit_id": "69d01b7a848c42d2469a1b0a",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6116411,
+          "known_for_department": "Lighting",
+          "name": "Nico Daniels",
+          "original_name": "Nico Daniels",
+          "popularity": 0.1227,
+          "profile_path": null,
+          "credit_id": "69d01bab4ef4b22b7ea647e4",
+          "department": "Lighting",
+          "job": "Lighting Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6116413,
+          "known_for_department": "Lighting",
+          "name": "Coco Hill",
+          "original_name": "Coco Hill",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69d01bc74d9890e73b2f7a84",
+          "department": "Lighting",
+          "job": "Lighting Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6116416,
+          "known_for_department": "Production",
+          "name": "Neema Rowe",
+          "original_name": "Neema Rowe",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69d01be5e30bcdc58f5a03ff",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4626669,
+          "known_for_department": "Sound",
+          "name": "Robyn Haddad",
+          "original_name": "Robyn Haddad",
+          "popularity": 0.0925,
+          "profile_path": null,
+          "credit_id": "69d01c543ad39e52999a35dd",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6116402,
+          "known_for_department": "Directing",
+          "name": "Avni Kumra",
+          "original_name": "Avni Kumra",
+          "popularity": 0.1512,
+          "profile_path": null,
+          "credit_id": "69d01c7146af586a52d2923a",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6116402,
+          "known_for_department": "Directing",
+          "name": "Avni Kumra",
+          "original_name": "Avni Kumra",
+          "popularity": 0.1512,
+          "profile_path": null,
+          "credit_id": "69d01caffa37fba804a64637",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6116411,
+          "known_for_department": "Lighting",
+          "name": "Nico Daniels",
+          "original_name": "Nico Daniels",
+          "popularity": 0.1227,
+          "profile_path": null,
+          "credit_id": "69d01cc5b60d91f0885a068c",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6116438,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Emily Prugnaud",
+          "original_name": "Emily Prugnaud",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "69d01cf91c3c4b84d99a1b45",
+          "department": "Costume & Make-Up",
+          "job": "Costume Designer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

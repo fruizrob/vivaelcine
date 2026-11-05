@@ -1,0 +1,417 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/674713?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:59.412Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 674713,
+    "imdb_id": "tt8611324",
+    "origin_country": [
+      "EG"
+    ],
+    "original_language": "ar",
+    "original_title": "هذا الرجل أحبه",
+    "overview": "",
+    "popularity": 0.3845,
+    "poster_path": "/wH9hCfVc7kHnihTRqtjXf3frMoV.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "EG",
+        "name": "Egypt"
+      }
+    ],
+    "release_date": "1962-02-08",
+    "revenue": 0,
+    "runtime": 113,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "هذا الرجل أحبه",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1303806,
+          "known_for_department": "Acting",
+          "name": "Magda Al Sabahi",
+          "original_name": "Magda Al Sabahi",
+          "popularity": 0.6375,
+          "profile_path": "/tZXVKMl9yzM61MQnzQuPFkVplCG.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5e4dd10635811d00174ff6d8",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1079523,
+          "known_for_department": "Acting",
+          "name": "Yehia Chahine",
+          "original_name": "Yehia Chahine",
+          "popularity": 0.8605,
+          "profile_path": "/4MNZuS3OVifp8PGtr8ct4ADkpMd.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5e4dd1121e92250018c9a07e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1302780,
+          "known_for_department": "Acting",
+          "name": "Negma Ibrahim",
+          "original_name": "Negma Ibrahim",
+          "popularity": 0.5944,
+          "profile_path": "/1uoqYQMlJ3fKI8QMt5C4SVQ205k.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "652215e995c0af011d5cb759",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2120146,
+          "known_for_department": "Acting",
+          "name": "Aziza Helmy",
+          "original_name": "Aziza Helmy",
+          "popularity": 0.9282,
+          "profile_path": "/cAEgxKb7BrJ7P6OIyZtM7Hdie9E.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "652215fc74507d00e2128ed1",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1166005,
+          "known_for_department": "Acting",
+          "name": "Mimi Chakib",
+          "original_name": "Mimi Chakib",
+          "popularity": 0.9625,
+          "profile_path": "/mEKnx6cmfBfHagBCBVatHZ9fEeU.jpg",
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "65221606c50ad200ad84fa52",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1448354,
+          "known_for_department": "Acting",
+          "name": "Poussi",
+          "original_name": "Poussi",
+          "popularity": 0.6045,
+          "profile_path": "/A3hzfSRLFP31ejymBw3uc6h11E7.jpg",
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "652216dcc50ad2014dd231b2",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1166971,
+          "known_for_department": "Acting",
+          "name": "Sabah",
+          "original_name": "Sabah",
+          "popularity": 0.444,
+          "profile_path": "/99KbGfDOKrSOBqHY27fMXKv1VMA.jpg",
+          "cast_id": 10,
+          "character": "Heyam ( guest star )",
+          "credit_id": "68244718557c3249ef864a8e",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2521612,
+          "known_for_department": "Acting",
+          "name": "Mohamed Abaza",
+          "original_name": "Mohamed Abaza",
+          "popularity": 0.2544,
+          "profile_path": "/xJDniSqRJiV0V3HJlYtGBP6C7iE.jpg",
+          "cast_id": 12,
+          "character": "",
+          "credit_id": "69b328f99daee8b00e817af9",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2170522,
+          "known_for_department": "Acting",
+          "name": "Fawzy Darwish",
+          "original_name": "Fawzy Darwish",
+          "popularity": 0.1426,
+          "profile_path": "/2pmrzWzKYwYWVVAmzxjWcCalGpO.jpg",
+          "cast_id": 13,
+          "character": "",
+          "credit_id": "69b329024a6511d3f84b73e7",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3109173,
+          "known_for_department": "Acting",
+          "name": "Ikram Ezzo",
+          "original_name": "Ikram Ezzo",
+          "popularity": 0.485,
+          "profile_path": "/ouvlvznostBcKNAu2xMrCIATsEJ.jpg",
+          "cast_id": 14,
+          "character": "",
+          "credit_id": "69b3290b5c85eaf8664f00ab",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2522863,
+          "known_for_department": "Acting",
+          "name": "Fawzeya Ebrahim",
+          "original_name": "Fawzeya Ebrahim",
+          "popularity": 0.2115,
+          "profile_path": "/yKT5MHPQPzawBhYivEMvLebxUqh.jpg",
+          "cast_id": 15,
+          "character": "",
+          "credit_id": "69b3291f9ed6a31322a77104",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2521610,
+          "known_for_department": "Acting",
+          "name": "عبد الغني النجدي",
+          "original_name": "عبد الغني النجدي",
+          "popularity": 0.6451,
+          "profile_path": "/xq3X0zogni5TVmpTwooF6kj3sgh.jpg",
+          "cast_id": 16,
+          "character": "",
+          "credit_id": "69b3292f9ed6a31322a77107",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2522956,
+          "known_for_department": "Acting",
+          "name": "Kawthar Ramzy",
+          "original_name": "Kawthar Ramzy",
+          "popularity": 0.3466,
+          "profile_path": "/32z4gM8bANmwplhW7wuRPKfHWwS.jpg",
+          "cast_id": 17,
+          "character": "",
+          "credit_id": "69b32936b5cc4b95ae02c301",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1302744,
+          "known_for_department": "Acting",
+          "name": "Nahed Samir",
+          "original_name": "Nahed Samir",
+          "popularity": 0.4364,
+          "profile_path": "/cIVm4BJ9pNiYAZmnUxvkFmSKuQP.jpg",
+          "cast_id": 18,
+          "character": "",
+          "credit_id": "69b3293fcc6482a7bba76869",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2521424,
+          "known_for_department": "Acting",
+          "name": "فيفي يوسف",
+          "original_name": "فيفي يوسف",
+          "popularity": 0.5963,
+          "profile_path": "/nWCssImPdmbALh7Wa6vmNu89hjO.jpg",
+          "cast_id": 19,
+          "character": "",
+          "credit_id": "69b32947a76b82de1402c4ae",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2521608,
+          "known_for_department": "Acting",
+          "name": "Abdel Moneim Saudi",
+          "original_name": "Abdel Moneim Saudi",
+          "popularity": 0.3919,
+          "profile_path": "/jFFUDjdYLKK9O6dUuwEafIaE4gT.jpg",
+          "cast_id": 20,
+          "character": "",
+          "credit_id": "69b3294ea625bb640e4b75ed",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2859441,
+          "known_for_department": "Acting",
+          "name": "Ahmed Shawqi",
+          "original_name": "Ahmed Shawqi",
+          "popularity": 0.4071,
+          "profile_path": "/r8L5GsNLdKpMJvJ6zpBhkFs7UEb.jpg",
+          "cast_id": 21,
+          "character": "",
+          "credit_id": "69b329577bf9c67a14685fd5",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1623300,
+          "known_for_department": "Acting",
+          "name": "Zouzou Nabil",
+          "original_name": "Zouzou Nabil",
+          "popularity": 0.2055,
+          "profile_path": "/xozRPPfJFkxL0bQQCTYmzsFZxwI.jpg",
+          "cast_id": 22,
+          "character": "",
+          "credit_id": "69b3295f94be29198f02c22c",
+          "order": 17
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1300008,
+          "known_for_department": "Writing",
+          "name": "Hussein El-Mohandess",
+          "original_name": "Hussein El-Mohandess",
+          "popularity": 0.4091,
+          "profile_path": "/oQPzOQIqwuJhysHTrLVDhMx39Gd.jpg",
+          "credit_id": "6522164374507d00ff9a426e",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1300008,
+          "known_for_department": "Writing",
+          "name": "Hussein El-Mohandess",
+          "original_name": "Hussein El-Mohandess",
+          "popularity": 0.4091,
+          "profile_path": "/oQPzOQIqwuJhysHTrLVDhMx39Gd.jpg",
+          "credit_id": "65221667c50ad200ad84fa94",
+          "department": "Crew",
+          "job": "Script"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 120999,
+          "known_for_department": "Writing",
+          "name": "Charlotte Brontë",
+          "original_name": "Charlotte Brontë",
+          "popularity": 0.9808,
+          "profile_path": "/hoNZ4r10iCB6QRmFoMdrf6FGUE9.jpg",
+          "credit_id": "69a95dae479555ff29f1af80",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1736572,
+          "known_for_department": "Sound",
+          "name": "Andre Ryder",
+          "original_name": "Andre Ryder",
+          "popularity": 0.1294,
+          "profile_path": null,
+          "credit_id": "69b32a13fec128cb3f4b7309",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2326359,
+          "known_for_department": "Camera",
+          "name": "Victor Antoun",
+          "original_name": "Victor Antoun",
+          "popularity": 0.1315,
+          "profile_path": null,
+          "credit_id": "69b32a27583f82d5bf685fee",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1300008,
+          "known_for_department": "Writing",
+          "name": "Hussein El-Mohandess",
+          "original_name": "Hussein El-Mohandess",
+          "popularity": 0.4091,
+          "profile_path": "/oQPzOQIqwuJhysHTrLVDhMx39Gd.jpg",
+          "credit_id": "69b32a3aa625bb640e4b75f8",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "EG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ar",
+              "note": "",
+              "release_date": "1962-02-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "EG",
+          "title": "Hatha Al Ragol Ohebboh",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

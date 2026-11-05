@@ -1,0 +1,73 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/885076?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:02.262Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 885076,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Unboxing",
+    "overview": "",
+    "popularity": 0.1633,
+    "poster_path": "/76JlEHMg57BzKsKT3OZcCiFD2vI.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2021-10-14",
+    "revenue": 0,
+    "runtime": 9,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Unboxing",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3273252,
+          "known_for_department": "Directing",
+          "name": "Ash Verwiel",
+          "original_name": "Ash Verwiel",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "616aed169715ae002c3246b8",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2021-10-14T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

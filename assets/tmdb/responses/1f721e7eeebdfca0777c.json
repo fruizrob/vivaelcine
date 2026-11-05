@@ -1,0 +1,90 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1532735?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:40.692Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1532735,
+    "imdb_id": null,
+    "origin_country": [
+      "RO"
+    ],
+    "original_language": "ro",
+    "original_title": "Terra",
+    "overview": "",
+    "popularity": 0.5525,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 56162,
+        "logo_path": null,
+        "name": "Studioul Cinematografic Animafilm",
+        "origin_country": "RO"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "RO",
+        "name": "Romania"
+      }
+    ],
+    "release_date": "1966-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Terra",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5600944,
+          "known_for_department": "Directing",
+          "name": "Ştefan Munteanu",
+          "original_name": "Ştefan Munteanu",
+          "popularity": 0.2493,
+          "profile_path": null,
+          "credit_id": "68a4dfb8b8bcd1df77fd2275",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "RO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1966-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

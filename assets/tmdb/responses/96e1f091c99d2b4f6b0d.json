@@ -1,0 +1,90 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/941771?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:57.518Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 941771,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "De la sala de clases a la lucha de clases",
+    "overview": "",
+    "popularity": 0.2594,
+    "poster_path": "/vjA0Oj8sHBEXNBWKiiBPnNWSkHd.jpg",
+    "production_companies": [
+      {
+        "id": 122536,
+        "logo_path": null,
+        "name": "Cordones Audiovisuales",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 100,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "De la sala de clases a la lucha de clases",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2400563,
+          "known_for_department": "Directing",
+          "name": "Renato Dennis",
+          "original_name": "Renato Dennis",
+          "popularity": 0.112,
+          "profile_path": "/yvUiZTH4PzW00UWlP9JXYYLsWM.jpg",
+          "credit_id": "6213a94a44a424001f619d55",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2590963,
+          "known_for_department": "Editing",
+          "name": "Efrain Robles",
+          "original_name": "Efrain Robles",
+          "popularity": 0.2376,
+          "profile_path": null,
+          "credit_id": "6213a9556e3deb001b6d4fa4",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

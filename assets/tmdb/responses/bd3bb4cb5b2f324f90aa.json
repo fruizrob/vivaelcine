@@ -1,0 +1,1060 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1353086?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:05.350Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/6flLWvPFZsDDgiUnUpuMmDIAv4X.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 1353086,
+    "imdb_id": "tt33309194",
+    "origin_country": [
+      "HR"
+    ],
+    "original_language": "hr",
+    "original_title": "Lijepa večer, lijep dan",
+    "overview": "",
+    "popularity": 1.3015,
+    "poster_path": "/8nSVQa8aHaq37FiTJDZOLFMi93J.jpg",
+    "production_companies": [
+      {
+        "id": 5581,
+        "logo_path": "/rxRKCci7cseixxLyKwjaCYdGCal.png",
+        "name": "4Film",
+        "origin_country": "HR"
+      },
+      {
+        "id": 215082,
+        "logo_path": "/c5nhgQIyYwpgLuK89vw1MsrcgFb.png",
+        "name": "Quiet Revolution Pictures",
+        "origin_country": "CA"
+      },
+      {
+        "id": 68045,
+        "logo_path": "/nBxkA3fLDpLhngvt8l5lun7fJxk.png",
+        "name": "Orka",
+        "origin_country": "PL"
+      },
+      {
+        "id": 161949,
+        "logo_path": "/ixkkQ4mywVqC5VFwBlGsRcIHOF3.png",
+        "name": "Caretta Films",
+        "origin_country": "CY"
+      },
+      {
+        "id": 66941,
+        "logo_path": "/ArXLe7AAwqRlst8CsvIy5wMGncD.png",
+        "name": "Depo",
+        "origin_country": "BA"
+      },
+      {
+        "id": 82420,
+        "logo_path": null,
+        "name": "Tastemakers Studio",
+        "origin_country": "CA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BA",
+        "name": "Bosnia and Herzegovina"
+      },
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "HR",
+        "name": "Croatia"
+      },
+      {
+        "iso_3166_1": "PL",
+        "name": "Poland"
+      },
+      {
+        "iso_3166_1": "CY",
+        "name": "Cyprus"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-01-23",
+    "revenue": 0,
+    "runtime": 137,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Bosnian",
+        "iso_639_1": "bs",
+        "name": "Bosanski"
+      },
+      {
+        "english_name": "Croatian",
+        "iso_639_1": "hr",
+        "name": "Hrvatski"
+      },
+      {
+        "english_name": "Serbian",
+        "iso_639_1": "sr",
+        "name": "Srpski"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lijepa večer, lijep dan",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1364310,
+          "known_for_department": "Acting",
+          "name": "Dado Ćosić",
+          "original_name": "Dado Ćosić",
+          "popularity": 0.3445,
+          "profile_path": "/jVkXIYOBlZTOxcluQnNdpPG47T.jpg",
+          "cast_id": 7,
+          "character": "Lovro Horvat",
+          "credit_id": "66db1ff08486635dd0f5b42f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 133023,
+          "known_for_department": "Acting",
+          "name": "Emir Hadžihafizbegović",
+          "original_name": "Emir Hadžihafizbegović",
+          "popularity": 0.611,
+          "profile_path": "/golaUgIDsFCKozCOP5KDonacgEa.jpg",
+          "cast_id": 2,
+          "character": "Emir",
+          "credit_id": "66db1fc06a0241d9b9387829",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1470514,
+          "known_for_department": "Acting",
+          "name": "Slaven Došlo",
+          "original_name": "Slaven Došlo",
+          "popularity": 0.4812,
+          "profile_path": "/8RsjTP1GKfWKxkz8ehZx1oLImJ0.jpg",
+          "cast_id": 3,
+          "character": "Stevan",
+          "credit_id": "66db1fc97170ff7536963368",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3845043,
+          "known_for_department": "Acting",
+          "name": "Đorđe Galić",
+          "original_name": "Đorđe Galić",
+          "popularity": 0.3521,
+          "profile_path": "/8olXSKd0Alq0GQIt04s2OAUe3Uw.jpg",
+          "cast_id": 11,
+          "character": "Nenad Miličić",
+          "credit_id": "66db203f3c558b5e6aedfe01",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4927046,
+          "known_for_department": "Acting",
+          "name": "Elmir Krivalic",
+          "original_name": "Elmir Krivalic",
+          "popularity": 0.1499,
+          "profile_path": "/5mKmn89qhFvjbSFfQufmd2FEJ3z.jpg",
+          "cast_id": 12,
+          "character": "Ivan",
+          "credit_id": "66db204c8a4a5b8bfe38782b",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1562275,
+          "known_for_department": "Acting",
+          "name": "Dražen Čuček",
+          "original_name": "Dražen Čuček",
+          "popularity": 0.4471,
+          "profile_path": "/ciNDu5IgIb09SsAjnwBPrg8SI09.jpg",
+          "cast_id": 18,
+          "character": "Goran Drenković",
+          "credit_id": "66ef09a47ff2bf57cd262320",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1314600,
+          "known_for_department": "Acting",
+          "name": "Anja Šovagović-Despot",
+          "original_name": "Anja Šovagović-Despot",
+          "popularity": 0.357,
+          "profile_path": "/lFibtFLuRuYkRgGq0AjjTE0j2Ba.jpg",
+          "cast_id": 20,
+          "character": "Lovrina majka",
+          "credit_id": "66ef09c07ff2bf57cd262338",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1043211,
+          "known_for_department": "Acting",
+          "name": "Vojislav Brajović",
+          "original_name": "Vojislav Brajović",
+          "popularity": 0.4923,
+          "profile_path": "/qQ1TP9Hc3cywQAYdkDgXvKYp4fH.jpg",
+          "cast_id": 5,
+          "character": "Lovrin otac",
+          "credit_id": "66db1fdcd84499316bcce5df",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1156166,
+          "known_for_department": "Acting",
+          "name": "Asja Jovanović",
+          "original_name": "Asja Jovanović",
+          "popularity": 0.447,
+          "profile_path": "/ifLQlKIhKmCkFtpiusqE5LfKtrI.jpg",
+          "cast_id": 10,
+          "character": "Ankica",
+          "credit_id": "66db200b11cab217566ce472",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 569945,
+          "known_for_department": "Acting",
+          "name": "Ivana Boban",
+          "original_name": "Ivana Boban",
+          "popularity": 0.2446,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Sanja",
+          "credit_id": "66ef09945ee61fbb738d4635",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 111062,
+          "known_for_department": "Acting",
+          "name": "Milica Mihajlović",
+          "original_name": "Milica Mihajlović",
+          "popularity": 0.431,
+          "profile_path": "/3goS8dvXiKjdpZoNfBxSfg58CNa.jpg",
+          "cast_id": 4,
+          "character": "Sanela Servar",
+          "credit_id": "66db1fd063bb4154f6ec2947",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 118705,
+          "known_for_department": "Acting",
+          "name": "Svetozar Cvetković",
+          "original_name": "Svetozar Cvetković",
+          "popularity": 0.536,
+          "profile_path": "/5595Uj5yNmpehkB9IdgfAweiqdC.jpg",
+          "cast_id": 19,
+          "character": "Godež Klemac",
+          "credit_id": "66ef09b07300a5ba213b1bc2",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 124960,
+          "known_for_department": "Acting",
+          "name": "Matija Prskalo",
+          "original_name": "Matija Prskalo",
+          "popularity": 0.6066,
+          "profile_path": "/gwbDaulENAEWv2LPm91LaZaAg.jpg",
+          "cast_id": 35,
+          "character": "Katica Fikić",
+          "credit_id": "6757ae7d99359b0468a44fe2",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1922358,
+          "known_for_department": "Acting",
+          "name": "Marko Braić",
+          "original_name": "Marko Braić",
+          "popularity": 0.4331,
+          "profile_path": "/uc0zciBaOqBDAq8NpylfSKpUiud.jpg",
+          "cast_id": 36,
+          "character": "Zoran",
+          "credit_id": "6757aed399359b0468a45014",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1991422,
+          "known_for_department": "Acting",
+          "name": "Mislav Čavajda",
+          "original_name": "Mislav Čavajda",
+          "popularity": 0.3965,
+          "profile_path": "/zaodGAt0GqP0q0ZNx7DIhJ8gRcq.jpg",
+          "cast_id": 17,
+          "character": "Glavni ustaša",
+          "credit_id": "66ef09a0c237258e4c25f81c",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4955357,
+          "known_for_department": "Acting",
+          "name": "Sara Blažić",
+          "original_name": "Sara Blažić",
+          "popularity": 0.1136,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Hana",
+          "credit_id": "66ef09895ee61fbb738d4625",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1364312,
+          "known_for_department": "Acting",
+          "name": "Andrej Dojkić",
+          "original_name": "Andrej Dojkić",
+          "popularity": 0.4159,
+          "profile_path": "/wXtOrqiCfKjEerU9YftdfcvVvOK.jpg",
+          "cast_id": 37,
+          "character": "Zatvorenik Ranko",
+          "credit_id": "6757aeee7acfd278c6dd82f6",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2457776,
+          "known_for_department": "Acting",
+          "name": "Jan Doležal",
+          "original_name": "Jan Doležal",
+          "popularity": 0.2307,
+          "profile_path": null,
+          "cast_id": 38,
+          "character": "Marko Erić",
+          "credit_id": "6757aef8e528400caac1a4d0",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 459003,
+          "known_for_department": "Acting",
+          "name": "Goran Grgić",
+          "original_name": "Goran Grgić",
+          "popularity": 0.7981,
+          "profile_path": "/Ad9yuEkNNB1GRONzkBnZmrPZsIR.jpg",
+          "cast_id": 39,
+          "character": "Agent Rogan",
+          "credit_id": "6757af0031f9d1c8f2370cec",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1601581,
+          "known_for_department": "Production",
+          "name": "Anita Juka",
+          "original_name": "Anita Juka",
+          "popularity": 0.1284,
+          "profile_path": null,
+          "cast_id": 40,
+          "character": "",
+          "credit_id": "6757af0eeedec22d8aebef0b",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3925596,
+          "known_for_department": "Acting",
+          "name": "Lena Juka Stambuk",
+          "original_name": "Lena Juka Stambuk",
+          "popularity": 0.1369,
+          "profile_path": null,
+          "cast_id": 41,
+          "character": "Marta",
+          "credit_id": "6757af18e528400caac1a4d5",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1566454,
+          "known_for_department": "Acting",
+          "name": "Ivo Krištof",
+          "original_name": "Ivo Krištof",
+          "popularity": 0.26,
+          "profile_path": null,
+          "cast_id": 42,
+          "character": "",
+          "credit_id": "6757af2fe528400caac1a4de",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1383642,
+          "known_for_department": "Acting",
+          "name": "Stojan Matavulj",
+          "original_name": "Stojan Matavulj",
+          "popularity": 0.234,
+          "profile_path": "/tmxUziRNgxskgjXQwKnHwfGrOmJ.jpg",
+          "cast_id": 43,
+          "character": "Zamenik ministra Rosta Orlić",
+          "credit_id": "6757af3c3688459d75898730",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3641550,
+          "known_for_department": "Acting",
+          "name": "Pavle Matuško",
+          "original_name": "Pavle Matuško",
+          "popularity": 0.1792,
+          "profile_path": null,
+          "cast_id": 44,
+          "character": "Radnik",
+          "credit_id": "6757af4a7acfd278c6dd837f",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1067829,
+          "known_for_department": "Acting",
+          "name": "Frano Mašković",
+          "original_name": "Frano Mašković",
+          "popularity": 0.2705,
+          "profile_path": "/xRQmyo98j8vhlPur8nkfvfOMv97.jpg",
+          "cast_id": 45,
+          "character": "Drug Franković",
+          "credit_id": "6757af52e528400caac1a52a",
+          "order": 24
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4960370,
+          "known_for_department": "Acting",
+          "name": "Sinisa Miletic",
+          "original_name": "Sinisa Miletic",
+          "popularity": 0.1237,
+          "profile_path": null,
+          "cast_id": 46,
+          "character": "Drug Dragojević",
+          "credit_id": "6757af5f3688459d75898736",
+          "order": 25
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1674824,
+          "known_for_department": "Acting",
+          "name": "Domagoj Mrkonjić",
+          "original_name": "Domagoj Mrkonjić",
+          "popularity": 0.343,
+          "profile_path": "/mzqCNeTPEawCSRMHcsgd6DBTIuj.jpg",
+          "cast_id": 47,
+          "character": "Svjedok Petar",
+          "credit_id": "6757af673509719dd1476525",
+          "order": 26
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1127414,
+          "known_for_department": "Acting",
+          "name": "Gloria Navarro",
+          "original_name": "Gloria Navarro",
+          "popularity": 0.2468,
+          "profile_path": null,
+          "cast_id": 48,
+          "character": "",
+          "credit_id": "6757af7a3509719dd147652c",
+          "order": 27
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1875448,
+          "known_for_department": "Acting",
+          "name": "Marko Petrić",
+          "original_name": "Marko Petrić",
+          "popularity": 0.5848,
+          "profile_path": null,
+          "cast_id": 49,
+          "character": "Stipe",
+          "credit_id": "6757af89e528400caac1a59c",
+          "order": 28
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 113757,
+          "known_for_department": "Acting",
+          "name": "Luka Petrušić",
+          "original_name": "Luka Petrušić",
+          "popularity": 0.3074,
+          "profile_path": "/3Uw4NpJlcl8s9hsU1p437t8kNC8.jpg",
+          "cast_id": 50,
+          "character": "Drug Gagić",
+          "credit_id": "6757afa2eedec22d8aebef3c",
+          "order": 29
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5109858,
+          "known_for_department": "Acting",
+          "name": "Deirdre Pike",
+          "original_name": "Deirdre Pike",
+          "popularity": 0.1057,
+          "profile_path": null,
+          "cast_id": 51,
+          "character": "",
+          "credit_id": "6757afaee528400caac1a5a7",
+          "order": 30
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1529574,
+          "known_for_department": "Acting",
+          "name": "Jure Radnić",
+          "original_name": "Jure Radnić",
+          "popularity": 0.1327,
+          "profile_path": null,
+          "cast_id": 52,
+          "character": "Vojnik Antun",
+          "credit_id": "6757afbae528400caac1a5ae",
+          "order": 31
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5109859,
+          "known_for_department": "Acting",
+          "name": "Rade Radolović",
+          "original_name": "Rade Radolović",
+          "popularity": 0.2608,
+          "profile_path": null,
+          "cast_id": 53,
+          "character": "Svjedok Vjeko",
+          "credit_id": "6757afc57acfd278c6dd83ed",
+          "order": 32
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 63888,
+          "known_for_department": "Acting",
+          "name": "Janko Rakoš",
+          "original_name": "Janko Rakoš",
+          "popularity": 0.373,
+          "profile_path": "/dWu1o3Fspk7ipmelSQA2zX6RzNw.jpg",
+          "cast_id": 54,
+          "character": "Goran",
+          "credit_id": "6757afd13688459d758987bd",
+          "order": 33
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3560027,
+          "known_for_department": "Production",
+          "name": "Laura Sinovcic",
+          "original_name": "Laura Sinovcic",
+          "popularity": 0.1016,
+          "profile_path": null,
+          "cast_id": 55,
+          "character": "",
+          "credit_id": "6757afe3e528400caac1a5c2",
+          "order": 34
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 432771,
+          "known_for_department": "Acting",
+          "name": "Boris Svrtan",
+          "original_name": "Boris Svrtan",
+          "popularity": 0.8496,
+          "profile_path": null,
+          "cast_id": 56,
+          "character": "Agent Anić",
+          "credit_id": "6757afebe528400caac1a5cc",
+          "order": 35
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1192884,
+          "known_for_department": "Acting",
+          "name": "Enes Vejzović",
+          "original_name": "Enes Vejzović",
+          "popularity": 0.3598,
+          "profile_path": "/gr9Ve5kopBZWC5yK6scYHRe7J2g.jpg",
+          "cast_id": 57,
+          "character": "Drug Miroslav",
+          "credit_id": "6757aff37acfd278c6dd83f6",
+          "order": 36
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1875976,
+          "known_for_department": "Acting",
+          "name": "Paško Vukasović",
+          "original_name": "Paško Vukasović",
+          "popularity": 0.278,
+          "profile_path": "/bxV8XzcQGiESkxzHQ2SuO3jUHcw.jpg",
+          "cast_id": 58,
+          "character": "Svjedok Darko",
+          "credit_id": "6757affc7acfd278c6dd83ff",
+          "order": 37
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5109861,
+          "known_for_department": "Acting",
+          "name": "Nikolina Žuženić",
+          "original_name": "Nikolina Žuženić",
+          "popularity": 0.1042,
+          "profile_path": null,
+          "cast_id": 59,
+          "character": "Supervizor scenarija Žuži",
+          "credit_id": "6757b0073509719dd1476559",
+          "order": 38
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1192921,
+          "known_for_department": "Directing",
+          "name": "Ivona Juka",
+          "original_name": "Ivona Juka",
+          "popularity": 0.6087,
+          "profile_path": "/1YwwZ0Tjmw0tE0XxB7H0yKUUKo8.jpg",
+          "credit_id": "66dafc9c9b81daa537de0489",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1192921,
+          "known_for_department": "Directing",
+          "name": "Ivona Juka",
+          "original_name": "Ivona Juka",
+          "popularity": 0.6087,
+          "profile_path": "/1YwwZ0Tjmw0tE0XxB7H0yKUUKo8.jpg",
+          "credit_id": "66db205ba618f270d1354b2b",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1601581,
+          "known_for_department": "Production",
+          "name": "Anita Juka",
+          "original_name": "Anita Juka",
+          "popularity": 0.1284,
+          "profile_path": null,
+          "credit_id": "66db4f59da34861b60edff7a",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1601712,
+          "known_for_department": "Sound",
+          "name": "Nenad Pirnat",
+          "original_name": "Nenad Pirnat",
+          "popularity": 0.1297,
+          "profile_path": null,
+          "credit_id": "670cf9c0d5f93a3da0bbaf47",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2743422,
+          "known_for_department": "Editing",
+          "name": "Nina Velnić",
+          "original_name": "Nina Velnić",
+          "popularity": 0.1196,
+          "profile_path": null,
+          "credit_id": "670cf9cb1ca4c39fdeeb968f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19016,
+          "known_for_department": "Sound",
+          "name": "Michael Brook",
+          "original_name": "Michael Brook",
+          "popularity": 0.3767,
+          "profile_path": "/PbHAuMBPkxtgyEmV6d69BTj2fZ.jpg",
+          "credit_id": "670cf9d61ca4c39fdeeb9695",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1936346,
+          "known_for_department": "Camera",
+          "name": "Dragan Ruljančić",
+          "original_name": "Dragan Ruljančić",
+          "popularity": 0.1307,
+          "profile_path": null,
+          "credit_id": "670cf9de3bb4557c669c0f4a",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1192921,
+          "known_for_department": "Directing",
+          "name": "Ivona Juka",
+          "original_name": "Ivona Juka",
+          "popularity": 0.6087,
+          "profile_path": "/1YwwZ0Tjmw0tE0XxB7H0yKUUKo8.jpg",
+          "credit_id": "670cf9ef1ca4c39fdeeb9699",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4999758,
+          "known_for_department": "Production",
+          "name": "Siniša Budaj",
+          "original_name": "Siniša Budaj",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "670cfa054111be4f02751959",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1519334,
+          "known_for_department": "Production",
+          "name": "Michael Dobbin",
+          "original_name": "Michael Dobbin",
+          "popularity": 0.2337,
+          "profile_path": "/yt0znLEkYzefMJGHxbUQVRaAdCS.jpg",
+          "credit_id": "6757add47acfd278c6dd8251",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1963851,
+          "known_for_department": "Production",
+          "name": "Magdalena Zimecka",
+          "original_name": "Magdalena Zimecka",
+          "popularity": 0.2803,
+          "profile_path": null,
+          "credit_id": "6757addb7acfd278c6dd8255",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2782254,
+          "known_for_department": "Production",
+          "name": "Constantinos Nikiforou",
+          "original_name": "Constantinos Nikiforou",
+          "popularity": 0.2201,
+          "profile_path": null,
+          "credit_id": "6757ade2eedec22d8aebee7b",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 936064,
+          "known_for_department": "Directing",
+          "name": "Jasmin Duraković",
+          "original_name": "Jasmin Duraković",
+          "popularity": 0.2832,
+          "profile_path": null,
+          "credit_id": "6757adea31f9d1c8f2370bf5",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5109855,
+          "known_for_department": "Production",
+          "name": "Angelina A. Duraković",
+          "original_name": "Angelina A. Duraković",
+          "popularity": 0.1027,
+          "profile_path": null,
+          "credit_id": "6757adf47acfd278c6dd826c",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4025282,
+          "known_for_department": "Writing",
+          "name": "Marius D'Gasco",
+          "original_name": "Marius D'Gasco",
+          "popularity": 0.1467,
+          "profile_path": null,
+          "credit_id": "6757ae00eedec22d8aebee86",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3560027,
+          "known_for_department": "Production",
+          "name": "Laura Sinovcic",
+          "original_name": "Laura Sinovcic",
+          "popularity": 0.1016,
+          "profile_path": null,
+          "credit_id": "6757ae08637463229eafb759",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1859243,
+          "known_for_department": "Production",
+          "name": "Byron A. Martin",
+          "original_name": "Byron A. Martin",
+          "popularity": 0.2319,
+          "profile_path": "/4vkbfeyxSlMCC8fl1aLK2e8TSuT.jpg",
+          "credit_id": "6757ae1231f9d1c8f2370c34",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Melbourne Queer Film Festival",
+              "release_date": "2025-11-16T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Brisbane International Film Festival ",
+              "release_date": "2025-11-28T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Mardi Gras Film Festival",
+              "release_date": "2026-02-18T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Pink Screens Festival (Brussels)",
+              "release_date": "2025-11-04T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CY",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cyprus Film Days International Festival",
+              "release_date": "2026-04-19T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2024-09-09T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Zagreb",
+              "release_date": "2026-05-18T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-05-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Kolkata International Film Festival",
+              "release_date": "2025-11-11T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "hr",
+              "note": "Warsaw Film Festival ",
+              "release_date": "2025-10-15T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-01-23T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sunny Bunny International LGBTQ+ Film Festival",
+              "release_date": "2026-04-20T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "hr",
+              "note": "Frameline Film Festival, San Francisco",
+              "release_date": "2025-06-26T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "hr",
+              "note": "OUT at the Movies Film Festival, Birmingham ",
+              "release_date": "2025-10-05T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "HR",
+          "title": "Strangers in the Night",
+          "type": "working title"
+        }
+      ]
+    }
+  }
+}

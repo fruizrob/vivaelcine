@@ -1,0 +1,102 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1427790?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:32.927Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1427790,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "Cuadro negro",
+    "overview": "",
+    "popularity": 1.3149,
+    "poster_path": "/fuicu6kasHheqzCcZ6hL9t1GwqW.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "2025-02-26",
+    "revenue": 0,
+    "runtime": 126,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Cuadro negro",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1392147,
+          "known_for_department": "Directing",
+          "name": "José Luis Sepúlveda",
+          "original_name": "José Luis Sepúlveda",
+          "popularity": 0.4954,
+          "profile_path": null,
+          "credit_id": "679f43e8a57909701acb6171",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1392146,
+          "known_for_department": "Directing",
+          "name": "Carolina Adriazola",
+          "original_name": "Carolina Adriazola",
+          "popularity": 0.1526,
+          "profile_path": null,
+          "credit_id": "679f43ffa57909701acb6179",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Punto de Vista",
+              "release_date": "2025-02-26T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

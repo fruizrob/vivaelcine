@@ -1,0 +1,424 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1751315?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:02:45.421Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 1000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "id": 1751315,
+    "imdb_id": null,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "El Rumor del Prado",
+    "overview": "",
+    "popularity": 0.4608,
+    "poster_path": "/5kEuiuLfftgiaIvzhQstwgGkDhz.jpg",
+    "production_companies": [
+      {
+        "id": 253473,
+        "logo_path": null,
+        "name": "Arre al Cine",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 20,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El Rumor del Prado",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418068,
+          "known_for_department": "Acting",
+          "name": "Victoria Levario",
+          "original_name": "Victoria Levario",
+          "popularity": 0.1639,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Priscila",
+          "credit_id": "6a831ea6e1f30d3fd0957fbe",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418073,
+          "known_for_department": "Acting",
+          "name": "Santiago Sánchez",
+          "original_name": "Santiago Sánchez",
+          "popularity": 0.1406,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Mateo",
+          "credit_id": "6a831ef470fc220c2549617e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418084,
+          "known_for_department": "Acting",
+          "name": "Laura Lee",
+          "original_name": "Laura Lee",
+          "popularity": 0.1932,
+          "profile_path": "/s8w5JsmaT8DvfBjqK9DLFSHSQFa.jpg",
+          "cast_id": 3,
+          "character": "Luciana",
+          "credit_id": "6a83208834fc86a70fe0bd81",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5406703,
+          "known_for_department": "Directing",
+          "name": "Gerardo Castañeda",
+          "original_name": "Gerardo Castañeda",
+          "popularity": 0.1227,
+          "profile_path": "/q35vLWcVPUjeqdxGrOlsS4UDwFy.jpg",
+          "cast_id": 4,
+          "character": "Don Roberto",
+          "credit_id": "6a8320a0361a98e65472c67c",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3713783,
+          "known_for_department": "Directing",
+          "name": "Melissa García Manzo",
+          "original_name": "Melissa García Manzo",
+          "popularity": 0.1477,
+          "profile_path": "/gO6WweSnHOl4zIiBL2yEyM3EMaI.jpg",
+          "credit_id": "6a8322f62bbfef2fed7694b3",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418090,
+          "known_for_department": "Directing",
+          "name": "Andrés Sekisaka Campaña",
+          "original_name": "Andrés Sekisaka Campaña",
+          "popularity": 0.3808,
+          "profile_path": "/sFhvZH0vr5AFhBYHe2lMluGqnC2.jpg",
+          "credit_id": "6a83232de1f30d3fd095801d",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3713783,
+          "known_for_department": "Directing",
+          "name": "Melissa García Manzo",
+          "original_name": "Melissa García Manzo",
+          "popularity": 0.1477,
+          "profile_path": "/gO6WweSnHOl4zIiBL2yEyM3EMaI.jpg",
+          "credit_id": "6a83238f3c2e4998b47695e8",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418090,
+          "known_for_department": "Directing",
+          "name": "Andrés Sekisaka Campaña",
+          "original_name": "Andrés Sekisaka Campaña",
+          "popularity": 0.3808,
+          "profile_path": "/sFhvZH0vr5AFhBYHe2lMluGqnC2.jpg",
+          "credit_id": "6a8323fdfd1e56b90a72c5d8",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418093,
+          "known_for_department": "Writing",
+          "name": "Eloísa Gómez",
+          "original_name": "Eloísa Gómez",
+          "popularity": 0.1672,
+          "profile_path": null,
+          "credit_id": "6a832436ed04a2abea104035",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5246077,
+          "known_for_department": "Production",
+          "name": "Brandon Duarte",
+          "original_name": "Brandon Duarte",
+          "popularity": 0.1626,
+          "profile_path": "/nphzc2ascI5k8OR1VTEHL7izGAW.jpg",
+          "credit_id": "6a83246ea4f5900a81022764",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3713783,
+          "known_for_department": "Directing",
+          "name": "Melissa García Manzo",
+          "original_name": "Melissa García Manzo",
+          "popularity": 0.1477,
+          "profile_path": "/gO6WweSnHOl4zIiBL2yEyM3EMaI.jpg",
+          "credit_id": "6a832487be11fa40b32b2574",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418090,
+          "known_for_department": "Directing",
+          "name": "Andrés Sekisaka Campaña",
+          "original_name": "Andrés Sekisaka Campaña",
+          "popularity": 0.3808,
+          "profile_path": "/sFhvZH0vr5AFhBYHe2lMluGqnC2.jpg",
+          "credit_id": "6a8324a3381680968de0bd26",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418098,
+          "known_for_department": "Directing",
+          "name": "Daniel Amparán",
+          "original_name": "Daniel Amparán",
+          "popularity": 0.1266,
+          "profile_path": "/6TrrNhNuor0zsHqxyi1QwG8Nkv9.jpg",
+          "credit_id": "6a83251626148149de769447",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4253716,
+          "known_for_department": "Production",
+          "name": "Jimmy Trevizo",
+          "original_name": "Jimmy Trevizo",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6a83254f880c49db2872c7e8",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418103,
+          "known_for_department": "Production",
+          "name": "Juan soto",
+          "original_name": "Juan soto",
+          "popularity": 0.1536,
+          "profile_path": null,
+          "credit_id": "6a83257c8a232a8862022813",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418093,
+          "known_for_department": "Writing",
+          "name": "Eloísa Gómez",
+          "original_name": "Eloísa Gómez",
+          "popularity": 0.1672,
+          "profile_path": null,
+          "credit_id": "6a8325a7c0d8d39bda72c648",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3858412,
+          "known_for_department": "Acting",
+          "name": "Isabel D. Rubio",
+          "original_name": "Isabel D. Rubio",
+          "popularity": 0.1904,
+          "profile_path": null,
+          "credit_id": "6a8325c7b483dd27c82b2390",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5246079,
+          "known_for_department": "Camera",
+          "name": "Juan Herrera",
+          "original_name": "Juan Herrera",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6a8326100fca61b804496048",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418108,
+          "known_for_department": "Camera",
+          "name": "Abdul Venegas",
+          "original_name": "Abdul Venegas",
+          "popularity": 0.1512,
+          "profile_path": null,
+          "credit_id": "6a83265e2022a17f28958127",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418114,
+          "known_for_department": "Camera",
+          "name": "Christopher Yáñez",
+          "original_name": "Christopher Yáñez",
+          "popularity": 0.1707,
+          "profile_path": null,
+          "credit_id": "6a8326e2d4b7895a6395818c",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418116,
+          "known_for_department": "Lighting",
+          "name": "Arely Leal",
+          "original_name": "Arely Leal",
+          "popularity": 0.1527,
+          "profile_path": null,
+          "credit_id": "6a8326fbed04a2abea10413b",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418119,
+          "known_for_department": "Lighting",
+          "name": "Luis C. Yee",
+          "original_name": "Luis C. Yee",
+          "popularity": 0.3836,
+          "profile_path": null,
+          "credit_id": "6a83275d361a98e65472c6ba",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418121,
+          "known_for_department": "Sound",
+          "name": "Iván Cuevas",
+          "original_name": "Iván Cuevas",
+          "popularity": 0.1383,
+          "profile_path": null,
+          "credit_id": "6a8327cfe1f30d3fd0958067",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3713783,
+          "known_for_department": "Directing",
+          "name": "Melissa García Manzo",
+          "original_name": "Melissa García Manzo",
+          "popularity": 0.1477,
+          "profile_path": "/gO6WweSnHOl4zIiBL2yEyM3EMaI.jpg",
+          "credit_id": "6a8327f07feaea1184104190",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418090,
+          "known_for_department": "Directing",
+          "name": "Andrés Sekisaka Campaña",
+          "original_name": "Andrés Sekisaka Campaña",
+          "popularity": 0.3808,
+          "profile_path": "/sFhvZH0vr5AFhBYHe2lMluGqnC2.jpg",
+          "credit_id": "6a8328073c2e4998b4769620",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5246076,
+          "known_for_department": "Directing",
+          "name": "Eduardo Cervantes",
+          "original_name": "Eduardo Cervantes",
+          "popularity": 0.2087,
+          "profile_path": null,
+          "credit_id": "6a83282b381680968de0bd74",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6418377,
+          "known_for_department": "Camera",
+          "name": "Hernán Heredia",
+          "original_name": "Hernán Heredia",
+          "popularity": 0.4636,
+          "profile_path": null,
+          "credit_id": "6a8338bc8e189deb48496206",
+          "department": "Camera",
+          "job": "Still Photographer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

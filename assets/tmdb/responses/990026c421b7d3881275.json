@@ -1,0 +1,102 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1442295?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:04.450Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/meYVT6MxcD7lGqRY7k1UWtciF7N.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1442295,
+    "imdb_id": null,
+    "origin_country": [
+      "NO"
+    ],
+    "original_language": "no",
+    "original_title": "Ein er ei eiga eining",
+    "overview": "",
+    "popularity": 0.348,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "NO",
+        "name": "Norway"
+      }
+    ],
+    "release_date": "2025-03-20",
+    "revenue": 0,
+    "runtime": 29,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Norwegian",
+        "iso_639_1": "no",
+        "name": "Norsk"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ein er ei eiga eining",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 2,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2279722,
+          "known_for_department": "Directing",
+          "name": "Sturla Pilskog",
+          "original_name": "Sturla Pilskog",
+          "popularity": 0.1785,
+          "profile_path": null,
+          "credit_id": "67c4c594a3277ab4a1e74b72",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2279722,
+          "known_for_department": "Directing",
+          "name": "Sturla Pilskog",
+          "original_name": "Sturla Pilskog",
+          "popularity": 0.1785,
+          "profile_path": null,
+          "credit_id": "67c4c59c6ca9035a6a7a5580",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "CPH:DOX 2025",
+              "release_date": "2025-03-20T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

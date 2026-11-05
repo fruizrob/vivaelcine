@@ -1,0 +1,224 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1452519?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:01:28.703Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1452519,
+    "imdb_id": "tt1113727",
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_title": "The End",
+    "overview": "",
+    "popularity": 0.8796,
+    "poster_path": "/esgcGPknWMnJlQY54pNlBFJoWli.jpg",
+    "production_companies": [
+      {
+        "id": 257166,
+        "logo_path": null,
+        "name": "Gravemarker Films",
+        "origin_country": ""
+      },
+      {
+        "id": 128445,
+        "logo_path": null,
+        "name": "Perfect Pictures",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2007-09-24",
+    "revenue": 0,
+    "runtime": 109,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The End",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1432635,
+          "known_for_department": "Writing",
+          "name": "Jeremy Thomas",
+          "original_name": "Jeremy Thomas",
+          "popularity": 0.2751,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Joseph Rickman",
+          "credit_id": "67ded76be2bd135fcaf53e35",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5321437,
+          "known_for_department": "Acting",
+          "name": "Ella B. May",
+          "original_name": "Ella B. May",
+          "popularity": 0.1325,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Clara Wilkie",
+          "credit_id": "67ded780eba8fd7a0d69735c",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1333702,
+          "known_for_department": "Acting",
+          "name": "Katie Webber",
+          "original_name": "Katie Webber",
+          "popularity": 0.2636,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Katie",
+          "credit_id": "67ded7900416875adc69c11e",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2579502,
+          "known_for_department": "Acting",
+          "name": "Darren MacDonald",
+          "original_name": "Darren MacDonald",
+          "popularity": 0.232,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "The Figure/ Lobotomized Man/ Activator Scientist",
+          "credit_id": "67ded7a9eba8fd7a0d69736b",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1432635,
+          "known_for_department": "Writing",
+          "name": "Jeremy Thomas",
+          "original_name": "Jeremy Thomas",
+          "popularity": 0.2751,
+          "profile_path": null,
+          "credit_id": "67ded6a0a4855ee6f17a55de",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1432635,
+          "known_for_department": "Writing",
+          "name": "Jeremy Thomas",
+          "original_name": "Jeremy Thomas",
+          "popularity": 0.2751,
+          "profile_path": null,
+          "credit_id": "67ded6bbadf21a1668f59118",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1432637,
+          "known_for_department": "Camera",
+          "name": "Dan Dumouchel",
+          "original_name": "Dan Dumouchel",
+          "popularity": 0.2892,
+          "profile_path": null,
+          "credit_id": "67ded6d0e2bd135fcaf53e0c",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5321430,
+          "known_for_department": "Sound",
+          "name": "Christiaan Venter",
+          "original_name": "Christiaan Venter",
+          "popularity": 0.1105,
+          "profile_path": null,
+          "credit_id": "67ded701338e77783ff5a42a",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5321432,
+          "known_for_department": "Sound",
+          "name": "Nova Pon",
+          "original_name": "Nova Pon",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "credit_id": "67ded70e5f977836ab7abd3d",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3855777,
+          "known_for_department": "Acting",
+          "name": "Charlie Ross",
+          "original_name": "Charlie Ross",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "67ded751338e77783ff5a464",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "Calgary International Film Festival",
+              "release_date": "2007-09-24T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

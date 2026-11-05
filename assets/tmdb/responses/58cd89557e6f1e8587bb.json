@@ -1,0 +1,189 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1590726?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T22:03:01.716Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 1590726,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Stranger",
+    "overview": "",
+    "popularity": 0.3033,
+    "poster_path": "/kJ0476aFNwE1JZ2nEq95UF51nxJ.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2025-11-30",
+    "revenue": 0,
+    "runtime": 2,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Stranger",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3627139,
+          "known_for_department": "Crew",
+          "name": "Isaac Chou",
+          "original_name": "Isaac Chou",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "The Teenager",
+          "credit_id": "692d2dcfc7865f0229e338ec",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5775716,
+          "known_for_department": "Acting",
+          "name": "Angela Dornbusch",
+          "original_name": "Angela Dornbusch",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "The Stranger",
+          "credit_id": "692d2ddfe4f2a8345464a904",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3627139,
+          "known_for_department": "Crew",
+          "name": "Isaac Chou",
+          "original_name": "Isaac Chou",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "692d2deface5eb970264a95f",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3627139,
+          "known_for_department": "Crew",
+          "name": "Isaac Chou",
+          "original_name": "Isaac Chou",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "692d2df9e8e785d06d113ff4",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3627139,
+          "known_for_department": "Crew",
+          "name": "Isaac Chou",
+          "original_name": "Isaac Chou",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "692d2e02762bc107d464a96c",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3627139,
+          "known_for_department": "Crew",
+          "name": "Isaac Chou",
+          "original_name": "Isaac Chou",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "692d2e0dc7865f0229e338f6",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3627139,
+          "known_for_department": "Crew",
+          "name": "Isaac Chou",
+          "original_name": "Isaac Chou",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "692d2e19e41e9cc21c3ea137",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5775716,
+          "known_for_department": "Acting",
+          "name": "Angela Dornbusch",
+          "original_name": "Angela Dornbusch",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "692d2e2527802ce29c64a9e6",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5775716,
+          "known_for_department": "Acting",
+          "name": "Angela Dornbusch",
+          "original_name": "Angela Dornbusch",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "692d2e2f451e32f05be3392f",
+          "department": "Art",
+          "job": "Production Design"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2025-11-30T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}
