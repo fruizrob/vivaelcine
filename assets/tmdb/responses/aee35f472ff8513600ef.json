@@ -1,0 +1,345 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1522154?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:24.606Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1522154,
+    "imdb_id": "tt37724029",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "God Hates a Coward",
+    "overview": "",
+    "popularity": 1.1254,
+    "poster_path": "/epgN9J4FowXVTLNDGn46p142k0o.jpg",
+    "production_companies": [
+      {
+        "id": 298794,
+        "logo_path": "/uC3MgzZj47s11sNi1D8HGcJnbTY.png",
+        "name": "Pink Eye Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-05-03",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "God Hates a Coward",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3155523,
+          "known_for_department": "Directing",
+          "name": "David Leo",
+          "original_name": "David Leo",
+          "popularity": 0.1512,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "68893ce5518b7dbaba5adf0c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5594720,
+          "known_for_department": "Acting",
+          "name": "Jed Zaeb",
+          "original_name": "Jed Zaeb",
+          "popularity": 0.2639,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "68893d690bdd87e739b268ff",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3155523,
+          "known_for_department": "Directing",
+          "name": "David Leo",
+          "original_name": "David Leo",
+          "popularity": 0.1512,
+          "profile_path": null,
+          "credit_id": "68893cf2c924e19083b268b0",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3155523,
+          "known_for_department": "Directing",
+          "name": "David Leo",
+          "original_name": "David Leo",
+          "popularity": 0.1512,
+          "profile_path": null,
+          "credit_id": "68893cfd5a39da12ae5adf49",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3155523,
+          "known_for_department": "Directing",
+          "name": "David Leo",
+          "original_name": "David Leo",
+          "popularity": 0.1512,
+          "profile_path": null,
+          "credit_id": "68893d06f8b5ed6c2be13734",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3773451,
+          "known_for_department": "Crew",
+          "name": "Isa Magalhães",
+          "original_name": "Isa Magalhães",
+          "popularity": 0.1404,
+          "profile_path": "/tD1AVKLg6c2pNnFEQVT0v8LeyoS.jpg",
+          "credit_id": "68893d27be35a06435581056",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3684992,
+          "known_for_department": "Directing",
+          "name": "Sloane Stone",
+          "original_name": "Sloane Stone",
+          "popularity": 0.1193,
+          "profile_path": null,
+          "credit_id": "68893d39ec9b6690fce13714",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5413307,
+          "known_for_department": "Production",
+          "name": "Lane Bucher",
+          "original_name": "Lane Bucher",
+          "popularity": 0.168,
+          "profile_path": null,
+          "credit_id": "68893d45376cffb15b581045",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3518933,
+          "known_for_department": "Crew",
+          "name": "Hex Geissinger",
+          "original_name": "Hex Geissinger",
+          "popularity": 0.1473,
+          "profile_path": null,
+          "credit_id": "68893dadbe0884a622b268b7",
+          "department": "Crew",
+          "job": "Special Effects"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3155527,
+          "known_for_department": "Acting",
+          "name": "Eric Graci",
+          "original_name": "Eric Graci",
+          "popularity": 0.2709,
+          "profile_path": null,
+          "credit_id": "68893db983768c86c6581065",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5594722,
+          "known_for_department": "Art",
+          "name": "Abigail Greenberg",
+          "original_name": "Abigail Greenberg",
+          "popularity": 0.4447,
+          "profile_path": null,
+          "credit_id": "68893dca3a8301d06984bc66",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5015215,
+          "known_for_department": "Lighting",
+          "name": "Zach Nicholson",
+          "original_name": "Zach Nicholson",
+          "popularity": 0.2461,
+          "profile_path": null,
+          "credit_id": "68893ddbd5f4f9e521694259",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3155526,
+          "known_for_department": "Acting",
+          "name": "Spencer Ray",
+          "original_name": "Spencer Ray",
+          "popularity": 0.4102,
+          "profile_path": null,
+          "credit_id": "68893df3f8b5ed6c2be13754",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4821564,
+          "known_for_department": "Directing",
+          "name": "Beatriz Coelho de Soárez",
+          "original_name": "Beatriz Coelho de Soárez",
+          "popularity": 0.2503,
+          "profile_path": null,
+          "credit_id": "68893e19ee5bab2f8e01d17d",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4506021,
+          "known_for_department": "Directing",
+          "name": "Matt Haller",
+          "original_name": "Matt Haller",
+          "popularity": 0.3424,
+          "profile_path": "/6mTswIeKtNi8iasCuBpx4GbMBU9.jpg",
+          "credit_id": "68893e285328c50e0284bc34",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3256510,
+          "known_for_department": "Directing",
+          "name": "Hailey Bunn",
+          "original_name": "Hailey Bunn",
+          "popularity": 0.1531,
+          "profile_path": null,
+          "credit_id": "68893e3ef8f9225ae0a1a2d2",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4821562,
+          "known_for_department": "Camera",
+          "name": "Aliya Hickey",
+          "original_name": "Aliya Hickey",
+          "popularity": 0.2155,
+          "profile_path": null,
+          "credit_id": "68893e4b059c4b0026d021a6",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5015249,
+          "known_for_department": "Writing",
+          "name": "Adam Roat",
+          "original_name": "Adam Roat",
+          "popularity": 0.5934,
+          "profile_path": null,
+          "credit_id": "68893ea6ec9b6690fce1371b",
+          "department": "Camera",
+          "job": "Grip"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3491515,
+          "known_for_department": "Directing",
+          "name": "Henry Hanson",
+          "original_name": "Henry Hanson",
+          "popularity": 0.2768,
+          "profile_path": "/sbUO9jkAvlVR91ouqP6qsEQpofc.jpg",
+          "credit_id": "698b5bd6c5435085301e641a",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2026-08-26T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2025-05-03T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

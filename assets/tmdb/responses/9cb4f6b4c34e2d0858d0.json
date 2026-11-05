@@ -1,0 +1,88 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=LATIR&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:34.826Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 1814532,
+        "title": "Latir",
+        "original_language": "es",
+        "original_title": "Latir",
+        "overview": "",
+        "popularity": 0.2441,
+        "poster_path": "/1fgkG57ZRqLtthoI9R4eiwQ4BC6.jpg",
+        "release_date": "2026-11-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/QlrDcy22uSOZKuNyssrbF8S5tJ.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 938377,
+        "title": "El latir de los llanos",
+        "original_language": "es",
+        "original_title": "El latir de los llanos",
+        "overview": "",
+        "popularity": 2.01,
+        "poster_path": "/t1MgdZnkMTOX64sJmcs7a7Hfgzk.jpg",
+        "release_date": "2012-01-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xqjIVyovqfl3g6u0kJEvteclrbc.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 1553,
+        "title": "De latir mi  corazón se ha parado",
+        "original_language": "fr",
+        "original_title": "De battre mon cœur s'est arrêté",
+        "overview": "Tom tiene 28 años y está destinado a seguir los pasos de su padre en el sórdido y a veces brutal negocio inmobiliario. Pero, gracias a un encuentro casual, concibe la ilusión de que puede llegar a ser, como su madre, un pianista. Con gran determinación, comienza a prepararse para una audición con una virtuosa pianista china. Como ella no habla ni una palabra de francés, la música será el único medio de comunicación entre ambos. En estas circunstancias, su trabajo diario le resultará cada vez más sórdido e insoportable.",
+        "popularity": 3.2021,
+        "poster_path": "/2ZUIPYs3rRM7p9JPHMkHzG7vofO.jpg",
+        "release_date": "2005-03-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.901,
+        "vote_count": 510
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27
+        ],
+        "id": 1370572,
+        "title": "Until it stops beating",
+        "original_language": "es",
+        "original_title": "Hasta que deje de latir",
+        "overview": "Dani (14) comienza a enamorarse de Leo, el fantasma de un chico que conoce mientras juega con una Ouija en su ordenador. Una noche, después de casi ser descubierto por su madre, tiene un sueño bastante extraño en el que se le da la oportunidad de conocer mejor a su amigo, aunque una presencia maligna acecha sin que él lo sepa.",
+        "popularity": 0.7319,
+        "poster_path": "/tE7rUxFUci1uxu7AMOGc9NJgwz0.jpg",
+        "release_date": "2024-10-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+  }
+}

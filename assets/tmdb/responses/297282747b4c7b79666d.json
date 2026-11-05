@@ -1,0 +1,82 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1641395?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:10.600Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/7tXoXxaHDtdXs0xjobRtMofWnbh.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1641395,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Unboxing Ring",
+    "overview": "",
+    "popularity": 3.6345,
+    "poster_path": "/uPArDGWJIg498V26fBZ5TLuTGn7.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2010-02-04",
+    "revenue": 0,
+    "runtime": 176,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Unboxing Ring",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1212845,
+          "known_for_department": "Acting",
+          "name": "Rocco Botte",
+          "original_name": "Rocco Botte",
+          "popularity": 0.836,
+          "profile_path": "/83dugHkP4Davdwnpa3VcnyiBcPY.jpg",
+          "cast_id": 1,
+          "character": "Tyler \"Trickman\"",
+          "credit_id": "699cfa99a64bca3adb374f92",
+          "order": 0
+        }
+      ],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2010-02-04T00:00:00.000Z",
+              "type": 4
+            },
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2023-12-12T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

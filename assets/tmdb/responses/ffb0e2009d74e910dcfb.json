@@ -1,0 +1,92 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1646276?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:39:40.467Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1646276,
+    "imdb_id": null,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "大江朝美 FIRST DVD~AKB48 Graduation~",
+    "overview": "",
+    "popularity": 0.3434,
+    "poster_path": "/jGLofUalsJTIP66C8bBNe30kO5F.jpg",
+    "production_companies": [
+      {
+        "id": 130584,
+        "logo_path": "/dprmfhpWLkbtWwx8EjAucH2YJ1g.png",
+        "name": "Saibunkan Publishing",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2009-04-24",
+    "revenue": 0,
+    "runtime": 50,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "大江朝美 FIRST DVD~AKB48 Graduation~",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3454420,
+          "known_for_department": "Acting",
+          "name": "Tomomi Oe",
+          "original_name": "Tomomi Oe",
+          "popularity": 0.1647,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "69a8572843db97a6273d1899",
+          "order": 0
+        }
+      ],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2009-04-24T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

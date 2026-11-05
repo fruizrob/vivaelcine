@@ -1,0 +1,189 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1633342?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:44:56.312Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/jE0QZO0Y0IqDWzlse0hezrOTkgv.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1633342,
+    "imdb_id": "tt42864416",
+    "origin_country": [
+      "CL",
+      "FR"
+    ],
+    "original_language": "es",
+    "original_title": "Los niños sin tierra",
+    "overview": "",
+    "popularity": 0.8607,
+    "poster_path": "/25C9P18KF07RUT2hPzzq9Ch77is.jpg",
+    "production_companies": [
+      {
+        "id": 76921,
+        "logo_path": "/dkPpGhEL2uQ5bmNDAqSZRFp894g.png",
+        "name": "Les Films d'Ici",
+        "origin_country": "FR"
+      },
+      {
+        "id": 110307,
+        "logo_path": null,
+        "name": "La Ballesta Films",
+        "origin_country": ""
+      },
+      {
+        "id": 288966,
+        "logo_path": null,
+        "name": "La Madre",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2026-03-21",
+    "revenue": 0,
+    "runtime": 97,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Swedish",
+        "iso_639_1": "sv",
+        "name": "svenska"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Los niños sin tierra",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1613136,
+          "known_for_department": "Directing",
+          "name": "René Ballesteros",
+          "original_name": "René Ballesteros",
+          "popularity": 0.1803,
+          "profile_path": null,
+          "credit_id": "698c800820d87726f87be744",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6000788,
+          "known_for_department": "Production",
+          "name": "Nicole Bonilla",
+          "original_name": "Nicole Bonilla",
+          "popularity": 0.1467,
+          "profile_path": null,
+          "credit_id": "698c804196464778ca7be5f3",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2096735,
+          "known_for_department": "Production",
+          "name": "Camille Laemlé",
+          "original_name": "Camille Laemlé",
+          "popularity": 0.4042,
+          "profile_path": null,
+          "credit_id": "698c804e33c7f40b06a6180a",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 41793,
+          "known_for_department": "Production",
+          "name": "Serge Lalou",
+          "original_name": "Serge Lalou",
+          "popularity": 0.4464,
+          "profile_path": "/lJgdWev2t6vJL6I3984sFu92Nuk.jpg",
+          "credit_id": "698c805512414b3e73bb7b88",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2154422,
+          "known_for_department": "Writing",
+          "name": "Johanne Schatz",
+          "original_name": "Johanne Schatz",
+          "popularity": 0.3296,
+          "profile_path": null,
+          "credit_id": "698c80608a30a7c9a767eae0",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cinéma du Réel",
+              "release_date": "2026-03-21T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "France 3",
+              "release_date": "2026-08-03T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "FR",
+          "title": "Les Enfants sans terre",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

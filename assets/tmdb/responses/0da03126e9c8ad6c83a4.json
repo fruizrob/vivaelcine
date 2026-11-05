@@ -1,0 +1,576 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/225655?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:21.077Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 225655,
+    "imdb_id": "",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Lejanía",
+    "overview": "",
+    "popularity": 2.7087,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 14171,
+        "logo_path": "/p9GWxbK3INIi1RJJBUzVNjmsEkC.png",
+        "name": "Centro de Capacitación Cinematográfica (CCC)",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2013-10-21",
+    "revenue": 0,
+    "runtime": 69,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lejanía",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265724,
+          "known_for_department": "Acting",
+          "name": "Lupita Sierra Chávez",
+          "original_name": "Lupita Sierra Chávez",
+          "popularity": 0.3308,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Herself",
+          "credit_id": "52fe4e659251416c751550a7",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265725,
+          "known_for_department": "Acting",
+          "name": "Esther Sierra Chávez",
+          "original_name": "Esther Sierra Chávez",
+          "popularity": 1.8222,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Herself",
+          "credit_id": "52fe4e659251416c751550ab",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265726,
+          "known_for_department": "Acting",
+          "name": "Felipe González Sierra",
+          "original_name": "Felipe González Sierra",
+          "popularity": 0.1108,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Himself",
+          "credit_id": "52fe4e659251416c751550af",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1265727,
+          "known_for_department": "Directing",
+          "name": "Carlos González García",
+          "original_name": "Carlos González García",
+          "popularity": 1.3822,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Himself",
+          "credit_id": "52fe4e659251416c751550b3",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265728,
+          "known_for_department": "Acting",
+          "name": "Jorge González Sierra",
+          "original_name": "Jorge González Sierra",
+          "popularity": 0.7663,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Himself",
+          "credit_id": "52fe4e659251416c751550b7",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265729,
+          "known_for_department": "Acting",
+          "name": "Sussete González Sierra",
+          "original_name": "Sussete González Sierra",
+          "popularity": 0.2471,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "",
+          "credit_id": "52fe4e659251416c751550bb",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265730,
+          "known_for_department": "Acting",
+          "name": "Marisela González Sierra",
+          "original_name": "Marisela González Sierra",
+          "popularity": 0.0961,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "",
+          "credit_id": "52fe4e659251416c751550bf",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265731,
+          "known_for_department": "Acting",
+          "name": "Ana Sussete Rodríguez González",
+          "original_name": "Ana Sussete Rodríguez González",
+          "popularity": 0.1816,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "",
+          "credit_id": "52fe4e659251416c751550c3",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265732,
+          "known_for_department": "Acting",
+          "name": "Susana Acevedo González",
+          "original_name": "Susana Acevedo González",
+          "popularity": 0.4427,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "",
+          "credit_id": "52fe4e659251416c751550c7",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265733,
+          "known_for_department": "Acting",
+          "name": "Isabella Sarina González Sierra",
+          "original_name": "Isabella Sarina González Sierra",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "",
+          "credit_id": "52fe4e659251416c751550cb",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265734,
+          "known_for_department": "Acting",
+          "name": "Rosela Georgette González Sierra",
+          "original_name": "Rosela Georgette González Sierra",
+          "popularity": 0.0934,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "",
+          "credit_id": "52fe4e659251416c751550cf",
+          "order": 10
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 931332,
+          "known_for_department": "Sound",
+          "name": "Israel Hernández",
+          "original_name": "Israel Hernández",
+          "popularity": 0.2684,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c75155111",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265742,
+          "known_for_department": "Sound",
+          "name": "Mateo Barreiro",
+          "original_name": "Mateo Barreiro",
+          "popularity": 0.1154,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c75155123",
+          "department": "Sound",
+          "job": "Music Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1265723,
+          "known_for_department": "Editing",
+          "name": "Javier Campos",
+          "original_name": "Javier Campos",
+          "popularity": 0.354,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c75155085",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1153234,
+          "known_for_department": "Sound",
+          "name": "Tomás Barreiro",
+          "original_name": "Tomás Barreiro",
+          "popularity": 0.2158,
+          "profile_path": "/ufLQjCd9arjUlORliYB6sqx78Dw.jpg",
+          "credit_id": "52fe4e659251416c7515508b",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265740,
+          "known_for_department": "Sound",
+          "name": "Marco Antonio Hernández",
+          "original_name": "Marco Antonio Hernández",
+          "popularity": 0.5874,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c7515510b",
+          "department": "Sound",
+          "job": "Sound mixer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1194231,
+          "known_for_department": "Sound",
+          "name": "Pablo Taméz Sierra",
+          "original_name": "Pablo Taméz Sierra",
+          "popularity": 0.2078,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c75155079",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265741,
+          "known_for_department": "Sound",
+          "name": "Pablo Garibay",
+          "original_name": "Pablo Garibay",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c7515511d",
+          "department": "Sound",
+          "job": "Music Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1204140,
+          "known_for_department": "Sound",
+          "name": "Iván Ramos",
+          "original_name": "Iván Ramos",
+          "popularity": 0.147,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c75155117",
+          "department": "Sound",
+          "job": "Foley"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 996078,
+          "known_for_department": "Production",
+          "name": "Henner Hofmann",
+          "original_name": "Henner Hofmann",
+          "popularity": 0.1681,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c75155097",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 979197,
+          "known_for_department": "Production",
+          "name": "Liliana Pardo",
+          "original_name": "Liliana Pardo",
+          "popularity": 0.1608,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c7515509d",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1194231,
+          "known_for_department": "Sound",
+          "name": "Pablo Taméz Sierra",
+          "original_name": "Pablo Taméz Sierra",
+          "popularity": 0.2078,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c75155067",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1204134,
+          "known_for_department": "Crew",
+          "name": "José Fragoso",
+          "original_name": "José Fragoso",
+          "popularity": 0.3199,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c751550e1",
+          "department": "Crew",
+          "job": "Post-Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1204140,
+          "known_for_department": "Sound",
+          "name": "Iván Ramos",
+          "original_name": "Iván Ramos",
+          "popularity": 0.147,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c75155091",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1204135,
+          "known_for_department": "Visual Effects",
+          "name": "Isis Puente",
+          "original_name": "Isis Puente",
+          "popularity": 1.0272,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c751550ed",
+          "department": "Editing",
+          "job": "Color Timer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265736,
+          "known_for_department": "Crew",
+          "name": "Marco Hernández Calvo",
+          "original_name": "Marco Hernández Calvo",
+          "popularity": 0.1084,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c751550e7",
+          "department": "Crew",
+          "job": "Post Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1143033,
+          "known_for_department": "Crew",
+          "name": "Diana Garay",
+          "original_name": "Diana Garay",
+          "popularity": 0.172,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c751550f3",
+          "department": "Editing",
+          "job": "Color Timer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1194231,
+          "known_for_department": "Sound",
+          "name": "Pablo Taméz Sierra",
+          "original_name": "Pablo Taméz Sierra",
+          "popularity": 0.2078,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c7515506d",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1265722,
+          "known_for_department": "Production",
+          "name": "Alejandro Durán",
+          "original_name": "Alejandro Durán",
+          "popularity": 0.2671,
+          "profile_path": "/7patSdoQfNMuHFwPo234OXFeRYT.jpg",
+          "credit_id": "52fe4e659251416c75155073",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265738,
+          "known_for_department": "Visual Effects",
+          "name": "Carlos Solís",
+          "original_name": "Carlos Solís",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c751550ff",
+          "department": "Visual Effects",
+          "job": "Visual Effects"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265739,
+          "known_for_department": "Crew",
+          "name": "Andrea Angulo",
+          "original_name": "Andrea Angulo",
+          "popularity": 0.3925,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c75155105",
+          "department": "Crew",
+          "job": "Translator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265737,
+          "known_for_department": "Crew",
+          "name": "Mayté Ramos",
+          "original_name": "Mayté Ramos",
+          "popularity": 0.0967,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c751550f9",
+          "department": "Crew",
+          "job": "Post Production Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1153234,
+          "known_for_department": "Sound",
+          "name": "Tomás Barreiro",
+          "original_name": "Tomás Barreiro",
+          "popularity": 0.2158,
+          "profile_path": "/ufLQjCd9arjUlORliYB6sqx78Dw.jpg",
+          "credit_id": "52fe4e659251416c75155129",
+          "department": "Sound",
+          "job": "Music Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1204080,
+          "known_for_department": "Production",
+          "name": "Karla Bukantz",
+          "original_name": "Karla Bukantz",
+          "popularity": 0.4356,
+          "profile_path": null,
+          "credit_id": "52fe4e659251416c751550a3",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1194231,
+          "known_for_department": "Sound",
+          "name": "Pablo Taméz Sierra",
+          "original_name": "Pablo Taméz Sierra",
+          "popularity": 0.2078,
+          "profile_path": null,
+          "credit_id": "611de8431bf876002f962840",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 966787,
+          "known_for_department": "Camera",
+          "name": "María Secco",
+          "original_name": "María Secco",
+          "popularity": 0.1988,
+          "profile_path": "/80Q6NxGeaOfGxbA6tigOBHkyejh.jpg",
+          "credit_id": "611de82a1bf8766eafa79a6b",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1265735,
+          "known_for_department": "Sound",
+          "name": "José Ramón Chávez",
+          "original_name": "José Ramón Chávez",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "credit_id": "611de83b85c0a2007f1d64c0",
+          "department": "Sound",
+          "job": "Sound"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-10-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

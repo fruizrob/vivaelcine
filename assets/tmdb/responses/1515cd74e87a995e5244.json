@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=A+HAPPY+FAMILY&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-05T16:45:09.395Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/m3lbzgbEF6JTE67l3kthPZJWRp4.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1700314,
+        "title": "A Happy Family",
+        "original_language": "de",
+        "original_title": "A Happy Family",
+        "overview": "",
+        "popularity": 1.7739,
+        "poster_path": "/jiKYQEBsVN4vnyQh53Z9vkS9BL9.jpg",
+        "release_date": "2026-07-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

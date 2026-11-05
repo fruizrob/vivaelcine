@@ -1,5 +1,5 @@
-import histories from './data/festival-history.js?v=20261104-history-2';
-import { escapeHtml as esc } from './timeline.js?v=20261105-years';
+import { filmHistory } from './festival-history-data.js?v=20261105-marks';
+import { escapeHtml as esc } from './timeline.js?v=20261105-marks';
 
 const firstDate = date => date.length === 4 ? `${date}-01-01` : date.length === 7 ? `${date}-01` : date;
 
@@ -30,10 +30,6 @@ export function renderHistory(appearances, festival, event) {
 }
 
 export function renderFestivalHistory(festival, event, component = null) {
-  // Parts require their own event key; programme members never inherit the block's history.
-  let filmId = event.title ? event.id : event.filmId;
-  if (component) filmId = component.filmId || `${event.filmId}/${component.title}`;
-  if (!component && festival.films[event.filmId].components) return '';
-  const list = renderHistory(histories[`${festival.id}/${filmId}`], festival, event);
+  const list = renderHistory(filmHistory(festival, event, component), festival, event);
   return !list || component ? list : `<section class="festival-history"><h3>Festivales</h3>${list}</section>`;
 }

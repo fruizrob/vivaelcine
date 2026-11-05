@@ -1,0 +1,383 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/500450?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:19.217Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 500450,
+    "imdb_id": "tt0190494",
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Joana Angélica",
+    "overview": "",
+    "popularity": 2.3198,
+    "poster_path": "/9pWkeb1kb8m0uGnlbHdmM8cja7n.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "1981-05-28",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Joana Angélica",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1636339,
+          "known_for_department": "Acting",
+          "name": "Maria Fernanda",
+          "original_name": "Maria Fernanda",
+          "popularity": 0.2358,
+          "profile_path": "/p8qupUnCJ0OCswuYw00Az2QEx3H.jpg",
+          "cast_id": 1,
+          "character": "Joana Angélica",
+          "credit_id": "5a679a26c3a3680cf501300f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 55010,
+          "known_for_department": "Acting",
+          "name": "Harildo Déda",
+          "original_name": "Harildo Déda",
+          "popularity": 0.4985,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Padre",
+          "credit_id": "5a679a960e0a2619450135a3",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1692313,
+          "known_for_department": "Acting",
+          "name": "Bemvindo Sequeira",
+          "original_name": "Bemvindo Sequeira",
+          "popularity": 0.4122,
+          "profile_path": "/1XMArFqANAo9WVK371yDifflVFN.jpg",
+          "cast_id": 4,
+          "character": "Soldado",
+          "credit_id": "5a679a9f0e0a26195b0134ae",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 931722,
+          "known_for_department": "Acting",
+          "name": "Sonia dos Humildes",
+          "original_name": "Sonia dos Humildes",
+          "popularity": 0.8336,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Freira",
+          "credit_id": "5a679ab992514169be0133b2",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 262376,
+          "known_for_department": "Acting",
+          "name": "Walmor Chagas",
+          "original_name": "Walmor Chagas",
+          "popularity": 0.9609,
+          "profile_path": "/2pmGc0VOFejePsNI23XTYgglFES.jpg",
+          "cast_id": 6,
+          "character": "Madeira de Melo",
+          "credit_id": "5a679ac80e0a261951013d5d",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4348660,
+          "known_for_department": "Acting",
+          "name": "Luiz Jasmin",
+          "original_name": "Luiz Jasmin",
+          "popularity": 0.1553,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "",
+          "credit_id": "6a0c90e02e091bfdc55bcf57",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1491377,
+          "known_for_department": "Acting",
+          "name": "Frieda Gutmann",
+          "original_name": "Frieda Gutmann",
+          "popularity": 0.1519,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "5a679b04c3a3680cf9012d9f",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1180405,
+          "known_for_department": "Acting",
+          "name": "Teresa Briggs",
+          "original_name": "Teresa Briggs",
+          "popularity": 0.2761,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "64a35b34e9da6900c7636e33",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6225155,
+          "known_for_department": "Acting",
+          "name": "Diógenes Rebouças",
+          "original_name": "Diógenes Rebouças",
+          "popularity": 0.5147,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "6a0c8f2c576384ce965bce77",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1832174,
+          "known_for_department": "Acting",
+          "name": "Marcos Rebu",
+          "original_name": "Marcos Rebu",
+          "popularity": 0.321,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "",
+          "credit_id": "6a0c8f5a764643228c5bce5f",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2586691,
+          "known_for_department": "Acting",
+          "name": "Cid Teixeira Cavalcante",
+          "original_name": "Cid Teixeira Cavalcante",
+          "popularity": 0.2397,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "",
+          "credit_id": "6a0c8f75c87f77b5ed06979f",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4197199,
+          "known_for_department": "Acting",
+          "name": "Helio Pelegrino",
+          "original_name": "Helio Pelegrino",
+          "popularity": 0.1286,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "",
+          "credit_id": "6a0c8f8af9609a46186a2f05",
+          "order": 11
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 150495,
+          "known_for_department": "Directing",
+          "name": "Walter Lima Jr.",
+          "original_name": "Walter Lima Jr.",
+          "popularity": 0.8331,
+          "profile_path": "/yh7gZfYYfhiTbHwz0Ee2cjkuYWm.jpg",
+          "credit_id": "5a679a170e0a261951013c57",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1276691,
+          "known_for_department": "Acting",
+          "name": "Washington Novaes",
+          "original_name": "Washington Novaes",
+          "popularity": 0.4214,
+          "profile_path": null,
+          "credit_id": "5a679a6ac3a3680d13012d31",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2201273,
+          "known_for_department": "Art",
+          "name": "Carlos Liuzzi",
+          "original_name": "Carlos Liuzzi",
+          "popularity": 0.3148,
+          "profile_path": null,
+          "credit_id": "6a0c906861264f442f0c051d",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1313346,
+          "known_for_department": "Camera",
+          "name": "Edson Santos",
+          "original_name": "Edson Santos",
+          "popularity": 0.3219,
+          "profile_path": null,
+          "credit_id": "6a0c907fdc22160114a2a7c5",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 572149,
+          "known_for_department": "Camera",
+          "name": "Cezar Elias",
+          "original_name": "Cezar Elias",
+          "popularity": 0.3335,
+          "profile_path": null,
+          "credit_id": "6a0c909abafedf8af9edabd3",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1999236,
+          "known_for_department": "Writing",
+          "name": "Manoel Maurício de Albuquerque",
+          "original_name": "Manoel Maurício de Albuquerque",
+          "popularity": 0.9543,
+          "profile_path": null,
+          "credit_id": "6a0c90c404e2f24df9832aa8",
+          "department": "Production",
+          "job": "Researcher"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1458804,
+          "known_for_department": "Sound",
+          "name": "Cristiano Maciel",
+          "original_name": "Cristiano Maciel",
+          "popularity": 0.2638,
+          "profile_path": null,
+          "credit_id": "6a0c9124e7f4742e00b80ffb",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2021406,
+          "known_for_department": "Directing",
+          "name": "Carlos del Pino",
+          "original_name": "Carlos del Pino",
+          "popularity": 0.8852,
+          "profile_path": "/r0gskKqsBLRzPaK8jexn7PCsdiC.jpg",
+          "credit_id": "6a0c9135764643228c5bce67",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1902377,
+          "known_for_department": "Production",
+          "name": "Angelo Gastal",
+          "original_name": "Angelo Gastal",
+          "popularity": 0.6493,
+          "profile_path": null,
+          "credit_id": "6a0c914d5cb8197d09a2a86f",
+          "department": "Production",
+          "job": "Production Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 150495,
+          "known_for_department": "Directing",
+          "name": "Walter Lima Jr.",
+          "original_name": "Walter Lima Jr.",
+          "popularity": 0.8331,
+          "profile_path": "/yh7gZfYYfhiTbHwz0Ee2cjkuYWm.jpg",
+          "credit_id": "6a0c9161cd39f489f8b81031",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1981-05-28T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

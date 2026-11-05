@@ -1,0 +1,64 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/181835?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:39:39.925Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 181835,
+    "imdb_id": "",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "48 Hours in Ukraine",
+    "overview": "",
+    "popularity": 0.1355,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2009-12-11",
+    "revenue": 0,
+    "runtime": 82,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "48 Hours in Ukraine",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2009-12-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

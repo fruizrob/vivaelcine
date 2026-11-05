@@ -1,0 +1,79 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1759136?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:20.406Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1759136,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "Humedal",
+    "overview": "",
+    "popularity": 0.3366,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2025-12-09",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Humedal",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3015874,
+          "known_for_department": "Directing",
+          "name": "Rossana Castillo",
+          "original_name": "Rossana Castillo",
+          "popularity": 0.2107,
+          "profile_path": null,
+          "credit_id": "6a94d76aa6d3eb3d70e06b7d",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2025-12-09T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Wetland",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

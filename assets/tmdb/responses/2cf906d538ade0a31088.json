@@ -1,0 +1,66 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=LOS+PERROS&include_adult=false&language=es-ES&year=2017",
+  "retrievedAt": "2026-11-05T02:39:38.871Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/9Y0d2D4wzR5F9nnJVqRQG0lqNTh.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 453362,
+        "title": "Los perros",
+        "original_language": "es",
+        "original_title": "Los perros",
+        "overview": "Mariana, una chilena de clase alta, siente una extraña atracción por su profesor de equitación, Juan, un excoronel con un pasado turbio.",
+        "popularity": 0.5631,
+        "poster_path": "/hOZo98VT6D0RZUMtSDfLJSiygeM.jpg",
+        "release_date": "2017-10-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 24
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 469200,
+        "title": "Los perros de Amundsen",
+        "original_language": "es",
+        "original_title": "Los perros de Amundsen",
+        "overview": "",
+        "popularity": 0.3186,
+        "poster_path": "/ekYwgqFvUlVBuzJrv3erQbNffMl.jpg",
+        "release_date": "2017-08-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 926797,
+        "title": "El Camino De Los Perros",
+        "original_language": "es",
+        "original_title": "El Camino De Los Perros",
+        "overview": "",
+        "popularity": 0.3303,
+        "poster_path": "/unRCyzQOkRCMfkgdT8f1zQAQiey.jpg",
+        "release_date": "2017-08-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+  }
+}

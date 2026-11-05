@@ -1,0 +1,618 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/8779?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:00.696Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/eO3CchK1dKfuzSrYAnV5xsV6754.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "id": 8779,
+    "imdb_id": "tt0047930",
+    "origin_country": [
+      "XC"
+    ],
+    "original_language": "cs",
+    "original_title": "Cesta do pravěku",
+    "overview": "El genial mago checo de la animación foto a foto, Karel Zeman, entre sus numerosas recreaciones de los mundos de Julio Verne, nos llevará en un viaje a la Prehistoria por una travesía en el tiempo hacia atrás, en la que los jóvenes protagonistas conocerán a los dinosaurios. Zeman combina maquetas, acción real, dibujos animados y escenografías pintadas con resultados inigualables.",
+    "popularity": 2.2186,
+    "poster_path": "/i6nbgmdjtJZydXPX3EEUjNceVVb.jpg",
+    "production_companies": [
+      {
+        "id": 6249,
+        "logo_path": null,
+        "name": "Studio dětského filmu Gottwaldov",
+        "origin_country": "XC"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "XC",
+        "name": "Czechoslovakia"
+      }
+    ],
+    "release_date": "1955-08-05",
+    "revenue": 0,
+    "runtime": 93,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Czech",
+        "iso_639_1": "cs",
+        "name": "Český"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Viaje a la prehistoria",
+    "video": false,
+    "vote_average": 7.224,
+    "vote_count": 85,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 56315,
+          "known_for_department": "Acting",
+          "name": "Vladimír Bejval",
+          "original_name": "Vladimír Bejval",
+          "popularity": 0.531,
+          "profile_path": "/iqvezkv6x4LoDH2tilcn4ekJdAY.jpg",
+          "cast_id": 3,
+          "character": "Jirka",
+          "credit_id": "52fe44b9c3a36847f80a6791",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 56317,
+          "known_for_department": "Acting",
+          "name": "Petr Herrmann",
+          "original_name": "Petr Herrmann",
+          "popularity": 0.3052,
+          "profile_path": "/90oCu0IFKvU6HhTgf2Z7Ao1KwtD.jpg",
+          "cast_id": 5,
+          "character": "Toník",
+          "credit_id": "52fe44b9c3a36847f80a6795",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 56319,
+          "known_for_department": "Acting",
+          "name": "Josef Lukáš",
+          "original_name": "Josef Lukáš",
+          "popularity": 0.309,
+          "profile_path": "/4IsZje6Va3uA5vp2TocpdgfFYjP.jpg",
+          "cast_id": 7,
+          "character": "Petr",
+          "credit_id": "52fe44b9c3a36847f80a679d",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 56318,
+          "known_for_department": "Acting",
+          "name": "Zdeněk Husták",
+          "original_name": "Zdeněk Husták",
+          "popularity": 0.1645,
+          "profile_path": "/7VB8iMOhRyYfxd59EG3UubLJxcy.jpg",
+          "cast_id": 6,
+          "character": "Jenda",
+          "credit_id": "52fe44b9c3a36847f80a6799",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 139726,
+          "known_for_department": "Acting",
+          "name": "Bedřich Šetena",
+          "original_name": "Bedřich Šetena",
+          "popularity": 0.4765,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Petr (voice) / Narrator (voice)",
+          "credit_id": "52fe44b9c3a36847f80a67ad",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 53859,
+          "known_for_department": "Directing",
+          "name": "Karel Zeman",
+          "original_name": "Karel Zeman",
+          "popularity": 1.0007,
+          "profile_path": "/ezDJNIrrbbRFlyCVFBh3GdiMxB2.jpg",
+          "credit_id": "52fe44b9c3a36847f80a678d",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 53859,
+          "known_for_department": "Directing",
+          "name": "Karel Zeman",
+          "original_name": "Karel Zeman",
+          "popularity": 1.0007,
+          "profile_path": "/ezDJNIrrbbRFlyCVFBh3GdiMxB2.jpg",
+          "credit_id": "52fe44b9c3a36847f80a6787",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 56320,
+          "known_for_department": "Camera",
+          "name": "Antonín Horák",
+          "original_name": "Antonín Horák",
+          "popularity": 0.3331,
+          "profile_path": null,
+          "credit_id": "52fe44b9c3a36847f80a67a3",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 56321,
+          "known_for_department": "Camera",
+          "name": "Václav Pazderník",
+          "original_name": "Václav Pazderník",
+          "popularity": 0.1548,
+          "profile_path": null,
+          "credit_id": "52fe44b9c3a36847f80a67a9",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 139727,
+          "known_for_department": "Writing",
+          "name": "J. A. Novotný",
+          "original_name": "J. A. Novotný",
+          "popularity": 0.8941,
+          "profile_path": null,
+          "credit_id": "52fe44b9c3a36847f80a67b3",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1602124,
+          "known_for_department": "Sound",
+          "name": "František Strangmüller",
+          "original_name": "František Strangmüller",
+          "popularity": 0.187,
+          "profile_path": null,
+          "credit_id": "60b60ab8abf8e2002bdca9c5",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 49517,
+          "known_for_department": "Production",
+          "name": "Rudolf Wolf",
+          "original_name": "Rudolf Wolf",
+          "popularity": 0.5143,
+          "profile_path": null,
+          "credit_id": "60b60a896dea3a006f6f3e8c",
+          "department": "Production",
+          "job": "Unit Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1361827,
+          "known_for_department": "Sound",
+          "name": "E. F. Burian",
+          "original_name": "E. F. Burian",
+          "popularity": 0.4596,
+          "profile_path": "/pEG4HG65VlW9XH30uGCAFc8Vr9c.jpg",
+          "credit_id": "60b60b09abf8e2006faeb912",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3089233,
+          "known_for_department": "Sound",
+          "name": "Vlastimil Pinkas",
+          "original_name": "Vlastimil Pinkas",
+          "popularity": 0.0997,
+          "profile_path": null,
+          "credit_id": "60b60b46c740d90079dadc72",
+          "department": "Sound",
+          "job": "Music Arranger"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1136212,
+          "known_for_department": "Editing",
+          "name": "Zdeněk Stehlík",
+          "original_name": "Zdeněk Stehlík",
+          "popularity": 0.3989,
+          "profile_path": null,
+          "credit_id": "5706368a9251411f31001e58",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1777244,
+          "known_for_department": "Visual Effects",
+          "name": "Jindřich Liška",
+          "original_name": "Jindřich Liška",
+          "popularity": 0.1282,
+          "profile_path": null,
+          "credit_id": "5f27da28435abd003777f220",
+          "department": "Crew",
+          "job": "Special Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1602126,
+          "known_for_department": "Art",
+          "name": "Ivo Mrázek",
+          "original_name": "Ivo Mrázek",
+          "popularity": 0.1383,
+          "profile_path": null,
+          "credit_id": "5f27d964dbbb420033e389da",
+          "department": "Art",
+          "job": "Art Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 53859,
+          "known_for_department": "Directing",
+          "name": "Karel Zeman",
+          "original_name": "Karel Zeman",
+          "popularity": 1.0007,
+          "profile_path": "/ezDJNIrrbbRFlyCVFBh3GdiMxB2.jpg",
+          "credit_id": "5f27d538d9403500356174c7",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1777243,
+          "known_for_department": "Visual Effects",
+          "name": "Arnošt Kupčík",
+          "original_name": "Arnošt Kupčík",
+          "popularity": 0.2064,
+          "profile_path": null,
+          "credit_id": "5f27da0bdbbb420033e38cce",
+          "department": "Crew",
+          "job": "Animatronic and Prosthetic Effects"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2729906,
+          "known_for_department": "Art",
+          "name": "Marie Mazůrková",
+          "original_name": "Marie Mazůrková",
+          "popularity": 0.1255,
+          "profile_path": null,
+          "credit_id": "5f27d9b2dbbb420035ea6bd6",
+          "department": "Art",
+          "job": "Art Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 53859,
+          "known_for_department": "Directing",
+          "name": "Karel Zeman",
+          "original_name": "Karel Zeman",
+          "popularity": 1.0007,
+          "profile_path": "/ezDJNIrrbbRFlyCVFBh3GdiMxB2.jpg",
+          "credit_id": "5f27d9a2dbbb420035ea6bb0",
+          "department": "Art",
+          "job": "Art Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 56320,
+          "known_for_department": "Camera",
+          "name": "Antonín Horák",
+          "original_name": "Antonín Horák",
+          "popularity": 0.3331,
+          "profile_path": null,
+          "credit_id": "5f27da3fdbbb420034e56c98",
+          "department": "Crew",
+          "job": "Special Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1532202,
+          "known_for_department": "Art",
+          "name": "Karel Černý",
+          "original_name": "Karel Černý",
+          "popularity": 0.1551,
+          "profile_path": "/43ihFxxvkv4UVy2DrGWySVKR270.jpg",
+          "credit_id": "5f27d91fdbbb420035ea6a2e",
+          "department": "Art",
+          "job": "Art Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1777245,
+          "known_for_department": "Crew",
+          "name": "František Krčmář",
+          "original_name": "František Krčmář",
+          "popularity": 0.2111,
+          "profile_path": null,
+          "credit_id": "5f27d9fe869e7500366a1d66",
+          "department": "Crew",
+          "job": "Animatronic and Prosthetic Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1093332,
+          "known_for_department": "Directing",
+          "name": "Vladimír Svitáček",
+          "original_name": "Vladimír Svitáček",
+          "popularity": 1.1648,
+          "profile_path": null,
+          "credit_id": "5f27d525d9403500375f65e9",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1777249,
+          "known_for_department": "Crew",
+          "name": "Zdeněk Ostrčil",
+          "original_name": "Zdeněk Ostrčil",
+          "popularity": 0.225,
+          "profile_path": null,
+          "credit_id": "5f27d9909f37b0003423b42e",
+          "department": "Art",
+          "job": "Art Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 53859,
+          "known_for_department": "Directing",
+          "name": "Karel Zeman",
+          "original_name": "Karel Zeman",
+          "popularity": 1.0007,
+          "profile_path": "/ezDJNIrrbbRFlyCVFBh3GdiMxB2.jpg",
+          "credit_id": "5f27da1cc8a5ac0037f91769",
+          "department": "Crew",
+          "job": "Special Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 544515,
+          "known_for_department": "Sound",
+          "name": "Zdeněk Liška",
+          "original_name": "Zdeněk Liška",
+          "popularity": 0.3831,
+          "profile_path": "/aXYOONGkkc2Ju0JnqJBV46WCuB4.jpg",
+          "credit_id": "5f27dba22d8ef30037e0b93c",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1461212,
+          "known_for_department": "Art",
+          "name": "Zdeněk Rozkopal",
+          "original_name": "Zdeněk Rozkopal",
+          "popularity": 0.181,
+          "profile_path": null,
+          "credit_id": "5f27d980435abd0036792ce8",
+          "department": "Art",
+          "job": "Art Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2252206,
+          "known_for_department": "Acting",
+          "name": "Antonín Drvota",
+          "original_name": "Antonín Drvota",
+          "popularity": 0.2121,
+          "profile_path": null,
+          "credit_id": "5f27da7c869e7500366a1fd8",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1690368,
+          "known_for_department": "Sound",
+          "name": "Milivoj Uzelac",
+          "original_name": "Milivoj Uzelac",
+          "popularity": 0.2262,
+          "profile_path": null,
+          "credit_id": "5f27dacb869e750038632abd",
+          "department": "Sound",
+          "job": "Conductor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1558682,
+          "known_for_department": "Production",
+          "name": "Karel Hutěčka",
+          "original_name": "Karel Hutěčka",
+          "popularity": 0.3119,
+          "profile_path": null,
+          "credit_id": "5f27da9edbbb420035ea7095",
+          "department": "Production",
+          "job": "Production Manager"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CZ",
+          "release_dates": [
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Digitally restored",
+              "release_date": "2024-05-13T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "6",
+              "descriptors": [],
+              "iso_639_1": "de",
+              "note": "",
+              "release_date": "1955-11-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FI",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1959-02-15T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1955-10-31T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1967-02-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "XC",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1955-08-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Journey To The Beginning Of Time",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Reise in die Urzeit",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FI",
+          "title": "Ihmemaailman salaisuudet",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Voyage dans les temps préhistoriques",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PL",
+          "title": "Wyprawa w przeszlosc",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "SU",
+          "title": "Необычайное путешествие",
+          "type": "theatrical title in the USSR"
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "A Journey To The Beginning Of Time",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

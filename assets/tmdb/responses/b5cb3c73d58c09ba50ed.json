@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=POBLACI%C3%93N+FLOTANTE&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:36.029Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/bfaK8kaRTMbmSTIAJHD6m7SAUeY.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1578145,
+        "title": "Población flotante",
+        "original_language": "es",
+        "original_title": "Población flotante",
+        "overview": "",
+        "popularity": 0.3962,
+        "poster_path": "/7dsPrg8lWiijpFzKOAWsfi45ltv.jpg",
+        "release_date": "2025-10-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

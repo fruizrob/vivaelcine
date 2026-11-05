@@ -1,0 +1,132 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/596677?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:19.532Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/dNS53OEJXn8aD94e152mryZ6zWW.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 596677,
+    "imdb_id": "tt6231586",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Dear Angelica",
+    "overview": "",
+    "popularity": 2.1558,
+    "poster_path": "/i2liF8THeiq9A77XQUpt6Kc64Da.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2017-09-27",
+    "revenue": 0,
+    "runtime": 13,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dear Angelica",
+    "video": false,
+    "vote_average": 9,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 52404,
+          "known_for_department": "Acting",
+          "name": "Mae Whitman",
+          "original_name": "Mae Whitman",
+          "popularity": 4.0162,
+          "profile_path": "/y7fg9R5zvqDCZCUt3uwcyOoCOFp.jpg",
+          "cast_id": 2,
+          "character": "Jessie (voice)",
+          "credit_id": "5e757badb7d3520011778886",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 16935,
+          "known_for_department": "Acting",
+          "name": "Geena Davis",
+          "original_name": "Geena Davis",
+          "popularity": 3.0131,
+          "profile_path": "/jNsZLedzKPuyUmgnvpRpP5oG3Wr.jpg",
+          "cast_id": 3,
+          "character": "Angelica (voice)",
+          "credit_id": "5e757bd7b1f68d0014e28cae",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1181281,
+          "known_for_department": "Directing",
+          "name": "Saschka Unseld",
+          "original_name": "Saschka Unseld",
+          "popularity": 0.4053,
+          "profile_path": null,
+          "credit_id": "5cbc9c119251417d39f818a2",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1181281,
+          "known_for_department": "Directing",
+          "name": "Saschka Unseld",
+          "original_name": "Saschka Unseld",
+          "popularity": 0.4053,
+          "profile_path": null,
+          "credit_id": "5e757bedcabfe400111f34c0",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2017-09-27T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

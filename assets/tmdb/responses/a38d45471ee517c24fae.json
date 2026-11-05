@@ -1,0 +1,400 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/8410?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:21.837Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/6IDCYlcFAKgmEoSczfTxcYsVHep.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 8410,
+    "imdb_id": "tt0443693",
+    "origin_country": [
+      "AT",
+      "DE",
+      "FR",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The Wild Blue Yonder",
+    "overview": "La película trata sobre un extraterrestre (interpretado por Brad Dourif) que llegó a la Tierra varias décadas atrás en el tiempo desde un planeta océano (La salvaje y azul lejanía), tras haber experimentado este una glaciación. Su testimonio revela que su raza ha intentado durante años formar una comunidad en la Tierra sin ningún éxito.",
+    "popularity": 2.0738,
+    "poster_path": "/iEs4KhPaQ0F514PscPJDtp0YclB.jpg",
+    "production_companies": [
+      {
+        "id": 2416,
+        "logo_path": "/lSOxv8HLeUo2ytiiogOHrfTIHhr.png",
+        "name": "Tetra Media",
+        "origin_country": "FR"
+      },
+      {
+        "id": 843,
+        "logo_path": "/2OHdsgrtHxa9CtFlkxnbyrZv8Jy.png",
+        "name": "Werner Herzog Filmproduktion",
+        "origin_country": "DE"
+      },
+      {
+        "id": 2415,
+        "logo_path": null,
+        "name": "West Park Pictures Produktion",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AT",
+        "name": "Austria"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "DK",
+        "name": "Denmark"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2005-09-05",
+    "revenue": 0,
+    "runtime": 81,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La salvaje y azul lejanía",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 93,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1370,
+          "known_for_department": "Acting",
+          "name": "Brad Dourif",
+          "original_name": "Brad Dourif",
+          "popularity": 4.1228,
+          "profile_path": "/ex7AmuHM3owhUetYZAyOmN1ehWS.jpg",
+          "cast_id": 3,
+          "character": "Alien",
+          "credit_id": "52fe44a5c3a36847f80a2213",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 55743,
+          "known_for_department": "Acting",
+          "name": "Donald Williams",
+          "original_name": "Donald Williams",
+          "popularity": 0.3702,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Astronaut Commander",
+          "credit_id": "52fe44a6c3a36847f80a223b",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 55744,
+          "known_for_department": "Acting",
+          "name": "Ellen Baker",
+          "original_name": "Ellen Baker",
+          "popularity": 0.307,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Astronaut physician",
+          "credit_id": "52fe44a6c3a36847f80a223f",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 55745,
+          "known_for_department": "Acting",
+          "name": "Franklin Chang-Diaz",
+          "original_name": "Franklin Chang-Diaz",
+          "popularity": 0.6931,
+          "profile_path": "/2XPBnenrDjCDrVHWsfyCUJInWDY.jpg",
+          "cast_id": 12,
+          "character": "Astronaut Plasma Physicist",
+          "credit_id": "52fe44a6c3a36847f80a2243",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 55746,
+          "known_for_department": "Acting",
+          "name": "Shannon Lucid",
+          "original_name": "Shannon Lucid",
+          "popularity": 0.3707,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Astronaut biochemist",
+          "credit_id": "52fe44a6c3a36847f80a2247",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 55747,
+          "known_for_department": "Acting",
+          "name": "Michael McCulley",
+          "original_name": "Michael McCulley",
+          "popularity": 0.1225,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Astronaut pilot",
+          "credit_id": "52fe44a6c3a36847f80a224b",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 55748,
+          "known_for_department": "Acting",
+          "name": "Roger Diehl",
+          "original_name": "Roger Diehl",
+          "popularity": 0.7565,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Mathematician",
+          "credit_id": "52fe44a6c3a36847f80a224f",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 55749,
+          "known_for_department": "Acting",
+          "name": "Martin Lo",
+          "original_name": "Martin Lo",
+          "popularity": 0.3182,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Mathematician",
+          "credit_id": "52fe44a6c3a36847f80a2253",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 55750,
+          "known_for_department": "Acting",
+          "name": "Ted Sweetser",
+          "original_name": "Ted Sweetser",
+          "popularity": 0.4316,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Mathematician",
+          "credit_id": "52fe44a6c3a36847f80a2257",
+          "order": 8
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 54901,
+          "known_for_department": "Production",
+          "name": "André Singer",
+          "original_name": "André Singer",
+          "popularity": 0.2989,
+          "profile_path": "/dbINy31veDc6ZiCIWbgixJKe6eP.jpg",
+          "credit_id": "52fe44a5c3a36847f80a2219",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6827,
+          "known_for_department": "Editing",
+          "name": "Joe Bini",
+          "original_name": "Joe Bini",
+          "popularity": 0.476,
+          "profile_path": "/zcXjd6Oo6IrrpfpHwxke6zh0vZI.jpg",
+          "credit_id": "52fe44a5c3a36847f80a221f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 55742,
+          "known_for_department": "Camera",
+          "name": "Tanja Koop",
+          "original_name": "Tanja Koop",
+          "popularity": 0.1757,
+          "profile_path": null,
+          "credit_id": "52fe44a6c3a36847f80a2237",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6818,
+          "known_for_department": "Directing",
+          "name": "Werner Herzog",
+          "original_name": "Werner Herzog",
+          "popularity": 2.3877,
+          "profile_path": "/qKlz1oM482Xf0jTPfLiR6qXlLYK.jpg",
+          "credit_id": "52fe44a5c3a36847f80a220f",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6818,
+          "known_for_department": "Directing",
+          "name": "Werner Herzog",
+          "original_name": "Werner Herzog",
+          "popularity": 2.3877,
+          "profile_path": "/qKlz1oM482Xf0jTPfLiR6qXlLYK.jpg",
+          "credit_id": "52fe44a5c3a36847f80a2209",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 54902,
+          "known_for_department": "Sound",
+          "name": "Ernst Reijseger",
+          "original_name": "Ernst Reijseger",
+          "popularity": 0.3592,
+          "profile_path": "/2G9WjjNbjTv3XkYmduUhIAN8zQJ.jpg",
+          "credit_id": "52fe44a5c3a36847f80a2225",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 55740,
+          "known_for_department": "Sound",
+          "name": "Henry Kaiser",
+          "original_name": "Henry Kaiser",
+          "popularity": 0.1782,
+          "profile_path": null,
+          "credit_id": "52fe44a5c3a36847f80a222b",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 55741,
+          "known_for_department": "Camera",
+          "name": "Klaus Scheurich",
+          "original_name": "Klaus Scheurich",
+          "popularity": 0.2679,
+          "profile_path": null,
+          "credit_id": "52fe44a6c3a36847f80a2231",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-11-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-09-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "FR",
+          "title": "Wild Blue Yonder",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "AR",
+          "title": "La salvaje y azul lejanía",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "MX",
+          "title": "Mundo remoto salvaje y azul",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "IT",
+          "title": "L'ignoto spazio profondo",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BR",
+          "title": "Além do azul selvagem",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

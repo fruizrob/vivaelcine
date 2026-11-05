@@ -1,0 +1,389 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/132150?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:44:49.634Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/67t3dSgVDYyG8l2hqToe2BZJdAx.jpg",
+    "belongs_to_collection": {
+      "id": 647233,
+      "name": "Trilogia de la Batalla de Chile",
+      "poster_path": "/uEXfHrfuSLYQmYLD9sWpOOrTiZr.jpg",
+      "backdrop_path": "/ggulYW0jIvS9UGJfwMxgYhoKa8R.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 132150,
+    "imdb_id": "tt0078831",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "La batalla de Chile: La lucha de un pueblo sin armas - Tercera parte: El poder popular",
+    "overview": "Al margen de los grandes acontecimientos que narran los filmes precedentes ocurren también otros fenómenos originales, a veces efímeros, incompletos, que recoge la tercera parte. Numerosos sectores de la población y en particular las capas populares que apoyan a Allende organizan y ponen en marcha una serie de acciones colectivas: almacenes comunitarios, cordones industriales, comités campesinos, etc., con la intención de neutralizar el caos y superar la crisis. Estas instituciones, en su mayoría espontáneas, representan un “estado” adentro del Estado.",
+    "popularity": 1.4964,
+    "poster_path": "/9ILZtNQWe4j6RO4hhA6ZeSUY0dK.jpg",
+    "production_companies": [
+      {
+        "id": 172101,
+        "logo_path": null,
+        "name": "Equipe Tercer Ano",
+        "origin_country": "CL"
+      },
+      {
+        "id": 5175,
+        "logo_path": "/685bT26uK9vuaCwf2Hylufdb4yI.png",
+        "name": "ICAIC",
+        "origin_country": "CU"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "CU",
+        "name": "Cuba"
+      }
+    ],
+    "release_date": "1979-03-15",
+    "revenue": 0,
+    "runtime": 78,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La batalla de Chile: La lucha de un pueblo sin armas - Tercera parte: El poder popular",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 42,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1886016,
+          "known_for_department": "Acting",
+          "name": "Abilio Fernández",
+          "original_name": "Abilio Fernández",
+          "popularity": 0.5009,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Narrator (voice)",
+          "credit_id": "5ec83d0de635710022d03fa8",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 566295,
+          "known_for_department": "Acting",
+          "name": "Salvador Allende",
+          "original_name": "Salvador Allende",
+          "popularity": 0.2836,
+          "profile_path": "/xqmX8q6NN2fZTwDzWsgumckOleQ.jpg",
+          "cast_id": 4,
+          "character": "Self (archive footage)",
+          "credit_id": "59b3a94d9251414a33010a89",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 566294,
+          "known_for_department": "Directing",
+          "name": "Patricio Guzmán",
+          "original_name": "Patricio Guzmán",
+          "popularity": 0.5603,
+          "profile_path": "/sTVhzhK2DAv1sRXxaZD5jgriO4e.jpg",
+          "credit_id": "52fe4b8ac3a368484e18e1ef",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 20036,
+          "known_for_department": "Camera",
+          "name": "Jorge Müller Silva",
+          "original_name": "Jorge Müller Silva",
+          "popularity": 0.6195,
+          "profile_path": "/kN4dynhHXnXVSm3wT4kiyhJs48E.jpg",
+          "credit_id": "5ec83cd1a3d027001f78b12e",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1459288,
+          "known_for_department": "Editing",
+          "name": "Pedro Chaskel",
+          "original_name": "Pedro Chaskel",
+          "popularity": 0.6575,
+          "profile_path": "/rfTMptymXkQqPRC6TVD6UQuwqWj.jpg",
+          "credit_id": "5ec83cdeae2811001f3e3380",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1886015,
+          "known_for_department": "Writing",
+          "name": "Federico Elton",
+          "original_name": "Federico Elton",
+          "popularity": 0.1349,
+          "profile_path": null,
+          "credit_id": "5ec83cf5e24b930021d558ea",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 9956,
+          "known_for_department": "Directing",
+          "name": "Chris Marker",
+          "original_name": "Chris Marker",
+          "popularity": 0.6897,
+          "profile_path": "/f3WALvrJGu829oq8N467DnGJuer.jpg",
+          "credit_id": "5ec83cea0fb17f001d7d2336",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 566294,
+          "known_for_department": "Directing",
+          "name": "Patricio Guzmán",
+          "original_name": "Patricio Guzmán",
+          "popularity": 0.5603,
+          "profile_path": "/sTVhzhK2DAv1sRXxaZD5jgriO4e.jpg",
+          "credit_id": "60147d86a39d0b00409d7b25",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 9956,
+          "known_for_department": "Directing",
+          "name": "Chris Marker",
+          "original_name": "Chris Marker",
+          "popularity": 0.6897,
+          "profile_path": "/f3WALvrJGu829oq8N467DnGJuer.jpg",
+          "credit_id": "60147d2ec8a2d4003ef5c79f",
+          "department": "Writing",
+          "job": "Other"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1459288,
+          "known_for_department": "Editing",
+          "name": "Pedro Chaskel",
+          "original_name": "Pedro Chaskel",
+          "popularity": 0.6575,
+          "profile_path": "/rfTMptymXkQqPRC6TVD6UQuwqWj.jpg",
+          "credit_id": "60147d23e72fe8003fefc663",
+          "department": "Writing",
+          "job": "Other"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1298446,
+          "known_for_department": "Directing",
+          "name": "Pablo de la Barra",
+          "original_name": "Pablo de la Barra",
+          "popularity": 0.4432,
+          "profile_path": "/5MRv9bFrHP1guVQ2YC2pFKtbUrp.jpg",
+          "credit_id": "6a1e7997d2a7ba6021bef693",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "São Paulo International Film Festival (Restored Version)",
+              "release_date": "2026-10-22T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "La Red",
+              "release_date": "2021-09-12T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1979-03-15T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Litomerice Film Festival",
+              "release_date": "2004-08-29T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Thessaloniki Documentary Festival",
+              "release_date": "2013-03-18T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Yamagata International Documentary Film Festival",
+              "release_date": "2015-10-12T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2016-09-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Göteborg International Film Festival",
+              "release_date": "2013-01-27T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "New York City, New York",
+              "release_date": "1980-04-17T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1980-04-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UY",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1985-03-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "DE",
+          "title": "Der Kampf um Chile: Die Macht des Volkes",
+          "type": "TV"
+        },
+        {
+          "iso_3166_1": "SE",
+          "title": "The Battle of Chile: The Power of the People",
+          "type": "English title"
+        },
+        {
+          "iso_3166_1": "UY",
+          "title": "La batalla de Chile 3: El poder popular",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "The Battle of Chile: Part 3",
+          "type": "alternative spelling"
+        }
+      ]
+    }
+  }
+}

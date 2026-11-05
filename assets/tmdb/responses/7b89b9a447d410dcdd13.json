@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=La+culpa+es+del+cine&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:15.727Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 1816632,
+        "title": "La Culpa es del Cine",
+        "original_language": "es",
+        "original_title": "La Culpa es del Cine",
+        "overview": "",
+        "popularity": 0.1553,
+        "poster_path": "/Aijx2ys6A2sv9MRRIrNhg9qdKkX.jpg",
+        "release_date": "2026-11-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

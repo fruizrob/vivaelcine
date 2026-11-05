@@ -1,0 +1,312 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1493304?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:15.024Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1493304,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "El Final de los Tiempos",
+    "overview": "Los miembros del Taller de Cine, en un centro de rehabilitación psicosocial para personas con esquizofrenia, se reúnen para crear una película sobre el fin del mundo. Mientras intentan alertar a las autoridades sobre la inminente llegada de un asteroide, este diverso grupo enfrenta los desafíos de la autorrepresentación en el cine. Así, a través de la improvisación, reflejan sus propias experiencias, perspectivas y reflexiones sobre la vida y la muerte.",
+    "popularity": 0.6187,
+    "poster_path": "/euC1j2kRk8IUzYCv76QWzgoGdaY.jpg",
+    "production_companies": [
+      {
+        "id": 260860,
+        "logo_path": null,
+        "name": "ALTIBAJO CINE",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2026-04-22",
+    "revenue": 0,
+    "runtime": 19,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The end of times",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5485925,
+          "known_for_department": "Acting",
+          "name": "Daniela Vásquez",
+          "original_name": "Daniela Vásquez",
+          "popularity": 0.1043,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Daniela",
+          "credit_id": "6841e76f0b8cc35aca7f557a",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5485927,
+          "known_for_department": "Acting",
+          "name": "Andrés Ilabaca",
+          "original_name": "Andrés Ilabaca",
+          "popularity": 0.1263,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Andrés",
+          "credit_id": "6841e77d2cb7a94dcffcbb0e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5485931,
+          "known_for_department": "Acting",
+          "name": "Francisca Castro",
+          "original_name": "Francisca Castro",
+          "popularity": 0.3946,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Fran",
+          "credit_id": "6841e793a1866aea46fcba66",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5485932,
+          "known_for_department": "Acting",
+          "name": "Daniel Martínez",
+          "original_name": "Daniel Martínez",
+          "popularity": 0.2111,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Daniel",
+          "credit_id": "6841e7a070e7b0c382f2c994",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5485935,
+          "known_for_department": "Acting",
+          "name": "Mariela Espinoza",
+          "original_name": "Mariela Espinoza",
+          "popularity": 0.2126,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Mari",
+          "credit_id": "6841e7d20aa8d8b170fcba0f",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5485934,
+          "known_for_department": "Acting",
+          "name": "Lucas Aleu",
+          "original_name": "Lucas Aleu",
+          "popularity": 0.1305,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Lucas",
+          "credit_id": "6841e7ed0aa8d8b170fcba13",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4741996,
+          "known_for_department": "Directing",
+          "name": "Mao Osorio",
+          "original_name": "Mao Osorio",
+          "popularity": 0.3715,
+          "profile_path": "/2WCOm9gEPEPUoInh1xB5JNlrnBH.jpg",
+          "credit_id": "6841e64a48f69b58cfad9413",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4741996,
+          "known_for_department": "Directing",
+          "name": "Mao Osorio",
+          "original_name": "Mao Osorio",
+          "popularity": 0.3715,
+          "profile_path": "/2WCOm9gEPEPUoInh1xB5JNlrnBH.jpg",
+          "credit_id": "6841e66a91bd5780721b01f4",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4742000,
+          "known_for_department": "Directing",
+          "name": "Ismael Morales",
+          "original_name": "Ismael Morales",
+          "popularity": 0.2209,
+          "profile_path": null,
+          "credit_id": "6841e67fa6bd4148c2456278",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4742000,
+          "known_for_department": "Directing",
+          "name": "Ismael Morales",
+          "original_name": "Ismael Morales",
+          "popularity": 0.2209,
+          "profile_path": null,
+          "credit_id": "6841e693da11744987bf1625",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4858891,
+          "known_for_department": "Directing",
+          "name": "Joaquín Nercasseau Gibson",
+          "original_name": "Joaquín Nercasseau Gibson",
+          "popularity": 0.4973,
+          "profile_path": "/w71RE3AZdBoPzBvDrW9A5fma0L3.jpg",
+          "credit_id": "6841e6a36ad254ccff456269",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4858894,
+          "known_for_department": "Directing",
+          "name": "Juan Bautista Tagle",
+          "original_name": "Juan Bautista Tagle",
+          "popularity": 0.3576,
+          "profile_path": null,
+          "credit_id": "6841e6b1c140cf05adf2ca1c",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4742019,
+          "known_for_department": "Sound",
+          "name": "Santiago Montero",
+          "original_name": "Santiago Montero",
+          "popularity": 0.2689,
+          "profile_path": null,
+          "credit_id": "6841e6c6b30306f657f2c825",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2026117,
+          "known_for_department": "Directing",
+          "name": "Thomas Woodroffe",
+          "original_name": "Thomas Woodroffe",
+          "popularity": 0.1384,
+          "profile_path": null,
+          "credit_id": "6841e702abfc1e2df828a0d2",
+          "department": "Editing",
+          "job": "Colorist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4315119,
+          "known_for_department": "Sound",
+          "name": "Carlo Sánchez",
+          "original_name": "Carlo Sánchez",
+          "popularity": 0.1966,
+          "profile_path": null,
+          "credit_id": "6841e71c8a4d63aba8bf15c1",
+          "department": "Sound",
+          "job": "Sound Designer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "SANFIC 22 - Santiago Festival Internacional de Cine",
+              "release_date": "2026-11-04T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "79th Edinburgh International Film Festival",
+              "release_date": "2026-08-16T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Festival Internacional de Cine en Guadalajara 41°",
+              "release_date": "2026-04-22T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "CL",
+          "title": "The end of times",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

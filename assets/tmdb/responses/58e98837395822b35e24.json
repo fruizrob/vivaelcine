@@ -1,0 +1,1960 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/2525?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:00.537Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/6xBqZoj40gIAyLSuemwI38c6OID.jpg",
+    "belongs_to_collection": null,
+    "budget": 16500000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 2525,
+    "imdb_id": "tt0060164",
+    "origin_country": [
+      "US",
+      "IT"
+    ],
+    "original_language": "en",
+    "original_title": "The Bible: In the Beginning...",
+    "overview": "Cuenta los primeros 22 capítulos del Génesis: la creación del mundo, la expulsión del hombre del Paraíso Terrenal, la expansión del Pueblo de Dios por la faz de la Tierra, el Diluvio Universal o la destrucción de Sodoma y Gomorra.",
+    "popularity": 4.2583,
+    "poster_path": "/xWUsRixHHgwePHux6Mk9HqyN9Ko.jpg",
+    "production_companies": [
+      {
+        "id": 49775,
+        "logo_path": null,
+        "name": "Thalia AG",
+        "origin_country": ""
+      },
+      {
+        "id": 1216,
+        "logo_path": null,
+        "name": "DDL Cinematografica",
+        "origin_country": "IT"
+      },
+      {
+        "id": 516,
+        "logo_path": "/ibZFDcpmcpY0emmO8mo1HCenlGk.png",
+        "name": "Seven Arts Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/nM2MfoMqzJQRiSynsDabOtFKetD.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1966-09-28",
+    "revenue": 34900000,
+    "runtime": 175,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La primera historia de aventuras... la primera historia de amor... la primera historia de asesinato... la primera historia de suspenso... la primera historia de fe.",
+    "title": "La Biblia... en su principio",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 305,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2536,
+          "known_for_department": "Acting",
+          "name": "Michael Parks",
+          "original_name": "Michael Parks",
+          "popularity": 1.1748,
+          "profile_path": "/sXK8vnVNyYzJl2oE6lxKLtxG9px.jpg",
+          "cast_id": 1,
+          "character": "Adam",
+          "credit_id": "52fe435cc3a36847f804e721",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 25779,
+          "known_for_department": "Acting",
+          "name": "Ulla Bergryd",
+          "original_name": "Ulla Bergryd",
+          "popularity": 0.2183,
+          "profile_path": "/c21WMKXCFHcdkIf8hpkQ1O9wm92.jpg",
+          "cast_id": 2,
+          "character": "Eve",
+          "credit_id": "52fe435cc3a36847f804e725",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 194,
+          "known_for_department": "Acting",
+          "name": "Richard Harris",
+          "original_name": "Richard Harris",
+          "popularity": 3.2265,
+          "profile_path": "/oJIS8QUOCfLUhsfK7kROkLHVyJh.jpg",
+          "cast_id": 3,
+          "character": "Cain",
+          "credit_id": "52fe435cc3a36847f804e729",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6593,
+          "known_for_department": "Directing",
+          "name": "John Huston",
+          "original_name": "John Huston",
+          "popularity": 1.6671,
+          "profile_path": "/saIbkr0jPzscRBKNG1suhgd3Yxb.jpg",
+          "cast_id": 5,
+          "character": "Noah",
+          "credit_id": "52fe435cc3a36847f804e731",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 10020,
+          "known_for_department": "Acting",
+          "name": "Stephen Boyd",
+          "original_name": "Stephen Boyd",
+          "popularity": 1.4787,
+          "profile_path": "/1w6Lv4pQDMDzn0fFPzaKZQmzAcW.jpg",
+          "cast_id": 13,
+          "character": "Nimrod",
+          "credit_id": "52fe435cc3a36847f804e751",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 862,
+          "known_for_department": "Acting",
+          "name": "George C. Scott",
+          "original_name": "George C. Scott",
+          "popularity": 2.0769,
+          "profile_path": "/iZON8v2ExgNzY943W0UDWXeRZrz.jpg",
+          "cast_id": 14,
+          "character": "Abraham",
+          "credit_id": "52fe435cc3a36847f804e755",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 25787,
+          "known_for_department": "Acting",
+          "name": "Ava Gardner",
+          "original_name": "Ava Gardner",
+          "popularity": 1.8828,
+          "profile_path": "/o8t2jFDuUTqAh3VYvj62yQfHKkD.jpg",
+          "cast_id": 15,
+          "character": "Sarah",
+          "credit_id": "52fe435cc3a36847f804e759",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 11390,
+          "known_for_department": "Acting",
+          "name": "Peter O'Toole",
+          "original_name": "Peter O'Toole",
+          "popularity": 2.2313,
+          "profile_path": "/fElkV2pyiPfmvyhLUllKpyhG7L3.jpg",
+          "cast_id": 43,
+          "character": "The Three Angels",
+          "credit_id": "52fe435cc3a36847f804e7ed",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 25788,
+          "known_for_department": "Acting",
+          "name": "Zoe Sallis",
+          "original_name": "Zoe Sallis",
+          "popularity": 0.2808,
+          "profile_path": "/y0UFi2jmEGxVNrpAUlcdhCaCi7S.jpg",
+          "cast_id": 16,
+          "character": "Hagar",
+          "credit_id": "52fe435cc3a36847f804e75d",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4961,
+          "known_for_department": "Acting",
+          "name": "Gabriele Ferzetti",
+          "original_name": "Gabriele Ferzetti",
+          "popularity": 0.6103,
+          "profile_path": "/usiGcuBhMrSK8VnMHFKV6zDFrhj.jpg",
+          "cast_id": 17,
+          "character": "Lot",
+          "credit_id": "52fe435cc3a36847f804e761",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 25789,
+          "known_for_department": "Acting",
+          "name": "Eleonora Rossi Drago",
+          "original_name": "Eleonora Rossi Drago",
+          "popularity": 0.66,
+          "profile_path": "/cfZkDKktD7PWJ23PvQW4B14QhEi.jpg",
+          "cast_id": 18,
+          "character": "Lot's wife",
+          "credit_id": "52fe435cc3a36847f804e765",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22383,
+          "known_for_department": "Acting",
+          "name": "Franco Nero",
+          "original_name": "Franco Nero",
+          "popularity": 3.9646,
+          "profile_path": "/7jDXqw5bCxh9KemuxYZhkNhxEYA.jpg",
+          "cast_id": 4,
+          "character": "Abel",
+          "credit_id": "52fe435cc3a36847f804e72d",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 25780,
+          "known_for_department": "Acting",
+          "name": "Pupella Maggio",
+          "original_name": "Pupella Maggio",
+          "popularity": 0.4907,
+          "profile_path": "/eLzAnbMwfWNHiOy1Mgylgz0tnUa.jpg",
+          "cast_id": 6,
+          "character": "Noah's wife",
+          "credit_id": "52fe435cc3a36847f804e735",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 11841,
+          "known_for_department": "Acting",
+          "name": "Robert Rietti",
+          "original_name": "Robert Rietti",
+          "popularity": 0.4405,
+          "profile_path": "/2Xa7VvAyV2zMqd2OhrgcUoorG0w.jpg",
+          "cast_id": 50,
+          "character": "Abraham's Steward",
+          "credit_id": "5b6b198e925141404f0f4391",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 25782,
+          "known_for_department": "Acting",
+          "name": "Peter Heinze",
+          "original_name": "Peter Heinze",
+          "popularity": 0.1095,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Ham",
+          "credit_id": "52fe435cc3a36847f804e73d",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1428054,
+          "known_for_department": "Acting",
+          "name": "Roger Beaumont",
+          "original_name": "Roger Beaumont",
+          "popularity": 0.356,
+          "profile_path": null,
+          "cast_id": 52,
+          "character": "",
+          "credit_id": "636ac8c0d4d509007a663872",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 994437,
+          "known_for_department": "Acting",
+          "name": "Gianluigi Crescenzi",
+          "original_name": "Gianluigi Crescenzi",
+          "popularity": 0.3473,
+          "profile_path": null,
+          "cast_id": 53,
+          "character": "",
+          "credit_id": "636ac8e63f4833007931fc16",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 25791,
+          "known_for_department": "Acting",
+          "name": "Maria Grazia Spina",
+          "original_name": "Maria Grazia Spina",
+          "popularity": 0.6577,
+          "profile_path": "/8Fa3zBBRUqK9Ip6wCpHyLRdE1ii.jpg",
+          "cast_id": 20,
+          "character": "Lot's daughter # 2",
+          "credit_id": "52fe435cc3a36847f804e76d",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 25781,
+          "known_for_department": "Acting",
+          "name": "Angelo Boscariol",
+          "original_name": "Angelo Boscariol",
+          "popularity": 0.1787,
+          "profile_path": "/zWnXuvC8ISFUX0AZyrGNfDane7V.jpg",
+          "cast_id": 7,
+          "character": "Shem",
+          "credit_id": "52fe435cc3a36847f804e739",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1019113,
+          "known_for_department": "Acting",
+          "name": "Claudie Lange",
+          "original_name": "Claudie Lange",
+          "popularity": 0.3332,
+          "profile_path": "/dUms4gAdEfFQYAhBtaRsScNHj1P.jpg",
+          "cast_id": 44,
+          "character": "Nimrod's wife",
+          "credit_id": "57115770925141322d004118",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 25784,
+          "known_for_department": "Acting",
+          "name": "Anna Orso",
+          "original_name": "Anna Orso",
+          "popularity": 1.3558,
+          "profile_path": "/7qjhpyaHS1mQVmnfie1VxBcxuWS.jpg",
+          "cast_id": 10,
+          "character": "Shem's wife",
+          "credit_id": "52fe435cc3a36847f804e745",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 25790,
+          "known_for_department": "Acting",
+          "name": "Adriana Ambesi",
+          "original_name": "Adriana Ambesi",
+          "popularity": 0.3467,
+          "profile_path": "/bRBbcsd2g2eaLPrsyOpgvOW1epA.jpg",
+          "cast_id": 19,
+          "character": "Lot's daughter # 1",
+          "credit_id": "52fe435cc3a36847f804e769",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 25783,
+          "known_for_department": "Acting",
+          "name": "Eric Leutzinger",
+          "original_name": "Eric Leutzinger",
+          "popularity": 0.1892,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Japhet",
+          "credit_id": "52fe435cc3a36847f804e741",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3776571,
+          "known_for_department": "Acting",
+          "name": "Michael Steinpichler",
+          "original_name": "Michael Steinpichler",
+          "popularity": 0.1296,
+          "profile_path": null,
+          "cast_id": 54,
+          "character": "",
+          "credit_id": "636acbbb258823007d97ca16",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 25785,
+          "known_for_department": "Acting",
+          "name": "Gabriella Pallotta",
+          "original_name": "Gabriella Pallotta",
+          "popularity": 0.5034,
+          "profile_path": "/5uWgWA5yvoqyYzZcL4e4k7ENVBw.jpg",
+          "cast_id": 11,
+          "character": "Ham's wife",
+          "credit_id": "52fe435cc3a36847f804e749",
+          "order": 24
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 25792,
+          "known_for_department": "Acting",
+          "name": "Alberto Lucantoni",
+          "original_name": "Alberto Lucantoni",
+          "popularity": 0.0999,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Isaac",
+          "credit_id": "52fe435cc3a36847f804e771",
+          "order": 25
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 25786,
+          "known_for_department": "Acting",
+          "name": "Rossana Di Rocco",
+          "original_name": "Rossana Di Rocco",
+          "popularity": 0.2688,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Japhet's wife",
+          "credit_id": "52fe435cc3a36847f804e74d",
+          "order": 26
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 25793,
+          "known_for_department": "Acting",
+          "name": "Luciano Conversi",
+          "original_name": "Luciano Conversi",
+          "popularity": 0.3738,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "Ismael",
+          "credit_id": "52fe435cc3a36847f804e775",
+          "order": 27
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 18337,
+          "known_for_department": "Acting",
+          "name": "Giovanna Galletti",
+          "original_name": "Giovanna Galletti",
+          "popularity": 1.2349,
+          "profile_path": "/uRIcePqBd860nE6mBoMAEuHQ5JO.jpg",
+          "cast_id": 55,
+          "character": "Sinful Woman",
+          "credit_id": "636acbf36dc5070081efc57c",
+          "order": 28
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 101597,
+          "known_for_department": "Acting",
+          "name": "Lars Bloch",
+          "original_name": "Lars Bloch",
+          "popularity": 0.3746,
+          "profile_path": "/kgQQaXuiz4MDXGTMmRyiWddTnYB.jpg",
+          "cast_id": 57,
+          "character": "Archangel (uncredited)",
+          "credit_id": "636acc3978570e0079714b27",
+          "order": 29
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2498664,
+          "known_for_department": "Acting",
+          "name": "Flavio Bennati",
+          "original_name": "Flavio Bennati",
+          "popularity": 0.1371,
+          "profile_path": null,
+          "cast_id": 58,
+          "character": "Serpent (uncredited)",
+          "credit_id": "636acc49c56d2d008310144e",
+          "order": 30
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 240914,
+          "known_for_department": "Acting",
+          "name": "Salvatore Billa",
+          "original_name": "Salvatore Billa",
+          "popularity": 0.4311,
+          "profile_path": "/3U3SqxbX6UjfwKGuKTFehn4tytA.jpg",
+          "cast_id": 59,
+          "character": "Abraham's Follower (uncredited)",
+          "credit_id": "636acc5a78570e0079714b31",
+          "order": 31
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 99446,
+          "known_for_department": "Acting",
+          "name": "Giovanni Di Benedetto",
+          "original_name": "Giovanni Di Benedetto",
+          "popularity": 0.2939,
+          "profile_path": "/yknDKsf8plEdYXKI9nbiyNF344f.jpg",
+          "cast_id": 60,
+          "character": "Nimrod's Man (uncredited)",
+          "credit_id": "636acc76b076e500820705c4",
+          "order": 32
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 44961,
+          "known_for_department": "Acting",
+          "name": "Ivan Rassimov",
+          "original_name": "Ivan Rassimov",
+          "popularity": 0.6552,
+          "profile_path": "/nawfX5ZPQcjrTecEWZLMiPAQg8Y.jpg",
+          "cast_id": 61,
+          "character": "Dignitary at Babylon (uncredited)",
+          "credit_id": "636acc96c68b6900863ab37d",
+          "order": 33
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3776526,
+          "known_for_department": "Acting",
+          "name": "Romano Moraschini",
+          "original_name": "Romano Moraschini",
+          "popularity": 0.3104,
+          "profile_path": "/aYmuViP3TynBHFTjzghX029En2p.jpg",
+          "cast_id": 56,
+          "character": "Sinful Man (uncredited)",
+          "credit_id": "636acc05258823007d97ca28",
+          "order": 34
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1467655,
+          "known_for_department": "Acting",
+          "name": "Veriano Ginesi",
+          "original_name": "Veriano Ginesi",
+          "popularity": 0.3759,
+          "profile_path": "/oJwDUr67iTAHhrp7c7esgU3gKCv.jpg",
+          "cast_id": 62,
+          "character": "Sinful Man (uncredited)",
+          "credit_id": "636ae83ef14dad00f272e6ca",
+          "order": 35
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1684757,
+          "known_for_department": "Acting",
+          "name": "Alberigo Donadeo",
+          "original_name": "Alberigo Donadeo",
+          "popularity": 0.357,
+          "profile_path": "/h7XiYvGkn9SPOGAYyvYORym5NPz.jpg",
+          "cast_id": 63,
+          "character": "Sinful Man (uncredited)",
+          "credit_id": "636ae878ffd44d0082e3e586",
+          "order": 36
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1763669,
+          "known_for_department": "Acting",
+          "name": "Amerigo Santarelli",
+          "original_name": "Amerigo Santarelli",
+          "popularity": 1.2733,
+          "profile_path": "/tzCY7VRWLG7Xpl7BPLUD2UeqYmp.jpg",
+          "cast_id": 64,
+          "character": "Sinful Man (uncredited)",
+          "credit_id": "636ae8c581383100808320c8",
+          "order": 37
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 225190,
+          "known_for_department": "Acting",
+          "name": "Mimmo Poli",
+          "original_name": "Mimmo Poli",
+          "popularity": 0.3941,
+          "profile_path": "/ogRb16e5BplvdpngH3Txhp3Y0pb.jpg",
+          "cast_id": 65,
+          "character": "Sodomite (uncredited)",
+          "credit_id": "636ae8df0499f200912290ef",
+          "order": 38
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 38102,
+          "known_for_department": "Acting",
+          "name": "Fred Coplan",
+          "original_name": "Fred Coplan",
+          "popularity": 0.388,
+          "profile_path": null,
+          "cast_id": 66,
+          "character": "Abraham's Follower (uncredited)",
+          "credit_id": "636ae8f3d7fbda007bed9ef3",
+          "order": 39
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 7317,
+          "known_for_department": "Acting",
+          "name": "Peter Sallis",
+          "original_name": "Peter Sallis",
+          "popularity": 1.0191,
+          "profile_path": "/rtupXNWLSILkwBBVgYamLvmJIkY.jpg",
+          "cast_id": 127,
+          "character": "Minor Role (uncredited)",
+          "credit_id": "66561ed62ba7f8252316c810",
+          "order": 40
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 21010,
+          "known_for_department": "Acting",
+          "name": "Alexandra Hay",
+          "original_name": "Alexandra Hay",
+          "popularity": 0.4103,
+          "profile_path": "/odKE8u2ShQbNOUK9DhCLewPj2tB.jpg",
+          "cast_id": 128,
+          "character": "Extra (uncredited)",
+          "credit_id": "6848e5df7f3def6f8130224c",
+          "order": 41
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6604,
+          "known_for_department": "Editing",
+          "name": "Ralph Kemplen",
+          "original_name": "Ralph Kemplen",
+          "popularity": 0.3078,
+          "profile_path": null,
+          "credit_id": "52fe435cc3a36847f804e7b9",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 15131,
+          "known_for_department": "Camera",
+          "name": "Giuseppe Rotunno",
+          "original_name": "Giuseppe Rotunno",
+          "popularity": 0.4792,
+          "profile_path": "/wr6CxoAWe52wdLeHF8hqp3hJynd.jpg",
+          "credit_id": "52fe435cc3a36847f804e7b3",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 25801,
+          "known_for_department": "Directing",
+          "name": "Guidarino Guidi",
+          "original_name": "Guidarino Guidi",
+          "popularity": 0.3601,
+          "profile_path": null,
+          "credit_id": "52fe435cc3a36847f804e7bf",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6593,
+          "known_for_department": "Directing",
+          "name": "John Huston",
+          "original_name": "John Huston",
+          "popularity": 1.6671,
+          "profile_path": "/saIbkr0jPzscRBKNG1suhgd3Yxb.jpg",
+          "credit_id": "52fe435cc3a36847f804e783",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5398,
+          "known_for_department": "Production",
+          "name": "Dino De Laurentiis",
+          "original_name": "Dino De Laurentiis",
+          "popularity": 0.454,
+          "profile_path": "/AemWmlAEoezGnyJTVP0DYfc0Fmu.jpg",
+          "credit_id": "52fe435cc3a36847f804e7a1",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 25805,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Maria De Matteis",
+          "original_name": "Maria De Matteis",
+          "popularity": 0.5481,
+          "profile_path": null,
+          "credit_id": "52fe435cc3a36847f804e7d7",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 25802,
+          "known_for_department": "Art",
+          "name": "Mario Chiari",
+          "original_name": "Mario Chiari",
+          "popularity": 0.4804,
+          "profile_path": null,
+          "credit_id": "52fe435cc3a36847f804e7c5",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 25804,
+          "known_for_department": "Art",
+          "name": "Enzo Eusepi",
+          "original_name": "Enzo Eusepi",
+          "popularity": 0.2804,
+          "profile_path": null,
+          "credit_id": "52fe435cc3a36847f804e7d1",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1427546,
+          "known_for_department": "Directing",
+          "name": "Yvonne Axeworthy",
+          "original_name": "Yvonne Axeworthy",
+          "popularity": 0.5453,
+          "profile_path": null,
+          "credit_id": "659e429391b53001494d0c93",
+          "department": "Writing",
+          "job": "Script Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3353486,
+          "known_for_department": "Camera",
+          "name": "Vladimiro Salvatori",
+          "original_name": "Vladimiro Salvatori",
+          "popularity": 0.2302,
+          "profile_path": null,
+          "credit_id": "659e43a624b33300961bcb28",
+          "department": "Camera",
+          "job": "Grip"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1291177,
+          "known_for_department": "Lighting",
+          "name": "Cristo Verrillo",
+          "original_name": "Cristo Verrillo",
+          "popularity": 0.1656,
+          "profile_path": null,
+          "credit_id": "659e43b4fc5f06014acb7273",
+          "department": "Lighting",
+          "job": "Electrician"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1511729,
+          "known_for_department": "Sound",
+          "name": "Gilbert D. Marchant",
+          "original_name": "Gilbert D. Marchant",
+          "popularity": 0.2186,
+          "profile_path": null,
+          "credit_id": "659e42cd8e8d3001a8302f08",
+          "department": "Sound",
+          "job": "Music Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4473443,
+          "known_for_department": "Sound",
+          "name": "John Blunk",
+          "original_name": "John Blunk",
+          "popularity": 0.1328,
+          "profile_path": null,
+          "credit_id": "659e44806728a801a52f48a6",
+          "department": "Sound",
+          "job": "Sound Effects Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1536655,
+          "known_for_department": "Sound",
+          "name": "Goffredo Petrassi",
+          "original_name": "Goffredo Petrassi",
+          "popularity": 0.7856,
+          "profile_path": "/8r1cqGe6Q2TDXM8t8ei8yDgNu4f.jpg",
+          "credit_id": "659e42ec6728a801a52f47fe",
+          "department": "Sound",
+          "job": "Music Consultant"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1631524,
+          "known_for_department": "Camera",
+          "name": "Giuseppe Di Biase",
+          "original_name": "Giuseppe Di Biase",
+          "popularity": 0.2658,
+          "profile_path": null,
+          "credit_id": "659e43399590e3014ac05f57",
+          "department": "Camera",
+          "job": "First Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 20504,
+          "known_for_department": "Crew",
+          "name": "Carlo Rambaldi",
+          "original_name": "Carlo Rambaldi",
+          "popularity": 0.3641,
+          "profile_path": "/d7OSTpa33e2e7dlIsH9dm1xVDTQ.jpg",
+          "credit_id": "659e43d224b33300f1571173",
+          "department": "Crew",
+          "job": "Special Effects"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1507551,
+          "known_for_department": "Crew",
+          "name": "Augie Lohman",
+          "original_name": "Augie Lohman",
+          "popularity": 0.2918,
+          "profile_path": null,
+          "credit_id": "659e441a1d3563025c54d0ed",
+          "department": "Crew",
+          "job": "Special Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1542141,
+          "known_for_department": "Sound",
+          "name": "Donald C. Rogers",
+          "original_name": "Donald C. Rogers",
+          "popularity": 0.1883,
+          "profile_path": null,
+          "credit_id": "659e43681d356301a2da9519",
+          "department": "Camera",
+          "job": "Second Unit Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3258,
+          "known_for_department": "Sound",
+          "name": "Murray Spivack",
+          "original_name": "Murray Spivack",
+          "popularity": 0.3039,
+          "profile_path": null,
+          "credit_id": "659e42a81d3563025c54d061",
+          "department": "Sound",
+          "job": "Recording Supervision"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1298944,
+          "known_for_department": "Camera",
+          "name": "Piero Servo",
+          "original_name": "Piero Servo",
+          "popularity": 0.188,
+          "profile_path": null,
+          "credit_id": "659e437c91b53001494d0cf6",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1643883,
+          "known_for_department": "Visual Effects",
+          "name": "Carlo De Marchis",
+          "original_name": "Carlo De Marchis",
+          "popularity": 0.3594,
+          "profile_path": null,
+          "credit_id": "659e44086d97e601ff2327a4",
+          "department": "Crew",
+          "job": "Special Effects Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1627266,
+          "known_for_department": "Editing",
+          "name": "Eunice Mountjoy",
+          "original_name": "Eunice Mountjoy",
+          "popularity": 0.2074,
+          "profile_path": null,
+          "credit_id": "659e430c24b333014c14d777",
+          "department": "Editing",
+          "job": "Assistant Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 144615,
+          "known_for_department": "Acting",
+          "name": "Virgilio Ponti",
+          "original_name": "Virgilio Ponti",
+          "popularity": 0.3517,
+          "profile_path": "/koHGYfliNRXRXQ4UezRb9oawE3z.jpg",
+          "credit_id": "659e4321cb75d10257cead10",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5809,
+          "known_for_department": "Sound",
+          "name": "Basil Fenton-Smith",
+          "original_name": "Basil Fenton-Smith",
+          "popularity": 0.1288,
+          "profile_path": null,
+          "credit_id": "659e444524b33300f15711a4",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1900728,
+          "known_for_department": "Sound",
+          "name": "Fred Hynes",
+          "original_name": "Fred Hynes",
+          "popularity": 0.2197,
+          "profile_path": null,
+          "credit_id": "659e44616728a800ef92c79d",
+          "department": "Sound",
+          "job": "Recording Supervision"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1176688,
+          "known_for_department": "Sound",
+          "name": "Franco Ferrara",
+          "original_name": "Franco Ferrara",
+          "popularity": 0.1766,
+          "profile_path": null,
+          "credit_id": "659e42bd7776f0025f08dfde",
+          "department": "Sound",
+          "job": "Conductor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4473438,
+          "known_for_department": "Crew",
+          "name": "Zeus Ianiro",
+          "original_name": "Zeus Ianiro",
+          "popularity": 0.1101,
+          "profile_path": null,
+          "credit_id": "659e443024b3330200340b1e",
+          "department": "Crew",
+          "job": "Special Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22383,
+          "known_for_department": "Acting",
+          "name": "Franco Nero",
+          "original_name": "Franco Nero",
+          "popularity": 3.9646,
+          "profile_path": "/7jDXqw5bCxh9KemuxYZhkNhxEYA.jpg",
+          "credit_id": "659e43486728a80149c63890",
+          "department": "Camera",
+          "job": "Still Photographer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1250547,
+          "known_for_department": "Visual Effects",
+          "name": "Linwood G. Dunn",
+          "original_name": "Linwood G. Dunn",
+          "popularity": 0.4061,
+          "profile_path": null,
+          "credit_id": "659e427d24b33300961bca9d",
+          "department": "Crew",
+          "job": "Special Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1163642,
+          "known_for_department": "Camera",
+          "name": "Giuseppe Maccari",
+          "original_name": "Giuseppe Maccari",
+          "popularity": 0.6356,
+          "profile_path": null,
+          "credit_id": "659e43929590e3025ee2338a",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1189045,
+          "known_for_department": "Sound",
+          "name": "Leslie Hodgson",
+          "original_name": "Leslie Hodgson",
+          "popularity": 0.5307,
+          "profile_path": null,
+          "credit_id": "659e445424b33300f15711ab",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 16640,
+          "known_for_department": "Sound",
+          "name": "James D. Young",
+          "original_name": "James D. Young",
+          "popularity": 0.2227,
+          "profile_path": null,
+          "credit_id": "659e44c7cb75d10094fb85c4",
+          "department": "Sound",
+          "job": "Assistant Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 939005,
+          "known_for_department": "Acting",
+          "name": "Fred Sidewater",
+          "original_name": "Fred Sidewater",
+          "popularity": 0.136,
+          "profile_path": null,
+          "credit_id": "659e46d2d6590b01a386d828",
+          "department": "Production",
+          "job": "Producer's Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1431338,
+          "known_for_department": "Art",
+          "name": "Italo Tomassi",
+          "original_name": "Italo Tomassi",
+          "popularity": 1.1916,
+          "profile_path": null,
+          "credit_id": "659e45fb6d97e6025a21bd01",
+          "department": "Art",
+          "job": "Painter"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1763213,
+          "known_for_department": "Directing",
+          "name": "Vana Caruso",
+          "original_name": "Vana Caruso",
+          "popularity": 0.1786,
+          "profile_path": null,
+          "credit_id": "659e457391b53001fdf1b8ba",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4473461,
+          "known_for_department": "Production",
+          "name": "Angelo Lombardi",
+          "original_name": "Angelo Lombardi",
+          "popularity": 0.1049,
+          "profile_path": null,
+          "credit_id": "659e478c7776f0025f08e18b",
+          "department": "Production",
+          "job": "Consulting Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2179385,
+          "known_for_department": "Camera",
+          "name": "Ernst Haas",
+          "original_name": "Ernst Haas",
+          "popularity": 0.1027,
+          "profile_path": null,
+          "credit_id": "659e45877776f000ee2d8e57",
+          "department": "Directing",
+          "job": "Second Unit Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 43705,
+          "known_for_department": "Art",
+          "name": "Luciano Puccini",
+          "original_name": "Luciano Puccini",
+          "popularity": 0.1995,
+          "profile_path": null,
+          "credit_id": "659e4613fc5f06025ae59ed3",
+          "department": "Art",
+          "job": "Assistant Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 121342,
+          "known_for_department": "Sound",
+          "name": "Marvin Walowitz",
+          "original_name": "Marvin Walowitz",
+          "popularity": 0.2695,
+          "profile_path": null,
+          "credit_id": "659e44b2cb75d10094fb85bd",
+          "department": "Sound",
+          "job": "Sound Effects Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3886399,
+          "known_for_department": "Production",
+          "name": "Piero De Luca",
+          "original_name": "Piero De Luca",
+          "popularity": 0.1337,
+          "profile_path": null,
+          "credit_id": "659e44f86728a800ef92c7cc",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1700651,
+          "known_for_department": "Art",
+          "name": "Pasquale Romano",
+          "original_name": "Pasquale Romano",
+          "popularity": 0.2344,
+          "profile_path": null,
+          "credit_id": "659e46659590e30095f61359",
+          "department": "Art",
+          "job": "Assistant Art Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4473459,
+          "known_for_department": "Production",
+          "name": "Salvatore Garofalo",
+          "original_name": "Salvatore Garofalo",
+          "popularity": 0.1523,
+          "profile_path": null,
+          "credit_id": "659e476824b33300f15712db",
+          "department": "Production",
+          "job": "Consulting Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 14743,
+          "known_for_department": "Writing",
+          "name": "Gladys Hill",
+          "original_name": "Gladys Hill",
+          "popularity": 0.4159,
+          "profile_path": null,
+          "credit_id": "659e474ecb75d100eed73d3d",
+          "department": "Directing",
+          "job": "Assistant Director Trainee"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4473460,
+          "known_for_department": "Production",
+          "name": "W.M. Merchant",
+          "original_name": "W.M. Merchant",
+          "popularity": 0.1169,
+          "profile_path": null,
+          "credit_id": "659e477e8e8d3001a8303101",
+          "department": "Production",
+          "job": "Consulting Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1894053,
+          "known_for_department": "Sound",
+          "name": "Wayne Fury",
+          "original_name": "Wayne Fury",
+          "popularity": 0.5197,
+          "profile_path": null,
+          "credit_id": "659e449e9590e300f0acedfc",
+          "department": "Sound",
+          "job": "Sound Effects Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1238711,
+          "known_for_department": "Acting",
+          "name": "Katherine Dunham",
+          "original_name": "Katherine Dunham",
+          "popularity": 0.3192,
+          "profile_path": "/e162YKnIfvJRXYPr8u2fwsp2ik0.jpg",
+          "credit_id": "659e46b7d6590b01fdaf72b4",
+          "department": "Crew",
+          "job": "Choreographer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 25804,
+          "known_for_department": "Art",
+          "name": "Enzo Eusepi",
+          "original_name": "Enzo Eusepi",
+          "popularity": 0.2804,
+          "profile_path": null,
+          "credit_id": "659e45c991b53001a326b28b",
+          "department": "Art",
+          "job": "Set Dresser"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 32054,
+          "known_for_department": "Art",
+          "name": "Mario Scisci",
+          "original_name": "Mario Scisci",
+          "popularity": 0.1483,
+          "profile_path": null,
+          "credit_id": "659e46546728a800941aa56c",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1586004,
+          "known_for_department": "Production",
+          "name": "Giorgio Morra",
+          "original_name": "Giorgio Morra",
+          "popularity": 0.1907,
+          "profile_path": null,
+          "credit_id": "659e47217776f00095005d2a",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1190954,
+          "known_for_department": "Directing",
+          "name": "Ottavio Oppo",
+          "original_name": "Ottavio Oppo",
+          "popularity": 0.2676,
+          "profile_path": null,
+          "credit_id": "659e4560fc5f0601a6365d39",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2881814,
+          "known_for_department": "Sound",
+          "name": "Tani",
+          "original_name": "Tani",
+          "popularity": 0.1008,
+          "profile_path": null,
+          "credit_id": "659e46409590e30095f6134d",
+          "department": "Art",
+          "job": "Property Master"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 10641,
+          "known_for_department": "Art",
+          "name": "Stephen B. Grimes",
+          "original_name": "Stephen B. Grimes",
+          "popularity": 0.2379,
+          "profile_path": null,
+          "credit_id": "659e467bfc5f060200a50fc6",
+          "department": "Art",
+          "job": "Assistant Art Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2538984,
+          "known_for_department": "Art",
+          "name": "Aldo Puccini",
+          "original_name": "Aldo Puccini",
+          "popularity": 0.1908,
+          "profile_path": null,
+          "credit_id": "659e45e191b53000ef1ed665",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1762440,
+          "known_for_department": "Production",
+          "name": "Ralph B. Serpe",
+          "original_name": "Ralph B. Serpe",
+          "popularity": 0.1898,
+          "profile_path": null,
+          "credit_id": "659e46e824b3330200340c0b",
+          "department": "Production",
+          "job": "Producer's Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 25800,
+          "known_for_department": "Sound",
+          "name": "黛敏郎",
+          "original_name": "黛敏郎",
+          "popularity": 0.515,
+          "profile_path": "/m12vJpiGMdGSsWhyLy45s6GVlRZ.jpg",
+          "credit_id": "571725ad9251412b37000268",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 25807,
+          "known_for_department": "Production",
+          "name": "Bruno Todini",
+          "original_name": "Bruno Todini",
+          "popularity": 0.1991,
+          "profile_path": null,
+          "credit_id": "639de0814f33ad008cffc7f9",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 40,
+          "known_for_department": "Directing",
+          "name": "Orson Welles",
+          "original_name": "Orson Welles",
+          "popularity": 2.9275,
+          "profile_path": "/p5JF3pnAHDy4JSNPJBatM5Ttdam.jpg",
+          "credit_id": "639ddf41b5400200b0684ead",
+          "department": "Crew",
+          "job": "Additional Writing"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 24585,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Elda Magnanti",
+          "original_name": "Elda Magnanti",
+          "popularity": 0.1819,
+          "profile_path": null,
+          "credit_id": "639de0542f3b1700a00fbce8",
+          "department": "Costume & Make-Up",
+          "job": "Hairdresser"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 25795,
+          "known_for_department": "Writing",
+          "name": "Vittorio Bonicelli",
+          "original_name": "Vittorio Bonicelli",
+          "popularity": 0.4246,
+          "profile_path": null,
+          "credit_id": "639ddf854f33ad00d532d57f",
+          "department": "Writing",
+          "job": "Writers' Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 25796,
+          "known_for_department": "Writing",
+          "name": "Christopher Fry",
+          "original_name": "Christopher Fry",
+          "popularity": 0.4448,
+          "profile_path": null,
+          "credit_id": "639ddd83b5400200894d7787",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 70300,
+          "known_for_department": "Directing",
+          "name": "Mario Soldati",
+          "original_name": "Mario Soldati",
+          "popularity": 0.549,
+          "profile_path": "/xwgrkSKa4nNRguf60uHcKH485tT.jpg",
+          "credit_id": "639ddf4a4f33ad00c32bce18",
+          "department": "Crew",
+          "job": "Additional Writing"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1259,
+          "known_for_department": "Sound",
+          "name": "Ennio Morricone",
+          "original_name": "Ennio Morricone",
+          "popularity": 0.8591,
+          "profile_path": "/lMID2Ovs2PUPLfHhA4YgBbiQJEW.jpg",
+          "credit_id": "639ddfbebe6d8800bca7617e",
+          "department": "Crew",
+          "job": "Additional Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 25806,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Alberto De Rossi",
+          "original_name": "Alberto De Rossi",
+          "popularity": 0.4968,
+          "profile_path": null,
+          "credit_id": "639de04cb5400200c3b5cb4c",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 25798,
+          "known_for_department": "Writing",
+          "name": "Ivo Perilli",
+          "original_name": "Ivo Perilli",
+          "popularity": 0.484,
+          "profile_path": null,
+          "credit_id": "639ddf78b5400200e180affe",
+          "department": "Writing",
+          "job": "Writers' Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 25799,
+          "known_for_department": "Production",
+          "name": "Luigi Luraschi",
+          "original_name": "Luigi Luraschi",
+          "popularity": 0.5011,
+          "profile_path": null,
+          "credit_id": "639ddfa49bcd0f007bf313e0",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 25797,
+          "known_for_department": "Writing",
+          "name": "Jonathan Griffin",
+          "original_name": "Jonathan Griffin",
+          "popularity": 0.2059,
+          "profile_path": null,
+          "credit_id": "639ddf6f4f33ad00d532d576",
+          "department": "Writing",
+          "job": "Writers' Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 25824,
+          "known_for_department": "Editing",
+          "name": "Alberto Gallitti",
+          "original_name": "Alberto Gallitti",
+          "popularity": 0.2389,
+          "profile_path": null,
+          "credit_id": "639ddfd6be6d8800bca7618a",
+          "department": "Editing",
+          "job": "Additional Editing"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3810071,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Sandro Melaranci",
+          "original_name": "Sandro Melaranci",
+          "popularity": 0.1216,
+          "profile_path": null,
+          "credit_id": "639de06abe6d88007f1747e8",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 40,
+          "known_for_department": "Directing",
+          "name": "Orson Welles",
+          "original_name": "Orson Welles",
+          "popularity": 2.9275,
+          "profile_path": "/p5JF3pnAHDy4JSNPJBatM5Ttdam.jpg",
+          "credit_id": "66024b1c7f6c8d0163705510",
+          "department": "Writing",
+          "job": "Scenario Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "ATP",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1967-08-23T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "ATP",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Re-release",
+              "release_date": "1973-04-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sydney",
+              "release_date": "1967-06-01T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1967-06-02T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BE",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Gent",
+              "release_date": "1967-03-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "L",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "",
+              "release_date": "1996-10-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "de",
+              "note": "",
+              "release_date": "1966-10-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1967-03-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Barcelona",
+              "release_date": "1966-12-22T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FI",
+          "release_dates": [
+            {
+              "certification": "S",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1966-11-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "TP",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1966-11-02T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1966-10-07T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IE",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1967-03-31T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "T",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1966-10-13T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1966-10-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1986-03-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1967-09-14T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "14",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1966-09-28T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "M/6",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1967-04-20T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Barcelos",
+              "release_date": "1976-02-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SE",
+          "release_dates": [
+            {
+              "certification": "11",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1966-10-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1966-09-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UY",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1967-09-14T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ZA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Johannesburg",
+              "release_date": "1966-10-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "The Bible",
+          "type": "short title"
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "La Bible, au commencement des temps",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "La Biblia... en su principio",
+          "type": "Alternative"
+        },
+        {
+          "iso_3166_1": "BR",
+          "title": "A Bíblia",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "AR",
+          "title": "La Biblia... en el comienzo",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DK",
+          "title": "Bibelen... i begyndelsen",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FI",
+          "title": "Raamattu... alussa loi Jumala",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Die Bibel",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "IT",
+          "title": "La Bibbia",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "NO",
+          "title": "Bibelen",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "SU",
+          "title": "Библия",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "SE",
+          "title": "Bibeln... i begynnelsen",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "TR",
+          "title": "Peygamberler Tarihi - Kısası Enbiya",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "VN",
+          "title": "Sáng Thế Ký",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PT",
+          "title": "A Bíblia",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

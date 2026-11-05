@@ -1,0 +1,424 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/943319?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:25.507Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10770,
+        "name": "Película de TV"
+      }
+    ],
+    "homepage": "",
+    "id": 943319,
+    "imdb_id": "tt14061114",
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Nie zu spät",
+    "overview": "",
+    "popularity": 0.7524,
+    "poster_path": "/tTTXJ99NivikxO7OWUTdA3XhJFg.jpg",
+    "production_companies": [
+      {
+        "id": 1251,
+        "logo_path": "/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png",
+        "name": "ARD",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2022-02-26",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Nie zu spät",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1086,
+          "known_for_department": "Acting",
+          "name": "Heino Ferch",
+          "original_name": "Heino Ferch",
+          "popularity": 0.6769,
+          "profile_path": "/orqYafNbzIezRcRDSE8gdxOUGqk.jpg",
+          "cast_id": 1,
+          "character": "Paul Langner",
+          "credit_id": "62188a84a27502006d7563ef",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1163292,
+          "known_for_department": "Acting",
+          "name": "Picco von Groote",
+          "original_name": "Picco von Groote",
+          "popularity": 0.8793,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Susanne Langner",
+          "credit_id": "62188a94d144430043f81372",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2392270,
+          "known_for_department": "Acting",
+          "name": "Pablo Grant",
+          "original_name": "Pablo Grant",
+          "popularity": 0.4264,
+          "profile_path": "/cnVL0jYE6vJpYSBZhsidiLTLs3y.jpg",
+          "cast_id": 3,
+          "character": "Jonas Langner",
+          "credit_id": "62188ab0cb9f4b001bed161d",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1843725,
+          "known_for_department": "Acting",
+          "name": "Harriet Herbig-Matten",
+          "original_name": "Harriet Herbig-Matten",
+          "popularity": 1.4003,
+          "profile_path": "/6IxJLXyIB9eBVJK5F1dt1GBBcTV.jpg",
+          "cast_id": 4,
+          "character": "Tabea Langner",
+          "credit_id": "62188ac379a1c30043fa8eb0",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3442897,
+          "known_for_department": "Acting",
+          "name": "Jakob Josef Gottlieb",
+          "original_name": "Jakob Josef Gottlieb",
+          "popularity": 0.1754,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Franz Langner",
+          "credit_id": "62188ade93388b006ac594ad",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 16799,
+          "known_for_department": "Acting",
+          "name": "Ines Honsel",
+          "original_name": "Ines Honsel",
+          "popularity": 0.2414,
+          "profile_path": "/iGBvzT25wp5TtsvB0XgkRWvTDvD.jpg",
+          "cast_id": 6,
+          "character": "Martina Langner",
+          "credit_id": "62188af693388b004338313a",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 213579,
+          "known_for_department": "Acting",
+          "name": "Sheri Hagen",
+          "original_name": "Sheri Hagen",
+          "popularity": 0.6932,
+          "profile_path": "/mzEgAUB3IK0hQkon0aPFDiDb85Q.jpg",
+          "cast_id": 7,
+          "character": "Karin Langner",
+          "credit_id": "62188b0fa27502006d7564d4",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 22380,
+          "known_for_department": "Acting",
+          "name": "Jale Arıkan",
+          "original_name": "Jale Arıkan",
+          "popularity": 0.5407,
+          "profile_path": "/iHEmvk5p5xG2TT5HbePtTxDEDEz.jpg",
+          "cast_id": 8,
+          "character": "Dr. Ayse Akgül",
+          "credit_id": "62188b297b7b4d0042747db2",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1174113,
+          "known_for_department": "Acting",
+          "name": "Roland Schreglmann",
+          "original_name": "Roland Schreglmann",
+          "popularity": 0.1727,
+          "profile_path": "/qFHd6O3234QLYYYMNtimRPagonp.jpg",
+          "cast_id": 9,
+          "character": "Erzieher",
+          "credit_id": "62188b3d54f6eb001b79b57c",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 36756,
+          "known_for_department": "Acting",
+          "name": "Irina Wanka",
+          "original_name": "Irina Wanka",
+          "popularity": 0.3749,
+          "profile_path": "/rfEPU9M1RrsAb04gtsE5TMSf6IV.jpg",
+          "cast_id": 10,
+          "character": "Elke Schmitt",
+          "credit_id": "62188b50ce5d82001b41b2fb",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1079922,
+          "known_for_department": "Acting",
+          "name": "Wolfgang Maria Bauer",
+          "original_name": "Wolfgang Maria Bauer",
+          "popularity": 0.2169,
+          "profile_path": "/bzJImDiVjdsdKzIRUdiAmweWbd6.jpg",
+          "cast_id": 11,
+          "character": "Zeitunglesender Mann",
+          "credit_id": "62188b68a27502001b6a1085",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3257491,
+          "known_for_department": "Acting",
+          "name": "Lorena Handschin",
+          "original_name": "Lorena Handschin",
+          "popularity": 0.2926,
+          "profile_path": "/zIlu8SYnl2VPp0UmTo7aaXVlDzj.jpg",
+          "cast_id": 12,
+          "character": "Liv Decker",
+          "credit_id": "62188b857b7b4d006c82499e",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 38206,
+          "known_for_department": "Acting",
+          "name": "Gilbert von Sohlern",
+          "original_name": "Gilbert von Sohlern",
+          "popularity": 1.3255,
+          "profile_path": "/21MDTaaFMyLqmbyF9pcY0mJwP87.jpg",
+          "cast_id": 13,
+          "character": "Therapeut",
+          "credit_id": "62188b97a88587004218938e",
+          "order": 12
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 47343,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Niciy Axt",
+          "original_name": "Niciy Axt",
+          "popularity": 0.1401,
+          "profile_path": null,
+          "credit_id": "62188c730e597b0041291fd7",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3442902,
+          "known_for_department": "Production",
+          "name": "Oliver Arnold",
+          "original_name": "Oliver Arnold",
+          "popularity": 0.2022,
+          "profile_path": null,
+          "credit_id": "62188c0993388b006ac596f9",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3442904,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Tanja Holznagel",
+          "original_name": "Tanja Holznagel",
+          "popularity": 0.1027,
+          "profile_path": null,
+          "credit_id": "62188c8c383df2001d84081e",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1792021,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Mika Braun",
+          "original_name": "Mika Braun",
+          "popularity": 0.2521,
+          "profile_path": null,
+          "credit_id": "62188cc77b7b4d001bcedeb4",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 18039,
+          "known_for_department": "Directing",
+          "name": "Tomy Wigand",
+          "original_name": "Tomy Wigand",
+          "popularity": 0.278,
+          "profile_path": null,
+          "credit_id": "62188bcd79a1c3006b8ea5df",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1620214,
+          "known_for_department": "Sound",
+          "name": "Rainer Bartesch",
+          "original_name": "Rainer Bartesch",
+          "popularity": 0.246,
+          "profile_path": null,
+          "credit_id": "62188c2e19ab590042949019",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 49304,
+          "known_for_department": "Editing",
+          "name": "Christian Nauheimer",
+          "original_name": "Christian Nauheimer",
+          "popularity": 0.25,
+          "profile_path": null,
+          "credit_id": "62188c5c7fcab30042cb1029",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 50637,
+          "known_for_department": "Production",
+          "name": "Norbert Walter",
+          "original_name": "Norbert Walter",
+          "popularity": 0.4815,
+          "profile_path": null,
+          "credit_id": "62188c1bd14443006535d6b6",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 68590,
+          "known_for_department": "Camera",
+          "name": "Holly Fink",
+          "original_name": "Holly Fink",
+          "popularity": 0.1744,
+          "profile_path": null,
+          "credit_id": "62188c4a7fcab3001c12f32b",
+          "department": "Camera",
+          "job": "Camera Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2009936,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Anette Keiser",
+          "original_name": "Anette Keiser",
+          "popularity": 0.2251,
+          "profile_path": null,
+          "credit_id": "62188ca4cb9f4b0042edc908",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 55848,
+          "known_for_department": "Writing",
+          "name": "Sarah Schnier",
+          "original_name": "Sarah Schnier",
+          "popularity": 0.3009,
+          "profile_path": null,
+          "credit_id": "62188be3383df2001d840763",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "0",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Das Erste",
+              "release_date": "2022-02-26T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Never too late",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

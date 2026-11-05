@@ -1,0 +1,137 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1230159?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:16.738Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1230159,
+    "imdb_id": "tt6681414",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Réplica",
+    "overview": "",
+    "popularity": 2.469,
+    "poster_path": "/x4katF5byYGqz31JomcHRutR7aB.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2014-05-12",
+    "revenue": 0,
+    "runtime": 10,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Réplica",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4477611,
+          "known_for_department": "Acting",
+          "name": "Sara Linaje",
+          "original_name": "Sara Linaje",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "65a16d7f678259012ce8e349",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2804618,
+          "known_for_department": "Acting",
+          "name": "Manu Vega",
+          "original_name": "Manuel Vega",
+          "popularity": 1.3768,
+          "profile_path": "/f0lQDhqfrQNpxnkh7Thd20nYtck.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "65a16d949451e701323b7c64",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4477612,
+          "known_for_department": "Acting",
+          "name": "Alejandro Lerdo de Tejada",
+          "original_name": "Alejandro Lerdo de Tejada",
+          "popularity": 0.4123,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "65a16db0ccde04012b8b9800",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4319528,
+          "known_for_department": "Directing",
+          "name": "Lucien Burckel de Tell",
+          "original_name": "Lucien Burckel de Tell",
+          "popularity": 0.3886,
+          "profile_path": null,
+          "credit_id": "65a16d4a7d5f4b012b9d59f5",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2014-05-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Replica",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

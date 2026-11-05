@@ -1,0 +1,410 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/736774?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:39.336Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/4NAfKI2Gy4erh1NKeKDXIUo0FzE.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 736774,
+    "imdb_id": "tt12951932",
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_title": "Hello, Stranger: The Movie",
+    "overview": "Xavier y Mico se unen a un campamento de escritura, donde se conocen más. Pero con sus amigos y otras personas a su alrededor, las cosas se complican.  ¿Ya no serán extraños o  volverán a ser extraños de nuevo?",
+    "popularity": 2.1701,
+    "poster_path": "/nrGnrf869TOi0GiBiS3YTqR8HWd.jpg",
+    "production_companies": [
+      {
+        "id": 108831,
+        "logo_path": "/r7UUy75TraL4m56a7B9RrneCngb.png",
+        "name": "Black Sheep",
+        "origin_country": "PH"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PH",
+        "name": "Philippines"
+      }
+    ],
+    "release_date": "2021-02-12",
+    "revenue": 0,
+    "runtime": 101,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Tagalog",
+        "iso_639_1": "tl",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Hello, Stranger: The Movie",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 15,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2097910,
+          "known_for_department": "Acting",
+          "name": "Tony Labrusca",
+          "original_name": "Tony Labrusca",
+          "popularity": 1.4159,
+          "profile_path": "/3MBVFCNySDgR5czVEzhvg7g0QyV.jpg",
+          "cast_id": 1,
+          "character": "Xavier",
+          "credit_id": "5f463828efca000035b9dc7c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2108440,
+          "known_for_department": "Acting",
+          "name": "JC Alcantara",
+          "original_name": "JC Alcantara",
+          "popularity": 0.538,
+          "profile_path": "/7OGE9H5cjAE95FHEKyJyrovNKOd.jpg",
+          "cast_id": 2,
+          "character": "Mico",
+          "credit_id": "5f463840efca000035b9df10",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2153601,
+          "known_for_department": "Acting",
+          "name": "Vivoree Esclito",
+          "original_name": "Vivoree Esclito",
+          "popularity": 0.469,
+          "profile_path": "/ppuB5Uwg7EnVIpnyYX1nDFPa2NY.jpg",
+          "cast_id": 3,
+          "character": "Kookai",
+          "credit_id": "5f46385771f0950033814fd4",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2245961,
+          "known_for_department": "Acting",
+          "name": "Patrick Quiroz",
+          "original_name": "Patrick Quiroz",
+          "popularity": 0.652,
+          "profile_path": "/zcnUn1qduCQSQb9fvaptODzGCoC.jpg",
+          "cast_id": 5,
+          "character": "Seph",
+          "credit_id": "5f4638c271f0950034840b41",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2274392,
+          "known_for_department": "Acting",
+          "name": "Gillian Vicencio",
+          "original_name": "Gillian Vicencio",
+          "popularity": 0.6781,
+          "profile_path": "/cpncRXYL9wUmCe3xpGueXRGq7f4.jpg",
+          "cast_id": 4,
+          "character": "Crystal",
+          "credit_id": "5f4638b0cee4810035abed91",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2291925,
+          "known_for_department": "Acting",
+          "name": "Miguel Almendras",
+          "original_name": "Miguel Almendras",
+          "popularity": 0.612,
+          "profile_path": "/8Q8d6bhR3up1ImPsiRuVHzWYRHG.jpg",
+          "cast_id": 6,
+          "character": "Junjun",
+          "credit_id": "5f4638e1a8b2ca003885a4d7",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1442049,
+          "known_for_department": "Acting",
+          "name": "Dionne Monsanto",
+          "original_name": "Dionne Monsanto",
+          "popularity": 0.863,
+          "profile_path": "/6cLlg5yj5g6Lymc5K8AEYNXnvuO.jpg",
+          "cast_id": 9,
+          "character": "Ate Karen Yambao",
+          "credit_id": "61fa8b326f31af00e647eba5",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2097913,
+          "known_for_department": "Acting",
+          "name": "Jin Macapagal",
+          "original_name": "Jin Macapagal",
+          "popularity": 0.72,
+          "profile_path": "/smiHLJOlQZL8H7IFNxgOje7j4OG.jpg",
+          "cast_id": 10,
+          "character": "James",
+          "credit_id": "61fa8b3e6f31af00e647ebaa",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1801739,
+          "known_for_department": "Acting",
+          "name": "Jael Miranda",
+          "original_name": "Jael Miranda",
+          "popularity": 0.5148,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Arvin",
+          "credit_id": "61fa8b4b0c4c1600dc08c61e",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3409265,
+          "known_for_department": "Acting",
+          "name": "Luigi Quesada",
+          "original_name": "Luigi Quesada",
+          "popularity": 0.2224,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Lucas",
+          "credit_id": "61fa8b5aae2811006a65d0cf",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2103337,
+          "known_for_department": "Acting",
+          "name": "Markus Paterson",
+          "original_name": "Markus Paterson",
+          "popularity": 0.5478,
+          "profile_path": "/xJcPfKh8viCv1FfMhv1eRlXNetW.jpg",
+          "cast_id": 14,
+          "character": "Simon",
+          "credit_id": "61fa8b85fe6c182eb879eeda",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1058265,
+          "known_for_department": "Acting",
+          "name": "Yayo Aguila",
+          "original_name": "Yayo Aguila",
+          "popularity": 1.052,
+          "profile_path": "/gSOCogk9uEzpqFgRLVGbtNbOp38.jpg",
+          "cast_id": 15,
+          "character": "Linda / Mico's Mom",
+          "credit_id": "61fa8b937a97ab011f98a4e5",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 223852,
+          "known_for_department": "Acting",
+          "name": "Bing Pimentel",
+          "original_name": "Bing Pimentel",
+          "popularity": 0.5104,
+          "profile_path": "/fJQ88MiwK1n9z5PEKpwEMtYnaFN.jpg",
+          "cast_id": 16,
+          "character": "Rose / Crystal's Mom",
+          "credit_id": "61fa8b9fb6abc400f03a498b",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1229023,
+          "known_for_department": "Acting",
+          "name": "Precious Lara Quigaman",
+          "original_name": "Precious Lara Quigaman",
+          "popularity": 0.4578,
+          "profile_path": "/KHFJmVXHeGJ7KBTXOqiRwaziwm.jpg",
+          "cast_id": 17,
+          "character": "Xavier's Mom",
+          "credit_id": "61fa8ba959e8a9001b141fa8",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1525528,
+          "known_for_department": "Acting",
+          "name": "Marco Alcaraz",
+          "original_name": "Marco Alcaraz",
+          "popularity": 1.1621,
+          "profile_path": "/2Ow4z4YybCGipvtD8dYRBsAlU0P.jpg",
+          "cast_id": 18,
+          "character": "Xavier's Dad",
+          "credit_id": "61fa8bb4fe6c1800c208d682",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3409269,
+          "known_for_department": "Acting",
+          "name": "Christian Rae Villanueva",
+          "original_name": "Christian Rae Villanueva",
+          "popularity": 0.1769,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Student",
+          "credit_id": "61fa8bbe072166532c6bd2a7",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1194796,
+          "known_for_department": "Acting",
+          "name": "Meanne Espinosa",
+          "original_name": "Meanne Espinosa",
+          "popularity": 0.4391,
+          "profile_path": "/zTKw41OzM1zTU1tF40JmnlxHtBt.jpg",
+          "cast_id": 20,
+          "character": "Prof. Tina Moran",
+          "credit_id": "62c42562544c411449fb2b4e",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2682603,
+          "known_for_department": "Acting",
+          "name": "Andre Miguel Bongato",
+          "original_name": "Andre Miguel Bongato",
+          "popularity": 0.4179,
+          "profile_path": "/e8tk0P5Eu3SzjbPXhGYgd6YOFqH.jpg",
+          "cast_id": 21,
+          "character": "Kyle",
+          "credit_id": "639c911faa7898009115c33a",
+          "order": 17
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2438520,
+          "known_for_department": "Writing",
+          "name": "Daniel Saniana",
+          "original_name": "Daniel Saniana",
+          "popularity": 0.2096,
+          "profile_path": null,
+          "credit_id": "6555867f67b61345cd34921c",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2438520,
+          "known_for_department": "Writing",
+          "name": "Daniel Saniana",
+          "original_name": "Daniel Saniana",
+          "popularity": 0.2096,
+          "profile_path": null,
+          "credit_id": "6555868c9653f613f62ab516",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1495489,
+          "known_for_department": "Writing",
+          "name": "Patrick John Valencia",
+          "original_name": "Patrick John Valencia",
+          "popularity": 1.021,
+          "profile_path": null,
+          "credit_id": "655586a79653f613f8649693",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1495489,
+          "known_for_department": "Writing",
+          "name": "Patrick John Valencia",
+          "original_name": "Patrick John Valencia",
+          "popularity": 1.021,
+          "profile_path": null,
+          "credit_id": "655586b4d4fe04013982152b",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1689369,
+          "known_for_department": "Writing",
+          "name": "Dwein Ruedas Baltazar",
+          "original_name": "Dwein Ruedas Baltazar",
+          "popularity": 0.8154,
+          "profile_path": "/wqpC5cp3glRrIIlkoOy5dmgSWVw.jpg",
+          "credit_id": "60005e5a6e938a003c74479d",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "{\"folded_name\"=>\"Tagalog\", \"english_name\"=>\"Tagalog\", \"iso_639_1\"=>\"tl\", \"native_name\"=>\"Tagalog\"}",
+              "note": "",
+              "release_date": "2021-02-12T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

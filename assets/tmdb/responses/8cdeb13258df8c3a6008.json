@@ -1,0 +1,109 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/469200?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:39:39.025Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 469200,
+    "imdb_id": null,
+    "origin_country": [
+      "CU"
+    ],
+    "original_language": "es",
+    "original_title": "Los perros de Amundsen",
+    "overview": "",
+    "popularity": 0.3186,
+    "poster_path": "/ekYwgqFvUlVBuzJrv3erQbNffMl.jpg",
+    "production_companies": [
+      {
+        "id": 140749,
+        "logo_path": "/DYbFDlsONhCIUy578IXX1N7DMX.png",
+        "name": "Escuela Internacional de Cine y Televisión (EICTV)",
+        "origin_country": "CU"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CU",
+        "name": "Cuba"
+      }
+    ],
+    "release_date": "2017-08-06",
+    "revenue": 0,
+    "runtime": 27,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Los perros de Amundsen",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1862685,
+          "known_for_department": "Directing",
+          "name": "Rafael Ramírez",
+          "original_name": "Rafael Ramírez",
+          "popularity": 0.152,
+          "profile_path": null,
+          "credit_id": "59823df2c3a3680ceb01c500",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1862685,
+          "known_for_department": "Directing",
+          "name": "Rafael Ramírez",
+          "original_name": "Rafael Ramírez",
+          "popularity": 0.152,
+          "profile_path": null,
+          "credit_id": "5c83835bc3a36839d4d1683d",
+          "department": "Writing",
+          "job": "Screenplay"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2017-08-06T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

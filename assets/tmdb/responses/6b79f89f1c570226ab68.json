@@ -1,0 +1,31 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=HISTERIA&include_adult=false&language=es-ES&year=2025",
+  "retrievedAt": "2026-11-05T16:45:27.252Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/xw0GqVJSAqZRpBGOhpbICsL0EpJ.jpg",
+        "genre_ids": [
+          53,
+          18
+        ],
+        "id": 1399696,
+        "title": "Hysteria",
+        "original_language": "de",
+        "original_title": "Hysteria",
+        "overview": "Cuando se encuentra un Corán quemado en el plató de una película, el equipo se ve envuelto en un caos. Atrapada en el fuego cruzado de las acusaciones, la becaria Elif se ve arrastrada a un peligroso juego de secretos y mentiras y se encuentra en el centro de una conspiración absorbente.",
+        "popularity": 1.3402,
+        "poster_path": "/ldXXYliUX865ScI2w1plo1vWFnX.jpg",
+        "release_date": "2025-05-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.441,
+        "vote_count": 17
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

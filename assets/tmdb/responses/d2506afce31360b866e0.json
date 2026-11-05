@@ -1,0 +1,280 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/926797?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:39:39.239Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 926797,
+    "imdb_id": "tt10217346",
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "El Camino De Los Perros",
+    "overview": "",
+    "popularity": 0.3303,
+    "poster_path": "/unRCyzQOkRCMfkgdT8f1zQAQiey.jpg",
+    "production_companies": [
+      {
+        "id": 167861,
+        "logo_path": null,
+        "name": "Barco de Papel Producciones",
+        "origin_country": ""
+      },
+      {
+        "id": 167862,
+        "logo_path": null,
+        "name": "Cinebeat",
+        "origin_country": ""
+      },
+      {
+        "id": 167863,
+        "logo_path": null,
+        "name": "Savage Producciones",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "2017-08-22",
+    "revenue": 0,
+    "runtime": 22,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El Camino De Los Perros",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1273924,
+          "known_for_department": "Acting",
+          "name": "René Miranda",
+          "original_name": "René Miranda",
+          "popularity": 0.3224,
+          "profile_path": "/esxN1dvcu1DqZkPabjNyAdrCQdM.jpg",
+          "cast_id": 1,
+          "character": "Jorge (hijo)",
+          "credit_id": "61e0f2a82811a10041c2c80f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1345248,
+          "known_for_department": "Acting",
+          "name": "Daniel Candia",
+          "original_name": "Daniel Candia",
+          "popularity": 0.2632,
+          "profile_path": "/mOiYgG3oBJzj0AT0sysLHvFdksz.jpg",
+          "cast_id": 2,
+          "character": "Miguel (padre)",
+          "credit_id": "61e0f2bea0b6b500892ece8c",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2328113,
+          "known_for_department": "Acting",
+          "name": "Francisca Fernández",
+          "original_name": "Francisca Fernández",
+          "popularity": 0.3099,
+          "profile_path": null,
+          "credit_id": "61e0f3d5bf0f63001ae3e778",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2032601,
+          "known_for_department": "Sound",
+          "name": "Diego Peralta",
+          "original_name": "Diego Peralta",
+          "popularity": 0.2281,
+          "profile_path": null,
+          "credit_id": "61e0f4735bce9e006726f552",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3381876,
+          "known_for_department": "Editing",
+          "name": "Vicente Bravo",
+          "original_name": "Vicente Bravo",
+          "popularity": 0.2717,
+          "profile_path": null,
+          "credit_id": "61e0f40990b87e0042beb16f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3381871,
+          "known_for_department": "Directing",
+          "name": "Sebastián Cuevas",
+          "original_name": "Sebastián Cuevas",
+          "popularity": 0.1196,
+          "profile_path": null,
+          "credit_id": "61e0f2f0cb30840068e862d4",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3381873,
+          "known_for_department": "Camera",
+          "name": "Rodrigo Carrasco",
+          "original_name": "Rodrigo Carrasco",
+          "popularity": 0.1079,
+          "profile_path": null,
+          "credit_id": "61e0f3aa5bce9e009124f6a4",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2008504,
+          "known_for_department": "Writing",
+          "name": "Paula Armstrong",
+          "original_name": "Paula Armstrong",
+          "popularity": 0.3592,
+          "profile_path": null,
+          "credit_id": "61e0f3bb8cfcc7004123f9e7",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 995080,
+          "known_for_department": "Production",
+          "name": "Macarena López",
+          "original_name": "Macarena López",
+          "popularity": 0.1378,
+          "profile_path": null,
+          "credit_id": "61e0f336a6fdaa00960c588d",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3381877,
+          "known_for_department": "Sound",
+          "name": "Felipe Herrera",
+          "original_name": "Felipe Herrera",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "61e0f45190b87e0042beb219",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2008504,
+          "known_for_department": "Writing",
+          "name": "Paula Armstrong",
+          "original_name": "Paula Armstrong",
+          "popularity": 0.3592,
+          "profile_path": null,
+          "credit_id": "61e0f31cbf0f63001ae3e4f6",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3381872,
+          "known_for_department": "Production",
+          "name": "María Ignacia Gutiérrez",
+          "original_name": "María Ignacia Gutiérrez",
+          "popularity": 0.1786,
+          "profile_path": null,
+          "credit_id": "61e0f35790b87e001b8266ff",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3381875,
+          "known_for_department": "Production",
+          "name": "Favianna Gacitúa",
+          "original_name": "Favianna Gacitúa",
+          "popularity": 0.1778,
+          "profile_path": null,
+          "credit_id": "61e0f3f9ffd44d001c044bfa",
+          "department": "Production",
+          "job": "Art Department Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3381871,
+          "known_for_department": "Directing",
+          "name": "Sebastián Cuevas",
+          "original_name": "Sebastián Cuevas",
+          "popularity": 0.1196,
+          "profile_path": null,
+          "credit_id": "61e0f2fcd8e2250042480b04",
+          "department": "Writing",
+          "job": "Screenplay"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2017-08-22T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

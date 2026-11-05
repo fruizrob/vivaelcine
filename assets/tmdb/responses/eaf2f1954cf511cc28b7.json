@@ -1,0 +1,51 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=EL+GRAN+ARCO&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:38.298Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/4CmqIt9w9iNuYPLkWLFmSnczXkc.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 1290424,
+        "title": "El arquitecto",
+        "original_language": "fr",
+        "original_title": "L'Inconnu de la Grande Arche",
+        "overview": "1983. El nuevo gobierno francés convoca el mayor concurso de arquitectura. Codiciado por los grandes estudios, el ganador es, sorprendentemente, un absoluto desconocido: Johan Otto von Spreckelsen, un profesor de arquitectura danés que hasta entonces solo había construido su casa y tres pequeñas capillas. De golpe, se ve al frente de un proyecto colosal: la construcción del Arco de la Defensa de París. “Spreck” no tardará en descubrir que, para preservar su visión, tendrá que enfrentarse al juego político. Comienza entonces el verdadero pulso entre el arte y el poder.",
+        "popularity": 3.5557,
+        "poster_path": "/ijo8TVoUDrvGKsRINRzgqTZLERw.jpg",
+        "release_date": "2025-11-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.932,
+        "vote_count": 133
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/u2yaNXOyYzzmHcP71R68EsZEFyx.jpg",
+        "genre_ids": [
+          10751,
+          14
+        ],
+        "id": 125110,
+        "title": "El gran mundo invisible",
+        "original_language": "en",
+        "original_title": "The Great Land of Small",
+        "overview": "Jenny y David van a Canadá con su madre a pasar el fin de semana con sus abuelos. Un cuento lleno de humor, efectos especiales y encuentros mágicos.",
+        "popularity": 1.6065,
+        "poster_path": "/uREOAMCdwxJxp0x1lE6p6dPoAY6.jpg",
+        "release_date": "1987-06-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 5
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  }
+}

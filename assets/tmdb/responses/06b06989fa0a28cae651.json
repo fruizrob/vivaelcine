@@ -1,0 +1,948 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/33247?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:02.599Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/2rUGk4g07bFPj5uINHceH5Rf9LE.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 33247,
+    "imdb_id": "tt0104745",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Living End",
+    "overview": "Luke es un chapero gay. Jon es un crítico de cine. Ambos tienen el virus VIH del SIDA. Y ambos deciden embarcarse en un hedonista y peligroso viaje. Su lema: \"Fuck the world\" (que le jodan al mundo).",
+    "popularity": 1.2059,
+    "poster_path": "/gWFLPTphg0BSoDgMCSC1zkzeRKe.jpg",
+    "production_companies": [
+      {
+        "id": 1474,
+        "logo_path": "/yF64sClfGa10XBWHqbSHZsMBG8d.png",
+        "name": "Desperate Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 3923,
+        "logo_path": "/qFWM5g28knWRu4MRv0IptS7SCSP.png",
+        "name": "Strand Releasing",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1992-08-21",
+    "revenue": 692585,
+    "runtime": 84,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Vivir hasta el fin",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 99,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 110368,
+          "known_for_department": "Acting",
+          "name": "Mike Dytri",
+          "original_name": "Mike Dytri",
+          "popularity": 0.2131,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Luke",
+          "credit_id": "52fe45069251416c91024f5d",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 110369,
+          "known_for_department": "Acting",
+          "name": "Craig Gilmore",
+          "original_name": "Craig Gilmore",
+          "popularity": 0.2622,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Jon",
+          "credit_id": "52fe45069251416c91024f61",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1149335,
+          "known_for_department": "Acting",
+          "name": "Mark Finch",
+          "original_name": "Mark Finch",
+          "popularity": 0.1903,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Doctor",
+          "credit_id": "52fe45069251416c91024f6f",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 100552,
+          "known_for_department": "Acting",
+          "name": "Mary Woronov",
+          "original_name": "Mary Woronov",
+          "popularity": 0.6754,
+          "profile_path": "/tWKBAw7htrc8QMmv3ftwNkmUrFm.jpg",
+          "cast_id": 4,
+          "character": "Daisy",
+          "credit_id": "52fe45069251416c91024f65",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1149336,
+          "known_for_department": "Acting",
+          "name": "Johanna Went",
+          "original_name": "Johanna Went",
+          "popularity": 0.2307,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Fern",
+          "credit_id": "52fe45069251416c91024f73",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1488878,
+          "known_for_department": "Acting",
+          "name": "Darcy Marta",
+          "original_name": "Darcy Marta",
+          "popularity": 0.4371,
+          "profile_path": "/fOwEQjlvgQgFiERQ8kMthh5AjFN.jpg",
+          "cast_id": 12,
+          "character": "Darcy",
+          "credit_id": "5f949abb988afd005368f003",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2852966,
+          "known_for_department": "Acting",
+          "name": "Scott Goetz",
+          "original_name": "Scott Goetz",
+          "popularity": 0.2008,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Peter",
+          "credit_id": "5fac73aa2f3b17003e49b644",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2852972,
+          "known_for_department": "Acting",
+          "name": "Brett Vail",
+          "original_name": "Brett Vail",
+          "popularity": 0.7955,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Ken",
+          "credit_id": "5fac73d4a76ac5003e08bb85",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2495533,
+          "known_for_department": "Acting",
+          "name": "Nicole Dillenberg",
+          "original_name": "Nicole Dillenberg",
+          "popularity": 0.2,
+          "profile_path": "/dQEdfJUx0DDb5LwfCfTZgps79LM.jpg",
+          "cast_id": 15,
+          "character": "Barbie",
+          "credit_id": "5fac73e466565a003c8b7550",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1531284,
+          "known_for_department": "Directing",
+          "name": "Stephen Holman",
+          "original_name": "Stephen Holman",
+          "popularity": 0.286,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "7-11 Couple",
+          "credit_id": "5fac73fed266a2004218958f",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2852979,
+          "known_for_department": "Acting",
+          "name": "Magie Song",
+          "original_name": "Magie Song",
+          "popularity": 0.1018,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "7-11 Couple",
+          "credit_id": "5fac740c6f9746003c1369df",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1709091,
+          "known_for_department": "Acting",
+          "name": "Peter Lanigan",
+          "original_name": "Peter Lanigan",
+          "popularity": 0.1272,
+          "profile_path": null,
+          "cast_id": 38,
+          "character": "Three Stooges",
+          "credit_id": "62a9c057875d1a52774c02ce",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2495548,
+          "known_for_department": "Acting",
+          "name": "Jon Gerrans",
+          "original_name": "Jon Gerrans",
+          "popularity": 0.291,
+          "profile_path": null,
+          "cast_id": 39,
+          "character": "Three Stooges",
+          "credit_id": "62a9c060b09bde0067b7bdc0",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3471388,
+          "known_for_department": "Sound",
+          "name": "Jack Kofman",
+          "original_name": "Jack Kofman",
+          "popularity": 0.0987,
+          "profile_path": null,
+          "cast_id": 40,
+          "character": "Three Stooges",
+          "credit_id": "62a9c06a22af3e52141e2e9b",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2507318,
+          "known_for_department": "Crew",
+          "name": "Chris Mabli",
+          "original_name": "Chris Mabli",
+          "popularity": 0.2315,
+          "profile_path": null,
+          "cast_id": 41,
+          "character": "Melrose NeoNazi",
+          "credit_id": "62a9c0907e12f00e260bf4c9",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3589139,
+          "known_for_department": "Acting",
+          "name": "Michael Now",
+          "original_name": "Michael Now",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "cast_id": 42,
+          "character": "Tarzan",
+          "credit_id": "62a9c0d25a5ed03269f4202b",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3589140,
+          "known_for_department": "Acting",
+          "name": "Michael Haynes",
+          "original_name": "Michael Haynes",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "cast_id": 43,
+          "character": "Jane",
+          "credit_id": "62a9c0ebb09bde0067b7bf4e",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3589141,
+          "known_for_department": "Acting",
+          "name": "Peter Gramé",
+          "original_name": "Peter Gramé",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "cast_id": 44,
+          "character": "Gus",
+          "credit_id": "62a9c10322af3e5213d9ec56",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3589145,
+          "known_for_department": "Acting",
+          "name": "Craig Lee",
+          "original_name": "Craig Lee",
+          "popularity": 0.1478,
+          "profile_path": null,
+          "cast_id": 45,
+          "character": "Ralphs Couple",
+          "credit_id": "62a9c1435a5ed03268ad869f",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3589146,
+          "known_for_department": "Acting",
+          "name": "Torie Chickering",
+          "original_name": "Torie Chickering",
+          "popularity": 0.0909,
+          "profile_path": null,
+          "cast_id": 46,
+          "character": "Ralphs Couple",
+          "credit_id": "62a9c14a907f2614f61149eb",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1674667,
+          "known_for_department": "Production",
+          "name": "Jordan Beswick",
+          "original_name": "Jordan Beswick",
+          "popularity": 0.1676,
+          "profile_path": null,
+          "cast_id": 47,
+          "character": "Buddhist",
+          "credit_id": "62a9c1523d4d96341ee4fda6",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 101377,
+          "known_for_department": "Directing",
+          "name": "Paul Bartel",
+          "original_name": "Paul Bartel",
+          "popularity": 0.5985,
+          "profile_path": "/qBs4BQ80N3QsQKfUApEeKcFoRap.jpg",
+          "cast_id": 11,
+          "character": "Twister Master",
+          "credit_id": "5d17cd3290fca3001cab180c",
+          "order": 21
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 22115,
+          "known_for_department": "Production",
+          "name": "Andrea Sperling",
+          "original_name": "Andrea Sperling",
+          "popularity": 0.6412,
+          "profile_path": "/9Fn05RK4V2RZrsUtwtprpe0Xrse.jpg",
+          "credit_id": "6235d07f34e15200734257d4",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3471390,
+          "known_for_department": "Camera",
+          "name": "Michael Matson",
+          "original_name": "Michael Matson",
+          "popularity": 0.1094,
+          "profile_path": null,
+          "credit_id": "6235d15ca84a47004455c641",
+          "department": "Camera",
+          "job": "Still Photographer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3471391,
+          "known_for_department": "Editing",
+          "name": "Tommy Huie",
+          "original_name": "Tommy Huie",
+          "popularity": 0.105,
+          "profile_path": null,
+          "credit_id": "6235d16753866e001eb62c40",
+          "department": "Editing",
+          "job": "Assistant Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3471388,
+          "known_for_department": "Sound",
+          "name": "Jack Kofman",
+          "original_name": "Jack Kofman",
+          "popularity": 0.0987,
+          "profile_path": null,
+          "credit_id": "6235d1098e8d30001d0f4a5a",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3382011,
+          "known_for_department": "Directing",
+          "name": "Marianne Dissard",
+          "original_name": "Marianne Dissard",
+          "popularity": 0.2077,
+          "profile_path": null,
+          "credit_id": "6235d113a84a47001b5fa2a8",
+          "department": "Sound",
+          "job": "Assistant Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3471389,
+          "known_for_department": "Sound",
+          "name": "Dave Cash",
+          "original_name": "Dave Cash",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6235d13c34e15200461d8933",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4834,
+          "known_for_department": "Production",
+          "name": "Jim Stark",
+          "original_name": "Jim Stark",
+          "popularity": 0.5031,
+          "profile_path": null,
+          "credit_id": "6235d08746aed4001e21cd9b",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2495542,
+          "known_for_department": "Acting",
+          "name": "Joyce Brouwers",
+          "original_name": "Joyce Brouwers",
+          "popularity": 0.1187,
+          "profile_path": null,
+          "credit_id": "6235d149df2945004602827b",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1149336,
+          "known_for_department": "Acting",
+          "name": "Johanna Went",
+          "original_name": "Johanna Went",
+          "popularity": 0.2307,
+          "profile_path": null,
+          "credit_id": "6235d0e1df29450046028136",
+          "department": "Art",
+          "job": "Props"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 193169,
+          "known_for_department": "Acting",
+          "name": "Karen Kennedy",
+          "original_name": "Karen Kennedy",
+          "popularity": 1.0081,
+          "profile_path": null,
+          "credit_id": "6235d18353866e001eb62c88",
+          "department": "Editing",
+          "job": "Negative Cutter"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19224,
+          "known_for_department": "Directing",
+          "name": "Gregg Araki",
+          "original_name": "Gregg Araki",
+          "popularity": 1.0388,
+          "profile_path": "/pSoAQI9Z48WwhfdYRPy2IENWFdA.jpg",
+          "credit_id": "52fe45069251416c91024f59",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19224,
+          "known_for_department": "Directing",
+          "name": "Gregg Araki",
+          "original_name": "Gregg Araki",
+          "popularity": 1.0388,
+          "profile_path": "/pSoAQI9Z48WwhfdYRPy2IENWFdA.jpg",
+          "credit_id": "52fe45069251416c91024f6b",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1012097,
+          "known_for_department": "Directing",
+          "name": "Jon Jost",
+          "original_name": "Jon Jost",
+          "popularity": 0.4171,
+          "profile_path": "/kpBfs0VvHYO3CeVjYObSfCVTd1V.jpg",
+          "credit_id": "609633abd8cc4a003f8ae753",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1670357,
+          "known_for_department": "Sound",
+          "name": "George Lockwood",
+          "original_name": "George Lockwood",
+          "popularity": 0.1207,
+          "profile_path": null,
+          "credit_id": "609633309661fc003b99c838",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2495548,
+          "known_for_department": "Acting",
+          "name": "Jon Gerrans",
+          "original_name": "Jon Gerrans",
+          "popularity": 0.291,
+          "profile_path": null,
+          "credit_id": "60963347b34409003db79f87",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3082949,
+          "known_for_department": "Production",
+          "name": "Evelyn Hu",
+          "original_name": "Evelyn Hu",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "609633707f0540003bbd33d7",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 381120,
+          "known_for_department": "Production",
+          "name": "Henry S. Rosenthal",
+          "original_name": "Henry S. Rosenthal",
+          "popularity": 0.6497,
+          "profile_path": null,
+          "credit_id": "609633c17ecd28003b10aa31",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3082951,
+          "known_for_department": "Production",
+          "name": "Mike Thomas",
+          "original_name": "Mike Thomas",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "609633e39a6435003cde8431",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19224,
+          "known_for_department": "Directing",
+          "name": "Gregg Araki",
+          "original_name": "Gregg Araki",
+          "popularity": 1.0388,
+          "profile_path": "/pSoAQI9Z48WwhfdYRPy2IENWFdA.jpg",
+          "credit_id": "6106b0ab7ad08c005e553953",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2852982,
+          "known_for_department": "Sound",
+          "name": "Cole Coonce",
+          "original_name": "Cole Coonce",
+          "popularity": 0.2506,
+          "profile_path": "/7Fkd9tV07a947hV7TaGTgvE1vQj.jpg",
+          "credit_id": "6106b0b88d22fc00300cc0e5",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19224,
+          "known_for_department": "Directing",
+          "name": "Gregg Araki",
+          "original_name": "Gregg Araki",
+          "popularity": 1.0388,
+          "profile_path": "/pSoAQI9Z48WwhfdYRPy2IENWFdA.jpg",
+          "credit_id": "5c774ec2c3a3681bb04c280c",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2078952,
+          "known_for_department": "Production",
+          "name": "Marcus Hu",
+          "original_name": "Marcus Hu",
+          "popularity": 0.3114,
+          "profile_path": null,
+          "credit_id": "6719bbfc2685cb6563c09380",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "R 18+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1993-03-04T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CZ",
+          "release_dates": [
+            {
+              "certification": "18+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Febio Film Festival",
+              "release_date": "2009-03-28T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Berlin International Film Festival",
+              "release_date": "2008-02-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Copenhagen Gay and Lesbian Film Festival",
+              "release_date": "2005-10-22T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1994-07-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Deauville American Film Festival",
+              "release_date": "2010-09-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1993-02-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1993-11-20T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1992-11-22T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Warsaw International FilmFest",
+              "release_date": "2008-10-11T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "LGBT International Film Festival Poland",
+              "release_date": "2019-04-08T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "\"Remixed and Remastered\" DVD",
+              "release_date": "2010-09-20T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2012-11-06T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "New York New Directors and New Films Festival",
+              "release_date": "1992-04-03T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "New York, New York",
+              "release_date": "1992-08-14T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sundance Film Festival",
+              "release_date": "2008-01-18T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Outfest Film Festival",
+              "release_date": "2009-07-11T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Film at Lincoln Center",
+              "release_date": "2021-04-21T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sundance Film Festival",
+              "release_date": "1992-01-23T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1992-08-21T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "\"Remixed and Remastered\" DVD",
+              "release_date": "2008-04-29T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "ES",
+          "title": "Vivir hasta el fin",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BR",
+          "title": "Viver até o Fim",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "JP",
+          "title": "リビング・エンド",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "RU",
+          "title": "Оголенный провод",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "TR",
+          "title": "Yaşamın Dibi",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "EE",
+          "title": "Eksistentsi lõpp",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "Fuck The World",
+          "type": "working title"
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "The Living End: Remixed and Remastered",
+          "type": "2008 re-release title"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/621761?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:44:55.492Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/aSMeTKMm4TmDpKL3fKKbprMe6BE.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 621761,
+    "imdb_id": "tt10720268",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Letter to the Editor",
+    "overview": "",
+    "popularity": 0.2502,
+    "poster_path": "/etyINs07DS2wUG7O0jo4xGYEQdl.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2019-09-06",
+    "revenue": 0,
+    "runtime": 88,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Letter to the Editor",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 142200,
+          "known_for_department": "Directing",
+          "name": "Alan Berliner",
+          "original_name": "Alan Berliner",
+          "popularity": 0.1793,
+          "profile_path": "/jeAOgGFclevzsHg3te1OxSKP8Io.jpg",
+          "credit_id": "5d4c57054dc34a001163cf8e",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 142200,
+          "known_for_department": "Directing",
+          "name": "Alan Berliner",
+          "original_name": "Alan Berliner",
+          "popularity": 0.1793,
+          "profile_path": "/jeAOgGFclevzsHg3te1OxSKP8Io.jpg",
+          "credit_id": "5d813d97cddbbc001cf6a62a",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3408131,
+          "known_for_department": "Editing",
+          "name": "Connor K. Smith",
+          "original_name": "Connor K. Smith",
+          "popularity": 0.7679,
+          "profile_path": null,
+          "credit_id": "6acd6312d838a768c6e14db7",
+          "department": "Editing",
+          "job": "Assistant Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3408131,
+          "known_for_department": "Editing",
+          "name": "Connor K. Smith",
+          "original_name": "Connor K. Smith",
+          "popularity": 0.7679,
+          "profile_path": null,
+          "credit_id": "6acd635b3b944269c5aab25b",
+          "department": "Visual Effects",
+          "job": "Visual Effects"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Toronto International Film Festival",
+              "release_date": "2019-09-06T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

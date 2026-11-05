@@ -1,0 +1,200 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/279999?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:44:57.881Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 279999,
+    "imdb_id": "tt1215113",
+    "origin_country": [
+      "PT"
+    ],
+    "original_language": "pt",
+    "original_title": "Natureza Morta",
+    "overview": "",
+    "popularity": 1.1949,
+    "poster_path": "/jkwb4KNJoOxqoF4hRSa2GSAelDp.jpg",
+    "production_companies": [
+      {
+        "id": 201,
+        "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+        "name": "ARTE",
+        "origin_country": "FR"
+      },
+      {
+        "id": 120547,
+        "logo_path": null,
+        "name": "Doc & Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "PT",
+        "name": "Portugal"
+      }
+    ],
+    "release_date": "2005-05-14",
+    "revenue": 0,
+    "runtime": 72,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Natureza Morta",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 3,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1722594,
+          "known_for_department": "Production",
+          "name": "Xavier Carniaux",
+          "original_name": "Xavier Carniaux",
+          "popularity": 0.2757,
+          "profile_path": null,
+          "credit_id": "64d8d7c7001bbd013aee6316",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1873570,
+          "known_for_department": "Production",
+          "name": "Ansgar Schäefer",
+          "original_name": "Ansgar Schäefer",
+          "popularity": 0.3221,
+          "profile_path": null,
+          "credit_id": "64d8d7d2d100b600ada1dc1d",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1157844,
+          "known_for_department": "Editing",
+          "name": "Valérie Brégaint",
+          "original_name": "Valérie Brégaint",
+          "popularity": 0.3017,
+          "profile_path": null,
+          "credit_id": "6290c7ce7d5db510a65e6081",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1724493,
+          "known_for_department": "Camera",
+          "name": "Vasco Riobom",
+          "original_name": "Vasco Riobom",
+          "popularity": 0.1013,
+          "profile_path": null,
+          "credit_id": "6290c7b5ed2ac216ba100641",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1344584,
+          "known_for_department": "Directing",
+          "name": "Susana de Sousa Dias",
+          "original_name": "Susana de Sousa Dias",
+          "popularity": 0.5725,
+          "profile_path": null,
+          "credit_id": "6290c7d3ed2ac216ba1006c5",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1869560,
+          "known_for_department": "Editing",
+          "name": "Helena Alves",
+          "original_name": "Helena Alves",
+          "popularity": 0.1802,
+          "profile_path": null,
+          "credit_id": "6290c7dddf86a876240fab80",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1344584,
+          "known_for_department": "Directing",
+          "name": "Susana de Sousa Dias",
+          "original_name": "Susana de Sousa Dias",
+          "popularity": 0.5725,
+          "profile_path": null,
+          "credit_id": "5dba6ab7dbf1440011510e39",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-05-14T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "FR",
+          "title": "Visages d'une dictature",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Bilder einer Diktatur",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

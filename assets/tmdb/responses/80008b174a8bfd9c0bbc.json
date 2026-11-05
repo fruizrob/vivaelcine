@@ -1,0 +1,174 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/916667?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:41.801Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 916667,
+    "imdb_id": "tt30983440",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "La casa de los perros",
+    "overview": "",
+    "popularity": 1.6084,
+    "poster_path": "/wNklUo8VkX3ilA1WNAjgpSThQpY.jpg",
+    "production_companies": [
+      {
+        "id": 70321,
+        "logo_path": null,
+        "name": "Latin Media",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "1997-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La casa de los perros",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 939980,
+          "known_for_department": "Acting",
+          "name": "Roberto Ballesteros",
+          "original_name": "Roberto Ballesteros",
+          "popularity": 0.685,
+          "profile_path": "/m6MYtqWqwMMDdaKCnNcwKWtHQ5P.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "61bb135a397df00098539754",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1056835,
+          "known_for_department": "Acting",
+          "name": "Roberto 'El Flaco' Guzmán",
+          "original_name": "Roberto 'El Flaco' Guzmán",
+          "popularity": 0.6912,
+          "profile_path": "/bhKn8w835ouxyTCUjphF2SuR4Ln.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "61bb136044a424006225851b",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1043524,
+          "known_for_department": "Acting",
+          "name": "Eleazar García",
+          "original_name": "Eleazar García",
+          "popularity": 0.4271,
+          "profile_path": "/5tPrI8AYwAjas1lEOsAqgZI1n81.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "61bb1366e72fe800198090ce",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1044054,
+          "known_for_department": "Acting",
+          "name": "Roberta d'Nero",
+          "original_name": "Roberta d'Nero",
+          "popularity": 0.4368,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "67683c38919287ef53912fe1",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 943707,
+          "known_for_department": "Directing",
+          "name": "José Medina",
+          "original_name": "José Medina",
+          "popularity": 0.9878,
+          "profile_path": null,
+          "credit_id": "61bb1373c616ac009a16a8c3",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 943707,
+          "known_for_department": "Directing",
+          "name": "José Medina",
+          "original_name": "José Medina",
+          "popularity": 0.9878,
+          "profile_path": null,
+          "credit_id": "61bb13790443c900874fd5a9",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 933660,
+          "known_for_department": "Production",
+          "name": "Jorge Aguirre",
+          "original_name": "Jorge Aguirre",
+          "popularity": 1.2007,
+          "profile_path": null,
+          "credit_id": "61bb13946a300b001d90dc9d",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1997-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

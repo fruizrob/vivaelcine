@@ -1,0 +1,409 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/490410?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:43.531Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/o016Kp8GCOgamnvVulm3AmFCl5p.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 10770,
+        "name": "Película de TV"
+      }
+    ],
+    "homepage": "",
+    "id": 490410,
+    "imdb_id": "tt7422638",
+    "origin_country": [
+      "CA",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "48 Christmas Wishes",
+    "overview": "Cuando las cartas a Santa Claus de los habitantes de un pequeño pueblo se extravían, dos elfos dejan el Polo Norte para recuperar todos los deseos perdidos.",
+    "popularity": 1.8332,
+    "poster_path": "/yz3BdtQuWxBvjyXqhwLCdzbTxj.jpg",
+    "production_companies": [
+      {
+        "id": 170857,
+        "logo_path": "/583tGqXU1c7HewprC5f30o7LASt.png",
+        "name": "Nicely Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 36812,
+        "logo_path": "/t0cibwMPVH7RD7UsQNqmugDMnw7.png",
+        "name": "Gaumont International Television",
+        "origin_country": "US"
+      },
+      {
+        "id": 9,
+        "logo_path": "/h4zSRszvKHr1tjqEp8voJVahuza.png",
+        "name": "Gaumont",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2017-12-01",
+    "revenue": 0,
+    "runtime": 84,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "48 deseos de Navidad",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 106,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1927496,
+          "known_for_department": "Acting",
+          "name": "Madeline Leon",
+          "original_name": "Madeline Leon",
+          "popularity": 0.8878,
+          "profile_path": "/cDFtMp53Db8aOA0kom9aPInhOKX.jpg",
+          "cast_id": 2,
+          "character": "Lara",
+          "credit_id": "5a240898c3a3680b960c7512",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1913111,
+          "known_for_department": "Acting",
+          "name": "Liam MacDonald",
+          "original_name": "Liam MacDonald",
+          "popularity": 1.0117,
+          "profile_path": "/7SabpM8ejGHU6MGGpPicUgpaBRe.jpg",
+          "cast_id": 3,
+          "character": "Blake",
+          "credit_id": "5a2408b3925141032c0c926e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1934126,
+          "known_for_department": "Acting",
+          "name": "Clara Kushnir",
+          "original_name": "Clara Kushnir",
+          "popularity": 0.5092,
+          "profile_path": "/qGbLnRRXV0y4dKn7a42dDRXylK8.jpg",
+          "cast_id": 1,
+          "character": "Mindy",
+          "credit_id": "5a24088492514103300c2571",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4293966,
+          "known_for_department": "Acting",
+          "name": "Elizabeth Ellsworth",
+          "original_name": "Elizabeth Ellsworth",
+          "popularity": 0.3937,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Emma",
+          "credit_id": "6514587ac50ad200eabc586a",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1934125,
+          "known_for_department": "Acting",
+          "name": "Maya Franzoi",
+          "original_name": "Maya Franzoi",
+          "popularity": 0.4604,
+          "profile_path": "/xUn2MfQUTg957CaTLArhJTswVzu.jpg",
+          "cast_id": 0,
+          "character": "Sammy",
+          "credit_id": "5a240868c3a3680b960c74ed",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1635795,
+          "known_for_department": "Production",
+          "name": "Matt Schichter",
+          "original_name": "Matt Schichter",
+          "popularity": 0.7979,
+          "profile_path": "/vZF61Iaja2ncKEZMadtDZa5M0bF.jpg",
+          "cast_id": 4,
+          "character": "Business Man",
+          "credit_id": "5a2408d7c3a3680b8a0c4dd0",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1934128,
+          "known_for_department": "Acting",
+          "name": "Ethan Yang",
+          "original_name": "Ethan Yang",
+          "popularity": 0.7391,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Cam",
+          "credit_id": "5a2408fa92514103240c5c4b",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1934130,
+          "known_for_department": "Acting",
+          "name": "Adam Crew",
+          "original_name": "Adam Crew",
+          "popularity": 0.6502,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Pageant Patron",
+          "credit_id": "5a24091a0e0a264cc80ced3c",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2103859,
+          "known_for_department": "Acting",
+          "name": "Khiyla Aynne",
+          "original_name": "Khiyla Aynne",
+          "popularity": 0.464,
+          "profile_path": "/chhhLUUX8SITOt13JwTGExMIlQL.jpg",
+          "cast_id": 18,
+          "character": "Sherry",
+          "credit_id": "6514585793bd6900c4dd622d",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2184047,
+          "known_for_department": "Acting",
+          "name": "Paul Dick",
+          "original_name": "Paul Dick",
+          "popularity": 0.2715,
+          "profile_path": "/pDbZnX8CEaX8RnPAH2A3d0YCSv1.jpg",
+          "cast_id": 20,
+          "character": "Santa",
+          "credit_id": "651458a3c50ad200eabc5876",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1801075,
+          "known_for_department": "Acting",
+          "name": "Bruce Gram",
+          "original_name": "Bruce Gram",
+          "popularity": 0.1599,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Benny",
+          "credit_id": "651458bcc50ad200eabc5881",
+          "order": 10
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 123480,
+          "known_for_department": "Acting",
+          "name": "Patrick McBrearty",
+          "original_name": "Patrick McBrearty",
+          "popularity": 0.5124,
+          "profile_path": null,
+          "credit_id": "65144cddbdd56800c7cf08de",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3763584,
+          "known_for_department": "Sound",
+          "name": "Lorenzo Castelli",
+          "original_name": "Lorenzo Castelli",
+          "popularity": 0.2461,
+          "profile_path": null,
+          "credit_id": "65144cf2c50ad2012c1739ed",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1923463,
+          "known_for_department": "Crew",
+          "name": "Martin Buzora",
+          "original_name": "Martin Buzora",
+          "popularity": 0.309,
+          "profile_path": null,
+          "credit_id": "65144d08c50ad200c919384a",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2442229,
+          "known_for_department": "Art",
+          "name": "Allie Thompson",
+          "original_name": "Allie Thompson",
+          "popularity": 0.4129,
+          "profile_path": null,
+          "credit_id": "65144d19cadb6b02bc0b6628",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1927361,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Kenda Hoggan",
+          "original_name": "Kenda Hoggan",
+          "popularity": 0.3391,
+          "profile_path": null,
+          "credit_id": "65144d2f9b861600acadc047",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1911937,
+          "known_for_department": "Directing",
+          "name": "Marco Deufemia",
+          "original_name": "Marco Deufemia",
+          "popularity": 1.2084,
+          "profile_path": null,
+          "credit_id": "65144eba0499f200c44e5281",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1620179,
+          "known_for_department": "Writing",
+          "name": "Neale Kimmel",
+          "original_name": "Neale Kimmel",
+          "popularity": 0.8904,
+          "profile_path": "/u3dUPofu16jxqxuDtTjOa1mzhAX.jpg",
+          "credit_id": "5a240937c3a3680b9d0be2be",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1911937,
+          "known_for_department": "Directing",
+          "name": "Marco Deufemia",
+          "original_name": "Marco Deufemia",
+          "popularity": 1.2084,
+          "profile_path": null,
+          "credit_id": "5a24094f92514103330c4bae",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1182311,
+          "known_for_department": "Directing",
+          "name": "Justin G. Dyck",
+          "original_name": "Justin G. Dyck",
+          "popularity": 0.4598,
+          "profile_path": "/duJJXmdxmAk67tVEi5MEE0KcQLt.jpg",
+          "credit_id": "5a240961c3a3680b9a0d1c36",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1090614,
+          "known_for_department": "Production",
+          "name": "Mitchell Rubinstein",
+          "original_name": "Mitchell Rubinstein",
+          "popularity": 0.1374,
+          "profile_path": null,
+          "credit_id": "6656934e192dc8f70a2147f2",
+          "department": "Production",
+          "job": "Casting Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Netflix",
+              "release_date": "2018-11-07T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "BYUtv",
+              "release_date": "2017-12-01T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "MX",
+          "title": "48 Deseos De Navidad",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "NO",
+          "title": "48 juleønsker",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

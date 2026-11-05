@@ -1,0 +1,135 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1761036?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:08.884Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1761036,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "Ya no hace tanto frío en la primavera",
+    "overview": "",
+    "popularity": 0.4866,
+    "poster_path": "/wXD43ymyvqA5d2okLhYggnV0twX.jpg",
+    "production_companies": [
+      {
+        "id": 90682,
+        "logo_path": "/5RROwbMM2TNqISJUWfRrDEQu31V.png",
+        "name": "Pontificia Universidad Católica de Chile",
+        "origin_country": "CL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "2026-11-13",
+    "revenue": 0,
+    "runtime": 16,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Ya no hace tanto frío en la primavera",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6453544,
+          "known_for_department": "Directing",
+          "name": "Sebastián Melo Romero",
+          "original_name": "Sebastián Melo Romero",
+          "popularity": 0.095,
+          "profile_path": "/gQCq1x0Uj5J9bpQuuT9RX1QXL9X.jpg",
+          "credit_id": "6a98c28b0b02b9397c992d80",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6453544,
+          "known_for_department": "Directing",
+          "name": "Sebastián Melo Romero",
+          "original_name": "Sebastián Melo Romero",
+          "popularity": 0.095,
+          "profile_path": "/gQCq1x0Uj5J9bpQuuT9RX1QXL9X.jpg",
+          "credit_id": "6ad79b85c339edc5eea50913",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6453544,
+          "known_for_department": "Directing",
+          "name": "Sebastián Melo Romero",
+          "original_name": "Sebastián Melo Romero",
+          "popularity": 0.095,
+          "profile_path": "/gQCq1x0Uj5J9bpQuuT9RX1QXL9X.jpg",
+          "credit_id": "6ad79b908315c615041dc6b6",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5574729,
+          "known_for_department": "Production",
+          "name": "Angélica Sandoval",
+          "original_name": "Angélica Sandoval",
+          "popularity": 0.2715,
+          "profile_path": null,
+          "credit_id": "6ad79bb09fd54d990d7a5819",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "FIDOCS",
+              "release_date": "2026-11-13T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

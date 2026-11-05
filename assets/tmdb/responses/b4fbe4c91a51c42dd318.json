@@ -1,0 +1,81 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Humedal&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:20.018Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1340771,
+        "title": "El Humedal",
+        "original_language": "es",
+        "original_title": "El Humedal",
+        "overview": "",
+        "popularity": 1.2276,
+        "poster_path": "/8USxZSjXH0trw1lIKQOaLG96to9.jpg",
+        "release_date": "2024-09-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1759136,
+        "title": "Humedal",
+        "original_language": "es",
+        "original_title": "Humedal",
+        "overview": "",
+        "popularity": 0.3366,
+        "poster_path": null,
+        "release_date": "2025-12-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iDtXuGMbAAn3wqURJbu4H0vGUqc.jpg",
+        "genre_ids": [],
+        "id": 1410017,
+        "title": "Humedal",
+        "original_language": "es",
+        "original_title": "Humedal",
+        "overview": "Humedal fue creado por encargo del IU Libraries Moving Image Archive en honor al centenario de la película de 16 mm no inflamable. Humedal muestra el humedal de Batuco, ubicado en la región metropolitana de Chile. Esta zona es una parte fundamental del ecosistema y funciona como un importante lugar de descanso para las aves migratorias. A pesar de su gran relevancia, el humedal de Batuco enfrenta constantes amenazas debido a la contaminación ambiental y la falta de regulación de las actividades agrícolas en sus alrededores. Sin embargo, persiste. (Jeannette Muñoz)",
+        "popularity": 0.303,
+        "poster_path": "/7MQGBbrZl4tu6XBeq2J4Ed6w7v3.jpg",
+        "release_date": "2023-01-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oosJ0UOMxfmMLnEcgLo5GktdRUL.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 86916,
+        "title": "Humedales",
+        "original_language": "fr",
+        "original_title": "Marécages",
+        "overview": "Guy Édoin dirige este drama que tiene como protagonista a una familia de granjeros, eligiendo como escenario de la misma la propia granja de su familia en Québec.",
+        "popularity": 0.8067,
+        "poster_path": "/zOxknv6FpXepKssj7n54PZIUWca.jpg",
+        "release_date": "2011-09-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 12
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+  }
+}

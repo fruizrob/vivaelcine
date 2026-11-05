@@ -1,0 +1,162 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/300990?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:34.303Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/x0ko95L0tPE0G5wJIYIXZYNMiOJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 300990,
+    "imdb_id": "tt0083563",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Animales racionales",
+    "overview": "Por una sucesión de explosiones nucleares, el mundo se autodestruye y en él sólo quedan con vida tres seres, dos hombres, y una mujer, hermana de uno de ellos.",
+    "popularity": 1.6189,
+    "poster_path": "/mFSZhDiCinUcNP1c4vcGUwQTpyg.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "1983-01-28",
+    "revenue": 0,
+    "runtime": 97,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "...porque todo final es el comienzo de un principio",
+    "title": "Animales racionales",
+    "video": false,
+    "vote_average": 4,
+    "vote_count": 20,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3246046,
+          "known_for_department": "Acting",
+          "name": "Carole Kirkham",
+          "original_name": "Carole Kirkham",
+          "popularity": 0.3273,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Sister",
+          "credit_id": "614dcee39f51af0045014006",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3246047,
+          "known_for_department": "Acting",
+          "name": "Geir Indvard",
+          "original_name": "Geir Indvard",
+          "popularity": 0.1425,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Brother",
+          "credit_id": "614dcef39f51af0045014048",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 582007,
+          "known_for_department": "Acting",
+          "name": "José Yepes",
+          "original_name": "José Yepes",
+          "popularity": 0.4409,
+          "profile_path": "/2sVKF2O78Ijw1CMpTKGjylZ6Ead.jpg",
+          "cast_id": 4,
+          "character": "Man",
+          "credit_id": "614dcf019f51af009364fe22",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1380580,
+          "known_for_department": "Writing",
+          "name": "Eligio Herrero",
+          "original_name": "Eligio Herrero",
+          "popularity": 0.3704,
+          "profile_path": null,
+          "credit_id": "614dcec20328b90043387a5a",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1380580,
+          "known_for_department": "Writing",
+          "name": "Eligio Herrero",
+          "original_name": "Eligio Herrero",
+          "popularity": 0.3704,
+          "profile_path": null,
+          "credit_id": "56e400f6c3a3685a96002fd5",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1983-01-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RO",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1983-01-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

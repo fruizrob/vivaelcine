@@ -1,0 +1,31 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=CENIZA+EN+LA+BOCA&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-05T16:45:23.711Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/2Yvdd2aAk0WNWrhW93Qbrsu326l.jpg",
+        "genre_ids": [
+          53,
+          18
+        ],
+        "id": 1623608,
+        "title": "Ceniza en la Boca",
+        "original_language": "es",
+        "original_title": "Ceniza en la Boca",
+        "overview": "En busca de una vida mejor, Lucila viaja con su hermano Diego desde México para encontrarse con su madre en Madrid, quien lleva ahí ocho años trabajando ilegalmente para mantenerlos. Al llegar, la vida que los espera resulta más dura de lo que imaginaban.",
+        "popularity": 2.7231,
+        "poster_path": "/mO2OqwqlCcBZ3QYcxIfafW37Uey.jpg",
+        "release_date": "2026-10-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

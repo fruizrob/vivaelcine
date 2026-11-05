@@ -1,0 +1,368 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/345649?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:03.809Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 345649,
+    "imdb_id": "tt0068479",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Les deux saisons de la vie",
+    "overview": "",
+    "popularity": 0.6987,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 56097,
+        "logo_path": null,
+        "name": "Les productions de l'aube",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      }
+    ],
+    "release_date": "1975-02-05",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Les deux saisons de la vie",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1479973,
+          "known_for_department": "Acting",
+          "name": "Stéphane Guss",
+          "original_name": "Stéphane Guss",
+          "popularity": 0.1648,
+          "profile_path": null,
+          "cast_id": 0,
+          "character": "L'enfant",
+          "credit_id": "558732a792514155b7000027",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 267806,
+          "known_for_department": "Acting",
+          "name": "Catherine Alcover",
+          "original_name": "Catherine Alcover",
+          "popularity": 0.7203,
+          "profile_path": "/pJ22P67YJuOYphhHTYENEy3QE7I.jpg",
+          "cast_id": 1,
+          "character": "La seconde mère",
+          "credit_id": "558732c2c3a368273b006247",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1479974,
+          "known_for_department": "Acting",
+          "name": "Jean Ludow",
+          "original_name": "Jean Ludow",
+          "popularity": 0.1678,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "La père",
+          "credit_id": "558732d5c3a36827350061b2",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1340795,
+          "known_for_department": "Directing",
+          "name": "Samy Pavel",
+          "original_name": "Samy Pavel",
+          "popularity": 0.3246,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Le compositeur",
+          "credit_id": "558732e892514155b700002f",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1479975,
+          "known_for_department": "Acting",
+          "name": "Nathalie Dalyan",
+          "original_name": "Nathalie Dalyan",
+          "popularity": 0.4002,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "La mère morte",
+          "credit_id": "55873303c3a3682746006624",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6265683,
+          "known_for_department": "Acting",
+          "name": "François-Xavier Jeanmart",
+          "original_name": "François-Xavier Jeanmart",
+          "popularity": 0.1403,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "",
+          "credit_id": "6a22d3265af03a76e155b5fe",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6265684,
+          "known_for_department": "Acting",
+          "name": "Joseph Decateuw",
+          "original_name": "Joseph Decateuw",
+          "popularity": 0.1573,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "",
+          "credit_id": "6a22d33b2e44e131d75015bb",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6265685,
+          "known_for_department": "Acting",
+          "name": "Pierre Milhet",
+          "original_name": "Pierre Milhet",
+          "popularity": 0.1881,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "",
+          "credit_id": "6a22d38bb2c70c1c8b5016db",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6265688,
+          "known_for_department": "Acting",
+          "name": "Daniel Mertens",
+          "original_name": "Daniel Mertens",
+          "popularity": 0.1574,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "",
+          "credit_id": "6a22d3a7ce8cc130ecb6296c",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6265689,
+          "known_for_department": "Acting",
+          "name": "Renaud Jeanmart",
+          "original_name": "Renaud Jeanmart",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "",
+          "credit_id": "6a22d3bb2e44e131d75015cb",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 929007,
+          "known_for_department": "Acting",
+          "name": "Michèle Sand",
+          "original_name": "Michèle Sand",
+          "popularity": 0.3626,
+          "profile_path": "/hyRdfAP5uKWPT3jSuEEdeUEUcDY.jpg",
+          "cast_id": 17,
+          "character": "",
+          "credit_id": "6a22d3d42e44e131d75015cf",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6265694,
+          "known_for_department": "Acting",
+          "name": "Michel Verhulst",
+          "original_name": "Michel Verhulst",
+          "popularity": 0.113,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "",
+          "credit_id": "6a22d40eb447a06b1bce3bb1",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1512104,
+          "known_for_department": "Acting",
+          "name": "Serge Spira",
+          "original_name": "Serge Spira",
+          "popularity": 0.2639,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "",
+          "credit_id": "6a22d42628dd692f38372fe0",
+          "order": 12
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1259,
+          "known_for_department": "Sound",
+          "name": "Ennio Morricone",
+          "original_name": "Ennio Morricone",
+          "popularity": 0.8591,
+          "profile_path": "/AnItysU3XsiUpAuBN7gpA1R2aNl.jpg",
+          "credit_id": "558733519251417f6f0062ea",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1340795,
+          "known_for_department": "Directing",
+          "name": "Samy Pavel",
+          "original_name": "Samy Pavel",
+          "popularity": 0.3246,
+          "profile_path": null,
+          "credit_id": "55873328c3a36836ea004c38",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 18333,
+          "known_for_department": "Editing",
+          "name": "Roberto Perpignani",
+          "original_name": "Roberto Perpignani",
+          "popularity": 0.4859,
+          "profile_path": "/tNwHnbaTIc9cUfWONfr4cD9IEGC.jpg",
+          "credit_id": "5587337192514168180005a8",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 267806,
+          "known_for_department": "Acting",
+          "name": "Catherine Alcover",
+          "original_name": "Catherine Alcover",
+          "popularity": 0.7203,
+          "profile_path": "/pJ22P67YJuOYphhHTYENEy3QE7I.jpg",
+          "credit_id": "558733329251411e8d0055f2",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 933326,
+          "known_for_department": "Camera",
+          "name": "Giuseppe Pinori",
+          "original_name": "Giuseppe Pinori",
+          "popularity": 0.1927,
+          "profile_path": null,
+          "credit_id": "5587335f9251416b00001002",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1340795,
+          "known_for_department": "Directing",
+          "name": "Samy Pavel",
+          "original_name": "Samy Pavel",
+          "popularity": 0.3246,
+          "profile_path": null,
+          "credit_id": "558733429251411dec005903",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1340795,
+          "known_for_department": "Directing",
+          "name": "Samy Pavel",
+          "original_name": "Samy Pavel",
+          "popularity": 0.3246,
+          "profile_path": null,
+          "credit_id": "5587331e9251416b00000fff",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1975-02-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "IT",
+          "title": "Le due stagioni della vita",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BE",
+          "title": "Twee seizoenen van het leven",
+          "type": "Flemish title"
+        }
+      ]
+    }
+  }
+}

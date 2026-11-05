@@ -1,0 +1,28 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=%D5%8E%D5%A5%D6%80%D5%BB%D5%A8+%28Verj%29&include_adult=false&language=es-ES&year=1992",
+  "retrievedAt": "2026-11-05T16:45:01.727Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/2djPmqqxye3gTQEzKeeTxhKJ48Y.jpg",
+        "genre_ids": [],
+        "id": 200148,
+        "title": "Վերջը",
+        "original_language": "hy",
+        "original_title": "Վերջը",
+        "overview": "",
+        "popularity": 0.4764,
+        "poster_path": "/s3DZKwvcZQxKFjjf4aR1qtxndwP.jpg",
+        "release_date": "1992-01-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 28
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

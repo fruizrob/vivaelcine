@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=UNA+MUJER+FANT%C3%81STICA&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:41.958Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/hnDmX7PwpnrNrAQvYQgYemkS9Fx.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 429191,
+        "title": "Una mujer fantástica",
+        "original_language": "es",
+        "original_title": "Una mujer fantástica",
+        "overview": "Marina una joven camarera aspirante a cantante y Orlando, veinte años mayor, planean un futuro juntos. Tras una noche de fiesta, Marina lo lleva a urgencias, pero él muere al llegar al hospital. Ella debe entonces enfrentar las sospechas por su muerte. Su condición de mujer transexual supone para la familia de Orlando una completa aberración. Ella tendrá que luchar para convertirse en lo que es: una mujer fuerte, pasional… fantástica.",
+        "popularity": 3.0253,
+        "poster_path": "/uIlx33SKoJh3Ne0QmQDi9mlcjGx.jpg",
+        "release_date": "2017-04-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.005,
+        "vote_count": 763
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

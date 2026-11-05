@@ -1,0 +1,50 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=EL+CASTIGO&include_adult=false&language=es-ES&year=2022",
+  "retrievedAt": "2026-11-05T16:45:25.130Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/nLSxaIFn89TllahCKqyqOVhNJ1v.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1019239,
+        "title": "El castigo",
+        "original_language": "es",
+        "original_title": "El castigo",
+        "overview": "Ana y Mateo buscan desesperadamente a su hijo que se les ha perdido, después de haberlo dejado unos minutos solo como castigo por portarse mal, en un frondoso bosque junto a la carretera. Mientras comienza a anochecer y aun con la ayuda de la policía siguen sin poder encontrar al pequeño Lucas que parece haber sido tragado por este hermoso pero amenazante bosque. El suspense por la búsqueda de su hijo y la intriga de si logrará aparecer llevará a la pareja a replantearse su amor, sus vidas y sus propios roles en la familia.",
+        "popularity": 1.0408,
+        "poster_path": "/vOIjFRRaIQ5brDyys7GfUWr0hFz.jpg",
+        "release_date": "2022-09-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 24
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          10770
+        ],
+        "id": 943319,
+        "title": "Nie zu spät",
+        "original_language": "de",
+        "original_title": "Nie zu spät",
+        "overview": "",
+        "popularity": 0.7524,
+        "poster_path": "/tTTXJ99NivikxO7OWUTdA3XhJFg.jpg",
+        "release_date": "2022-02-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 4
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  }
+}

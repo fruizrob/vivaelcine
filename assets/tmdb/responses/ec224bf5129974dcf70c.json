@@ -1,0 +1,374 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/132144?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:44:48.955Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/ijGipE4DDF5YX3P0vg8JU6CmKSt.jpg",
+    "belongs_to_collection": {
+      "id": 647233,
+      "name": "Trilogia de la Batalla de Chile",
+      "poster_path": "/uEXfHrfuSLYQmYLD9sWpOOrTiZr.jpg",
+      "backdrop_path": "/ggulYW0jIvS9UGJfwMxgYhoKa8R.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "homepage": "",
+    "id": 132144,
+    "imdb_id": "tt0072685",
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "La batalla de Chile (Parte 1). La insurrección de la burguesía",
+    "overview": "Salvador Allende pone en marcha un programa de profundas transformaciones sociales y políticas. Desde el primer día la derecha organiza contra él una serie de huelgas salvajes mientras la Casa Blanca le asfixia económicamente. A pesar del boicot --en marzo de 1973-- los partidos que apoyan a Allende obtienen el 43,4 por ciento de los votos. La derecha comprende que los mecanismos legales ya no les sirven. De ahora en adelante su estrategia será la estrategia del golpe de estado. “La Batalla de Chile” es un fresco que muestra paso a paso estos hechos que conmovieron al mundo.",
+    "popularity": 1.0461,
+    "poster_path": "/iZMeh5TxvLPQ2aYF4ZyvhvkJDPh.jpg",
+    "production_companies": [
+      {
+        "id": 172101,
+        "logo_path": null,
+        "name": "Equipe Tercer Ano",
+        "origin_country": "CL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "CU",
+        "name": "Cuba"
+      },
+      {
+        "iso_3166_1": "VE",
+        "name": "Venezuela"
+      }
+    ],
+    "release_date": "1975-03-18",
+    "revenue": 0,
+    "runtime": 97,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La batalla de Chile (Parte 1). La insurrección de la burguesía",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 63,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 566295,
+          "known_for_department": "Acting",
+          "name": "Salvador Allende",
+          "original_name": "Salvador Allende",
+          "popularity": 0.2836,
+          "profile_path": "/xqmX8q6NN2fZTwDzWsgumckOleQ.jpg",
+          "cast_id": 2,
+          "character": "Self (archive footage)",
+          "credit_id": "581f62c992514168aa000f26",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1886016,
+          "known_for_department": "Acting",
+          "name": "Abilio Fernández",
+          "original_name": "Abilio Fernández",
+          "popularity": 0.5009,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Self - Narrator (voice)",
+          "credit_id": "59b682029251417ce2013770",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 566294,
+          "known_for_department": "Directing",
+          "name": "Patricio Guzmán",
+          "original_name": "Patricio Guzmán",
+          "popularity": 0.5603,
+          "profile_path": "/sTVhzhK2DAv1sRXxaZD5jgriO4e.jpg",
+          "credit_id": "52fe4b8ac3a368484e18e1cb",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3579575,
+          "known_for_department": "Directing",
+          "name": "Jose Bartolome",
+          "original_name": "Jose Bartolome",
+          "popularity": 0.1153,
+          "profile_path": null,
+          "credit_id": "629f513e7d5db5086bede5f6",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1189467,
+          "known_for_department": "Directing",
+          "name": "Julio García Espinosa",
+          "original_name": "Julio García Espinosa",
+          "popularity": 0.614,
+          "profile_path": "/nqzDSis6IjKVL4bCfhqneFP5JoZ.jpg",
+          "credit_id": "59b681dcc3a3682b0a012a44",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1459288,
+          "known_for_department": "Editing",
+          "name": "Pedro Chaskel",
+          "original_name": "Pedro Chaskel",
+          "popularity": 0.6575,
+          "profile_path": "/rfTMptymXkQqPRC6TVD6UQuwqWj.jpg",
+          "credit_id": "59b681c69251417d0f013aee",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1886015,
+          "known_for_department": "Writing",
+          "name": "Federico Elton",
+          "original_name": "Federico Elton",
+          "popularity": 0.1349,
+          "profile_path": null,
+          "credit_id": "59b681d1c3a3682aad013c53",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 566294,
+          "known_for_department": "Directing",
+          "name": "Patricio Guzmán",
+          "original_name": "Patricio Guzmán",
+          "popularity": 0.5603,
+          "profile_path": "/sTVhzhK2DAv1sRXxaZD5jgriO4e.jpg",
+          "credit_id": "59b681e79251417d0f013b10",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3792,
+          "known_for_department": "Sound",
+          "name": "Bernardo Menz",
+          "original_name": "Bernardo Menz",
+          "popularity": 0.8302,
+          "profile_path": "/qTWLLWTpeiQGUfKQg9NpxSKIFFA.jpg",
+          "credit_id": "5beeaee4c3a36818a30172f2",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1459288,
+          "known_for_department": "Editing",
+          "name": "Pedro Chaskel",
+          "original_name": "Pedro Chaskel",
+          "popularity": 0.6575,
+          "profile_path": "/rfTMptymXkQqPRC6TVD6UQuwqWj.jpg",
+          "credit_id": "5beeae880e0a26266f015a68",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 20036,
+          "known_for_department": "Camera",
+          "name": "Jorge Müller Silva",
+          "original_name": "Jorge Müller Silva",
+          "popularity": 0.6195,
+          "profile_path": "/kN4dynhHXnXVSm3wT4kiyhJs48E.jpg",
+          "credit_id": "5beeaea59251415cc1014d41",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1410458,
+          "known_for_department": "Directing",
+          "name": "José Juan Bartolomé",
+          "original_name": "José Juan Bartolomé",
+          "popularity": 0.6962,
+          "profile_path": null,
+          "credit_id": "5f8a905323851300343b3eae",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1819254,
+          "known_for_department": "Camera",
+          "name": "Adrian Cooper",
+          "original_name": "Adrian Cooper",
+          "popularity": 0.2244,
+          "profile_path": "/dLUAdbwjF2IA4Tt34FGtfmlSEe3.jpg",
+          "credit_id": "66e3fdc60000000000b984e9",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1298446,
+          "known_for_department": "Directing",
+          "name": "Pablo de la Barra",
+          "original_name": "Pablo de la Barra",
+          "popularity": 0.4432,
+          "profile_path": "/5MRv9bFrHP1guVQ2YC2pFKtbUrp.jpg",
+          "credit_id": "6a1e7964e105a230bb1adddc",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "São Paulo International Film Festival (Restored Version)",
+              "release_date": "2026-10-22T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "La Red",
+              "release_date": "2021-09-10T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1975-03-18T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1978-01-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "ES",
+          "title": "La batalla de Chile. Parte 1",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CL",
+          "title": "La batalla de Chile: La lucha de un pueblo sin armas - Primera parte: La insurrección de la burguesía",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CL",
+          "title": "La batalla de Chile: La lucha de un pueblo sin armas - Primera parte",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CL",
+          "title": "La insurrección de la burguesía",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CL",
+          "title": "La batalla de Chile: La insurrección de la burguesía",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "GB",
+          "title": "The Battle of Chile - Part I",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "The Insurrection of the Bourgeoisie",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "La bataille du Chili, Partie 1 : L'insurrection de la bourgeoisie",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Der Kampf um Chile: Der Aufstand der Bourgeoisie",
+          "type": "TV"
+        }
+      ]
+    }
+  }
+}
