@@ -3,6 +3,7 @@ import { clock, durationOf, endOf, initialDay, roomLocation, yearOf } from './co
 import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261105-years';
 import { screeningUrl } from './story.js?v=20261104-2';
 import { setupSharing } from './sharing.js?v=20261104-share-menu';
+import { renderFestivalHistory } from './festival-history.js?v=20261104-history-2';
 
 const data = festivalFor(location.search);
 const $ = selector => document.querySelector(selector);
@@ -128,6 +129,7 @@ function renderDetail() {
       ${ticket && ticket !== source ? `<a href="${esc(ticket)}" target="_blank" rel="noopener">Entradas ↗</a>` : ''}
       ${letterboxd ? `<a href="https://letterboxd.com/film/${esc(letterboxd)}/" target="_blank" rel="noopener">Letterboxd ↗</a>` : ''}
     </div>
+    ${renderFestivalHistory(data, event)}
     ${letterboxd ? `
       <iframe class="letterboxd-rating"
         src="https://embed.letterboxd.com/film/${esc(letterboxd)}/embed-histogram/?theme=light&notitle=true&nobackground=true"
@@ -138,7 +140,7 @@ function renderDetail() {
       <details>
         <summary>Películas del programa</summary>
         <ul class="short-list">${film.components.map(short => `
-          <li><a href="${esc(short.source)}" target="_blank" rel="noopener">${esc(short.title)}</a>${yearOf({}, short) ? ` · ${yearOf({}, short)}` : ''}${Number.isFinite(short.duration) ? ` · ${short.duration} min` : ''}${short.director ? `<br>${esc(short.director)}` : ''}${short.letterboxd ? `<br><a href="https://letterboxd.com/film/${esc(short.letterboxd)}/" target="_blank" rel="noopener" aria-label="${esc(short.title)} en Letterboxd">Letterboxd ↗</a>` : ''}</li>
+          <li><a href="${esc(short.source)}" target="_blank" rel="noopener">${esc(short.title)}</a>${yearOf({}, short) ? ` · ${yearOf({}, short)}` : ''}${Number.isFinite(short.duration) ? ` · ${short.duration} min` : ''}${short.director ? `<br>${esc(short.director)}` : ''}${short.letterboxd ? `<br><a href="https://letterboxd.com/film/${esc(short.letterboxd)}/" target="_blank" rel="noopener" aria-label="${esc(short.title)} en Letterboxd">Letterboxd ↗</a>` : ''}${renderFestivalHistory(data, event, short)}</li>
         `).join('')}</ul>
       </details>
     ` : ''}
