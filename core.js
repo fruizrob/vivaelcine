@@ -27,6 +27,11 @@ export function durationOf(event, films) {
   return Number.isFinite(duration) && duration > 0 ? duration : null;
 }
 
+export function yearOf(event, film) {
+  const year = Object.hasOwn(event, 'year') ? event.year : film.components ? null : film.year;
+  return Number.isInteger(year) && year >= 1000 && year <= 9999 ? year : null;
+}
+
 export function endOf(event, films) {
   const duration = durationOf(event, films);
   return Number.isFinite(duration) && duration > 0 ? event.start + duration : null;
