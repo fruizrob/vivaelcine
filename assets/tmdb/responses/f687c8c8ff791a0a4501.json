@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Benita&include_adult=false&language=es-ES&year=2025",
+  "retrievedAt": "2026-11-05T16:44:46.208Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/nXrAZYRWrGrrkmjU0GQPSxnSHPL.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1567524,
+        "title": "Benita",
+        "original_language": "en",
+        "original_title": "Benita",
+        "overview": "",
+        "popularity": 2.6731,
+        "poster_path": "/789s6i2QptzOotTJTEm3gkBPecs.jpg",
+        "release_date": "2025-11-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

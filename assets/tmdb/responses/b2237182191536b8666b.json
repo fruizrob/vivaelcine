@@ -1,0 +1,159 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1279081?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:42.485Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1279081,
+    "imdb_id": null,
+    "origin_country": [
+      "CL",
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Aquí se escucha el silencio",
+    "overview": "",
+    "popularity": 1.0463,
+    "poster_path": "/9fcR12RksTVcWAy5xGKuuuEulwJ.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      },
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2026-04-23",
+    "revenue": 0,
+    "runtime": 94,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Aquí se escucha el silencio",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2791476,
+          "known_for_department": "Production",
+          "name": "Picho García",
+          "original_name": "Picho García",
+          "popularity": 0.3387,
+          "profile_path": "/4RlyVjsSF0eRMurkoqZRfSXPWMX.jpg",
+          "credit_id": "66282a2a221ba6016314d0dc",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4671300,
+          "known_for_department": "Directing",
+          "name": "Gabriela Pena",
+          "original_name": "Gabriela Pena",
+          "popularity": 0.1839,
+          "profile_path": null,
+          "credit_id": "66282a3e221ba6017c176f7b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4671300,
+          "known_for_department": "Directing",
+          "name": "Gabriela Pena",
+          "original_name": "Gabriela Pena",
+          "popularity": 0.1839,
+          "profile_path": null,
+          "credit_id": "66282a4f63d937018775c5af",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2119789,
+          "known_for_department": "Production",
+          "name": "Gabriela Sandoval",
+          "original_name": "Gabriela Sandoval",
+          "popularity": 0.9693,
+          "profile_path": null,
+          "credit_id": "66282a5ab9a0bd0161d66a10",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2791476,
+          "known_for_department": "Production",
+          "name": "Picho García",
+          "original_name": "Picho García",
+          "popularity": 0.3387,
+          "profile_path": "/4RlyVjsSF0eRMurkoqZRfSXPWMX.jpg",
+          "credit_id": "66282a66af9590017d6bfa8c",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2348089,
+          "known_for_department": "Directing",
+          "name": "Efthymia Zymvragaki",
+          "original_name": "Efthymia Zymvragaki",
+          "popularity": 0.1719,
+          "profile_path": null,
+          "credit_id": "66282a7063d937018775c5c0",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Guadalajara International Film Festival",
+              "release_date": "2026-04-23T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

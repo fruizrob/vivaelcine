@@ -1,0 +1,87 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=POST+MORTEM&include_adult=false&language=es-ES&year=2010",
+  "retrievedAt": "2026-11-05T16:45:31.797Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/qjKHmLokI14sLVMJaTtqZ4TtYSI.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 56815,
+        "title": "Post Mortem",
+        "original_language": "es",
+        "original_title": "Post Mortem",
+        "overview": "Narra la historia de un empleado en la morgue de un hospital de Santiago de Chile durante los días previos al golpe de estado chileno de septiembre de 1973. Mario, de 55 años, trabaja pasando a máquina informes de autopsias en un depósito de cadáveres. En pleno golpe de Estado chileno de 1973, Mario fantasea con su vecina Nancy, bailarina de cabaret, que desaparece misteriosamente el 11 de septiembre. Tras un violento registro del Ejército en casa de ella, se entera de que han arrestado al hermano y al padre, destacado comunista y partidario de Salvador Allende. Preocupado y enloquecido por la desaparición de la que hubiera sido su amante, Mario se pone a buscar desesperadamente a Nancy. (FILMAFFINITY)",
+        "popularity": 1.0237,
+        "poster_path": "/c1itbBnAbtRS1zzN2OHfVKejz0E.jpg",
+        "release_date": "2010-07-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 65
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1814941,
+        "title": "Post mortem",
+        "original_language": "fr",
+        "original_title": "Post mortem",
+        "overview": "",
+        "popularity": 0.0459,
+        "poster_path": null,
+        "release_date": "2010-01-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27
+        ],
+        "id": 492633,
+        "title": "Post-Mortem",
+        "original_language": "en",
+        "original_title": "Post-Mortem",
+        "overview": "",
+        "popularity": 0.3934,
+        "poster_path": "/tcn2rNgkQpeGJaY75TXgGAIaW8G.jpg",
+        "release_date": "2010-09-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Pbr2ImzoDbE8CdGyencQpdEOdw.jpg",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "id": 13614,
+        "title": "Katyn",
+        "original_language": "pl",
+        "original_title": "Katyń",
+        "overview": "El 1 de septiembre de 1939, la Alemania nazi invade Polonia, dando principio a la Segunda Guerra Mundial. El 17 de septiembre, el Ejército Rojo soviético cruza la frontera. El ejército polaco, incapaz de luchar en dos frentes, es derrotado. Miles de hombres polacos, tanto militares como funcionarios gubernamentales, son capturados por los invasores. Su destino solo será conocido varios años después.",
+        "popularity": 3.2189,
+        "poster_path": "/3eXnRTqsjAZpcmSfG7N7ykaPxrF.jpg",
+        "release_date": "2007-09-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.692,
+        "vote_count": 292
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+  }
+}

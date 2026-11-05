@@ -1,0 +1,622 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/146521?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:01.024Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/diwiy9QIidKloFfKGlWlh24RwzX.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10752,
+        "name": "Bélica"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 146521,
+    "imdb_id": "tt0062026",
+    "origin_country": [
+      "SU"
+    ],
+    "original_language": "ru",
+    "original_title": "Начало неведомого века",
+    "overview": "",
+    "popularity": 0.8375,
+    "poster_path": "/e99SMRhIrUrWIldBWhFZ1PZjcTT.jpg",
+    "production_companies": [
+      {
+        "id": 87514,
+        "logo_path": null,
+        "name": "Experimental Film Studio",
+        "origin_country": "RU"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "SU",
+        "name": "Soviet Union"
+      }
+    ],
+    "release_date": "1967-12-31",
+    "revenue": 0,
+    "runtime": 73,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Начало неведомого века",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 16,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 270391,
+          "known_for_department": "Acting",
+          "name": "Леонид Кулагин",
+          "original_name": "Леонид Кулагин",
+          "popularity": 0.6847,
+          "profile_path": "/kMB8lLIdb7p5Ntah9JNWvJz91fD.jpg",
+          "cast_id": 3,
+          "character": "комиссар Парфенов (новелла «Ангел»)",
+          "credit_id": "52fe4b849251416c751057e5",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1124174,
+          "known_for_department": "Acting",
+          "name": "Сергей Вольф",
+          "original_name": "Сергей Вольф",
+          "popularity": 0.1541,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "интеллигент (новелла «Ангел»)",
+          "credit_id": "52fe4b849251416c751057e9",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 545794,
+          "known_for_department": "Directing",
+          "name": "Николай Губенко",
+          "original_name": "Николай Губенко",
+          "popularity": 0.5691,
+          "profile_path": "/mSJDdy9ecqgq9sUh4rjjr5XOMuB.jpg",
+          "cast_id": 6,
+          "character": "человек с коровой (новелла «Ангел»)",
+          "credit_id": "52fe4b849251416c751057f1",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 86753,
+          "known_for_department": "Acting",
+          "name": "Георгий Бурков",
+          "original_name": "Георгий Бурков",
+          "popularity": 0.4609,
+          "profile_path": "/npepfwQ0hdfDTkcIzghGr4fDgum.jpg",
+          "cast_id": 27,
+          "character": "студент (новелла «Ангел»)",
+          "credit_id": "643456d5391b9c114dbbf78a",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1093020,
+          "known_for_department": "Acting",
+          "name": "Игорь Класс",
+          "original_name": "Игорь Класс",
+          "popularity": 0.4611,
+          "profile_path": "/cxBo425bUZRQp9SsWb1D90YOjU8.jpg",
+          "cast_id": 23,
+          "character": "атаман Ангел (новелла «Ангел»)",
+          "credit_id": "59391c05c3a368783f00e0c4",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1124177,
+          "known_for_department": "Acting",
+          "name": "Евгений Горюнов",
+          "original_name": "Евгений Горюнов",
+          "popularity": 0.2002,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Степан Жаренов (озв. Валерий Носик) («Родина электричества»)",
+          "credit_id": "52fe4b849251416c751057f5",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1124179,
+          "known_for_department": "Acting",
+          "name": "Sergei Gorbatyuk",
+          "original_name": "Sergei Gorbatyuk",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Гриня (озв. Сергей Никоненко) («Родина электричества»)",
+          "credit_id": "52fe4b849251416c751057f9",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1980441,
+          "known_for_department": "Acting",
+          "name": "Иван Турченков",
+          "original_name": "Иван Турченков",
+          "popularity": 0.5099,
+          "profile_path": "/4Jo1MxAIxVPqiWhGRBF3tLtf03E.jpg",
+          "cast_id": 25,
+          "character": "сотрудник губисполкома («Родина электричества»)",
+          "credit_id": "63d15c50e72fe8008e60c373",
+          "order": 7
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 143285,
+          "known_for_department": "Directing",
+          "name": "Лариса Шепитько",
+          "original_name": "Лариса Шепитько",
+          "popularity": 1.0421,
+          "profile_path": "/xIlTGpHdmkJZGfyoJd7yd2Hzj2o.jpg",
+          "credit_id": "52fe4b849251416c751057db",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 235876,
+          "known_for_department": "Directing",
+          "name": "Андрей Смирнов",
+          "original_name": "Андрей Смирнов",
+          "popularity": 0.5275,
+          "profile_path": "/ivSgZ1WiD6VJx9f5yR0YJu38W7r.jpg",
+          "credit_id": "52fe4b849251416c751057e1",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1772142,
+          "known_for_department": "Writing",
+          "name": "Илья Суслов",
+          "original_name": "Илья Суслов",
+          "popularity": 0.1262,
+          "profile_path": null,
+          "credit_id": "58bfe1b39251412e030067da",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1772143,
+          "known_for_department": "Camera",
+          "name": "Дмитрий Коржихин",
+          "original_name": "Дмитрий Коржихин",
+          "popularity": 0.404,
+          "profile_path": null,
+          "credit_id": "58bfe1f59251412e3b00656d",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 47947,
+          "known_for_department": "Camera",
+          "name": "Mikhail Suslov",
+          "original_name": "Mikhail Suslov",
+          "popularity": 0.2117,
+          "profile_path": "/2lW2icKMdFpfjIhIQV52dHzlXkH.jpg",
+          "credit_id": "58bfe1d39251412e09006929",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 69538,
+          "known_for_department": "Camera",
+          "name": "Павел Лебешев",
+          "original_name": "Павел Лебешев",
+          "popularity": 0.7432,
+          "profile_path": "/rNZSI2cZmApIRaofla8Ocx0mtAu.jpg",
+          "credit_id": "58bfe1eac3a3686967005eaa",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1558902,
+          "known_for_department": "Directing",
+          "name": "Борис Ермолаев",
+          "original_name": "Борис Ермолаев",
+          "popularity": 0.5771,
+          "profile_path": null,
+          "credit_id": "58bfe1abc3a3686967005e8d",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 143285,
+          "known_for_department": "Directing",
+          "name": "Лариса Шепитько",
+          "original_name": "Лариса Шепитько",
+          "popularity": 1.0421,
+          "profile_path": "/xIlTGpHdmkJZGfyoJd7yd2Hzj2o.jpg",
+          "credit_id": "58bfe1e19251412e1a00671b",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1092911,
+          "known_for_department": "Sound",
+          "name": "Альфред Шнитке",
+          "original_name": "Альфред Шнитке",
+          "popularity": 0.3663,
+          "profile_path": "/9nMpPfn2ZySNMowVYcetQ1PQreA.jpg",
+          "credit_id": "68e66c7f5060055a651eb473",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 995113,
+          "known_for_department": "Sound",
+          "name": "Роман Леденёв",
+          "original_name": "Роман Леденёв",
+          "popularity": 0.2671,
+          "profile_path": "/sh1KpQBHD1BUlLo8uSNoiNExREQ.jpg",
+          "credit_id": "68e66c8da0a061a91ba996cd",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1640504,
+          "known_for_department": "Writing",
+          "name": "Андрей Платонов",
+          "original_name": "Андрей Платонов",
+          "popularity": 0.3331,
+          "profile_path": "/sNkMXo2wvK0RE5j9tnejJd6o5nU.jpg",
+          "credit_id": "69763387a8504532491068f4",
+          "department": "Writing",
+          "job": "Short Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1189581,
+          "known_for_department": "Writing",
+          "name": "Юрий Олеша",
+          "original_name": "Юрий Олеша",
+          "popularity": 0.5393,
+          "profile_path": "/5ZssyeK1vsmEOAaQZMcsEKzC22l.jpg",
+          "credit_id": "69763392a3aaa72404ae36bb",
+          "department": "Writing",
+          "job": "Short Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1772146,
+          "known_for_department": "Art",
+          "name": "Валерий Кострин",
+          "original_name": "Валерий Кострин",
+          "popularity": 0.315,
+          "profile_path": "/16rVRItJfEXHBIvZrLHadITntwK.jpg",
+          "credit_id": "698685a76be67888b08084c9",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1722969,
+          "known_for_department": "Art",
+          "name": "Владимир Коровин",
+          "original_name": "Владимир Коровин",
+          "popularity": 0.1684,
+          "profile_path": null,
+          "credit_id": "6a53c0c5d00ee6a1b1fa3014",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2481749,
+          "known_for_department": "Sound",
+          "name": "Роман Берз",
+          "original_name": "Роман Берз",
+          "popularity": 0.3813,
+          "profile_path": null,
+          "credit_id": "6a53c0d9ed40f95e3a3a77e7",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5384252,
+          "known_for_department": "Costume & Make-Up",
+          "name": "G. Kazakova",
+          "original_name": "G. Kazakova",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6a53c0eba1927fa4b03a77b3",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6343306,
+          "known_for_department": "Costume & Make-Up",
+          "name": "L. Bufetova",
+          "original_name": "L. Bufetova",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6a53c11303ae53eb743a7ae7",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1820894,
+          "known_for_department": "Editing",
+          "name": "Галина Баранова",
+          "original_name": "Галина Баранова",
+          "popularity": 0.1372,
+          "profile_path": null,
+          "credit_id": "6a53c135a15c4597d7ced68c",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1998412,
+          "known_for_department": "Editing",
+          "name": "Любовь Бутузова",
+          "original_name": "Любовь Бутузова",
+          "popularity": 0.1492,
+          "profile_path": null,
+          "credit_id": "6a53c13df76c47478e873ba5",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1726008,
+          "known_for_department": "Directing",
+          "name": "Юсуп Даниялов",
+          "original_name": "Юсуп Даниялов",
+          "popularity": 0.6298,
+          "profile_path": "/xskSafbaD1YZ3fNik0KKqVuWSCa.jpg",
+          "credit_id": "6a53c174e7c8e7de50873d20",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1820893,
+          "known_for_department": "Camera",
+          "name": "Вадим Грамматиков",
+          "original_name": "Вадим Грамматиков",
+          "popularity": 0.2689,
+          "profile_path": null,
+          "credit_id": "6a53c1a27616738a8ea53469",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5388319,
+          "known_for_department": "Production",
+          "name": "Полина Борисова",
+          "original_name": "Полина Борисова",
+          "popularity": 0.225,
+          "profile_path": null,
+          "credit_id": "6a53c1b483dd1b3306338da0",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1772145,
+          "known_for_department": "Art",
+          "name": "Валентин Коновалов",
+          "original_name": "Валентин Коновалов",
+          "popularity": 0.1866,
+          "profile_path": "/xOUYJxv0Z6Qh4grJmE2RwrEVtuK.jpg",
+          "credit_id": "6a53c201fb31fcd5bd33914a",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1584713,
+          "known_for_department": "Sound",
+          "name": "Евгений Кашкевич",
+          "original_name": "Евгений Кашкевич",
+          "popularity": 0.2329,
+          "profile_path": null,
+          "credit_id": "6a53c21775abca236ca7f6f3",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4361376,
+          "known_for_department": "Costume & Make-Up",
+          "name": "N. Kibalchich",
+          "original_name": "N. Kibalchich",
+          "popularity": 0.2093,
+          "profile_path": null,
+          "credit_id": "6a53c22bbcf0b32957f5dd90",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5373745,
+          "known_for_department": "Costume & Make-Up",
+          "name": "E. Parfenyuk",
+          "original_name": "E. Parfenyuk",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "credit_id": "6a53c23e2fb6981277fa3622",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1092913,
+          "known_for_department": "Editing",
+          "name": "Валерия Белова",
+          "original_name": "Валерия Белова",
+          "popularity": 0.2321,
+          "profile_path": "/zKCJCIWukTUo28ksi46ZT5HYW9b.jpg",
+          "credit_id": "6a53c252a15c4597d7ced6d0",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4797757,
+          "known_for_department": "Directing",
+          "name": "Александра Лютова",
+          "original_name": "Александра Лютова",
+          "popularity": 0.3266,
+          "profile_path": null,
+          "credit_id": "6a53c27e275cb80e9e3a7c29",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6343321,
+          "known_for_department": "Directing",
+          "name": "T. Gavrilova",
+          "original_name": "T. Gavrilova",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6a53c290f63cd14837aece4a",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2311300,
+          "known_for_department": "Camera",
+          "name": "Валерий Шувалов",
+          "original_name": "Валерий Шувалов",
+          "popularity": 0.5517,
+          "profile_path": "/l2kQcroDO0Ccubn4pBCCaDjQ6Wv.jpg",
+          "credit_id": "6a53c2c9ed40f95e3a3a77f5",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5385620,
+          "known_for_department": "Production",
+          "name": "Andrey Demchenko",
+          "original_name": "Andrey Demchenko",
+          "popularity": 0.1132,
+          "profile_path": null,
+          "credit_id": "6a53c2e6359af0d9e73a796d",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4228789,
+          "known_for_department": "Directing",
+          "name": "Леонид Гуревич",
+          "original_name": "Леонид Гуревич",
+          "popularity": 0.3885,
+          "profile_path": null,
+          "credit_id": "6a6b3df67435a5bc129a3898",
+          "department": "Writing",
+          "job": "Script Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "RU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1967-12-31T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "RU",
+          "title": "Nachalo nevedomogo veka",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

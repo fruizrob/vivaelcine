@@ -1,0 +1,1264 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1553?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:35.346Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/xqjIVyovqfl3g6u0kJEvteclrbc.jpg",
+    "belongs_to_collection": null,
+    "budget": 6400000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "id": 1553,
+    "imdb_id": "tt0411270",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "De battre mon cœur s'est arrêté",
+    "overview": "Tom tiene 28 años y está destinado a seguir los pasos de su padre en el sórdido y a veces brutal negocio inmobiliario. Pero, gracias a un encuentro casual, concibe la ilusión de que puede llegar a ser, como su madre, un pianista. Con gran determinación, comienza a prepararse para una audición con una virtuosa pianista china. Como ella no habla ni una palabra de francés, la música será el único medio de comunicación entre ambos. En estas circunstancias, su trabajo diario le resultará cada vez más sórdido e insoportable.",
+    "popularity": 3.2021,
+    "poster_path": "/2ZUIPYs3rRM7p9JPHMkHzG7vofO.jpg",
+    "production_companies": [
+      {
+        "id": 729,
+        "logo_path": "/hNxGdbddbsDDnEWJ7RNLcGCRSLQ.png",
+        "name": "Why Not Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 10897,
+        "logo_path": null,
+        "name": "Sédif Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 591,
+        "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+        "name": "France 3 Cinéma",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2005-03-16",
+    "revenue": 9293785,
+    "runtime": 105,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      },
+      {
+        "english_name": "Vietnamese",
+        "iso_639_1": "vi",
+        "name": "Tiếng Việt"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "De latir mi  corazón se ha parado",
+    "video": false,
+    "vote_average": 6.901,
+    "vote_count": 510,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17497,
+          "known_for_department": "Acting",
+          "name": "Romain Duris",
+          "original_name": "Romain Duris",
+          "popularity": 1.387,
+          "profile_path": "/70KN228eNpvouPTCxDSurnCzx9G.jpg",
+          "cast_id": 3,
+          "character": "Thomas Seyr",
+          "credit_id": "52fe42fdc3a36847f803208f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17498,
+          "known_for_department": "Acting",
+          "name": "Niels Arestrup",
+          "original_name": "Niels Arestrup",
+          "popularity": 0.7365,
+          "profile_path": "/cGBSXuGCgXNMdXJAQhhLCf4hxAn.jpg",
+          "cast_id": 4,
+          "character": "Robert Seyr",
+          "credit_id": "52fe42fdc3a36847f8032093",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17499,
+          "known_for_department": "Acting",
+          "name": "Jonathan Zaccaï",
+          "original_name": "Jonathan Zaccaï",
+          "popularity": 1.0415,
+          "profile_path": "/2t0yMSRcL9B2aI1wMknL9TmKENS.jpg",
+          "cast_id": 5,
+          "character": "Fabrice",
+          "credit_id": "52fe42fdc3a36847f8032097",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17500,
+          "known_for_department": "Acting",
+          "name": "Gilles Cohen",
+          "original_name": "Gilles Cohen",
+          "popularity": 0.5637,
+          "profile_path": "/df8YyJdBcritBlohD9AEOQZDsPd.jpg",
+          "cast_id": 6,
+          "character": "Sami",
+          "credit_id": "52fe42fdc3a36847f803209b",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 19115,
+          "known_for_department": "Acting",
+          "name": "Linh-Dan Pham",
+          "original_name": "Linh-Dan Pham",
+          "popularity": 0.8387,
+          "profile_path": "/y9EYVSaEgjBZLchxShXa45FTszf.jpg",
+          "cast_id": 15,
+          "character": "Miao Lin",
+          "credit_id": "52fe42fdc3a36847f80320cf",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 19116,
+          "known_for_department": "Acting",
+          "name": "Aure Atika",
+          "original_name": "Aure Atika",
+          "popularity": 1.4052,
+          "profile_path": "/1jK3B2T1FTHmM2DPmQt6EzZgAYL.jpg",
+          "cast_id": 16,
+          "character": "Aline",
+          "credit_id": "52fe42fdc3a36847f80320d3",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 19117,
+          "known_for_department": "Acting",
+          "name": "Emmanuelle Devos",
+          "original_name": "Emmanuelle Devos",
+          "popularity": 1.3205,
+          "profile_path": "/bX1l2sTxoXVMRBky7rfD3lVEHud.jpg",
+          "cast_id": 17,
+          "character": "Chris",
+          "credit_id": "52fe42fdc3a36847f80320d7",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19118,
+          "known_for_department": "Acting",
+          "name": "Anton Yakovlev",
+          "original_name": "Anton Yakovlev",
+          "popularity": 0.384,
+          "profile_path": "/hSDjeTeMaH9slfXGoLC3aGdG4pu.jpg",
+          "cast_id": 18,
+          "character": "Minskov",
+          "credit_id": "52fe42fdc3a36847f80320db",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 19119,
+          "known_for_department": "Acting",
+          "name": "Mélanie Laurent",
+          "original_name": "Mélanie Laurent",
+          "popularity": 2.7076,
+          "profile_path": "/i99ogEo4gQyanCmHWYYoS6hsUqL.jpg",
+          "cast_id": 19,
+          "character": "Minskov's Girlfriend",
+          "credit_id": "52fe42fdc3a36847f80320df",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1055525,
+          "known_for_department": "Acting",
+          "name": "Agnès Aubé",
+          "original_name": "Agnès Aubé",
+          "popularity": 1.7092,
+          "profile_path": "/2S4lISmWCfoaESeEBpVvWLxq0Rt.jpg",
+          "cast_id": 22,
+          "character": "Woman",
+          "credit_id": "5a0c98bc9251414df3017f67",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1897509,
+          "known_for_department": "Acting",
+          "name": "Etienne Dirand",
+          "original_name": "Etienne Dirand",
+          "popularity": 0.3286,
+          "profile_path": "/bsQv4ZXwlxCAucC785qG3tcrZyW.jpg",
+          "cast_id": 23,
+          "character": "Old Man",
+          "credit_id": "5a0c98c99251414de8017dae",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1739589,
+          "known_for_department": "Acting",
+          "name": "Denis Falgoux",
+          "original_name": "Denis Falgoux",
+          "popularity": 0.3158,
+          "profile_path": "/AjfNNMkkZTj8l7HQzBrhVP32p5f.jpg",
+          "cast_id": 24,
+          "character": "Metreur",
+          "credit_id": "5a0c98da9251414de8017e04",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 48408,
+          "known_for_department": "Acting",
+          "name": "Serge Onteniente",
+          "original_name": "Serge Onteniente",
+          "popularity": 0.3441,
+          "profile_path": "/tNz4wUBstfyVSg9LgUEjBRDKyMg.jpg",
+          "cast_id": 36,
+          "character": "Man",
+          "credit_id": "5f43b7d96eecee0035588a21",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 122492,
+          "known_for_department": "Acting",
+          "name": "Sandy Whitelaw",
+          "original_name": "Sandy Whitelaw",
+          "popularity": 0.5852,
+          "profile_path": "/xaG0960T25DHbYqVqGt1Oow6M8U.jpg",
+          "cast_id": 26,
+          "character": "Mr. Fox",
+          "credit_id": "5a0c98f1c3a368759701765b",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1081484,
+          "known_for_department": "Directing",
+          "name": "Emmanuel Finkiel",
+          "original_name": "Emmanuel Finkiel",
+          "popularity": 0.3151,
+          "profile_path": "/7IniGmUpQpHF4BT342LUJEyhFuz.jpg",
+          "cast_id": 27,
+          "character": "Conservatory Professor",
+          "credit_id": "5a0c9903c3a36875d6019fb3",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19120,
+          "known_for_department": "Acting",
+          "name": "Jian-Zhang",
+          "original_name": "Jian-Zhang",
+          "popularity": 0.1249,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Jean-Pierre",
+          "credit_id": "52fe42fdc3a36847f80320e3",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1924373,
+          "known_for_department": "Acting",
+          "name": "Omar Habib",
+          "original_name": "Omar Habib",
+          "popularity": 0.3588,
+          "profile_path": "/1erqbmXj1a0qA6j9hUOYgt31Xzx.jpg",
+          "cast_id": 28,
+          "character": "Assad",
+          "credit_id": "5a0c99239251414de4019261",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1924374,
+          "known_for_department": "Acting",
+          "name": "Jamal Djabou",
+          "original_name": "Jamal Djabou",
+          "popularity": 0.1589,
+          "profile_path": "/5MaWhu7Uqmlu8Dk6gWZnp9hOKgm.jpg",
+          "cast_id": 29,
+          "character": "Mounir",
+          "credit_id": "5a0c99319251414d94018dab",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 992622,
+          "known_for_department": "Acting",
+          "name": "Vladislav Galard",
+          "original_name": "Vladislav Galard",
+          "popularity": 0.7924,
+          "profile_path": "/ivBXwhStbt667ZJyqVCKaprHgvI.jpg",
+          "cast_id": 30,
+          "character": "Clerk",
+          "credit_id": "5a0c993dc3a3687642017c6c",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19121,
+          "known_for_department": "Acting",
+          "name": "Walter Shnorkell",
+          "original_name": "Walter Shnorkell",
+          "popularity": 0.5619,
+          "profile_path": "/9NmRiQANX7fIHSYKCk79VzBTZ4u.jpg",
+          "cast_id": 21,
+          "character": "Verodin",
+          "credit_id": "52fe42fdc3a36847f80320e7",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1924376,
+          "known_for_department": "Acting",
+          "name": "Marianne Puech",
+          "original_name": "Marianne Puech",
+          "popularity": 0.1554,
+          "profile_path": "/yrKeSUZ0nYhlQVNuCnqDhuTBaMM.jpg",
+          "cast_id": 31,
+          "character": "Notary",
+          "credit_id": "5a0c99579251414df30180b2",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1924377,
+          "known_for_department": "Acting",
+          "name": "Alphonse Cemin",
+          "original_name": "Alphonse Cemin",
+          "popularity": 0.1418,
+          "profile_path": "/3o4M41ELjZ4NwdY1FSHOzus4vM0.jpg",
+          "cast_id": 32,
+          "character": "Pianist",
+          "credit_id": "5a0c99639251414daa017f1b",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1924378,
+          "known_for_department": "Acting",
+          "name": "David Birgé-Cotte",
+          "original_name": "David Birgé-Cotte",
+          "popularity": 0.356,
+          "profile_path": "/d47MjARTPFxefzlRpiQNCoF3OBE.jpg",
+          "cast_id": 33,
+          "character": "Tom child",
+          "credit_id": "5a0c99719251414df30180e6",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1924379,
+          "known_for_department": "Acting",
+          "name": "Estelle Brattesani",
+          "original_name": "Estelle Brattesani",
+          "popularity": 0.1324,
+          "profile_path": "/4bGjjWhSYzYlqvp1MZf56YbTIZO.jpg",
+          "cast_id": 34,
+          "character": "Passerby",
+          "credit_id": "5a0c997d9251414d99018d25",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1308772,
+          "known_for_department": "Acting",
+          "name": "Justine Le Pottier",
+          "original_name": "Justine Le Pottier",
+          "popularity": 0.525,
+          "profile_path": "/217dkhPV0XI3nR5mqBAASl7VekE.jpg",
+          "cast_id": 35,
+          "character": "",
+          "credit_id": "5a0c99869251414d99018d3a",
+          "order": 24
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4280,
+          "known_for_department": "Editing",
+          "name": "Juliette Welfling",
+          "original_name": "Juliette Welfling",
+          "popularity": 0.3799,
+          "profile_path": null,
+          "credit_id": "52fe42fdc3a36847f80320b9",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2949,
+          "known_for_department": "Sound",
+          "name": "Alexandre Desplat",
+          "original_name": "Alexandre Desplat",
+          "popularity": 0.9188,
+          "profile_path": "/vPsv5UYNLrQkzjOvng1OAAYCTIz.jpg",
+          "credit_id": "52fe42fdc3a36847f80320ad",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17496,
+          "known_for_department": "Directing",
+          "name": "Jacques Audiard",
+          "original_name": "Jacques Audiard",
+          "popularity": 0.9522,
+          "profile_path": "/cODcsQRkKSEiZlEQvdKwnDm136l.jpg",
+          "credit_id": "52fe42fdc3a36847f80320a1",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5435,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Virginie Montel",
+          "original_name": "Virginie Montel",
+          "popularity": 0.3212,
+          "profile_path": "/cOKhl8iUCqyb8deQ01uZH4wWzZz.jpg",
+          "credit_id": "52fe42fdc3a36847f80320c5",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19113,
+          "known_for_department": "Camera",
+          "name": "Stéphane Fontaine",
+          "original_name": "Stéphane Fontaine",
+          "popularity": 0.6868,
+          "profile_path": "/8wg7HpNWaXlqv7NHGnQiwc5en99.jpg",
+          "credit_id": "52fe42fdc3a36847f80320b3",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17496,
+          "known_for_department": "Directing",
+          "name": "Jacques Audiard",
+          "original_name": "Jacques Audiard",
+          "popularity": 0.9522,
+          "profile_path": "/cODcsQRkKSEiZlEQvdKwnDm136l.jpg",
+          "credit_id": "52fe42fdc3a36847f8032085",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4895,
+          "known_for_department": "Writing",
+          "name": "Tonino Benacquista",
+          "original_name": "Tonino Benacquista",
+          "popularity": 0.6263,
+          "profile_path": "/s9Rn4p3QcgT5JcjxULw1JMbX2Lm.jpg",
+          "credit_id": "52fe42fdc3a36847f803208b",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17535,
+          "known_for_department": "Art",
+          "name": "François Emmanuelli",
+          "original_name": "François Emmanuelli",
+          "popularity": 0.4156,
+          "profile_path": null,
+          "credit_id": "52fe42fdc3a36847f80320bf",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19112,
+          "known_for_department": "Production",
+          "name": "Pascal Caucheteux",
+          "original_name": "Pascal Caucheteux",
+          "popularity": 0.5884,
+          "profile_path": "/1KJEsRuQ1CsRq1oNwMASefl9VXA.jpg",
+          "credit_id": "52fe42fdc3a36847f80320a7",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 19114,
+          "known_for_department": "Sound",
+          "name": "Brigitte Taillandier",
+          "original_name": "Brigitte Taillandier",
+          "popularity": 0.2441,
+          "profile_path": "/9UrbeJpxvmi0SAuN5a98RIoF3jE.jpg",
+          "credit_id": "52fe42fdc3a36847f80320cb",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 56381,
+          "known_for_department": "Writing",
+          "name": "James Toback",
+          "original_name": "James Toback",
+          "popularity": 0.8375,
+          "profile_path": "/qW8wC5GJBWUHOVOlRem877u39Dq.jpg",
+          "credit_id": "605fb5701130bd00555ba465",
+          "department": "Writing",
+          "job": "Original Story"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 54290,
+          "known_for_department": "Art",
+          "name": "Marie Cheminal",
+          "original_name": "Marie Cheminal",
+          "popularity": 0.2808,
+          "profile_path": null,
+          "credit_id": "605fc041d7fbda0054b56d23",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1407211,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Frédérique Ney",
+          "original_name": "Frédérique Ney",
+          "popularity": 0.3167,
+          "profile_path": null,
+          "credit_id": "605fc38f7c6de3006c602773",
+          "department": "Costume & Make-Up",
+          "job": "Key Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 89630,
+          "known_for_department": "Production",
+          "name": "Richard Rousseau",
+          "original_name": "Richard Rousseau",
+          "popularity": 1.6181,
+          "profile_path": null,
+          "credit_id": "605fbf618c0a4800297e61cd",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1333078,
+          "known_for_department": "Art",
+          "name": "Alexandrine Mauvezin-Bosque",
+          "original_name": "Alexandrine Mauvezin-Bosque",
+          "popularity": 0.4487,
+          "profile_path": null,
+          "credit_id": "605fc225f056d500529b8b83",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 72941,
+          "known_for_department": "Production",
+          "name": "Marion Touitou",
+          "original_name": "Marion Touitou",
+          "popularity": 0.2841,
+          "profile_path": null,
+          "credit_id": "605fbfc07c6de3005390878d",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1577909,
+          "known_for_department": "Sound",
+          "name": "Sandy Notarianni",
+          "original_name": "Sandy Notarianni",
+          "popularity": 0.3964,
+          "profile_path": "/2311rQl4hQY5E6EZdQTCxKrdiy7.jpg",
+          "credit_id": "63e4d4a165686e00b50edbd6",
+          "department": "Sound",
+          "job": "Dialogue Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-06-15T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-11-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-04-06T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-05-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-09-09T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "fr",
+              "note": "",
+              "release_date": "2005-03-16T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "de",
+              "note": "",
+              "release_date": "2005-12-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Berlin International Film Festival",
+              "release_date": "2005-02-17T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-09-22T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-11-18T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "EE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-12-07T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "EG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2007-05-30T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sevilla Festival de Cine",
+              "release_date": "2005-11-06T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-04-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FI",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Helsinki International Film Festival",
+              "release_date": "2005-09-17T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-04-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-03-16T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "France•tv",
+              "release_date": "2025-10-31T00:00:00.000Z",
+              "type": 4
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DVD",
+              "release_date": "2005-10-19T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "France•5",
+              "release_date": "2025-10-31T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-06-19T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-11-04T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Panorama of European Cinema",
+              "release_date": "2005-10-04T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-11-24T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-12-09T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "French Film Days",
+              "release_date": "2006-04-19T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-05-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IE",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-11-04T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-04-27T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IS",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DVD",
+              "release_date": "2006-06-29T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-11-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "French Film Festival",
+              "release_date": "2005-06-17T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-10-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2016-12-15T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2007-04-13T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-07-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NO",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Certification: 11 year",
+              "release_date": "2006-03-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Warsaw Film Festival",
+              "release_date": "2005-10-14T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-03-24T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-08-18T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "RTP2",
+              "release_date": "2019-06-03T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-03-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RU",
+          "release_dates": [
+            {
+              "certification": "16+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-04-06T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "16+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DVD",
+              "release_date": "2009-01-29T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-01-13T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-07-27T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-08-24T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-11-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Tribeca Film Festival",
+              "release_date": "2005-04-27T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2005-07-01T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "RU",
+          "title": "Мое сердце биться перестало",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "AR",
+          "title": "El latido de mi corazón",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

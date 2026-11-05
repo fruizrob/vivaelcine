@@ -1,0 +1,794 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1596326?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:43.899Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/mlEsvwfQoNUXC9y7vOSgVkrSL5U.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1596326,
+    "imdb_id": "tt39150008",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Barbara Forever",
+    "overview": "",
+    "popularity": 2.4597,
+    "poster_path": "/kYjCmL8sg17zoKtm5Pb6Cn4H0nB.jpg",
+    "production_companies": [
+      {
+        "id": 282865,
+        "logo_path": null,
+        "name": "Space Time Films",
+        "origin_country": ""
+      },
+      {
+        "id": 1422,
+        "logo_path": "/rIB6DuimR1qgLE14cBwpMABC2xx.png",
+        "name": "Killer Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 13042,
+        "logo_path": "/k57hcv8sELrZCf1j33FDBNGDpF6.png",
+        "name": "Kartemquin Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 223375,
+        "logo_path": null,
+        "name": "Nevermind",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-09-04",
+    "revenue": 0,
+    "runtime": 102,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Barbara Forever",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1184106,
+          "known_for_department": "Directing",
+          "name": "Barbara Hammer",
+          "original_name": "Barbara Hammer",
+          "popularity": 0.3277,
+          "profile_path": "/1YMUsZHPEVqLfxzrvauPulfR1wr.jpg",
+          "cast_id": 11,
+          "character": "Self (archive footage)",
+          "credit_id": "6980628f90df53cabdb98b60",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3494409,
+          "known_for_department": "Acting",
+          "name": "Florrie Burke",
+          "original_name": "Florrie Burke",
+          "popularity": 0.3323,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Self",
+          "credit_id": "69e13950a7348748553a73d2",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1747382,
+          "known_for_department": "Directing",
+          "name": "Joey Carducci",
+          "original_name": "Joey Carducci",
+          "popularity": 0.2705,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Self (archive footage)",
+          "credit_id": "69f8bf50e481f7cdbbf520db",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16863,
+          "known_for_department": "Directing",
+          "name": "Todd Haynes",
+          "original_name": "Todd Haynes",
+          "popularity": 1.0799,
+          "profile_path": "/wBDazO2j49uoquoHTEDxcniyGGC.jpg",
+          "cast_id": 15,
+          "character": "Self (archive footage)",
+          "credit_id": "69f8bf8c6b1df3b24cf52015",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2558462,
+          "known_for_department": "Directing",
+          "name": "Brydie O'Connor",
+          "original_name": "Brydie O'Connor",
+          "popularity": 0.3729,
+          "profile_path": null,
+          "credit_id": "6939c58af49264c5c4f61d03",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3539680,
+          "known_for_department": "Production",
+          "name": "Elijah Stevens",
+          "original_name": "Elijah Stevens",
+          "popularity": 0.4144,
+          "profile_path": null,
+          "credit_id": "6939f0c297a75c1548af1299",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2558462,
+          "known_for_department": "Directing",
+          "name": "Brydie O'Connor",
+          "original_name": "Brydie O'Connor",
+          "popularity": 0.3729,
+          "profile_path": null,
+          "credit_id": "6939f0ca9adc9386ddcdeec7",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5869998,
+          "known_for_department": "Production",
+          "name": "Claire Edelman",
+          "original_name": "Claire Edelman",
+          "popularity": 0.1747,
+          "profile_path": null,
+          "credit_id": "6939f0d4e51a886e421d26c6",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2862,
+          "known_for_department": "Production",
+          "name": "Christine Vachon",
+          "original_name": "Christine Vachon",
+          "popularity": 0.6677,
+          "profile_path": "/INKu6dXw0DwiUqsK6Gw64Ygefd.jpg",
+          "credit_id": "6939f0de0d3bd231936901ae",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1538806,
+          "known_for_department": "Directing",
+          "name": "Zackary Drucker",
+          "original_name": "Zackary Drucker",
+          "popularity": 0.2969,
+          "profile_path": "/kCqRHu9qTgnEU2aGGoxZc2GC67w.jpg",
+          "credit_id": "6939f0f371b6ceb822cdefcb",
+          "department": "Production",
+          "job": "Consulting Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3497400,
+          "known_for_department": "Editing",
+          "name": "Matt Hixon",
+          "original_name": "Matt Hixon",
+          "popularity": 0.1567,
+          "profile_path": null,
+          "credit_id": "6939f1144f6b32519eaf1258",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1088577,
+          "known_for_department": "Directing",
+          "name": "Jenni Olson",
+          "original_name": "Jenni Olson",
+          "popularity": 0.815,
+          "profile_path": "/vAmAofKPblfXzkTPLl84hfjSIFH.jpg",
+          "credit_id": "6939f11cd6e42daac5dfa714",
+          "department": "Production",
+          "job": "Consulting Producer"
+        },
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 3626310,
+          "known_for_department": "Sound",
+          "name": "Taul Katz",
+          "original_name": "Taul Katz",
+          "popularity": 0.3165,
+          "profile_path": null,
+          "credit_id": "6939f1280f85a1216edfa690",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2558462,
+          "known_for_department": "Directing",
+          "name": "Brydie O'Connor",
+          "original_name": "Brydie O'Connor",
+          "popularity": 0.3729,
+          "profile_path": null,
+          "credit_id": "69d1868fbd18d41095e50044",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 37917,
+          "known_for_department": "Acting",
+          "name": "Kristen Stewart",
+          "original_name": "Kristen Stewart",
+          "popularity": 5.6411,
+          "profile_path": "/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg",
+          "credit_id": "69fdfa9dbcc80b5e1f347cb2",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2240347,
+          "known_for_department": "Production",
+          "name": "Maggie McLean",
+          "original_name": "Maggie McLean",
+          "popularity": 0.2828,
+          "profile_path": null,
+          "credit_id": "69fdfb0362be72e6ae4c7066",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1492313,
+          "known_for_department": "Writing",
+          "name": "Dylan Meyer",
+          "original_name": "Dylan Meyer",
+          "popularity": 2.1117,
+          "profile_path": "/aVZxHLEPf3mKcVOHZWGz7aAzueQ.jpg",
+          "credit_id": "6a0048de2dc1536632f88383",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1332313,
+          "known_for_department": "Sound",
+          "name": "Eli Cohn",
+          "original_name": "Eli Cohn",
+          "popularity": 0.3222,
+          "profile_path": null,
+          "credit_id": "6ae3bd02c0dde4a7c909748c",
+          "department": "Sound",
+          "job": "Sound Re-Recording Mixer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Buenos Aires Festival Internacional de Cine Independiente",
+              "release_date": "2026-04-16T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sydney Film Festival",
+              "release_date": "2026-06-03T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Revelation Perth International Film Festival",
+              "release_date": "2026-07-13T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Melbourne International Film Festival ",
+              "release_date": "2026-08-12T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Melbourne Queer Film Festival",
+              "release_date": "2026-11-18T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Feast Festival",
+              "release_date": "2026-11-14T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Film Fest Gent",
+              "release_date": "2026-10-08T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Brussels Art Film Festival",
+              "release_date": "2026-11-12T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Festival du Nouveau Cinéma",
+              "release_date": "2026-10-08T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Reel Pride Film Festival",
+              "release_date": "2026-09-24T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Rainbow Visions LGBTQ Film Fest",
+              "release_date": "2026-06-19T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Queersicht LGBTIAQ+ Filmfestival",
+              "release_date": "2026-11-08T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Ji.hlava International Documentary Film Festival",
+              "release_date": "2026-10-23T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Mezipatra Queer Film Festival",
+              "release_date": "2026-11-07T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Berlin International Film Festival ",
+              "release_date": "2026-02-15T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DOK.fest München ",
+              "release_date": "2026-05-01T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-10-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Paris International Lesbian and Feminist Film Festival",
+              "release_date": "2026-10-29T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Festival Chéries Chéris",
+              "release_date": "2026-11-20T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "BFI Flare London LGBTQIA+ Film Festival",
+              "release_date": "2026-03-27T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Thessaloniki Documentary Festival ",
+              "release_date": "2026-03-05T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Hong Kong International Film Festival",
+              "release_date": "2026-04-02T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "19",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Jeonju International Film Festival",
+              "release_date": "2026-04-30T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "New Zealand International Film Festival",
+              "release_date": "2026-08-05T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Puerto Rico Queer Filmfest",
+              "release_date": "2026-05-21T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Women Make Waves International Film Festival",
+              "release_date": "2026-10-25T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sunny Bunny International LGBTQ+ Film Festival",
+              "release_date": "2026-04-19T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sundance Film Festival ",
+              "release_date": "2026-01-24T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "True/False Film Fest",
+              "release_date": "2026-03-06T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Big Sky Documentary Film Festival",
+              "release_date": "2026-02-20T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Green Mountain Film Festival ",
+              "release_date": "2026-03-13T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Salem Film Festival ",
+              "release_date": "2026-03-27T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sonoma International Film Festival ",
+              "release_date": "2026-03-28T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cleveland International Film Festival / Portland Panorama Film Festival ",
+              "release_date": "2026-04-10T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Maryland Film Festival ",
+              "release_date": "2026-04-11T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Full Frame Documentary Film Festival ",
+              "release_date": "2026-04-17T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Milwaukee Film Festival ",
+              "release_date": "2026-04-19T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Seattle International Film Festival ",
+              "release_date": "2026-05-08T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "NewFest Pride",
+              "release_date": "2026-05-30T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Provincetown International Film Festival ",
+              "release_date": "2026-06-12T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DC/DOX Film Festival ",
+              "release_date": "2026-06-14T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Oak Cliff Film Festival",
+              "release_date": "2026-08-01T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Hudson Film Festival",
+              "release_date": "2026-08-08T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Fresno Reel Pride Film Festival",
+              "release_date": "2026-09-17T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Frameline: The San Francisco International LGBTQ+ Film Festival",
+              "release_date": "2026-06-25T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Moviate Underground Film Festival",
+              "release_date": "2026-05-31T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-09-04T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "CN",
+          "title": "平生覺：芭芭拉漢瑪的酷兒路",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

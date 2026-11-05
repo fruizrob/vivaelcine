@@ -1,0 +1,170 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1191622?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:34.722Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1191622,
+    "imdb_id": "tt29634160",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Rumor",
+    "overview": "",
+    "popularity": 1.5878,
+    "poster_path": "/8lTA8gBYcN0XtzzxBIXwgNyTdBI.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "2023-11-15",
+    "revenue": 0,
+    "runtime": 13,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rumor",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 215662,
+          "known_for_department": "Acting",
+          "name": "Chiara Mastalli",
+          "original_name": "Chiara Mastalli",
+          "popularity": 1.0731,
+          "profile_path": "/tgdLXP1sxP40FU8bLOriX0eBk73.jpg",
+          "cast_id": 1,
+          "character": "Mother",
+          "credit_id": "652bc516358da700e3bde1ed",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4321354,
+          "known_for_department": "Acting",
+          "name": "Emanuele D'ambra",
+          "original_name": "Emanuele D'ambra",
+          "popularity": 0.1116,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Dario",
+          "credit_id": "652bc526f2883802a32817e8",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4321355,
+          "known_for_department": "Directing",
+          "name": "Roberto Palattella",
+          "original_name": "Roberto Palattella",
+          "popularity": 0.1501,
+          "profile_path": null,
+          "credit_id": "652bc539ea84c7014e055b70",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3385253,
+          "known_for_department": "Camera",
+          "name": "Simone Rossi",
+          "original_name": "Simone Rossi",
+          "popularity": 0.179,
+          "profile_path": null,
+          "credit_id": "652bc546ea84c700eba21458",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3410730,
+          "known_for_department": "Editing",
+          "name": "Daria de Pascale",
+          "original_name": "Daria de Pascale",
+          "popularity": 0.6338,
+          "profile_path": null,
+          "credit_id": "652bc55cf28838029f32b1dc",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3410687,
+          "known_for_department": "Writing",
+          "name": "Sara Mancini",
+          "original_name": "Sara Mancini",
+          "popularity": 0.2521,
+          "profile_path": null,
+          "credit_id": "664b7a947509698a011ddb29",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4321355,
+          "known_for_department": "Directing",
+          "name": "Roberto Palattella",
+          "original_name": "Roberto Palattella",
+          "popularity": 0.1501,
+          "profile_path": null,
+          "credit_id": "664b7ab0ee8cab60d77945bd",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "it",
+              "note": "",
+              "release_date": "2023-11-15T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

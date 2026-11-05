@@ -1,0 +1,148 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/894564?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:07.838Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 894564,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "xx",
+    "original_title": "Trilla",
+    "overview": "",
+    "popularity": 1.3233,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 150748,
+        "logo_path": null,
+        "name": "Centro de Cine Experimental",
+        "origin_country": "CL"
+      },
+      {
+        "id": 150596,
+        "logo_path": null,
+        "name": "Cine Experimental de la Universidad de Chile",
+        "origin_country": "CL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "1959-11-05",
+    "revenue": 0,
+    "runtime": 29,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Trilla",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1504617,
+          "known_for_department": "Directing",
+          "name": "Sergio Bravo",
+          "original_name": "Sergio Bravo",
+          "popularity": 0.6249,
+          "profile_path": "/asBR2au4V52cri1CLcNCWnwxS45.jpg",
+          "credit_id": "618555d2ddd52d006163578d",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1064940,
+          "known_for_department": "Sound",
+          "name": "Violeta Parra",
+          "original_name": "Violeta Parra",
+          "popularity": 0.1515,
+          "profile_path": "/1dmxMHzpNLYATxx8Vd2PHC78dPI.jpg",
+          "credit_id": "618555565545ca0064636d69",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1699480,
+          "known_for_department": "Camera",
+          "name": "Daniel Urria",
+          "original_name": "Daniel Urria",
+          "popularity": 0.0942,
+          "profile_path": null,
+          "credit_id": "618554ef1c6aa70060ecfb32",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1504617,
+          "known_for_department": "Directing",
+          "name": "Sergio Bravo",
+          "original_name": "Sergio Bravo",
+          "popularity": 0.6249,
+          "profile_path": "/asBR2au4V52cri1CLcNCWnwxS45.jpg",
+          "credit_id": "6185550013a388006604a67e",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1504617,
+          "known_for_department": "Directing",
+          "name": "Sergio Bravo",
+          "original_name": "Sergio Bravo",
+          "popularity": 0.6249,
+          "profile_path": "/asBR2au4V52cri1CLcNCWnwxS45.jpg",
+          "credit_id": "6185550f13a3880096d538e5",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cineteca Universidad de Chile",
+              "release_date": "1959-11-05T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

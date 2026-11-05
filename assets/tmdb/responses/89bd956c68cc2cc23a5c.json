@@ -1,0 +1,120 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1340771?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:20.168Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1340771,
+    "imdb_id": null,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "El Humedal",
+    "overview": "",
+    "popularity": 1.2276,
+    "poster_path": "/8USxZSjXH0trw1lIKQOaLG96to9.jpg",
+    "production_companies": [
+      {
+        "id": 235217,
+        "logo_path": "/gJ6wDhptu8ZOkTGjwhJO0OTq5Tq.png",
+        "name": "ESCINE | Escuela Superior de Cine",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2024-09-03",
+    "revenue": 0,
+    "runtime": 20,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El Humedal",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3205803,
+          "known_for_department": "Acting",
+          "name": "Iván Echeverrí",
+          "original_name": "Iván Echeverrí",
+          "popularity": 0.3788,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Martín",
+          "credit_id": "66d731ae0ef2da5b048184c0",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3320569,
+          "known_for_department": "Acting",
+          "name": "Gerónimo Espeche",
+          "original_name": "Gerónimo Espeche",
+          "popularity": 0.0991,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Aurelio",
+          "credit_id": "66d731c93c3afa17288184c1",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3956529,
+          "known_for_department": "Directing",
+          "name": "Alejandro Caracas Espinosa",
+          "original_name": "Alejandro Caracas",
+          "popularity": 0.3229,
+          "profile_path": null,
+          "credit_id": "66d0fb92793f0f463c303a25",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2024-09-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

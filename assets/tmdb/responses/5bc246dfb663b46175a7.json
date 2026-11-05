@@ -1,0 +1,137 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1659027?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:29.850Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/yilyTpruGTHJ7TS8G6qeF8Z1C9l.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1659027,
+    "imdb_id": "tt35700690",
+    "origin_country": [
+      "NL",
+      "UY"
+    ],
+    "original_language": "es",
+    "original_title": "Mi nueva forma de ver",
+    "overview": "",
+    "popularity": 0.5764,
+    "poster_path": "/zJOFBquhxI7RLGLOmUXVTvmMQhv.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "UY",
+        "name": "Uruguay"
+      }
+    ],
+    "release_date": "2026-03-31",
+    "revenue": 0,
+    "runtime": 80,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Dutch",
+        "iso_639_1": "nl",
+        "name": "Nederlands"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mi nueva forma de ver",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2764864,
+          "known_for_department": "Production",
+          "name": "Lucía Gaviglio",
+          "original_name": "Lucía Gaviglio",
+          "popularity": 0.3046,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "69d1d63c76e0f36269108cb2",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1329255,
+          "known_for_department": "Directing",
+          "name": "Andrés Varela",
+          "original_name": "Andrés Varela",
+          "popularity": 0.19,
+          "profile_path": "/nTABiVOQ2I3Csw67uAOyn2MrFJ9.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "69d1d631ba83a8db8a09223c",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1329255,
+          "known_for_department": "Directing",
+          "name": "Andrés Varela",
+          "original_name": "Andrés Varela",
+          "popularity": 0.19,
+          "profile_path": "/nTABiVOQ2I3Csw67uAOyn2MrFJ9.jpg",
+          "credit_id": "69c6c7eb2a907b99a2833f57",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2764864,
+          "known_for_department": "Production",
+          "name": "Lucía Gaviglio",
+          "original_name": "Lucía Gaviglio",
+          "popularity": 0.3046,
+          "profile_path": null,
+          "credit_id": "69c6c7f7d6641b76a63e67d8",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "UY",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "2026 International Film Festival of Uruguay #44",
+              "release_date": "2026-03-31T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

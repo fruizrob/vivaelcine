@@ -1,0 +1,736 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1265831?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:44:55.098Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/wVJPuSrEsSWWTMzYH1xLClAWSkb.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 1265831,
+    "imdb_id": "tt31383175",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Les Roches Rouges",
+    "overview": "",
+    "popularity": 1.8155,
+    "poster_path": "/6q3zCTkbrHw0AhdfWtK0mTQW9tP.jpg",
+    "production_companies": [
+      {
+        "id": 858,
+        "logo_path": "/6NwjE3AuYKMuGNJdAG8TzmhmioV.png",
+        "name": "Tessalit Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 110638,
+        "logo_path": "/qjbCOTKoIGUbfc0ow7uwidHZDio.png",
+        "name": "Nightswim",
+        "origin_country": "IT"
+      },
+      {
+        "id": 7465,
+        "logo_path": "/e28RwIpRcOSFaeKkzLQBzvMXbK0.png",
+        "name": "Novak Prod",
+        "origin_country": "BE"
+      },
+      {
+        "id": 16421,
+        "logo_path": "/A5ZNlCF9yzcIqmvD8WQtHK9htg8.png",
+        "name": "Rosa Filmes",
+        "origin_country": "PT"
+      },
+      {
+        "id": 13720,
+        "logo_path": "/wqBR878P0PvPAEWE8xxG8VkHP8i.png",
+        "name": "Andergraun Films",
+        "origin_country": "ES"
+      },
+      {
+        "id": 228402,
+        "logo_path": null,
+        "name": "Pulpa Film",
+        "origin_country": "IT"
+      },
+      {
+        "id": 7970,
+        "logo_path": "/so1bsD7PbaSsFio7gVyW0M3qhsc.png",
+        "name": "Bord Cadre Films",
+        "origin_country": "CH"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "PT",
+        "name": "Portugal"
+      },
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      },
+      {
+        "iso_3166_1": "CH",
+        "name": "Switzerland"
+      }
+    ],
+    "release_date": "2026-09-23",
+    "revenue": 0,
+    "runtime": 91,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Les Roches Rouges",
+    "video": false,
+    "vote_average": 4.818,
+    "vote_count": 11,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6163218,
+          "known_for_department": "Acting",
+          "name": "Kaylon Lancel",
+          "original_name": "Kaylon Lancel",
+          "popularity": 0.1161,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Géo",
+          "credit_id": "69ea47da498cf14066027edd",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6163220,
+          "known_for_department": "Acting",
+          "name": "Kelsie Verdeilles",
+          "original_name": "Kelsie Verdeilles",
+          "popularity": 0.2446,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Eve",
+          "credit_id": "69ea47e5c30de8aa70b4daec",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6163221,
+          "known_for_department": "Acting",
+          "name": "Louise Podolski",
+          "original_name": "Louise Podolski",
+          "popularity": 0.2062,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Manon",
+          "credit_id": "69ea47ec4fd76f7f8dd47b20",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6163223,
+          "known_for_department": "Acting",
+          "name": "Mohamed Coly",
+          "original_name": "Mohamed Coly",
+          "popularity": 0.2106,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Rouben",
+          "credit_id": "69ea47f5a8fa2cab86027ea1",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6163224,
+          "known_for_department": "Acting",
+          "name": "Alessandro Piquera",
+          "original_name": "Alessandro Piquera",
+          "popularity": 0.1612,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "B",
+          "credit_id": "69ea47fd4fd76f7f8dd47b35",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6163225,
+          "known_for_department": "Acting",
+          "name": "Meryl Pires",
+          "original_name": "Meryl Pires",
+          "popularity": 0.3083,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "Do",
+          "credit_id": "69ea480460bbf09914027ebe",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 95901,
+          "known_for_department": "Directing",
+          "name": "Bruno Dumont",
+          "original_name": "Bruno Dumont",
+          "popularity": 0.4613,
+          "profile_path": "/gvtqHphhlZog9ODTapxAqBrEaBK.jpg",
+          "credit_id": "66055bbfd7f465017cdbeaa8",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1935687,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Carole Chollet",
+          "original_name": "Carole Chollet",
+          "popularity": 0.2816,
+          "profile_path": null,
+          "credit_id": "66055be4813cb60162190129",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5770574,
+          "known_for_department": "Production",
+          "name": "João Santana",
+          "original_name": "João Santana",
+          "popularity": 0.7331,
+          "profile_path": null,
+          "credit_id": "68fbadf146ba1f10ee97c909",
+          "department": "Production",
+          "job": "Line Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1805231,
+          "known_for_department": "Directing",
+          "name": "Raul Correia",
+          "original_name": "Raul Correia",
+          "popularity": 0.1272,
+          "profile_path": null,
+          "credit_id": "68fbadfcc4cc2fff4242c185",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4212452,
+          "known_for_department": "Camera",
+          "name": "Diogo Almeida",
+          "original_name": "Diogo Almeida",
+          "popularity": 0.1126,
+          "profile_path": null,
+          "credit_id": "68fbae07780a97c6895fd756",
+          "department": "Camera",
+          "job": "Digital Imaging Technician"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 95901,
+          "known_for_department": "Directing",
+          "name": "Bruno Dumont",
+          "original_name": "Bruno Dumont",
+          "popularity": 0.4613,
+          "profile_path": "/gvtqHphhlZog9ODTapxAqBrEaBK.jpg",
+          "credit_id": "69ea1ca37c6f8734696b2155",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2973204,
+          "known_for_department": "Directing",
+          "name": "Carlos Alfonso Corral",
+          "original_name": "Carlos Alfonso Corral",
+          "popularity": 1.0765,
+          "profile_path": "/tNIW7WHENhBDAgn1PkQLOg1Sa3d.jpg",
+          "credit_id": "69ea467f49195dfd37dc7077",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 20680,
+          "known_for_department": "Production",
+          "name": "Jean Bréhat",
+          "original_name": "Jean Bréhat",
+          "popularity": 0.172,
+          "profile_path": null,
+          "credit_id": "69ea46a4d51f75eca8934eda",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1018101,
+          "known_for_department": "Directing",
+          "name": "Joaquim Sapinho",
+          "original_name": "Joaquim Sapinho",
+          "popularity": 0.2386,
+          "profile_path": "/e98o91EJWn6UF1xD7Sy3b7P10pm.jpg",
+          "credit_id": "69ea46acf8f45fa6f814f8e2",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1319010,
+          "known_for_department": "Directing",
+          "name": "Alejandro Sugich",
+          "original_name": "Alejandro Sugich",
+          "popularity": 0.3058,
+          "profile_path": null,
+          "credit_id": "69ea46b748976ea43e6b0916",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1322720,
+          "known_for_department": "Production",
+          "name": "Ines Vasiljevic",
+          "original_name": "Ines Vasiljevic",
+          "popularity": 0.1788,
+          "profile_path": null,
+          "credit_id": "69ea46bf914645f04a14f925",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6163212,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Mai Thu Chapiron",
+          "original_name": "Mai Thu Chapiron",
+          "popularity": 0.3399,
+          "profile_path": null,
+          "credit_id": "69ea46d5fe46622965dc7063",
+          "department": "Costume & Make-Up",
+          "job": "Costumer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2428318,
+          "known_for_department": "Editing",
+          "name": "Mattia Biancucci",
+          "original_name": "Mattia Biancucci",
+          "popularity": 0.1759,
+          "profile_path": null,
+          "credit_id": "69ea46dfd358f08c4528c66b",
+          "department": "Editing",
+          "job": "Assistant Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5237960,
+          "known_for_department": "Acting",
+          "name": "Aurélien Collomb",
+          "original_name": "Aurélien Collomb",
+          "popularity": 0.2994,
+          "profile_path": null,
+          "credit_id": "69ea46ecdf26528efcdc6ffa",
+          "department": "Art",
+          "job": "Location Scout"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3983797,
+          "known_for_department": "Directing",
+          "name": "Chiara Gherarducci",
+          "original_name": "Chiara Gherarducci",
+          "popularity": 0.3172,
+          "profile_path": null,
+          "credit_id": "69ea46f5518014d23317c1a7",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3328601,
+          "known_for_department": "Acting",
+          "name": "Adelaide Mestre",
+          "original_name": "Adelaide Mestre",
+          "popularity": 0.2166,
+          "profile_path": null,
+          "credit_id": "69ea470081b266c6746b08aa",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 95901,
+          "known_for_department": "Directing",
+          "name": "Bruno Dumont",
+          "original_name": "Bruno Dumont",
+          "popularity": 0.4613,
+          "profile_path": "/gvtqHphhlZog9ODTapxAqBrEaBK.jpg",
+          "credit_id": "69ea483edd8e1736a114f93b",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6163229,
+          "known_for_department": "Sound",
+          "name": "Laia Torrents Carulla",
+          "original_name": "Laia Torrents Carulla",
+          "popularity": 0.8998,
+          "profile_path": null,
+          "credit_id": "69ea485b30f9cd98d728c671",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4785410,
+          "known_for_department": "Production",
+          "name": "Marta Alves",
+          "original_name": "Marta Alves",
+          "popularity": 0.7044,
+          "profile_path": "/5LDC2WnV9JFT5VOEkDtGvT7QUdd.jpg",
+          "credit_id": "69ea48ddf11ceeb7376b0880",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1827464,
+          "known_for_department": "Production",
+          "name": "Fiorella Moretti",
+          "original_name": "Fiorella Moretti",
+          "popularity": 0.2797,
+          "profile_path": null,
+          "credit_id": "69ea48eed358f08c4528c66e",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 236865,
+          "known_for_department": "Writing",
+          "name": "Stefano Sardo",
+          "original_name": "Stefano Sardo",
+          "popularity": 0.5008,
+          "profile_path": "/oGen1udVLXC8ZNNT09jspzhqJ2x.jpg",
+          "credit_id": "69ea49061c80abe334dc6fe7",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 932161,
+          "known_for_department": "Directing",
+          "name": "Albert Serra",
+          "original_name": "Albert Serra",
+          "popularity": 0.5916,
+          "profile_path": "/4ubbOopSH7dmxTuT9v7UkMOIXPy.jpg",
+          "credit_id": "69ea49149421af033017c1ba",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2741110,
+          "known_for_department": "Production",
+          "name": "Irina Sosnovaya",
+          "original_name": "Irina Sosnovaya",
+          "popularity": 0.1906,
+          "profile_path": "/9qE3Xt6zbBy3Odm1P7U4npYwLwe.jpg",
+          "credit_id": "6aa69a0798bfc22469c177b2",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Vienna International Film Festival",
+              "release_date": "2026-10-26T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sydney Film Festival ",
+              "release_date": "2026-06-13T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Festival du Nouveau Cinéma",
+              "release_date": "2026-10-13T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Golden Rooster & Hundred Flowers Film Festival",
+              "release_date": "2026-11-07T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cannes Directors' Fortnight",
+              "release_date": "2026-05-20T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-09-23T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Leeds International Film Festival",
+              "release_date": "2026-10-31T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Summer International Film Festival ",
+              "release_date": "2026-08-22T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Miskolc International Film Festival",
+              "release_date": "2026-09-06T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ID",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Jakarta World Cinema",
+              "release_date": "2026-11-07T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Jerusalem Film Festival",
+              "release_date": "2026-07-11T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "FilmMakerFest",
+              "release_date": "2026-11-15T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "ALL",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Busan International Film Festival",
+              "release_date": "2026-10-07T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "UNAM International Film Festival ",
+              "release_date": "2026-11-06T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "TAURON New Horizons International Film Festival",
+              "release_date": "2026-07-28T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Taipei Golden Horse Film Festival",
+              "release_date": "2026-11-09T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "New York Film Festival",
+              "release_date": "2026-10-08T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "AZ",
+          "title": "Qırmızı Qayalar",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

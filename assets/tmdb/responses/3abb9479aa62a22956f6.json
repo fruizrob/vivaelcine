@@ -1,0 +1,143 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1670399?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:44:47.230Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1670399,
+    "imdb_id": "tt42287706",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Dans la gueule de l'ogre",
+    "overview": "",
+    "popularity": 0.3303,
+    "poster_path": "/wDnf3632clQAVtcYyrOSPDQj2c4.jpg",
+    "production_companies": [
+      {
+        "id": 103606,
+        "logo_path": "/lqG6wxp78BX0j1P0fBAQoa22CzU.png",
+        "name": "Les Films du Bilboquet",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2026-05-13",
+    "revenue": 0,
+    "runtime": 86,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dans la gueule de l'ogre",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6142816,
+          "known_for_department": "Directing",
+          "name": "Mahsa Karampour",
+          "original_name": "Mahsa Karampour",
+          "popularity": 0.1103,
+          "profile_path": null,
+          "credit_id": "69debaa7e4eab53ee0b64303",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6142816,
+          "known_for_department": "Directing",
+          "name": "Mahsa Karampour",
+          "original_name": "Mahsa Karampour",
+          "popularity": 0.1103,
+          "profile_path": null,
+          "credit_id": "69debadf2cc5d1fb8d359810",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6142816,
+          "known_for_department": "Directing",
+          "name": "Mahsa Karampour",
+          "original_name": "Mahsa Karampour",
+          "popularity": 0.1103,
+          "profile_path": null,
+          "credit_id": "69debae62cc5d1fb8d359813",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2897627,
+          "known_for_department": "Writing",
+          "name": "Maya Haffar",
+          "original_name": "Maya Haffar",
+          "popularity": 0.1485,
+          "profile_path": null,
+          "credit_id": "69debaf084a2925e17c7413b",
+          "department": "Writing",
+          "job": "Screenplay"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "ACID Cannes",
+              "release_date": "2026-05-13T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cinémondes",
+              "release_date": "2026-10-15T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

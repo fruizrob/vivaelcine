@@ -1,0 +1,231 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/595183?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:45.315Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/xpWdwzhxW6vulmg4ZBIjvylmx5A.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 595183,
+    "imdb_id": "tt10224960",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "La siesta",
+    "overview": "Una joven envuelve a su abuela en un espiral de fantasía que acaba causándole amnesia.",
+    "popularity": 1.9222,
+    "poster_path": "/2gKxWsa4OgijwHTJZN2Cu0pKufj.jpg",
+    "production_companies": [
+      {
+        "id": 113283,
+        "logo_path": null,
+        "name": "Rebolucion",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2019-04-09",
+    "revenue": 0,
+    "runtime": 15,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La siesta",
+    "video": false,
+    "vote_average": 5.1,
+    "vote_count": 9,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2312860,
+          "known_for_department": "Acting",
+          "name": "Graciela Ninio",
+          "original_name": "Graciela Ninio",
+          "popularity": 0.2613,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Graciela",
+          "credit_id": "5cdb3910c3a3680fd4c375d7",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2312861,
+          "known_for_department": "Acting",
+          "name": "Yonathan Toledo",
+          "original_name": "Yonathan Toledo",
+          "popularity": 0.3336,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Yoni",
+          "credit_id": "5cdb391ec3a36875bcc980e2",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1489575,
+          "known_for_department": "Acting",
+          "name": "Rita Pauls",
+          "original_name": "Rita Pauls",
+          "popularity": 0.6429,
+          "profile_path": "/uR98M24dcGcptKjvgLDN2wIoBoy.jpg",
+          "cast_id": 8,
+          "character": "Rita",
+          "credit_id": "5cdb392a0e0a263868d1c6fc",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2312862,
+          "known_for_department": "Acting",
+          "name": "Jacqueline Golbert",
+          "original_name": "Jacqueline Golbert",
+          "popularity": 0.4046,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Jacqui",
+          "credit_id": "5cdb393dc3a36831a3c00a1a",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2283826,
+          "known_for_department": "Directing",
+          "name": "Federico Luis Tachella",
+          "original_name": "Federico Luis Tachella",
+          "popularity": 0.7064,
+          "profile_path": "/rhROOH0pT0DwSUZS1eDNau7v5ce.jpg",
+          "credit_id": "5cb438b4c3a36858eea92647",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2283826,
+          "known_for_department": "Directing",
+          "name": "Federico Luis Tachella",
+          "original_name": "Federico Luis Tachella",
+          "popularity": 0.7064,
+          "profile_path": "/rhROOH0pT0DwSUZS1eDNau7v5ce.jpg",
+          "credit_id": "5cdb38cac3a36831dec722ae",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2235600,
+          "known_for_department": "Sound",
+          "name": "Martín Porta",
+          "original_name": "Martín Porta",
+          "popularity": 0.2786,
+          "profile_path": null,
+          "credit_id": "5cdb38fc0e0a2604afcf5a84",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1489575,
+          "known_for_department": "Acting",
+          "name": "Rita Pauls",
+          "original_name": "Rita Pauls",
+          "popularity": 0.6429,
+          "profile_path": "/uR98M24dcGcptKjvgLDN2wIoBoy.jpg",
+          "credit_id": "5cdb38da0e0a265f60ce3af6",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2312859,
+          "known_for_department": "Editing",
+          "name": "Tomás Murphy",
+          "original_name": "Tomás Murphy",
+          "popularity": 0.3545,
+          "profile_path": null,
+          "credit_id": "5cdb38eb9251413606d0da09",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-04-09T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cannes Film Festival",
+              "release_date": "2019-05-24T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "We Are One",
+              "release_date": "2020-06-01T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

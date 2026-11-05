@@ -1,0 +1,200 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1205943?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:44:50.376Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1205943,
+    "imdb_id": "tt30133242",
+    "origin_country": [
+      "AR",
+      "DE"
+    ],
+    "original_language": "es",
+    "original_title": "En El Mismísimo Momento",
+    "overview": "Un niño criado en el monte quiere exprimir la realidad. El adentro y el afuera se trenzan en su mente mientras invoca sus obsesiones y captura lo que pasa a su alrededor con una cámara.",
+    "popularity": 0.5624,
+    "poster_path": "/iI8bK11skYGhfl8XbVC0ChBwxmT.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2023-11-13",
+    "revenue": 0,
+    "runtime": 12,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "En El Mismísimo Momento",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4381891,
+          "known_for_department": "Acting",
+          "name": "Lisandro Díaz Deschamps",
+          "original_name": "Lisandro Díaz Deschamps",
+          "popularity": 0.0992,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Lisandro",
+          "credit_id": "6557519453866e00abac2f7b",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2412988,
+          "known_for_department": "Directing",
+          "name": "Juan Pablo Labonia",
+          "original_name": "Juan Pablo Labonia",
+          "popularity": 0.1272,
+          "profile_path": null,
+          "credit_id": "655752257f054018d6f30bc1",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1317121,
+          "known_for_department": "Directing",
+          "name": "Manuel Abramovich",
+          "original_name": "Manuel Abramovich",
+          "popularity": 0.3175,
+          "profile_path": "/fkTcpHEkWfrvznI3IPCR8u6eFkM.jpg",
+          "credit_id": "6557520453866e00e293d4c4",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2286408,
+          "known_for_department": "Editing",
+          "name": "Andrés Medina",
+          "original_name": "Andrés Medina",
+          "popularity": 0.5556,
+          "profile_path": null,
+          "credit_id": "65575251d4fe0400e1b40fb2",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1489575,
+          "known_for_department": "Acting",
+          "name": "Rita Pauls",
+          "original_name": "Rita Pauls",
+          "popularity": 0.4884,
+          "profile_path": "/uR98M24dcGcptKjvgLDN2wIoBoy.jpg",
+          "credit_id": "655751e70816c700c3dc7047",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2772807,
+          "known_for_department": "Sound",
+          "name": "Lautaro Zamaro",
+          "original_name": "Lautaro Zamaro",
+          "popularity": 0.2007,
+          "profile_path": null,
+          "credit_id": "65575269d4fe0400fe06f6d9",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2283826,
+          "known_for_department": "Directing",
+          "name": "Federico Luis Tachella",
+          "original_name": "Federico Luis Tachella",
+          "popularity": 0.7523,
+          "profile_path": "/rhROOH0pT0DwSUZS1eDNau7v5ce.jpg",
+          "credit_id": "655751c7d051d900c6f060c3",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "International Documentary Festival Amsterdam",
+              "release_date": "2023-11-13T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Young Horizons International Film Festival",
+              "release_date": "2024-09-29T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Message to Man International Film Festival",
+              "release_date": "2024-10-22T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

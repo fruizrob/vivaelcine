@@ -1,0 +1,122 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1717269?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:37.955Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/nOeLwJHyZO5omHop7C1vv6ofCTq.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1717269,
+    "imdb_id": "tt2064893",
+    "origin_country": [
+      "HR"
+    ],
+    "original_language": "hr",
+    "original_title": "Ornament duše",
+    "overview": "",
+    "popularity": 0.8007,
+    "poster_path": "/2wh49ny0IR71NM0eBsiyMkaFDwW.jpg",
+    "production_companies": [
+      {
+        "id": 5724,
+        "logo_path": "/yO1s1NSk7wbvQsldTIqfQPbvKAW.png",
+        "name": "Zagreb Film",
+        "origin_country": "HR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "HR",
+        "name": "Croatia"
+      }
+    ],
+    "release_date": "2011-09-23",
+    "revenue": 0,
+    "runtime": 9,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ornament duše",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1831530,
+          "known_for_department": "Directing",
+          "name": "Irena Jukić Pranjić",
+          "original_name": "Irena Jukić Pranjić",
+          "popularity": 0.2649,
+          "profile_path": null,
+          "credit_id": "6a35007d16bf21322df5c4a7",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1831530,
+          "known_for_department": "Directing",
+          "name": "Irena Jukić Pranjić",
+          "original_name": "Irena Jukić Pranjić",
+          "popularity": 0.2649,
+          "profile_path": null,
+          "credit_id": "6a35008963189ac4113d96fa",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1831530,
+          "known_for_department": "Directing",
+          "name": "Irena Jukić Pranjić",
+          "original_name": "Irena Jukić Pranjić",
+          "popularity": 0.2649,
+          "profile_path": null,
+          "credit_id": "6a3500e785bc9a1593bf92f3",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cambridge Film Festival",
+              "release_date": "2011-09-23T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

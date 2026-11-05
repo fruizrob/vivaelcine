@@ -1,0 +1,50 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=FJORD&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-05T16:45:26.699Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/iPVAMaI0W4lr7Rl56m0H388eR5.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1401459,
+        "title": "Fiordo",
+        "original_language": "ro",
+        "original_title": "Fjord",
+        "overview": "Los Gheorghius, una pareja rumano‑noruega muy devota, se instala en un pueblo remoto junto a un fiordo, donde entablan una estrecha amistad con sus vecinos, los Halbergs. Sus hijos se hacen amigos pese a haber sido educados de forma muy distinta. Todo cambia cuando la adolescente Elia Gheorghiu aparece en el colegio con moratones, y la comunidad se pregunta si la educación tradicional que reciben los hijos de los Gheorghiu puede estar relacionada.",
+        "popularity": 28.7746,
+        "poster_path": "/9L7ND90Rl6RANG5l0Z5ZfsI3RET.jpg",
+        "release_date": "2026-06-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 100
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bPMejLutbryptloHcADn38PHQ9z.jpg",
+        "genre_ids": [
+          99,
+          10402
+        ],
+        "id": 1576359,
+        "title": "MGA MAGICAL 10 YEARS ANNIVERSARY LIVE ～FJORD～ ON SCREEN",
+        "original_language": "ja",
+        "original_title": "MGA MAGICAL 10 YEARS ANNIVERSARY LIVE ～FJORD～ ON SCREEN",
+        "overview": "",
+        "popularity": 1.2345,
+        "poster_path": "/7xFWrLR6orhKvL2lMuJPO2apnbL.jpg",
+        "release_date": "2025-11-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  }
+}

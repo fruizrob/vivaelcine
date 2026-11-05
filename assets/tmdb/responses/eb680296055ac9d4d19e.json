@@ -1,0 +1,73 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1376603?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:45.486Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1376603,
+    "imdb_id": null,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "La siesta",
+    "overview": "Práctica realizada en la EOC por Cecilia Bartolomé.",
+    "popularity": 1.54,
+    "poster_path": "/hRSAmrTXjakyNy0PmrvKqLPY8ye.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1962-01-01",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "La siesta",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1154718,
+          "known_for_department": "Directing",
+          "name": "Cecilia Bartolomé",
+          "original_name": "Cecilia Bartolomé",
+          "popularity": 0.7295,
+          "profile_path": "/fOAbf7FOv6SWFCWHGgwfmooXQPq.jpg",
+          "credit_id": "671ade446d6b705dc8714339",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1962-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

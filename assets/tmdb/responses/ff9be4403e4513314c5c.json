@@ -1,0 +1,344 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1568038?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:44:54.198Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/cjn31irS5P71JmihFazcgAefrHj.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1568038,
+    "imdb_id": "tt38773523",
+    "origin_country": [
+      "FR",
+      "PL",
+      "ES",
+      "GB"
+    ],
+    "original_language": "xx",
+    "original_title": "Krakatoa",
+    "overview": "Un pescador javanés vive la mayor erupción volcánica de todos los tiempos. Varado en una isla desierta, en busca de comida y agua, se adentra cada vez más en las profundidades de la tierra. Una odisea visceral y psicodélica.",
+    "popularity": 1.8971,
+    "poster_path": "/gZq6W48cKX5vP367N7VwJbWDrVw.jpg",
+    "production_companies": [
+      {
+        "id": 278217,
+        "logo_path": null,
+        "name": "Map Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 120861,
+        "logo_path": "/aqAXSIXBOHZzA13hw45ztQup60X.png",
+        "name": "Filmika Galaika",
+        "origin_country": "ES"
+      },
+      {
+        "id": 157780,
+        "logo_path": null,
+        "name": "La Banda Negra",
+        "origin_country": "ES"
+      },
+      {
+        "id": 278218,
+        "logo_path": null,
+        "name": "AMI",
+        "origin_country": ""
+      },
+      {
+        "id": 212113,
+        "logo_path": null,
+        "name": "Etnograf",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "PL",
+        "name": "Poland"
+      }
+    ],
+    "release_date": "2026-01-31",
+    "revenue": 0,
+    "runtime": 79,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Krakatoa",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5769912,
+          "known_for_department": "Acting",
+          "name": "Roni Hensilayah",
+          "original_name": "Roni Hensilayah",
+          "popularity": 0.1262,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "68fb556f0c14b71e044dc606",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1170724,
+          "known_for_department": "Directing",
+          "name": "Carlos Casas",
+          "original_name": "Carlos Casas",
+          "popularity": 0.279,
+          "profile_path": null,
+          "credit_id": "68fb55f801ceb8ef590188ec",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1170724,
+          "known_for_department": "Directing",
+          "name": "Carlos Casas",
+          "original_name": "Carlos Casas",
+          "popularity": 0.279,
+          "profile_path": null,
+          "credit_id": "68fb5609a808852cdb3b0ff7",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1435759,
+          "known_for_department": "Production",
+          "name": "Beli Martínez",
+          "original_name": "Beli Martínez",
+          "popularity": 0.2262,
+          "profile_path": null,
+          "credit_id": "68fb561ba808852cdb3b0ffa",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1539732,
+          "known_for_department": "Directing",
+          "name": "Helena Girón",
+          "original_name": "Helena Girón",
+          "popularity": 0.4142,
+          "profile_path": "/5bjYkrkzsaS8DgMQ3gYEMuWWt6L.jpg",
+          "credit_id": "68fb565146616dcba45ddcc7",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1539731,
+          "known_for_department": "Directing",
+          "name": "Samuel M. Delgado",
+          "original_name": "Samuel M. Delgado",
+          "popularity": 0.5539,
+          "profile_path": "/78VyWuRTjudQTxlYmZ0tzShL9Uh.jpg",
+          "credit_id": "68fb5ab558f815ab9e0188a4",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2480799,
+          "known_for_department": "Production",
+          "name": "Elena Hill",
+          "original_name": "Elena Hill",
+          "popularity": 0.3378,
+          "profile_path": null,
+          "credit_id": "68fb5ac7d3b994189b09476e",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2860874,
+          "known_for_department": "Production",
+          "name": "Krzysztof Dabrowski",
+          "original_name": "Krzysztof Dabrowski",
+          "popularity": 0.2077,
+          "profile_path": null,
+          "credit_id": "68fb5ad8a0601bb3ba04f7f7",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4195925,
+          "known_for_department": "Sound",
+          "name": "Carlos Casas",
+          "original_name": "Carlos Casas",
+          "popularity": 0.2354,
+          "profile_path": null,
+          "credit_id": "68fb5ae6b9cf04580a4dc681",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1162074,
+          "known_for_department": "Camera",
+          "name": "Benjamín Echazarreta",
+          "original_name": "Benjamín Echazarreta",
+          "popularity": 0.3948,
+          "profile_path": "/tX33kd2ugfCaPErI0HATzBcRNiO.jpg",
+          "credit_id": "68fb5af394a68aaafa5a35b5",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 984145,
+          "known_for_department": "Editing",
+          "name": "Felipe Guerrero",
+          "original_name": "Felipe Guerrero",
+          "popularity": 0.2561,
+          "profile_path": null,
+          "credit_id": "68fb5b0146ae5799dd0188a9",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17428,
+          "known_for_department": "Sound",
+          "name": "Nicolas Becker",
+          "original_name": "Nicolas Becker",
+          "popularity": 0.545,
+          "profile_path": null,
+          "credit_id": "68fb5b11243f48fe4f5ddd4c",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17428,
+          "known_for_department": "Sound",
+          "name": "Nicolas Becker",
+          "original_name": "Nicolas Becker",
+          "popularity": 0.545,
+          "profile_path": null,
+          "credit_id": "68fb5b23f0ca95c52c04f7f5",
+          "department": "Sound",
+          "job": "Music"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Viennale",
+              "release_date": "2026-10-30T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "ALL",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Jeonju International Film Festival",
+              "release_date": "2026-05-03T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "International Film Festival Rotterdam ",
+              "release_date": "2026-01-31T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "013 International Film Festival",
+              "release_date": "2026-10-21T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Lima Alterna Festival Internacional de Cine",
+              "release_date": "2026-10-16T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1640937?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:44:52.288Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1640937,
+    "imdb_id": null,
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Das geheime Imperium hinter US-Medien",
+    "overview": "",
+    "popularity": 0.6013,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 222569,
+        "logo_path": null,
+        "name": "simplicissimus",
+        "origin_country": "NL"
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2026-02-22",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Das geheime Imperium hinter US-Medien",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3495329,
+          "known_for_department": "Directing",
+          "name": "Jonas",
+          "original_name": "Jonas",
+          "popularity": 0.1658,
+          "profile_path": null,
+          "credit_id": "699ca029a4ff8e95f90e5c29",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3495336,
+          "known_for_department": "Directing",
+          "name": "David",
+          "original_name": "David",
+          "popularity": 0.2691,
+          "profile_path": null,
+          "credit_id": "699ca03d0145191b0e6a42d7",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "de",
+              "note": "",
+              "release_date": "2026-02-22T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

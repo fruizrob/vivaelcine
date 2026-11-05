@@ -1,0 +1,87 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=SILENT+FRIEND&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:36.401Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/iOIc1rD53iF5D5y5pVGEs8uUTVc.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1168719,
+        "title": "El amigo silencioso",
+        "original_language": "de",
+        "original_title": "Silent Friend",
+        "overview": "En el corazón de un jardín botánico en una ciudad universitaria medieval de Alemania se alza un majestuoso ginkgo. Este testigo silencioso ha observado durante más de un siglo los tranquilos ritmos de la transformación a lo largo de tres vidas humanas. En 2020, un neurocientífico de Hong Kong, explorando la mente de los bebés, inicia un experimento inesperado con el viejo árbol. En 1972, un joven estudiante cambia profundamente por el simple acto de observar y conectar con un geranio. En 1908, la primera estudiante universitaria descubre, a través del lente de la fotografía, los patrones sagrados del universo ocultos en las plantas más humildes. Seguimos sus torpes e inexplicables intentos de conectar -cada uno profundamente arraigado en su propio presente- mientras son transformados por el poder silencioso, perdurable y misterioso de la naturaleza. El antiguo ginkgo nos acerca a lo que significa ser humano: a nuestro anhelo de pertenencia.",
+        "popularity": 5.0353,
+        "poster_path": "/7LDGx6T3LpkTOfmXt3aAUITUKZm.jpg",
+        "release_date": "2026-01-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.225,
+        "vote_count": 60
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7EBu5PkJKWGUusRtZvSdIm0a1BC.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1240343,
+        "title": "My Silent Friend",
+        "original_language": "en",
+        "original_title": "My Silent Friend",
+        "overview": "",
+        "popularity": 0.3855,
+        "poster_path": "/zZaNASNHJY2g3hGRC0sIALh8ZGX.jpg",
+        "release_date": "2024-02-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nsa8Ms4eJOSJ4XHFM32dhqzJm12.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1688981,
+        "title": "Silent Friends",
+        "original_language": "en",
+        "original_title": "Silent Friends",
+        "overview": "",
+        "popularity": 0.3204,
+        "poster_path": "/fyUkVRubumOfiKmO3uTljbMH9Fa.jpg",
+        "release_date": "2025-06-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 626268,
+        "title": "Silent Friends",
+        "original_language": "en",
+        "original_title": "Silent Friends",
+        "overview": "",
+        "popularity": 0.4688,
+        "poster_path": "/a9YS466b1HZg33uls4uPUMTXxJE.jpg",
+        "release_date": "1969-12-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 2
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+  }
+}

@@ -1,11 +1,11 @@
 import { festivals, festivalFor } from './data.js?v=20261105-years';
 import { clock, durationOf, endOf, initialDay, roomLocation, yearOf } from './core.js?v=20261105-years';
-import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261105-years';
+import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261105-marks';
 import { screeningUrl } from './story.js?v=20261104-2';
 import { setupSharing } from './sharing.js?v=20261104-share-menu';
-import { renderFestivalHistory } from './festival-history.js?v=20261104-history-2';
+import { renderFestivalHistory } from './festival-history.js?v=20261105-marks';
 
-const data = festivalFor(location.search);
+const data = { ...festivalFor(location.search), festivalHistory: {} };
 const $ = selector => document.querySelector(selector);
 const requestedDay = new URLSearchParams(location.search).get('dia');
 const eventsById = new Map(data.events.map(event => [event.id, event]));
@@ -256,3 +256,25 @@ renderFestival();
 renderDays();
 renderSchedule();
 if (requestedScreening) showDetail(requestedScreening.id);
+
+// The agenda works immediately, even if the optional local snapshot is unavailable.
+fetch('./data/tmdb-festival-history.json?v=20261105-tmdb-all', { signal: AbortSignal.timeout(5000) })
+  .then(response => { if (!response.ok) throw new Error('History unavailable'); return response.json(); })
+  .then(snapshot => {
+    data.festivalHistory = snapshot.films || {};
+    const active = document.activeElement;
+    const focusedEvent = active.closest('[data-event]')?.dataset.event;
+    const focusedControl = active.matches('.event-share') ? '.event-share' : active.matches('.event-rating') ? '.event-rating' : '.event-main';
+    renderSchedule();
+    if (focusedEvent) {
+      const card = document.querySelector(`[data-event="${focusedEvent}"]`);
+      const control = card?.querySelector(focusedControl);
+      (control?.offsetParent ? control : card?.querySelector('.event-main'))?.focus({ preventScroll: true });
+    }
+    if (dialog.open) {
+      const programmeOpen = $('#film-detail details')?.open;
+      renderDetail();
+      if (programmeOpen) $('#film-detail details').open = true;
+    }
+  })
+  .catch(() => {});

@@ -1,0 +1,709 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1536053?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:35.767Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/3ACk8ut0vKd5B550UETY54K0DFA.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 1536053,
+    "imdb_id": "tt38551604",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Sacré Cœur: Son Règne N'a Pas De Fin",
+    "overview": "Una docuficción que nos sumerge en el misterio del Sagrado Corazón de Jesús y nos revela su amor personal e incondicional.",
+    "popularity": 1.8374,
+    "poster_path": "/AnDL1kJLIQmUMGmXCAkzQTri3lJ.jpg",
+    "production_companies": [
+      {
+        "id": 272280,
+        "logo_path": null,
+        "name": "Krea Film Makers",
+        "origin_country": "FR"
+      },
+      {
+        "id": 104,
+        "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+        "name": "Canal+",
+        "origin_country": "FR"
+      },
+      {
+        "id": 234479,
+        "logo_path": "/hoHN2AyxgZ0XCF6gvSBEk57nzjd.png",
+        "name": "Cine+ OCS",
+        "origin_country": "FR"
+      },
+      {
+        "id": 142487,
+        "logo_path": "/aOSWEgNGE0CwUTOLBrkSb5pUJOX.png",
+        "name": "C8",
+        "origin_country": "FR"
+      },
+      {
+        "id": 183510,
+        "logo_path": "/jZGOExPfpUe6vLVU9vaYB0eD7XL.png",
+        "name": "KTO TV",
+        "origin_country": "FR"
+      },
+      {
+        "id": 193379,
+        "logo_path": null,
+        "name": "Plaza Mayor Company",
+        "origin_country": ""
+      },
+      {
+        "id": 153524,
+        "logo_path": null,
+        "name": "SAJE Distribution",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2025-10-01",
+    "revenue": 66280,
+    "runtime": 97,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Sagrado corazón",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 13,
+    "credits": {
+      "cast": [
+        {
+          "adult": true,
+          "gender": 0,
+          "id": 5375976,
+          "known_for_department": "Acting",
+          "name": "Grégory Dutoit",
+          "original_name": "Grégory Dutoit",
+          "popularity": 0,
+          "profile_path": "/s7Mq8s3DIzvqztLfsXLwqfzjJZb.jpg",
+          "cast_id": 5,
+          "character": "Jésus-Christ",
+          "credit_id": "68ad9e3fe15eaed8e48d2ca7",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5650331,
+          "known_for_department": "Acting",
+          "name": "Julie Budria",
+          "original_name": "Julie Budria",
+          "popularity": 0.546,
+          "profile_path": "/rR8slaKdh4fLLqpsRNm9AiyLMmA.jpg",
+          "cast_id": 6,
+          "character": "Sainte-Marguerite Marie",
+          "credit_id": "68ad9e4feaf5c82d7844966a",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5650327,
+          "known_for_department": "Directing",
+          "name": "Sabrina Gunnell",
+          "original_name": "Sabrina Gunnell",
+          "popularity": 0.2446,
+          "profile_path": "/q3UbwgSTTyqCNKeU2csdQjBtmEz.jpg",
+          "cast_id": 7,
+          "character": "Vierge Marie",
+          "credit_id": "68ad9e5fd639264822782aaf",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4749831,
+          "known_for_department": "Acting",
+          "name": "Marcel Charlon",
+          "original_name": "Marcel Charlon",
+          "popularity": 0.2561,
+          "profile_path": "/wVjQYKuv6aB6NXUc9EIPfMajvny.jpg",
+          "cast_id": 8,
+          "character": "Saint-Jean",
+          "credit_id": "68ad9e72c445874e67782857",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5650327,
+          "known_for_department": "Directing",
+          "name": "Sabrina Gunnell",
+          "original_name": "Sabrina Gunnell",
+          "popularity": 0.2446,
+          "profile_path": "/q3UbwgSTTyqCNKeU2csdQjBtmEz.jpg",
+          "credit_id": "68ad9e033fcea4610d9db8f1",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5650327,
+          "known_for_department": "Directing",
+          "name": "Sabrina Gunnell",
+          "original_name": "Sabrina Gunnell",
+          "popularity": 0.2446,
+          "profile_path": "/q3UbwgSTTyqCNKeU2csdQjBtmEz.jpg",
+          "credit_id": "68ad9e09f36db17dc58d2afe",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5650329,
+          "known_for_department": "Directing",
+          "name": "Steven Gunnell",
+          "original_name": "Steven Gunnell",
+          "popularity": 0.2279,
+          "profile_path": "/p1eoZ28BQHp3dq0pQsSOuCGpvMt.jpg",
+          "credit_id": "68ad9e16a786e387f71e5a77",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5650329,
+          "known_for_department": "Directing",
+          "name": "Steven Gunnell",
+          "original_name": "Steven Gunnell",
+          "popularity": 0.2279,
+          "profile_path": "/p1eoZ28BQHp3dq0pQsSOuCGpvMt.jpg",
+          "credit_id": "68ad9e1ce1319e8ffb8d2bbd",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1995024,
+          "known_for_department": "Camera",
+          "name": "Matthieu Misiraca",
+          "original_name": "Matthieu Misiraca",
+          "popularity": 0.2281,
+          "profile_path": null,
+          "credit_id": "68ad9e8beaf5c82d78449678",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5650327,
+          "known_for_department": "Directing",
+          "name": "Sabrina Gunnell",
+          "original_name": "Sabrina Gunnell",
+          "popularity": 0.2446,
+          "profile_path": "/q3UbwgSTTyqCNKeU2csdQjBtmEz.jpg",
+          "credit_id": "6a2890f0ed82ded393c972c7",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5650329,
+          "known_for_department": "Directing",
+          "name": "Steven Gunnell",
+          "original_name": "Steven Gunnell",
+          "popularity": 0.2279,
+          "profile_path": "/p1eoZ28BQHp3dq0pQsSOuCGpvMt.jpg",
+          "credit_id": "6a2890f98e187e18ea555c0f",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1995024,
+          "known_for_department": "Camera",
+          "name": "Matthieu Misiraca",
+          "original_name": "Matthieu Misiraca",
+          "popularity": 0.2281,
+          "profile_path": null,
+          "credit_id": "6a2891018e187e18ea555c12",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4223448,
+          "known_for_department": "Editing",
+          "name": "Thibaud Deschamps",
+          "original_name": "Thibaud Deschamps",
+          "popularity": 0.1033,
+          "profile_path": null,
+          "credit_id": "6a28910a8e187e18ea555c15",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1303320,
+          "known_for_department": "Sound",
+          "name": "Thierry Malet",
+          "original_name": "Thierry Malet",
+          "popularity": 0.2102,
+          "profile_path": null,
+          "credit_id": "6a28911468694c9e9b555bbb",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1303320,
+          "known_for_department": "Sound",
+          "name": "Thierry Malet",
+          "original_name": "Thierry Malet",
+          "popularity": 0.2102,
+          "profile_path": null,
+          "credit_id": "6a28911e68694c9e9b555bbf",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6275162,
+          "known_for_department": "Production",
+          "name": "Laetitia Gaune",
+          "original_name": "Laetitia Gaune",
+          "popularity": 0.1181,
+          "profile_path": null,
+          "credit_id": "6a28912c3c281d86cbc971db",
+          "department": "Production",
+          "job": "Casting Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3200557,
+          "known_for_department": "Directing",
+          "name": "Abhinav Singh",
+          "original_name": "Abhinav Singh",
+          "popularity": 0.1621,
+          "profile_path": null,
+          "credit_id": "6a2891354bd20837d35452fd",
+          "department": "Production",
+          "job": "Casting Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2244479,
+          "known_for_department": "Art",
+          "name": "Clara Labbé",
+          "original_name": "Clara Labbé",
+          "popularity": 0.1838,
+          "profile_path": null,
+          "credit_id": "6a28913e6a8c6af681fc352e",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6275164,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Aurore Moloux",
+          "original_name": "Aurore Moloux",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "6a28914834d54d9223fc3618",
+          "department": "Costume & Make-Up",
+          "job": "Costumer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2623511,
+          "known_for_department": "Production",
+          "name": "François-Hugues de Vaumas",
+          "original_name": "François-Hugues de Vaumas",
+          "popularity": 0.4255,
+          "profile_path": null,
+          "credit_id": "6a28915207085cc626c97075",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1860525,
+          "known_for_department": "Sound",
+          "name": "Jérémie Vernerey",
+          "original_name": "Jérémie Vernerey",
+          "popularity": 0.1671,
+          "profile_path": null,
+          "credit_id": "6a28915ac4cc9a43a0fc3544",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5778670,
+          "known_for_department": "Crew",
+          "name": "Stephen Bigot",
+          "original_name": "Stephen Bigot",
+          "popularity": 0.3435,
+          "profile_path": "/1uSoJUl8c1aAtccHP1xsRoHYlAP.jpg",
+          "credit_id": "6a28916ead5c54ee0b555b3a",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4330077,
+          "known_for_department": "Lighting",
+          "name": "Guillaume Chaumet",
+          "original_name": "Guillaume Chaumet",
+          "popularity": 0.4117,
+          "profile_path": null,
+          "credit_id": "6a2891766adcc320a47c2743",
+          "department": "Lighting",
+          "job": "Electrician"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6275168,
+          "known_for_department": "Lighting",
+          "name": "Luc Pihet",
+          "original_name": "Luc Pihet",
+          "popularity": 0.1502,
+          "profile_path": null,
+          "credit_id": "6a28917f5ce2168b3a555bee",
+          "department": "Lighting",
+          "job": "Electrician"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1320835,
+          "known_for_department": "Editing",
+          "name": "Rémi Berge",
+          "original_name": "Rémi Berge",
+          "popularity": 0.2707,
+          "profile_path": null,
+          "credit_id": "6a28918a6adcc320a47c2746",
+          "department": "Editing",
+          "job": "Digital Colorist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6275169,
+          "known_for_department": "Crew",
+          "name": "Audrey Misiraca",
+          "original_name": "Audrey Misiraca",
+          "popularity": 0.1013,
+          "profile_path": null,
+          "credit_id": "6a289192ed82ded393c972e0",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6275170,
+          "known_for_department": "Crew",
+          "name": "Emile Soleil",
+          "original_name": "Emile Soleil",
+          "popularity": 0.1448,
+          "profile_path": null,
+          "credit_id": "6a28919de469006c342407bb",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5650327,
+          "known_for_department": "Directing",
+          "name": "Sabrina Gunnell",
+          "original_name": "Sabrina Gunnell",
+          "popularity": 0.2446,
+          "profile_path": "/q3UbwgSTTyqCNKeU2csdQjBtmEz.jpg",
+          "credit_id": "6a2891aead5c54ee0b555b40",
+          "department": "Writing",
+          "job": "Idea"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5650327,
+          "known_for_department": "Directing",
+          "name": "Sabrina Gunnell",
+          "original_name": "Sabrina Gunnell",
+          "popularity": 0.2446,
+          "profile_path": "/q3UbwgSTTyqCNKeU2csdQjBtmEz.jpg",
+          "credit_id": "6a2891b2d892c124b6c96eab",
+          "department": "Crew",
+          "job": "Script"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5650327,
+          "known_for_department": "Directing",
+          "name": "Sabrina Gunnell",
+          "original_name": "Sabrina Gunnell",
+          "popularity": 0.2446,
+          "profile_path": "/q3UbwgSTTyqCNKeU2csdQjBtmEz.jpg",
+          "credit_id": "6a2891b8709e9a7b3e555bf1",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5650327,
+          "known_for_department": "Directing",
+          "name": "Sabrina Gunnell",
+          "original_name": "Sabrina Gunnell",
+          "popularity": 0.2446,
+          "profile_path": "/q3UbwgSTTyqCNKeU2csdQjBtmEz.jpg",
+          "credit_id": "6a2891be7f771de865545228",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5650329,
+          "known_for_department": "Directing",
+          "name": "Steven Gunnell",
+          "original_name": "Steven Gunnell",
+          "popularity": 0.2279,
+          "profile_path": "/p1eoZ28BQHp3dq0pQsSOuCGpvMt.jpg",
+          "credit_id": "6a2891cdff24cd095180cac1",
+          "department": "Writing",
+          "job": "Idea"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5650329,
+          "known_for_department": "Directing",
+          "name": "Steven Gunnell",
+          "original_name": "Steven Gunnell",
+          "popularity": 0.2279,
+          "profile_path": "/p1eoZ28BQHp3dq0pQsSOuCGpvMt.jpg",
+          "credit_id": "6a2891d286aaabba8912cb0a",
+          "department": "Crew",
+          "job": "Script"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5650329,
+          "known_for_department": "Directing",
+          "name": "Steven Gunnell",
+          "original_name": "Steven Gunnell",
+          "popularity": 0.2279,
+          "profile_path": "/p1eoZ28BQHp3dq0pQsSOuCGpvMt.jpg",
+          "credit_id": "6a2891d71d0c594708eccf01",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5650329,
+          "known_for_department": "Directing",
+          "name": "Steven Gunnell",
+          "original_name": "Steven Gunnell",
+          "popularity": 0.2279,
+          "profile_path": "/p1eoZ28BQHp3dq0pQsSOuCGpvMt.jpg",
+          "credit_id": "6a2891dc86aaabba8912cb0d",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-08-20T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-09-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2025-10-01T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "TP",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Canal+",
+              "release_date": "2026-05-20T00:00:00.000Z",
+              "type": 4
+            },
+            {
+              "certification": "TP",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Canal+",
+              "release_date": "2026-05-20T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-08-27T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-02-20T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "fr",
+              "note": "",
+              "release_date": "2026-06-09T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "IT",
+          "title": "Sacro Cuore",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PL",
+          "title": "Najświętsze Serce",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "Sagrado Corazón",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "Sacred Heart: His Reign Has No End",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Sacré Cœur",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "HU",
+          "title": "Sacré Coeur: A Szent Szív Csodálatos Hatalma",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Sacré Coeur: Son Règne N'a Pas De Fin",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "MX",
+          "title": "Sagrado Corazón",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

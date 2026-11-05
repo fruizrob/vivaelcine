@@ -1,0 +1,94 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=NARCISO&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-05T16:45:30.565Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/d5ghx4ZT0mXQxDbcg31oolwp7F2.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          80,
+          53
+        ],
+        "id": 1056494,
+        "title": "Narciso",
+        "original_language": "es",
+        "original_title": "Narciso",
+        "overview": "Asunción, 1959. Él era un Adonis: Joven, guapo, atrevido. Un niño salvaje en una ciudad controlada por un régimen militar. Era deseado tanto por hombres como por mujeres, pero su gran amor era el rock & roll. Una madrugada, su cuerpo apareció atado a su cama, completamente quemado.",
+        "popularity": 2.6104,
+        "poster_path": "/iUeD1Jy8yho7G3G79cCY5jblbcS.jpg",
+        "release_date": "2026-04-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 9,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10751,
+          14
+        ],
+        "id": 1621216,
+        "title": "Narciso",
+        "original_language": "pt",
+        "original_title": "Narciso",
+        "overview": "",
+        "popularity": 2.7069,
+        "poster_path": "/6JO7whKfN2GB7KIoflDtF5ym1l6.jpg",
+        "release_date": "2026-03-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pihqiBw8Go03ektvw0Xd01gCjOo.jpg",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 1698443,
+        "title": "Yo, Narciso",
+        "original_language": "es",
+        "original_title": "Yo, Narciso",
+        "overview": "La historia sigue a Rocío, una socióloga que escribe un libro sobre el narcisismo moderno. Para su investigación, se infiltra haciéndose pasar por paciente de Máximo Rey, un carismático y egocéntrico cirujano plástico, desencadenando situaciones desopilantes.",
+        "popularity": 3.6533,
+        "poster_path": "/3qe9gaT7jpKVJJ6UtM9Pr5jm3Hq.jpg",
+        "release_date": "2026-08-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          14,
+          18
+        ],
+        "id": 1715980,
+        "title": "Narciso",
+        "original_language": "pt",
+        "original_title": "Narciso",
+        "overview": "",
+        "popularity": 0.4369,
+        "poster_path": "/3kMgWQeRFXysCua7pP3BuuEjpuw.jpg",
+        "release_date": "2026-06-17",
+        "softcore": false,
+        "video": true,
+        "vote_average": 10,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+  }
+}

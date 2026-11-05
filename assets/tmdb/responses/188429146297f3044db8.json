@@ -1,0 +1,596 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/38267?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:15.543Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/9d1zhCO3d3lu7LPDFqeg9gPE1uX.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 38267,
+    "imdb_id": "tt0059895",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "City Under the Sea",
+    "overview": "Un hombre-pez se introduce en un castillo costero y secuestra a una mujer (Susan Hart) cuyo rostro es muy parecido al de la esposa del rey del mundo submarino. Un joven ingeniero (Tab Hunter) y un pintor (David Tomlinson) se sumergen para rescatarla, pero, para ello, tendrán que enfrentarse con el siniestro rey de los hombres-pez (Vincent Price) y de la ciudad sumergida.",
+    "popularity": 1.7981,
+    "poster_path": "/tAmP9tNte8UUE7HgbTILlbPvBBv.jpg",
+    "production_companies": [
+      {
+        "id": 5694,
+        "logo_path": null,
+        "name": "Bruton Film Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 9266,
+        "logo_path": "/lRinQ7scVye5N8qkUIoCB4QXbRh.png",
+        "name": "American International Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1965-05-26",
+    "revenue": 0,
+    "runtime": 84,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La ciudad sumergida",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 86,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1905,
+          "known_for_department": "Acting",
+          "name": "Vincent Price",
+          "original_name": "Vincent Price",
+          "popularity": 1.8879,
+          "profile_path": "/7JIv7U5kwveryP7hrPYgHlKea4d.jpg",
+          "cast_id": 2,
+          "character": "Sir Hugh",
+          "credit_id": "52fe46a49251416c9105af83",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5825,
+          "known_for_department": "Acting",
+          "name": "David Tomlinson",
+          "original_name": "David Tomlinson",
+          "popularity": 0.8125,
+          "profile_path": "/lKhZSgrvhArJcB9uowtxto8ACt2.jpg",
+          "cast_id": 3,
+          "character": "Harold Tufnell-Jones",
+          "credit_id": "52fe46a49251416c9105af87",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 76519,
+          "known_for_department": "Acting",
+          "name": "Tab Hunter",
+          "original_name": "Tab Hunter",
+          "popularity": 1.0027,
+          "profile_path": "/Al7g54L0UWHB4l3eCmeaEnUqreC.jpg",
+          "cast_id": 4,
+          "character": "Ben Harris",
+          "credit_id": "52fe46a49251416c9105af8b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 113656,
+          "known_for_department": "Acting",
+          "name": "Susan Hart",
+          "original_name": "Susan Hart",
+          "popularity": 0.4783,
+          "profile_path": "/AjR6cE8Hkm4d0XheRBSmlqspQ5t.jpg",
+          "cast_id": 5,
+          "character": "Jill Tregillis",
+          "credit_id": "52fe46a49251416c9105af8f",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14264,
+          "known_for_department": "Acting",
+          "name": "John Le Mesurier",
+          "original_name": "John Le Mesurier",
+          "popularity": 1.6905,
+          "profile_path": "/2rElQQzZXkxPj2UnqsDSCkFHQxk.jpg",
+          "cast_id": 9,
+          "character": "Rev. Jonathan Ives",
+          "credit_id": "56eca79d92514143fe0041a0",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 47396,
+          "known_for_department": "Acting",
+          "name": "Henry Oscar",
+          "original_name": "Henry Oscar",
+          "popularity": 0.7696,
+          "profile_path": "/pl4O85puwtdzCx8gOQegwaoiVT9.jpg",
+          "cast_id": 10,
+          "character": "Mumford",
+          "credit_id": "56eca801c3a36822600044ea",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 85535,
+          "known_for_department": "Acting",
+          "name": "Derek Newark",
+          "original_name": "Derek Newark",
+          "popularity": 0.4965,
+          "profile_path": "/qUVUzXMrckMIoeV6Ap5bYYIC3DL.jpg",
+          "cast_id": 11,
+          "character": "Dan",
+          "credit_id": "56eca80cc3a368225600453f",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1592682,
+          "known_for_department": "Acting",
+          "name": "Roy Patrick",
+          "original_name": "Roy Patrick",
+          "popularity": 0.23,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Simon",
+          "credit_id": "56eca9079251415e59003e45",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1592683,
+          "known_for_department": "Acting",
+          "name": "Dennis Blake",
+          "original_name": "Dennis Blake",
+          "popularity": 0.2314,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Harry",
+          "credit_id": "56eca9219251415e59003e50",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1592684,
+          "known_for_department": "Acting",
+          "name": "Steven Brooke",
+          "original_name": "Steven Brooke",
+          "popularity": 0.1075,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Ted",
+          "credit_id": "56eca92c9251414408004045",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1592685,
+          "known_for_department": "Acting",
+          "name": "Jim Spearman",
+          "original_name": "Jim Spearman",
+          "popularity": 0.1075,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Jack",
+          "credit_id": "56eca9399251415e59003e5d",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 86106,
+          "known_for_department": "Acting",
+          "name": "Tony Selby",
+          "original_name": "Tony Selby",
+          "popularity": 0.6331,
+          "profile_path": "/qWg2ffBlEkP5G1KrBxfbaWHtF6z.jpg",
+          "cast_id": 16,
+          "character": "George",
+          "credit_id": "56eca9469251415e59003e65",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1592686,
+          "known_for_department": "Acting",
+          "name": "Michael Heyland",
+          "original_name": "Michael Heyland",
+          "popularity": 0.1369,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Bill",
+          "credit_id": "56eca956c3a3682259003d9f",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1240935,
+          "known_for_department": "Acting",
+          "name": "John Barrett",
+          "original_name": "John Barrett",
+          "popularity": 0.3288,
+          "profile_path": "/kB7EpVwDuowHaPuy48I0ZPyqWG3.jpg",
+          "cast_id": 29,
+          "character": "Third Fisherman",
+          "credit_id": "5b33c151c3a3685311017f70",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 117392,
+          "known_for_department": "Acting",
+          "name": "William Hurndell",
+          "original_name": "William Hurndell",
+          "popularity": 0.1889,
+          "profile_path": "/vRcqIlmdZ2YXymKydyAg8wCvmdh.jpg",
+          "cast_id": 30,
+          "character": "Tom",
+          "credit_id": "64e75cd9c613ce00ac410b5e",
+          "order": 14
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 10146,
+          "known_for_department": "Directing",
+          "name": "Jacques Tourneur",
+          "original_name": "Jacques Tourneur",
+          "popularity": 0.7373,
+          "profile_path": "/o3Du8pFBlQ22JXGTVw9IB9yKVuC.jpg",
+          "credit_id": "52fe46a49251416c9105af7f",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 48415,
+          "known_for_department": "Writing",
+          "name": "Edgar Allan Poe",
+          "original_name": "Edgar Allan Poe",
+          "popularity": 1.1009,
+          "profile_path": "/AlgddAgqBWRZUNHtX2Rue60HSIg.jpg",
+          "credit_id": "652addde0cb33516f63e7884",
+          "department": "Writing",
+          "job": "Short Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3599,
+          "known_for_department": "Writing",
+          "name": "Charles Bennett",
+          "original_name": "Charles Bennett",
+          "popularity": 0.468,
+          "profile_path": "/32S9hq6NXKjchDb31YbM7YJVJlr.jpg",
+          "credit_id": "56900643925141188f0029c8",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 82562,
+          "known_for_department": "Production",
+          "name": "Louis M. Heyward",
+          "original_name": "Louis M. Heyward",
+          "popularity": 0.2725,
+          "profile_path": null,
+          "credit_id": "5690065092514118a1002815",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1213437,
+          "known_for_department": "Writing",
+          "name": "David Whitaker",
+          "original_name": "David Whitaker",
+          "popularity": 0.8205,
+          "profile_path": "/4B6wdQRSykPumYyx0aAqoTHG3DM.jpg",
+          "credit_id": "56eca97d9251411958000426",
+          "department": "Crew",
+          "job": "Additional Dialogue"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 28236,
+          "known_for_department": "Art",
+          "name": "Daniel Haller",
+          "original_name": "Daniel Haller",
+          "popularity": 0.5266,
+          "profile_path": "/8vC5szvbyNTGsog7q4pXLc3i8w2.jpg",
+          "credit_id": "56eca9969251413a8f001f1a",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 131505,
+          "known_for_department": "Production",
+          "name": "George Willoughby",
+          "original_name": "George Willoughby",
+          "popularity": 0.1481,
+          "profile_path": null,
+          "credit_id": "56eca9a69251414dba002b9a",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 131505,
+          "known_for_department": "Production",
+          "name": "George Willoughby",
+          "original_name": "George Willoughby",
+          "popularity": 0.1481,
+          "profile_path": null,
+          "credit_id": "56eca9ac9251411958000439",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 101984,
+          "known_for_department": "Sound",
+          "name": "Stanley Black",
+          "original_name": "Stanley Black",
+          "popularity": 0.5738,
+          "profile_path": "/swRgMBo7ej0T3EZxNtNqmNbF9TC.jpg",
+          "credit_id": "56eca9c49251413a8f001f2f",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 27926,
+          "known_for_department": "Camera",
+          "name": "Stephen Dade",
+          "original_name": "Stephen Dade",
+          "popularity": 0.173,
+          "profile_path": null,
+          "credit_id": "56eca9d19251415e59003e96",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29311,
+          "known_for_department": "Editing",
+          "name": "Gordon Hales",
+          "original_name": "Gordon Hales",
+          "popularity": 0.2294,
+          "profile_path": null,
+          "credit_id": "56ecaa04c3a368226e004637",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1590913,
+          "known_for_department": "Production",
+          "name": "Harvey Woods",
+          "original_name": "Harvey Woods",
+          "popularity": 0.1737,
+          "profile_path": null,
+          "credit_id": "56ecaa219251415e59003eae",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 32116,
+          "known_for_department": "Art",
+          "name": "Frank White",
+          "original_name": "Frank White",
+          "popularity": 0.4165,
+          "profile_path": null,
+          "credit_id": "56ecaa309251415e62004282",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 18758,
+          "known_for_department": "Crew",
+          "name": "Les Bowie",
+          "original_name": "Les Bowie",
+          "popularity": 0.5504,
+          "profile_path": null,
+          "credit_id": "56ecaa42c3a36822560045e2",
+          "department": "Crew",
+          "job": "Special Effects"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1592687,
+          "known_for_department": "Crew",
+          "name": "Frank George",
+          "original_name": "Frank George",
+          "popularity": 0.2115,
+          "profile_path": null,
+          "credit_id": "56ecaa52c3a36822600045bd",
+          "department": "Crew",
+          "job": "Special Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 67054,
+          "known_for_department": "Writing",
+          "name": "H.P. Lovecraft",
+          "original_name": "H.P. Lovecraft",
+          "popularity": 0.6887,
+          "profile_path": "/vOGKvnqADcJwRRmVeGdbc7HWK7s.jpg",
+          "credit_id": "6a5a0b4bc72fd45867811528",
+          "department": "Writing",
+          "job": "Short Story"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-10-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "1966-07-24T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "1965-06-02T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1965-05-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "City in the Sea",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "La Cité sous la mer",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "AU",
+          "title": "The City Under the Sea",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Die Stadt unter dem Meer",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "GB",
+          "title": "City Under the Sea",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "GB",
+          "title": "War-Gods of The Deep",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "JP",
+          "title": "深海の軍神",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

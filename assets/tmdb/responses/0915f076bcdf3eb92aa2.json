@@ -1,0 +1,219 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/337299?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:05.056Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 10000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 337299,
+    "imdb_id": "tt0065197",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "We All Go Down",
+    "overview": "",
+    "popularity": 0.383,
+    "poster_path": "/uxEKd1am23f26afw8zHInEQkx6O.jpg",
+    "production_companies": [
+      {
+        "id": 80185,
+        "logo_path": null,
+        "name": "Cinex Film Industries",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1969-11-27",
+    "revenue": 0,
+    "runtime": 73,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "We All Go Down",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1458785,
+          "known_for_department": "Acting",
+          "name": "Bill Doukas",
+          "original_name": "Bill Doukas",
+          "popularity": 0.1079,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Pete",
+          "credit_id": "553b04ed925141275e0045e7",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1458786,
+          "known_for_department": "Acting",
+          "name": "Alice Haley",
+          "original_name": "Alice Haley",
+          "popularity": 0.1331,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Nancy",
+          "credit_id": "553b050ec3a36831dd00b157",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1458788,
+          "known_for_department": "Acting",
+          "name": "Justine Simmon",
+          "original_name": "Justine Simmon",
+          "popularity": 0.1161,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Peggy",
+          "credit_id": "553b0521c3a3683c48001400",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1458789,
+          "known_for_department": "Acting",
+          "name": "Gillian Martine",
+          "original_name": "Gillian Martine",
+          "popularity": 0.1518,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Judy",
+          "credit_id": "553b0531c3a3687845009aeb",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1458791,
+          "known_for_department": "Acting",
+          "name": "Daniel Moge",
+          "original_name": "Daniel Moge",
+          "popularity": 0.1777,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Rick",
+          "credit_id": "553b0548c3a36820340006c8",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1663215,
+          "known_for_department": "Camera",
+          "name": "Eric Breitbart",
+          "original_name": "Eric Breitbart",
+          "popularity": 0.2109,
+          "profile_path": "/lPWP3mGvDWaxpoxbqi5nq40y5cN.jpg",
+          "credit_id": "61603d487d41aa00619f3894",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": true,
+          "gender": 2,
+          "id": 46092,
+          "known_for_department": "Directing",
+          "name": "Gerard Damiano",
+          "original_name": "Gerard Damiano",
+          "popularity": 0,
+          "profile_path": "/yuGSEEZQzi5rz27tHB7FCFezVdo.jpg",
+          "credit_id": "553b04dac3a36831dd00b14b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": true,
+          "gender": 2,
+          "id": 46092,
+          "known_for_department": "Directing",
+          "name": "Gerard Damiano",
+          "original_name": "Gerard Damiano",
+          "popularity": 0,
+          "profile_path": "/yuGSEEZQzi5rz27tHB7FCFezVdo.jpg",
+          "credit_id": "57a85bbcc3a36826c6005571",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": true,
+          "gender": 2,
+          "id": 46092,
+          "known_for_department": "Directing",
+          "name": "Gerard Damiano",
+          "original_name": "Gerard Damiano",
+          "popularity": 0,
+          "profile_path": "/yuGSEEZQzi5rz27tHB7FCFezVdo.jpg",
+          "credit_id": "57a85bc392514176590045e4",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1663214,
+          "known_for_department": "Sound",
+          "name": "Horn O. Plenty",
+          "original_name": "Horn O. Plenty",
+          "popularity": 0.0884,
+          "profile_path": null,
+          "credit_id": "57a85bacc3a368234c004c25",
+          "department": "Sound",
+          "job": "Music"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-11-27T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1814520?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:34.670Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1814520,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "La Muerte te Vio Volver",
+    "overview": "",
+    "popularity": 0.152,
+    "poster_path": "/jjQGbvNFVwPHOhLafkS4lBba7q7.jpg",
+    "production_companies": [
+      {
+        "id": 116023,
+        "logo_path": null,
+        "name": "Praxia Producciones",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2026-11-14",
+    "revenue": 0,
+    "runtime": 104,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "La Muerte te Vio Volver",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2694382,
+          "known_for_department": "Acting",
+          "name": "Patricia Cuyul",
+          "original_name": "Patricia Cuyul",
+          "popularity": 0.3011,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6ae77c7e8a35c66ef7b8638a",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 228205,
+          "known_for_department": "Acting",
+          "name": "Paola Lattus",
+          "original_name": "Paola Lattus",
+          "popularity": 0.4048,
+          "profile_path": "/qN5COwjbt9vjvWBupn6ls8nGMGE.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "6ae77c8dbd9869c6dbb863dd",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5999398,
+          "known_for_department": "Acting",
+          "name": "Judith Chávez",
+          "original_name": "Judith Chávez",
+          "popularity": 0.2902,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "6ae77c9d5f42283152f1c2d8",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3381871,
+          "known_for_department": "Directing",
+          "name": "Sebastián Cuevas",
+          "original_name": "Sebastián Cuevas",
+          "popularity": 0.1502,
+          "profile_path": null,
+          "credit_id": "6ae77cbef187bbbf5b081f03",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3381871,
+          "known_for_department": "Directing",
+          "name": "Sebastián Cuevas",
+          "original_name": "Sebastián Cuevas",
+          "popularity": 0.1502,
+          "profile_path": null,
+          "credit_id": "6ae77cd2ec95d65bd78ac49c",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2008504,
+          "known_for_department": "Writing",
+          "name": "Paula Armstrong",
+          "original_name": "Paula Armstrong",
+          "popularity": 0.4062,
+          "profile_path": null,
+          "credit_id": "6ae77cdeb5debe4b047f7275",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4004344,
+          "known_for_department": "Editing",
+          "name": "Matías Riquelme",
+          "original_name": "Matías Riquelme",
+          "popularity": 0.1308,
+          "profile_path": null,
+          "credit_id": "6ae77cf431b26813430821dc",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2026-11-14T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

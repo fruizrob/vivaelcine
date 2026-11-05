@@ -1,0 +1,536 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/120030?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:04.693Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/r3AWNtvAei25K8itb5S9EdXoGhD.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 120030,
+    "imdb_id": "tt0065602",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Angel, Angel, Down We Go",
+    "overview": "",
+    "popularity": 1.251,
+    "poster_path": "/dpXUnciEXH3z6EnyqucmNfh1Bgc.jpg",
+    "production_companies": [
+      {
+        "id": 9266,
+        "logo_path": "/lRinQ7scVye5N8qkUIoCB4QXbRh.png",
+        "name": "American International Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2258,
+        "logo_path": null,
+        "name": "Four-Leaf Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1969-08-19",
+    "revenue": 0,
+    "runtime": 93,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Angel, Angel, Down We Go",
+    "video": false,
+    "vote_average": 4.8,
+    "vote_count": 13,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 39554,
+          "known_for_department": "Acting",
+          "name": "Jennifer Jones",
+          "original_name": "Jennifer Jones",
+          "popularity": 1.2617,
+          "profile_path": "/kPWuP9WGAkVnwdmT1KCif4KOMwz.jpg",
+          "cast_id": 6,
+          "character": "Astrid Steele",
+          "credit_id": "52fe4a3cc3a368484e148223",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 200728,
+          "known_for_department": "Acting",
+          "name": "Jordan Christopher",
+          "original_name": "Jordan Christopher",
+          "popularity": 0.2783,
+          "profile_path": "/k1UCogoO6TFRZZsqws4Fr7jYOTO.jpg",
+          "cast_id": 7,
+          "character": "Bogart Peter Stuyvesant",
+          "credit_id": "52fe4a3cc3a368484e148227",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 91964,
+          "known_for_department": "Acting",
+          "name": "Holly Near",
+          "original_name": "Holly Near",
+          "popularity": 0.3665,
+          "profile_path": "/yJ9Xex7qAGYapEFuL15vjk5n1e1.jpg",
+          "cast_id": 8,
+          "character": "Tara Nicole Steele",
+          "credit_id": "52fe4a3cc3a368484e14822b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 112099,
+          "known_for_department": "Acting",
+          "name": "Lou Rawls",
+          "original_name": "Lou Rawls",
+          "popularity": 0.4232,
+          "profile_path": "/ePXGYCHysNOkzx6aW0of0A1mX2P.jpg",
+          "cast_id": 9,
+          "character": "Joe",
+          "credit_id": "52fe4a3cc3a368484e14822f",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 61150,
+          "known_for_department": "Acting",
+          "name": "Charles Aidman",
+          "original_name": "Charles Aidman",
+          "popularity": 0.5666,
+          "profile_path": "/nZ24x2V9OjgGBgHVHP26deX67NE.jpg",
+          "cast_id": 10,
+          "character": "Willy Steele",
+          "credit_id": "52fe4a3cc3a368484e148233",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 161315,
+          "known_for_department": "Acting",
+          "name": "Davey Davison",
+          "original_name": "Davey Davison",
+          "popularity": 0.5182,
+          "profile_path": "/zkerfalEUZrp0TNDqnTz9ll6FcV.jpg",
+          "cast_id": 11,
+          "character": "Anna Livia",
+          "credit_id": "52fe4a3cc3a368484e148237",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 7505,
+          "known_for_department": "Acting",
+          "name": "Roddy McDowall",
+          "original_name": "Roddy McDowall",
+          "popularity": 2.7381,
+          "profile_path": "/mGO0pDPi5p91k2Og09HTf270rxL.jpg",
+          "cast_id": 12,
+          "character": "Santoro",
+          "credit_id": "52fe4a3cc3a368484e14823b",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1547961,
+          "known_for_department": "Acting",
+          "name": "Marty Brill",
+          "original_name": "Marty Brill",
+          "popularity": 0.4116,
+          "profile_path": "/eYmjDXRiX3B3OE30inZd3dxcPdH.jpg",
+          "cast_id": 20,
+          "character": "Maitre D'",
+          "credit_id": "6288bf8f5cea18101316dec0",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3558241,
+          "known_for_department": "Acting",
+          "name": "Carol Costello",
+          "original_name": "Carol Costello",
+          "popularity": 0.141,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Maitre D's Wife",
+          "credit_id": "6288bfb88d2f8d00514ad4a5",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 178310,
+          "known_for_department": "Acting",
+          "name": "Danielle Aubry",
+          "original_name": "Danielle Aubry",
+          "popularity": 0.3796,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "Paulette",
+          "credit_id": "6288bfc78d2f8d009ce4b16f",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3558243,
+          "known_for_department": "Acting",
+          "name": "Sandrine Gobet",
+          "original_name": "Sandrine Gobet",
+          "popularity": 0.0999,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "Tara Nicole - Age 3",
+          "credit_id": "6288bfcf1a32481bd5306005",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3558245,
+          "known_for_department": "Acting",
+          "name": "Joan Calhoun",
+          "original_name": "Joan Calhoun",
+          "popularity": 0.0947,
+          "profile_path": null,
+          "cast_id": 24,
+          "character": "Tara Nicole - Age 8",
+          "credit_id": "6288bfd68d2f8d009ce4b186",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3539608,
+          "known_for_department": "Acting",
+          "name": "Rudy Battaglia",
+          "original_name": "Rudy Battaglia",
+          "popularity": 0.1254,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "Tony",
+          "credit_id": "6288bfde1a32481bd6169de6",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3558246,
+          "known_for_department": "Acting",
+          "name": "George Ostos",
+          "original_name": "George Ostos",
+          "popularity": 0.1955,
+          "profile_path": null,
+          "cast_id": 26,
+          "character": "Rudolph",
+          "credit_id": "6288bfe91a32481bd6169e11",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 120307,
+          "known_for_department": "Acting",
+          "name": "Romo Vincent",
+          "original_name": "Romo Vincent",
+          "popularity": 0.3272,
+          "profile_path": "/zcqLsLrJeqZh9CyQDNaIQohPNH4.jpg",
+          "cast_id": 27,
+          "character": "Cotton Candy Salesman",
+          "credit_id": "6288bff2d4d50911562f7d75",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 160588,
+          "known_for_department": "Acting",
+          "name": "Lester Fletcher",
+          "original_name": "Lester Fletcher",
+          "popularity": 0.4041,
+          "profile_path": null,
+          "cast_id": 28,
+          "character": "Sydney Guilaroff (uncredited)",
+          "credit_id": "6288c0015cea18101316df68",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1912387,
+          "known_for_department": "Acting",
+          "name": "Kathryn Janssen",
+          "original_name": "Kathryn Janssen",
+          "popularity": 0.6404,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "Party Guest (uncredited)",
+          "credit_id": "6288c007f10a1a33aab09b56",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2594481,
+          "known_for_department": "Acting",
+          "name": "Deanne Mencher",
+          "original_name": "Deanne Mencher",
+          "popularity": 0.1338,
+          "profile_path": null,
+          "cast_id": 30,
+          "character": "Masseuse (uncredited)",
+          "credit_id": "6288c00d5cea18101316df74",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2633196,
+          "known_for_department": "Acting",
+          "name": "Hiroko Watanabe",
+          "original_name": "Hiroko Watanabe",
+          "popularity": 0.1464,
+          "profile_path": null,
+          "cast_id": 31,
+          "character": "Masseuse (uncredited)",
+          "credit_id": "6288c0141f3e600052ebb750",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3321148,
+          "known_for_department": "Acting",
+          "name": "Jeff Lawrence",
+          "original_name": "Jeff Lawrence",
+          "popularity": 0.2745,
+          "profile_path": null,
+          "cast_id": 32,
+          "character": "Minor Role (uncredited)",
+          "credit_id": "6ae8dbbf554d688ec4d827a3",
+          "order": 19
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1002552,
+          "known_for_department": "Sound",
+          "name": "Fred Karger",
+          "original_name": "Fred Karger",
+          "popularity": 0.3625,
+          "profile_path": null,
+          "credit_id": "52fe4a3cc3a368484e148219",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1071430,
+          "known_for_department": "Production",
+          "name": "Jerome F. Katzman",
+          "original_name": "Jerome F. Katzman",
+          "popularity": 0.1527,
+          "profile_path": null,
+          "credit_id": "52fe4a3cc3a368484e148213",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 47114,
+          "known_for_department": "Camera",
+          "name": "John F. Warren",
+          "original_name": "John F. Warren",
+          "popularity": 0.2502,
+          "profile_path": null,
+          "credit_id": "52fe4a3cc3a368484e14821f",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 214572,
+          "known_for_department": "Writing",
+          "name": "Robert Thom",
+          "original_name": "Robert Thom",
+          "popularity": 0.2122,
+          "profile_path": null,
+          "credit_id": "52fe4a3cc3a368484e148207",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 214572,
+          "known_for_department": "Writing",
+          "name": "Robert Thom",
+          "original_name": "Robert Thom",
+          "popularity": 0.2122,
+          "profile_path": null,
+          "credit_id": "52fe4a3cc3a368484e14820d",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 588449,
+          "known_for_department": "Directing",
+          "name": "Arthur Dreifuss",
+          "original_name": "Arthur Dreifuss",
+          "popularity": 0.3168,
+          "profile_path": "/co218nPXeCE9nzOWNMtXPRwejLs.jpg",
+          "credit_id": "6288bf2d6c84922f77253213",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1083910,
+          "known_for_department": "Art",
+          "name": "Gabriel Scognamillo",
+          "original_name": "Gabriel Scognamillo",
+          "popularity": 0.4305,
+          "profile_path": null,
+          "credit_id": "6288bf56e004a66f33a10c47",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1383455,
+          "known_for_department": "Art",
+          "name": "Don Greenwood Jr.",
+          "original_name": "Don Greenwood Jr.",
+          "popularity": 0.5124,
+          "profile_path": null,
+          "credit_id": "6288bf6e2495ab38b10f4963",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 10604,
+          "known_for_department": "Art",
+          "name": "George W. Davis",
+          "original_name": "George W. Davis",
+          "popularity": 1.0464,
+          "profile_path": null,
+          "credit_id": "6288bf667d5db50099d4bfc8",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 51379,
+          "known_for_department": "Editing",
+          "name": "Eve Newman",
+          "original_name": "Eve Newman",
+          "popularity": 0.3094,
+          "profile_path": null,
+          "credit_id": "6288bf4bf10a1a33ab2df7a0",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 222244,
+          "known_for_department": "Directing",
+          "name": "Bruce Bushman",
+          "original_name": "Bruce Bushman",
+          "popularity": 0.9172,
+          "profile_path": null,
+          "credit_id": "6288bf5d5cea181012d4c546",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 34112,
+          "known_for_department": "Production",
+          "name": "Sam Katzman",
+          "original_name": "Sam Katzman",
+          "popularity": 0.7737,
+          "profile_path": "/eBwkrhVXQ7HOpxdOG4Pg1zwypgr.jpg",
+          "credit_id": "6288bf3cd4d50911562f7c2e",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "R",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-08-19T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Cult of the Damned",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

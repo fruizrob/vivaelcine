@@ -1,0 +1,265 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1394074?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:12.434Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1394074,
+    "imdb_id": null,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Domingo",
+    "overview": "",
+    "popularity": 2.3193,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 245820,
+        "logo_path": null,
+        "name": "TGD Cinema & Vídeo",
+        "origin_country": ""
+      },
+      {
+        "id": 245821,
+        "logo_path": null,
+        "name": "Gusgus Cinema",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2002-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Domingo",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1418776,
+          "known_for_department": "Acting",
+          "name": "Carla Cassapo",
+          "original_name": "Carla Cassapo",
+          "popularity": 0.2826,
+          "profile_path": "/lBf7ssz4YoAlp6taQtC4wLPVWqE.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "674655197fd0990bccc28905",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1169806,
+          "known_for_department": "Acting",
+          "name": "Juliana Spolidoro",
+          "original_name": "Juliana Spolidoro",
+          "popularity": 0.1543,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "67465521d2818121221da14e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3806796,
+          "known_for_department": "Acting",
+          "name": "Luciana Éboli",
+          "original_name": "Luciana Éboli",
+          "popularity": 0.2484,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "674655287fd0990bccc2890c",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1128987,
+          "known_for_department": "Acting",
+          "name": "Leonardo Machado",
+          "original_name": "Leonardo Machado",
+          "popularity": 0.9998,
+          "profile_path": "/oydGQyL6PHPRIeEyQXXBtCkhLm2.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "6746553064f7e203eab169af",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1169792,
+          "known_for_department": "Directing",
+          "name": "Gustavo Spolidoro",
+          "original_name": "Gustavo Spolidoro",
+          "popularity": 0.3082,
+          "profile_path": null,
+          "credit_id": "6746553bbb2fcf362dea693b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1466501,
+          "known_for_department": "Production",
+          "name": "Aline Rizzotto",
+          "original_name": "Aline Rizzotto",
+          "popularity": 0.1645,
+          "profile_path": null,
+          "credit_id": "67465546bb2fcf362dea6944",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1169792,
+          "known_for_department": "Directing",
+          "name": "Gustavo Spolidoro",
+          "original_name": "Gustavo Spolidoro",
+          "popularity": 0.3082,
+          "profile_path": null,
+          "credit_id": "67465553da767aae3040b48a",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1466501,
+          "known_for_department": "Production",
+          "name": "Aline Rizzotto",
+          "original_name": "Aline Rizzotto",
+          "popularity": 0.1645,
+          "profile_path": null,
+          "credit_id": "6746555dda767aae3040b493",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5075472,
+          "known_for_department": "Directing",
+          "name": "Chico Deniz",
+          "original_name": "Chico Deniz",
+          "popularity": 0.1156,
+          "profile_path": null,
+          "credit_id": "67465568bb2fcf362dea696c",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5084449,
+          "known_for_department": "Writing",
+          "name": "Leandro Adriano",
+          "original_name": "Leandro Adriano",
+          "popularity": 0.6497,
+          "profile_path": null,
+          "credit_id": "674655737fd0990bccc28921",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 56240,
+          "known_for_department": "Camera",
+          "name": "Mauro Pinheiro Jr.",
+          "original_name": "Mauro Pinheiro Jr.",
+          "popularity": 0.211,
+          "profile_path": null,
+          "credit_id": "6746557b7fd0990bccc28927",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2804959,
+          "known_for_department": "Sound",
+          "name": "Cristiano Scherer",
+          "original_name": "Cristiano Scherer",
+          "popularity": 0.0934,
+          "profile_path": null,
+          "credit_id": "674655850fd7f823e0c99135",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2652791,
+          "known_for_department": "Crew",
+          "name": "Fernando Basso",
+          "original_name": "Fernando Basso",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "6746558e0fd7f823e0c99139",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2432010,
+          "known_for_department": "Art",
+          "name": "Iara Noemi",
+          "original_name": "Iara Noemi",
+          "popularity": 0.0925,
+          "profile_path": null,
+          "credit_id": "6746559664f7e203eab169f0",
+          "department": "Art",
+          "job": "Art Direction"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2002-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

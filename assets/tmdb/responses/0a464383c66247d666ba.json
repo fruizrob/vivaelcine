@@ -1,0 +1,31 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=El+tren+fluvial&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-05T16:44:47.905Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/tsa9h5ucYfvDTmK9MCtvyXqSdWq.jpg",
+        "genre_ids": [
+          18,
+          14
+        ],
+        "id": 1574074,
+        "title": "El Tren Fluvial",
+        "original_language": "es",
+        "original_title": "El Tren Fluvial",
+        "overview": "",
+        "popularity": 1.2479,
+        "poster_path": "/oFo8HghR0zzj5QLcrHlxSPvO5aL.jpg",
+        "release_date": "2026-10-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

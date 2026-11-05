@@ -1,0 +1,420 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/853855?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:37.789Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10770,
+        "name": "Película de TV"
+      }
+    ],
+    "homepage": "",
+    "id": 853855,
+    "imdb_id": "tt11414656",
+    "origin_country": [
+      "XC"
+    ],
+    "original_language": "sk",
+    "original_title": "Dve duše",
+    "overview": "",
+    "popularity": 1.6204,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 28449,
+        "logo_path": "/mDjPjvkTpRywYMGcuNReCe4xWbG.png",
+        "name": "Československá televízia Bratislava",
+        "origin_country": "XC"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "XC",
+        "name": "Czechoslovakia"
+      }
+    ],
+    "release_date": "1982-01-01",
+    "revenue": 0,
+    "runtime": 58,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Slovak",
+        "iso_639_1": "sk",
+        "name": "Slovenčina"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dve duše",
+    "video": false,
+    "vote_average": 1,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2036562,
+          "known_for_department": "Acting",
+          "name": "Eva Matejková",
+          "original_name": "Eva Matejková",
+          "popularity": 0.4833,
+          "profile_path": "/zhOI9P3rwLO5vbUGqrEyjH6IE0I.jpg",
+          "cast_id": 9,
+          "character": "Olenka",
+          "credit_id": "62c54d813e6f2b0331ef4e58",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1397139,
+          "known_for_department": "Acting",
+          "name": "Ján Greššo",
+          "original_name": "Ján Greššo",
+          "popularity": 0.7167,
+          "profile_path": "/ekXZL3XRIEnhUTxZaZsjvpXvAxR.jpg",
+          "cast_id": 2,
+          "character": "Voloda",
+          "credit_id": "60fc691cc439c0005c3377e0",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1434368,
+          "known_for_department": "Acting",
+          "name": "Adela Gáborová",
+          "original_name": "Adela Gáborová",
+          "popularity": 0.3596,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Maša",
+          "credit_id": "60fc6921c439c000728d50c8",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1432170,
+          "known_for_department": "Acting",
+          "name": "Nora Kuželová",
+          "original_name": "Nora Kuželová",
+          "popularity": 0.4675,
+          "profile_path": "/uNHN8aCslOUsGhfXkDxh0KBKO7c.jpg",
+          "cast_id": 4,
+          "character": "Ljudmila",
+          "credit_id": "60fc69270dea6e0047ba1551",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2976509,
+          "known_for_department": "Acting",
+          "name": "Eva Žilineková",
+          "original_name": "Eva Žilineková",
+          "popularity": 0.2481,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Nuta",
+          "credit_id": "60fc692ce24b93005fa08068",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2958262,
+          "known_for_department": "Acting",
+          "name": "Anton Živčic",
+          "original_name": "Anton Živčic",
+          "popularity": 0.377,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Peter Nikolajevič",
+          "credit_id": "60fc69332afb250080841faa",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3170655,
+          "known_for_department": "Acting",
+          "name": "František Nozdrovický",
+          "original_name": "František Nozdrovický",
+          "popularity": 0.2433,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "60fc6937c439c00029f1cac5",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1743516,
+          "known_for_department": "Acting",
+          "name": "Jozef Bednárik",
+          "original_name": "Jozef Bednárik",
+          "popularity": 0.3042,
+          "profile_path": "/pciAGzPt8YiZaW2rNUzsvUDRMH7.jpg",
+          "credit_id": "60fc69ef17792c005dba48da",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 109469,
+          "known_for_department": "Writing",
+          "name": "Antón Chéjov",
+          "original_name": "Антон Чехов",
+          "popularity": 0.6388,
+          "profile_path": "/jQlZSJWHZTZrBvSfqb8me8S8peP.jpg",
+          "credit_id": "65f2c5dfd64ac20187617f70",
+          "department": "Writing",
+          "job": "Short Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1622909,
+          "known_for_department": "Art",
+          "name": "Viliam Gruska",
+          "original_name": "Viliam Gruska",
+          "popularity": 0.2318,
+          "profile_path": null,
+          "credit_id": "65f2c669d64ac20187618084",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1743516,
+          "known_for_department": "Acting",
+          "name": "Jozef Bednárik",
+          "original_name": "Jozef Bednárik",
+          "popularity": 0.3042,
+          "profile_path": "/pciAGzPt8YiZaW2rNUzsvUDRMH7.jpg",
+          "credit_id": "65f2c8ce5a78840163d76a6c",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2944964,
+          "known_for_department": "Editing",
+          "name": "Siloš Pohanka ml.",
+          "original_name": "Siloš Pohanka ml.",
+          "popularity": 0.3022,
+          "profile_path": null,
+          "credit_id": "65f2c8572fe2fa0162edb447",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3163960,
+          "known_for_department": "Camera",
+          "name": "Peter Vyčislík",
+          "original_name": "Peter Vyčislík",
+          "popularity": 0.1998,
+          "profile_path": null,
+          "credit_id": "65f2c86a470ead017e9f8ac3",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3000681,
+          "known_for_department": "Camera",
+          "name": "Danica Rumanová",
+          "original_name": "Danica Rumanová",
+          "popularity": 0.256,
+          "profile_path": null,
+          "credit_id": "65f2c8612fdec6017021dcf3",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1804247,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Mária Šilberská",
+          "original_name": "Mária Šilberská",
+          "popularity": 0.3408,
+          "profile_path": null,
+          "credit_id": "65f2c67a2fdec6013b206138",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4591692,
+          "known_for_department": "Production",
+          "name": "Ladislav Lipocký",
+          "original_name": "Ladislav Lipocký",
+          "popularity": 0.1515,
+          "profile_path": null,
+          "credit_id": "65f2c89cd64ac201876183cf",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1737051,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Anna Peschlová",
+          "original_name": "Anna Peschlová",
+          "popularity": 0.3161,
+          "profile_path": null,
+          "credit_id": "65f2c6c62fe2fa0185ee8cdf",
+          "department": "Costume & Make-Up",
+          "job": "Costumer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3503640,
+          "known_for_department": "Costume & Make-Up",
+          "name": "František Baričič",
+          "original_name": "František Baričič",
+          "popularity": 0.2132,
+          "profile_path": null,
+          "credit_id": "65f2c8226dea3a017c7c52e1",
+          "department": "Costume & Make-Up",
+          "job": "Makeup & Hair"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2726695,
+          "known_for_department": "Sound",
+          "name": "Ján Vyžinkár",
+          "original_name": "Ján Vyžinkár",
+          "popularity": 0.2831,
+          "profile_path": null,
+          "credit_id": "65f2c8465a78840186d8111b",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4241158,
+          "known_for_department": "Directing",
+          "name": "Eva Mičková",
+          "original_name": "Eva Mičková",
+          "popularity": 0.2297,
+          "profile_path": null,
+          "credit_id": "65f2c88199259c01635e8160",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4289946,
+          "known_for_department": "Art",
+          "name": "Ivan Belan",
+          "original_name": "Ivan Belan",
+          "popularity": 0.3124,
+          "profile_path": null,
+          "credit_id": "65f2c839470ead017e9f8a6f",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2726159,
+          "known_for_department": "Camera",
+          "name": "Daniel Hoťka",
+          "original_name": "Daniel Hoťka",
+          "popularity": 0.2962,
+          "profile_path": null,
+          "credit_id": "65f2c8746dea3a017c7c5360",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3955619,
+          "known_for_department": "Crew",
+          "name": "Jana Liptáková",
+          "original_name": "Jana Liptáková",
+          "popularity": 0.2539,
+          "profile_path": null,
+          "credit_id": "65f2c5ed99259c01866092bf",
+          "department": "Crew",
+          "job": "Dramaturgy"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2617654,
+          "known_for_department": "Camera",
+          "name": "Milan Homolka",
+          "original_name": "Milan Homolka",
+          "popularity": 0.3578,
+          "profile_path": null,
+          "credit_id": "65f2c8c15a78840186d81162",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2728051,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Ľubica Hajdu",
+          "original_name": "Ľubica Hajdu",
+          "popularity": 0.1718,
+          "profile_path": null,
+          "credit_id": "65f2c80f2fdec6017021dca1",
+          "department": "Costume & Make-Up",
+          "job": "Makeup & Hair"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "XC",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1982-01-01T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

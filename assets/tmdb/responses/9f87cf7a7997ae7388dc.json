@@ -1,0 +1,89 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/655945?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:13.597Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/9n8OXcgPbJphx0mXHTG809c0zO5.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 655945,
+    "imdb_id": "tt3290386",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "El llamado",
+    "overview": "",
+    "popularity": 0.1788,
+    "poster_path": "/lOEGw0PqqdRJbWU3epKNUyOzj8o.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2013-08-01",
+    "revenue": 0,
+    "runtime": 7,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El llamado",
+    "video": false,
+    "vote_average": 1,
+    "vote_count": 2,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2483161,
+          "known_for_department": "Directing",
+          "name": "Luis Sandro Frias",
+          "original_name": "Luis Sandro Frias",
+          "popularity": 0.0917,
+          "profile_path": null,
+          "credit_id": "5df69fa465686e0015858de5",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-08-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

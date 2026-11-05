@@ -1,0 +1,476 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/261102?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:39:38.527Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/k03NKr2mgma98hnM4xAcvaUHWlP.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 261102,
+    "imdb_id": "tt3686272",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "El Club de los Incomprendidos",
+    "overview": "Han pasado dos años desde que se conocieron y ahora los seis chicos adolescentes son miembros de \"El club de los incomprendidos\", un nombre que ellos mismos eligieron para autodenominarse porque se sentían solos y rechazados. Juntos han sufrido amores, celos, problemas, enfados... pero hasta ahora su amistad ha sido fuerte y los ha mantenido unidos.",
+    "popularity": 1.3552,
+    "poster_path": "/8FHk0h9sgPoZ9VowdD8dSWRqoZ8.jpg",
+    "production_companies": [
+      {
+        "id": 27628,
+        "logo_path": "/bh3pBLmTPkgrD41WqFzJ2hQgvaF.png",
+        "name": "Bambú Producciones",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2014-12-25",
+    "revenue": 0,
+    "runtime": 105,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "No volverás a estar solo",
+    "title": "El Club de los Incomprendidos",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 427,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1262750,
+          "known_for_department": "Acting",
+          "name": "Charlotte Vega",
+          "original_name": "Charlotte Vega",
+          "popularity": 1.9485,
+          "profile_path": "/legWa5GpB82M3KunyFjXPopkSc7.jpg",
+          "cast_id": 5,
+          "character": "Valeria",
+          "credit_id": "5511bf05c3a36801bb001eb3",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1074586,
+          "known_for_department": "Acting",
+          "name": "Àlex Maruny",
+          "original_name": "Àlex Maruny",
+          "popularity": 0.3989,
+          "profile_path": "/f2v9JpjuycraoIoMpO7lzUffs2s.jpg",
+          "cast_id": 6,
+          "character": "Raúl",
+          "credit_id": "5511bf16c3a3680296001db9",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1441758,
+          "known_for_department": "Acting",
+          "name": "Jorge Clemente",
+          "original_name": "Jorge Clemente",
+          "popularity": 1.2475,
+          "profile_path": "/pCr9s8H31ozMRwgkOe3OzSYSDAK.jpg",
+          "cast_id": 7,
+          "character": "Bruno",
+          "credit_id": "5511bf3dc3a36802c30020d0",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1455961,
+          "known_for_department": "Acting",
+          "name": "Michelle Calvó",
+          "original_name": "Michelle Calvó",
+          "popularity": 0.5102,
+          "profile_path": "/wI4BeX1hOgI0kZ57AmNC7sEyUG3.jpg",
+          "cast_id": 12,
+          "character": "Elisabeth",
+          "credit_id": "55323664c3a368221d002641",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1455959,
+          "known_for_department": "Acting",
+          "name": "Andrea Trepat",
+          "original_name": "Andrea Trepat",
+          "popularity": 0.5274,
+          "profile_path": "/qTPfRTjbjdfdnCgkchdhyjkvkZ3.jpg",
+          "cast_id": 11,
+          "character": "Ester",
+          "credit_id": "55323655c3a368221f002427",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 16970,
+          "known_for_department": "Acting",
+          "name": "Ivana Baquero",
+          "original_name": "Ivana Baquero",
+          "popularity": 2.7637,
+          "profile_path": "/egEyy7m35EF1OrBs0ik7YGEadpC.jpg",
+          "cast_id": 0,
+          "character": "Meri",
+          "credit_id": "53312f90c3a3686a7f001248",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 228874,
+          "known_for_department": "Acting",
+          "name": "Yon González",
+          "original_name": "Yon González",
+          "popularity": 1.0336,
+          "profile_path": "/p8PNt1BoZobAF3vhbqE5ulXedMw.jpg",
+          "cast_id": 9,
+          "character": "Rodrigo",
+          "credit_id": "5511bfcec3a36801bb001ebb",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 578014,
+          "known_for_department": "Acting",
+          "name": "Patrick Criado",
+          "original_name": "Patrick Criado",
+          "popularity": 1.1676,
+          "profile_path": "/irGL3gnK6EkiL1EsMAEzXkZ58U8.jpg",
+          "cast_id": 8,
+          "character": "César",
+          "credit_id": "5511bfa892514148dd000697",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 34021,
+          "known_for_department": "Acting",
+          "name": "Raúl Arévalo",
+          "original_name": "Raúl Arévalo",
+          "popularity": 0.8065,
+          "profile_path": "/npWhiRnqlbqku6mNnk5RTgGvnj2.jpg",
+          "cast_id": 10,
+          "character": "Martín",
+          "credit_id": "5511bfed9251417d0d000d81",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 37946,
+          "known_for_department": "Acting",
+          "name": "Aitana Sánchez-Gijón",
+          "original_name": "Aitana Sánchez-Gijón",
+          "popularity": 1.1801,
+          "profile_path": "/4gm7EJzvJQbN2RPW1ZOcEzF1jDn.jpg",
+          "cast_id": 13,
+          "character": "Madre de Valeria",
+          "credit_id": "5559a1b1c3a368777400b1ea",
+          "order": 9
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1124382,
+          "known_for_department": "Directing",
+          "name": "Carlos Sedes",
+          "original_name": "Carlos Sedes",
+          "popularity": 0.4443,
+          "profile_path": null,
+          "credit_id": "53312fd9c3a3686aa500116b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1074733,
+          "known_for_department": "Writing",
+          "name": "Cristóbal Garrido",
+          "original_name": "Cristóbal Garrido",
+          "popularity": 0.3241,
+          "profile_path": "/5NViZPezWjLW6DPs2XGl1ERNx8O.jpg",
+          "credit_id": "56b4cec79251415320003e3f",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1261462,
+          "known_for_department": "Creator",
+          "name": "Ramón Campos",
+          "original_name": "Ramón Campos",
+          "popularity": 1.4993,
+          "profile_path": null,
+          "credit_id": "56b4cebb9251410aab002c3d",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1261463,
+          "known_for_department": "Writing",
+          "name": "Gema R. Neira",
+          "original_name": "Gema R. Neira",
+          "popularity": 0.5704,
+          "profile_path": null,
+          "credit_id": "56b4ced2c3a36806e6005694",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1074735,
+          "known_for_department": "Writing",
+          "name": "Adolfo Valor",
+          "original_name": "Adolfo Valor",
+          "popularity": 0.41,
+          "profile_path": "/51RVeYjsr3Z5WAFAgMzDNCGqTQF.jpg",
+          "credit_id": "56b4ceaf925141662c002b83",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1261462,
+          "known_for_department": "Creator",
+          "name": "Ramón Campos",
+          "original_name": "Ramón Campos",
+          "popularity": 1.4993,
+          "profile_path": null,
+          "credit_id": "680ffc89ba241d8aea8120d4",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 968298,
+          "known_for_department": "Production",
+          "name": "Mercedes Gamero",
+          "original_name": "Mercedes Gamero",
+          "popularity": 0.4521,
+          "profile_path": "/n5UBjpdCqpJWN19n4Lfn1HQznEj.jpg",
+          "credit_id": "680ffcac930c895e280fa22c",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1179663,
+          "known_for_department": "Production",
+          "name": "Mikel Lejarza",
+          "original_name": "Mikel Lejarza",
+          "popularity": 0.5231,
+          "profile_path": "/AbE65wuxznCkh03u0vpysrKthqe.jpg",
+          "credit_id": "680ffcbeeb1d4b06de0fb6cb",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1877446,
+          "known_for_department": "Creator",
+          "name": "Teresa Fernández-Valdés",
+          "original_name": "Teresa Fernández-Valdés",
+          "popularity": 0.5919,
+          "profile_path": null,
+          "credit_id": "680ffcd410d1e453d2eb597e",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 45546,
+          "known_for_department": "Sound",
+          "name": "Federico Jusid",
+          "original_name": "Federico Jusid",
+          "popularity": 0.551,
+          "profile_path": "/gK4EkeVqDvxuIMlNZB1SZSaGIFS.jpg",
+          "credit_id": "69e9be98547ddc4dad0abb07",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1618035,
+          "known_for_department": "Sound",
+          "name": "Ale Martí",
+          "original_name": "Ale Martí",
+          "popularity": 0.2425,
+          "profile_path": null,
+          "credit_id": "69e9bea342e42317b6bb1ada",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2562314,
+          "known_for_department": "Camera",
+          "name": "Jacobo Martínez",
+          "original_name": "Jacobo Martínez",
+          "popularity": 0.2824,
+          "profile_path": null,
+          "credit_id": "69e9beb87315707451bcb3b3",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1117843,
+          "known_for_department": "Art",
+          "name": "Juan Pedro de Gaspar",
+          "original_name": "Juan Pedro de Gaspar",
+          "popularity": 0.9114,
+          "profile_path": null,
+          "credit_id": "69e9becabb128140fe0abb04",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1466011,
+          "known_for_department": "Art",
+          "name": "Ángela Nahum",
+          "original_name": "Ángela Nahum",
+          "popularity": 0.7383,
+          "profile_path": "/28LTUPLAQJCuzZlrFaisDzd9tsx.jpg",
+          "credit_id": "69e9bedd1081020a823340a3",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2707600,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Anna Pons",
+          "original_name": "Anna Pons",
+          "popularity": 0.1795,
+          "profile_path": null,
+          "credit_id": "69e9beea202550a0e0c61933",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2350406,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Patricia López",
+          "original_name": "Patricia López",
+          "popularity": 0.4704,
+          "profile_path": null,
+          "credit_id": "69e9befb256a9b5d53cd31c6",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1586208,
+          "known_for_department": "Sound",
+          "name": "Álex F. Capilla",
+          "original_name": "Álex F. Capilla",
+          "popularity": 0.4136,
+          "profile_path": "/orRd350zKRFpjSP0V1CQPnBNSt2.jpg",
+          "credit_id": "69e9bf21f214b2dcdecd307b",
+          "department": "Sound",
+          "job": "Sound"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-10-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2014-12-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "FR",
+          "title": "Le club des rebelles",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

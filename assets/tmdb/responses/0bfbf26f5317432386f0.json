@@ -1,0 +1,645 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/53413?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:19.376Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/zWmb8EMZNCuVaLnWUlYUaohneUz.jpg",
+    "belongs_to_collection": null,
+    "budget": 2000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 53413,
+    "imdb_id": "tt1282153",
+    "origin_country": [
+      "PT"
+    ],
+    "original_language": "pt",
+    "original_title": "O Estranho Caso de Angélica",
+    "overview": "Penúltimo largometraje de Manoel de Oliveira, que esta vez se divierte con una película de fantasmas en la que un fotógrafo emprende un viaje alucinado después de retratar a la hija muerta de los propietarios de un hotel. Sin caer en la nostalgia del que sabe que la visita de la Parca está proxima, el director nos invita a un viaje mágico en el que la realidad y la ficción se funden para darnos a entender que la vida y la muerte son una y la misma cosa. Contada con la sonrisa perpetua en los labios, la aventura de Isaac mantiene el encanto y la frescura del cine de la época silente, pero no su característica ingenuidad. Oliveira que, como el mismísimo Diablo, sabe más por viejo que por diablo, como él se divierte, manejando como un titiritero al desdichado fotógrafo.",
+    "popularity": 1.2933,
+    "poster_path": "/pGvjtEuHaUNktqFbEES8Gqf96U4.jpg",
+    "production_companies": [
+      {
+        "id": 16450,
+        "logo_path": null,
+        "name": "Filmes do Tejo",
+        "origin_country": "PT"
+      },
+      {
+        "id": 1247,
+        "logo_path": "/bLz5dl6a8TMCUVgqAG6T0gbL6Hq.png",
+        "name": "Eddie Saeta",
+        "origin_country": "ES"
+      },
+      {
+        "id": 6669,
+        "logo_path": "/c33aVgKEOenOIYySDxuNlH6R0J7.png",
+        "name": "Les Films de l'Après-Midi",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PT",
+        "name": "Portugal"
+      },
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2010-12-29",
+    "revenue": 0,
+    "runtime": 97,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El extraño caso de Angélica",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 64,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 98357,
+          "known_for_department": "Acting",
+          "name": "Pilar López de Ayala",
+          "original_name": "Pilar López de Ayala",
+          "popularity": 0.4708,
+          "profile_path": "/fQj0Ka2jlp5PYFtGQxJSVRiOVWZ.jpg",
+          "cast_id": 3,
+          "character": "Angélica",
+          "credit_id": "52fe4864c3a36847f8164f49",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 213290,
+          "known_for_department": "Acting",
+          "name": "Leonor Silveira",
+          "original_name": "Leonor Silveira",
+          "popularity": 0.7186,
+          "profile_path": "/pNRH0PQKBwaOc8nwkRv3H6vFDpa.jpg",
+          "cast_id": 4,
+          "character": "Mãe",
+          "credit_id": "52fe4864c3a36847f8164f4d",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 213291,
+          "known_for_department": "Acting",
+          "name": "Filipe Vargas",
+          "original_name": "Filipe Vargas",
+          "popularity": 0.3505,
+          "profile_path": "/abKebqQaHjsOv7JPavRDUUyNmXr.jpg",
+          "cast_id": 5,
+          "character": "Marido",
+          "credit_id": "52fe4864c3a36847f8164f51",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 130713,
+          "known_for_department": "Acting",
+          "name": "Ricardo Trêpa",
+          "original_name": "Ricardo Trêpa",
+          "popularity": 0.4274,
+          "profile_path": "/fRNDiDUcGiMxsl1GSH3gSxR6qNt.jpg",
+          "cast_id": 6,
+          "character": "Isaac",
+          "credit_id": "52fe4864c3a36847f8164f55",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 234487,
+          "known_for_department": "Acting",
+          "name": "Paulo Matos",
+          "original_name": "Paulo Matos",
+          "popularity": 0.2967,
+          "profile_path": "/p8YgSquUGDX0lrmvL66VferAOZb.jpg",
+          "cast_id": 7,
+          "character": "Homem da Gabardine",
+          "credit_id": "59831c08c3a368344900e3b3",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 234486,
+          "known_for_department": "Acting",
+          "name": "Luís Miguel Cintra",
+          "original_name": "Luís Miguel Cintra",
+          "popularity": 0.9007,
+          "profile_path": "/cdFwM3XffJAarnt355yWCxMvEnH.jpg",
+          "cast_id": 8,
+          "character": "Engenheiro",
+          "credit_id": "59831c13c3a368344900e3c4",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1088241,
+          "known_for_department": "Acting",
+          "name": "Ana Maria Magalhães",
+          "original_name": "Ana Maria Magalhães",
+          "popularity": 0.698,
+          "profile_path": "/okbibfyY1WzMLyaUqEQfPBZxGgx.jpg",
+          "cast_id": 9,
+          "character": "Clementina",
+          "credit_id": "59831c23925141425700e7fe",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 937210,
+          "known_for_department": "Acting",
+          "name": "Isabel Ruth",
+          "original_name": "Isabel Ruth",
+          "popularity": 0.4111,
+          "profile_path": "/kxuy7nKVFK0V9SWHrejfNebZSQ6.jpg",
+          "cast_id": 10,
+          "character": "Criada",
+          "credit_id": "59831c47c3a36833b300ec6c",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1038535,
+          "known_for_department": "Acting",
+          "name": "Ricardo Aibéo",
+          "original_name": "Ricardo Aibéo",
+          "popularity": 0.3809,
+          "profile_path": "/td5z3m3VElNxpOqWevQTTEpB5OA.jpg",
+          "cast_id": 11,
+          "character": "Mendigo",
+          "credit_id": "59831c52925141433c00e37f",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1592252,
+          "known_for_department": "Acting",
+          "name": "Sofia de Portugal",
+          "original_name": "Sofia de Portugal",
+          "popularity": 0.8637,
+          "profile_path": "/ixuyM3Hcwzi7sqIlwfwePbQ4QaT.jpg",
+          "cast_id": 12,
+          "character": "Enfermeira",
+          "credit_id": "59831c5e9251413d0e00ea49",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1863048,
+          "known_for_department": "Acting",
+          "name": "Susana Sá",
+          "original_name": "Susana Sá",
+          "popularity": 0.3821,
+          "profile_path": "/p5qIBr33ph7lOIKAjAuYyjzvWBV.jpg",
+          "cast_id": 13,
+          "character": "D. Rosa",
+          "credit_id": "59831c72c3a36834c800d727",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1987940,
+          "known_for_department": "Acting",
+          "name": "Carmen Santos",
+          "original_name": "Carmen Santos",
+          "popularity": 0.402,
+          "profile_path": "/m1VngostdfxddXo0Vzr1pJkn2wd.jpg",
+          "cast_id": 24,
+          "character": "Mulher do Fotógrafo",
+          "credit_id": "5a976abec3a368613a00835b",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 544611,
+          "known_for_department": "Acting",
+          "name": "José Manuel Mendes",
+          "original_name": "José Manuel Mendes",
+          "popularity": 0.6999,
+          "profile_path": "/g3mos7pz6YgFLfnpaqGDFwQt0OE.jpg",
+          "cast_id": 15,
+          "character": "Dr. Matias",
+          "credit_id": "59831c8cc3a368349000f085",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1055228,
+          "known_for_department": "Acting",
+          "name": "Adelaide Teixeira",
+          "original_name": "Adelaide Teixeira",
+          "popularity": 0.2646,
+          "profile_path": "/u7rmKoB1hBdYIv341pb3RYdd0gY.jpg",
+          "cast_id": 16,
+          "character": "Justina",
+          "credit_id": "59831c97c3a368327900dbd4",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 116599,
+          "known_for_department": "Acting",
+          "name": "Sara Carinhas",
+          "original_name": "Sara Carinhas",
+          "popularity": 0.1851,
+          "profile_path": "/eD4mMYiXNLMUgtZl7PRyBk3Ib4E.jpg",
+          "cast_id": 17,
+          "character": "Freira",
+          "credit_id": "59831ca2c3a36834c800d768",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 234488,
+          "known_for_department": "Acting",
+          "name": "António Reis",
+          "original_name": "António Reis",
+          "popularity": 0.5624,
+          "profile_path": "/v3hdSKawk09Rk2SrrEXu5Ue3z69.jpg",
+          "cast_id": 42,
+          "character": "António",
+          "credit_id": "697d255f0456d5a37071992e",
+          "order": 15
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 81749,
+          "known_for_department": "Directing",
+          "name": "Manoel de Oliveira",
+          "original_name": "Manoel de Oliveira",
+          "popularity": 0.9218,
+          "profile_path": "/lkEY4Amtuyk8hPmNz01EqWYH3Xk.jpg",
+          "credit_id": "52fe4864c3a36847f8164f45",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 81749,
+          "known_for_department": "Directing",
+          "name": "Manoel de Oliveira",
+          "original_name": "Manoel de Oliveira",
+          "popularity": 0.9218,
+          "profile_path": "/lkEY4Amtuyk8hPmNz01EqWYH3Xk.jpg",
+          "credit_id": "52fe4864c3a36847f8164f3f",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1327706,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Adelaide Maria Trêpa",
+          "original_name": "Adelaide Maria Trêpa",
+          "popularity": 0.2977,
+          "profile_path": null,
+          "credit_id": "6318c42f40d0fe0099bbb382",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 213280,
+          "known_for_department": "Sound",
+          "name": "Henri Maïkoff",
+          "original_name": "Henri Maïkoff",
+          "popularity": 0.1599,
+          "profile_path": null,
+          "credit_id": "6318c44d1d1bf40090384d92",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3692019,
+          "known_for_department": "Sound",
+          "name": "Joan Olivé",
+          "original_name": "Joan Olivé",
+          "popularity": 0.1967,
+          "profile_path": null,
+          "credit_id": "6318c48b6f43ec007b184ede",
+          "department": "Sound",
+          "job": "Sound Re-Recording Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3692021,
+          "known_for_department": "Visual Effects",
+          "name": "Philippe Szabo",
+          "original_name": "Philippe Szabo",
+          "popularity": 0.1053,
+          "profile_path": null,
+          "credit_id": "6318c4ba880c92007f12b072",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1917159,
+          "known_for_department": "Art",
+          "name": "Gonçalo Pires",
+          "original_name": "Gonçalo Pires",
+          "popularity": 0.1188,
+          "profile_path": null,
+          "credit_id": "6318c43c8ddc34007a6192fd",
+          "department": "Art",
+          "job": "Assistant Art Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1993730,
+          "known_for_department": "Editing",
+          "name": "Eugénio Marques",
+          "original_name": "Eugénio Marques",
+          "popularity": 0.1075,
+          "profile_path": null,
+          "credit_id": "6318c4d91d1bf400797e79f6",
+          "department": "Visual Effects",
+          "job": "Visual Effects Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 28503,
+          "known_for_department": "Production",
+          "name": "Luis Miñarro",
+          "original_name": "Luis Miñarro",
+          "popularity": 0.662,
+          "profile_path": "/5CDvcLMwYdhq48Ar6k76s39bQHj.jpg",
+          "credit_id": "61c9afe537b3a9001d80a715",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 213287,
+          "known_for_department": "Production",
+          "name": "François d'Artemare",
+          "original_name": "François d'Artemare",
+          "popularity": 0.3562,
+          "profile_path": null,
+          "credit_id": "598b8fb7c3a3685caa00020d",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1408416,
+          "known_for_department": "Production",
+          "name": "Renata de Almeida",
+          "original_name": "Renata de Almeida",
+          "popularity": 0.1589,
+          "profile_path": null,
+          "credit_id": "598b8fcfc3a3685d620001fb",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 213278,
+          "known_for_department": "Camera",
+          "name": "Sabine Lancelin",
+          "original_name": "Sabine Lancelin",
+          "popularity": 0.1611,
+          "profile_path": null,
+          "credit_id": "598b8fdcc3a3685d1b000220",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 234483,
+          "known_for_department": "Editing",
+          "name": "Valérie Loiseleux",
+          "original_name": "Valérie Loiseleux",
+          "popularity": 0.628,
+          "profile_path": null,
+          "credit_id": "598b8fedc3a368636c000008",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 213288,
+          "known_for_department": "Production",
+          "name": "Maria João Mayer",
+          "original_name": "Maria João Mayer",
+          "popularity": 0.6395,
+          "profile_path": "/wqfT9V9eNWI2aYfjpbEYUzNDJgV.jpg",
+          "credit_id": "598b8fc2925141742000023c",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1977546,
+          "known_for_department": "Lighting",
+          "name": "Rodrigo Dray",
+          "original_name": "Rodrigo Dray",
+          "popularity": 0.2676,
+          "profile_path": null,
+          "credit_id": "66f9b5b91a9c9188fecc6ebc",
+          "department": "Lighting",
+          "job": "Electrician"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1475142,
+          "known_for_department": "Acting",
+          "name": "Maria João Pires",
+          "original_name": "Maria João Pires",
+          "popularity": 0.7998,
+          "profile_path": "/gkB7Hm6bMf1UUN0SGEE3bloxXm3.jpg",
+          "credit_id": "6921d23ae1e99d460c32a103",
+          "department": "Sound",
+          "job": "Musician"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1362704,
+          "known_for_department": "Sound",
+          "name": "Elsa Ferreira",
+          "original_name": "Elsa Ferreira",
+          "popularity": 0.26,
+          "profile_path": null,
+          "credit_id": "697d248b2b188a1e656160fc",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 213284,
+          "known_for_department": "Art",
+          "name": "Christian Marti",
+          "original_name": "Christian Marti",
+          "popularity": 0.5119,
+          "profile_path": "/401tIPtDbWRtsT1Y45ITG2aHRLZ.jpg",
+          "credit_id": "697d24a2bc0cdcf11ce4e363",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 213285,
+          "known_for_department": "Art",
+          "name": "José Pedro Penha",
+          "original_name": "José Pedro Penha",
+          "popularity": 0.1331,
+          "profile_path": null,
+          "credit_id": "697d24b554a8174a487198db",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 213286,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Ignazi Ruiz",
+          "original_name": "Ignazi Ruiz",
+          "popularity": 0.1356,
+          "profile_path": null,
+          "credit_id": "697d24d51f950b535a738544",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1978351,
+          "known_for_department": "Production",
+          "name": "Sandra Fanha",
+          "original_name": "Sandra Fanha",
+          "popularity": 0.2181,
+          "profile_path": "/tPAzm8m22l65ffBFzqvWRO91Zvj.jpg",
+          "credit_id": "6a1b273b50b979e01e079d04",
+          "department": "Production",
+          "job": "Production Manager"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cannes Film Festival",
+              "release_date": "2010-05-13T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2011-03-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-12-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "FR",
+          "title": "L'Étrange affaire Angélica",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "El extraño caso de Angélica",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

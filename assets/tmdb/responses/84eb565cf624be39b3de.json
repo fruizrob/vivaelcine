@@ -1,0 +1,101 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1409285?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:34.239Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1409285,
+    "imdb_id": null,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Rumor",
+    "overview": "",
+    "popularity": 2.761,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Canceled",
+    "tagline": "",
+    "title": "Rumor",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 115170,
+          "known_for_department": "Acting",
+          "name": "Emílio Orciollo Netto",
+          "original_name": "Emílio Orciollo Netto",
+          "popularity": 0.9609,
+          "profile_path": "/yCEI29Jo0103ERuqSiqOzk0rf2P.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "677183cfb70013cc0f614e96",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 230169,
+          "known_for_department": "Acting",
+          "name": "Cristina Lago",
+          "original_name": "Cristina Lago",
+          "popularity": 0.391,
+          "profile_path": "/8BDIf7LT9pbIM73QKb5UaeMtGjT.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "677183da7d1bc87de761764a",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1469261,
+          "known_for_department": "Directing",
+          "name": "Joana Nin",
+          "original_name": "Joana Nin",
+          "popularity": 0.4466,
+          "profile_path": "/gtQeDGIFUJcU61p5XZYL5hT3P7O.jpg",
+          "credit_id": "677183e97d1bc87de761765b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2709076,
+          "known_for_department": "Writing",
+          "name": "Alana Rodrigues",
+          "original_name": "Alana Rodrigues",
+          "popularity": 0.1879,
+          "profile_path": null,
+          "credit_id": "677183f9769852f2901302f2",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

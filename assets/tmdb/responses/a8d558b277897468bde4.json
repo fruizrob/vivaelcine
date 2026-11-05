@@ -1,0 +1,104 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1540337?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:37.356Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1540337,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Fireflies Along the Fence",
+    "overview": "",
+    "popularity": 0.4564,
+    "poster_path": "/68bokLtEYM9jb1tPvIrAF3RIhZn.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2025-09-26",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Fireflies Along the Fence",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1748300,
+          "known_for_department": "Directing",
+          "name": "Albert Birney",
+          "original_name": "Albert Birney",
+          "popularity": 0.4123,
+          "profile_path": "/h8rKH6qE63UzSMFUn7i1BA8qB0B.jpg",
+          "credit_id": "68b71068a5cd9d4e8a9e28db",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1748300,
+          "known_for_department": "Directing",
+          "name": "Albert Birney",
+          "original_name": "Albert Birney",
+          "popularity": 0.4123,
+          "profile_path": "/h8rKH6qE63UzSMFUn7i1BA8qB0B.jpg",
+          "credit_id": "68b71084304a858e879e2ae7",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3829771,
+          "known_for_department": "Sound",
+          "name": "Bruce Willen",
+          "original_name": "Bruce Willen",
+          "popularity": 0.1002,
+          "profile_path": null,
+          "credit_id": "68b71094dc08ddffd42014f1",
+          "department": "Sound",
+          "job": "Music"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2025-09-26T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/453416?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:44:56.669Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 453416,
+    "imdb_id": "tt5739468",
+    "origin_country": [
+      "PT"
+    ],
+    "original_language": "pt",
+    "original_title": "Luz Obscura",
+    "overview": "",
+    "popularity": 1.4013,
+    "poster_path": "/Usita0vIlsNzKsrOMznMYsg4Vf.jpg",
+    "production_companies": [
+      {
+        "id": 1490,
+        "logo_path": null,
+        "name": "Kintop Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PT",
+        "name": "Portugal"
+      }
+    ],
+    "release_date": "2017-04-21",
+    "revenue": 0,
+    "runtime": 76,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Luz Obscura",
+    "video": false,
+    "vote_average": 4.8,
+    "vote_count": 5,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1801275,
+          "known_for_department": "Acting",
+          "name": "Rui Pato",
+          "original_name": "Rui Pato",
+          "popularity": 0.3275,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Himself",
+          "credit_id": "58fb71ee92514163df00ec18",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1801276,
+          "known_for_department": "Acting",
+          "name": "Alvaro Pato",
+          "original_name": "Alvaro Pato",
+          "popularity": 0.2058,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Himself",
+          "credit_id": "58fb7209c3a3687a0300d6b0",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1801277,
+          "known_for_department": "Acting",
+          "name": "Isabel Pato",
+          "original_name": "Isabel Pato",
+          "popularity": 0.3053,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Herself",
+          "credit_id": "58fb721492514163f500e938",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1344584,
+          "known_for_department": "Directing",
+          "name": "Susana de Sousa Dias",
+          "original_name": "Susana de Sousa Dias",
+          "popularity": 0.5725,
+          "profile_path": null,
+          "credit_id": "58fada79925141643c0063b7",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1344584,
+          "known_for_department": "Directing",
+          "name": "Susana de Sousa Dias",
+          "original_name": "Susana de Sousa Dias",
+          "popularity": 0.5725,
+          "profile_path": null,
+          "credit_id": "5ecfca8621c4ca0021dd5410",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1344584,
+          "known_for_department": "Directing",
+          "name": "Susana de Sousa Dias",
+          "original_name": "Susana de Sousa Dias",
+          "popularity": 0.5725,
+          "profile_path": null,
+          "credit_id": "5ecfcaa721c4ca0021dd543c",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1873570,
+          "known_for_department": "Production",
+          "name": "Ansgar Schäefer",
+          "original_name": "Ansgar Schäefer",
+          "popularity": 0.3221,
+          "profile_path": null,
+          "credit_id": "5ecfcab521c4ca0020de9e6b",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1619764,
+          "known_for_department": "Sound",
+          "name": "Armanda Carvalho",
+          "original_name": "Armanda Carvalho",
+          "popularity": 0.2909,
+          "profile_path": null,
+          "credit_id": "5ecfcac5e61e6d001cccf64a",
+          "department": "Sound",
+          "job": "Sound"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "",
+              "release_date": "2017-04-21T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cinema du Reel Film Festival",
+              "release_date": "2017-03-29T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-05-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

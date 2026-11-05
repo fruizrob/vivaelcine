@@ -1,0 +1,48 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE+%28Nachalo%29&include_adult=false&language=es-ES&year=1967",
+  "retrievedAt": "2026-11-05T16:45:00.175Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/5s1WNQk9vM5EgNL8kdHfr4DxZqO.jpg",
+        "genre_ids": [],
+        "id": 183718,
+        "title": "El principio",
+        "original_language": "xx",
+        "original_title": "Սկիզբը",
+        "overview": "Filosófico ensayo sobre la Revolución de Octubre de 1917 en Rusia y su influencia sobre el destino del mundo en el siglo XX.",
+        "popularity": 0.656,
+        "poster_path": "/8I479AVodhp36Yxof3MBLjs8sp1.jpg",
+        "release_date": "1967-02-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 19
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/diwiy9QIidKloFfKGlWlh24RwzX.jpg",
+        "genre_ids": [
+          10752,
+          18
+        ],
+        "id": 146521,
+        "title": "Начало неведомого века",
+        "original_language": "ru",
+        "original_title": "Начало неведомого века",
+        "overview": "",
+        "popularity": 0.8375,
+        "poster_path": "/e99SMRhIrUrWIldBWhFZ1PZjcTT.jpg",
+        "release_date": "1967-12-31",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 16
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  }
+}

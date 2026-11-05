@@ -1,0 +1,124 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1576883?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:02.437Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "id": 1576883,
+    "imdb_id": "tt3432592",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The End",
+    "overview": "",
+    "popularity": 0.7482,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1992-01-01",
+    "revenue": 0,
+    "runtime": 14,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The End",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32161,
+          "known_for_department": "Acting",
+          "name": "Stratford Johns",
+          "original_name": "Stratford Johns",
+          "popularity": 0.4663,
+          "profile_path": "/uFUS8QZ7waeQFjdpicbtn2aE319.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "690f3e493174b11fc0c05546",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 151830,
+          "known_for_department": "Acting",
+          "name": "Norman Lovett",
+          "original_name": "Norman Lovett",
+          "popularity": 0.3949,
+          "profile_path": "/wHjejt9qJoXY4gVXrLLbtUrRaSl.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "690f3e54e24e363ff9874885",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1088670,
+          "known_for_department": "Directing",
+          "name": "Morag McKinnon",
+          "original_name": "Morag McKinnon",
+          "popularity": 0.2755,
+          "profile_path": null,
+          "credit_id": "690f3de6acf1fb94b8c05529",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1088670,
+          "known_for_department": "Directing",
+          "name": "Morag McKinnon",
+          "original_name": "Morag McKinnon",
+          "popularity": 0.2755,
+          "profile_path": null,
+          "credit_id": "690f3df0c14a37294e4c7679",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1992-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

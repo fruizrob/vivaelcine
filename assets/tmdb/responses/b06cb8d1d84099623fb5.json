@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=El+final+de+los+tiempos&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-05T16:45:14.798Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1493304,
+        "title": "The end of times",
+        "original_language": "es",
+        "original_title": "El Final de los Tiempos",
+        "overview": "Los miembros del Taller de Cine, en un centro de rehabilitación psicosocial para personas con esquizofrenia, se reúnen para crear una película sobre el fin del mundo. Mientras intentan alertar a las autoridades sobre la inminente llegada de un asteroide, este diverso grupo enfrenta los desafíos de la autorrepresentación en el cine. Así, a través de la improvisación, reflejan sus propias experiencias, perspectivas y reflexiones sobre la vida y la muerte.",
+        "popularity": 0.6187,
+        "poster_path": "/euC1j2kRk8IUzYCv76QWzgoGdaY.jpg",
+        "release_date": "2026-04-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

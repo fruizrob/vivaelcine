@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Plata+o+mierda&include_adult=false&language=es-ES&year=2025",
+  "retrievedAt": "2026-11-05T16:45:05.769Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1058543,
+        "title": "Plata o Mierda",
+        "original_language": "es",
+        "original_title": "Plata o Mierda",
+        "overview": "Marcos está preso. En la cárcel, su posesión más preciada es un teléfono que entró de contrabando su novia Sol. Con él Marcos graba y manda videos. Esta película es el diario de un intercambio clandestino. La historia de quien deja escapar imágenes para no dejarse vencer por el encierro.",
+        "popularity": 0.6459,
+        "poster_path": "/3FbxXaRocgaBzDqGEL0PzbvyCTd.jpg",
+        "release_date": "2025-11-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

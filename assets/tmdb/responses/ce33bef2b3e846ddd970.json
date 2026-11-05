@@ -1,0 +1,213 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/430378?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T16:45:16.885Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 430378,
+    "imdb_id": "tt3908366",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Replica",
+    "overview": "",
+    "popularity": 3.2106,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2015-12-16",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Replica",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 238616,
+          "known_for_department": "Acting",
+          "name": "Carole Brana",
+          "original_name": "Carole Brana",
+          "popularity": 0.4187,
+          "profile_path": "/sgBdKU2DkmFxLmB9WanbyPNYERB.jpg",
+          "cast_id": 10,
+          "character": "Amy",
+          "credit_id": "5f369dc9efcea9003497dc90",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 221669,
+          "known_for_department": "Acting",
+          "name": "Jérôme Robart",
+          "original_name": "Jérôme Robart",
+          "popularity": 1.4441,
+          "profile_path": "/iEBha91NAlo57atxmfFIOrMoc38.jpg",
+          "cast_id": 4,
+          "character": "Christophe",
+          "credit_id": "5853b6bec3a3682dfe02e5ce",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1723245,
+          "known_for_department": "Acting",
+          "name": "Evaëlle Brocard",
+          "original_name": "Evaëlle Brocard",
+          "popularity": 0.4183,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Clara",
+          "credit_id": "5853b6d49251411a4602d867",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1723246,
+          "known_for_department": "Acting",
+          "name": "Luna Hofmann",
+          "original_name": "Luna Hofmann",
+          "popularity": 0.3395,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Sophie",
+          "credit_id": "5853b6e99251416f6302f70d",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1126300,
+          "known_for_department": "Acting",
+          "name": "Nicolas Buchoux",
+          "original_name": "Nicolas Buchoux",
+          "popularity": 0.4219,
+          "profile_path": "/qztCXmATXiR3005B2wQrDdyszH7.jpg",
+          "cast_id": 7,
+          "character": "The Doctor",
+          "credit_id": "5853b70a9251416f1002ddb5",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1666538,
+          "known_for_department": "Acting",
+          "name": "Patricia Bopp",
+          "original_name": "Patricia Bopp",
+          "popularity": 0.3166,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Barabara Toff",
+          "credit_id": "5853b73492514175ad021831",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 62458,
+          "known_for_department": "Acting",
+          "name": "Nicolas Wan Park",
+          "original_name": "Nicolas Wan Park",
+          "popularity": 0.9103,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Ken Toff",
+          "credit_id": "5853b7649251411a4602d8b3",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1723242,
+          "known_for_department": "Directing",
+          "name": "Luc Walpoth",
+          "original_name": "Luc Walpoth",
+          "popularity": 0.3281,
+          "profile_path": "/2DFp0Q8qB9GZqU2otJobrnmsQE7.jpg",
+          "credit_id": "5853b5fa92514175ad0217c3",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1723242,
+          "known_for_department": "Directing",
+          "name": "Luc Walpoth",
+          "original_name": "Luc Walpoth",
+          "popularity": 0.3281,
+          "profile_path": "/2DFp0Q8qB9GZqU2otJobrnmsQE7.jpg",
+          "credit_id": "5853b60d9251416f1002dd54",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1723243,
+          "known_for_department": "Writing",
+          "name": "Klaus Pas",
+          "original_name": "Klaus Pas",
+          "popularity": 0.653,
+          "profile_path": null,
+          "credit_id": "5853b623c3a3682fb8034ba4",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-12-16T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

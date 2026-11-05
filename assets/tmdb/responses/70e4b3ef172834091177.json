@@ -1,0 +1,177 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1534246?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:37:37.604Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 1534246,
+    "imdb_id": null,
+    "origin_country": [
+      "BE"
+    ],
+    "original_language": "sr",
+    "original_title": "Izgubljene Duše",
+    "overview": "",
+    "popularity": 1.7379,
+    "poster_path": "/rCRlv4C9j9exffycE3kZRmPbj2J.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2025-06-11",
+    "revenue": 0,
+    "runtime": 8,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Serbian",
+        "iso_639_1": "sr",
+        "name": "Srpski"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Izgubljene Duše",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5642827,
+          "known_for_department": "Acting",
+          "name": "Dusan Bozic",
+          "original_name": "Dusan Bozic",
+          "popularity": 0.3928,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Dusan Bozic",
+          "credit_id": "68a8eb9eeab92453cb6cdd4d",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3418232,
+          "known_for_department": "Directing",
+          "name": "Maša Božić",
+          "original_name": "Maša Božić",
+          "popularity": 0.2905,
+          "profile_path": null,
+          "credit_id": "68a8ebaf39657a72225477c0",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5453620,
+          "known_for_department": "Camera",
+          "name": "Elko Van Raemdonck",
+          "original_name": "Elko Van Raemdonck",
+          "popularity": 0.2076,
+          "profile_path": null,
+          "credit_id": "68a8ebc0b8e502f6e96cdcc4",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5642827,
+          "known_for_department": "Acting",
+          "name": "Dusan Bozic",
+          "original_name": "Dusan Bozic",
+          "popularity": 0.3928,
+          "profile_path": null,
+          "credit_id": "68a8ebe1f7de734425547812",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5453620,
+          "known_for_department": "Camera",
+          "name": "Elko Van Raemdonck",
+          "original_name": "Elko Van Raemdonck",
+          "popularity": 0.2076,
+          "profile_path": null,
+          "credit_id": "68a8ec3c2e055fbb7f66fac9",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3418232,
+          "known_for_department": "Directing",
+          "name": "Maša Božić",
+          "original_name": "Maša Božić",
+          "popularity": 0.2905,
+          "profile_path": null,
+          "credit_id": "68a8ec47430d24f07966fa8c",
+          "department": "Crew",
+          "job": "Sound Design Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3418232,
+          "known_for_department": "Directing",
+          "name": "Maša Božić",
+          "original_name": "Maša Božić",
+          "popularity": 0.2905,
+          "profile_path": null,
+          "credit_id": "68a8ec5a913bc2bd421e4668",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5453620,
+          "known_for_department": "Camera",
+          "name": "Elko Van Raemdonck",
+          "original_name": "Elko Van Raemdonck",
+          "popularity": 0.2076,
+          "profile_path": null,
+          "credit_id": "68a8ec656875c794518d1698",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "sr",
+              "note": "",
+              "release_date": "2025-06-11T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Los+ni%C3%B1os+sin+tierra&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-05T16:44:56.145Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/jE0QZO0Y0IqDWzlse0hezrOTkgv.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1633342,
+        "title": "Los niños sin tierra",
+        "original_language": "es",
+        "original_title": "Los niños sin tierra",
+        "overview": "",
+        "popularity": 0.8607,
+        "poster_path": "/25C9P18KF07RUT2hPzzq9Ch77is.jpg",
+        "release_date": "2026-03-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

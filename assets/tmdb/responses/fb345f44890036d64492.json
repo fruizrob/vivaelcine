@@ -1,0 +1,151 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/407166?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-05T02:39:38.363Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 407166,
+    "imdb_id": "tt4710998",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "El Club de los 27",
+    "overview": "¡Hoy es un gran día para Roi! Una de las mayores productoras musicales le ha ofrecido tener fama mundial y alcanzar la inmortalidad como estrella del pop. Sólo hay una condición...",
+    "popularity": 1.1787,
+    "poster_path": "/vy4ctcUSQxQuVVNo3XzRSVHlYXL.jpg",
+    "production_companies": [
+      {
+        "id": 79430,
+        "logo_path": null,
+        "name": "Mentuy Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2015-03-10",
+    "revenue": 0,
+    "runtime": 3,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El Club de los 27",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 79289,
+          "known_for_department": "Acting",
+          "name": "Javier Pereira",
+          "original_name": "Javier Pereira",
+          "popularity": 0.4357,
+          "profile_path": "/edGc0hGWGc11sFOxROosilqyoVp.jpg",
+          "cast_id": 1,
+          "character": "Roi",
+          "credit_id": "578d73a8c3a3686f0a00414a",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 28511,
+          "known_for_department": "Acting",
+          "name": "Luis Zahera",
+          "original_name": "Luis Zahera",
+          "popularity": 1.8822,
+          "profile_path": "/ozfRIrvu8i93RJAaeWbaCLKAlPq.jpg",
+          "cast_id": 2,
+          "character": "Max",
+          "credit_id": "578d73cac3a36862240096ce",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1618032,
+          "known_for_department": "Directing",
+          "name": "Carlos Solano",
+          "original_name": "Carlos Solano",
+          "popularity": 0.1983,
+          "profile_path": "/9FGbZasBm9Azf5kGXXahXeHPSDR.jpg",
+          "credit_id": "61ddd4becb30840098d05a50",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1618036,
+          "known_for_department": "Camera",
+          "name": "Marcos del Villar",
+          "original_name": "Marcos del Villar",
+          "popularity": 0.1075,
+          "profile_path": null,
+          "credit_id": "5e90820a4a4bf60fa25114d9",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1987707,
+          "known_for_department": "Writing",
+          "name": "Carlos C. Tomé",
+          "original_name": "Carlos C. Tomé",
+          "popularity": 1.0923,
+          "profile_path": "/mADnw0LYvYVCfgDcUbxFh6lNyGY.jpg",
+          "credit_id": "5e9081fdcee4810012e0d705",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-03-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

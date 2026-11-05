@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Nobody%E2%80%99s+Business&include_adult=false&language=es-ES&year=1996",
+  "retrievedAt": "2026-11-05T16:44:58.573Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/9odivlAukoNGMBcQwrrYFh0tFMd.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 126999,
+        "title": "Nobody's Business",
+        "original_language": "en",
+        "original_title": "Nobody's Business",
+        "overview": "",
+        "popularity": 0.3392,
+        "poster_path": "/6vFCXW4QVdOAdEx7eeCNfsWPnC1.jpg",
+        "release_date": "1996-10-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 17
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}
