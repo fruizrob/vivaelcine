@@ -25,6 +25,7 @@ Open http://127.0.0.1:4174/. With Node.js 20+ and Python 3.9+, `npm test` checks
 - `timeline.js`: generates the timeline, independent of the DOM.
 - `story.js`: draws Story cards and owns the sharing preview, export, and clipboard fallback.
 - `sharing.js`: opens the share menu for a screening, with Story and link actions.
+- `festival-history.js` and `data/festival-history.js`: sourced film festival appearances and premiere scopes in details.
 - `app.js`: state and interactions; `index.html` and `styles.css`: structure and design.
 
 Festival links use `?festival=FID`; changing the day adds `&dia=YYYY-MM-DD`. Without a valid day in the URL, the agenda opens on today's date in the festival's timezone, or its first day when today is outside the schedule. Existing SANFIC links without a festival parameter still work. Filters and zoom are kept in memory. No accounts or persistent storage.
@@ -52,3 +53,5 @@ End times are calculated from film or session runtimes, excluding introductions 
 Cards and screening details show verified film years. Missing years are omitted; a year does not establish premiere status. Shared programmes show individual years in their details, and separately identified parts use their own years. Sources, remaining gaps, and regeneration rules: [film years](docs/film-years.md).
 
 Screening boxes show a compact Letterboxd score linking to the film when a published average is verified. Scores are dated snapshots; film details load Letterboxd's live ratings widget. Shorts inside programmes have individual links; programmes have no combined rating. No API key, backend, or runtime scraper. Add an optional `letterboxd` slug to a film, component, or separately identified screening. Identity checks, score sources and refresh procedure: [Letterboxd sources](docs/letterboxd.md).
+
+Film details show a chronological **Festivales** list when verified history is available. Festival names link to sources; dates keep their published precision, later appearances are marked **Anunciada**, and premiere scopes stay with the named edition. Programme films show their own histories inside their existing details. Initial coverage: 12 films, 14 appearances. [Sources and curation](docs/festival-history-sources.md).
