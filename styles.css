@@ -76,8 +76,9 @@ select{border:1px solid var(--line);border-radius:5px;height:40px;padding:0 30px
 .event-director+.event-duration::before{content:'·';margin-right:4px}
 .event-footer{position:absolute;bottom:2px;left:4px;right:4px;display:flex;align-items:center;justify-content:flex-end;gap:4px;height:24px;pointer-events:none}
 .event-footer>*{flex:none;pointer-events:auto}
-.event-footer .event-festival{flex:0 1 54px;min-width:0;height:16px;display:flex;align-items:center;margin-right:auto;pointer-events:none}
-.event-festival img{display:block;width:100%;height:100%;object-fit:contain;object-position:left center;mix-blend-mode:multiply}
+.event-footer .event-festival{flex:0 1 auto;min-width:0;max-width:110px;display:flex;align-items:center;gap:5px;margin-right:auto;font-size:9px;font-weight:500;line-height:1.2;color:var(--event-ink);pointer-events:none}
+.event-festival img{display:block;flex:none;width:20px;height:16px;object-fit:contain;mix-blend-mode:multiply}
+.event-festival-name{min-width:0;overflow-wrap:anywhere}
 .event-festival[data-festival-mark="karlovy-vary"] img{filter:brightness(0)}
 .event.short .event-main{overflow:visible;padding-inline:3px}
 .event.short .event-time{font-size:9px}
@@ -103,10 +104,10 @@ select{border:1px solid var(--line);border-radius:5px;height:40px;padding:0 30px
 .event-share{display:grid;place-items:center;width:24px;height:24px;padding:4px;border:0;border-radius:3px;background:#fffef9b3;color:var(--event-ink)}
 .event-share svg{width:16px;height:16px}
 .event-share:hover{background:var(--white)}
-@container(max-width:110px){.event-rating{font-size:0;gap:0}}
-@container(max-width:85px){.event-rating{display:none}}
+@container(max-width:150px){.event-rating{font-size:0;gap:0}.has-rating .event-festival img{display:none}}
+@container(max-width:110px){.event-festival img{display:none}.has-festival .event-rating{display:none}}
+@container(max-width:85px){.event-rating,.event-footer .event-festival{display:none}}
 @container(max-width:75px){.event:not(.short):not(.unknown) .event-director{display:none}.event:not(.short):not(.unknown) .event-duration::before{content:none}.event-content{padding-inline:2px}}
-@container(max-width:55px){.has-festival .event-share{display:none}}
 @container(max-width:30px){.event-footer{display:none}}
 .footer a{text-decoration:none}
 .footer a:hover{text-decoration:underline}

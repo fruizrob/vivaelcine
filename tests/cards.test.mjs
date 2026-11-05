@@ -34,11 +34,13 @@ test('cards show only the start and verified year above the film metadata', () =
   assert.ok(html.includes(`https://letterboxd.com/film/${base.letterboxd}/`));
 });
 
-test('the sourced festival logo precedes independent footer controls', () => {
+test('the sourced festival logo and visible name precede independent footer controls', () => {
   const history = { [`${fidocs.id}/${base.id}`]: [{ festival: 'Cannes', date: '1975', source: 'https://example.org/film' }] };
   const html = render({}, {}, history);
   assert.match(html, /<\/button>\s*<div class="event-footer">[\s\S]*event-festival[\s\S]*event-rating[\s\S]*event-share/);
   assert.match(html, /data-festival-mark="cannes"/);
+  assert.match(html, /<span class="event-festival-name">Cannes<\/span>/);
+  assert.match(html, /<img src="\.\/assets\/festivals\/cannes.svg\?v=[^"]+" alt=""/);
   assert.match(html, /Cannes · 1975/);
   assert.doesNotMatch(render(), /event-festival/);
 });

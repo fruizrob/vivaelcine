@@ -67,7 +67,7 @@ function renderEvent(event, lane, room, data, dayEvents, range) {
         </span>
       </button>
       <div class="event-footer">
-        ${mark ? `<span class="event-festival" data-festival-mark="${mark.id}" title="${escapeHtml(mark.label)}"><img src="${mark.logo}" alt="${escapeHtml(mark.name === 'Toronto' ? 'TIFF' : mark.name)}" loading="lazy" decoding="async"></span>` : ''}
+        ${mark ? `<span class="event-festival" data-festival-mark="${mark.id}" title="${escapeHtml(mark.label)}"><img src="${mark.logo}?v=20261105-labels" alt="" loading="lazy" decoding="async"><span class="event-festival-name">${escapeHtml(mark.name === 'Toronto' ? 'TIFF' : mark.name)}</span></span>` : ''}
       ${hasRating ? `<a class="event-rating" href="https://letterboxd.com/film/${escapeHtml(slug)}/" target="_blank" rel="noopener"
         aria-label="${escapeHtml(ratingLabel)}" title="${escapeHtml(ratingLabel)}"><span class="letterboxd-dots" aria-hidden="true"></span>${score.toFixed(1)}</a>` : ''}
       ${unknown ? '' : `<button type="button" class="event-share" data-share="${event.id}"
