@@ -8,6 +8,7 @@ import { drawTimeline } from '../timeline.js';
 
 const [sanfic, fidocs] = festivals;
 const sources = JSON.parse(readFileSync(new URL('../assets/film-year-sources.json', import.meta.url)));
+const tmdb = JSON.parse(readFileSync(new URL('../assets/tmdb-film-years.json', import.meta.url)));
 const card = (festival, event) => drawTimeline({ ...festival, events: [event] }, {
   date: event.date, search: '', venue: '', section: '',
 }).html;
@@ -25,7 +26,9 @@ test('recent and retrospective films have sourced years on their cards', () => {
   }
   for (const film of Object.values(sanfic.films).flatMap(film => [film, ...(film.components || [])])) {
     if (!film.year) continue;
-    assert.ok(sources.sanfic.some(source => source.url === film.yearSource && source.year === film.year), film.title);
+    assert.ok(sources.sanfic.some(source => source.url === film.yearSource && source.year === film.year)
+      || tmdb.records.some(record => film.yearSource === `https://www.themoviedb.org/movie/${record.id}`
+        && film.year === Number(record.releaseDate.slice(0, 4))), film.title);
   }
 });
 

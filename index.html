@@ -7,8 +7,8 @@
   <meta name="description" content="Programación de festivales de cine. Horarios y películas por sala.">
   <title>¡Viva el Cine!</title>
   <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="./styles.css?v=20261105-years">
-  <script type="module" src="./app.js?v=20261105-years"></script>
+  <link rel="stylesheet" href="./styles.css?v=20261105-tmdb-years">
+  <script type="module" src="./app.js?v=20261105-tmdb-years"></script>
 </head>
 <body>
   <a class="skip-link" href="#schedule">Ir a las funciones</a>
@@ -20,14 +20,14 @@
         <p id="festival-dates"></p>
       </div>
     </div>
-    <a class="source-link" id="program-source" href="./assets/programacion-sanfic22.pdf" target="_blank" rel="noopener">Programa oficial ↗</a>
+    <a class="source-link" id="program-source" href="./assets/programacion-sanfic22.pdf" target="_blank" rel="noopener" aria-label="Programa oficial">Programa ↗</a>
   </header>
   <main>
     <nav class="days" id="days" aria-label="Día de programación"></nav>
     <section class="schedule-shell" id="schedule" aria-labelledby="day-heading">
       <h2 class="sr-only" id="day-heading"></h2>
       <div class="toolbar">
-        <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Buscar película o dirección" aria-label="Buscar película o dirección"></label>
+        <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Buscar" aria-label="Buscar película o dirección"></label>
         <label class="select-wrap"><span class="sr-only">Sede</span><select id="venue"><option value="">Todas las sedes</option></select></label>
         <div class="zoom" role="group" aria-label="Escala de la grilla">
           <button id="zoom-out" aria-label="Reducir escala" title="Reducir escala">−</button>
@@ -40,8 +40,13 @@
       <div class="empty-results" id="empty-results" role="status" hidden>Sin resultados. <button id="reset-filters">Quitar filtros</button></div>
     </section>
     <footer class="footer">
-      <div class="footer-links"><a id="festival-source" href="https://sanfic.com/esta-edicion/programacion/" target="_blank" rel="noopener">SANFIC22 ↗</a></div>
-      <p class="footer-credit"><a href="https://letterboxd.com/fel1g/" target="_blank" rel="noopener"><span class="letterboxd-dots" aria-hidden="true"></span>fel1g en Letterboxd <span aria-hidden="true">↗</span></a></p>
+      <p class="footer-credit"><a href="https://letterboxd.com/fel1g/" target="_blank" rel="noopener" aria-label="fel1g en Letterboxd"><span class="letterboxd-dots" aria-hidden="true"></span>fel1g <span aria-hidden="true">↗</span></a></p>
+      <details class="tmdb-credit">
+        <summary>Créditos</summary>
+        <a href="https://www.themoviedb.org" target="_blank" rel="noopener"><img src="./assets/tmdb-logo.svg" width="80" height="11" alt="TMDB"></a>
+        <p lang="en">This product uses the TMDB API but is not endorsed or certified by TMDB.</p>
+        <a id="festival-source" href="https://sanfic.com/esta-edicion/programacion/" target="_blank" rel="noopener">SANFIC22 ↗</a>
+      </details>
     </footer>
   </main>
   <dialog id="film-dialog" aria-labelledby="film-title">

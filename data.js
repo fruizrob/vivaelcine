@@ -1,4 +1,4 @@
-import sanfic from './data/sanfic-2026.js?v=20261105-years';
+import sanfic from './data/sanfic-2026.js?v=20261105-tmdb-years';
 import fidocs from './data/fidocs-2026.js?v=20261105-years';
 
 export const festivals = [

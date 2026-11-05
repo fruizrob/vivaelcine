@@ -80,10 +80,12 @@ select{border:1px solid var(--line);border-radius:5px;height:40px;padding:0 30px
 .event.unknown:hover,.event.unknown:focus-within{box-shadow:none}
 .empty-results{text-align:center;padding:24px;font-size:13px;border-top:1px solid var(--line)}
 .empty-results button{border:0;text-decoration:underline;padding:6px}
-.footer{padding:20px 0 30px;font-size:11px;color:var(--muted)}
-.footer-links{display:flex;justify-content:flex-end}
-.footer-credit{display:flex;justify-content:center;margin:24px 0 0;font-size:12px}
+.footer{display:flex;align-items:baseline;justify-content:space-between;gap:24px;padding:20px 0 30px;font-size:11px;color:var(--muted)}
+.footer-credit{margin:0;font-size:12px;flex:none}
 .footer-credit a{display:inline-flex;align-items:center;gap:8px;padding:6px;border-radius:4px}
+.tmdb-credit{max-width:300px;margin:0;font-size:11px;text-align:right}
+.tmdb-credit img{margin-top:12px;width:80px;height:auto}
+.tmdb-credit p{margin:8px 0;line-height:1.5}
 .letterboxd-dots{width:8px;height:8px;margin:0 6px;background:#00c030;border-radius:50%;box-shadow:-6px 0 #ff8000,6px 0 #40bcf4}
 .event-rating{position:absolute;bottom:2px;right:30px;display:inline-flex;align-items:center;gap:3px;padding:3px;background:#fffef9b3;border-radius:3px;font-size:10px;font-weight:600;line-height:18px;color:var(--event-ink);text-decoration:none;font-variant-numeric:tabular-nums}
 .event-rating .letterboxd-dots{flex:none;width:5px;height:5px;margin:0 4px;box-shadow:-4px 0 #ff8000,4px 0 #40bcf4}
@@ -109,9 +111,11 @@ dialog::backdrop{background:#22221c70;backdrop-filter:blur(3px)}
 .share-menu svg{width:18px;height:18px;flex:none;color:var(--muted)}
 .share-menu .screening-url{margin:5px 0 0}
 dialog h2{font:400 32px/1.15 Georgia,'Times New Roman',serif;letter-spacing:-.5px;margin:10px 0 12px}
+dialog .film-year{font:400 16px/1.4 Arial,Helvetica,sans-serif;letter-spacing:0;white-space:nowrap;color:var(--muted)}
 dialog p{font-size:13px;line-height:1.6;color:var(--muted)}
 dialog .film-section{font-size:12px;margin:0;min-height:24px;padding-right:88px}
 .detail-when{font-size:15px;color:var(--ink);border-block:1px solid var(--line);padding:16px 0}
+.detail-when strong{display:block;margin-block:4px;font-size:18px;font-variant-numeric:tabular-nums;white-space:nowrap}
 .detail-when span{display:block;font-size:12px;margin-top:5px}
 dialog .film-director{color:var(--ink);margin:0 0 6px}
 dialog .film-meta{font-size:12px;margin:0 0 6px;text-wrap:pretty}

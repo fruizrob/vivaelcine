@@ -1,4 +1,4 @@
-import { festivals, festivalFor } from './data.js?v=20261105-years';
+import { festivals, festivalFor } from './data.js?v=20261105-tmdb-years';
 import { clock, durationOf, endOf, initialDay, roomLocation, yearOf } from './core.js?v=20261105-years';
 import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261105-years';
 import { screeningUrl } from './story.js?v=20261104-2';
@@ -106,25 +106,26 @@ function renderDetail() {
   const letterboxd = event.letterboxd || film.letterboxd;
   const ratingTitle = event.letterboxd ? event.title || film.title : film.title;
   const notes = [...new Set([event.note, film.note].filter(Boolean))];
+  const year = yearOf(event, film);
   const facts = [
     duration === null ? 'Duración por confirmar' : `${duration} min`,
-    film.durationKind === 'sum' ? `${film.components.length} cortometrajes` : '',
-    yearOf(event, film), film.countries, film.language,
+    film.countries, film.language,
   ].filter(Boolean);
   $('#film-detail').innerHTML = `
     <p class="film-section" style="color:${section.ink}">${esc(section.label)}</p>
-    <h2 id="film-title">${esc(event.title || film.title)}</h2>
+    <h2 id="film-title">${esc(event.title || film.title)}${year ? ` <span class="film-year">(${year})</span>` : ''}</h2>
     ${film.director ? `<p class="film-director">${esc(film.director)}</p>` : ''}
     <p class="film-meta">${facts.map(esc).join(' · ')}</p>
     ${film.alias ? `<p class="film-meta">${esc(film.alias)}</p>` : ''}
     ${film.free ? '<p class="film-admission">Entrada gratuita</p>' : ''}
     <p class="detail-when">
-      ${dateLabel(event.date)} · ${clock(event.start)}${finish === null ? '' : `–${clock(finish, true)}`}
+      ${dateLabel(event.date)}
+      <strong>${clock(event.start)}${finish === null ? '' : `–${clock(finish, true)}`}</strong>
       <span>${esc(roomLocation(room))}</span>
     </p>
     ${notes.map(note => `<p>${esc(note)}</p>`).join('')}
     <div class="detail-links">
-      <a href="${esc(source)}" target="_blank" rel="noopener">${source === ticket ? 'Entradas' : film.components ? 'Programa del bloque' : 'Ficha oficial'} ↗</a>
+      <a href="${esc(source)}" target="_blank" rel="noopener">${source === ticket ? 'Entradas' : film.components ? 'Programa' : 'Ficha'} ↗</a>
       ${ticket && ticket !== source ? `<a href="${esc(ticket)}" target="_blank" rel="noopener">Entradas ↗</a>` : ''}
       ${letterboxd ? `<a href="https://letterboxd.com/film/${esc(letterboxd)}/" target="_blank" rel="noopener">Letterboxd ↗</a>` : ''}
     </div>
@@ -136,7 +137,7 @@ function renderDetail() {
     ` : ''}
     ${film.components ? `
       <details>
-        <summary>Películas del programa</summary>
+        <summary>Películas</summary>
         <ul class="short-list">${film.components.map(short => `
           <li><a href="${esc(short.source)}" target="_blank" rel="noopener">${esc(short.title)}</a>${yearOf({}, short) ? ` · ${yearOf({}, short)}` : ''}${Number.isFinite(short.duration) ? ` · ${short.duration} min` : ''}${short.director ? `<br>${esc(short.director)}` : ''}${short.letterboxd ? `<br><a href="https://letterboxd.com/film/${esc(short.letterboxd)}/" target="_blank" rel="noopener" aria-label="${esc(short.title)} en Letterboxd">Letterboxd ↗</a>` : ''}</li>
         `).join('')}</ul>

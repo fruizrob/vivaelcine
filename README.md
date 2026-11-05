@@ -51,4 +51,6 @@ End times are calculated from film or session runtimes, excluding introductions 
 
 Cards and screening details show verified film years. Missing years are omitted; a year does not establish premiere status. Shared programmes show individual years in their details, and separately identified parts use their own years. Sources, remaining gaps, and regeneration rules: [film years](docs/film-years.md).
 
+`npm run import:years` refreshes reviewed TMDB identities using the private token at `~/.config/vivaelcine/tmdb-read-token` or `TMDB_READ_ACCESS_TOKEN`. `npm run import:years -- --offline` replays the checked-in evidence. Years are published as static data; credentials and API requests stay out of the browser. TMDB attribution is in **Créditos**.
+
 Screening boxes show a compact Letterboxd score linking to the film when a published average is verified. Scores are dated snapshots; film details load Letterboxd's live ratings widget. Shorts inside programmes have individual links; programmes have no combined rating. No API key, backend, or runtime scraper. Add an optional `letterboxd` slug to a film, component, or separately identified screening. Identity checks, score sources and refresh procedure: [Letterboxd sources](docs/letterboxd.md).
