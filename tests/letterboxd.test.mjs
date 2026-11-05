@@ -64,7 +64,7 @@ spec = importlib.util.spec_from_file_location('fidocs_import', root / 'scripts/i
 module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(module)
 data = json.load(sys.stdin)
-module.preserve_letterboxd(root / 'data/fidocs-2026.js', data['films'], data['events'])
+module.preserve_curated_metadata(root / 'data/fidocs-2026.js', data['films'], data['events'])
 print(json.dumps(data))
 `, new URL('..', import.meta.url).pathname], {
     encoding: 'utf8',

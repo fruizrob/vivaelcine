@@ -1,6 +1,6 @@
-import { festivals, festivalFor } from './data.js?v=20261104-letterboxd';
-import { clock, durationOf, endOf, initialDay, roomLocation } from './core.js?v=20261104';
-import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261104-share-menu';
+import { festivals, festivalFor } from './data.js?v=20261105-years';
+import { clock, durationOf, endOf, initialDay, roomLocation, yearOf } from './core.js?v=20261105-years';
+import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange } from './timeline.js?v=20261105-years';
 import { screeningUrl } from './story.js?v=20261104-2';
 import { setupSharing } from './sharing.js?v=20261104-share-menu';
 
@@ -109,7 +109,7 @@ function renderDetail() {
   const facts = [
     duration === null ? 'Duración por confirmar' : `${duration} min`,
     film.durationKind === 'sum' ? `${film.components.length} cortometrajes` : '',
-    film.year, film.countries, film.language,
+    yearOf(event, film), film.countries, film.language,
   ].filter(Boolean);
   $('#film-detail').innerHTML = `
     <p class="film-section" style="color:${section.ink}">${esc(section.label)}</p>
@@ -136,9 +136,9 @@ function renderDetail() {
     ` : ''}
     ${film.components ? `
       <details>
-        <summary>Cortometrajes</summary>
+        <summary>Películas del programa</summary>
         <ul class="short-list">${film.components.map(short => `
-          <li><a href="${esc(short.source)}" target="_blank" rel="noopener">${esc(short.title)}</a>${Number.isFinite(short.duration) ? ` · ${short.duration} min` : ''}${short.director ? `<br>${esc(short.director)}` : ''}${short.letterboxd ? `<br><a href="https://letterboxd.com/film/${esc(short.letterboxd)}/" target="_blank" rel="noopener" aria-label="${esc(short.title)} en Letterboxd">Letterboxd ↗</a>` : ''}</li>
+          <li><a href="${esc(short.source)}" target="_blank" rel="noopener">${esc(short.title)}</a>${yearOf({}, short) ? ` · ${yearOf({}, short)}` : ''}${Number.isFinite(short.duration) ? ` · ${short.duration} min` : ''}${short.director ? `<br>${esc(short.director)}` : ''}${short.letterboxd ? `<br><a href="https://letterboxd.com/film/${esc(short.letterboxd)}/" target="_blank" rel="noopener" aria-label="${esc(short.title)} en Letterboxd">Letterboxd ↗</a>` : ''}</li>
         `).join('')}</ul>
       </details>
     ` : ''}

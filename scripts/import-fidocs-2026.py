@@ -30,31 +30,35 @@ def compact(value):
     return json.dumps(value, ensure_ascii=False, separators=(',', ':'))
 
 
-def preserve_letterboxd(path, films, events):
-    """Keep curated identities when regenerating the one-record-per-line dataset."""
+def preserve_curated_metadata(path, films, events):
+    """Keep curated identities and source-backed years through regeneration."""
     if not path.exists():
         return
     events_by_id = {event['id']:event for event in events}
     for line in path.read_text().splitlines():
-        if '"letterboxd":' not in line:
+        if '"letterboxd":' not in line and '"yearSource":' not in line:
             continue
         record = line.rstrip(',')
         if record.startswith('{'):
             previous = json.loads(record)
             if previous['id'] in events_by_id:
-                events_by_id[previous['id']]['letterboxd'] = previous['letterboxd']
+                copy_curated(previous, events_by_id[previous['id']])
         else:
             film_id, previous = next(iter(json.loads('{'+record+'}').items()))
             if film_id not in films:
                 continue
             film = films[film_id]
-            if 'letterboxd' in previous:
-                film['letterboxd'] = previous['letterboxd']
+            copy_curated(previous, film)
             components = {item['title']:item for item in previous.get('components',[])}
             for item in film.get('components',[]):
-                slug = components.get(item['title'],{}).get('letterboxd')
-                if slug:
-                    item['letterboxd'] = slug
+                copy_curated(components.get(item['title'],{}), item)
+
+
+def copy_curated(previous, current):
+    if 'letterboxd' in previous:
+        current['letterboxd'] = previous['letterboxd']
+    if previous.get('yearSource') and isinstance(previous.get('year'), int):
+        current.update(year=previous['year'], yearSource=previous['yearSource'])
 
 
 def main(raw_dir, repo):
@@ -228,7 +232,7 @@ def main(raw_dir, repo):
     assert len({x['id'] for x in events})==len(events)
     for event in events:
         assert event['filmId'] in films and event['roomId'] in {x['id'] for x in rooms}
-    preserve_letterboxd(repo / 'data/fidocs-2026.js', films, events)
+    preserve_curated_metadata(repo / 'data/fidocs-2026.js', films, events)
     repo.joinpath('data').mkdir(exist_ok=True, parents=True)
     repo.joinpath('assets').mkdir(exist_ok=True)
     # One record per line keeps large, read-only datasets reviewable and below 500 LOC.
