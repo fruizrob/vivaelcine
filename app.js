@@ -7,14 +7,15 @@ import { setupSharing } from './sharing.js?v=20261112-invitation';
 import { renderFestivalHistory } from './festival-history.js?v=20261105-premieres';
 import { renderFilmPoster } from './film-poster.js?v=20261105-posters';
 
-const data = { ...structuredClone(festivalFor(location.search)), festivalHistory: {}, filmPosters: {} };
+const now = new Date();
+const data = { ...structuredClone(festivalFor(location.search, now)), festivalHistory: {}, filmPosters: {} };
 const $ = selector => document.querySelector(selector);
 const requestedDay = new URLSearchParams(location.search).get('dia');
 const eventsById = new Map(data.events.map(event => [event.id, event]));
 const roomsById = new Map(data.rooms.map(room => [room.id, room]));
 const requestedScreening = eventsById.get(new URLSearchParams(location.search).get('funcion'));
 const state = {
-  date: requestedScreening?.date || initialDay(data, requestedDay),
+  date: requestedScreening?.date || initialDay(data, requestedDay, now),
   search: '',
   venue: '',
   section: '',
