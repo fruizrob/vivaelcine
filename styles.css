@@ -122,6 +122,9 @@ dialog::backdrop{background:#22221c70;backdrop-filter:blur(3px)}
 .share-menu button:hover{background:var(--paper)}
 .share-menu svg{width:18px;height:18px;flex:none;color:var(--muted)}
 .share-menu .screening-url{margin:5px 0 0}
+.share-menu{max-height:calc(100dvh - 28px);overflow:auto}
+.share-menu textarea{font:12px/1.5 Arial,Helvetica,sans-serif;resize:vertical}
+.share-menu p{margin:8px 10px;font-size:12px;line-height:1.5;color:var(--muted)}
 dialog h2{font:400 32px/1.15 Georgia,'Times New Roman',serif;letter-spacing:-.5px;margin:10px 0 12px}
 dialog .film-year{font:400 16px/1.4 Arial,Helvetica,sans-serif;letter-spacing:0;white-space:nowrap;color:var(--muted)}
 dialog p{font-size:13px;line-height:1.6;color:var(--muted)}
