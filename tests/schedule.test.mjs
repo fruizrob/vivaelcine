@@ -2,7 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import data from '../data.js';
 import { minutes, clock, endOf, matches } from '../core.js';
-import { drawTimeline, timelineRange, escapeHtml } from '../timeline.js';
+import { drawTimeline, timelineRange, timelineWidth, escapeHtml } from '../timeline.js';
 
 test('the complete schedule has verified runtimes, unique identities and seven rooms',()=>{
   assert.equal(data.events.length,100);
@@ -65,6 +65,26 @@ test('section and venue filters combine without changing room identities', () =>
   assert.ok(result.shown.every(item => item.venueId === state.venue && data.films[item.filmId].section === state.section));
   assert.ok(result.visibleRooms.every(room => room.venueId === state.venue));
   assert.equal(drawTimeline(data, {...state, search: 'no-such-film'}).shown.length, 0);
+});
+
+test('zoomed timelines fill their viewport, including fractional room-label widths', () => {
+  for (const labelWidth of [117, 158, 158.5]) {
+    for (const viewportWidth of [296, 366, 694, 976, 1366, 1686]) {
+      for (const zoom of [.8, 1, 1.2, 1.4, 1.6, 1.8]) {
+        const width = timelineWidth(viewportWidth, labelWidth, zoom);
+        assert.ok(width + labelWidth >= viewportWidth,
+          `${viewportWidth}px viewport at ${zoom * 100}% leaves a blank strip`);
+      }
+    }
+  }
+});
+
+test('zoom keeps the compact mobile scale and expands desktop timelines for scrolling', () => {
+  assert.equal(timelineWidth(366, 117, .8), 680);
+  assert.equal(timelineWidth(366, 117, 1), 850);
+  assert.equal(timelineWidth(1366, 158, 1), 1208);
+  assert.equal(timelineWidth(1366, 158, 1.2), 1450);
+  assert.equal(timelineWidth(1366, 158, 1.8), 2174);
 });
 
 test('film text cannot become markup', () => {
