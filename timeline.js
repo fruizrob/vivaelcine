@@ -6,6 +6,11 @@ export const escapeHtml = text => String(text ?? '').replace(/[&<>"']/g, charact
   '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
 }[character]));
 export const sectionStyle = section => `--event-color:${section.color};--event-edge:${section.edge};--event-ink:${section.ink}`;
+export function timelineWidth(viewportWidth, labelWidth, zoom) {
+  const availableWidth = viewportWidth - labelWidth;
+  return Math.max(availableWidth, Math.round(Math.max(850, availableWidth) * zoom));
+}
+
 export function timelineRange(data, date) {
   if (data.range) return data.range;
   const events = date ? data.events.filter(event => event.date === date) : data.events;
