@@ -1,0 +1,12 @@
+# Search and reader access; no guarantee of indexing or citation.
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Search access is independent of OpenAI training access.
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://vivaelcine.cl/sitemap.xml

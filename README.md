@@ -9,7 +9,7 @@ Switch between **SANFIC22** and **FIDOCS 30** in the header. Time runs horizonta
 
 ## Development
 
-No dependencies or build step. From the repository root:
+No dependencies or bundling. Generated programme pages are committed alongside the static app. From the repository root:
 
 ```sh
 python3 -m http.server 4174 --bind 127.0.0.1
@@ -48,6 +48,8 @@ Images are generated locally with Canvas; no backend, login, or external image s
 ## Deployment
 
 GitHub Pages: **Settings → Pages → Deploy from a branch → main → /(root)**. These files are published directly.
+
+Before publishing schedule changes, run `npm run generate:pages` and `npm test`; commit generated output separately from generator code. The homepage links to readable edition, day and screening pages, available without JavaScript. [Generation, provenance and discovery limits](docs/generated-programme-pages.md).
 
 Cloudflare Web Analytics measures visits and page views using the official script in `index.html`. View reports in the Cloudflare account under **Observability → Analytics → Web analytics → vivaelcine.cl**. Manual installation supports the current DNS-only setup; no proxy or hosting change is required.
 

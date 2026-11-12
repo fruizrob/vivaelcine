@@ -4,7 +4,9 @@
   "type": "module",
   "scripts": {
     "dev": "python3 -m http.server 4174 --bind 127.0.0.1",
-    "test": "node --test tests/*.test.mjs",
+    "test": "node --test tests/*.test.mjs && npm run check:pages",
+    "generate:pages": "node scripts/generate-pages.mjs",
+    "check:pages": "node scripts/generate-pages.mjs --check",
     "import:years": "node scripts/import-film-years.mjs",
     "import:tmdb": "node scripts/import-tmdb.mjs",
     "review:apply": "node scripts/apply-film-reviews.mjs"
