@@ -40,6 +40,8 @@ Select the small share arrow beside a screening's Letterboxd score to open a men
 
 Screening links include `?festival=FID&dia=YYYY-MM-DD&funcion=EVENT_ID` and open that exact screening. A valid screening takes precedence over the day parameter; an unknown screening falls back to the normal agenda. Closing the detail removes `funcion` from the current URL.
 
+**Invitar a alguien** shares a personal Spanish message with the film, full date, time, venue/room, and exact screening link. It opens native text sharing when supported; otherwise it copies the complete invitation. If sharing fails, copying remains the fallback; cancelling native sharing does not copy anything. When clipboard access is unavailable, the menu shows the full selected message for manual copying.
+
 Images are generated locally with Canvas; no backend, login, or external image service. Sharing requires a supported browser and HTTPS (or localhost). The browser cannot choose Instagram as the destination or guarantee its Story composer opens; the user selects the destination. Verify that handoff on physical iOS and Android devices. [Implementation references](docs/instagram-story-sharing.md).
 
 ## Deployment
