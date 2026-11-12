@@ -1,6 +1,6 @@
 import { setupStory } from './story.js?v=20261112-short-links';
 import { sharedScreeningUrl as screeningUrl } from './screening-links.js?v=20261112-short-links';
-import { clock, roomLocation } from './core.js?v=20261104';
+import { clock, endOf, roomLocation } from './core.js?v=20261112-selection';
 
 export function invitationText(festival, event, base) {
   const film = festival.films[event.filmId];
@@ -11,9 +11,38 @@ export function invitationText(festival, event, base) {
   return `¿Vamos a ver ${event.title || film.title}?\n${date}, ${clock(event.start)} · ${roomLocation(room)}\nAquí está la función: ${screeningUrl(festival, event, base)}`;
 }
 
+function calendarStamp(date, minutesFromMidnight) {
+  const [year, month, day] = date.split('-').map(Number);
+  const instant = new Date(Date.UTC(year, month - 1, day, 0, minutesFromMidnight));
+  const pad = value => String(value).padStart(2, '0');
+  return `${instant.getUTCFullYear()}${pad(instant.getUTCMonth() + 1)}${pad(instant.getUTCDate())}T${pad(instant.getUTCHours())}${pad(instant.getUTCMinutes())}00`;
+}
+
+export function googleCalendarUrl(festival, event, pageUrl) {
+  const film = festival.films[event.filmId];
+  const room = festival.rooms.find(item => item.id === event.roomId);
+  const end = endOf(event, festival.films);
+  const details = [
+    festival.name,
+    film.director,
+    end == null ? 'Duración por confirmar.' : '',
+    screeningUrl(festival, event, pageUrl),
+  ].filter(Boolean).join('\n');
+  const params = new URLSearchParams({
+    action: 'TEMPLATE',
+    text: `${event.title || film.title} · ${festival.name}`,
+    ctz: festival.timeZone,
+    location: roomLocation(room),
+    details,
+  });
+  const dates = `${calendarStamp(event.date, event.start)}/${calendarStamp(event.date, end ?? event.start)}`;
+  return `https://calendar.google.com/calendar/render?${params}&dates=${dates}`;
+}
+
 export function setupSharing(menu, storyDialog, festival) {
   const showStory = setupStory(storyDialog, festival);
   const story = menu.querySelector('#choose-story');
+  const calendar = menu.querySelector('#google-calendar');
   const share = menu.querySelector('#share-link');
   const copy = menu.querySelector('#copy-link');
   const link = menu.querySelector('#share-url');
@@ -41,6 +70,8 @@ export function setupSharing(menu, storyDialog, festival) {
     close();
     showStory(screening);
   });
+
+  calendar.addEventListener('click', () => close());
 
   invite.addEventListener('click', async () => {
     const current = generation;
@@ -127,6 +158,7 @@ export function setupSharing(menu, storyDialog, festival) {
     trigger = button;
     generation++;
     link.value = screeningUrl(festival, screening, location.href);
+    calendar.href = googleCalendarUrl(festival, screening, location.href);
     link.hidden = true;
     message.hidden = status.hidden = true;
     message.value = status.textContent = '';
