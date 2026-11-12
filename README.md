@@ -9,6 +9,8 @@ Switch between **SANFIC22** and **FIDOCS 30** in the header. Time runs horizonta
 
 ## Development
 
+Read [CONTRIBUTING.md](CONTRIBUTING.md) for the contribution, issue, and PR workflow.
+
 No dependencies or bundling. Generated programme pages are committed alongside the static app. From the repository root:
 
 ```sh
