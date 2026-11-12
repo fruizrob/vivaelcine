@@ -7,6 +7,12 @@
 - Commit generated data updates separately from code changes so each diff
   remains easy to review.
 
+## Issue closure
+
+- Before closing any issue, post a completion comment on that issue describing
+  what changed, verification results, and any remaining limitations. Confirm
+  the comment was posted successfully, then close the issue.
+
 ## Product standard: simplicity and craft
 
 Apply to every change. Aim for the clarity and polish of Linear and Apple Notes.
