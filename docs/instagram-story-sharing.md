@@ -1,5 +1,8 @@
 # Instagram Story sharing references
 
+The Story preview's **Copiar enlace** now uses the same generated short screening
+URL as the share menu and invitations. [Short-link generation and preview behavior](short-sharing-links.md).
+
 Checked November 4, 2026. Source review only; no iPhone/Android Instagram handoff tested.
 
 ## Best starting points

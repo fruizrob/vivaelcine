@@ -1,4 +1,5 @@
-import { screeningUrl, setupStory } from './story.js?v=20261104-2';
+import { setupStory } from './story.js?v=20261112-short-links';
+import { sharedScreeningUrl as screeningUrl } from './screening-links.js?v=20261112-short-links';
 import { clock, roomLocation } from './core.js?v=20261104';
 
 export function invitationText(festival, event, base) {

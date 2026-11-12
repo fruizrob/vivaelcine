@@ -1,14 +1,6 @@
 import { clock, roomLocation } from './core.js?v=20261104';
-
-export function screeningUrl(festival, event, base) {
-  const url = new URL(base);
-  url.search = '';
-  url.hash = '';
-  url.searchParams.set('festival', festival.id);
-  url.searchParams.set('dia', event.date);
-  url.searchParams.set('funcion', event.id);
-  return url.href;
-}
+import { sharedScreeningUrl } from './screening-links.js?v=20261112-short-links';
+export { agendaScreeningUrl as screeningUrl } from './screening-links.js?v=20261112-short-links';
 
 function linesFor(ctx, text, width) {
   const lines = [];
@@ -95,7 +87,7 @@ export function setupStory(dialog, festival) {
     const current = ++generation;
     event = screening;
     releaseImage();
-    link.value = screeningUrl(festival, event, location.href);
+    link.value = sharedScreeningUrl(festival, event, location.href);
     link.hidden = true;
     share.hidden = download.hidden = retry.hidden = true;
     copy.disabled = true;

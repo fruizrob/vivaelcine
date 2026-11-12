@@ -2,7 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { festivals } from '../data.js';
 import { invitationText, setupSharing } from '../sharing.js';
-import { screeningUrl } from '../story.js';
+import { sharedScreeningUrl as screeningUrl } from '../screening-links.js';
 import { clock, roomLocation } from '../core.js';
 
 const base = 'https://vivaelcine.cl/?festival=old&dia=wrong#agenda';

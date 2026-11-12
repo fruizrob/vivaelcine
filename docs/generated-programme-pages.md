@@ -10,6 +10,9 @@ The homepage/agenda footer links to both editions in initial HTML. Existing `?fe
 
 ## Reproduce and publish
 
+The same command also generates `/s/<code>/` sharing pages, the persistent code
+registry and `404.html`. [Sharing decisions and deployment](short-sharing-links.md).
+
 Node.js 20+; no installation required. From the repository root:
 
 ```sh

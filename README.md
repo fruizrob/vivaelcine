@@ -39,7 +39,9 @@ The timeline always fills its container. Zooming out reduces its time scale unti
 
 Select the small share arrow beside a screening's Letterboxd score to open a menu with **Historia de Instagram** and **Copiar enlace**. Supported devices also offer **Compartir enlace**, which opens the device's share sheet with the exact screening URL. The icon is also available in the detail dialog; very narrow blocks and unknown-duration markers keep sharing in their details. Choosing the Story opens a 1080 × 1920 preview with **Compartir**, **Descargar**, and **Copiar enlace**. Image sharing opens the device's share sheet when file sharing is available; downloading remains available. Paste the copied URL into Instagram's link sticker to link to the exact screening.
 
-Screening links include `?festival=FID&dia=YYYY-MM-DD&funcion=EVENT_ID` and open that exact screening. A valid screening takes precedence over the day parameter; an unknown screening falls back to the normal agenda. Closing the detail removes `funcion` from the current URL.
+Shared screening links use compact `/s/<code>/` pages with the exact title, festival, date/time, venue and a branded preview image available without JavaScript. **Ver en la agenda** opens that screening's detail. Run `npm run generate:pages` after schedule changes; deploy the generated registry and pages together. [URL decisions, generation, preview caching and validation](docs/short-sharing-links.md).
+
+Existing `?festival=FID&dia=YYYY-MM-DD&funcion=EVENT_ID` links still open that exact screening. A valid screening takes precedence over the day parameter; an unknown screening falls back to the normal agenda. Closing the detail removes `funcion` from the current URL.
 
 **Invitar a alguien** shares a personal Spanish message with the film, full date, time, venue/room, and exact screening link. It opens native text sharing when supported; otherwise it copies the complete invitation. If sharing fails, copying remains the fallback; cancelling native sharing does not copy anything. When clipboard access is unavailable, the menu shows the full selected message for manual copying.
 
