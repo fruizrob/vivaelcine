@@ -1,5 +1,12 @@
 # Repository guidance
 
+## Worktrees and commits
+
+- Use a dedicated Git worktree for each feature; reuse that worktree across
+  sessions working on the same feature.
+- Commit generated data updates separately from code changes so each diff
+  remains easy to review.
+
 ## Product standard: simplicity and craft
 
 Apply to every change. Aim for the clarity and polish of Linear and Apple Notes.
