@@ -27,20 +27,23 @@ function startInstant(date, minutes, timeZone) {
   return instant;
 }
 
-function eventBoundary(data, event) {
+function eventFinished(data, event, now) {
   const finish = endOf(event, data.films);
-  // No invented runtime: unpublished durations keep their entire local date.
-  return finish === null
-    ? startInstant(event.date, (Math.floor(event.start / 1440) + 1) * 1440, data.timeZone)
-    : startInstant(event.date, event.start, data.timeZone) + (finish - event.start) * 60000;
+  if (finish === null) {
+    // Compare dates rather than resolving a midnight that may be skipped/repeated.
+    const startDate = new Date(Date.parse(`${event.date}T00:00:00Z`)
+      + Math.floor(event.start / 1440) * 86400000).toISOString().slice(0, 10);
+    return localDate(now, data.timeZone) > startDate;
+  }
+  return startInstant(event.date, event.start, data.timeZone)
+    + (finish - event.start) * 60000 <= now.getTime();
 }
 
 export function festivalFinished(data, now = new Date()) {
   const lastDay = data.days.map(day => day.date).sort().at(-1);
   const finalEvents = data.events.filter(event => event.date === lastDay);
-  const boundaries = data.events.map(event => eventBoundary(data, event));
-  if (!finalEvents.length) boundaries.push(startInstant(lastDay, 1440, data.timeZone));
-  return Math.max(...boundaries) <= now.getTime();
+  if (!finalEvents.length && localDate(now, data.timeZone) <= lastDay) return false;
+  return data.events.every(event => eventFinished(data, event, now));
 }
 
 function weekStart(date) {
@@ -52,7 +55,7 @@ function weekStart(date) {
 export function visibleDays(data, { showPast = false, selectedDate, now = new Date() } = {}) {
   const start = weekStart(localDate(now, data.timeZone));
   return data.days.filter(day => showPast || day.date === selectedDate || day.date >= start
-    || data.events.some(event => event.date === day.date && eventBoundary(data, event) > now.getTime()));
+    || data.events.some(event => event.date === day.date && !eventFinished(data, event, now)));
 }
 
 export function hasExplicitSelection(data, search) {

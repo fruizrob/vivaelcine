@@ -81,6 +81,42 @@ test('all-past catalogue shows an empty default with an archive action, while de
   assert.equal(hasExplicitSelection(data, '?festival=unknown&dia=invalid&funcion=missing'), false);
 });
 
+test('a skipped Santiago midnight cannot archive unknown durations or an empty final day early', () => {
+  const data = festival('skipped-midnight', ['2026-09-05'], [{ date: '2026-09-05', start: 1200, filmId: 'film', duration: null }]);
+  for (const sample of [data, { ...data, events: [] }]) {
+    assert.equal(festivalFinished(sample, at('2026-09-06T03:30:00Z')), false);
+    assert.equal(festivalFinished(sample, at('2026-09-06T03:59:59Z')), false);
+    assert.equal(festivalFinished(sample, at('2026-09-06T04:00:00Z')), true);
+  }
+});
+
+test('Santiago repeated final hour stays available until the local date actually changes', () => {
+  const data = festival('repeated-hour', ['2026-04-04'], [{ date: '2026-04-04', start: 1200, filmId: 'film', duration: null }]);
+  for (const sample of [data, { ...data, events: [] }]) {
+    assert.equal(festivalFinished(sample, at('2026-04-05T02:30:00Z')), false);
+    assert.equal(festivalFinished(sample, at('2026-04-05T03:30:00Z')), false);
+    assert.equal(festivalFinished(sample, at('2026-04-05T04:00:00Z')), true);
+  }
+});
+
+test('a repeated midnight ends the previous date at its first occurrence and retains the new date', () => {
+  const before = festival('havana-before', ['2026-10-31'], [{ date: '2026-10-31', start: 1200, filmId: 'film', duration: null }]);
+  before.timeZone = 'America/Havana';
+  const during = festival('havana-during', ['2026-11-01'], [{ date: '2026-11-01', start: 1200, filmId: 'film', duration: null }]);
+  during.timeZone = before.timeZone;
+  for (const sample of [before, { ...before, events: [] }]) {
+    assert.equal(festivalFinished(sample, at('2026-11-01T03:59:59Z')), false);
+    assert.equal(festivalFinished(sample, at('2026-11-01T04:00:00Z')), true);
+    assert.equal(festivalFinished(sample, at('2026-11-01T05:00:00Z')), true);
+  }
+  for (const sample of [during, { ...during, events: [] }]) {
+    assert.equal(festivalFinished(sample, at('2026-11-01T04:30:00Z')), false);
+    assert.equal(festivalFinished(sample, at('2026-11-01T05:30:00Z')), false);
+    assert.equal(festivalFinished(sample, at('2026-11-02T04:59:59Z')), false);
+    assert.equal(festivalFinished(sample, at('2026-11-02T05:00:00Z')), true);
+  }
+});
+
 test('week boundaries work across years', () => {
   const data = festival('new-year', ['2026-12-27', '2026-12-28', '2027-01-01', '2027-01-04']);
   assert.deepEqual(visibleDays(data, { now: at('2027-01-01T15:00:00Z') }).map(day => day.date),
