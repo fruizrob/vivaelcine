@@ -6,16 +6,23 @@ import { durationOf, endOf, initialDay, matches } from '../core.js';
 import { drawTimeline, timelineRange } from '../timeline.js';
 
 const filters = { search: '', venue: '', section: '' };
+const sanfic = festivals.find(festival => festival.id === 'sanfic-2026');
 const fidocs = festivals.find(festival => festival.id === 'fidocs-2026');
 
+function schedule(id, dates, publishedDates = dates, timeZone = 'America/Santiago') {
+  return {
+    ...sanfic, id, timeZone,
+    days: dates.map(date => ({ date })),
+    events: publishedDates.map((date, index) => ({ ...sanfic.events[0], id: `${id}-${index}`, date })),
+  };
+}
+
 test('initial day uses the festival timezone rather than the UTC date', () => {
-  const sanfic = festivalFor('');
   assert.equal(initialDay(sanfic, null, new Date('2026-11-05T01:00:00Z')), '2026-11-04');
   assert.equal(initialDay(sanfic, null, new Date('2026-11-05T04:00:00Z')), '2026-11-05');
 });
 
 test('valid day links override today; invalid links fall back to today', () => {
-  const sanfic = festivalFor('');
   const now = new Date('2026-11-04T15:00:00Z');
   assert.equal(initialDay(sanfic, '2026-11-02', now), '2026-11-02');
   assert.equal(initialDay(sanfic, '2026-11-99', now), '2026-11-04');
@@ -24,6 +31,73 @@ test('valid day links override today; invalid links fall back to today', () => {
 test('festivals outside their dates still open on their first day', () => {
   assert.equal(initialDay(fidocs, null, new Date('2026-11-04T15:00:00Z')), '2026-11-13');
   assert.equal(initialDay(fidocs, null, new Date('2026-12-01T15:00:00Z')), '2026-11-13');
+});
+
+test('November 11 homepage selects the next populated festival and matching timeline', () => {
+  const now = new Date('2026-11-11T15:00:00Z');
+  const selected = festivalFor('', now);
+  const date = initialDay(selected, null, now);
+  assert.equal(selected, fidocs);
+  assert.equal(date, '2026-11-13');
+  const { shown } = drawTimeline(selected, { ...filters, date });
+  assert.ok(shown.length > 0);
+  assert.ok(shown.every(event => event.date === date));
+  assert.equal(festivalFor('?festival=sanfic-2026', now), sanfic);
+  assert.equal(initialDay(sanfic, null, now), '2026-11-02');
+});
+
+test('today and nonconsecutive populated dates skip empty metadata across year boundaries', () => {
+  const sample = schedule('gaps', ['2026-12-29', '2026-12-30', '2027-01-03', '2027-01-08'],
+    ['2027-01-08', '2026-12-29', '2027-01-03']);
+  assert.equal(initialDay(sample, null, new Date('2026-12-29T15:00:00Z')), '2026-12-29');
+  assert.equal(initialDay(sample, null, new Date('2026-12-30T15:00:00Z')), '2027-01-03');
+  assert.equal(initialDay(sample, '2026-12-30', new Date('2026-12-30T15:00:00Z')), '2026-12-30');
+  assert.equal(initialDay(sample, null, new Date('2027-02-01T15:00:00Z')), '2026-12-29');
+});
+
+test('global selection uses populated dates, independent of catalogue and event order', () => {
+  const later = schedule('later', ['2026-11-12', '2026-11-17'], ['2026-11-17']);
+  const earlier = schedule('earlier', ['2026-11-13', '2026-11-16'], ['2026-11-16', '2026-11-13']);
+  const empty = schedule('empty', ['2026-11-11', '2026-11-12'], []);
+  const now = new Date('2026-11-11T15:00:00Z');
+  assert.equal(festivalFor('', now, [empty, later, earlier]), earlier);
+  assert.equal(festivalFor('?festival=later', now, [later, earlier]), later);
+  assert.equal(initialDay(later, null, now), '2026-11-17');
+  assert.equal(festivalFor('', new Date('2026-11-13T15:00:00Z'), [later, earlier]), earlier);
+});
+
+test('each festival uses its local today, with today ahead of future civil dates elsewhere', () => {
+  const east = schedule('east', ['2027-01-02'], undefined, 'Pacific/Kiritimati');
+  const west = schedule('west', ['2027-01-01'], undefined, 'Pacific/Honolulu');
+  const now = new Date('2027-01-01T10:30:00Z'); // Jan 2 in Kiritimati; Jan 1 in Honolulu.
+  assert.equal(initialDay(east, null, now), '2027-01-02');
+  assert.equal(initialDay(west, null, now), '2027-01-01');
+  assert.equal(festivalFor('', now, [east, west]), west); // Both today: earliest civil date.
+  const westernTomorrow = schedule('tomorrow', ['2027-01-02'], undefined, 'Pacific/Honolulu');
+  assert.equal(festivalFor('', now, [westernTomorrow, east]), east);
+  const westernFuture = schedule('future', ['2027-01-01'], undefined, 'Etc/GMT+12');
+  assert.equal(festivalFor('', now, [westernFuture, east]), east); // Local today wins over an earlier future date.
+});
+
+test('archive fallback and same-date ties preserve registry order, including empty schedules', () => {
+  const empty = schedule('empty', ['2026-11-01'], []);
+  const first = schedule('first', ['2026-11-13']);
+  const second = schedule('second', ['2026-11-13']);
+  const catalogue = [empty, first, second];
+  assert.equal(festivalFor('', new Date('2026-11-11T15:00:00Z'), catalogue), first);
+  assert.equal(festivalFor('', new Date('2026-12-01T15:00:00Z'), catalogue), empty);
+  assert.equal(initialDay(empty, null, new Date('2026-11-11T15:00:00Z')), '2026-11-01');
+});
+
+test('explicit festival, day and screening destinations survive automatic selection', () => {
+  const now = new Date('2026-11-11T15:00:00Z');
+  const event = sanfic.events[0];
+  assert.equal(festivalFor('?dia=2026-11-04', now), sanfic);
+  assert.equal(festivalFor('?dia=2026-11-14', now), fidocs);
+  assert.equal(festivalFor(`?funcion=${event.id}&dia=2026-11-14`, now), sanfic);
+  assert.equal(festivalFor(`?festival=fidocs-2026&funcion=${event.id}`, now), fidocs);
+  assert.equal(festivalFor('?festival=unknown&dia=invalid&funcion=unknown', now), fidocs);
+  assert.equal(initialDay(sanfic, '2026-11-04', now), '2026-11-04');
 });
 
 test('every official FIDOCS listing and published start maps to a screening', () => {
@@ -52,7 +126,7 @@ test('every official FIDOCS listing and published start maps to a screening', ()
 test('festival links select independent schedules and preserve existing SANFIC links', () => {
   assert.equal(festivalFor('?festival=fidocs-2026'), fidocs);
   assert.equal(festivalFor('?dia=2026-11-04').id, 'sanfic-2026');
-  assert.equal(festivalFor('?festival=unknown').id, 'sanfic-2026');
+  assert.equal(festivalFor('?festival=unknown', new Date('2026-11-04T15:00:00Z')), sanfic);
   assert.equal(new Set(festivals.flatMap(festival => festival.events.map(event => event.id))).size,
     festivals.reduce((count, festival) => count + festival.events.length, 0));
   for (const festival of festivals) {

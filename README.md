@@ -30,7 +30,7 @@ Open http://127.0.0.1:4174/. With Node.js 20+ and Python 3.9+, `npm test` checks
 - `scripts/film-identity.mjs` and `data/film-identities.json`: persistent film/provider decisions; [TMDB review queue](assets/tmdb/review.md).
 - `app.js`: state and interactions; `index.html` and `styles.css`: structure and design.
 
-Festival links use `?festival=FID`; changing the day adds `&dia=YYYY-MM-DD`. Without a valid day in the URL, the agenda opens on today's date in the festival's timezone, or its first day when today is outside the schedule. Existing SANFIC links without a festival parameter still work. Filters and zoom are kept in memory. No accounts or persistent storage.
+Festival links use `?festival=FID`; changing the day adds `&dia=YYYY-MM-DD`. Without an explicit selection, the agenda opens on a populated local today, otherwise the earliest upcoming date with screenings across festivals. Dates use each festival's timezone; ties keep registry order. An explicit festival stays selected and opens on its next populated date, including today. Valid day and screening links retain their destination, including existing SANFIC links without a festival parameter. With no upcoming screenings, the first registered festival and its first day remain the archive fallback (or the selected festival's first day). Filters and zoom are kept in memory. No accounts or persistent storage.
 
 The timeline always fills its container. Zooming out reduces its time scale until it fits the available width; narrower screens keep horizontal scrolling. Cards, hour labels, and grid lines use the same plot width.
 

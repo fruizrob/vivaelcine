@@ -13,13 +13,23 @@ export function normalize(value) {
   return String(value || '').normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase();
 }
 
-export function initialDay(data, requestedDay, now = new Date()) {
-  if (data.days.some(day => day.date === requestedDay)) return requestedDay;
+export function todayFor(data, now = new Date()) {
   const parts = new Intl.DateTimeFormat('en', {
     timeZone: data.timeZone, year: 'numeric', month: '2-digit', day: '2-digit',
   }).formatToParts(now);
-  const today = ['year', 'month', 'day'].map(type => parts.find(part => part.type === type).value).join('-');
-  return data.days.some(day => day.date === today) ? today : data.days[0].date;
+  return ['year', 'month', 'day'].map(type => parts.find(part => part.type === type).value).join('-');
+}
+
+export function nextScreeningDay(data, now = new Date()) {
+  const today = todayFor(data, now);
+  const publishedDates = new Set(data.events.map(event => event.date));
+  return data.days.map(day => day.date)
+    .filter(date => date >= today && publishedDates.has(date)).sort()[0];
+}
+
+export function initialDay(data, requestedDay, now = new Date()) {
+  if (data.days.some(day => day.date === requestedDay)) return requestedDay;
+  return nextScreeningDay(data, now) || data.days[0]?.date;
 }
 
 export function durationOf(event, films) {
