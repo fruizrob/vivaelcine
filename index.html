@@ -7,8 +7,8 @@
   <meta name="description" content="Programación de festivales de cine. Horarios y películas por sala.">
   <title>¡Viva el Cine!</title>
   <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="./styles.css?v=20261112-invitation">
-  <script type="module" src="./app.js?v=20261112-selection"></script>
+  <link rel="stylesheet" href="./styles.css?v=20261112-archive">
+  <script type="module" src="./app.js?v=20261112-archive"></script>
 </head>
 <body>
   <a class="skip-link" href="#schedule">Ir a las funciones</a>
@@ -18,11 +18,13 @@
       <div class="festival-bar">
         <nav id="festivals" class="festivals" aria-label="Festival"></nav>
         <p id="festival-dates"></p>
+        <button id="archive-toggle" class="archive-toggle" type="button" aria-pressed="false" aria-controls="festivals days archive-empty">Mostrar anteriores</button>
       </div>
     </div>
     <a class="source-link" id="program-source" href="./assets/programacion-sanfic22.pdf" target="_blank" rel="noopener" aria-label="Programa oficial">Programa ↗</a>
   </header>
   <main>
+    <p class="archive-empty" id="archive-empty" role="status" hidden>No hay programación vigente o próxima.</p>
     <nav class="days" id="days" aria-label="Día de programación"></nav>
     <section class="schedule-shell" id="schedule" aria-labelledby="day-heading">
       <h2 class="sr-only" id="day-heading"></h2>
