@@ -7,6 +7,15 @@
 - Commit generated data updates separately from code changes so each diff
   remains easy to review.
 
+## Issue creation
+
+- Creating an issue includes its right-panel metadata. Inspect repository
+  conventions, then set applicable labels/tags, issue type, project fields
+  (including status and priority), milestone, and assignee when ownership is
+  known. Use existing options and context; leave unsupported choices unset.
+- Read back the created issue and verify its metadata before reporting success.
+  Report any applicable fields that could not be set.
+
 ## Issue closure
 
 - Before closing any issue, post a completion comment on that issue describing
