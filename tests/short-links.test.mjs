@@ -37,7 +37,7 @@ test('all published screenings share a distinct shorter URL and an exact legacy 
   assert.equal(urls.size, festivals.reduce((total, festival) => total + festival.events.length, 0));
 });
 
-test('initial HTML supplies specific metadata, local facts and a public PNG without scripts or redirects', async () => {
+test('initial HTML supplies previews without JavaScript and directs visitors to the exact dashboard screening', async () => {
   for (const festival of festivals) {
     for (const event of festival.events) {
       const url = sharedScreeningUrl(festival, event, base);
@@ -52,7 +52,11 @@ test('initial HTML supplies specific metadata, local facts and a public PNG with
       assert.ok(html.includes(`property="og:image" content="${origin}/assets/share-preview.png"`));
       assert.match(html, /og:image:alt/);
       assert.match(html, /twitter:card" content="summary_large_image/);
-      assert.doesNotMatch(html, /<script|http-equiv="refresh"/);
+      const agenda = agendaScreeningUrl(festival, event, base).slice(origin.length);
+      assert.ok(html.includes(`data-screening-url="${esc(agenda)}"`));
+      assert.match(html, /src="\/open-screening.js\?v=20261112-direct"/);
+      assert.ok(html.indexOf('property="og:image"') < html.indexOf('<script'));
+      assert.doesNotMatch(html, /http-equiv="refresh"/);
     }
   }
   const png = await readFile(new URL('../assets/share-preview.png', import.meta.url));
@@ -95,7 +99,7 @@ test('withdrawn screenings retain their identity and show unavailable rather tha
   const html = buildShortPages(changed, updated, asOf).get(path);
   assert.deepEqual(updated[path.split('/')[2]], links[path.split('/')[2]]);
   assert.match(html, /ya no aparece en la programación publicada/);
-  assert.doesNotMatch(html, /funcion=|Ver en la agenda/);
+  assert.doesNotMatch(html, /funcion=|Ver en la agenda|open-screening\.js/);
   assert.ok(html.includes(removed.title || festivals[0].films[removed.filmId].title));
   const archivedFestival = buildShortPages([], updated, asOf).get(path);
   assert.match(archivedFestival, /href="\/">Abrir agenda/);

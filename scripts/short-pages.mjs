@@ -51,14 +51,15 @@ export function buildShortPages(festivals, entries, asOf) {
     const duration = durationOf(event, festival.films);
     const description = `${festival.name} · ${dateLabel(event.date)}, ${clock(event.start)} · ${room}.`;
     const agenda = agendaScreeningUrl(festival, event, `${origin}/`).slice(origin.length);
-    pages.set(path, frame(path, `${title} · ${festival.name} · ${event.date} ${clock(event.start)}`, description,
+    const html = frame(path, `${title} · ${festival.name} · ${event.date} ${clock(event.start)}`, description,
       `<p>${esc(festival.name)}</p><h1>${esc(title)}</h1>
       <p class="status">${esc(calendarState(event.date, event.date, asOf))} · al ${esc(asOf)}</p>
       <p>${esc(dateLabel(event.date))} · ${clock(event.start)} · ${esc(festival.timeZone)}</p>
       <p>${esc(room)} · ${duration === null ? 'Duración no publicada' : `${duration} min`}</p>
       <p class="actions"><a class="button" href="${esc(agenda)}">Ver en la agenda</a><a href="${esc(screeningPath(event))}">Detalles y fuentes</a></p>
       ${film.components ? `<section><h2>Películas del programa</h2><ul>${film.components.map(component => `<li>${esc(component.title)}</li>`).join('')}</ul></section>` : ''}
-      ${[...new Set([event.note, film.note].filter(Boolean))].map(note => `<p>${esc(note)}</p>`).join('')}`, asOf, true));
+      ${[...new Set([event.note, film.note].filter(Boolean))].map(note => `<p>${esc(note)}</p>`).join('')}`, asOf, true);
+    pages.set(path, html.replace('</head>', `  <script src="/open-screening.js?v=20261112-direct" data-screening-url="${esc(agenda)}"></script>\n</head>`));
   }
   return pages;
 }

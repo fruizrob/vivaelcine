@@ -21,11 +21,18 @@ Before: https://vivaelcine.cl/?festival=fidocs-2026&dia=2026-11-13&funcion=fidoc
 After:  https://vivaelcine.cl/s/e0292cac/
 ```
 
-The landing page identifies the exact screening and offers **Ver en la agenda**
-as its primary action, opening the existing query URL and selected detail dialog.
-**Detalles y fuentes** opens the full generated performance page. There is no
-automatic redirect, user-agent detection or dependency on sender state/login.
-Static text remains useful with JavaScript disabled.
+Opening a short link goes directly to the main dashboard with the exact
+screening selected. `open-screening.js` runs after the preview metadata in the
+head and uses `location.replace` with the generated local agenda URL, so Back
+does not return to the short page. No extra click, sender state, login or
+user-agent detection. Preview metadata remains in the initial HTTP response;
+crawlers do not need to execute JavaScript. There is no HTTP or meta-refresh
+redirect to replace that response with generic homepage metadata.
+
+When JavaScript is disabled or the handoff script fails to load, static screening
+facts and **Ver en la agenda** remain available. **Detalles y fuentes** opens
+the full generated performance page. Withdrawn screenings stay on their explicit
+unavailable page and never silently open a different event.
 
 ## Identity and schedule changes
 
@@ -107,8 +114,8 @@ handoff, initial metadata and PNG dimensions; rescheduling/reordering,
 collision rejection, programmes, archive/unavailable/unknown states and drift.
 
 Local Chromium checks use desktop (1280 × 900) and mobile viewport (390 × 844),
-fresh contexts, an archived screening, Hanabi and a shorts programme. Landing →
-exact detail, copy, intercepted native share and Story copy passed, with no
+fresh contexts, an archived screening, Hanabi and a shorts programme. Automatic
+short link → exact dashboard detail, copy, intercepted native share and Story copy passed, with no
 horizontal overflow or JavaScript errors. Native sharing was intercepted to
 avoid sending messages; this does not validate a real OS share sheet or
 messaging preview. Raw HTTP checks passed for all 148 pages and the PNG without
