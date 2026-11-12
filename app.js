@@ -6,6 +6,7 @@ import { screeningUrl } from './story.js?v=20261104-2';
 import { setupSharing } from './sharing.js?v=20261112-invitation';
 import { renderFestivalHistory } from './festival-history.js?v=20261105-premieres';
 import { renderFilmPoster } from './film-poster.js?v=20261105-posters';
+import { archiveNavigation, hasExplicitSelection } from './archive-navigation.js?v=20261112-archive';
 
 const now = new Date();
 const data = { ...structuredClone(festivalFor(location.search, now)), festivalHistory: {}, filmPosters: {} };
@@ -24,6 +25,12 @@ const state = {
 const dialog = $('#film-dialog');
 let detailEvent = null;
 const showShare = setupSharing($('#share-menu'), $('#story-dialog'), data);
+let showPast = new URLSearchParams(location.search).get('anteriores') === '1';
+const pinnedArchive = hasExplicitSelection(data, location.search);
+
+function navigation() {
+  return archiveNavigation(festivals, data, { showPast, pinned: pinnedArchive, selectedDate: state.date });
+}
 
 function dateLabel(date, short = false) {
   return new Intl.DateTimeFormat('es-CL', {
@@ -32,11 +39,21 @@ function dateLabel(date, short = false) {
 }
 
 function renderFestival() {
-  document.title = `¡Viva el Cine! · ${data.name}`;
-  document.querySelector('meta[name="description"]').content = `Programación de ${data.name}. Horarios y películas por sala.`;
-  $('#festivals').innerHTML = festivals.map(festival => `
-    <a href="?festival=${festival.id}" ${festival.id === data.id ? 'aria-current="page"' : ''}>${esc(festival.name)}</a>
+  const nav = navigation();
+  document.title = nav.showSchedule ? `¡Viva el Cine! · ${data.name}` : '¡Viva el Cine!';
+  document.querySelector('meta[name="description"]').content = nav.showSchedule
+    ? `Programación de ${data.name}. Horarios y películas por sala.` : 'Programación de festivales de cine.';
+  $('#festivals').hidden = nav.festivals.length === 0;
+  $('#festivals').innerHTML = nav.festivals.map(festival => `
+    <a href="?festival=${festival.id}${showPast ? '&amp;anteriores=1' : ''}" ${festival.id === data.id ? 'aria-current="page"' : ''}>${esc(festival.name)}</a>
   `).join('');
+  $('#archive-toggle').hidden = !nav.hasPast;
+  $('#archive-toggle').textContent = showPast ? 'Ocultar anteriores' : 'Mostrar anteriores';
+  $('#archive-toggle').setAttribute('aria-pressed', String(showPast));
+  $('#archive-empty').hidden = nav.showSchedule;
+  for (const selector of ['#festival-dates', '#program-source', '#days', '#schedule', '#festival-source']) {
+    $(selector).hidden = !nav.showSchedule;
+  }
   const first = data.days[0].date;
   const last = data.days.at(-1).date;
   const format = new Intl.DateTimeFormat('es-CL', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' });
@@ -44,11 +61,11 @@ function renderFestival() {
   $('#program-source').href = data.programUrl || data.sourceUrl;
   $('#festival-source').href = data.sourceUrl;
   $('#festival-source').textContent = `${data.name} ↗`;
-  $('#days').style.setProperty('--day-count', data.days.length);
 }
 
 function renderDays() {
-  $('#days').innerHTML = data.days.map(day => `
+  const days = navigation().days;
+  $('#days').innerHTML = days.map(day => `
     <button class="day-button" data-day="${day.date}"
       ${day.date === state.date ? 'aria-current="date"' : ''}
       aria-label="${dateLabel(day.date)}">
@@ -216,11 +233,26 @@ document.addEventListener('click', event => {
 $('#days').addEventListener('keydown', event => {
   if (!['ArrowLeft', 'ArrowRight', 'Home', 'End'].includes(event.key)) return;
   event.preventDefault();
-  const count = data.days.length;
-  const index = data.days.findIndex(day => day.date === state.date);
+  const days = navigation().days;
+  const count = days.length;
+  const index = days.findIndex(day => day.date === state.date);
   const next = event.key === 'Home' ? 0 : event.key === 'End' ? count - 1
     : (index + (event.key === 'ArrowRight' ? 1 : count - 1)) % count;
-  changeDay(data.days[next].date, true);
+  changeDay(days[next].date, true);
+});
+$('#archive-toggle').addEventListener('click', () => {
+  if (showPast) {
+    // Return through the normal festival/day selection; release any archived link.
+    location.assign(location.pathname);
+    return;
+  }
+  showPast = true;
+  const url = new URL(location.href);
+  url.searchParams.set('anteriores', '1');
+  history.replaceState(null, '', url);
+  renderFestival();
+  renderDays();
+  renderSchedule();
 });
 $('#search').addEventListener('input', event => {
   state.search = event.target.value;

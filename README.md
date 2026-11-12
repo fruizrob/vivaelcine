@@ -23,6 +23,7 @@ Open http://127.0.0.1:4174/. With Node.js 20+ and Python 3.9+, `npm test` checks
 - `data/`: one independent schedule per festival; source records are in `assets/`.
 - `core.js`: time calculations and search, independent of the DOM.
 - `timeline.js`: generates the timeline, independent of the DOM.
+- `archive-navigation.js`: timezone-aware archive and week visibility; [behavior and boundaries](docs/archive-navigation.md).
 - `story.js`: draws Story cards and owns the sharing preview, export, and clipboard fallback.
 - `sharing.js`: opens the share menu for a screening, with Story and link actions.
 - `festival-history.js` and `data/festival-history.js`: sourced film festival appearances and premiere scopes in details.
