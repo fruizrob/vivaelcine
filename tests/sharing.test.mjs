@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { festivals } from '../data.js';
-import { invitationText, setupSharing } from '../sharing.js';
+import { googleCalendarUrl, invitationText, setupSharing } from '../sharing.js';
 import { sharedScreeningUrl as screeningUrl } from '../screening-links.js';
 import { clock, roomLocation } from '../core.js';
 
@@ -73,6 +73,22 @@ function harness(t, navigator) {
     status: menu.querySelector('#invitation-status'),
   };
 }
+
+test('calendar links follow the selected screening and close without sharing an invitation', t => {
+  const ui = harness(t, {
+    share: () => assert.fail('calendar must use its link'),
+    clipboard: { writeText: () => assert.fail('calendar must not copy an invitation') },
+  });
+  const calendar = ui.menu.querySelector('#google-calendar');
+  assert.equal(calendar.href, googleCalendarUrl(ui.festival, ui.event, base));
+  const next = ui.festival.events[1];
+  ui.open(next, element());
+  assert.equal(calendar.href, googleCalendarUrl(ui.festival, next, base));
+  calendar.click();
+  assert.equal(ui.menu.open, false);
+  assert.equal(ui.invite.disabled, false);
+  assert.equal(ui.message.hidden, true);
+});
 
 test('native text sharing receives the full invitation and closes the menu', async t => {
   let payload;

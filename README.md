@@ -28,7 +28,7 @@ Open http://127.0.0.1:4174/. With Node.js 20+ and Python 3.9+, `npm test` checks
 - `timeline.js`: generates the timeline, independent of the DOM.
 - `archive-navigation.js`: timezone-aware archive and week visibility; [behavior and boundaries](docs/archive-navigation.md).
 - `story.js`: draws Story cards and owns the sharing preview, export, and clipboard fallback.
-- `sharing.js`: opens the share menu for a screening, with Story and link actions.
+- `sharing.js`: opens the share menu for a screening, with Story, Google Calendar, and link actions.
 - `festival-history.js` and `data/festival-history.js`: sourced film festival appearances and premiere scopes in details.
 - `film-poster.js`: optional TMDB posters in screening details and individual programme entries.
 - `scripts/film-identity.mjs` and `data/film-identities.json`: persistent film/provider decisions; [TMDB review queue](assets/tmdb/review.md).
@@ -40,7 +40,7 @@ The timeline always fills its container. Zooming out reduces its time scale unti
 
 ## Share a screening
 
-Select the small share arrow beside a screening's Letterboxd score to open a menu with **Historia de Instagram** and **Copiar enlace**. Supported devices also offer **Compartir enlace**, which opens the device's share sheet with the exact screening URL. The icon is also available in the detail dialog; very narrow blocks and unknown-duration markers keep sharing in their details. Choosing the Story opens a 1080 × 1920 preview with **Compartir**, **Descargar**, and **Copiar enlace**. Image sharing opens the device's share sheet when file sharing is available; downloading remains available. Paste the copied URL into Instagram's link sticker to link to the exact screening.
+Select the small share arrow beside a screening's Letterboxd score to open a menu with **Historia de Instagram**, **Google Calendar**, and **Copiar enlace**. **Google Calendar** opens a prefilled event in the festival's timezone, using the published start, runtime, room, and screening link. A screening without a published runtime keeps that start time and notes that the duration is still unconfirmed. Supported devices also offer **Compartir enlace**, which opens the device's share sheet with the exact screening URL. The icon is also available in the detail dialog; very narrow blocks and unknown-duration markers keep sharing in their details. Choosing the Story opens a 1080 × 1920 preview with **Compartir**, **Descargar**, and **Copiar enlace**. Image sharing opens the device's share sheet when file sharing is available; downloading remains available. Paste the copied URL into Instagram's link sticker to link to the exact screening.
 
 Shared screening links use compact `/s/<code>/` URLs that open the exact screening directly in the main agenda. Their initial HTML supplies the title, festival, date/time, venue and branded preview image without JavaScript; **Ver en la agenda** remains available when JavaScript is disabled. Run `npm run generate:pages` after schedule changes; deploy the generated registry and pages together. [URL decisions, generation, preview caching and validation](docs/short-sharing-links.md).
 

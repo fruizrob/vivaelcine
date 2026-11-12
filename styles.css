@@ -121,8 +121,8 @@ dialog::backdrop{background:#22221c70;backdrop-filter:blur(3px)}
 .icon-button svg{width:20px;height:20px}
 .icon-button:hover{color:var(--ink);background:#29272008}
 .share-menu{position:fixed;inset:auto;margin:0;width:min(240px,calc(100% - 28px));padding:5px;border:1px solid var(--line);border-radius:8px;background:var(--white);color:var(--ink);box-shadow:0 6px 24px #29272020}
-.share-menu button{display:flex;align-items:center;gap:10px;width:100%;min-height:44px;padding:10px;border:0;border-radius:4px;font-size:13px;text-align:left}
-.share-menu button:hover{background:var(--paper)}
+.share-menu button,.share-menu a{display:flex;align-items:center;gap:10px;width:100%;min-height:44px;padding:10px;border:0;border-radius:4px;color:inherit;font-size:13px;text-align:left;text-decoration:none}
+.share-menu button:hover,.share-menu a:hover{background:var(--paper)}
 .share-menu svg{width:18px;height:18px;flex:none;color:var(--muted)}
 .share-menu .screening-url{margin:5px 0 0}
 .share-menu{max-height:calc(100dvh - 28px);overflow:auto}
