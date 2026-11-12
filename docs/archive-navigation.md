@@ -8,7 +8,8 @@ Weeks run Monday–Sunday in each festival's timezone. The current week stays
 whole. Known screening runtimes keep their originating day/week and festival
 available through the exact end, including overnight and daylight-saving changes.
 An unpublished duration has no inferred end: archive visibility conservatively
-keeps its local date until the following midnight. This is a navigation boundary,
+keeps its local date until the next civil date begins, including skipped or
+repeated midnights. Empty final dates use the same calendar comparison. This is a navigation boundary,
 not a claimed screening end; its timeline remains an unknown-duration marker.
 
 Valid `festival`, `dia`, and `funcion` selections keep the selected archive
