@@ -1,6 +1,6 @@
 import { applyFilmMetadata } from './film-metadata.js';
-import { festivals, festivalFor } from './data.js?v=20261105-tmdb-years';
-import { clock, durationOf, endOf, initialDay, roomLocation, yearOf } from './core.js?v=20261105-years';
+import { festivals, festivalFor } from './data.js?v=20261112-selection';
+import { clock, durationOf, endOf, initialDay, roomLocation, yearOf } from './core.js?v=20261112-selection';
 import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange, timelineWidth } from './timeline.js?v=20261112-zoom';
 import { screeningUrl } from './story.js?v=20261104-2';
 import { setupSharing } from './sharing.js?v=20261112-invitation';
