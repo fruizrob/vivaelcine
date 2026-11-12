@@ -1,26 +1,7 @@
 # Repository guidance
 
-## Worktrees and commits
-
-- Use a dedicated Git worktree for each feature; reuse that worktree across
-  sessions working on the same feature.
-- Commit generated data updates separately from code changes so each diff
-  remains easy to review.
-
-## Issue creation
-
-- Creating an issue includes its right-panel metadata. Inspect repository
-  conventions, then set applicable labels/tags, issue type, project fields
-  (including status and priority), milestone, and assignee when ownership is
-  known. Use existing options and context; leave unsupported choices unset.
-- Read back the created issue and verify its metadata before reporting success.
-  Report any applicable fields that could not be set.
-
-## Issue closure
-
-- Before closing any issue, post a completion comment on that issue describing
-  what changed, verification results, and any remaining limitations. Confirm
-  the comment was posted successfully, then close the issue.
+Read [CONTRIBUTING.md](CONTRIBUTING.md) before development and when creating,
+updating, reviewing, or closing issues or pull requests.
 
 ## Product standard: simplicity and craft
 
