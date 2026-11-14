@@ -76,3 +76,6 @@ npm test
 
 The November 12 page-generation cut-off is retained. The full offline snapshot
 replay and review-batch replay protect completeness and shared identity evidence.
+Historical review observations are frozen in a compact test fixture; the live
+queue can refresh when catalogue facts change. Main's newly published Borges
+part runtimes remain pending and correctly invalidate the old review batch.
