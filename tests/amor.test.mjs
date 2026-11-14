@@ -21,6 +21,9 @@ test('AMOR canonical film runtimes agree across programme totals, pages and cale
   assert.equal(enriched.films['the-wind-in-ash'].year, 2025);
   assert.equal(amor.films['the-wind-in-ash'].year, 2024);
   assert.ok(matches(event, enriched.films[event.filmId], { search: 'Xiaoxiao', venue: '', section: '' }));
+  for (const name of ['Daryl Wang', '王瀚渲']) {
+    assert.ok(matches(event, enriched.films[event.filmId], { search: name, venue: '', section: '' }), name);
+  }
 });
 
 test('AMOR includes every confirmed M100 session, ordered shorts and pending official film', () => {

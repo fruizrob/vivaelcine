@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import { applyFilmMetadata } from '../film-metadata.js';
 import { festivals } from '../data.js';
-import { yearOf, durationOf } from '../core.js';
+import { yearOf, durationOf, matches } from '../core.js';
 
 test('accepted TMDB years override catalogue years on cards and separate parts, preserving screening lengths', async () => {
   const snapshot = JSON.parse(await readFile(new URL('../data/tmdb-festival-history.json', import.meta.url)));
@@ -73,4 +73,23 @@ test('verified film facts preserve local billing, raw inputs and explicit sessio
   assert.equal(festival.films.programme.duration, 120);
   assert.equal(festival.films.programme.components[0].duration, 14);
   assert.equal(raw.films.single.duration, 90);
+  for (const search of ['Alias', 'Chile']) {
+    assert.ok(matches(festival.events[0], festival.films.single, { search, venue: '', section: '' }));
+  }
+});
+
+test('derived published-part sums use canonical runtimes while explicit windows stay intact', () => {
+  const festival = { id: 'f', films: {
+    programme: { duration: 105, durationKind: 'sum-published-parts', components: [
+      { filmId: 'first', title: 'First', duration: 7 },
+      { filmId: 'second', title: 'Second', duration: 98 },
+    ] },
+  }, events: [{ filmId: 'programme' }, { filmId: 'programme', duration: 120 }] };
+  const metadata = { 'f/second': { tmdbId: 1, runtime: 97 } };
+  applyFilmMetadata(festival, metadata);
+  assert.equal(durationOf(festival.events[0], festival.films), 104);
+  assert.equal(durationOf(festival.events[1], festival.films), 120);
+  const firstPass = structuredClone(festival);
+  applyFilmMetadata(festival, metadata);
+  assert.deepEqual(festival, firstPass);
 });

@@ -233,7 +233,7 @@ def main(raw_dir, repo):
         film['countries'] = ', '.join(dict.fromkeys(y.strip() for x in components for y in x['countries'].split(',')))
         if index == 32:
             film['year'] = '2019–2026'
-            film['note'] = 'La ficha publica 77 min para el programa; los cinco metrajes individuales suman 78 min. Se conserva el total publicado. Q&A posterior sin duración publicada.'
+            film['note'] = 'La ficha original publica 77 min para el programa; los cinco metrajes publicados suman 78 min. Q&A posterior sin duración publicada.'
 
     events.sort(key=lambda x:(x['date'],x['start'],x['roomId'],x['id']))
     weekdays = [('LUN','Lunes'),('MAR','Martes'),('MIÉ','Miércoles'),('JUE','Jueves'),('VIE','Viernes'),('SÁB','Sábado'),('DOM','Domingo')]
