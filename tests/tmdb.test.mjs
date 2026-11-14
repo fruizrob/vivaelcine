@@ -158,15 +158,16 @@ test('imported histories share the existing list; curated edition and premiere s
   assert.doesNotMatch(club, /Estreno/);
 });
 
+test('published TMDB coverage accounts for every registered film, including newly added festivals', async () => {
+  const report = JSON.parse(await readFile(new URL('../assets/tmdb/coverage.json', import.meta.url), 'utf8'));
+  assert.deepEqual(new Set(report.films.map(film => film.key)), new Set(filmCatalogue().keys()));
+});
+
 test('published snapshot reproduces from saved API responses without a token or network', async () => {
   const snapshot = JSON.parse(await readFile(new URL('../data/tmdb-festival-history.json', import.meta.url), 'utf8'));
   const registry = JSON.parse(await readFile(new URL('../data/film-identities.json', import.meta.url), 'utf8'));
   const cacheDir = new URL('../assets/tmdb/responses/', import.meta.url).pathname;
-  const report = JSON.parse(await readFile(new URL('../assets/tmdb/coverage.json', import.meta.url), 'utf8'));
-  const publishedKeys = new Set(report.films.map(film => film.key));
-  const publishedCatalogue = new Map([...filmCatalogue()].filter(([key]) => publishedKeys.has(key)));
-  assert.equal(publishedCatalogue.size, publishedKeys.size);
-  const result = await collectFilms(publishedCatalogue, tmdbClient({ cacheDir, offline: true, fetcher: () => { throw new Error('Unexpected network request'); } }), () => {}, { registry, previous: snapshot });
+  const result = await collectFilms(filmCatalogue(), tmdbClient({ cacheDir, offline: true, fetcher: () => { throw new Error('Unexpected network request'); } }), () => {}, { registry, previous: snapshot });
   assert.deepEqual(result.coverage, snapshot.coverage);
   assert.deepEqual(result.films, snapshot.films);
   assert.deepEqual(result.posters, snapshot.posters);

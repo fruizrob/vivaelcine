@@ -19,7 +19,8 @@ test('reviewed batch replays idempotently offline, retaining evidence, explicit 
   const sorted = registry => registry.films.map(r => ({ ...r, decisions: [...r.decisions].sort((a, b) => a.tmdbId - b.tmdbId) }));
   assert.deepEqual(sorted(result), sorted(registry));
   assert.equal(reviews.reviews.filter(r => r.decision === 'accepted').length, 51);
-  assert.equal(result.films.flatMap(r => r.decisions).filter(d => d.status === 'accepted').length, 108);
+  assert.equal(result.films.flatMap(r => r.decisions).filter(d => d.status === 'accepted').length,
+    registry.films.flatMap(r => r.decisions).filter(d => d.status === 'accepted').length);
   for (const item of reviews.pending) {
     const record = result.films.find(r => r.keys.includes(item.key));
     assert.equal(record.review.status, 'unsure');

@@ -44,6 +44,11 @@ export async function applyFilmReviews(registry, reviews, observations, entries,
       if (fingerprint !== candidate.fingerprint) throw new Error(`Changed provider observation: ${key}`);
       if (record.decisions.some(d => d.status === 'accepted' && d.tmdbId !== choice.tmdbId)) throw new Error(`Conflicting accepted identity: ${choice.key}`);
       decision = identityDecision(choice.key, film, movie, 'manual', evidence, choice.reviewedAt);
+      const previous = record.decisions.find(d => d.tmdbId === choice.tmdbId);
+      // Re-reviewing one festival must preserve the other aliases and their evidence.
+      decision.sourceFingerprints = { ...previous?.sourceFingerprints, ...decision.sourceFingerprints };
+      decision.evidence = [...new Map([...(previous?.evidence || []), ...decision.evidence]
+        .map(item => [JSON.stringify(item), item])).values()];
       delete record.review;
     } else decision = { tmdbId: choice.tmdbId, status: 'rejected', decidedAt: choice.reviewedAt, evidence };
     record.decisions = record.decisions.filter(d => d.tmdbId !== choice.tmdbId);

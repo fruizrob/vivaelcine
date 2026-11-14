@@ -240,7 +240,7 @@ async function main() {
     if (done % 20 === 0 || done === total) console.log(`Checked ${done}/${total} film entries`);
   }, { registry, previous });
   const { report, identities, ...snapshot } = result;
-  const review = await reviewData(filmCatalogue(), report, identities, join(root, 'assets/tmdb/responses'));
+  const review = await reviewData(filmCatalogue(), report, identities, join(root, 'assets/tmdb/responses'), festivals);
   await saveJson(join(root, 'data/film-identities.json'), identities);
   await saveJson(join(root, 'assets/tmdb/coverage.json'), { generatedAt: result.generatedAt, coverage: result.coverage, films: report });
   await writeFile(join(root, 'assets/tmdb/review.md'), reviewMarkdown(result));

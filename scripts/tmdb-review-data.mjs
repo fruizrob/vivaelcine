@@ -6,7 +6,8 @@ import { matchProblems, sourceFingerprint } from './film-identity.mjs';
 const fingerprint = value => createHash('sha256').update(JSON.stringify(value)).digest('hex');
 
 // Public, cached observations only. Review choices never modify the identity registry.
-export async function reviewData(entries, report, identities, cacheDir) {
+export async function reviewData(entries, report, identities, cacheDir, festivals) {
+  const festivalNames = new Map(festivals.map(festival => [festival.id, festival.name]));
   const movies = new Map();
   const responses = await Promise.all((await readdir(cacheDir)).filter(name => name.endsWith('.json'))
     .map(async name => JSON.parse(await readFile(join(cacheDir, name), 'utf8'))));
@@ -46,7 +47,7 @@ export async function reviewData(entries, report, identities, cacheDir) {
       return rank(a) - rank(b) || a.title.localeCompare(b.title);
     });
     return {
-      key: row.key, title: film.title, festival: row.key.startsWith('sanfic-') ? 'SANFIC22' : 'FIDOCS 30',
+      key: row.key, title: film.title, festival: festivalNames.get(row.key.split('/')[0]) || row.key.split('/')[0],
       originalTitle: film.originalTitle || '', director: film.director || '', duration: film.duration || null,
       year: film.year || null, countries: film.countries || '', source: film.source || '',
       yearSource: film.yearSource || '', letterboxd: film.letterboxd || '',

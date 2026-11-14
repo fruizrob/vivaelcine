@@ -304,7 +304,7 @@ renderSchedule();
 if (requestedScreening) showDetail(requestedScreening.id);
 
 // The agenda works immediately, even if the optional local snapshot is unavailable.
-fetch('./data/tmdb-festival-history.json?v=20261105-tmdb-authority', { signal: AbortSignal.timeout(5000) })
+fetch('./data/tmdb-festival-history.json?v=20261114-ficvina-tmdb', { signal: AbortSignal.timeout(5000) })
   .then(response => { if (!response.ok) throw new Error('History unavailable'); return response.json(); })
   .then(snapshot => {
     data.festivalHistory = snapshot.films || {};
