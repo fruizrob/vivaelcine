@@ -24,9 +24,10 @@ h1 a{text-decoration:none}
 .archive-toggle{border:1px solid var(--line);border-radius:5px;padding:10px 12px;font-size:12px;min-height:40px;background:var(--white)}
 .archive-toggle:hover{border-color:var(--ink)}
 .archive-empty{padding:32px 20px;text-align:center;border:1px solid var(--line);border-radius:8px;background:var(--white);font-size:14px;line-height:1.6}
-.masthead-links{display:flex;align-items:center;gap:20px}
+.masthead-links{display:flex;flex-direction:column;align-items:flex-end;gap:0}
 .source-link{font-size:12px;text-decoration:none;white-space:nowrap;padding:10px 0;min-height:44px;display:inline-flex;align-items:center;border:0}
 .source-link:hover{text-decoration:underline}
+#show-release-notes{text-decoration:underline;text-underline-offset:4px}
 .days{display:grid;grid-template-columns:repeat(auto-fit,minmax(75px,1fr));gap:6px;margin-bottom:20px}
 .day-button{padding:13px 16px;text-align:left;border:1px solid var(--line);border-radius:6px;display:flex;align-items:baseline;gap:10px;background:var(--white)}
 .day-button:hover{border-color:var(--ink)}
@@ -207,7 +208,6 @@ h1{font-size:29px;letter-spacing:-1px}
 .festivals a{padding:7px 9px;font-size:11px}
 #festival-dates{font-size:11px;flex-basis:100%}
 .source-link{font-size:11px;padding-top:8px}
-.masthead-links{flex-direction:column;align-items:flex-end;gap:0}
 .days{grid-template-columns:repeat(auto-fit,minmax(40px,1fr));gap:4px;margin-bottom:14px}
 .day-button{padding:10px 3px;flex-direction:column;align-items:center;gap:4px}
 .day-name{font-size:9px}

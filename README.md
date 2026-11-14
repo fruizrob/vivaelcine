@@ -40,7 +40,7 @@ The timeline always fills its container. Zooming out reduces its time scale unti
 
 ## Release notes
 
-**Novedades**, beside **Programa** in the header, opens a dated Spanish history of new features and programme updates. It stays available when no current festival is shown. Close with the close button, Escape, or a click outside; the agenda selection and filters are preserved.
+**Novedades**, underlined below **Programa** in the header, opens a dated Spanish history of new features and programme updates. It stays available when no current festival is shown. Close with the close button, Escape, or a click outside; the agenda selection and filters are preserved.
 
 Maintain the sections in `index.html` under `#release-notes`, newest first. Use the date the change became available, a short title, and a brief description explaining what visitors can now do or which programme data changed. Add only shipped changes backed by the repository history; keep implementation details out of the visitor copy. Each section needs a unique heading ID and a `<time datetime="YYYY-MM-DD">` date.
 
