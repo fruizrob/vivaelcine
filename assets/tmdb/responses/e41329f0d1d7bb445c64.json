@@ -1,0 +1,94 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1272174?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:23.974Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1272174,
+    "imdb_id": null,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "xx",
+    "original_title": "For Those in Peril on the Sea",
+    "overview": "",
+    "popularity": 0.0698,
+    "poster_path": "/aJaHjUnPUD0vAElb323zvx4nUCy.jpg",
+    "production_companies": [
+      {
+        "id": 162530,
+        "logo_path": null,
+        "name": "Topical Budget Company",
+        "origin_country": "GB"
+      },
+      {
+        "id": 7281,
+        "logo_path": "/iI7qdR1OFPo0U41BlpKBLD3xesh.png",
+        "name": "BFI",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "1926-12-27",
+    "revenue": 0,
+    "runtime": 1,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "For Those in Peril on the Sea",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1926-12-27T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "GB",
+          "title": "Topical Budget 800-2: For Those in Peril on the Sea",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

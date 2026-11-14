@@ -1,0 +1,375 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1213545?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:43.898Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1213545,
+    "imdb_id": "tt18646686",
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_title": "Rose",
+    "overview": "",
+    "popularity": 0.4863,
+    "poster_path": "/9cSZmTDkZ0dITBrh5tIKkUXSfi9.jpg",
+    "production_companies": [
+      {
+        "id": 64324,
+        "logo_path": "/5mhgTCow1DvznQsrv9yk8Rffj4g.png",
+        "name": "Nish Media",
+        "origin_country": "CA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2022-10-19",
+    "revenue": 0,
+    "runtime": 25,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rose",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466642,
+          "known_for_department": "Acting",
+          "name": "Merrick Diabo",
+          "original_name": "Merrick Diabo",
+          "popularity": 0.0788,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Extra",
+          "credit_id": "6aa12425623300ec10df3a92",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2747857,
+          "known_for_department": "Acting",
+          "name": "Passion Diabo",
+          "original_name": "Passion Diabo",
+          "popularity": 0.132,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Rose",
+          "credit_id": "6aa124417fc0ecba8dc93690",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466644,
+          "known_for_department": "Acting",
+          "name": "Mark Kupra",
+          "original_name": "Mark Kupra",
+          "popularity": 0.0725,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "O'Byrne",
+          "credit_id": "6aa1245e0d31d4a218e8307d",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466645,
+          "known_for_department": "Acting",
+          "name": "Sayde Lazore",
+          "original_name": "Sayde Lazore",
+          "popularity": 0.0244,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Extra",
+          "credit_id": "6aa1253eed1a4e734f31952a",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466647,
+          "known_for_department": "Acting",
+          "name": "Wendy Mayo",
+          "original_name": "Wendy Mayo",
+          "popularity": 0.1976,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Extra",
+          "credit_id": "6aa125563289ce9c10e82e9f",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466648,
+          "known_for_department": "Acting",
+          "name": "Eric 'Dirt' McComber",
+          "original_name": "Eric 'Dirt' McComber",
+          "popularity": 0.0925,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Michael's Uncle",
+          "credit_id": "6aa1259f11975a37bf0eb7a1",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466649,
+          "known_for_department": "Acting",
+          "name": "Masha Peter",
+          "original_name": "Masha Peter",
+          "popularity": 0.0512,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Unna",
+          "credit_id": "6aa125b8cd22f28821df3b37",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2202660,
+          "known_for_department": "Acting",
+          "name": "Teresa Picciano",
+          "original_name": "Teresa Picciano",
+          "popularity": 0.2214,
+          "profile_path": "/tg52j5MnT3GD6nI80EoXbyiQzWG.jpg",
+          "cast_id": 9,
+          "character": "Sister Clarice",
+          "credit_id": "6aa125cced1a4e734f319530",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 3,
+          "id": 3842750,
+          "known_for_department": "Acting",
+          "name": "Tanchay Redvers",
+          "original_name": "Tanchay Redvers",
+          "popularity": 0.2115,
+          "profile_path": "/nQ2pDDltuUhkReJpYrTG7QSckoa.jpg",
+          "cast_id": 10,
+          "character": "Liz",
+          "credit_id": "6aa125e4900941419f5ad334",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466653,
+          "known_for_department": "Acting",
+          "name": "Amanda Reed",
+          "original_name": "Amanda Reed",
+          "popularity": 0.0526,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Extra",
+          "credit_id": "6aa12601112c3aa2d85ad2f9",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 173866,
+          "known_for_department": "Acting",
+          "name": "Alex Rice",
+          "original_name": "Alex Rice",
+          "popularity": 0.4907,
+          "profile_path": "/141hN05JdLYEoIDz3VsbPCIyOw3.jpg",
+          "cast_id": 12,
+          "character": "Nancy",
+          "credit_id": "6aa1262cb608a795da4fcb6b",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466656,
+          "known_for_department": "Acting",
+          "name": "Brian Robert",
+          "original_name": "Brian Robert",
+          "popularity": 0.073,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Extra",
+          "credit_id": "6aa126433dcf682066c93185",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466657,
+          "known_for_department": "Acting",
+          "name": "Azure Robertson",
+          "original_name": "Azure Robertson",
+          "popularity": 0.0184,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Extra",
+          "credit_id": "6aa1265e352738fb6aaabf2b",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1446472,
+          "known_for_department": "Acting",
+          "name": "Leigh Ann Taylor",
+          "original_name": "Leigh Ann Taylor",
+          "popularity": 0.2098,
+          "profile_path": "/vMsizIyRn17tvrEzq7oVZxdGSTs.jpg",
+          "cast_id": 15,
+          "character": "Nurse Margaret",
+          "credit_id": "6aa1267fe103ea4c52e82fab",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466658,
+          "known_for_department": "Acting",
+          "name": "Nikahehtahha Kali Thompson",
+          "original_name": "Nikahehtahha Kali Thompson",
+          "popularity": 0.0804,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Rose's child",
+          "credit_id": "6aa1268f30683242375ad3a3",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466659,
+          "known_for_department": "Acting",
+          "name": "Keena Thunderblanket",
+          "original_name": "Keena Thunderblanket",
+          "popularity": 0.05,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Extra",
+          "credit_id": "6aa127036749b4c5bb0eb811",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466660,
+          "known_for_department": "Acting",
+          "name": "Wahéhshon Whitebean",
+          "original_name": "Wahéhshon Whitebean",
+          "popularity": 0.0822,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Extra",
+          "credit_id": "6aa127150de8d1413b3194e6",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2130046,
+          "known_for_department": "Acting",
+          "name": "Jacob Whiteduck-Lavoie",
+          "original_name": "Jacob Whiteduck-Lavoie",
+          "popularity": 0.6142,
+          "profile_path": "/l7LfUB6yfvWQ28BazLMGFO10uxt.jpg",
+          "cast_id": 19,
+          "character": "Michael",
+          "credit_id": "6aa1272852257dcc2b23ba1f",
+          "order": 17
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1810477,
+          "known_for_department": "Directing",
+          "name": "Roxann Whitebean",
+          "original_name": "Roxann Whitebean",
+          "popularity": 0.0708,
+          "profile_path": null,
+          "credit_id": "657923d74bfa545d001eeb15",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1810477,
+          "known_for_department": "Directing",
+          "name": "Roxann Whitebean",
+          "original_name": "Roxann Whitebean",
+          "popularity": 0.0708,
+          "profile_path": null,
+          "credit_id": "6aa127612f363996d2e82f76",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1515820,
+          "known_for_department": "Production",
+          "name": "Jason Brennan",
+          "original_name": "Jason Brennan",
+          "popularity": 0.1276,
+          "profile_path": null,
+          "credit_id": "6aa1279b2f363996d2e82f7d",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2022-10-19T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

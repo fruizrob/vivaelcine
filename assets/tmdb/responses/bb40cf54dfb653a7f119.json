@@ -1,0 +1,883 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1421539?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:18.527Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/jl2An3tvhvJKOFWRngBkAe9PCqY.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1421539,
+    "imdb_id": "tt13597298",
+    "origin_country": [
+      "BE",
+      "NL"
+    ],
+    "original_language": "fr",
+    "original_title": "Julian",
+    "overview": "Fleur y Julian se han enamorado perdidamente y han decidido casarse en cada uno de los lugares del mundo donde está permitido el matrimonio entre personas del mismo sexo. Impulsadas por una creciente sensación de urgencia, ambas emprenden esta gira del amor con la meta de desposarse en 22 países. Pero solo cuatro ceremonias después, su viaje llega a un inevitable y doloroso final.",
+    "popularity": 0.8188,
+    "poster_path": "/sxyRAjnkDw2E8BVsd91J6Cnv9OK.jpg",
+    "production_companies": [
+      {
+        "id": 175690,
+        "logo_path": "/jtrPS10u7R29S25ESGeCz7Szq7q.png",
+        "name": "The Reunion",
+        "origin_country": "BE"
+      },
+      {
+        "id": 24845,
+        "logo_path": "/tc9Q8e1Rn68ySgVqQDyVXTPzY08.png",
+        "name": "Topkapi Films",
+        "origin_country": "NL"
+      },
+      {
+        "id": 1926,
+        "logo_path": "/eSnbNBmDyok9rcpWxYRaBjTaq1n.png",
+        "name": "Les Films du Fleuve",
+        "origin_country": "BE"
+      },
+      {
+        "id": 3133,
+        "logo_path": "/3eZF3RIfTKV7rzRgrXm4wTf6ufJ.png",
+        "name": "VTM",
+        "origin_country": "BE"
+      },
+      {
+        "id": 792,
+        "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+        "name": "RTBF",
+        "origin_country": "BE"
+      },
+      {
+        "id": 92187,
+        "logo_path": "/yrAyYme1zlZtHuhlWS3DlFAj762.png",
+        "name": "Proximus",
+        "origin_country": "BE"
+      },
+      {
+        "id": 24430,
+        "logo_path": "/7ZIwXTA5QVD6feybiITOL6OYJPJ.png",
+        "name": "BeTV",
+        "origin_country": "BE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      },
+      {
+        "iso_3166_1": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "release_date": "2025-10-29",
+    "revenue": 0,
+    "runtime": 91,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Dutch",
+        "iso_639_1": "nl",
+        "name": "Nederlands"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Julian",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 10,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 144763,
+          "known_for_department": "Acting",
+          "name": "Nina Meurisse",
+          "original_name": "Nina Meurisse",
+          "popularity": 0.6998,
+          "profile_path": "/kLxpJGq269KEktzFh6DXoK2PsjR.jpg",
+          "cast_id": 6,
+          "character": "Fleur",
+          "credit_id": "688c55e96ddcdf6a2d260ef1",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1106321,
+          "known_for_department": "Acting",
+          "name": "Laurence Roothooft",
+          "original_name": "Laurence Roothooft",
+          "popularity": 0.2015,
+          "profile_path": "/lzp2PbbuOBiYoXKncQqkjxp9siw.jpg",
+          "cast_id": 7,
+          "character": "Julian",
+          "credit_id": "688c55f16fd7bd326cf3d7ab",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1182191,
+          "known_for_department": "Acting",
+          "name": "Rosalia Cuevas",
+          "original_name": "Rosalia Cuevas",
+          "popularity": 0.1844,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Ingrid",
+          "credit_id": "68bb3ad321ffad0fb398b2b4",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1589848,
+          "known_for_department": "Acting",
+          "name": "Peter Seynaeve",
+          "original_name": "Peter Seynaeve",
+          "popularity": 0.1323,
+          "profile_path": "/tXKj9Z3rFpEiGQe4RvF0bdlNwGC.jpg",
+          "cast_id": 13,
+          "character": "Edward",
+          "credit_id": "68bb3ac6a04c22fb97946ad2",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5238399,
+          "known_for_department": "Acting",
+          "name": "Zach Hatch",
+          "original_name": "Zach Hatch",
+          "popularity": 0.2065,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Chris",
+          "credit_id": "68bb3ad9d9be0cdf3698b7ea",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1937116,
+          "known_for_department": "Acting",
+          "name": "Jennifer Heylen",
+          "original_name": "Jennifer Heylen",
+          "popularity": 0.5534,
+          "profile_path": "/3fHBkxGIF8Ws2uq57KEtn5lMSLd.jpg",
+          "cast_id": 10,
+          "character": "Imani",
+          "credit_id": "68bb3ab6ed4c3c544c0695a1",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2014852,
+          "known_for_department": "Acting",
+          "name": "Yannick De Coster",
+          "original_name": "Yannick De Coster",
+          "popularity": 0.1642,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Bob",
+          "credit_id": "68bb3ac19d4617380e98b63c",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1388600,
+          "known_for_department": "Acting",
+          "name": "Joep van der Geest",
+          "original_name": "Joep van der Geest",
+          "popularity": 0.3014,
+          "profile_path": "/rxOdLTQRkTPDRq0GxHVyWyagQ6K.jpg",
+          "cast_id": 14,
+          "character": "Joshua",
+          "credit_id": "68bb3acc21ffad0fb398b2b0",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3993746,
+          "known_for_department": "Crew",
+          "name": "David Coburn",
+          "original_name": "David Coburn",
+          "popularity": 0.0717,
+          "profile_path": null,
+          "cast_id": 42,
+          "character": "McCluskey",
+          "credit_id": "690155d3835eef113620069c",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 566081,
+          "known_for_department": "Acting",
+          "name": "Claire Bodson",
+          "original_name": "Claire Bodson",
+          "popularity": 0.3596,
+          "profile_path": "/6f8rvYsSDwW335jfTkqWwPT88z9.jpg",
+          "cast_id": 11,
+          "character": "Fleur's editor",
+          "credit_id": "68bb3abbb657aeb10a1f4916",
+          "order": 9
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2356536,
+          "known_for_department": "Directing",
+          "name": "Cato Kusters",
+          "original_name": "Cato Kusters",
+          "popularity": 0.2371,
+          "profile_path": "/H8lAffSbZ9b1wutEYQaaLKG5AW.jpg",
+          "credit_id": "679072eefb609d926828a7a8",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2356536,
+          "known_for_department": "Directing",
+          "name": "Cato Kusters",
+          "original_name": "Cato Kusters",
+          "popularity": 0.2371,
+          "profile_path": "/H8lAffSbZ9b1wutEYQaaLKG5AW.jpg",
+          "credit_id": "679072fb3479c48ccb28ac88",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1274219,
+          "known_for_department": "Writing",
+          "name": "Angelo Tijssens",
+          "original_name": "Angelo Tijssens",
+          "popularity": 0.3942,
+          "profile_path": "/9WfTHIcKGzDQmotkG6jExCptFgb.jpg",
+          "credit_id": "679073067eca7b4a0d774690",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2163113,
+          "known_for_department": "Production",
+          "name": "Michiel Dhont",
+          "original_name": "Michiel Dhont",
+          "popularity": 0.1524,
+          "profile_path": null,
+          "credit_id": "67907318be9a9aa782774b52",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1274468,
+          "known_for_department": "Directing",
+          "name": "Lukas Dhont",
+          "original_name": "Lukas Dhont",
+          "popularity": 0.4586,
+          "profile_path": "/viS3o7SiJKjRaJraHrWEPCH532m.jpg",
+          "credit_id": "679073316c38059979774b37",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 56209,
+          "known_for_department": "Directing",
+          "name": "Jean-Pierre Dardenne",
+          "original_name": "Jean-Pierre Dardenne",
+          "popularity": 0.6148,
+          "profile_path": "/n5BqsP6h3VtweQAFfQz2qtd5khq.jpg",
+          "credit_id": "68bb3a5066584852359bb9b2",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 45138,
+          "known_for_department": "Directing",
+          "name": "Luc Dardenne",
+          "original_name": "Luc Dardenne",
+          "popularity": 0.4046,
+          "profile_path": "/hfnvLjmLKQyx1ftkuC6hhHwoTtM.jpg",
+          "credit_id": "68bb3a5ac9b90846f106997e",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1764022,
+          "known_for_department": "Production",
+          "name": "Jan Ryvers",
+          "original_name": "Jan Ryvers",
+          "popularity": 0.0958,
+          "profile_path": null,
+          "credit_id": "68bb3af91db6f1cff898b174",
+          "department": "Production",
+          "job": "Line Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 41572,
+          "known_for_department": "Sound",
+          "name": "Evgueni Galperine",
+          "original_name": "Evgueni Galperine",
+          "popularity": 0.2768,
+          "profile_path": "/y6ctWZaf1eWtLZHPxVDtIPfE8Hi.jpg",
+          "credit_id": "68bb3b086ebe98c71e4e5422",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1180402,
+          "known_for_department": "Sound",
+          "name": "Sacha Galperine",
+          "original_name": "Sacha Galperine",
+          "popularity": 0.2709,
+          "profile_path": "/poyHoZx4yjCKXDsSqolY6v9EuTG.jpg",
+          "credit_id": "68bb3b108470119c921f453c",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2518649,
+          "known_for_department": "Camera",
+          "name": "Michel Rosendaal",
+          "original_name": "Michel Rosendaal",
+          "popularity": 0.1032,
+          "profile_path": null,
+          "credit_id": "68bb3b1921ffad0fb398b2b8",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3456726,
+          "known_for_department": "Editing",
+          "name": "Lot Rossmark",
+          "original_name": "Lot Rossmark",
+          "popularity": 0.0642,
+          "profile_path": null,
+          "credit_id": "68bb3b2270d14bf26c1f477f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2434939,
+          "known_for_department": "Sound",
+          "name": "Arnout Colaert",
+          "original_name": "Arnout Colaert",
+          "popularity": 0.156,
+          "profile_path": null,
+          "credit_id": "68bb3b2a5c774830b21f4754",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2464479,
+          "known_for_department": "Sound",
+          "name": "Xavier Dujardin",
+          "original_name": "Xavier Dujardin",
+          "popularity": 0.1402,
+          "profile_path": null,
+          "credit_id": "68bb3b339d4617380e98b655",
+          "department": "Sound",
+          "job": "Dialogue Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2434938,
+          "known_for_department": "Sound",
+          "name": "Arne Winderickx",
+          "original_name": "Arne Winderickx",
+          "popularity": 0.1415,
+          "profile_path": null,
+          "credit_id": "68bb3b53f4fc744e5198b299",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5211906,
+          "known_for_department": "Visual Effects",
+          "name": "Jan Daghelinckx",
+          "original_name": "Jan Daghelinckx",
+          "popularity": 0.0801,
+          "profile_path": null,
+          "credit_id": "68bb3b5eadad6c15461f4ae1",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2845535,
+          "known_for_department": "Camera",
+          "name": "Sander Blok",
+          "original_name": "Sander Blok",
+          "popularity": 0.0495,
+          "profile_path": null,
+          "credit_id": "68bb3b679d4617380e98b65c",
+          "department": "Camera",
+          "job": "Steadicam Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2750290,
+          "known_for_department": "Sound",
+          "name": "Franz Josef Brun",
+          "original_name": "Franz Josef Brun",
+          "popularity": 0.0657,
+          "profile_path": null,
+          "credit_id": "68bb3b77e3d9f6469098b5cf",
+          "department": "Camera",
+          "job": "Steadicam Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1580929,
+          "known_for_department": "Camera",
+          "name": "Kris Dewitte",
+          "original_name": "Kris Dewitte",
+          "popularity": 0.136,
+          "profile_path": null,
+          "credit_id": "68bb3b805c774830b21f4757",
+          "department": "Camera",
+          "job": "Still Photographer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3017308,
+          "known_for_department": "Camera",
+          "name": "Nathan Lederman",
+          "original_name": "Nathan Lederman",
+          "popularity": 0.069,
+          "profile_path": null,
+          "credit_id": "68bb3b891db6f1cff898b178",
+          "department": "Camera",
+          "job": "First Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1983300,
+          "known_for_department": "Lighting",
+          "name": "Felix Ryckebusch",
+          "original_name": "Felix Ryckebusch",
+          "popularity": 0.1979,
+          "profile_path": null,
+          "credit_id": "68bb3b917e41965b91946bbc",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3035120,
+          "known_for_department": "Camera",
+          "name": "Sofie Van Bos",
+          "original_name": "Sofie Van Bos",
+          "popularity": 0.1094,
+          "profile_path": null,
+          "credit_id": "68bb3b9b3493335daa1f47e7",
+          "department": "Camera",
+          "job": "Second Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2952429,
+          "known_for_department": "Lighting",
+          "name": "Aaron Veys",
+          "original_name": "Aaron Veys",
+          "popularity": 0.0799,
+          "profile_path": null,
+          "credit_id": "68bb3ba56ebe98c71e4e5426",
+          "department": "Lighting",
+          "job": "Best Boy Electric"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5672800,
+          "known_for_department": "Camera",
+          "name": "Femke Voorpyl",
+          "original_name": "Femke Voorpyl",
+          "popularity": 0.0729,
+          "profile_path": null,
+          "credit_id": "68bb3bae4e058dc0fe9bfafe",
+          "department": "Camera",
+          "job": "Third Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2119006,
+          "known_for_department": "Editing",
+          "name": "Florian Keirse",
+          "original_name": "Florian Keirse",
+          "popularity": 0.1267,
+          "profile_path": null,
+          "credit_id": "68bb3bb7d826c7d509069549",
+          "department": "Editing",
+          "job": "Colorist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5275418,
+          "known_for_department": "Editing",
+          "name": "Emilie Claeys",
+          "original_name": "Emilie Claeys",
+          "popularity": 0.0662,
+          "profile_path": null,
+          "credit_id": "68bb3bc504dd0798a50697ad",
+          "department": "Editing",
+          "job": "Online Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5672804,
+          "known_for_department": "Production",
+          "name": "Elliott Bries",
+          "original_name": "Elliott Bries",
+          "popularity": 0.0479,
+          "profile_path": null,
+          "credit_id": "68bb3be9688a1614eb1bc202",
+          "department": "Production",
+          "job": "Location Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5672805,
+          "known_for_department": "Production",
+          "name": "Line Burkard",
+          "original_name": "Line Burkard",
+          "popularity": 0.0698,
+          "profile_path": null,
+          "credit_id": "68bb3bf1de6563fdec8ce5ae",
+          "department": "Production",
+          "job": "Location Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3821654,
+          "known_for_department": "Production",
+          "name": "Tijs Delannoy",
+          "original_name": "Tijs Delannoy",
+          "popularity": 0.099,
+          "profile_path": null,
+          "credit_id": "68bb3bfb3881eb5887946cdf",
+          "department": "Production",
+          "job": "Location Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5672807,
+          "known_for_department": "Production",
+          "name": "Thaila Indra Phatisis",
+          "original_name": "Thaila Indra Phatisis",
+          "popularity": 0.0466,
+          "profile_path": null,
+          "credit_id": "68bb3c06e5b0c6eb7d946fbf",
+          "department": "Production",
+          "job": "Location Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4581085,
+          "known_for_department": "Production",
+          "name": "Connor Logan",
+          "original_name": "Connor Logan",
+          "popularity": 0.0269,
+          "profile_path": null,
+          "credit_id": "68bb3c11ae986077d29bbada",
+          "department": "Production",
+          "job": "Location Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2356549,
+          "known_for_department": "Camera",
+          "name": "Esther Prouvost",
+          "original_name": "Esther Prouvost",
+          "popularity": 0.0642,
+          "profile_path": null,
+          "credit_id": "68bb3c209dbd8458a28cea44",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sydney Film Festival",
+              "release_date": "2026-06-06T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Film Fest Gent",
+              "release_date": "2025-10-08T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Pink Screens Festival (Brussels)",
+              "release_date": "2025-10-30T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2025-10-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Toronto International Film Festival",
+              "release_date": "2025-09-05T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Lausanne (Le Cinématographe)",
+              "release_date": "2026-03-25T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Hamburg International Queer Film Festival ",
+              "release_date": "2026-10-14T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Festival Chéries Chéris",
+              "release_date": "2025-11-25T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-03-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Hong Kong Lesbian & Gay Film Festival",
+              "release_date": "2026-09-05T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MO",
+          "release_dates": [
+            {
+              "certification": "D",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Macao International Queer Film Festival",
+              "release_date": "2026-06-12T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Leiden International Film Festival",
+              "release_date": "2025-10-10T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "12",
+              "descriptors": [
+                "Sex",
+                "Coarse Language"
+              ],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2025-12-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RO",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "HBO Max",
+              "release_date": "2026-08-12T00:00:00.000Z",
+              "type": 4
+            },
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cinemax 2",
+              "release_date": "2026-08-14T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Bangkok International Film Festival",
+              "release_date": "2025-10-02T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sunny Bunny International LGBTQ+ Film Festival",
+              "release_date": "2026-04-20T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "LT",
+          "title": "Džiulian",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

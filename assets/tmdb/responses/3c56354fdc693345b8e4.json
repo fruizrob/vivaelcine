@@ -1,0 +1,110 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1677762?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=en-US",
+  "retrievedAt": "2026-11-14T05:14:49.056Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1677762,
+    "imdb_id": "tt36072077",
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_title": "Xiaoxiao",
+    "overview": "A tomboy returns to their hometown after their father passes away. As they help their mother prepare for the funeral, unspoken tensions rise to the surface.",
+    "popularity": 0.2029,
+    "poster_path": "/pZaGDafwpIqcb8TSlvLEW6Sa4q0.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      }
+    ],
+    "release_date": "2025-12-01",
+    "revenue": 0,
+    "runtime": 18,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Wind in Ash",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3652231,
+          "known_for_department": "Directing",
+          "name": "Kun Sun",
+          "original_name": "Kun Sun",
+          "popularity": 0.0348,
+          "profile_path": null,
+          "credit_id": "69e6ac1e42bbf76fcafb9cf9",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Hamburg International Queer Film Festival ",
+              "release_date": "2026-10-15T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Busan International Short Film Festival",
+              "release_date": "2026-04-23T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2025-12-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

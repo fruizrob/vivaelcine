@@ -1,0 +1,118 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1784083?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:23.448Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/pbqzIkONOMKyBUFXUDrBIq0BG6U.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1784083,
+    "imdb_id": "tt13301696",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "That Morning, on the Pier, by the Sea",
+    "overview": "",
+    "popularity": 0.1534,
+    "poster_path": "/bhWCpNU8uJBxUrSU0MjYDQ5gIof.jpg",
+    "production_companies": [
+      {
+        "id": 312586,
+        "logo_path": "/fRQbqJT0DaEWD1YOZVkxUGxJ8Jj.png",
+        "name": "Secret Beach Films",
+        "origin_country": "IE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IE",
+        "name": "Ireland"
+      }
+    ],
+    "release_date": "2020-09-11",
+    "revenue": 0,
+    "runtime": 3,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "That Morning, on the Pier, by the Sea",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1464977,
+          "known_for_department": "Acting",
+          "name": "Mark Tankersley",
+          "original_name": "Mark Tankersley",
+          "popularity": 0.2379,
+          "profile_path": "/1HKphOWsNdN5JaLCBjS3OD5damC.jpg",
+          "cast_id": 1,
+          "character": "Old Man",
+          "credit_id": "6abc18810b320a8cbd19ce25",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4375924,
+          "known_for_department": "Directing",
+          "name": "Ben Moran",
+          "original_name": "Ben Moran",
+          "popularity": 0.0625,
+          "profile_path": "/zMqFncdgQov1xiCZ9F09vuTQURR.jpg",
+          "credit_id": "6abc1adff9305764957b49f8",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4375924,
+          "known_for_department": "Directing",
+          "name": "Ben Moran",
+          "original_name": "Ben Moran",
+          "popularity": 0.0625,
+          "profile_path": "/zMqFncdgQov1xiCZ9F09vuTQURR.jpg",
+          "credit_id": "6abc1aee20d29465f40821bf",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2020-09-11T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

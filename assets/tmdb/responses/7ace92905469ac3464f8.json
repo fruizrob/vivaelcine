@@ -1,0 +1,500 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1314323?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:45.470Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/7LEeOpAoSZPZYAOPLSVu152I9GH.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "id": 1314323,
+    "imdb_id": "tt32810215",
+    "origin_country": [
+      "BA",
+      "HR",
+      "ME"
+    ],
+    "original_language": "hr",
+    "original_title": "Šalša",
+    "overview": "",
+    "popularity": 0.4579,
+    "poster_path": "/ucvZxw5kvoPfUokXe7nK0xxMRjA.jpg",
+    "production_companies": [
+      {
+        "id": 44862,
+        "logo_path": "/wt746UOqbMQIC2pn9E06zdg09Tw.png",
+        "name": "MaXima film",
+        "origin_country": "HR"
+      },
+      {
+        "id": 46281,
+        "logo_path": "/7HPNhW90eYc9TO4ROBbeGMxjFQr.png",
+        "name": "Biberche",
+        "origin_country": "RS"
+      },
+      {
+        "id": 234695,
+        "logo_path": null,
+        "name": "Far Film Production",
+        "origin_country": "ME"
+      },
+      {
+        "id": 160772,
+        "logo_path": "/h54xzXBipoFlkNCwUDrrhU09JQS.png",
+        "name": "Bitter Frames Productions",
+        "origin_country": "ME"
+      },
+      {
+        "id": 234696,
+        "logo_path": null,
+        "name": "Iskra Film",
+        "origin_country": "RS"
+      },
+      {
+        "id": 234697,
+        "logo_path": null,
+        "name": "PALCHICA Productions",
+        "origin_country": "BA"
+      },
+      {
+        "id": 127181,
+        "logo_path": null,
+        "name": "Nomad Film Studio",
+        "origin_country": "BA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BA",
+        "name": "Bosnia and Herzegovina"
+      },
+      {
+        "iso_3166_1": "HR",
+        "name": "Croatia"
+      },
+      {
+        "iso_3166_1": "ME",
+        "name": "Montenegro"
+      },
+      {
+        "iso_3166_1": "RS",
+        "name": "Serbia"
+      }
+    ],
+    "release_date": "2024-07-16",
+    "revenue": 0,
+    "runtime": 100,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Croatian",
+        "iso_639_1": "hr",
+        "name": "Hrvatski"
+      },
+      {
+        "english_name": "Serbian",
+        "iso_639_1": "sr",
+        "name": "Srpski"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Šalša",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1159358,
+          "known_for_department": "Acting",
+          "name": "Momčilo Otašević",
+          "original_name": "Momčilo Otašević",
+          "popularity": 0.3492,
+          "profile_path": "/jTyPvGJ11LkRA639CAc4ut2LrB3.jpg",
+          "cast_id": 1,
+          "character": "Vatroslav",
+          "credit_id": "668bf37ae0f5c25f8b663f73",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2376476,
+          "known_for_department": "Acting",
+          "name": "Ivana Gulin",
+          "original_name": "Ivana Gulin",
+          "popularity": 0.066,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Irena",
+          "credit_id": "668bf392c4d88b89e00b1d90",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1314561,
+          "known_for_department": "Acting",
+          "name": "Snježana Sinovčić",
+          "original_name": "Snježana Sinovčić",
+          "popularity": 0.3084,
+          "profile_path": "/tW1UXEN0gPnIPXLle66im826lXU.jpg",
+          "cast_id": 3,
+          "character": "Baba Mariljka",
+          "credit_id": "668bf39bff31b1a444b1e98e",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1078966,
+          "known_for_department": "Acting",
+          "name": "Ljubiša Savanović",
+          "original_name": "Ljubiša Savanović",
+          "popularity": 0.3563,
+          "profile_path": "/mnmFQlQgicu82ZlA51jGnIlQeNC.jpg",
+          "cast_id": 4,
+          "character": "Mića",
+          "credit_id": "668bf3ac56e0ceff68ae6dda",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1869778,
+          "known_for_department": "Acting",
+          "name": "Milica Janevski",
+          "original_name": "Milica Janevski",
+          "popularity": 0.2942,
+          "profile_path": "/xj9JsLJzPANOIeonIyxzV9Sbigq.jpg",
+          "cast_id": 5,
+          "character": "Jelena",
+          "credit_id": "668bf3b44202e45c64fa7494",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1838347,
+          "known_for_department": "Acting",
+          "name": "Donat Zeko",
+          "original_name": "Donat Zeko",
+          "popularity": 0.0423,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "668bf3c68c9a7e4848fa7484",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1875975,
+          "known_for_department": "Acting",
+          "name": "Roko Sikavica",
+          "original_name": "Roko Sikavica",
+          "popularity": 0.3228,
+          "profile_path": "/jhrPcbTF1XzlKnSCm9slVRC9JrX.jpg",
+          "cast_id": 18,
+          "character": "Filip",
+          "credit_id": "66a8f295e5d5740e801a94c9",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1519375,
+          "known_for_department": "Acting",
+          "name": "Mijo Jurišić",
+          "original_name": "Mijo Jurišić",
+          "popularity": 0.2407,
+          "profile_path": "/7qykn1qvLCUszqrEDuE0wQ8jWdw.jpg",
+          "cast_id": 11,
+          "character": "Galeb",
+          "credit_id": "66a8f24af92d01426459c51f",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1472457,
+          "known_for_department": "Directing",
+          "name": "Damir Markovina",
+          "original_name": "Damir Markovina",
+          "popularity": 0.2566,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "",
+          "credit_id": "66a8f25bb271fff9d2a36ecd",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1470511,
+          "known_for_department": "Acting",
+          "name": "Slavko Sobin",
+          "original_name": "Slavko Sobin",
+          "popularity": 0.3912,
+          "profile_path": "/rynYUXrsjQ8fjVo7H82VP49qrGt.jpg",
+          "cast_id": 20,
+          "character": "",
+          "credit_id": "66a8f2c8037c3bc76b5c4508",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 257740,
+          "known_for_department": "Acting",
+          "name": "Ecija Ojdanić",
+          "original_name": "Ecija Ojdanić",
+          "popularity": 0.2015,
+          "profile_path": "/xmSY0sI5bc8oOkZrqRJAk6DUgQ6.jpg",
+          "cast_id": 14,
+          "character": "",
+          "credit_id": "66a8f2666585ebb63cf2a8d9",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2870213,
+          "known_for_department": "Acting",
+          "name": "Luna Pilić",
+          "original_name": "Luna Pilić",
+          "popularity": 0.2197,
+          "profile_path": "/6mIWpZ1YHVzSlrCb5vEJnOL6Rhx.jpg",
+          "cast_id": 15,
+          "character": "",
+          "credit_id": "66a8f26d5ae69445c7cd18fe",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1372364,
+          "known_for_department": "Acting",
+          "name": "Hrvoje Barišić",
+          "original_name": "Hrvoje Barišić",
+          "popularity": 0.2504,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "Gazda",
+          "credit_id": "6793cd997660f09f3f484cd2",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1321580,
+          "known_for_department": "Acting",
+          "name": "Draško Zidar",
+          "original_name": "Draško Zidar",
+          "popularity": 0.403,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "",
+          "credit_id": "66a8f2d8e1d640deea59c516",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2209813,
+          "known_for_department": "Acting",
+          "name": "Bojan Brajčić",
+          "original_name": "Bojan Brajčić",
+          "popularity": 0.1524,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "66a8f2395a3b4e7c92dab155",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3534916,
+          "known_for_department": "Acting",
+          "name": "Konstantin Haag",
+          "original_name": "Konstantin Haag",
+          "popularity": 0.1007,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "",
+          "credit_id": "66a8f2421a79caf303f2a949",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4857533,
+          "known_for_department": "Acting",
+          "name": "Lovre Kondža",
+          "original_name": "Lovre Kondža",
+          "popularity": 0.1246,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "",
+          "credit_id": "66a8f255dca616e20759c51e",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4857535,
+          "known_for_department": "Acting",
+          "name": "Petar Salečić",
+          "original_name": "Petar Salečić",
+          "popularity": 0.076,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "",
+          "credit_id": "66a8f281428ab0c03ca370ed",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1391283,
+          "known_for_department": "Acting",
+          "name": "Luka Šatara",
+          "original_name": "Luka Šatara",
+          "popularity": 0.1444,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "",
+          "credit_id": "66a8f285d1e6ce05e7df07a3",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2209818,
+          "known_for_department": "Acting",
+          "name": "Šimun Šitum",
+          "original_name": "Šimun Šitum",
+          "popularity": 0.2496,
+          "profile_path": "/h7ZJbet9uqQSvOrM7jfC72Aorqc.jpg",
+          "cast_id": 19,
+          "character": "",
+          "credit_id": "66a8f2bf79ce635ed34bbffc",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1142262,
+          "known_for_department": "Acting",
+          "name": "Mirko Vlahović",
+          "original_name": "Mirko Vlahović",
+          "popularity": 0.3648,
+          "profile_path": "/js4h1wjx6w0pglkFYTEwutkvJM.jpg",
+          "cast_id": 21,
+          "character": "",
+          "credit_id": "66a8f2cfd14d591a6c59c525",
+          "order": 20
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1223576,
+          "known_for_department": "Directing",
+          "name": "Dražen Žarković",
+          "original_name": "Dražen Žarković",
+          "popularity": 0.4518,
+          "profile_path": null,
+          "credit_id": "668bf3d36dbd4b43bfe5d8da",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2145937,
+          "known_for_department": "Writing",
+          "name": "Ivan Turković Krnjak",
+          "original_name": "Ivan Turković Krnjak",
+          "popularity": 0.2029,
+          "profile_path": null,
+          "credit_id": "66a8f22b69ea4865f793368c",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "HR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2024-07-16T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ID",
+          "release_dates": [
+            {
+              "certification": "17+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Europe On Screen",
+              "release_date": "2025-06-14T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "GB",
+          "title": "Fool",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BA",
+          "title": "Šalša",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "HR",
+          "title": "Salsa",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

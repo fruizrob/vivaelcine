@@ -1,0 +1,83 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/597364?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:08.036Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 597364,
+    "imdb_id": "tt7220646",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "Delay Exposure",
+    "overview": "",
+    "popularity": 0.275,
+    "poster_path": "/eqiF3jbekfiNAGcB457RqyG29Gn.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "1984-01-01",
+    "revenue": 0,
+    "runtime": 3,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Delay Exposure",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17542,
+          "known_for_department": "Directing",
+          "name": "松本俊夫",
+          "original_name": "松本俊夫",
+          "popularity": 0.9059,
+          "profile_path": "/h1Rms3lIyrSyNtwBTlSlolIzqp8.jpg",
+          "credit_id": "5cc07f720e0a266b96fcadaa",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1984-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

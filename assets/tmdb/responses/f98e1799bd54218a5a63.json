@@ -1,0 +1,170 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/901139?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:13.263Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 37,
+        "name": "Western"
+      }
+    ],
+    "homepage": "",
+    "id": 901139,
+    "imdb_id": "tt0213601",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Delayed in Transit",
+    "overview": "",
+    "popularity": 0.2743,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 1282,
+        "logo_path": null,
+        "name": "Selig Polyscope Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1917-02-03",
+    "revenue": 0,
+    "runtime": 12,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Delayed in Transit",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1052155,
+          "known_for_department": "Acting",
+          "name": "Tom Mix",
+          "original_name": "Tom Mix",
+          "popularity": 0.5988,
+          "profile_path": "/qTaMWapR1sxjk6mdi3tvRsSMNks.jpg",
+          "cast_id": 3,
+          "character": "Dell Hawkins",
+          "credit_id": "619b0706172d7f006503b067",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 63383,
+          "known_for_department": "Acting",
+          "name": "Frank Campeau",
+          "original_name": "Frank Campeau",
+          "popularity": 0.5742,
+          "profile_path": "/pi0A4lSUveDrP5exp4sSITTIQs4.jpg",
+          "cast_id": 4,
+          "character": "Sheriff Smith",
+          "credit_id": "619b0714c0ae360089126320",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3319652,
+          "known_for_department": "Acting",
+          "name": "William Hutchison",
+          "original_name": "William Hutchison",
+          "popularity": 0.2531,
+          "profile_path": "/bNxa76nRsYJaxuoomEzGhLBHD3h.jpg",
+          "cast_id": 5,
+          "character": "Bill Hawkins (as William Hutchinson)",
+          "credit_id": "619b07228de0ae00422d0517",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1470714,
+          "known_for_department": "Acting",
+          "name": "Victoria Forde",
+          "original_name": "Victoria Forde",
+          "popularity": 0.2026,
+          "profile_path": "/eKZ5rsIgqb6xFS0JfIxMFMylDiv.jpg",
+          "cast_id": 6,
+          "character": "Loretta",
+          "credit_id": "619b072f0c0b38002a8a249c",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1157327,
+          "known_for_department": "Directing",
+          "name": "E.A. Martin",
+          "original_name": "E.A. Martin",
+          "popularity": 0.1661,
+          "profile_path": null,
+          "credit_id": "619b06ece2ff320043762e40",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1871243,
+          "known_for_department": "Writing",
+          "name": "Gilson Willets",
+          "original_name": "Gilson Willets",
+          "popularity": 0.2961,
+          "profile_path": null,
+          "credit_id": "619b06f64f9a9900678b424c",
+          "department": "Writing",
+          "job": "Scenario Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1917-02-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

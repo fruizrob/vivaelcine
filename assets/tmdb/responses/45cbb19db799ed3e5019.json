@@ -1,0 +1,700 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/846864?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:32.154Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/19JHF5pkqCg8TQigSVZsTq4gajC.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 846864,
+    "imdb_id": "tt13511518",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Rose",
+    "overview": "Rose, de 78 años, acaba de perder a su amado esposo. Cuando su dolor da paso a un poderoso impulso de vivir su vida, haciéndola darse cuenta de que aún puede redefinirse a sí misma como mujer, todo el equilibrio de la familia se altera.",
+    "popularity": 0.5445,
+    "poster_path": "/9994ieDF2Lp7znBQvesFiBKyTua.jpg",
+    "production_companies": [
+      {
+        "id": 58048,
+        "logo_path": "/pKKVgdznp7uNjrgGbRa7ot2Jwsn.png",
+        "name": "Silex Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 157605,
+        "logo_path": null,
+        "name": "Germaine Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 591,
+        "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+        "name": "France 3 Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 157607,
+        "logo_path": null,
+        "name": "Les Productions du Couscous (FR)",
+        "origin_country": ""
+      },
+      {
+        "id": 49755,
+        "logo_path": "/iom7Z8e1dzoTfCvwq8F4bJvbeIJ.png",
+        "name": "Apollo Films",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2021-12-08",
+    "revenue": 0,
+    "runtime": 102,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rose",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 22,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 9765,
+          "known_for_department": "Acting",
+          "name": "Françoise Fabian",
+          "original_name": "Françoise Fabian",
+          "popularity": 0.7213,
+          "profile_path": "/8osKgSNCZ5xQn40njZwBgDZ20Ss.jpg",
+          "cast_id": 2,
+          "character": "Rose",
+          "credit_id": "60f5f004f90b19005dd2c3a3",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 19116,
+          "known_for_department": "Acting",
+          "name": "Aure Atika",
+          "original_name": "Aure Atika",
+          "popularity": 0.7248,
+          "profile_path": "/1jK3B2T1FTHmM2DPmQt6EzZgAYL.jpg",
+          "cast_id": 3,
+          "character": "Sarah",
+          "credit_id": "60f5f01de72fe8005e39d6bc",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1423713,
+          "known_for_department": "Acting",
+          "name": "Grégory Montel",
+          "original_name": "Grégory Montel",
+          "popularity": 0.6053,
+          "profile_path": "/nImuHSjUgi8v8CaYp5UAZTHbY0j.jpg",
+          "cast_id": 4,
+          "character": "Pierre",
+          "credit_id": "60f5f02c53866e005dbcda7b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1354628,
+          "known_for_department": "Acting",
+          "name": "Damien Chapelle",
+          "original_name": "Damien Chapelle",
+          "popularity": 0.3749,
+          "profile_path": "/djuyCmp6QldjoDNoX0SuO8dyYpd.jpg",
+          "cast_id": 5,
+          "character": "Léon",
+          "credit_id": "60f5f04133a533005f772b4c",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 43436,
+          "known_for_department": "Acting",
+          "name": "Mehdi Nebbou",
+          "original_name": "Mehdi Nebbou",
+          "popularity": 0.9644,
+          "profile_path": "/udhs2gJxR2CSZwrky6C6s8J0Cke.jpg",
+          "cast_id": 7,
+          "character": "Nicolas",
+          "credit_id": "60f5f082c7a7e000477997b5",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 77131,
+          "known_for_department": "Acting",
+          "name": "Pascal Elbé",
+          "original_name": "Pascal Elbé",
+          "popularity": 0.7458,
+          "profile_path": "/hLjPLuVHhMC10LcOTcxvB5vtfRh.jpg",
+          "cast_id": 6,
+          "character": "Laurent",
+          "credit_id": "60f5f07d4c2592002d27866f",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6550,
+          "known_for_department": "Acting",
+          "name": "Anne Suarez",
+          "original_name": "Anne Suarez",
+          "popularity": 0.6253,
+          "profile_path": "/rsrFfde9Ourb9i2oXuiiolQHuQD.jpg",
+          "cast_id": 26,
+          "character": "Sophie",
+          "credit_id": "6257058a97a4e60051482337",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 591643,
+          "known_for_department": "Directing",
+          "name": "Bernard Murat",
+          "original_name": "Bernard Murat",
+          "popularity": 0.5616,
+          "profile_path": "/gniuqvF49lxzL2JxyAyk1YETAGN.jpg",
+          "cast_id": 27,
+          "character": "Philippe",
+          "credit_id": "625705e419ab590066dff89c",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 224150,
+          "known_for_department": "Acting",
+          "name": "Michaël Abiteboul",
+          "original_name": "Michaël Abiteboul",
+          "popularity": 0.4643,
+          "profile_path": "/xQLvEUfXjUK4u9wYlHzAn8pIuTE.jpg",
+          "cast_id": 28,
+          "character": "Olivier",
+          "credit_id": "625705f7a5890200522e9a1c",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 19936,
+          "known_for_department": "Acting",
+          "name": "Michèle Moretti",
+          "original_name": "Michèle Moretti",
+          "popularity": 0.2815,
+          "profile_path": "/onmKHDPvnCtRRkzYY0qxb2ZyX5a.jpg",
+          "cast_id": 29,
+          "character": "Marceline",
+          "credit_id": "62570605a0b690006824c62a",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3505265,
+          "known_for_department": "Acting",
+          "name": "Delphine Horvilleur",
+          "original_name": "Delphine Horvilleur",
+          "popularity": 0.1912,
+          "profile_path": "/vKdTD8yauNYFAeJskF49YJE6Lco.jpg",
+          "cast_id": 30,
+          "character": "Rabbin",
+          "credit_id": "62570624d400f30050f939c7",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3505266,
+          "known_for_department": "Acting",
+          "name": "Julia Dumont",
+          "original_name": "Julia Dumont",
+          "popularity": 0.1687,
+          "profile_path": "/oeJtNIy0wmUCNc0BdmneSzui0zM.jpg",
+          "cast_id": 31,
+          "character": "Annaëlle",
+          "credit_id": "62570638a0b690009f3a1d55",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1433042,
+          "known_for_department": "Writing",
+          "name": "Déborah Saïag",
+          "original_name": "Déborah Saïag",
+          "popularity": 0.1296,
+          "profile_path": "/sDuQqzEQ5zidyEWKD7vjVDi22Az.jpg",
+          "cast_id": 32,
+          "character": "Tsilla",
+          "credit_id": "6257064ac439c000519dda62",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 54341,
+          "known_for_department": "Acting",
+          "name": "Bouraouïa Marzouk",
+          "original_name": "Bouraouïa Marzouk",
+          "popularity": 0.1343,
+          "profile_path": "/y4kk5qJONnT4YYrGd74Avk6aA2S.jpg",
+          "cast_id": 33,
+          "character": "Jojo",
+          "credit_id": "6257066897a4e600678ba6f6",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1179906,
+          "known_for_department": "Writing",
+          "name": "Pénélope Bagieu",
+          "original_name": "Pénélope Bagieu",
+          "popularity": 0.4052,
+          "profile_path": "/dyOW82XJoynXvnBukwQwnQTV1Wl.jpg",
+          "cast_id": 34,
+          "character": "Dinner guest",
+          "credit_id": "62fab009a313b80084e79431",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3238274,
+          "known_for_department": "Art",
+          "name": "Adèle Van Reeth",
+          "original_name": "Adèle Van Reeth",
+          "popularity": 0.1649,
+          "profile_path": "/b6QKztMcTWjuN8bvoUutHDyPwFw.jpg",
+          "cast_id": 35,
+          "character": "Dinner guest",
+          "credit_id": "62fab023cb802800863474d7",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1433044,
+          "known_for_department": "Acting",
+          "name": "Isabelle Vitari",
+          "original_name": "Isabelle Vitari",
+          "popularity": 0.3584,
+          "profile_path": "/dQFxzRXX2koVBq9Rly3k7wHq4xU.jpg",
+          "cast_id": 36,
+          "character": "Dôme guest",
+          "credit_id": "62fab038cb8028008128fbb4",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1084631,
+          "known_for_department": "Acting",
+          "name": "Mika Tard",
+          "original_name": "Mika Tard",
+          "popularity": 0.3018,
+          "profile_path": "/uv4GKTr3DN7gfnhl3JbGDtI6I1G.jpg",
+          "cast_id": 37,
+          "character": "Dôme guest",
+          "credit_id": "62fab051a3d027007dada798",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 10907,
+          "known_for_department": "Production",
+          "name": "Stéphane Foenkinos",
+          "original_name": "Stéphane Foenkinos",
+          "popularity": 0.6755,
+          "profile_path": "/56U1wRR08sg4J7mVviKLHn5IUSU.jpg",
+          "cast_id": 38,
+          "character": "Stéphane, dinner guest",
+          "credit_id": "62fab06dffc9de007fea104f",
+          "order": 18
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1681637,
+          "known_for_department": "Production",
+          "name": "Judith Nora",
+          "original_name": "Judith Nora",
+          "popularity": 0.2364,
+          "profile_path": null,
+          "credit_id": "60f5f09753866e005dbcdb89",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2024277,
+          "known_for_department": "Art",
+          "name": "Léa Philippon",
+          "original_name": "Léa Philippon",
+          "popularity": 0.1352,
+          "profile_path": null,
+          "credit_id": "60f5f0a933a5330046e854e2",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1450453,
+          "known_for_department": "Acting",
+          "name": "Aurélie Saada",
+          "original_name": "Aurélie Saada",
+          "popularity": 0.2443,
+          "profile_path": "/hkWOrBhXk1E1sRxWFTQYeOwoxFP.jpg",
+          "credit_id": "60f5efdd8258fc002d8f43e8",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1297458,
+          "known_for_department": "Crew",
+          "name": "Martin De Chabaneix",
+          "original_name": "Martin De Chabaneix",
+          "popularity": 0.1901,
+          "profile_path": null,
+          "credit_id": "60f5f0b1f90b19002d1b8165",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 939459,
+          "known_for_department": "Production",
+          "name": "Priscilla Bertin",
+          "original_name": "Priscilla Bertin",
+          "popularity": 0.3545,
+          "profile_path": null,
+          "credit_id": "60f5f08fd7cd06007f6bbd5c",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2209604,
+          "known_for_department": "Production",
+          "name": "Elsa Rodde",
+          "original_name": "Elsa Rodde",
+          "popularity": 0.0825,
+          "profile_path": null,
+          "credit_id": "60f5f09f12c6040074476d08",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1194562,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Marion Moules",
+          "original_name": "Marion Moules",
+          "popularity": 0.2136,
+          "profile_path": null,
+          "credit_id": "60f5f0eaaf58cb005e50ee12",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 47819,
+          "known_for_department": "Sound",
+          "name": "Marc Doisne",
+          "original_name": "Marc Doisne",
+          "popularity": 0.2661,
+          "profile_path": "/gQbJF08CayRWuCFWhYp3CkhkBtD.jpg",
+          "credit_id": "60f5f135c439c0005c27adbc",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2413630,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Matthieu Camblor",
+          "original_name": "Matthieu Camblor",
+          "popularity": 0.077,
+          "profile_path": null,
+          "credit_id": "60f5f0f78258fc007396bc44",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1959656,
+          "known_for_department": "Sound",
+          "name": "Romain de Gueltzl",
+          "original_name": "Romain de Gueltzl",
+          "popularity": 0.1627,
+          "profile_path": null,
+          "credit_id": "60f5f0c1af58cb00750121cd",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1464996,
+          "known_for_department": "Editing",
+          "name": "Francis Vesin",
+          "original_name": "Francis Vesin",
+          "popularity": 0.1884,
+          "profile_path": null,
+          "credit_id": "60f5f0b95545ca0044bd42dd",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1574456,
+          "known_for_department": "Sound",
+          "name": "Nicolas Bouvet",
+          "original_name": "Nicolas Bouvet",
+          "popularity": 0.2149,
+          "profile_path": "/884jYMtmsGrQz6upU2AOAMqftMI.jpg",
+          "credit_id": "6140983185c0a20043c72b7c",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1450453,
+          "known_for_department": "Acting",
+          "name": "Aurélie Saada",
+          "original_name": "Aurélie Saada",
+          "popularity": 0.2443,
+          "profile_path": "/hkWOrBhXk1E1sRxWFTQYeOwoxFP.jpg",
+          "credit_id": "61cdc1159b6e47005df003d4",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1450453,
+          "known_for_department": "Acting",
+          "name": "Aurélie Saada",
+          "original_name": "Aurélie Saada",
+          "popularity": 0.2443,
+          "profile_path": "/hkWOrBhXk1E1sRxWFTQYeOwoxFP.jpg",
+          "credit_id": "61cdc140b6cff10067819b4e",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1450453,
+          "known_for_department": "Acting",
+          "name": "Aurélie Saada",
+          "original_name": "Aurélie Saada",
+          "popularity": 0.2443,
+          "profile_path": "/hkWOrBhXk1E1sRxWFTQYeOwoxFP.jpg",
+          "credit_id": "61cdc1262efe4e0063f36b2e",
+          "department": "Writing",
+          "job": "Idea"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2233751,
+          "known_for_department": "Writing",
+          "name": "Yaël Langmann",
+          "original_name": "Yaël Langmann",
+          "popularity": 0.3583,
+          "profile_path": null,
+          "credit_id": "61cdc11dfdf8b7008bed4415",
+          "department": "Writing",
+          "job": "Screenplay"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2024-01-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Jewish International Film Festival ",
+              "release_date": "2025-10-19T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "M",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-02-11T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Locarno Film Festival",
+              "release_date": "2021-08-05T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Festival du Film Francophone d'Angoulême",
+              "release_date": "2021-08-25T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2021-12-08T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "VOD",
+              "release_date": "2022-04-12T00:00:00.000Z",
+              "type": 4
+            },
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "MyCanal",
+              "release_date": "2022-08-19T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Warsaw Jewish Film Festival",
+              "release_date": "2022-11-20T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Istanbul Film Festival",
+              "release_date": "2022-04-12T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Boston Jewish Film Festival",
+              "release_date": "2022-11-06T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2025-01-24T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

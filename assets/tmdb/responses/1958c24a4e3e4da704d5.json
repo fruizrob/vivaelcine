@@ -1,0 +1,190 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1440943?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:18.879Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/gf3FM9e3PFWvGCQUyErfswpxL34.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1440943,
+    "imdb_id": "tt35919728",
+    "origin_country": [
+      "NL"
+    ],
+    "original_language": "es",
+    "original_title": "Alias Julián",
+    "overview": "",
+    "popularity": 0.1503,
+    "poster_path": "/tkcNabaleWTEKiHQCZ3TsQLmA2X.jpg",
+    "production_companies": [
+      {
+        "id": 132408,
+        "logo_path": "/yKWqYoMYXd8O5H0xT5zbJ6M3BAu.png",
+        "name": "Amsterdams Fonds voor de Kunst",
+        "origin_country": "NL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "release_date": "2025-03-09",
+    "revenue": 0,
+    "runtime": 45,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Alias Julián",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5274003,
+          "known_for_department": "Acting",
+          "name": "Efraín Jesús Espinoza",
+          "original_name": "Efraín Jesús Espinoza",
+          "popularity": 0.0441,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Self",
+          "credit_id": "67c0fc95e4a5b8bf00c8f7bc",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5274004,
+          "known_for_department": "Acting",
+          "name": "Matías Santecchia",
+          "original_name": "Matías Santecchia",
+          "popularity": 0.0951,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Voice off",
+          "credit_id": "67c0fca9b60bb98397359d11",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5274005,
+          "known_for_department": "Directing",
+          "name": "Guillermo España",
+          "original_name": "Guillermo España",
+          "popularity": 0.107,
+          "profile_path": null,
+          "credit_id": "67c0fccbc153ece2e2a25a51",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5274006,
+          "known_for_department": "Writing",
+          "name": "Alvaro de la Iglesia",
+          "original_name": "Alvaro de la Iglesia",
+          "popularity": 0.2006,
+          "profile_path": null,
+          "credit_id": "67c0fcf2b60bb98397359d27",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5274008,
+          "known_for_department": "Sound",
+          "name": "Santiago Sietecase",
+          "original_name": "Santiago Sietecase",
+          "popularity": 0.0622,
+          "profile_path": null,
+          "credit_id": "67c0fd34b60bb98397359d48",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5274005,
+          "known_for_department": "Directing",
+          "name": "Guillermo España",
+          "original_name": "Guillermo España",
+          "popularity": 0.107,
+          "profile_path": null,
+          "credit_id": "67c10201b60bb98397359e69",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5274006,
+          "known_for_department": "Writing",
+          "name": "Alvaro de la Iglesia",
+          "original_name": "Alvaro de la Iglesia",
+          "popularity": 0.2006,
+          "profile_path": null,
+          "credit_id": "67c1020fa1ddf53f4dc8ba2e",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5274005,
+          "known_for_department": "Directing",
+          "name": "Guillermo España",
+          "original_name": "Guillermo España",
+          "popularity": 0.107,
+          "profile_path": null,
+          "credit_id": "67c10283a1ddf53f4dc8ba50",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2025-03-09T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

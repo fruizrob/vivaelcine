@@ -1,0 +1,175 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/484768?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:11.544Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 484768,
+    "imdb_id": "tt0295484",
+    "origin_country": [
+      "AL"
+    ],
+    "original_language": "sq",
+    "original_title": "Një vonesë e vogël",
+    "overview": "",
+    "popularity": 0.3615,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 183204,
+        "logo_path": null,
+        "name": "Albfilm",
+        "origin_country": "AL"
+      },
+      {
+        "id": 29695,
+        "logo_path": null,
+        "name": "Shqipëria e Re",
+        "origin_country": "AL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AL",
+        "name": "Albania"
+      }
+    ],
+    "release_date": "1983-03-01",
+    "revenue": 0,
+    "runtime": 47,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Albanian",
+        "iso_639_1": "sq",
+        "name": "shqip"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Një vonesë e vogël",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1306495,
+          "known_for_department": "Acting",
+          "name": "Violeta Manushi",
+          "original_name": "Violeta Manushi",
+          "popularity": 0.3934,
+          "profile_path": "/4HJONjBWJjKdkKZmUkBYEEe21vM.jpg",
+          "cast_id": 1,
+          "character": "Një plakë",
+          "credit_id": "59fb3477c3a3681adf0103f0",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1307180,
+          "known_for_department": "Acting",
+          "name": "Ilia Shyti",
+          "original_name": "Ilia Shyti",
+          "popularity": 0.2033,
+          "profile_path": "/eHduBElsiTCkP1hFEKL3KUzgjQF.jpg",
+          "cast_id": 2,
+          "character": "Mësuesi pensionist",
+          "credit_id": "59fb3481c3a3681aa5012760",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1837056,
+          "known_for_department": "Acting",
+          "name": "Marjeta Larja",
+          "original_name": "Marjeta Larja",
+          "popularity": 0.1993,
+          "profile_path": "/47TTPYmxy5aFeLorzjm3IU4NlrE.jpg",
+          "cast_id": 5,
+          "character": "Mësuesja",
+          "credit_id": "5a13a86b9251417269000a90",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1307177,
+          "known_for_department": "Directing",
+          "name": "Xhanfise Keko",
+          "original_name": "Xhanfise Keko",
+          "popularity": 0.1736,
+          "profile_path": "/yz23kzO3uEfYDcUYgscnslycpNL.jpg",
+          "credit_id": "59fb3493c3a3681a6401079b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1307177,
+          "known_for_department": "Directing",
+          "name": "Xhanfise Keko",
+          "original_name": "Xhanfise Keko",
+          "popularity": 0.1736,
+          "profile_path": "/yz23kzO3uEfYDcUYgscnslycpNL.jpg",
+          "credit_id": "59fb3499925141137f01154c",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3723244,
+          "known_for_department": "Writing",
+          "name": "Bashkim Hoxha",
+          "original_name": "Bashkim Hoxha",
+          "popularity": 0.0499,
+          "profile_path": null,
+          "credit_id": "66dac077d49ec36b1a34d16e",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1983-03-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

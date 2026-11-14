@@ -1,0 +1,148 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1683512?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:34.240Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 1683512,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Graveyard Rose",
+    "overview": "",
+    "popularity": 0.0565,
+    "poster_path": "/Ks53jBjiYrEGru8xhwELTuVaLM.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-04-27",
+    "revenue": 0,
+    "runtime": 7,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Graveyard Rose",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6173393,
+          "known_for_department": "Acting",
+          "name": "Amani Hope",
+          "original_name": "Amani Hope",
+          "popularity": 0.0567,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Lucy",
+          "credit_id": "69f02180717ac3ed66abbfbd",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6173400,
+          "known_for_department": "Acting",
+          "name": "Whitman Jordan",
+          "original_name": "Whitman Jordan",
+          "popularity": 0.049,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Frankie",
+          "credit_id": "69f02245021fc044af131172",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6173405,
+          "known_for_department": "Directing",
+          "name": "Claire Collins",
+          "original_name": "Claire Collins",
+          "popularity": 0.094,
+          "profile_path": "/8JeP33WEQKyjF9TEM2BPCCr9L87.jpg",
+          "credit_id": "69f023541b97618b88a894e6",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6173407,
+          "known_for_department": "Directing",
+          "name": "Fiona McGann",
+          "original_name": "Fiona McGann",
+          "popularity": 0.0434,
+          "profile_path": null,
+          "credit_id": "69f023ffadc662b842d77d2e",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6173405,
+          "known_for_department": "Directing",
+          "name": "Claire Collins",
+          "original_name": "Claire Collins",
+          "popularity": 0.094,
+          "profile_path": "/8JeP33WEQKyjF9TEM2BPCCr9L87.jpg",
+          "credit_id": "69f3531eac8cf872159997af",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2026-04-27T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

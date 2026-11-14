@@ -1,0 +1,297 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/379937?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:27.122Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 379937,
+    "imdb_id": "tt0149693",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Apache on the County Seat",
+    "overview": "",
+    "popularity": 0.5666,
+    "poster_path": "/oedXZkK6iyLhJrBIJqko2xsVuAN.jpg",
+    "production_companies": [
+      {
+        "id": 8402,
+        "logo_path": null,
+        "name": "DePatie-Freleng Enterprises",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1973-06-16",
+    "revenue": 0,
+    "runtime": 6,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Apache on the County Seat",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 33482,
+          "known_for_department": "Acting",
+          "name": "Bob Holt",
+          "original_name": "Bob Holt",
+          "popularity": 0.5827,
+          "profile_path": "/8u2FSZRgWYIfFpAdmEggVq5jevv.jpg",
+          "cast_id": 2,
+          "character": "Hoot Kloot / Fester / Indians (voice)",
+          "credit_id": "56aaa44fc3a3681c370004b4",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 121216,
+          "known_for_department": "Visual Effects",
+          "name": "Hawley Pratt",
+          "original_name": "Hawley Pratt",
+          "popularity": 0.4956,
+          "profile_path": "/eWILFLR1cCUbstcHk8pIJibpmn5.jpg",
+          "credit_id": "56aaa41ec3a3681c5c000585",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 148151,
+          "known_for_department": "Writing",
+          "name": "John W. Dunn",
+          "original_name": "John W. Dunn",
+          "popularity": 0.49,
+          "profile_path": null,
+          "credit_id": "56aaa4329251417e11000568",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 34732,
+          "known_for_department": "Production",
+          "name": "David H. DePatie",
+          "original_name": "David H. DePatie",
+          "popularity": 0.5323,
+          "profile_path": null,
+          "credit_id": "68960e0fb13db8eb70695fa8",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 930633,
+          "known_for_department": "Directing",
+          "name": "Friz Freleng",
+          "original_name": "Friz Freleng",
+          "popularity": 0.8846,
+          "profile_path": "/xmhr2IEs1wS8u5QY07fCrGEatva.jpg",
+          "credit_id": "68960e19651609a6d599acee",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 558644,
+          "known_for_department": "Sound",
+          "name": "Doug Goodwin",
+          "original_name": "Doug Goodwin",
+          "popularity": 0.1621,
+          "profile_path": null,
+          "credit_id": "68960e2ca1a4c1d14428aa8d",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1088275,
+          "known_for_department": "Production",
+          "name": "Lee Gunther",
+          "original_name": "Lee Gunther",
+          "popularity": 0.168,
+          "profile_path": null,
+          "credit_id": "68960e3957116f1c077f7247",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1142773,
+          "known_for_department": "Visual Effects",
+          "name": "Harry Love",
+          "original_name": "Harry Love",
+          "popularity": 0.1543,
+          "profile_path": null,
+          "credit_id": "68960e48c25f0eda8c7f7299",
+          "department": "Production",
+          "job": "Production Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1276397,
+          "known_for_department": "Camera",
+          "name": "Larry Hogan",
+          "original_name": "Larry Hogan",
+          "popularity": 0.1216,
+          "profile_path": null,
+          "credit_id": "68960e557ecb4865b57ff88a",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 566892,
+          "known_for_department": "Directing",
+          "name": "Ray Lee",
+          "original_name": "Ray Lee",
+          "popularity": 0.3535,
+          "profile_path": null,
+          "credit_id": "68960e68e975c79bbba3423c",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1113180,
+          "known_for_department": "Visual Effects",
+          "name": "Warren Batchelder",
+          "original_name": "Warren Batchelder",
+          "popularity": 0.1847,
+          "profile_path": null,
+          "credit_id": "68960e74f50b06e6f71e9849",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1110468,
+          "known_for_department": "Visual Effects",
+          "name": "Manny Gould",
+          "original_name": "Manny Gould",
+          "popularity": 0.2951,
+          "profile_path": null,
+          "credit_id": "68960e840d2104cc4e07ca28",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 87170,
+          "known_for_department": "Visual Effects",
+          "name": "Bob Richardson",
+          "original_name": "Bob Richardson",
+          "popularity": 0.4574,
+          "profile_path": "/8Vln8INxhyYrTURoFfakCQmpS5n.jpg",
+          "credit_id": "68960e920d49cd86557f7257",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 222653,
+          "known_for_department": "Art",
+          "name": "Richard H. Thomas",
+          "original_name": "Richard H. Thomas",
+          "popularity": 0.1594,
+          "profile_path": null,
+          "credit_id": "68960e9e9bf928e740a331ab",
+          "department": "Art",
+          "job": "Background Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1015843,
+          "known_for_department": "Visual Effects",
+          "name": "Dick Ung",
+          "original_name": "Dick Ung",
+          "popularity": 0.1781,
+          "profile_path": null,
+          "credit_id": "68960ea80d2104cc4e07ca2b",
+          "department": "Directing",
+          "job": "Layout"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 555752,
+          "known_for_department": "Visual Effects",
+          "name": "Don Williams",
+          "original_name": "Don Williams",
+          "popularity": 0.2401,
+          "profile_path": null,
+          "credit_id": "68960ec940f79a883c28aac9",
+          "department": "Visual Effects",
+          "job": "Animation"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "1973-06-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Sheriff Hoot Kloot: Apache on the County Seat",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

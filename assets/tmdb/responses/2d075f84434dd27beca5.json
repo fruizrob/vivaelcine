@@ -1,0 +1,84 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1005813?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:07.363Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1005813,
+    "imdb_id": null,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Slow Delay",
+    "overview": "",
+    "popularity": 0.5624,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2018-06-02",
+    "revenue": 0,
+    "runtime": 17,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Slow Delay",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2379773,
+          "known_for_department": "Writing",
+          "name": "Therese Henningsen",
+          "original_name": "Therese Henningsen",
+          "popularity": 0.235,
+          "profile_path": null,
+          "credit_id": "62e2d54ff0647c005a70431b",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Whitstable Biennale 2018",
+              "release_date": "2018-06-02T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

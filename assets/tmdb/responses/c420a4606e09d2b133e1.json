@@ -1,0 +1,179 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1337401?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:44.945Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/2E3Ra97ULhhqp7u1mUJjj3JjLWf.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1337401,
+    "imdb_id": "tt33309934",
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_title": "Salsa Ni L",
+    "overview": "L, una atractiva profesora de baile, elige a Rey, un rico hombre de negocios, en lugar de a Lukas, su compañero de baile. Pero cuando Lukas siente que algo no anda bien, sabe que L está en grave peligro.",
+    "popularity": 1.0311,
+    "poster_path": "/nPs4YHLydIw0bmNERg85ydrUJ0W.jpg",
+    "production_companies": [
+      {
+        "id": 149142,
+        "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+        "name": "Vivamax",
+        "origin_country": "PH"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PH",
+        "name": "Philippines"
+      }
+    ],
+    "release_date": "2024-10-01",
+    "revenue": 0,
+    "runtime": 60,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Tagalog",
+        "iso_639_1": "tl",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Salsal por L",
+    "video": false,
+    "vote_average": 4.2,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3371804,
+          "known_for_department": "Acting",
+          "name": "Christine Bermas",
+          "original_name": "Christine Bermas",
+          "popularity": 3.748,
+          "profile_path": "/zdFbplqeZbzgCJEJfnj1pPqVVH2.jpg",
+          "cast_id": 1,
+          "character": "Lady Love \"L\"",
+          "credit_id": "66c72c0616c56a588e58510f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2939482,
+          "known_for_department": "Acting",
+          "name": "Sean de Guzman",
+          "original_name": "Sean de Guzman",
+          "popularity": 0.5775,
+          "profile_path": "/4mbWqUpMrzSCGKFCgWli3UUR3Bv.jpg",
+          "cast_id": 2,
+          "character": "Lukas",
+          "credit_id": "66c72c14561d1083eef29ba4",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1215113,
+          "known_for_department": "Acting",
+          "name": "Jeffrey Hidalgo",
+          "original_name": "Jeffrey Hidalgo",
+          "popularity": 0.3309,
+          "profile_path": "/yS2UGRDy16w3r0LV46SjWi1DHEO.jpg",
+          "cast_id": 3,
+          "character": "Allan",
+          "credit_id": "66c72c264f740c8ed3918d28",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4376297,
+          "known_for_department": "Acting",
+          "name": "Jonica Lazo",
+          "original_name": "Jonica Lazo",
+          "popularity": 0.3986,
+          "profile_path": "/mxOqs2l9J0g2ZMZgKWZnOGlaKwT.jpg",
+          "cast_id": 4,
+          "character": "Zinia",
+          "credit_id": "66c72c2f3b4229be80f29c22",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5210791,
+          "known_for_department": "Writing",
+          "name": "Er Astrologo",
+          "original_name": "Er Astrologo",
+          "popularity": 0.1737,
+          "profile_path": null,
+          "credit_id": "6799fe9eb09359e5cca973f6",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4207773,
+          "known_for_department": "Directing",
+          "name": "Rodante Pajemna Jr.",
+          "original_name": "Rodante Pajemna Jr.",
+          "popularity": 0.6289,
+          "profile_path": "/db1ocKoW8iXE6BrjnMnW6zr7eLS.jpg",
+          "credit_id": "67f3fb81e1d5c23c6ed99ac3",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "19",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "2026-VF01576",
+              "release_date": "2026-05-29T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PH",
+          "release_dates": [
+            {
+              "certification": "R-18",
+              "descriptors": [],
+              "iso_639_1": "tl",
+              "note": "",
+              "release_date": "2024-10-01T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

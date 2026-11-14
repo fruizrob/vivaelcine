@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Grandma+Nai+who+played+favorites&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:17.480Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/xAU2tJuJYwgVMRh7uvDWQofGBbd.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1403490,
+        "title": "La abuela Nai, que tenía favoritos",
+        "original_language": "km",
+        "original_title": "ចៅសំណព្វចិត្ត",
+        "overview": "En una visita a su familia, la abuela Nai regresa del más allá al enterarse de que su nieto gay está a punto de comprometerse con una mujer.",
+        "popularity": 0.2663,
+        "poster_path": "/u9w6Xki5q1fAESEa3gUiGbuMVQp.jpg",
+        "release_date": "2025-01-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

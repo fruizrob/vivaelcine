@@ -1,0 +1,95 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/363915?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:23.232Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 363915,
+    "imdb_id": "tt7050316",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "A Voyage on the North Sea",
+    "overview": "",
+    "popularity": 0.1098,
+    "poster_path": "/tu80POtKlzhQd5Dr0z84VlVEmw7.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      }
+    ],
+    "release_date": "1974-01-01",
+    "revenue": 0,
+    "runtime": 4,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "A Voyage on the North Sea",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1353486,
+          "known_for_department": "Directing",
+          "name": "Marcel Broodthaers",
+          "original_name": "Marcel Broodthaers",
+          "popularity": 0.154,
+          "profile_path": null,
+          "credit_id": "561ed23ec3a3680e20000e24",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1974-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "FR",
+          "title": "Un voyage en mer du Nord",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

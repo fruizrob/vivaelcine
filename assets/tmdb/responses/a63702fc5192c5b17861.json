@@ -1,0 +1,214 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1703823?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:32.515Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/ysjXV4F5iwixkpagmhjHtZj4vXl.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 1703823,
+    "imdb_id": null,
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "fr",
+    "original_title": "Presque rose",
+    "overview": "",
+    "popularity": 0.5161,
+    "poster_path": "/mWJBGFGO5d46ZMzXGBi7FQG9R1b.jpg",
+    "production_companies": [
+      {
+        "id": 96451,
+        "logo_path": "/kOFGD0xg4i3PG0QtPi9GZulDdcq.png",
+        "name": "Couronne Nord",
+        "origin_country": "CA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2026-09-14",
+    "revenue": 0,
+    "runtime": 15,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Presque rose",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2744507,
+          "known_for_department": "Acting",
+          "name": "Maïka Ferron",
+          "original_name": "Maïka Ferron",
+          "popularity": 0.2682,
+          "profile_path": "/2geqm7gmA72R1bNNoI7jAaQwa9x.jpg",
+          "cast_id": 1,
+          "character": "Solène",
+          "credit_id": "6a1875404276bef83a67a181",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1192789,
+          "known_for_department": "Acting",
+          "name": "Frédéric Lemay",
+          "original_name": "Frédéric Lemay",
+          "popularity": 0.2707,
+          "profile_path": "/hILYdQXft7xbQzLjmdZixUNIWtt.jpg",
+          "cast_id": 2,
+          "character": "Client",
+          "credit_id": "6a18755153f4ce6fc567a136",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2257455,
+          "known_for_department": "Directing",
+          "name": "Justine Prince",
+          "original_name": "Justine Prince",
+          "popularity": 0.0969,
+          "profile_path": "/ajkcRN4c1dgvm3ipTwLERBGuHAc.jpg",
+          "credit_id": "6a18756e37750db87b1bedb5",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2541834,
+          "known_for_department": "Camera",
+          "name": "Xavier Bossé",
+          "original_name": "Xavier Bossé",
+          "popularity": 0.073,
+          "profile_path": null,
+          "credit_id": "6a18757c3750be34e4634707",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2544834,
+          "known_for_department": "Directing",
+          "name": "Romane Lepage",
+          "original_name": "Romane Lepage",
+          "popularity": 0.2307,
+          "profile_path": "/fpLd4Kpgq8QOhduZxCp7Be12uZH.jpg",
+          "credit_id": "6a1875928e1bdb1966634849",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2257456,
+          "known_for_department": "Directing",
+          "name": "Louis Lachance",
+          "original_name": "Louis Lachance",
+          "popularity": 0.0493,
+          "profile_path": null,
+          "credit_id": "6a1875b21a8049931c730f4f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2090940,
+          "known_for_department": "Production",
+          "name": "Mérédith Gonzalez-Bayard",
+          "original_name": "Mérédith Gonzalez-Bayard",
+          "popularity": 0.2259,
+          "profile_path": "/5Flf2r62AVkLcR7Qey2Owol65bU.jpg",
+          "credit_id": "6a1875c64276bef83a67a18d",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2109379,
+          "known_for_department": "Acting",
+          "name": "Antoine Rivard-Nolin",
+          "original_name": "Antoine Rivard-Nolin",
+          "popularity": 0.1541,
+          "profile_path": "/i3SfWqGylv1zvcVMThcjhlOGril.jpg",
+          "credit_id": "6a1875d7e3a310144167a322",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3697524,
+          "known_for_department": "Art",
+          "name": "Kenny Dorvil",
+          "original_name": "Kenny Dorvil",
+          "popularity": 0.1242,
+          "profile_path": "/xkxij4URI5ZdIGw3OoHP6d5rmqn.jpg",
+          "credit_id": "6a1875ec7c124b082373120f",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2541835,
+          "known_for_department": "Sound",
+          "name": "Christophe Voyer",
+          "original_name": "Christophe Voyer",
+          "popularity": 0.0745,
+          "profile_path": null,
+          "credit_id": "6a187607e3a310144167a32e",
+          "department": "Crew",
+          "job": "Mixing Engineer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-09-14T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

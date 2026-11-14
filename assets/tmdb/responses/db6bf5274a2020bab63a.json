@@ -1,0 +1,178 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1281066?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:45.091Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/qp27iCujemlXDtBT40eBIxAHeGN.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "https://blog.filmstofestivals.com/salsa-7476/",
+    "id": 1281066,
+    "imdb_id": "tt32207453",
+    "origin_country": [
+      "CO"
+    ],
+    "original_language": "es",
+    "original_title": "¡Salsa!",
+    "overview": "Margarita, una mujer libre y apasionada por la salsa, se aleja de su matrimonio en busca de su propia identidad. Su camino se cruza con el de Liana, una turista sorda. Al ver en Liana un mundo ajeno al suyo, Margarita encuentra la compañía perfecta para explorar su verdadero ser y decide enseñarle a Liana a bailar, entendiendo su sordera como una oportunidad para un tipo de comunicación diferente, táctil y corpórea.",
+    "popularity": 0.3051,
+    "poster_path": "/dp5Vqu9zw9az38d7aqnYV64LhTQ.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CO",
+        "name": "Colombia"
+      }
+    ],
+    "release_date": "2024-06-07",
+    "revenue": 0,
+    "runtime": 14,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "¡Salsa!",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3870270,
+          "known_for_department": "Acting",
+          "name": "Saray Nohemi Rebolledo Ospino",
+          "original_name": "Saray Nohemi Rebolledo Ospino",
+          "popularity": 0.229,
+          "profile_path": "/gAzgiaz6OUk2kmUvvwjVU3O1E4Z.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "662d163bc3aa3f012bfcd782",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4678605,
+          "known_for_department": "Acting",
+          "name": "Isabelle Troup",
+          "original_name": "Isabelle Troup",
+          "popularity": 0.0473,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "662d164660c7510123646b33",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3916387,
+          "known_for_department": "Directing",
+          "name": "Antonina Kerguelén Román",
+          "original_name": "Antonina Kerguelén Román",
+          "popularity": 0.0539,
+          "profile_path": null,
+          "credit_id": "662d16265b9508012a555d3d",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3916387,
+          "known_for_department": "Directing",
+          "name": "Antonina Kerguelén Román",
+          "original_name": "Antonina Kerguelén Román",
+          "popularity": 0.0539,
+          "profile_path": null,
+          "credit_id": "662d811fc56d2d0123cc749f",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3916387,
+          "known_for_department": "Directing",
+          "name": "Antonina Kerguelén Román",
+          "original_name": "Antonina Kerguelén Román",
+          "popularity": 0.0539,
+          "profile_path": null,
+          "credit_id": "662d8105c56d2d0123cc7499",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5483301,
+          "known_for_department": "Camera",
+          "name": "Mateo López",
+          "original_name": "Mateo López",
+          "popularity": 0.0691,
+          "profile_path": null,
+          "credit_id": "68406b2dc67bb371a1ad925c",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Pink Screens Festival (Brussels)",
+              "release_date": "2025-11-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Tribeca  Film Festival",
+              "release_date": "2024-06-07T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

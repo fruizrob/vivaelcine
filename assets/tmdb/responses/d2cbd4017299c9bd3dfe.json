@@ -1,0 +1,219 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/91220?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:43.153Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 91220,
+    "imdb_id": "tt0085331",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "China Rose",
+    "overview": "",
+    "popularity": 0.7433,
+    "poster_path": "/3vN73CeqF87rmj4TaYM13glBb7p.jpg",
+    "production_companies": [
+      {
+        "id": 124448,
+        "logo_path": null,
+        "name": "CBS Entertainment Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 224653,
+        "logo_path": null,
+        "name": "Halcyon Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1983-10-08",
+    "revenue": 0,
+    "runtime": 100,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "China Rose",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 3,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 862,
+          "known_for_department": "Acting",
+          "name": "George C. Scott",
+          "original_name": "George C. Scott",
+          "popularity": 1.5043,
+          "profile_path": "/iZON8v2ExgNzY943W0UDWXeRZrz.jpg",
+          "cast_id": 2,
+          "character": "Burton Allen",
+          "credit_id": "55f9c65dc3a368588b0004c9",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 46597,
+          "known_for_department": "Acting",
+          "name": "Ali MacGraw",
+          "original_name": "Ali MacGraw",
+          "popularity": 0.8654,
+          "profile_path": "/cng3cjxhfA4xNomdN9cIoipryne.jpg",
+          "cast_id": 3,
+          "character": "Rose Arrow",
+          "credit_id": "55f9c668925141787b000507",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2712,
+          "known_for_department": "Acting",
+          "name": "Michael Biehn",
+          "original_name": "Michael Biehn",
+          "popularity": 2.5177,
+          "profile_path": "/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg",
+          "cast_id": 4,
+          "character": "Daniel Allen",
+          "credit_id": "55f9c676925141786e0004db",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 129452,
+          "known_for_department": "Acting",
+          "name": "Denis Lill",
+          "original_name": "Denis Lill",
+          "popularity": 0.8563,
+          "profile_path": "/9tbJGo2OC4dzr8Mpk3QM0sMfdMb.jpg",
+          "cast_id": 5,
+          "character": "Supt. George",
+          "credit_id": "55f9c687c3a368587b000573",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 20904,
+          "known_for_department": "Acting",
+          "name": "James Hong",
+          "original_name": "James Hong",
+          "popularity": 2.4863,
+          "profile_path": "/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg",
+          "cast_id": 7,
+          "character": "Professor Chen",
+          "credit_id": "55f9c6b192514178750004d3",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1511003,
+          "known_for_department": "Acting",
+          "name": "Carolyn Levine",
+          "original_name": "Carolyn Levine",
+          "popularity": 0.0979,
+          "profile_path": "/bXn6tI0ZJjH2M8TPmA5nA8vj1w5.jpg",
+          "cast_id": 8,
+          "character": "Maggie Clay",
+          "credit_id": "55f9c6c4925141786c000511",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1511004,
+          "known_for_department": "Acting",
+          "name": "John Nisbet",
+          "original_name": "John Nisbet",
+          "popularity": 0.2179,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Milton Clay",
+          "credit_id": "55f9c6f0c3a3685879000554",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1402400,
+          "known_for_department": "Acting",
+          "name": "Tang Lan Hua",
+          "original_name": "Tang Lan Hua",
+          "popularity": 0.3837,
+          "profile_path": "/z6x8OEnmcrQU8fS9BO5WHM9tJi0.jpg",
+          "cast_id": 11,
+          "character": "Li Ling",
+          "credit_id": "5a4fd23e92514143dd002fdc",
+          "order": 7
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 40599,
+          "known_for_department": "Directing",
+          "name": "Robert Day",
+          "original_name": "Robert Day",
+          "popularity": 0.5509,
+          "profile_path": "/2NEUxGORWzi25fpg35Wv5scsK0a.jpg",
+          "credit_id": "52fe48c89251416c750b3253",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1983-10-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

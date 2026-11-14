@@ -1,0 +1,524 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1507796?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=en-US",
+  "retrievedAt": "2026-11-14T05:14:49.201Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/eskKodKZgrh6gOK58MZiyxA5u9v.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "https://www.redunionfilms.com/films/on-the-sea",
+    "id": 1507796,
+    "imdb_id": "tt31936369",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "On the Sea",
+    "overview": "In a rural town in North Wales, mussel harvester Jack has been married to his wife Maggie for over half of his life. He is troubled by his son Tom, who has little interest in the family trade. When Jack crosses paths with Daniel, an itinerant deckhand, their attraction poses an impossible dilemma.",
+    "popularity": 2.5743,
+    "poster_path": "/hP4JpQe7F7rcs5lOH97fM7kaSFs.jpg",
+    "production_companies": [
+      {
+        "id": 4043,
+        "logo_path": null,
+        "name": "Red Union Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2025-11-21",
+    "revenue": 0,
+    "runtime": 115,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "On the Sea",
+    "video": false,
+    "vote_average": 7.109,
+    "vote_count": 23,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1307013,
+          "known_for_department": "Acting",
+          "name": "Barry Ward",
+          "original_name": "Barry Ward",
+          "popularity": 1.0093,
+          "profile_path": "/z6sidf6Zm8Rgr8zM13vWGP3OEV9.jpg",
+          "cast_id": 1,
+          "character": "Jack",
+          "credit_id": "68669d728101ec53419c2e7f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1034703,
+          "known_for_department": "Acting",
+          "name": "Lorne MacFadyen",
+          "original_name": "Lorne MacFadyen",
+          "popularity": 0.5815,
+          "profile_path": "/y1cdclslL2nNkFw5RVj64iAHIIb.jpg",
+          "cast_id": 2,
+          "character": "Daniel",
+          "credit_id": "68669d8d519b363dc37058d1",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 90046,
+          "known_for_department": "Acting",
+          "name": "Liz White",
+          "original_name": "Liz White",
+          "popularity": 1.6291,
+          "profile_path": "/1KVn3zFv1X7wy0VMJ4cokJtNiEU.jpg",
+          "cast_id": 3,
+          "character": "Maggie",
+          "credit_id": "68669d9c2816f90a42c118da",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2209728,
+          "known_for_department": "Acting",
+          "name": "Henry Lawfull",
+          "original_name": "Henry Lawfull",
+          "popularity": 0.6895,
+          "profile_path": "/csiZffsmwifkFrd91APNnJwCCw1.jpg",
+          "cast_id": 4,
+          "character": "Tom",
+          "credit_id": "68669da686f1f309c7743419",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 206161,
+          "known_for_department": "Acting",
+          "name": "Celyn Jones",
+          "original_name": "Celyn Jones",
+          "popularity": 0.6444,
+          "profile_path": "/7aDQ4sZDyWAhUx15jlPhQPm9apH.jpg",
+          "cast_id": 5,
+          "character": "Dyfan",
+          "credit_id": "68669db50a2a4a7434c11872",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5647273,
+          "known_for_department": "Acting",
+          "name": "Leisa Gwenllian",
+          "original_name": "Leisa Gwenllian",
+          "popularity": 0.25,
+          "profile_path": "/ev60YsyEBHWyrO38iRU68Vz9U3l.jpg",
+          "cast_id": 11,
+          "character": "Lois",
+          "credit_id": "69a1fee7a6058cce93e2ab43",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 53917,
+          "known_for_department": "Acting",
+          "name": "Danny Webb",
+          "original_name": "Danny Webb",
+          "popularity": 1.6863,
+          "profile_path": "/e7OhVUIsfGWYIrYxwD1KEWF7afP.jpg",
+          "cast_id": 12,
+          "character": "Bernie",
+          "credit_id": "69ae3db485aae2ba1c0b278e",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4597446,
+          "known_for_department": "Acting",
+          "name": "Callum Hymers",
+          "original_name": "Callum Hymers",
+          "popularity": 0.0848,
+          "profile_path": "/9rzzGMG7IX28eiHsKzVU6aRI7w0.jpg",
+          "cast_id": 15,
+          "character": "Rhys",
+          "credit_id": "6a71ad3468420906de358955",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6389354,
+          "known_for_department": "Acting",
+          "name": "Sheldon Jones",
+          "original_name": "Sheldon Jones",
+          "popularity": 0.1722,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Billy",
+          "credit_id": "6a71ad6edffffff51253fe25",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4199682,
+          "known_for_department": "Acting",
+          "name": "Tristan Jones",
+          "original_name": "Tristan Jones",
+          "popularity": 0.0745,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Ioan",
+          "credit_id": "6a71ad9749db44e89ebd714c",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6389356,
+          "known_for_department": "Acting",
+          "name": "Kieran Roberts",
+          "original_name": "Kieran Roberts",
+          "popularity": 0.1032,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Finn",
+          "credit_id": "6a71adceffe527e5e253ff4f",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3213538,
+          "known_for_department": "Acting",
+          "name": "Lisa Jên Brown",
+          "original_name": "Lisa Jên Brown",
+          "popularity": 0.0804,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Iris",
+          "credit_id": "6a71adf29287b1cf5e05ba61",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1469649,
+          "known_for_department": "Acting",
+          "name": "Robert Gwyn Davin",
+          "original_name": "Robert Gwyn Davin",
+          "popularity": 0.2899,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Doctor Hughes",
+          "credit_id": "6a71ae05e84c970c1005bc18",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 109650,
+          "known_for_department": "Acting",
+          "name": "Julian Lewis Jones",
+          "original_name": "Julian Lewis Jones",
+          "popularity": 0.5405,
+          "profile_path": "/s6bfs9wbqB3gRhgNH8FmEq39qyZ.jpg",
+          "cast_id": 21,
+          "character": "William",
+          "credit_id": "6a71ae189287b1cf5e05ba6f",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1184047,
+          "known_for_department": "Acting",
+          "name": "William Huw",
+          "original_name": "William Huw",
+          "popularity": 0.1919,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "Hugh",
+          "credit_id": "6a71ae287c5e6313de46b1ca",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3310932,
+          "known_for_department": "Acting",
+          "name": "Owen Arwyn",
+          "original_name": "Owen Arwyn",
+          "popularity": 0.1142,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "Alyn",
+          "credit_id": "6a71ae3bc4c3b2ec06358ad7",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6389359,
+          "known_for_department": "Acting",
+          "name": "Aaron Leacock",
+          "original_name": "Aaron Leacock",
+          "popularity": 0.0714,
+          "profile_path": null,
+          "cast_id": 24,
+          "character": "Celyn",
+          "credit_id": "6a71ae505a900a33866c2ad4",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6389360,
+          "known_for_department": "Acting",
+          "name": "Chukwudalu Molokwu",
+          "original_name": "Chukwudalu Molokwu",
+          "popularity": 0.0554,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "Vinnie",
+          "credit_id": "6a71ae6ae9adc830f3a27dec",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6389362,
+          "known_for_department": "Acting",
+          "name": "Elena Valentine",
+          "original_name": "Elena Valentine",
+          "popularity": 0.1046,
+          "profile_path": null,
+          "cast_id": 26,
+          "character": "Elsa",
+          "credit_id": "6a71ae8206f0d0881605bb45",
+          "order": 18
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1525718,
+          "known_for_department": "Directing",
+          "name": "Helen Walsh",
+          "original_name": "Helen Walsh",
+          "popularity": 0.2677,
+          "profile_path": null,
+          "credit_id": "68669dd4d0a4c7766e743375",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1525718,
+          "known_for_department": "Directing",
+          "name": "Helen Walsh",
+          "original_name": "Helen Walsh",
+          "popularity": 0.2677,
+          "profile_path": null,
+          "credit_id": "68669ddf753b16619e9c2f7a",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1531292,
+          "known_for_department": "Editing",
+          "name": "Ricardo Saraiva",
+          "original_name": "Ricardo Saraiva",
+          "popularity": 0.05,
+          "profile_path": null,
+          "credit_id": "6925a1ecfded68c40e30c837",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1545152,
+          "known_for_department": "Camera",
+          "name": "Sam Goldie",
+          "original_name": "Sam Goldie",
+          "popularity": 0.0726,
+          "profile_path": null,
+          "credit_id": "6a71acfaa2943a64161ae363",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2051328,
+          "known_for_department": "Sound",
+          "name": "Felix Rösch",
+          "original_name": "Felix Rösch",
+          "popularity": 0.0626,
+          "profile_path": null,
+          "credit_id": "6a71ad110bf0e20623a27be3",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Mardi Gras Film Festival",
+              "release_date": "2026-02-18T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Geelong Pride Film Festival",
+              "release_date": "2026-05-09T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-08-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Hamburg International Queer Film Festival ",
+              "release_date": "2026-10-16T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-11-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Festival Chéries Chéris",
+              "release_date": "2025-11-21T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-08-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Edinburgh International Film Festival",
+              "release_date": "2025-08-16T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Belfast Film Festival",
+              "release_date": "2025-11-01T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-07-24T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Seoul International Pride Film Festival",
+              "release_date": "2026-11-06T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

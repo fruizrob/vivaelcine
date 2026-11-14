@@ -1,0 +1,125 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1637314?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:34.765Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/qs2BBYrLRDkveJJhIbxEaV5Whaz.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1637314,
+    "imdb_id": "tt38882557",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Gwen Rose: Emotional Cutting",
+    "overview": "",
+    "popularity": 0.1368,
+    "poster_path": "/lEw1aQVQpgdPGaTmxxoVYPNFQyT.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2026-02-24",
+    "revenue": 0,
+    "runtime": 47,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Gwen Rose: Emotional Cutting",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6013767,
+          "known_for_department": "Acting",
+          "name": "Gwen Rose",
+          "original_name": "Gwen Rose",
+          "popularity": 0.0728,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Self",
+          "credit_id": "6994b04e4c4c894d110661b9",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3231017,
+          "known_for_department": "Directing",
+          "name": "Jeremy Essig",
+          "original_name": "Jeremy Essig",
+          "popularity": 0.1489,
+          "profile_path": null,
+          "credit_id": "6994b0adef35702faf959ba8",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6013767,
+          "known_for_department": "Acting",
+          "name": "Gwen Rose",
+          "original_name": "Gwen Rose",
+          "popularity": 0.0728,
+          "profile_path": null,
+          "credit_id": "6997ceab44b8e78482d2ca59",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "Amazon Prime",
+              "release_date": "2026-05-25T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-02-24T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

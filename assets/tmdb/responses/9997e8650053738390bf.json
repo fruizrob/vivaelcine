@@ -1,0 +1,71 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=On+the+sea&include_adult=false&language=es-ES&year=2025",
+  "retrievedAt": "2026-11-14T05:13:22.016Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/eskKodKZgrh6gOK58MZiyxA5u9v.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 1507796,
+        "title": "On the Sea",
+        "original_language": "en",
+        "original_title": "On the Sea",
+        "overview": "",
+        "popularity": 2.5743,
+        "poster_path": "/hP4JpQe7F7rcs5lOH97fM7kaSFs.jpg",
+        "release_date": "2025-11-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.109,
+        "vote_count": 23
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1QmEcK0w2Ub4Hm094fHbZT8vA7o.jpg",
+        "genre_ids": [
+          16,
+          14,
+          10751
+        ],
+        "id": 12429,
+        "title": "Ponyo en el acantilado",
+        "original_language": "ja",
+        "original_title": "崖の上のポニョ",
+        "overview": "La historia se centra en Sosuke, un niño de 5 años, y su relación con una princesa pez que ansía convertirse en un ser humano. Libre adaptación de \"La sirenita\" que obtuvo muy buena acogida de la crítica en el Festival de Venecia 2008.",
+        "popularity": 9.7833,
+        "poster_path": "/ew6o3jOBGnx8GETvCkIanorvjka.jpg",
+        "release_date": "2008-07-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.758,
+        "vote_count": 5066
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
+        "id": 1587834,
+        "title": "Ház a Tengeren",
+        "original_language": "hu",
+        "original_title": "Ház a Tengeren",
+        "overview": "",
+        "popularity": 0.1014,
+        "poster_path": "/mhUunnxjqt2gksfv1N4EMcgIk9W.jpg",
+        "release_date": "2025-10-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+  }
+}

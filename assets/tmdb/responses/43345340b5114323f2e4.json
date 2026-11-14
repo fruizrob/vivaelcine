@@ -1,0 +1,195 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1321798?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:42.132Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/mxdiA16oT0LU4zjyZrJOCTQd0ZF.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "id": 1321798,
+    "imdb_id": "tt32423908",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Rose",
+    "overview": "Rose debe matar para salvar a quien más quiere, pero quedará para siempre atormentada por la sombra de sus acciones.",
+    "popularity": 0.3064,
+    "poster_path": "/emk49EzyylbEcM51eUXWCJHrgu7.jpg",
+    "production_companies": [
+      {
+        "id": 185715,
+        "logo_path": null,
+        "name": "New York Film Academy",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2019-08-30",
+    "revenue": 0,
+    "runtime": 8,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El precio de una vida.",
+    "title": "Rose",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2187864,
+          "known_for_department": "Acting",
+          "name": "Paing Phyoe Thu",
+          "original_name": "Paing Phyoe Thu",
+          "popularity": 0.2361,
+          "profile_path": "/tOWzCWpajQ07a1IpJy7Ezw7ilA.jpg",
+          "cast_id": 1,
+          "character": "Rose",
+          "credit_id": "66a3e993a66c861d758d81d8",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3218863,
+          "known_for_department": "Acting",
+          "name": "Michael A McGrath",
+          "original_name": "Michael A McGrath",
+          "popularity": 0.3408,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Tony",
+          "credit_id": "66a3e9f49d706e1417767633",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3351419,
+          "known_for_department": "Production",
+          "name": "Michael Murdock",
+          "original_name": "Michael Murdock",
+          "popularity": 0.1064,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Victim 1",
+          "credit_id": "66ddd84183ec7c2bc29aa1b0",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4931027,
+          "known_for_department": "Acting",
+          "name": "Adam Urbaetis",
+          "original_name": "Adam Urbaetis",
+          "popularity": 0.1167,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Victim 2",
+          "credit_id": "66ddd8514f274b1467967ed1",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3279572,
+          "known_for_department": "Directing",
+          "name": "Pablo Anarte",
+          "original_name": "Pablo Anarte",
+          "popularity": 0.1166,
+          "profile_path": null,
+          "credit_id": "66a3ea5980d44e7de65218e0",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3279572,
+          "known_for_department": "Directing",
+          "name": "Pablo Anarte",
+          "original_name": "Pablo Anarte",
+          "popularity": 0.1166,
+          "profile_path": null,
+          "credit_id": "66a3ea6e13a7868310b12534",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3351419,
+          "known_for_department": "Production",
+          "name": "Michael Murdock",
+          "original_name": "Michael Murdock",
+          "popularity": 0.1064,
+          "profile_path": null,
+          "credit_id": "66a3ea85fc1efc24c69e9e63",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3279572,
+          "known_for_department": "Directing",
+          "name": "Pablo Anarte",
+          "original_name": "Pablo Anarte",
+          "popularity": 0.1166,
+          "profile_path": null,
+          "credit_id": "66a4c4f1d32c6484aa366cfc",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2019-08-30T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1157131?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:08.920Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/ezSWy6rLNjTgulgVggBclLHoR0t.jpg",
+    "belongs_to_collection": null,
+    "budget": 1000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 1157131,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Sorry for the Delay",
+    "overview": "",
+    "popularity": 0.286,
+    "poster_path": "/bJlZMsRmZv3e7c1OJiTiYT6eLer.jpg",
+    "production_companies": [
+      {
+        "id": 286570,
+        "logo_path": null,
+        "name": "Halangarde Pictures",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 4,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Sorry for the Delay",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3991961,
+          "known_for_department": "Acting",
+          "name": "Jordan Pope",
+          "original_name": "Jordan Pope",
+          "popularity": 0.1336,
+          "profile_path": "/283vFdj8AHoH5JueNnzVaIOFLcJ.jpg",
+          "cast_id": 2,
+          "character": "Michael",
+          "credit_id": "64c2cec166a0d301442ae178",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5808204,
+          "known_for_department": "Acting",
+          "name": "Libby Hall Cornelius",
+          "original_name": "Libby Hall Cornelius",
+          "popularity": 0.0542,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Delivery Woman",
+          "credit_id": "6911e22f312ecd29889ac427",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1142787,
+          "known_for_department": "Directing",
+          "name": "Bill Cornelius",
+          "original_name": "Bill Cornelius",
+          "popularity": 0.0968,
+          "profile_path": "/dmO7C7x71PZBo34Bznyrx5tx0C3.jpg",
+          "cast_id": 11,
+          "character": "Disembodied Voices (voice)",
+          "credit_id": "6911e242acf1fb94b8c061b0",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1142787,
+          "known_for_department": "Directing",
+          "name": "Bill Cornelius",
+          "original_name": "Bill Cornelius",
+          "popularity": 0.0968,
+          "profile_path": "/dmO7C7x71PZBo34Bznyrx5tx0C3.jpg",
+          "credit_id": "659dc8dc2cff18025ae1cbce",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1142787,
+          "known_for_department": "Directing",
+          "name": "Bill Cornelius",
+          "original_name": "Bill Cornelius",
+          "popularity": 0.0968,
+          "profile_path": "/dmO7C7x71PZBo34Bznyrx5tx0C3.jpg",
+          "credit_id": "659dc917fc5f06025ae56fd2",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1142787,
+          "known_for_department": "Directing",
+          "name": "Bill Cornelius",
+          "original_name": "Bill Cornelius",
+          "popularity": 0.0968,
+          "profile_path": "/dmO7C7x71PZBo34Bznyrx5tx0C3.jpg",
+          "credit_id": "659dc9566d97e6025a218f14",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4473191,
+          "known_for_department": "Camera",
+          "name": "Corey Allen",
+          "original_name": "Corey Allen",
+          "popularity": 0.0827,
+          "profile_path": "/8OKPvhkVmCb61D2YUfRJGZgdEJM.jpg",
+          "credit_id": "659de93a9bcd0f01fceac4a6",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1142787,
+          "known_for_department": "Directing",
+          "name": "Bill Cornelius",
+          "original_name": "Bill Cornelius",
+          "popularity": 0.0968,
+          "profile_path": "/dmO7C7x71PZBo34Bznyrx5tx0C3.jpg",
+          "credit_id": "64c2ceac9590e300af60d3a3",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4915085,
+          "known_for_department": "Lighting",
+          "name": "Barrett Dennison",
+          "original_name": "Barrett Dennison",
+          "popularity": 0.0442,
+          "profile_path": null,
+          "credit_id": "6911e192018a92d91ace8e72",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4473183,
+          "known_for_department": "Writing",
+          "name": "Chris Dyer",
+          "original_name": "Chris Dyer",
+          "popularity": 0.1123,
+          "profile_path": null,
+          "credit_id": "6911e1c2dec48a90c1d25b32",
+          "department": "Camera",
+          "job": "Key Grip"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4670025,
+          "known_for_department": "Directing",
+          "name": "Chris Young",
+          "original_name": "Chris Young",
+          "popularity": 0.0399,
+          "profile_path": null,
+          "credit_id": "6911e5cad1da7ed6a28754cc",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4473183,
+          "known_for_department": "Writing",
+          "name": "Chris Dyer",
+          "original_name": "Chris Dyer",
+          "popularity": 0.1123,
+          "profile_path": null,
+          "credit_id": "6911e5deaee235a1df31b5df",
+          "department": "Sound",
+          "job": "Boom Operator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1142787,
+          "known_for_department": "Directing",
+          "name": "Bill Cornelius",
+          "original_name": "Bill Cornelius",
+          "popularity": 0.0968,
+          "profile_path": "/dmO7C7x71PZBo34Bznyrx5tx0C3.jpg",
+          "credit_id": "69711add7f720982bf546693",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "Nashville Film Festival",
+              "release_date": "2023-09-29T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "Lake Travis Film Festival",
+              "release_date": "2023-09-16T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "Sky Arts Film Festival",
+              "release_date": "2023-09-23T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

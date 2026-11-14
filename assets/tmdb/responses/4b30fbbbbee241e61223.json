@@ -1,0 +1,149 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/826741?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:28.322Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 826741,
+    "imdb_id": "tt12333012",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "A Portrait on the Search for Happiness",
+    "overview": "",
+    "popularity": 0.1994,
+    "poster_path": "/v8JfkVdIrp6x7RJ5dNvkc0O8oC2.jpg",
+    "production_companies": [
+      {
+        "id": 211131,
+        "logo_path": null,
+        "name": "MSZ Production and Consulting",
+        "origin_country": "DE"
+      },
+      {
+        "id": 296,
+        "logo_path": "/oPCnyumoJtIedjQoQin6zSSHkv8.png",
+        "name": "Filmakademie Baden-Württemberg",
+        "origin_country": "DE"
+      },
+      {
+        "id": 124,
+        "logo_path": "/7MjDMOybX0D3fcIEpCyY9es5XZU.png",
+        "name": "SWR",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2020-10-21",
+    "revenue": 0,
+    "runtime": 73,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Afrikaans",
+        "iso_639_1": "af",
+        "name": "Afrikaans"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Xhosa",
+        "iso_639_1": "xh",
+        "name": ""
+      },
+      {
+        "english_name": "Zulu",
+        "iso_639_1": "zu",
+        "name": "isiZulu"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "A Portrait on the Search for Happiness",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2297905,
+          "known_for_department": "Directing",
+          "name": "Benjamin Rost",
+          "original_name": "Benjamin Rost",
+          "popularity": 0.2094,
+          "profile_path": null,
+          "credit_id": "609456c2bf774400402b0857",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2297905,
+          "known_for_department": "Directing",
+          "name": "Benjamin Rost",
+          "original_name": "Benjamin Rost",
+          "popularity": 0.2094,
+          "profile_path": null,
+          "credit_id": "609456d8cb75d100414d53cb",
+          "department": "Writing",
+          "job": "Screenplay"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "One World Online",
+              "release_date": "2021-05-20T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Hof International Film Festival ",
+              "release_date": "2020-10-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

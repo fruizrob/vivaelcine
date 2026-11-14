@@ -1,0 +1,79 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1214883?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:16:17.056Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1214883,
+    "imdb_id": null,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Corazón danzante",
+    "overview": "",
+    "popularity": 0.0756,
+    "poster_path": "/lkDx7l0Wbqp9tKEaP73ZydLx37S.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-10-10",
+    "revenue": 0,
+    "runtime": 13,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Corazón danzante",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4417901,
+          "known_for_department": "Directing",
+          "name": "Amaranta R. Saavedra",
+          "original_name": "Amaranta R. Saavedra",
+          "popularity": 0.0066,
+          "profile_path": null,
+          "credit_id": "6571e4017eb5f200ea7f8e19",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2023-10-10T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

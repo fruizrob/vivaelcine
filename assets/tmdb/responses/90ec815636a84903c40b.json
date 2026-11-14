@@ -1,0 +1,119 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1708562?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:09.609Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 20,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 1708562,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Delay 1/2-4",
+    "overview": "",
+    "popularity": 0.1569,
+    "poster_path": "/yFvjXsjH9HCFm7rahUA4BWkHYjR.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2026-06-12",
+    "revenue": 0,
+    "runtime": 24,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Delay 1/2-4",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1518445,
+          "known_for_department": "Writing",
+          "name": "Trevor Bather",
+          "original_name": "Trevor Bather",
+          "popularity": 0.1949,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6a223486fff60c9e649433ae",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1518445,
+          "known_for_department": "Writing",
+          "name": "Trevor Bather",
+          "original_name": "Trevor Bather",
+          "popularity": 0.1949,
+          "profile_path": null,
+          "credit_id": "6a2234a68a68bb6e0abc0c36",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1518445,
+          "known_for_department": "Writing",
+          "name": "Trevor Bather",
+          "original_name": "Trevor Bather",
+          "popularity": 0.1949,
+          "profile_path": null,
+          "credit_id": "6a2234bbe2c25034ad852d68",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1518445,
+          "known_for_department": "Writing",
+          "name": "Trevor Bather",
+          "original_name": "Trevor Bather",
+          "popularity": 0.1949,
+          "profile_path": null,
+          "credit_id": "6a2234cb645b3c8693bc0bc4",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2026-06-12T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1451000?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:19.597Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1451000,
+    "imdb_id": null,
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "Simón y Julián",
+    "overview": "",
+    "popularity": 0.0505,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 256788,
+        "logo_path": null,
+        "name": "La Bisagra Cósmica",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2025-04-05",
+    "revenue": 0,
+    "runtime": 13,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Simón y Julián",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5314637,
+          "known_for_department": "Acting",
+          "name": "Julián Szych",
+          "original_name": "Julián Szych",
+          "popularity": 0.0371,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "67daccba2bea975f8da6e1fd",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5314638,
+          "known_for_department": "Sound",
+          "name": "Julián Szych",
+          "original_name": "Julián Szych",
+          "popularity": 0.018,
+          "profile_path": null,
+          "credit_id": "67daccc87ba7da7163a1ef93",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5314637,
+          "known_for_department": "Acting",
+          "name": "Julián Szych",
+          "original_name": "Julián Szych",
+          "popularity": 0.0371,
+          "profile_path": null,
+          "credit_id": "67daccd02bea975f8da6e22b",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3536469,
+          "known_for_department": "Directing",
+          "name": "Joaquín Szych",
+          "original_name": "Joaquín Szych",
+          "popularity": 0.0444,
+          "profile_path": null,
+          "credit_id": "67dacce97ba7da7163a1efd2",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3536469,
+          "known_for_department": "Directing",
+          "name": "Joaquín Szych",
+          "original_name": "Joaquín Szych",
+          "popularity": 0.0444,
+          "profile_path": null,
+          "credit_id": "67daccf0e8302533206cb509",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3536469,
+          "known_for_department": "Directing",
+          "name": "Joaquín Szych",
+          "original_name": "Joaquín Szych",
+          "popularity": 0.0444,
+          "profile_path": null,
+          "credit_id": "67daccf77ba7da7163a1efe7",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3536469,
+          "known_for_department": "Directing",
+          "name": "Joaquín Szych",
+          "original_name": "Joaquín Szych",
+          "popularity": 0.0444,
+          "profile_path": null,
+          "credit_id": "67dacd057ba7da7163a1f002",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3536469,
+          "known_for_department": "Directing",
+          "name": "Joaquín Szych",
+          "original_name": "Joaquín Szych",
+          "popularity": 0.0444,
+          "profile_path": null,
+          "credit_id": "67dacd0d7ba7da7163a1f016",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3536469,
+          "known_for_department": "Directing",
+          "name": "Joaquín Szych",
+          "original_name": "Joaquín Szych",
+          "popularity": 0.0444,
+          "profile_path": null,
+          "credit_id": "67dacd1c7ba7da7163a1f03a",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2025-04-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

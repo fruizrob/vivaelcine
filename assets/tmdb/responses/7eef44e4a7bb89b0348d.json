@@ -1,0 +1,118 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1052487?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:10.110Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1052487,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "7 Second Delay: Live From A Totally Legal Venue",
+    "overview": "",
+    "popularity": 0.5516,
+    "poster_path": "/mVKYzUlqFgoDwgi1FQoMNnv1jwD.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2022-03-20",
+    "revenue": 0,
+    "runtime": 72,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "7 Second Delay: Live From A Totally Legal Venue",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2238424,
+          "known_for_department": "Acting",
+          "name": "Ken Freedman",
+          "original_name": "Ken Freedman",
+          "popularity": 0.1426,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Self",
+          "credit_id": "637e27807d41aa007c44f695",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 55373,
+          "known_for_department": "Writing",
+          "name": "Andy Breckman",
+          "original_name": "Andy Breckman",
+          "popularity": 0.7753,
+          "profile_path": "/eVMYoeSQWIpHaRouoZdItvIFYnr.jpg",
+          "cast_id": 2,
+          "character": "Self",
+          "credit_id": "637e278801757f00fce69b96",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6825,
+          "known_for_department": "Acting",
+          "name": "Richard Thompson",
+          "original_name": "Richard Thompson",
+          "popularity": 0.3118,
+          "profile_path": "/ppRQaskcivozDale0JChcAeuZo6.jpg",
+          "cast_id": 3,
+          "character": "Self",
+          "credit_id": "637e2a4975f1ad00a5a0105f",
+          "order": 2
+        }
+      ],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2022-03-20T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

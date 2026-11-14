@@ -1,0 +1,200 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1700426?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:37.907Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1700426,
+    "imdb_id": null,
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "fr",
+    "original_title": "L'exorcisme rose brillant",
+    "overview": "",
+    "popularity": 0.2309,
+    "poster_path": "/1kEgpEBolwBnOhWgOwm5ipmv4HG.jpg",
+    "production_companies": [
+      {
+        "id": 221958,
+        "logo_path": null,
+        "name": "Cégep de Saint-Laurent",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2026-05-29",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "L'exorcisme rose brillant",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6420403,
+          "known_for_department": "Acting",
+          "name": "Alexa Barokov",
+          "original_name": "Alexa Barokov",
+          "popularity": 0.0955,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Sabrina",
+          "credit_id": "6a8461179c1eb3a052ac90b5",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6420404,
+          "known_for_department": "Acting",
+          "name": "Mirka Pouliot",
+          "original_name": "Mirka Pouliot",
+          "popularity": 0.0761,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Ruby",
+          "credit_id": "6a8461272cdd6fc0a4438cb5",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6264495,
+          "known_for_department": "Crew",
+          "name": "Clara Mesqui",
+          "original_name": "Clara Mesqui",
+          "popularity": 0.1982,
+          "profile_path": "/x9CIZSz2T9aXvioH5h8zMnCKfKH.jpg",
+          "cast_id": 8,
+          "character": "Mercedes",
+          "credit_id": "6a8461377597d0fab92bb707",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6420409,
+          "known_for_department": "Acting",
+          "name": "Michelle Lawee",
+          "original_name": "Michelle Lawee",
+          "popularity": 0.0437,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Mère",
+          "credit_id": "6a84614e8d5d9872e166fff7",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6232506,
+          "known_for_department": "Production",
+          "name": "Charlotte Jérôme",
+          "original_name": "Charlotte Jérôme",
+          "popularity": 0.0494,
+          "profile_path": null,
+          "credit_id": "6a106dd981059894b7235670",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6232507,
+          "known_for_department": "Directing",
+          "name": "Léa Smith",
+          "original_name": "Léa Smith",
+          "popularity": 0.0963,
+          "profile_path": null,
+          "credit_id": "6a106ded127d1bbd22a30e31",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6232508,
+          "known_for_department": "Camera",
+          "name": "Cécilia Lesage-Reid",
+          "original_name": "Cécilia Lesage-Reid",
+          "popularity": 0.0418,
+          "profile_path": null,
+          "credit_id": "6a106e04c9b57b63f424917e",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6232509,
+          "known_for_department": "Sound",
+          "name": "Lily Vu",
+          "original_name": "Lily Vu",
+          "popularity": 0.0417,
+          "profile_path": null,
+          "credit_id": "6a106e1b8efc82a709a34c9e",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6232506,
+          "known_for_department": "Production",
+          "name": "Charlotte Jérôme",
+          "original_name": "Charlotte Jérôme",
+          "popularity": 0.0494,
+          "profile_path": null,
+          "credit_id": "6a106e337fac33b7232355f0",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "fr",
+              "note": "",
+              "release_date": "2026-05-29T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

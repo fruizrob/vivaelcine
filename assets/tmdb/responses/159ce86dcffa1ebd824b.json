@@ -1,0 +1,89 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1478125?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:38.132Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 1478125,
+    "imdb_id": "tt4318768",
+    "origin_country": [
+      "CH"
+    ],
+    "original_language": "en",
+    "original_title": "La vie en rose comme dans les films",
+    "overview": "",
+    "popularity": 0.2357,
+    "poster_path": "/7Y51cZJwbK7FnvVYC59dC0oUqjd.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CH",
+        "name": "Switzerland"
+      }
+    ],
+    "release_date": "2026-05-22",
+    "revenue": 0,
+    "runtime": 14,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La vie en rose comme dans les films",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1472080,
+          "known_for_department": "Directing",
+          "name": "Christophe M. Saber",
+          "original_name": "Christophe M. Saber",
+          "popularity": 0.1755,
+          "profile_path": null,
+          "credit_id": "681da43d921c4734f90b2c42",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "EG",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Manassat Film Festival",
+              "release_date": "2026-05-22T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

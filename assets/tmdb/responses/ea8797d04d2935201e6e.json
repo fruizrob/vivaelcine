@@ -1,0 +1,417 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/157787?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:44.423Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/gLQk7zapH0bc4wQODOODoxAQS8c.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10770,
+        "name": "Película de TV"
+      }
+    ],
+    "homepage": "",
+    "id": 157787,
+    "imdb_id": "tt2492190",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Nom de code: Rose",
+    "overview": "Margot Chapelier tiene tres hijos y trabaja como ayudante de dirección en una empresa que se dedica a las importaciones y exportaciones. Un día es reclutada por los agentes de los servicios secretos franceses para que los ayude a impedir la propagación de un virus mortal.",
+    "popularity": 0.6989,
+    "poster_path": "/jp15oJhYvbtYeylX9WdwGexRIUZ.jpg",
+    "production_companies": [
+      {
+        "id": 6896,
+        "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+        "name": "EuropaCorp",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2012-12-04",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Nombre en clave: Rose",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 14,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 100371,
+          "known_for_department": "Acting",
+          "name": "Claire Keim",
+          "original_name": "Claire Keim",
+          "popularity": 0.7656,
+          "profile_path": "/bhqqJPx08TlVan569Oz4qpeWn7z.jpg",
+          "cast_id": 2,
+          "character": "Margot Chapelier",
+          "credit_id": "52fe4bd29251416c910e6bc3",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 84433,
+          "known_for_department": "Acting",
+          "name": "Lannick Gautry",
+          "original_name": "Lannick Gautry",
+          "popularity": 0.7046,
+          "profile_path": "/h94QUkKrwUncYhJ1eMz23kBAJuc.jpg",
+          "cast_id": 3,
+          "character": "François Xavier Baudat",
+          "credit_id": "52fe4bd29251416c910e6bc7",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 54274,
+          "known_for_department": "Acting",
+          "name": "Serge Hazanavicius",
+          "original_name": "Serge Hazanavicius",
+          "popularity": 0.5971,
+          "profile_path": "/sEAptpSaByeYh4qupKkKPqRN3XZ.jpg",
+          "cast_id": 4,
+          "character": "Fabrice Chapelier",
+          "credit_id": "52fe4bd29251416c910e6bcb",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1139,
+          "known_for_department": "Acting",
+          "name": "Florence Pernel",
+          "original_name": "Florence Pernel",
+          "popularity": 0.7264,
+          "profile_path": "/fqrv9hguDX9xtjlQnZuABOVSoka.jpg",
+          "cast_id": 5,
+          "character": "Laurence de Seznac",
+          "credit_id": "52fe4bd29251416c910e6bcf",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 77735,
+          "known_for_department": "Acting",
+          "name": "Yvan Le Bolloc'h",
+          "original_name": "Yvan Le Bolloc'h",
+          "popularity": 0.3726,
+          "profile_path": "/uLw8OO2a7HbweRcHRhhutSKY4bI.jpg",
+          "cast_id": 6,
+          "character": "Marc-Antoine Lebrun",
+          "credit_id": "52fe4bd29251416c910e6bd3",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 66872,
+          "known_for_department": "Acting",
+          "name": "Amanda Lear",
+          "original_name": "Amanda Lear",
+          "popularity": 0.948,
+          "profile_path": "/6rgnu2KQVpjMmHpF2ShUUOagrCi.jpg",
+          "cast_id": 7,
+          "character": "Manoue",
+          "credit_id": "52fe4bd29251416c910e6bd7",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 149988,
+          "known_for_department": "Acting",
+          "name": "Nadège Beausson-Diagne",
+          "original_name": "Nadège Beausson-Diagne",
+          "popularity": 0.7601,
+          "profile_path": "/rwZYnWtbR1SOF5J1tLWcKrx0rOh.jpg",
+          "cast_id": 12,
+          "character": "Sandrine Duval",
+          "credit_id": "5e5404c0a93d2500174d6bf2",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2197762,
+          "known_for_department": "Acting",
+          "name": "Lucien Belvès",
+          "original_name": "Lucien Belvès",
+          "popularity": 0.0877,
+          "profile_path": "/uhWy9es9N8clYkyJKZuHcTXW674.jpg",
+          "cast_id": 13,
+          "character": "Théo Chapelier",
+          "credit_id": "5e5404d535811d00195a7e2f",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2549053,
+          "known_for_department": "Acting",
+          "name": "Bruno Canredon",
+          "original_name": "Bruno Canredon",
+          "popularity": 0.1353,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Philippe",
+          "credit_id": "5e54052ca93d2500174d6c7f",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2549054,
+          "known_for_department": "Acting",
+          "name": "Matthieu Letellier",
+          "original_name": "Matthieu Letellier",
+          "popularity": 0.0846,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Bernie",
+          "credit_id": "5e54053fa76ac50015a6d74a",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1370821,
+          "known_for_department": "Acting",
+          "name": "Nathan Lourenço",
+          "original_name": "Nathan Lourenço",
+          "popularity": 0.1783,
+          "profile_path": "/kkEEaMeqXDNySWJGHIE35CgQHvN.jpg",
+          "cast_id": 16,
+          "character": "Gaby Chapellier",
+          "credit_id": "5e540555a93d2500134d3bb6",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1183003,
+          "known_for_department": "Acting",
+          "name": "Régis Lux",
+          "original_name": "Régis Lux",
+          "popularity": 0.1582,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Agent DCRI",
+          "credit_id": "5e540568f48b340019730cbe",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2549055,
+          "known_for_department": "Acting",
+          "name": "Leïla Macaire",
+          "original_name": "Leïla Macaire",
+          "popularity": 0.1505,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Louise Chapellier",
+          "credit_id": "5e54058535811d0015594386",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 142576,
+          "known_for_department": "Acting",
+          "name": "Julien Masdoua",
+          "original_name": "Julien Masdoua",
+          "popularity": 0.2106,
+          "profile_path": "/aOlZdEH8oBaGU0uZKUjHA4K3bto.jpg",
+          "cast_id": 19,
+          "character": "Karim",
+          "credit_id": "5e540595f48b3400177340e2",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 146487,
+          "known_for_department": "Acting",
+          "name": "Éric Naggar",
+          "original_name": "Éric Naggar",
+          "popularity": 0.3917,
+          "profile_path": "/pSuOCp4brYsNH1Pxrf7AfK4Fo9g.jpg",
+          "cast_id": 20,
+          "character": "Paul Caillard",
+          "credit_id": "5e5405a5a93d2500134d3c4c",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 115686,
+          "known_for_department": "Acting",
+          "name": "Laurent Spielvogel",
+          "original_name": "Laurent Spielvogel",
+          "popularity": 0.6009,
+          "profile_path": "/u8Lxm7eCaqYfXddwfmA9Wjylzqv.jpg",
+          "cast_id": 21,
+          "character": "Guéro",
+          "credit_id": "5e5405c3f48b340019730d76",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2393748,
+          "known_for_department": "Acting",
+          "name": "Kader Lassina Touré",
+          "original_name": "Kader Lassina Touré",
+          "popularity": 0.0476,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "Djojo",
+          "credit_id": "5e5405fea93d25001a4d078d",
+          "order": 16
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1073097,
+          "known_for_department": "Directing",
+          "name": "Arnauld Mercadier",
+          "original_name": "Arnauld Mercadier",
+          "popularity": 0.1746,
+          "profile_path": null,
+          "credit_id": "52fe4bd29251416c910e6bbf",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2549048,
+          "known_for_department": "Writing",
+          "name": "Marie Lefevre",
+          "original_name": "Marie Lefevre",
+          "popularity": 0.1655,
+          "profile_path": null,
+          "credit_id": "5e540449a76ac50013a769a3",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1073097,
+          "known_for_department": "Directing",
+          "name": "Arnauld Mercadier",
+          "original_name": "Arnauld Mercadier",
+          "popularity": 0.1746,
+          "profile_path": null,
+          "credit_id": "5e54047335811d00175afb21",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1366241,
+          "known_for_department": "Writing",
+          "name": "Patrick Renault",
+          "original_name": "Patrick Renault",
+          "popularity": 0.2255,
+          "profile_path": null,
+          "credit_id": "5e540499a93d2500134d3a15",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1007330,
+          "known_for_department": "Writing",
+          "name": "Frédérique Moreau",
+          "original_name": "Frédérique Moreau",
+          "popularity": 0.1967,
+          "profile_path": null,
+          "credit_id": "5e540489f48b340017733efe",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2289447,
+          "known_for_department": "Acting",
+          "name": "La Grande Sophie",
+          "original_name": "La Grande Sophie",
+          "popularity": 0.2031,
+          "profile_path": "/srK9YaJcRLWkbGpRoCQDXGAyh2R.jpg",
+          "credit_id": "69d46b10ac15a78ebfedf1b9",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1117381,
+          "known_for_department": "Camera",
+          "name": "Stéphane Cami",
+          "original_name": "Stéphane Cami",
+          "popularity": 0.1216,
+          "profile_path": null,
+          "credit_id": "69d46b1c7de67d18b4edf30f",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "TF1",
+              "release_date": "2012-12-04T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

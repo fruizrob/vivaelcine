@@ -1,0 +1,84 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1680416?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:33.414Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/ggmg3y5JaUbAIgTZqIMZQR3KUnh.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1680416,
+    "imdb_id": null,
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Rose Spontex",
+    "overview": "",
+    "popularity": 0.0775,
+    "poster_path": "/utc2sdVHu6p4dzb2WVcljqz2gYO.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2026-04-25",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rose Spontex",
+    "video": false,
+    "vote_average": 9,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4852908,
+          "known_for_department": "Directing",
+          "name": "Raphaël Perez",
+          "original_name": "Raphaël Perez",
+          "popularity": 0.05,
+          "profile_path": null,
+          "credit_id": "69eb8f3fc30de8aa70b4e299",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "fr",
+              "note": "Released on youtube",
+              "release_date": "2026-04-25T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

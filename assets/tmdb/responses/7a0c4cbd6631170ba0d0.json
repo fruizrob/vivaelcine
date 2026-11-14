@@ -1,0 +1,90 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1148191?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:24.832Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1148191,
+    "imdb_id": null,
+    "origin_country": [
+      "AU"
+    ],
+    "original_language": "xx",
+    "original_title": "Sports at Sea on the S.S. Runic",
+    "overview": "",
+    "popularity": 0.0947,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 203519,
+        "logo_path": null,
+        "name": "Corrick",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      }
+    ],
+    "release_date": "1909-07-01",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Sports at Sea on the S.S. Runic",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3010760,
+          "known_for_department": "Directing",
+          "name": "Leonard Corrick",
+          "original_name": "Leonard Corrick",
+          "popularity": 0.0759,
+          "profile_path": null,
+          "credit_id": "64a5125f1bf26600c78a0072",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1909-07-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

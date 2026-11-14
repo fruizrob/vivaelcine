@@ -1,0 +1,52 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Ultramarino&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:50.715Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/mCIzqrrQbnvQipFgm0Qogx4zn1q.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1542685,
+        "title": "Ultramarino",
+        "original_language": "eu",
+        "original_title": "Ultramarino",
+        "overview": "Zazu, a las puertas de la adolescencia y en plena búsqueda de su identidad, deberá optar por mantener la tradición o enfrentarse a ella.",
+        "popularity": 0.309,
+        "poster_path": "/unTN9AASY487jNbGSvpWRCwehLP.jpg",
+        "release_date": "2026-01-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          28,
+          18,
+          878
+        ],
+        "id": 1396445,
+        "title": "ヤマトよ永遠に REBEL3199 第三章 群青のアステロイド",
+        "original_language": "ja",
+        "original_title": "ヤマトよ永遠に REBEL3199 第三章 群青のアステロイド",
+        "overview": "",
+        "popularity": 0.5478,
+        "poster_path": "/6yaM29VfdZRynw2NYJqlLi2odle.jpg",
+        "release_date": "2025-04-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  }
+}

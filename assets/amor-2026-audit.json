@@ -1,0 +1,828 @@
+{
+  "edition": "amor-2026",
+  "sourceObservationDate": "2026-11-14",
+  "declaredDates": {
+    "start": "2026-11-24",
+    "end": "2026-11-29"
+  },
+  "regionalDates": {
+    "start": "2026-12-01",
+    "end": "2026-12-05"
+  },
+  "programmeStatus": "partial",
+  "counts": {
+    "screenings": 4,
+    "catalogueFilms": 24,
+    "scheduledFilms": 15,
+    "awaitingTimetable": 9,
+    "matched": 22,
+    "unresolved": 2,
+    "retained": 0
+  },
+  "limitations": [
+    "Complete timetable not available from the current festival site; legacy programme link returns 404.",
+    "Only four M100 sessions have first-party confirmed dates, times and contents.",
+    "Other Santiago venues and December regional extension announced without acquired timetable.",
+    "TMDB work runtimes do not establish the exact screening cut. Calculated ends are estimates; explicit session windows take precedence.",
+    "New AMOR candidates were fetched live; existing accepted films reused the cache. This was not a full live refresh of the other festivals."
+  ],
+  "programmeChanges": "assets/amor-2026-programme-changes.json",
+  "additionalSearchEvidence": "assets/amor-2026-unresolved-searches.json",
+  "identityEvidence": "assets/amor-2026-identity-evidence.json",
+  "films": [
+    {
+      "key": "amor-2026/algo-novo-que-contar",
+      "title": "Algo novo que contar",
+      "source": "https://www.m100.cl/programacion/cine/9-amor-festival-internacional-de-cine-lgbt/",
+      "status": "matched",
+      "tmdbId": 1403251,
+      "method": "strict_rule_v1",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1403251",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "Algo Novo que Contar"
+        },
+        {
+          "field": "duration",
+          "observed": 20,
+          "normalized": 21
+        },
+        {
+          "field": "countries",
+          "observed": "España",
+          "normalized": "Spain"
+        },
+        {
+          "field": "synopsis",
+          "observed": null,
+          "normalized": "Xoana pasa un verano más en una casa de alquiler, acompañada de su hermana Silvia, que invita a sus amigas a pasar unos días con ellas. En el grupo está Emma, ​​una chica con la que Xoana tiene un romance. Xoana es virgen, y conforme pasan los días se hace más claro que puede terminar teniendo sexo con Emma, ​​lo que la aterroriza. A excepción de su hermana, nadie sabe que Xoana es virgen, lo que la angustia por la presión social que existe con el sexo. Xoana busca arreglar las cosas con Emma."
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/cielo-de-enero",
+      "title": "Cielo de enero",
+      "source": "https://www.m100.cl/programacion/cine/9-amor-festival-internacional-de-cine-lgbt/",
+      "status": "matched",
+      "tmdbId": 1812491,
+      "method": "manual",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1812491",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "Cielo de enero"
+        },
+        {
+          "field": "synopsis",
+          "observed": null,
+          "normalized": "Durante unas vacaciones, dos jóvenes descubren un sentimiento nuevo y afrontan sus dudas."
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/corazon-danzante-cuando-el-amor-es-baile",
+      "title": "Corazón danzante, cuando el amor es baile",
+      "source": "https://www.amorfestival.com/pelicula/corazon-danzante-cuando-el-amor-es-baile/",
+      "status": "unmatched",
+      "tmdbId": null,
+      "method": null,
+      "retained": false,
+      "reason": "Bounded title/year, year-free and English-title searches found no work corroborated by Arturo Nicolás Dávila Zelada. Corazón Danzante (1214883, Amaranta R. Saavedra, 2023) is a different work.",
+      "search": {
+        "queries": [
+          {
+            "query": "Corazón danzante, cuando el amor es baile",
+            "year": "2026",
+            "page": 1
+          },
+          {
+            "query": "Corazón danzante, cuando el amor es baile",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "corrections": []
+    },
+    {
+      "key": "amor-2026/delay",
+      "title": "Delay",
+      "source": "https://www.amorfestival.com/pelicula/delay/",
+      "status": "matched",
+      "tmdbId": 1536107,
+      "method": "manual",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1536107",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "远方延误"
+        },
+        {
+          "field": "director",
+          "observed": "Daryl Wang",
+          "normalized": "王瀚渲"
+        },
+        {
+          "field": "countries",
+          "observed": "China",
+          "normalized": "China, United States of America"
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/dreams-sex-love",
+      "title": "Dreams (Sex Love)",
+      "source": "https://www.amorfestival.com/pelicula/dreams-sex-love/",
+      "status": "matched",
+      "tmdbId": 1228682,
+      "method": "strict_rule_v1",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1228682",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "Drømmer"
+        },
+        {
+          "field": "duration",
+          "observed": 112,
+          "normalized": 111
+        },
+        {
+          "field": "countries",
+          "observed": "Noruega",
+          "normalized": "Norway"
+        },
+        {
+          "field": "synopsis",
+          "observed": "Johanne, una adolescente de 17 años que se enamora por primera vez de su profesora de francés. Para procesar sus sentimientos, Johanne los plasma por escrito en un manuscrito que, luego de ser descubierto por su madre y su abuela, genera tensiones familiares y reflexiones generacionales sobre el deseo, el amor y la sexualidad. La película ganó el Oso de Oro en la Competencia Principal del 75.º Festival Internacional de Cine de Berlín 2025, convirtiéndose en la primera película noruega con este reconocimiento.",
+          "normalized": "Johanne es una chica que se enamora perdidamente de su profesora de francés, experimentando su primer amor intenso. Deseando preservar sus sentimientos, la joven documenta sus emociones y experiencias por escrito. Cuando su madre y su abuela leen lo que ha escrito, al principio reaccionan con sorpresa ante su contenido íntimo, pero pronto quedan cautivadas por sus cualidades literarias. Mientras debaten sobre la moralidad y las posibles consecuencias de publicar los escritos de Johanne, ésta navega por el contraste entre los ideales románticos y la realidad, sumergiéndose en un viaje a través de las intensas emociones del autodescubrimiento, el amor y la sexualidad."
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/el-velo-o-veu",
+      "title": "El Velo (O Véu)",
+      "source": "https://www.amorfestival.com/pelicula/el-velo-o-veu/",
+      "status": "matched",
+      "tmdbId": 1526695,
+      "method": "strict_rule_v1",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1526695",
+      "corrections": [
+        {
+          "field": "duration",
+          "observed": 19,
+          "normalized": 20
+        },
+        {
+          "field": "countries",
+          "observed": "Brasil",
+          "normalized": "Brazil"
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/feito-pipa",
+      "title": "Feito Pipa",
+      "source": "https://www.amorfestival.com/pelicula/feito-pipa/",
+      "status": "matched",
+      "tmdbId": 1393615,
+      "method": "strict_rule_v1",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1393615",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "Feito Pipa"
+        },
+        {
+          "field": "countries",
+          "observed": "Brasil",
+          "normalized": "Brazil"
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/grandma-nai-who-played-favorites",
+      "title": "Grandma Nai who played favorites",
+      "source": "https://www.amorfestival.com/pelicula/grandma-nai-who-played-favorites/",
+      "status": "matched",
+      "tmdbId": 1403490,
+      "method": "manual",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1403490",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "ចៅសំណព្វចិត្ត"
+        },
+        {
+          "field": "director",
+          "observed": "Chheangkea Chheangkea",
+          "normalized": "Chheangkea"
+        },
+        {
+          "field": "countries",
+          "observed": "Camboya, Francia, Estados Unidos",
+          "normalized": "Cambodia, France, United States of America"
+        },
+        {
+          "field": "synopsis",
+          "observed": "Durante la visita de su familia a Qingming, la abuela muerta Nai se escapa de su vida después de enterarse de que su nieto homosexual está a punto de comprometerse con una mujer.",
+          "normalized": "En una visita a su familia, la abuela Nai regresa del más allá al enterarse de que su nieto gay está a punto de comprometerse con una mujer."
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/jim-queen",
+      "title": "Jim Queen",
+      "source": "https://www.amorfestival.com/pelicula/jim-queen/",
+      "status": "matched",
+      "tmdbId": 1061798,
+      "method": "strict_rule_v1",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1061798",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "Jim Queen"
+        },
+        {
+          "field": "director",
+          "observed": "Nicolas Athané, Marco Nguyen",
+          "normalized": "Marco Nguyen, Nicolas Athané"
+        },
+        {
+          "field": "countries",
+          "observed": "Francia, Bélgica",
+          "normalized": "France, Belgium"
+        },
+        {
+          "field": "synopsis",
+          "observed": "Este filme animado para adultos, cuenta la historia de Jim, influencer de la escena gay parisina cuya vida da un vuelco inesperado cuando contrae la Heterosis, un extraño virus que transforma a los hombres gay en heterosexuales. Junto a Lucien, un joven que no termina de aceptarse tal como es, se lanzan a la búsqueda de un misterioso remedio que podría curar a Jim e impedir la extinción de la homosexualidad. Una historia sobre fama, deseo e identidad.",
+          "normalized": "En la escena gay parisina, Jim es el rey de Gym Queens, la comunidad más sexy y codiciada de las redes sociales. Un día, se da cuenta de que ha sido infectado por Heterosis, un extraño virus que diezma la comunidad y convierte a los gays en... ¡heterosexuales! Jim pierde su trono y es abandonado por todo su entorno. Todos menos un seguidor: Lucien, un escuálido joven virgen. Juntos, emprenden un viaje a través del Marais (el pueblo gay parisino), en busca del misterioso doctor Ragoult, que afirma haber encontrado una cura para el virus. Esta cura no sólo podría salvar a Jim, sino también evitar la extinción de la homosexualidad."
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/jugo-en-polvo",
+      "title": "Jugo en Polvo",
+      "source": "https://www.m100.cl/programacion/cine/9-amor-festival-internacional-de-cine-lgbt/",
+      "status": "matched",
+      "tmdbId": 1491904,
+      "method": "strict_rule_v1",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1491904",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "Jugo en polvo"
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/julian",
+      "title": "Julian",
+      "source": "https://www.amorfestival.com/pelicula/julian/",
+      "status": "matched",
+      "tmdbId": 1421539,
+      "method": "strict_rule_v1",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1421539",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "Julian"
+        },
+        {
+          "field": "countries",
+          "observed": "Bélgica",
+          "normalized": "Belgium, Netherlands"
+        },
+        {
+          "field": "synopsis",
+          "observed": "Completamente enamoradas, Fleur y Julian han decidido casarse en cada uno de los lugares del mundo donde está permitido el matrimonio entre personas del mismo sexo. Lo que comienza como un viaje de celebración y activismo por la igualdad de derechos, da un giro emotivo y doloroso cuando se enfrentan a una cruda realidad. Una historia basada en la vida de la activista y escritora Fleur Pierets, quien junto a su esposa Julian P. Boom, lanzaron en 2017 el “Proyecto 22”, un plan para casarse en los 22 países que en ese momento tenían legalizado el matrimonio igualitario con el fin de generar conciencia global.",
+          "normalized": "Fleur y Julian se han enamorado perdidamente y han decidido casarse en cada uno de los lugares del mundo donde está permitido el matrimonio entre personas del mismo sexo. Impulsadas por una creciente sensación de urgencia, ambas emprenden esta gira del amor con la meta de desposarse en 22 países. Pero solo cuatro ceremonias después, su viaje llega a un inevitable y doloroso final."
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/la-hora-de-irse",
+      "title": "La hora de irse",
+      "source": "https://www.amorfestival.com/pelicula/la-hora-de-irse/",
+      "status": "matched",
+      "tmdbId": 1614670,
+      "method": "strict_rule_v1",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1614670",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "La hora de irse"
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/la-vida-de-una-mujer-la-vie-dune-femme",
+      "title": "La vida de una mujer (La vie d’une femme)",
+      "source": "https://www.amorfestival.com/pelicula/la-vida-de-una-mujer-la-vie-dune-femme/",
+      "status": "matched",
+      "tmdbId": 1258181,
+      "method": "strict_rule_v1",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1258181",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": "La vie d’une femme",
+          "normalized": "La vie d'une femme"
+        },
+        {
+          "field": "countries",
+          "observed": "Francia",
+          "normalized": "France, Belgium"
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/maspalomas",
+      "title": "Maspalomas",
+      "source": "https://www.amorfestival.com/pelicula/maspalomas/",
+      "status": "matched",
+      "tmdbId": 1400214,
+      "method": "strict_rule_v1",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1400214",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "Maspalomas"
+        },
+        {
+          "field": "director",
+          "observed": "José Mari Goenaga, Aitor Arregi",
+          "normalized": "Aitor Arregi, Jose Mari Goenaga"
+        },
+        {
+          "field": "countries",
+          "observed": "España",
+          "normalized": "Spain"
+        },
+        {
+          "field": "synopsis",
+          "observed": "Vicente, de 76 años, lleva la vida que le gusta. Pasa su día a día tomando sol, de fiesta y buscando el placer. Un inesperado accidente le obliga a reencontrarse con su hija, a quien abandonó años atrás. Vicente tendrá que vivir en una residencia donde se verá empujado a volver al “closet” y ocultar una parte de sí mismo que creía ya resuelta. En este nuevo entorno deberá preguntarse si está a tiempo de reconcilicarse con los demás y también consigo mismo. En 2025 recibió el premio a Mejor Película en el Festival de San Sebastián y su protagonista, José Ramón Soroiz, obtuvo el premio de Mejor actor protagónico. Este 2026, Soroiz también recibió un Goya por su interpretación.",
+          "normalized": "Vicente es un señor mayor abiertamente homosexual que, cuando es ingresado en una residencia, opta por volver al armario."
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/no-money-no-honey",
+      "title": "No money no honey",
+      "source": "https://www.amorfestival.com/pelicula/no-money-no-honey/",
+      "status": "matched",
+      "tmdbId": 1589698,
+      "method": "strict_rule_v1",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1589698",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "No Money No Honey"
+        },
+        {
+          "field": "duration",
+          "observed": 84,
+          "normalized": 80
+        },
+        {
+          "field": "countries",
+          "observed": "Chile, EEUU",
+          "normalized": "Chile, United States of America"
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/on-the-sea",
+      "title": "On the sea",
+      "source": "https://www.amorfestival.com/pelicula/on-the-sea/",
+      "status": "matched",
+      "tmdbId": 1507796,
+      "method": "manual",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1507796",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "On the Sea"
+        },
+        {
+          "field": "duration",
+          "observed": 111,
+          "normalized": 115
+        },
+        {
+          "field": "countries",
+          "observed": "Reino Unido",
+          "normalized": "United Kingdom"
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/playa-escondida",
+      "title": "Playa escondida",
+      "source": "https://www.amorfestival.com/pelicula/playa-escondida/",
+      "status": "matched",
+      "tmdbId": 1714233,
+      "method": "manual",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1714233",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "Playa Escondida"
+        },
+        {
+          "field": "duration",
+          "observed": 120,
+          "normalized": 111
+        },
+        {
+          "field": "synopsis",
+          "observed": "Tomás, un joven bailarín que es expulsado de su familia tras pelear con su padre por ser bailarín y homosexual, se traslada a vivir a la playa con su amigo Lucas y otros compañeros de ballet. Allí, Tomás explora sus deseos pagando por sexo a hombres del pueblo y descubre secretos familiares.Todo cambia radicalmente cuando decide retomar su carrera de bailarín y es descubierto.",
+          "normalized": "Tras una discusión con su padre, Tomás (26) se va junto a su mejor amigo Lucas (25) y otros compañeros del ballet a la casa que la familia tiene en la playa.  Estando radicado en Playa Escondida, Tomás satisface sus deseos pagando por sexo casual a hombres del pueblo, al tiempo que descubre secretos de su familia.  Cuando decide retomar su carrera de bailarín, es descubierto en sus andanzas y su vida da un violento giro."
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/por-que-migran-los-peces",
+      "title": "¿Por qué migran los peces?",
+      "source": "https://www.m100.cl/programacion/cine/9-amor-festival-internacional-de-cine-lgbt/",
+      "status": "matched",
+      "tmdbId": 1741814,
+      "method": "manual",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1741814",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "¿Por qué migran los peces?"
+        },
+        {
+          "field": "synopsis",
+          "observed": null,
+          "normalized": "Sofía viaja a Ibiza por trabajo durante el verano. Antes de regresar a casa al final de la temporada, invita a Luciana. Entre paseos, encuentros fortuitos y atardeceres junto al mar, Luciana descubre la isla a través de los ojos de Sofía, y en su mirada confirma una verdad que había intuido durante meses, pero que no se había atrevido a nombrar."
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/rose",
+      "title": "Rose",
+      "source": "https://www.amorfestival.com/pelicula/rose/",
+      "status": "matched",
+      "tmdbId": 1176962,
+      "method": "manual",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1176962",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "Rose"
+        },
+        {
+          "field": "countries",
+          "observed": "Alemania, Austria",
+          "normalized": "Austria, Germany"
+        },
+        {
+          "field": "synopsis",
+          "observed": "Sandra Hüller ganó el Oso de Plata a la Mejor Interpretación en el Festival de Berlín 202 por este rol, donde encarna a un misterioso soldado que llega a un pueblo alemán a principios del siglo XVII reclamando ser el legítimo heredero de un campo abandonado. Aunque logra prosperar en la comunidad, las sospechas sobre su identidad siembran desconfianza entre los aldeanos. Rodada en blanco y negro, la película está inspirada en casos documentados de mujeres que vivieron haciéndose pasar por hombres para acceder a libertades que les estaban negadas.",
+          "normalized": "En medio de la agitación de la Guerra de los Treinta Años, un misterioso soldado aparece en una apartada aldea protestante afirmando ser el heredero de una mansión abandonada hace mucho tiempo. Su búsqueda de reconocimiento y aceptación se ve complicada por un secreto: ha llegado a la aldea bajo una identidad y un nombre falsos, y fingiendo pertenecer a otro género. Sin embargo, Rose —que es el verdadero nombre del soldado— no se detendrá ante nada para lograr sus objetivos."
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/salsa",
+      "title": "¡Salsa!",
+      "source": "https://www.amorfestival.com/pelicula/salsa/",
+      "status": "matched",
+      "tmdbId": 1281066,
+      "method": "strict_rule_v1",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1281066",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "¡Salsa!"
+        },
+        {
+          "field": "synopsis",
+          "observed": "Margarita, una mujer libre y apasionada por la salsa, se aleja de su matrimonio en busca de su propia identidad. Su camino se cruza con el de Liana, una turista sorda. Al ver en Liana un mundo ajeno al suyo, Margarita encuentra la compañía perfecta para explorar su verdadero ser y decide enseñarle a Liana a bailar, entendiendo su sordera como una oportunidad para un tipo de comunicación diferente, táctil y corpórea. Liana y Margarita ven en la otra el complemento ideal para encontrar la libertad que están buscando.",
+          "normalized": "Margarita, una mujer libre y apasionada por la salsa, se aleja de su matrimonio en busca de su propia identidad. Su camino se cruza con el de Liana, una turista sorda. Al ver en Liana un mundo ajeno al suyo, Margarita encuentra la compañía perfecta para explorar su verdadero ser y decide enseñarle a Liana a bailar, entendiendo su sordera como una oportunidad para un tipo de comunicación diferente, táctil y corpórea."
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/terra",
+      "title": "Terra",
+      "source": "https://www.amorfestival.com/pelicula/terra/",
+      "status": "matched",
+      "tmdbId": 1677375,
+      "method": "manual",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1677375",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "Terra"
+        },
+        {
+          "field": "duration",
+          "observed": 15,
+          "normalized": 14
+        },
+        {
+          "field": "countries",
+          "observed": "Chile, Brasil",
+          "normalized": "Chile, Brazil"
+        },
+        {
+          "field": "synopsis",
+          "observed": "Unx joven inmigrante, redescubre sus documentos de nacionalidad brasileña y su perdido apellido materno “Terra”, enfrentando las dualidades de su vida: mamá o papá, hombre o mujer, Brasil o Chile. Guiadx por la palabra, entre portugués y español, busca renacer a través de sus raíces y encontrar una identidad propia, tanto cultural como de género.",
+          "normalized": "Un joven inmigrante redescubre sus documentos brasileños y su apellido materno perdido, “Terra”, navegando las dualidades entre Brasil y Chile en busca de su propia identidad."
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/the-wind-in-ash",
+      "title": "The wind in ash",
+      "source": "https://www.amorfestival.com/pelicula/the-wind-in-ash/",
+      "status": "matched",
+      "tmdbId": 1677762,
+      "method": "manual",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1677762",
+      "corrections": [
+        {
+          "field": "year",
+          "observed": 2024,
+          "normalized": 2025
+        },
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "Xiaoxiao"
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/travesti-travesti-travesti",
+      "title": "Travesti travesti travesti",
+      "source": "https://www.amorfestival.com/pelicula/travesti-travesti-travesti/",
+      "status": "unmatched",
+      "tmdbId": null,
+      "method": null,
+      "retained": false,
+      "reason": "Bounded title/year, year-free, punctuation and English-title searches found no corroborated Yoksan Xu work. Distributor identity evidence is preserved; no TMDB binding inferred.",
+      "search": {
+        "queries": [
+          {
+            "query": "Travesti travesti travesti",
+            "year": "2024",
+            "page": 1
+          },
+          {
+            "query": "Travesti travesti travesti",
+            "year": null,
+            "page": 1
+          },
+          {
+            "query": "Travesti travesti travesti",
+            "year": null,
+            "page": 2
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "corrections": []
+    },
+    {
+      "key": "amor-2026/ultramarino",
+      "title": "Ultramarino",
+      "source": "https://www.amorfestival.com/pelicula/ultramarino/",
+      "status": "matched",
+      "tmdbId": 1542685,
+      "method": "manual",
+      "retained": false,
+      "reason": null,
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "metadataSource": "https://www.themoviedb.org/movie/1542685",
+      "corrections": [
+        {
+          "field": "originalTitle",
+          "observed": null,
+          "normalized": "Ultramarino"
+        },
+        {
+          "field": "director",
+          "observed": "Maren Zubeldia, Silvia Guglielmotti",
+          "normalized": "Maren Zubeldia, Silvina Guglielmotti"
+        },
+        {
+          "field": "duration",
+          "observed": 16,
+          "normalized": 19
+        },
+        {
+          "field": "countries",
+          "observed": "España",
+          "normalized": "Spain"
+        },
+        {
+          "field": "synopsis",
+          "observed": "El pueblo se prepara para el gran día del año, una tradicional celebración en que los hombres bajan del monte con antorchas para ser recibidos por las mujeres, que los agasajan con arrai zopa (sopa de pescado), como agradecimiento al mar que tanto les provee. Zazu acaba de cumplir 16 años y en plena adolescencia durante esta celebración, escucha el debate que produce en otras mujeres este hito, considerándolo como una costumbre profundamente patriarcal. La sociedad interpela a Zazu a que elija en un mundo dividido en dos. ¿Es posible vivir en un mundo no binario?. Así, deberá enfrentarse a los cambios propios de su edad y decidir si quiere asumir un rol social (hombre – mujer) o desafiar las etiquetas, las normas y los mandatos para ser fiel a su identidad.",
+          "normalized": "Zazu, a las puertas de la adolescencia y en plena búsqueda de su identidad, deberá optar por mantener la tradición o enfrentarse a ella."
+        }
+      ]
+    }
+  ]
+}

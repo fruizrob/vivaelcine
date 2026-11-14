@@ -1,0 +1,97 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/479533?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:09.295Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "homepage": "",
+    "id": 479533,
+    "imdb_id": "tt6976256",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Delay, Deny, Hope You Die",
+    "overview": "",
+    "popularity": 0.0981,
+    "poster_path": "/iDEa2AF0pErml241GTlfus08N7V.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "NL",
+        "name": "Netherlands"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2017-11-01",
+    "revenue": 0,
+    "runtime": 55,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Delay, Deny, Hope You Die",
+    "video": false,
+    "vote_average": 3,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2036462,
+          "known_for_department": "Directing",
+          "name": "Gregory W. Lovett",
+          "original_name": "Gregory W. Lovett",
+          "popularity": 0.0375,
+          "profile_path": null,
+          "credit_id": "5aed8d220e0a2635a000860a",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2017-11-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

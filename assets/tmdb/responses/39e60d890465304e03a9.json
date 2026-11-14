@@ -1,0 +1,94 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1211247?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:23.594Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/e3vYAsOFUt0eHIqKERBAmQIFKW4.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1211247,
+    "imdb_id": null,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Year on a Farm by the Sea",
+    "overview": "",
+    "popularity": 0.1431,
+    "poster_path": "/mENRmyryDRpNqtCpn2gBxuv8hQM.jpg",
+    "production_companies": [
+      {
+        "id": 8833,
+        "logo_path": null,
+        "name": "Anvil Films",
+        "origin_country": ""
+      },
+      {
+        "id": 158795,
+        "logo_path": null,
+        "name": "Educational Foundation for Visual Aids",
+        "origin_country": ""
+      },
+      {
+        "id": 7281,
+        "logo_path": "/iI7qdR1OFPo0U41BlpKBLD3xesh.png",
+        "name": "BFI",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "1958-02-03",
+    "revenue": 0,
+    "runtime": 17,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Year on a Farm by the Sea",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "1958-02-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1491904?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:18.209Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1491904,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "Jugo en polvo",
+    "overview": "",
+    "popularity": 0.2472,
+    "poster_path": "/jP0aSDc1xtld8cMSA1Kg30uGFWs.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "2025-10-16",
+    "revenue": 0,
+    "runtime": 19,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Jugo en polvo",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5713051,
+          "known_for_department": "Acting",
+          "name": "Emilia Alarcón",
+          "original_name": "Emilia Alarcón",
+          "popularity": 0.0492,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Isidora",
+          "credit_id": "68d6c0360812ddaff868b0ed",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1583197,
+          "known_for_department": "Acting",
+          "name": "Julia Lübbert",
+          "original_name": "Julia Lübbert",
+          "popularity": 0.18,
+          "profile_path": "/5Hb5jz4yfNDLvYyDTs5Xfm81hvY.jpg",
+          "cast_id": 9,
+          "character": "Valentina",
+          "credit_id": "68d6be88fd49dd96a7697547",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1615223,
+          "known_for_department": "Acting",
+          "name": "Paula Zúñiga",
+          "original_name": "Paula Zúñiga",
+          "popularity": 0.3477,
+          "profile_path": "/dtwtPLQCo0ERYZ01OeoIKPgE6xm.jpg",
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "68d6be73b54861613cc83818",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5480128,
+          "known_for_department": "Directing",
+          "name": "Sofía Flores Pinto",
+          "original_name": "Sofía Flores Pinto",
+          "popularity": 0.0448,
+          "profile_path": null,
+          "credit_id": "683e93b4e82bf1f205ad8772",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5480128,
+          "known_for_department": "Directing",
+          "name": "Sofía Flores Pinto",
+          "original_name": "Sofía Flores Pinto",
+          "popularity": 0.0448,
+          "profile_path": null,
+          "credit_id": "68d5fa9e1ec235988ac83378",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4342750,
+          "known_for_department": "Camera",
+          "name": "Bárbara Ibacache Ramírez",
+          "original_name": "Bárbara Ibacache Ramírez",
+          "popularity": 0.0141,
+          "profile_path": null,
+          "credit_id": "68d5fb1ebea909ccdcc4825e",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4342750,
+          "known_for_department": "Camera",
+          "name": "Bárbara Ibacache Ramírez",
+          "original_name": "Bárbara Ibacache Ramírez",
+          "popularity": 0.0141,
+          "profile_path": null,
+          "credit_id": "68d5fb46bea909ccdcc48261",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5711818,
+          "known_for_department": "Sound",
+          "name": "Vicente Mora Palma",
+          "original_name": "Vicente Mora Palma",
+          "popularity": 0.0364,
+          "profile_path": null,
+          "credit_id": "68d5fb72b18eb3ae34c832d9",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5711819,
+          "known_for_department": "Art",
+          "name": "Francisca Zamorano Coray",
+          "original_name": "Francisca Zamorano Coray",
+          "popularity": 0.0616,
+          "profile_path": null,
+          "credit_id": "68d5fb9549d13b3cddd3cd98",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5480128,
+          "known_for_department": "Directing",
+          "name": "Sofía Flores Pinto",
+          "original_name": "Sofía Flores Pinto",
+          "popularity": 0.0448,
+          "profile_path": null,
+          "credit_id": "68d6bea262d27a2de790af93",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5711818,
+          "known_for_department": "Sound",
+          "name": "Vicente Mora Palma",
+          "original_name": "Vicente Mora Palma",
+          "popularity": 0.0364,
+          "profile_path": null,
+          "credit_id": "68d6beb4f817a3dfaf90aec9",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5480128,
+          "known_for_department": "Directing",
+          "name": "Sofía Flores Pinto",
+          "original_name": "Sofía Flores Pinto",
+          "popularity": 0.0448,
+          "profile_path": null,
+          "credit_id": "68d6c06ffc4cd23736c48542",
+          "department": "Crew",
+          "job": "Script"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5735640,
+          "known_for_department": "Production",
+          "name": "Salvador Simke",
+          "original_name": "Salvador Simke",
+          "popularity": 0.0461,
+          "profile_path": null,
+          "credit_id": "68e52ccdb00e00eefaf823a8",
+          "department": "Production",
+          "job": "Production Manager"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "TE",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2025-10-16T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

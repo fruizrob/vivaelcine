@@ -1,0 +1,469 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1403490?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:17.312Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/xAU2tJuJYwgVMRh7uvDWQofGBbd.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1403490,
+    "imdb_id": "tt35002936",
+    "origin_country": [
+      "FR",
+      "KH"
+    ],
+    "original_language": "km",
+    "original_title": "ចៅសំណព្វចិត្ត",
+    "overview": "En una visita a su familia, la abuela Nai regresa del más allá al enterarse de que su nieto gay está a punto de comprometerse con una mujer.",
+    "popularity": 0.2663,
+    "poster_path": "/u9w6Xki5q1fAESEa3gUiGbuMVQp.jpg",
+    "production_companies": [
+      {
+        "id": 116554,
+        "logo_path": "/1ludvi3gpJO3EH7lwHQTLpSZOOR.png",
+        "name": "Nomade Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 59723,
+        "logo_path": "/oZH7BBpkGyMejjRMYYdhOaUgGyY.png",
+        "name": "Anti-Archive",
+        "origin_country": "KH"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "KH",
+        "name": "Cambodia"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-01-24",
+    "revenue": 0,
+    "runtime": 19,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Khmer",
+        "iso_639_1": "km",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La abuela Nai, que tenía favoritos",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 5,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5134697,
+          "known_for_department": "Acting",
+          "name": "Bonrotanak Rith",
+          "original_name": "Bonrotanak Rith",
+          "popularity": 0.0385,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Meng",
+          "credit_id": "6767c41052ab12dfea5e3559",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5134698,
+          "known_for_department": "Acting",
+          "name": "Saroeun Nay",
+          "original_name": "Saroeun Nay",
+          "popularity": 0.052,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Nai",
+          "credit_id": "6767c41b52ab12dfea5e356a",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5134699,
+          "known_for_department": "Acting",
+          "name": "Ty Sokun Theary",
+          "original_name": "Ty Sokun Theary",
+          "popularity": 0.0545,
+          "profile_path": "/gQtI4inVfjX75a2VCwvMH5ZC3kU.jpg",
+          "cast_id": 4,
+          "character": "Pech",
+          "credit_id": "6767c43552ab12dfea5e3582",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5134700,
+          "known_for_department": "Acting",
+          "name": "Phalla Im",
+          "original_name": "Phalla Im",
+          "popularity": 0.087,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Muy",
+          "credit_id": "6767c441a0c300283c748d86",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5134701,
+          "known_for_department": "Acting",
+          "name": "Chansophorn Buth",
+          "original_name": "Chansophorn Buth",
+          "popularity": 0.0864,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Lin",
+          "credit_id": "6767c45452ab12dfea5e35a9",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5134702,
+          "known_for_department": "Acting",
+          "name": "Ponleu Chab",
+          "original_name": "Ponleu Chab",
+          "popularity": 0.0595,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Viseth",
+          "credit_id": "6767c45fa0c300283c748dbe",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3226110,
+          "known_for_department": "Acting",
+          "name": "Piseth Chhun",
+          "original_name": "Piseth Chhun",
+          "popularity": 0.0945,
+          "profile_path": "/b4wxGGcpPK7crWjEiHUF3c9qmtN.jpg",
+          "cast_id": 8,
+          "character": "Rath",
+          "credit_id": "6767c47a41db2b4b9c74ae5b",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5134704,
+          "known_for_department": "Acting",
+          "name": "Naryroth Say",
+          "original_name": "Naryroth Say",
+          "popularity": 0.0667,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "6767c48552ab12dfea5e35bf",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5134705,
+          "known_for_department": "Acting",
+          "name": "Sophat Peov",
+          "original_name": "Sophat Peov",
+          "popularity": 0.0276,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "",
+          "credit_id": "6767c48ca0c300283c748dce",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5134706,
+          "known_for_department": "Acting",
+          "name": "Bophal Meas",
+          "original_name": "Bophal Meas",
+          "popularity": 0.0789,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "",
+          "credit_id": "6767c495a0c300283c748dda",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5134707,
+          "known_for_department": "Acting",
+          "name": "Thi Rea",
+          "original_name": "Thi Rea",
+          "popularity": 0.0269,
+          "profile_path": "/93ys0ETIznxXokbyDzbyml4Oi4t.jpg",
+          "cast_id": 12,
+          "character": "",
+          "credit_id": "6767c49e52ab12dfea5e35d1",
+          "order": 10
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3199138,
+          "known_for_department": "Directing",
+          "name": "Chheangkea",
+          "original_name": "Chheangkea",
+          "popularity": 0.1085,
+          "profile_path": "/syjsjXCWFU4kQdGgF8vjhXJNntB.jpg",
+          "credit_id": "6760b7f01c83152173192164",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3199138,
+          "known_for_department": "Directing",
+          "name": "Chheangkea",
+          "original_name": "Chheangkea",
+          "popularity": 0.1085,
+          "profile_path": "/syjsjXCWFU4kQdGgF8vjhXJNntB.jpg",
+          "credit_id": "6767c4ad52ab12dfea5e35e1",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3199138,
+          "known_for_department": "Directing",
+          "name": "Chheangkea",
+          "original_name": "Chheangkea",
+          "popularity": 0.1085,
+          "profile_path": "/syjsjXCWFU4kQdGgF8vjhXJNntB.jpg",
+          "credit_id": "6767c4b352ab12dfea5e35e6",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2570977,
+          "known_for_department": "Crew",
+          "name": "Shyan Tan",
+          "original_name": "Shyan Tan",
+          "popularity": 0.0847,
+          "profile_path": null,
+          "credit_id": "6767c4bfae1b411f405e470e",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3556381,
+          "known_for_department": "Production",
+          "name": "Karen Madar",
+          "original_name": "Karen Madar",
+          "popularity": 0.0871,
+          "profile_path": null,
+          "credit_id": "6767c4c8330bce6ec9912807",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3226108,
+          "known_for_department": "Production",
+          "name": "Daniel Mattes",
+          "original_name": "Daniel Mattes",
+          "popularity": 0.0555,
+          "profile_path": null,
+          "credit_id": "6767c4d28e9d9ccdeb910f56",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2113790,
+          "known_for_department": "Production",
+          "name": "Loy Te",
+          "original_name": "Loy Te",
+          "popularity": 0.1279,
+          "profile_path": null,
+          "credit_id": "6767c508a0c300283c748dfd",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5134715,
+          "known_for_department": "Production",
+          "name": "Vincent Villa",
+          "original_name": "Vincent Villa",
+          "popularity": 0.0538,
+          "profile_path": null,
+          "credit_id": "6767c539919287ef53912000",
+          "department": "Production",
+          "job": "Co-Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Hamburg International Queer Film Festival ",
+              "release_date": "2026-10-16T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "HK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Fresh Wave International Short Film Festival",
+              "release_date": "2025-12-07T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Bucheon International Fantastic Film Festival",
+              "release_date": "2025-07-05T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "GRANDMA NAI WHO PLAYED FAVORITES",
+              "release_date": "2025-11-14T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Bangkok International Film Festival",
+              "release_date": "2025-10-13T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Golden Harvest Awards",
+              "release_date": "2025-05-04T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Lviv International Film Festival Wiz-Art",
+              "release_date": "2025-09-17T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sundance",
+              "release_date": "2025-01-24T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Queer West Film Fest",
+              "release_date": "2025-06-05T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ZA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Durban International Film Festival",
+              "release_date": "2025-07-18T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

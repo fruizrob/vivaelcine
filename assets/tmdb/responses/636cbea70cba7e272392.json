@@ -1,0 +1,202 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1396445?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:50.864Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "id": 1396445,
+    "imdb_id": "tt34861938",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "ヤマトよ永遠に REBEL3199 第三章 群青のアステロイド",
+    "overview": "",
+    "popularity": 0.5478,
+    "poster_path": "/6yaM29VfdZRynw2NYJqlLi2odle.jpg",
+    "production_companies": [
+      {
+        "id": 172950,
+        "logo_path": "/nNFRxh5PkH51TXGG8xqXs3lQRAl.png",
+        "name": "studio MOTHER",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2025-04-11",
+    "revenue": 438133,
+    "runtime": 97,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "ヤマトよ永遠に REBEL3199 第三章 群青のアステロイド",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1241498,
+          "known_for_department": "Acting",
+          "name": "Daisuke Ono",
+          "original_name": "小野大輔",
+          "popularity": 3.9941,
+          "profile_path": "/5rjl28lx84JjRS0hzq3Ajvx2dhp.jpg",
+          "cast_id": 7,
+          "character": "Susumu Kodai",
+          "credit_id": "67f064f9f5a80aa545996205",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 220710,
+          "known_for_department": "Acting",
+          "name": "Houko Kuwashima",
+          "original_name": "桑島法子",
+          "popularity": 2.2921,
+          "profile_path": "/uZSmoh5jSdLwmkLaCnC3Xju6TTN.jpg",
+          "cast_id": 8,
+          "character": "Yuki Mori",
+          "credit_id": "67f06507f5a80aa54599620e",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 562941,
+          "known_for_department": "Writing",
+          "name": "Harutoshi Fukui",
+          "original_name": "福井晴敏",
+          "popularity": 0.8707,
+          "profile_path": null,
+          "credit_id": "674dcce7562b030bb5adde0e",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1558199,
+          "known_for_department": "Directing",
+          "name": "ヤマトナオミチ",
+          "original_name": "ヤマトナオミチ",
+          "popularity": 0.3955,
+          "profile_path": "/tCL0EjB4qSDwZId9t4FnuPbLTEh.jpg",
+          "credit_id": "674dccf35c9ffdbae7692815",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 78014,
+          "known_for_department": "Writing",
+          "name": "Leiji Matsumoto",
+          "original_name": "松本零士",
+          "popularity": 1.2969,
+          "profile_path": "/muSDczQxWUkLQQuwVvLO8fSdshM.jpg",
+          "credit_id": "674dcd04c3f01a13eea74aa4",
+          "department": "Writing",
+          "job": "Original Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 139090,
+          "known_for_department": "Writing",
+          "name": "西崎義展",
+          "original_name": "西崎義展",
+          "popularity": 0.6721,
+          "profile_path": null,
+          "credit_id": "674dcd0f649cac93cb642a34",
+          "department": "Writing",
+          "job": "Original Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 562941,
+          "known_for_department": "Writing",
+          "name": "Harutoshi Fukui",
+          "original_name": "福井晴敏",
+          "popularity": 0.8707,
+          "profile_path": null,
+          "credit_id": "674dcd1913a7f2dd35806a47",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1111227,
+          "known_for_department": "Directing",
+          "name": "おかひでき",
+          "original_name": "おかひでき",
+          "popularity": 0.4319,
+          "profile_path": null,
+          "credit_id": "674dcd2e649cac93cb642a59",
+          "department": "Writing",
+          "job": "Screenplay"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ja",
+              "note": "",
+              "release_date": "2025-04-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

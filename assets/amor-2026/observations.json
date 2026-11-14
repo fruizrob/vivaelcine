@@ -1,0 +1,236 @@
+{
+  "sources": [
+    {
+      "id": "home",
+      "url": "https://www.amorfestival.com/",
+      "retrievedAt": "2026-11-14T05:09:46.418694+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/home.html",
+      "sha256": "271261c228a20cfdfe7a932f884670e6b7c76e356e22eafa17094c15bcef0b11"
+    },
+    {
+      "id": "inicio",
+      "url": "https://www.amorfestival.com/inicio/",
+      "retrievedAt": "2026-11-14T05:09:46.409408+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/inicio.html",
+      "sha256": "86de84254d684713cc7991a699dfd332cb3ef36a5d32611a3b3011184ce0e981"
+    },
+    {
+      "id": "old-programme",
+      "url": "https://www.amorfestival.com/?page_id=82",
+      "retrievedAt": "2026-11-14T05:09:46.646317+00:00",
+      "status": 404,
+      "path": "assets/amor-2026/old-programme.html",
+      "sha256": "12256468688ea8d19e0c7ecf9951183d87f03f04d133961e91e7d3b489cbfb71"
+    },
+    {
+      "id": "press",
+      "url": "https://www.amorfestival.com/como-una-cometa/",
+      "retrievedAt": "2026-11-14T05:09:46.621115+00:00",
+      "status": 404,
+      "path": "assets/amor-2026/press.html",
+      "sha256": "1bb0839fdb6ea6103a5ff2d9a5644f1cc27638c4511f28627ee612a28ad26622"
+    },
+    {
+      "id": "film-index",
+      "url": "https://www.amorfestival.com/wp-json/wp/v2/pelicula?per_page=100",
+      "retrievedAt": "2026-11-14T05:09:47.762726+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-index.json",
+      "sha256": "27571f4e7703cb4a0e5b82b603bb1148687c5dd1ce8481b6c2ecc1f3b9d9001b"
+    },
+    {
+      "id": "pages",
+      "url": "https://www.amorfestival.com/wp-json/wp/v2/pages?per_page=100",
+      "retrievedAt": "2026-11-14T05:09:48.176240+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/pages.json",
+      "sha256": "ae258aab8619f1d1b816170e09d8f3b8b10b6626a6064f9394ea6e7e36695c68"
+    },
+    {
+      "id": "media",
+      "url": "https://www.amorfestival.com/wp-json/wp/v2/media?per_page=100",
+      "retrievedAt": "2026-11-14T05:09:48.492349+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/media.json",
+      "sha256": "1aeb7687e46a1e92ee1cc8e7d9542d5357aee60ecd37a8f0eb97e13cd21448ed"
+    },
+    {
+      "id": "m100",
+      "url": "https://www.m100.cl/programacion/cine/9-amor-festival-internacional-de-cine-lgbt/",
+      "retrievedAt": "2026-11-14T05:09:48.677705+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/m100.html",
+      "sha256": "dc40b6c4073ebdb31a47702a3c32efb1ed2967045759137e88874d127644e8df"
+    },
+    {
+      "id": "ticketplus",
+      "url": "https://ticketplus.cl/events/9-amor-festival-internacional-de-cine-lgbt",
+      "retrievedAt": "2026-11-14T05:09:49.731813+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/ticketplus.html",
+      "sha256": "95fe95b950285bfb2bf37a3d4f75a93fde06aead07424cf5d6deb1d86e9ebe5b"
+    },
+    {
+      "id": "film-playa-escondida",
+      "url": "https://www.amorfestival.com/pelicula/playa-escondida/",
+      "retrievedAt": "2026-11-14T05:09:48.796414+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-playa-escondida.html",
+      "sha256": "66247c4ba42302188b47a08ac6a454a40ab28156df653cf5a45b9963050bf94e"
+    },
+    {
+      "id": "film-la-vida-de-una-mujer-la-vie-dune-femme",
+      "url": "https://www.amorfestival.com/pelicula/la-vida-de-una-mujer-la-vie-dune-femme/",
+      "retrievedAt": "2026-11-14T05:09:49.303257+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-la-vida-de-una-mujer-la-vie-dune-femme.html",
+      "sha256": "b820161bf17f528a77d877144009ccb7de34a141d73aaffbba57e67cece05e94"
+    },
+    {
+      "id": "film-rose",
+      "url": "https://www.amorfestival.com/pelicula/rose/",
+      "retrievedAt": "2026-11-14T05:09:49.576388+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-rose.html",
+      "sha256": "a9468e16b2344d617ffb6402a15761d2cb73dad8fc1410815f6e3b7722afd3ce"
+    },
+    {
+      "id": "film-jim-queen",
+      "url": "https://www.amorfestival.com/pelicula/jim-queen/",
+      "retrievedAt": "2026-11-14T05:09:49.637792+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-jim-queen.html",
+      "sha256": "5f17735cd53cf2672f6db785504eb1f54368cce7ff0be5b02e2fc12d3c04406b"
+    },
+    {
+      "id": "film-no-money-no-honey",
+      "url": "https://www.amorfestival.com/pelicula/no-money-no-honey/",
+      "retrievedAt": "2026-11-14T05:09:50.207263+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-no-money-no-honey.html",
+      "sha256": "087b90f1396663bd2ee63b66c6dbbfdbe4d1711d96680238c44092ec61acb233"
+    },
+    {
+      "id": "film-on-the-sea",
+      "url": "https://www.amorfestival.com/pelicula/on-the-sea/",
+      "retrievedAt": "2026-11-14T05:09:50.860305+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-on-the-sea.html",
+      "sha256": "bcbaac51c2e11235da4503bb3453a9b2c86c9258c93d5466719b2892ea62ef75"
+    },
+    {
+      "id": "film-dreams-sex-love",
+      "url": "https://www.amorfestival.com/pelicula/dreams-sex-love/",
+      "retrievedAt": "2026-11-14T05:09:50.868924+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-dreams-sex-love.html",
+      "sha256": "6725ec826d79adf2d135e6372a84ae74924e5759bea92e86252adf14e7f607b0"
+    },
+    {
+      "id": "film-maspalomas",
+      "url": "https://www.amorfestival.com/pelicula/maspalomas/",
+      "retrievedAt": "2026-11-14T05:09:50.929168+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-maspalomas.html",
+      "sha256": "35fdca88b8fa8a121abf219c96171ea7029f2b2e313e1e8511192993368690dd"
+    },
+    {
+      "id": "film-julian",
+      "url": "https://www.amorfestival.com/pelicula/julian/",
+      "retrievedAt": "2026-11-14T05:09:51.164804+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-julian.html",
+      "sha256": "593d62581a48eb14d730714a980ca476ea16a9ae162dc7a612681a989913b2df"
+    },
+    {
+      "id": "film-el-velo-o-veu",
+      "url": "https://www.amorfestival.com/pelicula/el-velo-o-veu/",
+      "retrievedAt": "2026-11-14T05:09:52.183485+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-el-velo-o-veu.html",
+      "sha256": "fcb82f816ee38bad6bfdda81ab93f4669079a4e77f18c83e731d27132be94754"
+    },
+    {
+      "id": "film-travesti-travesti-travesti",
+      "url": "https://www.amorfestival.com/pelicula/travesti-travesti-travesti/",
+      "retrievedAt": "2026-11-14T05:09:52.270276+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-travesti-travesti-travesti.html",
+      "sha256": "8c85ebb1301581178d995733cfdcdffd6e61f9dfb5d7d9b18ac44b02d523eba1"
+    },
+    {
+      "id": "film-terra",
+      "url": "https://www.amorfestival.com/pelicula/terra/",
+      "retrievedAt": "2026-11-14T05:09:52.261808+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-terra.html",
+      "sha256": "11b56546e79ce64a3983b56e83befe956d0d0f53b5967b71ab7b4cb2e9e67a3c"
+    },
+    {
+      "id": "film-la-hora-de-irse",
+      "url": "https://www.amorfestival.com/pelicula/la-hora-de-irse/",
+      "retrievedAt": "2026-11-14T05:09:52.322303+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-la-hora-de-irse.html",
+      "sha256": "f0cc769480f932ab7915674235e7591e1313263728c505c2476e87d9d5a18fb5"
+    },
+    {
+      "id": "film-corazon-danzante-cuando-el-amor-es-baile",
+      "url": "https://www.amorfestival.com/pelicula/corazon-danzante-cuando-el-amor-es-baile/",
+      "retrievedAt": "2026-11-14T05:09:53.376346+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-corazon-danzante-cuando-el-amor-es-baile.html",
+      "sha256": "f6d8d4b89957d617c20c7761e8e0664e9f2f472442628a718319fa41bdef43a1"
+    },
+    {
+      "id": "film-grandma-nai-who-played-favorites",
+      "url": "https://www.amorfestival.com/pelicula/grandma-nai-who-played-favorites/",
+      "retrievedAt": "2026-11-14T05:09:53.632532+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-grandma-nai-who-played-favorites.html",
+      "sha256": "047fe366a301918ce646e8420e9be7eb7d30f7de0496b18d3b8733db86052e49"
+    },
+    {
+      "id": "film-delay",
+      "url": "https://www.amorfestival.com/pelicula/delay/",
+      "retrievedAt": "2026-11-14T05:09:53.628444+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-delay.html",
+      "sha256": "bafe9fb06cbd34c62ec5eaae2e5e6e083686cda530e429dbab1974eaa6eb8295"
+    },
+    {
+      "id": "film-ultramarino",
+      "url": "https://www.amorfestival.com/pelicula/ultramarino/",
+      "retrievedAt": "2026-11-14T05:09:53.824259+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-ultramarino.html",
+      "sha256": "b63eeebf7d2b43132c6c1e1a2b61671efd9088b84f9523d22c8163d95f100ba9"
+    },
+    {
+      "id": "film-the-wind-in-ash",
+      "url": "https://www.amorfestival.com/pelicula/the-wind-in-ash/",
+      "retrievedAt": "2026-11-14T05:09:53.987912+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-the-wind-in-ash.html",
+      "sha256": "ca12a2516f6bc392c131f5e102c7abbba839f3296410a63880d64f82b04378b8"
+    },
+    {
+      "id": "film-salsa",
+      "url": "https://www.amorfestival.com/pelicula/salsa/",
+      "retrievedAt": "2026-11-14T05:09:54.568610+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-salsa.html",
+      "sha256": "db7b748b449bdeec7b34bb8a064233193a986ee0d7cf9075d3d6912b2f2c7d6b"
+    },
+    {
+      "id": "film-feito-pipa",
+      "url": "https://www.amorfestival.com/pelicula/feito-pipa/",
+      "retrievedAt": "2026-11-14T05:09:54.607357+00:00",
+      "status": 200,
+      "path": "assets/amor-2026/film-feito-pipa.html",
+      "sha256": "5bf98a00526874034299c769cdb83fd4668f2f3abfc12ac3f9ccb14f4b21925f"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/969756?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:12.755Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 969756,
+    "imdb_id": null,
+    "origin_country": [
+      "HK"
+    ],
+    "original_language": "zh",
+    "original_title": "誤差",
+    "overview": "",
+    "popularity": 0.0679,
+    "poster_path": "/5FxivawPx3kwhV0Di8U1qnNtK5U.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2013-08-17",
+    "revenue": 0,
+    "runtime": 33,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "誤差",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3532458,
+          "known_for_department": "Directing",
+          "name": "Luo Xin Yu",
+          "original_name": "Luo Xin Yu",
+          "popularity": 0.0517,
+          "profile_path": null,
+          "credit_id": "626f06a509ed8f0068fdb157",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "HK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "zh",
+              "note": "",
+              "release_date": "2013-08-17T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Delay",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

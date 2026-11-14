@@ -1,0 +1,150 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1783914?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:33.201Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/2SeXA53C3j1rRQEcZKz8c3whFe9.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1783914,
+    "imdb_id": null,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_title": "Finding Rose",
+    "overview": "",
+    "popularity": 0.0626,
+    "poster_path": "/iXdIG6YkIRZak9gw3VhYSwMdby5.jpg",
+    "production_companies": [
+      {
+        "id": 312611,
+        "logo_path": null,
+        "name": "EmptyFrame",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "2026-07-02",
+    "revenue": 0,
+    "runtime": 2,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Finding Rose",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6514351,
+          "known_for_department": "Acting",
+          "name": "Chang Dan-bi",
+          "original_name": "Chang Dan-bi",
+          "popularity": 0.035,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6abbe8f48a8dbae08f50b531",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6514282,
+          "known_for_department": "Directing",
+          "name": "Jung-Dabin",
+          "original_name": "Jung-Dabin",
+          "popularity": 0.0383,
+          "profile_path": null,
+          "credit_id": "6abbe9396c84b8b326344c0c",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6514288,
+          "known_for_department": "Camera",
+          "name": "Joo-yuntae",
+          "original_name": "Joo-yuntae",
+          "popularity": 0.0563,
+          "profile_path": null,
+          "credit_id": "6abbebf142acedb8131670be",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6514291,
+          "known_for_department": "Lighting",
+          "name": "Kim-hyeongmin",
+          "original_name": "Kim-hyeongmin",
+          "popularity": 0.0309,
+          "profile_path": null,
+          "credit_id": "6abbec05f8ad2d17a092f5d4",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6514293,
+          "known_for_department": "Directing",
+          "name": "Shin-Hyeongjun",
+          "original_name": "Shin-Hyeongjun",
+          "popularity": 0.0309,
+          "profile_path": null,
+          "credit_id": "6abbec15613b3bb40d05283b",
+          "department": "Directing",
+          "job": "Assistant Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ko",
+              "note": "",
+              "release_date": "2026-07-02T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

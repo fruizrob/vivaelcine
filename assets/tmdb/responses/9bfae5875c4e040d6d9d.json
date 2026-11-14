@@ -1,0 +1,88 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/767750?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:34.613Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 767750,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Rose Hobart 2",
+    "overview": "",
+    "popularity": 0.2475,
+    "poster_path": "/e9AZm3kaUNK1GbdWqGJHQZMUTHE.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2026-12-11",
+    "revenue": 0,
+    "runtime": 10,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rose Hobart 2",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 29599,
+          "known_for_department": "Acting",
+          "name": "Rose Hobart",
+          "original_name": "Rose Hobart",
+          "popularity": 0.5114,
+          "profile_path": "/1kNYLlmwYiWvVMSRKmpt7HdKkRD.jpg",
+          "cast_id": 2,
+          "character": "Herself",
+          "credit_id": "5fbbd45ead59b5003eceba27",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2788161,
+          "known_for_department": "Directing",
+          "name": "Jefferson Everest Crawford",
+          "original_name": "Jefferson Everest Crawford",
+          "popularity": 0.0987,
+          "profile_path": "/eZpHm6ybLWoSCvbtGzlUqJXKdAe.jpg",
+          "credit_id": "5fbbd4530792e1003d3b825e",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-12-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

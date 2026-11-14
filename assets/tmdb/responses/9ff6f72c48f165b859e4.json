@@ -1,0 +1,100 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/648609?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:29.219Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/2BxaYNsxuaJb2vu7qh7d4A6HxBb.jpg",
+    "belongs_to_collection": {
+      "id": 1197514,
+      "name": "On the Trail of Bigfoot Collection",
+      "poster_path": "/zAcT6lKaOiNB7Totx4zGI7CZ71z.jpg",
+      "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 648609,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "On the Trail of Bigfoot: The Search",
+    "overview": "",
+    "popularity": 0.0601,
+    "poster_path": "/rZgtnpWpGxkiKC9A49hyh7LVBd2.jpg",
+    "production_companies": [
+      {
+        "id": 100671,
+        "logo_path": "/zU6uHxAsB6vlxwwvY8Il6FpbCds.png",
+        "name": "Small Town Monsters",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2019-03-30",
+    "revenue": 0,
+    "runtime": 86,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "On the Trail of Bigfoot: The Search",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1878464,
+          "known_for_department": "Directing",
+          "name": "Seth Breedlove",
+          "original_name": "Seth Breedlove",
+          "popularity": 0.2619,
+          "profile_path": "/xwyEUWG3CXYNVXwhWkifT6h3VJA.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5dd0331cb76cbb0011794c7a",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1878464,
+          "known_for_department": "Directing",
+          "name": "Seth Breedlove",
+          "original_name": "Seth Breedlove",
+          "popularity": 0.2619,
+          "profile_path": "/xwyEUWG3CXYNVXwhWkifT6h3VJA.jpg",
+          "credit_id": "5f5924c4c525c400389ba8d9",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2019-03-30T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

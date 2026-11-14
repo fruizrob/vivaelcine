@@ -1,0 +1,123 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Delay&include_adult=false&language=es-ES&year=2025",
+  "retrievedAt": "2026-11-14T05:13:05.938Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/oW3IOZ76ZPXT5cbfvjwhQGwozLI.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1035295,
+        "title": "The Delay",
+        "original_language": "it",
+        "original_title": "The Delay",
+        "overview": "",
+        "popularity": 0.4133,
+        "poster_path": "/UwxNEs1L1Gt3ewBc475hQl7rrJ.jpg",
+        "release_date": "2022-10-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 1518461,
+        "title": "The Delay",
+        "original_language": "en",
+        "original_title": "The Delay",
+        "overview": "",
+        "popularity": 0.1577,
+        "poster_path": "/oHRqQStu2tbfYEFgZFueojGz1MK.jpg",
+        "release_date": "2025-05-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 1632222,
+        "title": "Delay Deny Defend",
+        "original_language": "en",
+        "original_title": "Delay Deny Defend",
+        "overview": "",
+        "popularity": 0.0434,
+        "poster_path": "/3s14Na6Mh9S6zxY4CYWBVNHhdrN.jpg",
+        "release_date": "2025-05-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/41c7jaYwPXNdhLlUusPViGzPmeS.jpg",
+        "genre_ids": [],
+        "id": 1536107,
+        "title": "远方延误",
+        "original_language": "zh",
+        "original_title": "远方延误",
+        "overview": "",
+        "popularity": 0.2046,
+        "poster_path": "/oMK91X7aMqVmdRiKxklRsR1p8l.jpg",
+        "release_date": "2025-09-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cfvyhw5zguprnBL2ZQ66u5bjGy7.jpg",
+        "genre_ids": [],
+        "id": 1447776,
+        "title": "흠집이 이어진 사이",
+        "original_language": "ko",
+        "original_title": "흠집이 이어진 사이",
+        "overview": "",
+        "popularity": 0.0235,
+        "poster_path": "/hFdcaHHnzecOhVXe5VK3Yl0051w.jpg",
+        "release_date": "2025-05-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 1625764,
+        "title": "Mort Différée ou mourir sans comprendre",
+        "original_language": "en",
+        "original_title": "Mort Différée ou mourir sans comprendre",
+        "overview": "",
+        "popularity": 0.0802,
+        "poster_path": "/hFC3pFHxl7O5P5QLSkWsMSoishH.jpg",
+        "release_date": "2025-11-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 6
+  }
+}

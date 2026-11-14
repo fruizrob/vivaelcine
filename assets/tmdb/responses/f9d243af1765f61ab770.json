@@ -1,0 +1,260 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/426049?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:49.140Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 426049,
+    "imdb_id": "tt0084137",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "La ingenua, la lesbiana y el travesti",
+    "overview": "El pintor Manolo ofrece a la autoestopista Virginia que pose como modelo. Su amigo Pepe la seduce y, como Manolo no logra conquistar a ninguna mujer, le trae un travestido.",
+    "popularity": 0.5048,
+    "poster_path": "/vjcjqiu1GOGaqHz3fUWSd2i87PW.jpg",
+    "production_companies": [
+      {
+        "id": 58145,
+        "logo_path": null,
+        "name": "J.B. Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "1983-05-01",
+    "revenue": 0,
+    "runtime": 73,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La ingenua, la lesbiana y el travesti",
+    "video": false,
+    "vote_average": 4,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1021680,
+          "known_for_department": "Acting",
+          "name": "Andrea Albani",
+          "original_name": "Andrea Albani",
+          "popularity": 0.4019,
+          "profile_path": "/n1S8e2Ygq3ceGO5S0IQwXZgl8Wg.jpg",
+          "cast_id": 0,
+          "character": "Virginia",
+          "credit_id": "582a1703c3a3683608036928",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 106051,
+          "known_for_department": "Acting",
+          "name": "Concha Valero",
+          "original_name": "Concha Valero",
+          "popularity": 0.3741,
+          "profile_path": "/gmt2Y8sAcMqPsDeTCOnEvp3iCNo.jpg",
+          "cast_id": 1,
+          "character": "Inés",
+          "credit_id": "582a1712c3a368623f0175be",
+          "order": 1
+        },
+        {
+          "adult": true,
+          "gender": 1,
+          "id": 1381449,
+          "known_for_department": "Acting",
+          "name": "Jennifer James",
+          "original_name": "Jennifer James",
+          "popularity": 0,
+          "profile_path": "/AbZ89vSEJqYtyrfc6wusRrnRH21.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "582a17259251417b1d03ac8e",
+          "order": 2
+        },
+        {
+          "adult": true,
+          "gender": 1,
+          "id": 1380770,
+          "known_for_department": "Acting",
+          "name": "Mirna Bel",
+          "original_name": "Mirna Bel",
+          "popularity": 0,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Emy",
+          "credit_id": "582a1730c3a3682358004c8c",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1499133,
+          "known_for_department": "Acting",
+          "name": "Nina Herlan",
+          "original_name": "Nina Herlan",
+          "popularity": 0.1056,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "(as Nina Merlan)",
+          "credit_id": "582a173e9251417b2303a3da",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1487188,
+          "known_for_department": "Acting",
+          "name": "Jordi Batalla",
+          "original_name": "Jordi Batalla",
+          "popularity": 0.234,
+          "profile_path": "/geButW13glmcECMbZcw2QTx05ec.jpg",
+          "cast_id": 5,
+          "character": "Manolo",
+          "credit_id": "582a174ec3a368623f0175ea",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1487189,
+          "known_for_department": "Acting",
+          "name": "James Garci",
+          "original_name": "James Garci",
+          "popularity": 0.0836,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Pepe",
+          "credit_id": "582a175dc3a368038102fa21",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 230667,
+          "known_for_department": "Writing",
+          "name": "Alfonso Balcázar",
+          "original_name": "Alfonso Balcázar",
+          "popularity": 0.3453,
+          "profile_path": null,
+          "credit_id": "582a177a9251417b2103b3ce",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 230667,
+          "known_for_department": "Writing",
+          "name": "Alfonso Balcázar",
+          "original_name": "Alfonso Balcázar",
+          "popularity": 0.3453,
+          "profile_path": null,
+          "credit_id": "582a17839251417b2303a3f9",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1487184,
+          "known_for_department": "Sound",
+          "name": "Ramón B. Lorent",
+          "original_name": "Ramón B. Lorent",
+          "popularity": 0.0312,
+          "profile_path": null,
+          "credit_id": "582a17929251417b1803c1bf",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1487185,
+          "known_for_department": "Camera",
+          "name": "José Antonio del Álamo",
+          "original_name": "José Antonio del Álamo",
+          "popularity": 0.2661,
+          "profile_path": null,
+          "credit_id": "582a179f9251417b1803c1c8",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1499131,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Elisa Plana",
+          "original_name": "Elisa Plana",
+          "popularity": 0.2806,
+          "profile_path": null,
+          "credit_id": "582a17ab9251417b2103b3e9",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1499132,
+          "known_for_department": "Directing",
+          "name": "Federico Canudas",
+          "original_name": "Federico Canudas",
+          "popularity": 0.227,
+          "profile_path": null,
+          "credit_id": "582a17be9251417b1803c1d8",
+          "department": "Directing",
+          "job": "Assistant Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "\"S\"",
+              "release_date": "1983-05-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}
