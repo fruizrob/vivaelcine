@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T02:35:31.192Z",
+  "generatedAt": "2026-11-14T04:37:41.352Z",
   "rows": [
     {
       "key": "sanfic-2026/el-tigre-del-este",
@@ -449,8 +449,8 @@
       "yearSource": "",
       "letterboxd": "",
       "sourceFingerprint": "135c8cfc9a5f45fe51fdff2172955f96b9085bcbdd7f8c85991cfefde3e86e11",
-      "status": "unmatched",
-      "reason": "no_accepted_candidate",
+      "status": "matched",
+      "reason": null,
       "candidates": [
         {
           "id": 1688870,
@@ -472,8 +472,13 @@
             "director",
             "runtime"
           ],
-          "registryStatus": null,
-          "evidence": [],
+          "registryStatus": "accepted",
+          "evidence": [
+            {
+              "source": "https://github.com/fruizrob/vivaelcine/blob/codex/ficvina-tmdb/assets/tmdb/ficvina-review-submitted-20261114.json",
+              "note": "User explicitly accepted TMDB 1688870 in the FICVIÑA comparison HTML. Catalogue runtimes and credits remain sourced from the festival."
+            }
+          ],
           "retrievedAt": "2026-11-14T02:27:06.957Z",
           "fingerprint": "679e1171a7b5b55d38ead78235091c805f2bb867804f406c7739b2fbe59d4636"
         }
@@ -2050,31 +2055,6 @@
       "reason": "search_truncated",
       "candidates": [
         {
-          "id": 1333148,
-          "title": "Captura",
-          "originalTitle": "Captura",
-          "year": 2024,
-          "duration": 76,
-          "directors": [
-            "Adi Voicu"
-          ],
-          "directorIds": [
-            1581237
-          ],
-          "imdbId": "tt31828781",
-          "overview": "",
-          "countries": "Romania, Bulgaria",
-          "poster": "/sr3knfntoqmBy3D5mQp8lDKZEVx.jpg",
-          "problems": [
-            "director",
-            "runtime"
-          ],
-          "registryStatus": null,
-          "evidence": [],
-          "retrievedAt": "2026-11-14T02:26:39.358Z",
-          "fingerprint": "f230ee8e323bda9393f4d30994e7323ede244150d5e993fc472ade666d1df86e"
-        },
-        {
           "id": 1767078,
           "title": "Captura",
           "originalTitle": "Captura",
@@ -3086,6 +3066,36 @@
           "evidence": [],
           "retrievedAt": "2026-11-14T02:26:45.974Z",
           "fingerprint": "599e80f9ebb1f2b31480ce1ed5281bb616240836606b67c027895fe4f5b6073c"
+        },
+        {
+          "id": 1333148,
+          "title": "Captura",
+          "originalTitle": "Captura",
+          "year": 2024,
+          "duration": 76,
+          "directors": [
+            "Adi Voicu"
+          ],
+          "directorIds": [
+            1581237
+          ],
+          "imdbId": "tt31828781",
+          "overview": "",
+          "countries": "Romania, Bulgaria",
+          "poster": "/sr3knfntoqmBy3D5mQp8lDKZEVx.jpg",
+          "problems": [
+            "director",
+            "runtime"
+          ],
+          "registryStatus": "rejected",
+          "evidence": [
+            {
+              "source": "https://github.com/fruizrob/vivaelcine/blob/codex/ficvina-tmdb/assets/tmdb/ficvina-review-submitted-20261114.json",
+              "note": "User explicitly rejected TMDB 1333148 in the FICVIÑA comparison HTML. Catalogue runtimes and credits remain sourced from the festival."
+            }
+          ],
+          "retrievedAt": "2026-11-14T02:26:39.358Z",
+          "fingerprint": "f230ee8e323bda9393f4d30994e7323ede244150d5e993fc472ade666d1df86e"
         }
       ]
     },
@@ -3122,31 +3132,6 @@
       "status": "unmatched",
       "reason": "no_accepted_candidate",
       "candidates": [
-        {
-          "id": 1165912,
-          "title": "Caudal",
-          "originalTitle": "Caudal",
-          "year": 2021,
-          "duration": null,
-          "directors": [
-            "Luís Sobreiro"
-          ],
-          "directorIds": [
-            1931495
-          ],
-          "imdbId": null,
-          "overview": "",
-          "countries": "Portugal",
-          "poster": "/kIcHI8I9aSHueNTbnrgK939jlbD.jpg",
-          "problems": [
-            "director",
-            "runtime"
-          ],
-          "registryStatus": null,
-          "evidence": [],
-          "retrievedAt": "2026-11-14T02:25:46.929Z",
-          "fingerprint": "5478935f5a70bd08ddfd5b6c08a77264f9a09fb3bfff79ff3943b846496ec69e"
-        },
         {
           "id": 1304835,
           "title": "Caudal",
@@ -3223,6 +3208,36 @@
           "evidence": [],
           "retrievedAt": "2026-11-14T02:25:47.234Z",
           "fingerprint": "c45292dc12c9fceb991491a118b9e0f438afe35c4870bfb83df68d422a79f845"
+        },
+        {
+          "id": 1165912,
+          "title": "Caudal",
+          "originalTitle": "Caudal",
+          "year": 2021,
+          "duration": null,
+          "directors": [
+            "Luís Sobreiro"
+          ],
+          "directorIds": [
+            1931495
+          ],
+          "imdbId": null,
+          "overview": "",
+          "countries": "Portugal",
+          "poster": "/kIcHI8I9aSHueNTbnrgK939jlbD.jpg",
+          "problems": [
+            "director",
+            "runtime"
+          ],
+          "registryStatus": "rejected",
+          "evidence": [
+            {
+              "source": "https://github.com/fruizrob/vivaelcine/blob/codex/ficvina-tmdb/assets/tmdb/ficvina-review-submitted-20261114.json",
+              "note": "User explicitly rejected TMDB 1165912 in the FICVIÑA comparison HTML. Catalogue runtimes and credits remain sourced from the festival."
+            }
+          ],
+          "retrievedAt": "2026-11-14T02:25:46.929Z",
+          "fingerprint": "5478935f5a70bd08ddfd5b6c08a77264f9a09fb3bfff79ff3943b846496ec69e"
         }
       ]
     },
@@ -4474,31 +4489,6 @@
       "reason": "no_accepted_candidate",
       "candidates": [
         {
-          "id": 34796,
-          "title": "El pan nuestro de cada día",
-          "originalTitle": "City Girl",
-          "year": 1930,
-          "duration": 77,
-          "directors": [
-            "F. W. Murnau"
-          ],
-          "directorIds": [
-            9076
-          ],
-          "imdbId": "tt0020768",
-          "overview": "Primer film sonoro de Murnau (y último de ficción). Durante su producción y rodaje (en tierras americanas, donde había realizado ya la obra maestra \"Sunrise\"), surgieron importantes divergencias del director alemán con el dueño de la Fox, William Fox. La más importante fue la imposición de ser un film hablado (Murnau comenzó la película siendo muda), dado el fulgurante éxito del cine sonoro, así como la incapacidad del estudio por conseguir a la estrella Janet Gaynor (protagonista de \"Amanecer\"). Murnau, desencantado, decidió una vez acabada la película asociarse con el documentalista Robert J. Flaherty, para rodar \"Tabu\" sin ningún tipo de imposición de los estudios. \"El pan nuestro de cada día\" está basada en la obra \"The Mad Turtle\", de Elliott Lester, y narra la historia de un joven de Minnesota que va a Chicago y se enamora.",
-          "countries": "United States of America",
-          "poster": "/d0ioAdV4cg9euanBb2OdA3zpAsT.jpg",
-          "problems": [
-            "director",
-            "runtime"
-          ],
-          "registryStatus": null,
-          "evidence": [],
-          "retrievedAt": "2026-11-14T02:26:47.086Z",
-          "fingerprint": "8493887c4bc37d9d4b298197481852e912e25d3de522d44bce2f3e5196bbf680"
-        },
-        {
           "id": 1712767,
           "title": "El pan nuestro de cada día",
           "originalTitle": "El pan nuestro de cada día",
@@ -4547,6 +4537,36 @@
           "evidence": [],
           "retrievedAt": "2026-11-14T02:26:47.407Z",
           "fingerprint": "74bb11ca9c4ea5ef19685e3e55f9a23d9b7b51230b3c4c62be9c7d7f976e2196"
+        },
+        {
+          "id": 34796,
+          "title": "El pan nuestro de cada día",
+          "originalTitle": "City Girl",
+          "year": 1930,
+          "duration": 77,
+          "directors": [
+            "F. W. Murnau"
+          ],
+          "directorIds": [
+            9076
+          ],
+          "imdbId": "tt0020768",
+          "overview": "Primer film sonoro de Murnau (y último de ficción). Durante su producción y rodaje (en tierras americanas, donde había realizado ya la obra maestra \"Sunrise\"), surgieron importantes divergencias del director alemán con el dueño de la Fox, William Fox. La más importante fue la imposición de ser un film hablado (Murnau comenzó la película siendo muda), dado el fulgurante éxito del cine sonoro, así como la incapacidad del estudio por conseguir a la estrella Janet Gaynor (protagonista de \"Amanecer\"). Murnau, desencantado, decidió una vez acabada la película asociarse con el documentalista Robert J. Flaherty, para rodar \"Tabu\" sin ningún tipo de imposición de los estudios. \"El pan nuestro de cada día\" está basada en la obra \"The Mad Turtle\", de Elliott Lester, y narra la historia de un joven de Minnesota que va a Chicago y se enamora.",
+          "countries": "United States of America",
+          "poster": "/d0ioAdV4cg9euanBb2OdA3zpAsT.jpg",
+          "problems": [
+            "director",
+            "runtime"
+          ],
+          "registryStatus": "rejected",
+          "evidence": [
+            {
+              "source": "https://github.com/fruizrob/vivaelcine/blob/codex/ficvina-tmdb/assets/tmdb/ficvina-review-submitted-20261114.json",
+              "note": "User explicitly rejected TMDB 34796 in the FICVIÑA comparison HTML. Catalogue runtimes and credits remain sourced from the festival."
+            }
+          ],
+          "retrievedAt": "2026-11-14T02:26:47.086Z",
+          "fingerprint": "8493887c4bc37d9d4b298197481852e912e25d3de522d44bce2f3e5196bbf680"
         }
       ]
     },
@@ -6953,31 +6973,6 @@
       "reason": "no_accepted_candidate",
       "candidates": [
         {
-          "id": 335053,
-          "title": "Mi gran noche",
-          "originalTitle": "Mi gran noche",
-          "year": 2015,
-          "duration": 98,
-          "directors": [
-            "Álex de la Iglesia"
-          ],
-          "directorIds": [
-            57865
-          ],
-          "imdbId": "tt4412362",
-          "overview": "En las afueras de Madrid, en España, cientos de extras han sido encerrados en un pabellón industrial para fingir que celebran con alegría histérica una falsa fiesta de Nochevieja que se emitirá por televisión. Pero una semana y media después, el enfrentamiento entre las dos estrellas del espectáculo, así como entre varios miembros del equipo técnico, amenaza con prolongar semejante pesadilla.",
-          "countries": "Spain",
-          "poster": "/kBxVRAN1IrODPDhUoBIhY2eWA03.jpg",
-          "problems": [
-            "director",
-            "runtime"
-          ],
-          "registryStatus": null,
-          "evidence": [],
-          "retrievedAt": "2026-11-14T02:26:20.487Z",
-          "fingerprint": "b16cd72a4bbb912dbcc25f60567eb477bbe35d27c143e8927b360c28a9645ff9"
-        },
-        {
           "id": 1661506,
           "title": "Mi gran noche",
           "originalTitle": "Mi gran noche",
@@ -7093,6 +7088,36 @@
           "evidence": [],
           "retrievedAt": "2026-11-14T02:26:21.341Z",
           "fingerprint": "e73332d1a5409343d260583f56d9dcdf5747aa13cb47b26009774342f6ae4a8d"
+        },
+        {
+          "id": 335053,
+          "title": "Mi gran noche",
+          "originalTitle": "Mi gran noche",
+          "year": 2015,
+          "duration": 98,
+          "directors": [
+            "Álex de la Iglesia"
+          ],
+          "directorIds": [
+            57865
+          ],
+          "imdbId": "tt4412362",
+          "overview": "En las afueras de Madrid, en España, cientos de extras han sido encerrados en un pabellón industrial para fingir que celebran con alegría histérica una falsa fiesta de Nochevieja que se emitirá por televisión. Pero una semana y media después, el enfrentamiento entre las dos estrellas del espectáculo, así como entre varios miembros del equipo técnico, amenaza con prolongar semejante pesadilla.",
+          "countries": "Spain",
+          "poster": "/kBxVRAN1IrODPDhUoBIhY2eWA03.jpg",
+          "problems": [
+            "director",
+            "runtime"
+          ],
+          "registryStatus": "rejected",
+          "evidence": [
+            {
+              "source": "https://github.com/fruizrob/vivaelcine/blob/codex/ficvina-tmdb/assets/tmdb/ficvina-review-submitted-20261114.json",
+              "note": "User explicitly rejected TMDB 335053 in the FICVIÑA comparison HTML. Catalogue runtimes and credits remain sourced from the festival."
+            }
+          ],
+          "retrievedAt": "2026-11-14T02:26:20.487Z",
+          "fingerprint": "b16cd72a4bbb912dbcc25f60567eb477bbe35d27c143e8927b360c28a9645ff9"
         }
       ]
     },
@@ -7893,8 +7918,13 @@
             "director",
             "runtime"
           ],
-          "registryStatus": null,
-          "evidence": [],
+          "registryStatus": "rejected",
+          "evidence": [
+            {
+              "source": "https://github.com/fruizrob/vivaelcine/blob/codex/ficvina-tmdb/assets/tmdb/ficvina-review-submitted-20261114.json",
+              "note": "User explicitly rejected TMDB 862433 in the FICVIÑA comparison HTML. Catalogue runtimes and credits remain sourced from the festival."
+            }
+          ],
           "retrievedAt": "2026-11-14T02:27:05.571Z",
           "fingerprint": "dfb2bc7704290f23bb02c49d8441262dc64d6a0cb58b3ad92517819f0fe6b1e0"
         }
@@ -8045,31 +8075,6 @@
           "evidence": [],
           "retrievedAt": "2026-11-14T02:26:01.227Z",
           "fingerprint": "ac4469b83823a2d9f32aafcbdf4f5ad67acfc9403cd13476bb9649046121fe8d"
-        },
-        {
-          "id": 372357,
-          "title": "Paulina",
-          "originalTitle": "Paulina",
-          "year": 2012,
-          "duration": null,
-          "directors": [
-            "Lynn Kossler"
-          ],
-          "directorIds": [
-            1548344
-          ],
-          "imdbId": "tt2534584",
-          "overview": "",
-          "countries": "Germany",
-          "poster": null,
-          "problems": [
-            "director",
-            "runtime"
-          ],
-          "registryStatus": null,
-          "evidence": [],
-          "retrievedAt": "2026-11-14T02:26:01.375Z",
-          "fingerprint": "f49b144665b7784622da822248ec634e65f37dd97a8bff41e380d9455611f411"
         },
         {
           "id": 744363,
@@ -8616,6 +8621,36 @@
           "evidence": [],
           "retrievedAt": "2026-11-14T02:26:04.552Z",
           "fingerprint": "5f24ef78dfa8e21f82e00e458c4d270eb4236cebc50f73db077149fadce4456e"
+        },
+        {
+          "id": 372357,
+          "title": "Paulina",
+          "originalTitle": "Paulina",
+          "year": 2012,
+          "duration": null,
+          "directors": [
+            "Lynn Kossler"
+          ],
+          "directorIds": [
+            1548344
+          ],
+          "imdbId": "tt2534584",
+          "overview": "",
+          "countries": "Germany",
+          "poster": null,
+          "problems": [
+            "director",
+            "runtime"
+          ],
+          "registryStatus": "rejected",
+          "evidence": [
+            {
+              "source": "https://github.com/fruizrob/vivaelcine/blob/codex/ficvina-tmdb/assets/tmdb/ficvina-review-submitted-20261114.json",
+              "note": "User explicitly rejected TMDB 372357 in the FICVIÑA comparison HTML. Catalogue runtimes and credits remain sourced from the festival."
+            }
+          ],
+          "retrievedAt": "2026-11-14T02:26:01.375Z",
+          "fingerprint": "f49b144665b7784622da822248ec634e65f37dd97a8bff41e380d9455611f411"
         }
       ]
     },
@@ -9223,32 +9258,6 @@
           "fingerprint": "e8fd1bf7291905505cf058e4e8104e84b00469f6c78c7abd4f34e925399baff5"
         },
         {
-          "id": 300681,
-          "title": "Réplicas",
-          "originalTitle": "Replicas",
-          "year": 2018,
-          "duration": 120,
-          "directors": [
-            "Jeffrey Nachmanoff"
-          ],
-          "directorIds": [
-            6047
-          ],
-          "imdbId": "tt4154916",
-          "overview": "Thriller de ciencia ficción que se centra en un neurocientífico que, después de sufrir un accidente de coche y que en este muriera su familia, no se detendrá ante nada para traerlos de vuelta, incluso si eso significa enfrentarse a él mismo dentro de un laboratorio controlado por el gobierno, un grupo de trabajo de policía y las leyes físicas de la ciencia.",
-          "countries": "Canada, China, Puerto Rico, United Kingdom, United States of America",
-          "poster": "/fHyzRHTDpLDbuyy5fnnlSf1jql6.jpg",
-          "problems": [
-            "director",
-            "year",
-            "runtime"
-          ],
-          "registryStatus": null,
-          "evidence": [],
-          "retrievedAt": "2026-11-14T02:26:18.910Z",
-          "fingerprint": "56374c7a3a9f9e96f12d597aed1c770f7e2f474805dbc75f0dc26e5ab676d296"
-        },
-        {
           "id": 702264,
           "title": "Gary Numan - Replicas Live",
           "originalTitle": "Gary Numan - Replicas Live",
@@ -9297,6 +9306,37 @@
           "evidence": [],
           "retrievedAt": "2026-11-14T02:26:19.067Z",
           "fingerprint": "a28ee8592fa9d117bde4976637cc4f1183659c0db3a95ec1427c254857874753"
+        },
+        {
+          "id": 300681,
+          "title": "Réplicas",
+          "originalTitle": "Replicas",
+          "year": 2018,
+          "duration": 120,
+          "directors": [
+            "Jeffrey Nachmanoff"
+          ],
+          "directorIds": [
+            6047
+          ],
+          "imdbId": "tt4154916",
+          "overview": "Thriller de ciencia ficción que se centra en un neurocientífico que, después de sufrir un accidente de coche y que en este muriera su familia, no se detendrá ante nada para traerlos de vuelta, incluso si eso significa enfrentarse a él mismo dentro de un laboratorio controlado por el gobierno, un grupo de trabajo de policía y las leyes físicas de la ciencia.",
+          "countries": "Canada, China, Puerto Rico, United Kingdom, United States of America",
+          "poster": "/fHyzRHTDpLDbuyy5fnnlSf1jql6.jpg",
+          "problems": [
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": "rejected",
+          "evidence": [
+            {
+              "source": "https://github.com/fruizrob/vivaelcine/blob/codex/ficvina-tmdb/assets/tmdb/ficvina-review-submitted-20261114.json",
+              "note": "User explicitly rejected TMDB 300681 in the FICVIÑA comparison HTML. Catalogue runtimes and credits remain sourced from the festival."
+            }
+          ],
+          "retrievedAt": "2026-11-14T02:26:18.910Z",
+          "fingerprint": "56374c7a3a9f9e96f12d597aed1c770f7e2f474805dbc75f0dc26e5ab676d296"
         }
       ]
     },
@@ -9333,31 +9373,6 @@
       "status": "needs_review",
       "reason": "search_truncated",
       "candidates": [
-        {
-          "id": 951682,
-          "title": "Ross",
-          "originalTitle": "Ross",
-          "year": 2013,
-          "duration": 12,
-          "directors": [
-            "Declan Allen"
-          ],
-          "directorIds": [
-            4097770
-          ],
-          "imdbId": null,
-          "overview": "",
-          "countries": "",
-          "poster": null,
-          "problems": [
-            "director",
-            "runtime"
-          ],
-          "registryStatus": null,
-          "evidence": [],
-          "retrievedAt": "2026-11-14T02:26:22.581Z",
-          "fingerprint": "0f0050ce363130218c9aa9ba1b2b06acbbf2b450e5e664c7e4d1fe5e76cba8cd"
-        },
         {
           "id": 1086784,
           "title": "Alex Ross Perry",
@@ -10363,6 +10378,36 @@
           "evidence": [],
           "retrievedAt": "2026-11-14T02:26:26.252Z",
           "fingerprint": "dc9f4b68dbf0a1f75279d3030540de0993aed4f4fef9e96ddd593562662a7e40"
+        },
+        {
+          "id": 951682,
+          "title": "Ross",
+          "originalTitle": "Ross",
+          "year": 2013,
+          "duration": 12,
+          "directors": [
+            "Declan Allen"
+          ],
+          "directorIds": [
+            4097770
+          ],
+          "imdbId": null,
+          "overview": "",
+          "countries": "",
+          "poster": null,
+          "problems": [
+            "director",
+            "runtime"
+          ],
+          "registryStatus": "rejected",
+          "evidence": [
+            {
+              "source": "https://github.com/fruizrob/vivaelcine/blob/codex/ficvina-tmdb/assets/tmdb/ficvina-review-submitted-20261114.json",
+              "note": "User explicitly rejected TMDB 951682 in the FICVIÑA comparison HTML. Catalogue runtimes and credits remain sourced from the festival."
+            }
+          ],
+          "retrievedAt": "2026-11-14T02:26:22.581Z",
+          "fingerprint": "0f0050ce363130218c9aa9ba1b2b06acbbf2b450e5e664c7e4d1fe5e76cba8cd"
         }
       ]
     },
@@ -10396,8 +10441,8 @@
       "yearSource": "",
       "letterboxd": "",
       "sourceFingerprint": "a870a8c5a439ae53e0f2bf629484328aafe73e925122d34e32dffacc75013587",
-      "status": "unmatched",
-      "reason": "no_accepted_candidate",
+      "status": "matched",
+      "reason": null,
       "candidates": [
         {
           "id": 1661932,
@@ -10418,8 +10463,13 @@
           "problems": [
             "runtime"
           ],
-          "registryStatus": null,
-          "evidence": [],
+          "registryStatus": "accepted",
+          "evidence": [
+            {
+              "source": "https://github.com/fruizrob/vivaelcine/blob/codex/ficvina-tmdb/assets/tmdb/ficvina-review-submitted-20261114.json",
+              "note": "User explicitly accepted TMDB 1661932 in the FICVIÑA comparison HTML. Catalogue runtimes and credits remain sourced from the festival."
+            }
+          ],
           "retrievedAt": "2026-11-14T02:26:48.299Z",
           "fingerprint": "fe5a86c288ab862404543480d834376d2d839a5516a9d4dd0e7168cc1672010c"
         }
@@ -10545,31 +10595,6 @@
       "reason": "no_accepted_candidate",
       "candidates": [
         {
-          "id": 538384,
-          "title": "Tauromaquia",
-          "originalTitle": "Tauromaquia",
-          "year": 2015,
-          "duration": 3,
-          "directors": [
-            "Christian Arredondo Narváez"
-          ],
-          "directorIds": [
-            2093570
-          ],
-          "imdbId": "tt11637946",
-          "overview": "El dramático desenlace del encuentro entre un toro y un torero.",
-          "countries": "Mexico",
-          "poster": "/yj7cIgIadLfqHteiUnmrLrzskxY.jpg",
-          "problems": [
-            "director",
-            "runtime"
-          ],
-          "registryStatus": null,
-          "evidence": [],
-          "retrievedAt": "2026-11-14T02:26:06.857Z",
-          "fingerprint": "31416ddfc7d85a0455de9cedf31c06f09eb3f3d4eeff7cb6be489526a9306bfa"
-        },
-        {
           "id": 1609111,
           "title": "Tauromaquia",
           "originalTitle": "Tauromaquia",
@@ -10619,6 +10644,36 @@
           "evidence": [],
           "retrievedAt": "2026-11-14T02:26:07.185Z",
           "fingerprint": "2017eaec6aa68b4f8bf8b6483c8642c8f2c23992c2efd2f8d14ee076769989f0"
+        },
+        {
+          "id": 538384,
+          "title": "Tauromaquia",
+          "originalTitle": "Tauromaquia",
+          "year": 2015,
+          "duration": 3,
+          "directors": [
+            "Christian Arredondo Narváez"
+          ],
+          "directorIds": [
+            2093570
+          ],
+          "imdbId": "tt11637946",
+          "overview": "El dramático desenlace del encuentro entre un toro y un torero.",
+          "countries": "Mexico",
+          "poster": "/yj7cIgIadLfqHteiUnmrLrzskxY.jpg",
+          "problems": [
+            "director",
+            "runtime"
+          ],
+          "registryStatus": "rejected",
+          "evidence": [
+            {
+              "source": "https://github.com/fruizrob/vivaelcine/blob/codex/ficvina-tmdb/assets/tmdb/ficvina-review-submitted-20261114.json",
+              "note": "User explicitly rejected TMDB 538384 in the FICVIÑA comparison HTML. Catalogue runtimes and credits remain sourced from the festival."
+            }
+          ],
+          "retrievedAt": "2026-11-14T02:26:06.857Z",
+          "fingerprint": "31416ddfc7d85a0455de9cedf31c06f09eb3f3d4eeff7cb6be489526a9306bfa"
         }
       ]
     },
@@ -11724,32 +11779,6 @@
           "fingerprint": "70f17c30e622ee5a3c843a00451a1fc5e0f2133dcf6e014a60e090692d7b4735"
         },
         {
-          "id": 25237,
-          "title": "Masacre (Ven y mira)",
-          "originalTitle": "Иди и смотри",
-          "year": 1985,
-          "duration": 142,
-          "directors": [
-            "Элем Климов"
-          ],
-          "directorIds": [
-            93406
-          ],
-          "imdbId": "tt0091251",
-          "overview": "Tras encontrar un viejo rifle, un joven se une a las fuerzas de la resistencia soviética, que lucha por expulsar a las fuerzas nazis del frente oriental. Allí, será testigo de algunos los mayores horrores cometidos en la Segunda Guerra Mundial.",
-          "countries": "Soviet Union",
-          "poster": "/j2hzNkmwYT184eP9qYdjViiYxCO.jpg",
-          "problems": [
-            "title",
-            "director",
-            "runtime"
-          ],
-          "registryStatus": null,
-          "evidence": [],
-          "retrievedAt": "2026-11-14T02:26:30.090Z",
-          "fingerprint": "a8ec7b08dedcf5ed3a37e1257525963b1ac15d23aa59e50ff6313e229fd8d12f"
-        },
-        {
           "id": 702725,
           "title": "Min ven privatdetektiven",
           "originalTitle": "Min ven privatdetektiven",
@@ -12402,6 +12431,37 @@
           "evidence": [],
           "retrievedAt": "2026-11-14T02:26:31.798Z",
           "fingerprint": "b44b7fb3139ae3d9cfbd244f8bf1b2c50ee4ea7c4d6569e004c9c866e51a5a0e"
+        },
+        {
+          "id": 25237,
+          "title": "Masacre (Ven y mira)",
+          "originalTitle": "Иди и смотри",
+          "year": 1985,
+          "duration": 142,
+          "directors": [
+            "Элем Климов"
+          ],
+          "directorIds": [
+            93406
+          ],
+          "imdbId": "tt0091251",
+          "overview": "Tras encontrar un viejo rifle, un joven se une a las fuerzas de la resistencia soviética, que lucha por expulsar a las fuerzas nazis del frente oriental. Allí, será testigo de algunos los mayores horrores cometidos en la Segunda Guerra Mundial.",
+          "countries": "Soviet Union",
+          "poster": "/j2hzNkmwYT184eP9qYdjViiYxCO.jpg",
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ],
+          "registryStatus": "rejected",
+          "evidence": [
+            {
+              "source": "https://github.com/fruizrob/vivaelcine/blob/codex/ficvina-tmdb/assets/tmdb/ficvina-review-submitted-20261114.json",
+              "note": "User explicitly rejected TMDB 25237 in the FICVIÑA comparison HTML. Catalogue runtimes and credits remain sourced from the festival."
+            }
+          ],
+          "retrievedAt": "2026-11-14T02:26:30.090Z",
+          "fingerprint": "a8ec7b08dedcf5ed3a37e1257525963b1ac15d23aa59e50ff6313e229fd8d12f"
         }
       ]
     },
@@ -12589,31 +12649,6 @@
       "reason": "no_accepted_candidate",
       "candidates": [
         {
-          "id": 1222780,
-          "title": "Zozobra",
-          "originalTitle": "Zozobra",
-          "year": 2024,
-          "duration": null,
-          "directors": [
-            "Carlos Goytortúa"
-          ],
-          "directorIds": [
-            3579073
-          ],
-          "imdbId": null,
-          "overview": "",
-          "countries": "",
-          "poster": "/x5v6x5lxYliZRsmOB757mzct4ya.jpg",
-          "problems": [
-            "director",
-            "runtime"
-          ],
-          "registryStatus": null,
-          "evidence": [],
-          "retrievedAt": "2026-11-14T02:26:37.416Z",
-          "fingerprint": "cc017f4741d2e68080451006d70e361934fa4293586b2773b63c7647e2fc910d"
-        },
-        {
           "id": 766007,
           "title": "La zozobra",
           "originalTitle": "La zozobra",
@@ -12742,6 +12777,36 @@
           "evidence": [],
           "retrievedAt": "2026-11-14T02:26:38.002Z",
           "fingerprint": "e9a08806c1da623d9a381ea6cf228270ef36d7ae77089fb60c8b4312e5450edb"
+        },
+        {
+          "id": 1222780,
+          "title": "Zozobra",
+          "originalTitle": "Zozobra",
+          "year": 2024,
+          "duration": null,
+          "directors": [
+            "Carlos Goytortúa"
+          ],
+          "directorIds": [
+            3579073
+          ],
+          "imdbId": null,
+          "overview": "",
+          "countries": "",
+          "poster": "/x5v6x5lxYliZRsmOB757mzct4ya.jpg",
+          "problems": [
+            "director",
+            "runtime"
+          ],
+          "registryStatus": "rejected",
+          "evidence": [
+            {
+              "source": "https://github.com/fruizrob/vivaelcine/blob/codex/ficvina-tmdb/assets/tmdb/ficvina-review-submitted-20261114.json",
+              "note": "User explicitly rejected TMDB 1222780 in the FICVIÑA comparison HTML. Catalogue runtimes and credits remain sourced from the festival."
+            }
+          ],
+          "retrievedAt": "2026-11-14T02:26:37.416Z",
+          "fingerprint": "cc017f4741d2e68080451006d70e361934fa4293586b2773b63c7647e2fc910d"
         }
       ]
     }

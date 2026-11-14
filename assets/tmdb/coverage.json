@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-14T02:35:31.053Z",
+  "generatedAt": "2026-11-14T04:37:41.185Z",
   "coverage": {
     "total": 219,
     "queried": 216,
     "unannounced": 3,
-    "matched": 165,
-    "unmatched": 30,
+    "matched": 167,
+    "unmatched": 28,
     "ambiguous": 0,
     "needsReview": 21,
     "retained": 0,
-    "withFestivalHistory": 84,
-    "appearances": 192
+    "withFestivalHistory": 85,
+    "appearances": 195
   },
   "films": [
     {
@@ -760,7 +760,8 @@
           "problems": [
             "director",
             "runtime"
-          ]
+          ],
+          "decision": "rejected"
         },
         {
           "id": 1304835,
@@ -3258,7 +3259,8 @@
           "problems": [
             "director",
             "runtime"
-          ]
+          ],
+          "decision": "rejected"
         },
         {
           "id": 744363,
@@ -3666,7 +3668,8 @@
           "problems": [
             "director",
             "runtime"
-          ]
+          ],
+          "decision": "rejected"
         },
         {
           "id": 1609111,
@@ -4091,7 +4094,8 @@
             "director",
             "year",
             "runtime"
-          ]
+          ],
+          "decision": "rejected"
         },
         {
           "id": 622776,
@@ -4276,7 +4280,8 @@
           "problems": [
             "director",
             "runtime"
-          ]
+          ],
+          "decision": "rejected"
         },
         {
           "id": 1661506,
@@ -4457,7 +4462,8 @@
           "problems": [
             "director",
             "runtime"
-          ]
+          ],
+          "decision": "rejected"
         },
         {
           "id": 402422,
@@ -4979,7 +4985,8 @@
             "title",
             "director",
             "runtime"
-          ]
+          ],
+          "decision": "rejected"
         },
         {
           "id": 238693,
@@ -5571,7 +5578,8 @@
           "problems": [
             "director",
             "runtime"
-          ]
+          ],
+          "decision": "rejected"
         },
         {
           "id": 766007,
@@ -5772,7 +5780,8 @@
           "problems": [
             "director",
             "runtime"
-          ]
+          ],
+          "decision": "rejected"
         },
         {
           "id": 1767078,
@@ -6348,7 +6357,8 @@
           "problems": [
             "director",
             "runtime"
-          ]
+          ],
+          "decision": "rejected"
         },
         {
           "id": 1712767,
@@ -6471,36 +6481,91 @@
     {
       "key": "ficvina-2026/siempre-soy-tu-animal-materno",
       "title": "Siempre soy tu animal materno",
-      "status": "unmatched",
+      "status": "matched",
       "filmId": "ficvina-2026/siempre-soy-tu-animal-materno",
-      "method": null,
-      "reason": "no_accepted_candidate",
+      "method": "manual",
+      "reason": null,
       "retained": false,
-      "discrepancies": [],
+      "discrepancies": [
+        "runtime"
+      ],
       "search": {
-        "queries": [
-          {
-            "query": "Siempre soy tu animal materno",
-            "year": "2026",
-            "page": 1
-          },
-          {
-            "query": "Siempre soy tu animal materno",
-            "year": null,
-            "page": 1
-          }
-        ],
+        "queries": [],
         "truncated": false,
         "maxPages": 2,
         "maxCandidates": 40
       },
-      "tmdbId": null,
-      "appearances": 0,
-      "boundTmdbId": null,
+      "tmdbId": 1661932,
+      "appearances": 3,
+      "boundTmdbId": 1661932,
       "catalogueYear": 2026,
-      "tmdbYear": null,
-      "yearStatus": "catalogue_fallback",
-      "unclassifiedPremieres": [],
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "AT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Vienna International Film Festival",
+          "release_date": "2026-11-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Melbourne International Film Festival",
+          "release_date": "2026-08-15T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Rio de Janeiro International Film Festival",
+          "release_date": "2026-10-03T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bogota International Film Festival ",
+          "release_date": "2026-10-09T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "DE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Munich International Film Festival ",
+          "release_date": "2026-06-28T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "New Horizons International Film Festival",
+          "release_date": "2026-07-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bangkok International Film Festival",
+          "release_date": "2026-09-18T00:00:00.000Z",
+          "type": 1
+        }
+      ],
       "candidates": [
         {
           "id": 1661932,
@@ -7014,7 +7079,8 @@
             "title",
             "director",
             "runtime"
-          ]
+          ],
+          "decision": "rejected"
         }
       ]
     },
@@ -7123,30 +7189,27 @@
     {
       "key": "ficvina-2026/universos-2/A menina que queria ser pedra",
       "title": "A menina que queria ser pedra",
-      "status": "unmatched",
+      "status": "matched",
       "filmId": "ficvina-2026/universos-2/A menina que queria ser pedra",
-      "method": null,
-      "reason": "no_accepted_candidate",
+      "method": "manual",
+      "reason": null,
       "retained": false,
-      "discrepancies": [],
+      "discrepancies": [
+        "director",
+        "runtime"
+      ],
       "search": {
-        "queries": [
-          {
-            "query": "A menina que queria ser pedra",
-            "year": null,
-            "page": 1
-          }
-        ],
+        "queries": [],
         "truncated": false,
         "maxPages": 2,
         "maxCandidates": 40
       },
-      "tmdbId": null,
+      "tmdbId": 1688870,
       "appearances": 0,
-      "boundTmdbId": null,
+      "boundTmdbId": 1688870,
       "catalogueYear": null,
-      "tmdbYear": null,
-      "yearStatus": "catalogue_fallback",
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
       "unclassifiedPremieres": [],
       "candidates": [
         {

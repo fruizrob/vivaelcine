@@ -9,9 +9,9 @@ catalogue, and offline replay exercises every registered film.
 ## Result
 
 - 85 works checked, including individual programme members.
-- 57 supported identities: 14 strict automatic matches and 43 documented manual
-  bindings, including six aliases of existing SANFIC/FIDOCS identities.
-- 55 posters available; 28 works remain unpublished in provider metadata.
+- 59 accepted identities: 14 strict automatic matches, 43 sourced manual
+  bindings and two explicit user approvals. Six reuse SANFIC/FIDOCS identities.
+- 57 posters available; 26 works remain unpublished in provider metadata.
 - Existing SANFIC/FIDOCS posters, metadata and histories are unchanged.
 
 The [per-film audit](../assets/tmdb/ficvina-2026-audit.json) lists every result,
@@ -53,13 +53,28 @@ Karmele displays provider year 2025 while preserving the published 114 minutes;
 Plata o mierda retains FICVIÑA's 98 minutes despite the provider's 88. This
 establishes the work, not a verified screening master or cut.
 
+## Submitted review — November 14
+
+The user approved A menina que queria ser pedra (1688870) and Siempre soy tu
+animal materno (1661932), and rejected eleven individual candidates. The
+[original export](../assets/tmdb/ficvina-review-submitted-20261114.json) is
+preserved byte-for-byte; its SHA-256 is recorded in the per-film audit.
+`data/ficvina-review-decisions.json` adds user attribution and export provenance
+without changing choices. Catalogue and candidate fingerprints, embedded
+observations, unique provider ownership and idempotent replay were validated.
+
+The first approval accepts Jackson Teixeira / Jackson Abacatu as the work's
+director-name variation. The second accepts the work despite a 100-versus-180
+minute discrepancy; the festival screening remains 180 minutes. These are
+explicit user decisions, not new independent verification of names or cuts.
+
+The eleven rejections exclude only the selected candidates, not every possible
+record for those titles. Those films and the fifteen unreviewed films remain
+unresolved, for 26 pending works in total.
+
 ## Pending cases
 
-Siempre soy tu animal materno has a candidate with matching title/director but
-100 minutes against the programme's 180; publication remains held for version
-or source-correction evidence. A menina que queria ser pedra needs a documented
-link between the source's Jackson Teixeira and candidate Jackson Abacatu for
-this work. Ross, Ven and Captura exhausted the bounded search without a
+Ross, Ven and Captura exhausted the bounded search without a
 supported candidate. Other missing results and wrong-director namesakes remain
 pending; this does not prove their absence from TMDB.
 

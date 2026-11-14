@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-14T02:35:31.053Z",
+  "generatedAt": "2026-11-14T04:37:41.185Z",
   "coverage": {
     "total": 219,
     "queried": 216,
     "unannounced": 3,
-    "matched": 165,
-    "unmatched": 30,
+    "matched": 167,
+    "unmatched": 28,
     "ambiguous": 0,
     "needsReview": 21,
     "retained": 0,
-    "withFestivalHistory": 84,
-    "appearances": 192
+    "withFestivalHistory": 85,
+    "appearances": 195
   },
   "films": {
     "ficvina-2026/cine-chileno/Detrás de la lluvia": [
@@ -270,6 +270,23 @@
         "festival": "Locarno",
         "date": "2025-08-10",
         "source": "https://www.themoviedb.org/movie/1508247/releases"
+      }
+    ],
+    "ficvina-2026/siempre-soy-tu-animal-materno": [
+      {
+        "festival": "Cannes",
+        "date": "2026-05-16",
+        "source": "https://www.themoviedb.org/movie/1661932/releases"
+      },
+      {
+        "festival": "Karlovy Vary",
+        "date": "2026-07-03",
+        "source": "https://www.themoviedb.org/movie/1661932/releases"
+      },
+      {
+        "festival": "San Sebastián",
+        "date": "2026-09-18",
+        "source": "https://www.themoviedb.org/movie/1661932/releases"
       }
     ],
     "ficvina-2026/sorda": [
@@ -1307,6 +1324,10 @@
       "path": "/dq3z9bi7ws6CIL7iV0UnLZQERTw.jpg",
       "source": "https://www.themoviedb.org/movie/1598492"
     },
+    "ficvina-2026/siempre-soy-tu-animal-materno": {
+      "path": "/2z1ce203n8qJzR6PFoi5wNs2Shj.jpg",
+      "source": "https://www.themoviedb.org/movie/1661932"
+    },
     "ficvina-2026/sorda": {
       "path": "/hfBwdvdp11wiMqdipxIY4dOzBUC.jpg",
       "source": "https://www.themoviedb.org/movie/1303613"
@@ -1330,6 +1351,10 @@
     "ficvina-2026/universos-1/Trabajo hecho": {
       "path": "/7NSdvPKuaiA82wXVoSyluqvAket.jpg",
       "source": "https://www.themoviedb.org/movie/1766948"
+    },
+    "ficvina-2026/universos-2/A menina que queria ser pedra": {
+      "path": "/pzSYQNSgmkWKSr5iz143lkaq8vX.jpg",
+      "source": "https://www.themoviedb.org/movie/1688870"
     },
     "ficvina-2026/universos-2/Decaer": {
       "path": "/vG4HQdPsjfVOBuAN3L2Yea7HdQ4.jpg",
@@ -4811,6 +4836,90 @@
       "source": "https://www.themoviedb.org/movie/1598492",
       "releases": []
     },
+    "ficvina-2026/siempre-soy-tu-animal-materno": {
+      "tmdbId": 1661932,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1661932",
+      "releases": [
+        {
+          "country": "AT",
+          "type": 1,
+          "date": "2026-11-01T00:00:00.000Z",
+          "note": "Vienna International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "AU",
+          "type": 1,
+          "date": "2026-08-15T00:00:00.000Z",
+          "note": "Melbourne International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "BR",
+          "type": 1,
+          "date": "2026-10-03T00:00:00.000Z",
+          "note": "Rio de Janeiro International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CO",
+          "type": 1,
+          "date": "2026-10-09T00:00:00.000Z",
+          "note": "Bogota International Film Festival ",
+          "certification": ""
+        },
+        {
+          "country": "CZ",
+          "type": 1,
+          "date": "2026-07-03T00:00:00.000Z",
+          "note": "Karlovy Vary International Film Festival ",
+          "certification": ""
+        },
+        {
+          "country": "DE",
+          "type": 1,
+          "date": "2026-06-28T00:00:00.000Z",
+          "note": "Munich International Film Festival ",
+          "certification": ""
+        },
+        {
+          "country": "ES",
+          "type": 1,
+          "date": "2026-09-18T00:00:00.000Z",
+          "note": "San Sebastián Internacional Film Festival ",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-05-16T00:00:00.000Z",
+          "note": "Cannes Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 3,
+          "date": "2026-10-07T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "PL",
+          "type": 1,
+          "date": "2026-07-24T00:00:00.000Z",
+          "note": "New Horizons International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "TH",
+          "type": 1,
+          "date": "2026-09-18T00:00:00.000Z",
+          "note": "Bangkok International Film Festival",
+          "certification": ""
+        }
+      ]
+    },
     "ficvina-2026/sorda": {
       "tmdbId": 1303613,
       "year": 2025,
@@ -5213,6 +5322,20 @@
           "type": 3,
           "date": "2026-08-17T00:00:00.000Z",
           "note": "Imaginaria International Animation Film Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/universos-2/A menina que queria ser pedra": {
+      "tmdbId": 1688870,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1688870",
+      "releases": [
+        {
+          "country": "BR",
+          "type": 3,
+          "date": "2026-06-03T00:00:00.000Z",
+          "note": "",
           "certification": ""
         }
       ]
