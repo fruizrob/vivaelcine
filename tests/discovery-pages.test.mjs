@@ -13,6 +13,16 @@ const pages = buildPages(festivals, sources, asOf);
 const fidocs = festivals.find(festival => festival.id === 'fidocs-2026');
 const htmlFor = id => pages.get(screeningPath(fidocs.events.find(event => event.filmId === id)));
 
+test('FICVIÑA pages identify Viña del Mar and link to their own PDF and source page', () => {
+  const festival = festivals.find(festival => festival.id === 'ficvina-2026');
+  assert.match(pages.get(editionPath(festival)), /en Viña del Mar/);
+  for (const event of festival.events) {
+    const html = pages.get(screeningPath(event));
+    assert.ok(html.includes(`${origin}/assets/programacion-ficvina-2026.pdf#page=${event.sourcePage}`));
+    assert.ok(!html.includes('programacion-sanfic22.pdf'));
+  }
+});
+
 test('every screening has distinct initial HTML facts, metadata and exact legacy agenda URL', () => {
   const canonicals = new Set();
   const titles = new Set();
@@ -42,14 +52,15 @@ test('every screening has distinct initial HTML facts, metadata and exact legacy
       descriptions.add(html.match(/name="description" content="(.*?)"/)[1]);
     }
   }
-  assert.equal(canonicals.size, 148);
-  assert.equal(titles.size, 148);
-  assert.equal(descriptions.size, 148);
+  const screenings = festivals.reduce((count, festival) => count + festival.events.length, 0);
+  assert.equal(canonicals.size, screenings);
+  assert.equal(titles.size, screenings);
+  assert.equal(descriptions.size, screenings);
 });
 
 test('home → edition → dated day → every screening is reachable without JavaScript', async () => {
   const home = await readFile(new URL('../index.html', import.meta.url), 'utf8');
-  assert.equal(pages.size, 164);
+  assert.equal(pages.size, festivals.reduce((count, festival) => count + 1 + festival.days.length + festival.events.length, 0));
   for (const festival of festivals) {
     assert.ok(home.includes(`href="${editionPath(festival)}"`));
     const edition = pages.get(editionPath(festival));
@@ -144,8 +155,9 @@ test('IANA offsets follow Chile winter/summer, midnight and DST gaps/ambiguities
 test('sitemap contains only distinct canonical URLs; robots distinguishes search and training', async () => {
   const xml = sitemap(pages);
   const urls = [...xml.matchAll(/<loc>(.*?)<\/loc>/g)].map(match => match[1]);
-  assert.equal(urls.length, 165);
-  assert.equal(new Set(urls).size, 165);
+  const expected = 1 + festivals.reduce((count, festival) => count + 1 + festival.days.length + festival.events.length, 0);
+  assert.equal(urls.length, expected);
+  assert.equal(new Set(urls).size, expected);
   assert.ok(!xml.includes('lastmod'), 'generation is not proof of source modification');
   for (const url of urls) assert.ok(url === `${origin}/` || pages.has(new URL(url).pathname));
   const robots = await readFile(new URL('../robots.txt', import.meta.url), 'utf8');

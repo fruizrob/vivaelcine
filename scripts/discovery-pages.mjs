@@ -104,7 +104,7 @@ export function buildPages(festivals, sources, asOf) {
     const name = `${festival.name} · ${first.slice(0, 4)}`;
     const days = festival.days.map(day => `<li>${link(dayPath(festival, day.date), dateLabel(day.date))} <span>${events.filter(event => event.date === day.date).length} funciones</span></li>`).join('\n');
     pages.set(editionPath(festival), frame(editionPath(festival), `Programación de ${name}`,
-      `${festival.name}: ${events.length} funciones registradas del ${first} al ${last} en Santiago. Horarios, salas y fuentes por día.`,
+      `${festival.name}: ${events.length} funciones registradas del ${first} al ${last} en ${festival.city || 'Santiago'}. Horarios, salas y fuentes por día.`,
       `<h1>Programación de ${esc(name)}</h1>${status(first, last, asOf)}
       <p>Funciones registradas del <time datetime="${first}">${esc(dateLabel(first))}</time> al <time datetime="${last}">${esc(dateLabel(last))}</time>. Estos límites describen nuestra programación; no una confirmación independiente de apertura y clausura.</p>
       <p>${link(`/?festival=${festival.id}`, 'Ver en la agenda', 'button')}</p>
@@ -114,7 +114,7 @@ export function buildPages(festivals, sources, asOf) {
     for (const day of festival.days) {
       const path = dayPath(festival, day.date);
       pages.set(path, frame(path, `${festival.name}: ${dateLabel(day.date)}`,
-        `Funciones de ${festival.name} el ${dateLabel(day.date)} en Santiago. Horarios locales, salas y enlaces a cada función.`,
+        `Funciones de ${festival.name} el ${dateLabel(day.date)} en ${festival.city || 'Santiago'}. Horarios locales, salas y enlaces a cada función.`,
         `<nav aria-label="Ruta">${link(editionPath(festival), name)}</nav>
         <h1>${esc(dateLabel(day.date))}</h1><p>${esc(name)} · Horarios en ${esc(festival.timeZone)}</p>${status(day.date, day.date, asOf)}
         <p>${link(`/?festival=${festival.id}&dia=${day.date}`, 'Ver día en la agenda', 'button')}</p>
@@ -133,7 +133,7 @@ export function buildPages(festivals, sources, asOf) {
       const ticket = event.ticketUrl || film.ticketUrl;
       const other = events.filter(other => other.filmId === event.filmId && other.id !== event.id);
       const description = `${title} en ${festival.name}: ${dateLabel(event.date)}, ${clock(event.start)}, ${roomLocation(room)}. ${duration === null ? 'Duración no publicada.' : `${duration} min.`}`;
-      const eventSource = { ...source, scheduleUrl: festival.programUrl ? `${origin}/assets/programacion-sanfic22.pdf#page=${event.sourcePage}` : official };
+      const eventSource = { ...source, scheduleUrl: festival.programUrl ? `${new URL(festival.programUrl, `${origin}/`).href}${event.sourcePage ? `#page=${event.sourcePage}` : ''}` : official };
       pages.set(path, frame(path, `${title}: ${event.date} ${clock(event.start)} · ${festival.name}`, description,
         `<nav aria-label="Ruta">${link(editionPath(festival), name)} / ${link(dayPath(festival, event.date), dateLabel(event.date))}</nav>
         <h1>${esc(title)}</h1>${status(event.date, event.date, asOf)}

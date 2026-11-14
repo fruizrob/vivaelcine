@@ -13,12 +13,14 @@ const json = async path => JSON.parse(await readFile(new URL(path, root), 'utf8'
 export async function loadInputs() {
   const sanfic = await json('assets/fuentes.json');
   const fidocs = await json('assets/fidocs-2026-sources.json');
+  const ficvina = await json('assets/ficvina-2026-sources.json');
   const snapshot = await json('data/tmdb-festival-history.json');
   return {
     festivals: festivals.map(festival => applyFilmMetadata(structuredClone(festival), snapshot.metadata)),
     sources: {
       'sanfic-2026': { retrievedOn: sanfic.consultado, scheduleUrl: sanfic.horarios.url, recordUrl: '/assets/fuentes.json' },
       'fidocs-2026': { retrievedOn: fidocs.retrieved, scheduleUrl: fidocs.sourceUrl, recordUrl: '/assets/fidocs-2026-sources.json' },
+      'ficvina-2026': { retrievedOn: ficvina.collected, scheduleUrl: ficvina.programUrl, recordUrl: '/assets/ficvina-2026-sources.json' },
     },
   };
 }
