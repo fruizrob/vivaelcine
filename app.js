@@ -3,7 +3,7 @@ import { festivals, festivalFor } from './data.js?v=20261113-fidocs';
 import { clock, durationOf, endOf, initialDay, roomLocation, yearOf } from './core.js?v=20261112-selection';
 import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange, timelineWidth } from './timeline.js?v=20261112-zoom';
 import { screeningUrl } from './story.js?v=20261112-short-links';
-import { setupSharing } from './sharing.js?v=20261114-calendar';
+import { googleCalendarUrl, setupSharing } from './sharing.js?v=20261114-calendar';
 import { renderFestivalHistory } from './festival-history.js?v=20261105-premieres';
 import { renderFilmPoster } from './film-poster.js?v=20261105-posters';
 import { archiveNavigation, hasExplicitSelection } from './archive-navigation.js?v=20261112-archive';
@@ -160,6 +160,10 @@ function renderDetail() {
       <strong>${clock(event.start)}${finish === null ? '' : `–${clock(finish, true)}`}</strong>
       <span>${esc(roomLocation(room))}</span>
     </p>
+    <a class="calendar-button" href="${esc(googleCalendarUrl(data, event, location.href))}" target="_blank" rel="noopener noreferrer">
+      <img src="./assets/gmail.svg" width="24" height="24" alt="">
+      Añadir a Google Calendar
+    </a>
     ${notes.map(note => `<p>${esc(note)}</p>`).join('')}
     <div class="detail-links">
       <a href="${esc(source)}" target="_blank" rel="noopener">${film.kind === 'activity' ? 'Actividad' : source === ticket ? 'Entradas' : film.components ? 'Programa' : 'Ficha'} ↗</a>
