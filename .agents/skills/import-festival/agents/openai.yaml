@@ -1,0 +1,4 @@
+interface:
+  display_name: "Import festival"
+  short_description: "Import and refresh festivals with verified TMDB data"
+  default_prompt: "Use $import-festival to import or refresh this festival automatically, normalize verified film details from TMDB, and report unresolved identities without pausing for review."

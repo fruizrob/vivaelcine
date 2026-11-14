@@ -3,6 +3,10 @@
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before development and when creating,
 updating, reviewing, or closing issues or pull requests.
 
+For festival imports, programme refreshes, and festival TMDB matching audits, use
+[the import-festival skill](.agents/skills/import-festival/SKILL.md). It defines
+unattended acquisition, TMDB authority, programme reconciliation, and coverage checks.
+
 ## Product standard: simplicity and craft
 
 Apply to every change. Aim for the clarity and polish of Linear and Apple Notes.
