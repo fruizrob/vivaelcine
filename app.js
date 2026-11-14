@@ -2,10 +2,10 @@ import { applyFilmMetadata } from './film-metadata.js';
 import { festivals, festivalFor } from './data.js?v=20261113-fidocs';
 import { clock, durationOf, endOf, initialDay, roomLocation, yearOf } from './core.js?v=20261112-selection';
 import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange, timelineWidth } from './timeline.js?v=20261112-zoom';
-import { screeningUrl } from './story.js?v=20261112-short-links';
-import { googleCalendarUrl, setupSharing } from './sharing.js?v=20261114-calendar';
+import { screeningUrl } from './story.js?v=20261114-artwork';
+import { googleCalendarUrl, setupSharing } from './sharing.js?v=20261114-artwork';
 import { renderFestivalHistory } from './festival-history.js?v=20261105-premieres';
-import { renderFilmPoster } from './film-poster.js?v=20261105-posters';
+import { renderFilmPoster } from './film-poster.js?v=20261114-story';
 import { archiveNavigation, hasExplicitSelection } from './archive-navigation.js?v=20261112-archive';
 
 const now = new Date();

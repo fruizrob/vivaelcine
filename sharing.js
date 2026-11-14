@@ -1,4 +1,4 @@
-import { setupStory } from './story.js?v=20261112-short-links';
+import { setupStory } from './story.js?v=20261114-artwork';
 import { sharedScreeningUrl as screeningUrl } from './screening-links.js?v=20261112-short-links';
 import { clock, endOf, roomLocation } from './core.js?v=20261112-selection';
 

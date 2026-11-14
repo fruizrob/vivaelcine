@@ -56,7 +56,9 @@ Existing `?festival=FID&dia=YYYY-MM-DD&funcion=EVENT_ID` links still open that e
 
 **Invitar a alguien** shares a personal Spanish message with the film, full date, time, venue/room, and exact screening link. It opens native text sharing when supported; otherwise it copies the complete invitation. If sharing fails, copying remains the fallback; cancelling native sharing does not copy anything. When clipboard access is unavailable, the menu shows the full selected message for manual copying.
 
-Images are generated locally with Canvas; no backend, login, or external image service. Sharing requires a supported browser and HTTPS (or localhost). The browser cannot choose Instagram as the destination or guarantee its Story composer opens; the user selects the destination. Verify that handoff on physical iOS and Android devices. [Implementation references](docs/instagram-story-sharing.md).
+Stories include the matched TMDB poster, the premiere festival's logo and scope (or a clearly labelled earliest recorded appearance), director, verified year/runtime, and screening details. Posters remain uncropped. Programmes keep a text layout and attribute any festival mark to its individual film. Missing or failed artwork leaves a usable text image.
+
+Images are composed locally with Canvas using the existing TMDB image CDN and local festival logos; no backend or login. Sharing requires a supported browser and HTTPS (or localhost). The browser cannot choose Instagram as the destination or guarantee its Story composer opens; the user selects the destination. Verify that handoff on physical iOS and Android devices. [Implementation references](docs/instagram-story-sharing.md).
 
 ## Deployment
 
@@ -88,7 +90,7 @@ Agenda cards show the festival of the film's confirmed world premiere, or its ea
 
 Screening details show a compact, uncropped poster beside the title when the matched TMDB film has artwork. Programme members show their own posters inside the expanded film list; separately identified parts never inherit the parent film's image. Missing or failed images leave the text details available. The agenda stays focused on times and rooms.
 
-Poster paths and source links are published in the same local snapshot as festival histories, using the existing film identity checks. Images load from TMDB's image CDN only when details are opened (programme images load lazily). No API credentials are sent to visitors. TMDB attribution remains in the page footer.
+Poster paths and source links are published in the same local snapshot as festival histories, using the existing film identity checks. Images load from TMDB's image CDN when details or a Story preview are opened (programme images load lazily). No API credentials are sent to visitors. TMDB attribution remains in the page footer.
 
 `npm run import:tmdb` reads the entire dashboard catalogue, reuses accepted provider identities, saves successful API responses under `assets/tmdb/responses/`, updates `data/film-identities.json`, writes coverage and a [review queue](assets/tmdb/review.md), and generates `data/tmdb-festival-history.json` for the site. New identities use verified external IDs or bounded title searches, retrying without a year when needed. Conflicts, pending decisions and truncated searches stay in review. Repeated screenings count once; programme members and separately identified parts keep their own identities. Unannounced winner slots are reported without querying an invented film. Visitors read only the local JSON; they never contact TMDB's API or need credentials. Curated histories take precedence for the same festival and year.
 
