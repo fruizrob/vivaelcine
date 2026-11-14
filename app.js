@@ -23,6 +23,16 @@ const state = {
   zoom: 1,
 };
 const dialog = $('#film-dialog');
+const releaseNotes = $('#release-notes');
+$('#show-release-notes').addEventListener('click', () => {
+  releaseNotes.showModal();
+  releaseNotes.scrollTop = 0;
+});
+releaseNotes.addEventListener('click', event => {
+  if (event.target !== releaseNotes) return;
+  const bounds = releaseNotes.getBoundingClientRect();
+  if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) releaseNotes.close();
+});
 let detailEvent = null;
 const showShare = setupSharing($('#share-menu'), $('#story-dialog'), data);
 let showPast = new URLSearchParams(location.search).get('anteriores') === '1';

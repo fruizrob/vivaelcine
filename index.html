@@ -7,8 +7,8 @@
   <meta name="description" content="Programación de festivales de cine. Horarios y películas por sala.">
   <title>¡Viva el Cine!</title>
   <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="./styles.css?v=20261114-calendar">
-  <script type="module" src="./app.js?v=20261114-calendar-ficvina-tmdb"></script>
+  <link rel="stylesheet" href="./styles.css?v=20261114-novedades">
+  <script type="module" src="./app.js?v=20261114-novedades"></script>
 </head>
 <body>
   <a class="skip-link" href="#schedule">Ir a las funciones</a>
@@ -21,7 +21,10 @@
         <button id="archive-toggle" class="archive-toggle" type="button" aria-pressed="false" aria-controls="festivals days archive-empty">Mostrar anteriores</button>
       </div>
     </div>
-    <a class="source-link" id="program-source" href="./assets/programacion-sanfic22.pdf" target="_blank" rel="noopener" aria-label="Programa oficial">Programa ↗</a>
+    <nav class="masthead-links" aria-label="Información">
+      <a class="source-link" id="program-source" href="./assets/programacion-sanfic22.pdf" target="_blank" rel="noopener" aria-label="Programa oficial">Programa ↗</a>
+      <button class="source-link" id="show-release-notes" type="button" aria-haspopup="dialog" aria-controls="release-notes">Novedades</button>
+    </nav>
   </header>
   <main>
     <p class="archive-empty" id="archive-empty" role="status" hidden>No hay programación vigente o próxima.</p>
@@ -51,6 +54,52 @@
       <p class="footer-notice" lang="en">This product uses the TMDB API but is not endorsed or certified by TMDB.</p>
     </footer>
   </main>
+  <dialog id="release-notes" class="release-notes" aria-labelledby="release-notes-title">
+    <div class="release-notes-header">
+      <h2 id="release-notes-title">Novedades</h2>
+      <form method="dialog">
+        <button class="icon-button" aria-label="Cerrar novedades" title="Cerrar" autofocus><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button>
+      </form>
+    </div>
+    <div class="release-notes-body">
+      <section aria-labelledby="release-20261114">
+        <time datetime="2026-11-14">14 de noviembre de 2026</time>
+        <h3 id="release-20261114">Más películas con información completa</h3>
+        <p>Actualizamos los años, afiches e información de películas de FICVIÑA con nuevas coincidencias revisadas. Abre una función para consultar los datos disponibles.</p>
+      </section>
+      <section aria-labelledby="release-20261113">
+        <time datetime="2026-11-13">13 de noviembre de 2026</time>
+        <h3 id="release-20261113">FICVIÑA 38 y novedades de FIDOCS</h3>
+        <ul>
+          <li><strong>FICVIÑA 38.</strong> Explora 42 bloques de programación con 85 películas, incluidas las funciones de preestreno del 20 y 21 de noviembre. Selecciona FICVIÑA en la cabecera.</li>
+          <li><strong>FIDOCS 30 actualizado.</strong> Consulta las actividades paralelas, las duraciones de las partes de Borges y los detalles de entrada e inscripción en cada función.</li>
+        </ul>
+      </section>
+      <section aria-labelledby="release-20261112">
+        <time datetime="2026-11-12">12 de noviembre de 2026</time>
+        <h3 id="release-20261112">Organiza y comparte tu próxima función</h3>
+        <ul>
+          <li><strong>Google Calendar.</strong> Abre el menú de compartir de una función y elige Google Calendar para crear un evento con su horario, sala y enlace.</li>
+          <li><strong>Invitar a alguien.</strong> Comparte o copia una invitación con los datos de la función. Los enlaces cortos abren directamente su detalle en la agenda.</li>
+          <li><strong>Programación anterior.</strong> La agenda abre en una fecha con funciones actuales o próximas. Usa Mostrar anteriores para consultar festivales y fechas pasadas.</li>
+          <li><strong>Programación en texto.</strong> Encuentra al pie de la página los enlaces para leer cada festival por día y función.</li>
+        </ul>
+      </section>
+      <section aria-labelledby="release-20261105">
+        <time datetime="2026-11-05">5 de noviembre de 2026</time>
+        <h3 id="release-20261105">Afiches y recorrido por festivales</h3>
+        <p>Abre una función para ver su afiche y sus participaciones en festivales, cuando estén disponibles. Las tarjetas también muestran el festival de estreno mundial o la primera participación registrada.</p>
+      </section>
+      <section aria-labelledby="release-20261104">
+        <time datetime="2026-11-04">4 de noviembre de 2026</time>
+        <h3 id="release-20261104">Letterboxd e historias para compartir</h3>
+        <ul>
+          <li><strong>Valoraciones.</strong> Consulta las notas verificadas en las tarjetas y abre el enlace de Letterboxd para conocer más de cada película.</li>
+          <li><strong>Historias de Instagram.</strong> En el menú de compartir, elige Historia de Instagram para generar una imagen con los datos de la función y descargarla o compartirla.</li>
+        </ul>
+      </section>
+    </div>
+  </dialog>
   <dialog id="film-dialog" aria-labelledby="film-title">
     <div id="film-detail"></div>
     <form method="dialog" class="dialog-actions">

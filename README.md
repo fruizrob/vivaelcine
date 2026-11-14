@@ -38,6 +38,12 @@ Festival links use `?festival=FID`; changing the day adds `&dia=YYYY-MM-DD`. Wit
 
 The timeline always fills its container. Zooming out reduces its time scale until it fits the available width; narrower screens keep horizontal scrolling. Cards, hour labels, and grid lines use the same plot width.
 
+## Release notes
+
+**Novedades**, beside **Programa** in the header, opens a dated Spanish history of new features and programme updates. It stays available when no current festival is shown. Close with the close button, Escape, or a click outside; the agenda selection and filters are preserved.
+
+Maintain the sections in `index.html` under `#release-notes`, newest first. Use the date the change became available, a short title, and a brief description explaining what visitors can now do or which programme data changed. Add only shipped changes backed by the repository history; keep implementation details out of the visitor copy. Each section needs a unique heading ID and a `<time datetime="YYYY-MM-DD">` date.
+
 ## Share a screening
 
 Select the small share arrow beside a screening's Letterboxd score to open a menu with **Historia de Instagram**, **Google Calendar**, and **Copiar enlace**. **Google Calendar** opens a prefilled event in the festival's timezone, using the published start, runtime, room, and screening link. A screening without a published runtime keeps that start time and notes that the duration is still unconfirmed. Supported devices also offer **Compartir enlace**, which opens the device's share sheet with the exact screening URL. The icon is also available in the detail dialog; very narrow blocks and unknown-duration markers keep sharing in their details. Choosing the Story opens a 1080 × 1920 preview with **Compartir**, **Descargar**, and **Copiar enlace**. Image sharing opens the device's share sheet when file sharing is available; downloading remains available. Paste the copied URL into Instagram's link sticker to link to the exact screening.
