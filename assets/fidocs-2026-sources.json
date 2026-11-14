@@ -1,8 +1,8 @@
 {
 "festivalId":"fidocs-2026",
-"retrieved":"2026-11-03",
+"retrieved":"2026-11-13",
 "sourceUrl":"https://fidocs.cl/programacion/",
-"method":"Four official program listing pages, every linked detail, and official outgoing ticket URLs.",
+"method":"Four official program listing pages, every linked detail, and official outgoing ticket URLs. November 13 audit: current listings/details, downloadable program and parallel activities.",
 "listingPages":[
 {"page":1,"url":"https://fidocs.cl/programacion/"},
 {"page":2,"url":"https://fidocs.cl/programacion/?e-page-30fe25f=2"},
@@ -62,7 +62,7 @@
 {"page":4,"title":"Un verano te conocí","url":"https://fidocs.cl/programacion/un-verano-te-conoci/","filmId":"un-verano-te-conoci","publishedDate":"2026-11-17","publishedStarts":[1065],"publishedTimeLabel":"17:45 Hrs.","publishedRoom":"Centro Arte Alameda – Sala CEINA","eventIds":["fidocs-2026-cortos-emergentes-2"],"ticketUrl":"https://www.passline.com/eventos/competencia-nacional-cortos-emergentes-2-fidocs-30","componentOf":"cortos-emergentes-2"},
 {"page":4,"title":"Ya no hace tanto frío en la primavera","url":"https://fidocs.cl/programacion/ya-no-hace-tanto-frio-en-la-primavera/","filmId":"ya-no-hace-tanto-frio-en-la-primavera","publishedDate":"2026-11-13","publishedStarts":[960],"publishedTimeLabel":"16:00 Hrs.","publishedRoom":"Cineteca Nacional de Chile","eventIds":["fidocs-2026-cortos-emergentes-1"],"ticketUrl":"https://www.passline.com/eventos/competencia-nacional-cortos-emergentes-1-fidocs-30","componentOf":"cortos-emergentes-1"}
 ],
-"counts":{"listingRecords":51,"publishedStarts":56,"filmRecords":53,"screeningBlocks":48,"spaces":6,"dates":7},
+"counts":{"listingRecords":51,"publishedStarts":56,"filmRecords":53,"screeningBlocks":48,"spaces":7,"dates":7,"activityRecords":4,"activityBlocks":4,"agendaBlocks":52,"screeningSpaces":6},
 "rules":[
 "Same official ticket URL, room, date and start group shorts into one session.",
 "Multipart starts retain individual runtimes only when officially published.",
@@ -70,14 +70,27 @@
 "Unknown durations remain null; no estimated ends."
 ],
 "uncertainties":[
-{"filmId":"biografia-de-jorge-luis-borges","issue":"323-minute aggregate has three starts; individual part runtimes unverified. All three event durations are null.","source":"https://fidocs.cl/programacion/biografia-de-jorge-luis-borges/"},
 {"filmId":"foco-federico-luis","issue":"Published program total 77 minutes differs from component sum 78 minutes; preserve published total.","source":"https://fidocs.cl/programacion/foco-federico-luis/"},
 {"filmId":"pelechian-project","issue":"Published header year range 1967–1992 excludes the listed 1966 Land of the People; both source values retained.","source":"https://fidocs.cl/programacion/pelechian-project/"},
 {"issue":"Three November 19 winner selections and runtimes are not announced.","sources":["https://fidocs.cl/programacion/mejor-opera-prima-fidocs-30/","https://fidocs.cl/programacion/mejor-pelicula-competencia-internacional-fidocs30/","https://fidocs.cl/programacion/mejor-pelicula-competencia-nacional-mejor-pelicula-competencia-nacional-de-cortos-emergentes-fidocs30/"]},
-{"issue":"Date range describes observed screenings; full festival opening/closing announcement not independently verified.","source":"https://fidocs.cl/programacion/"}
+{"issue":"Date range describes observed screenings; full festival opening/closing announcement not independently verified.","source":"https://fidocs.cl/programacion/"},
+{"filmId":"cortos-emergentes-1","issue":"PDF publishes 80 minutes; the five detail-page runtimes sum to 79. Preserve the component sum.","source":"https://fidocs.cl/wp-content/uploads/2026/11/Programacion-FIDOCS-30.pdf"},
+{"filmId":"la-batalla-de-chile-parte-i-ii-y-iii","issue":"PDF header says 323 minutes; its own parts total 263 (96/88/79). Preserve the verified part runtimes and 263-minute aggregate.","source":"https://fidocs.cl/wp-content/uploads/2026/11/Programacion-FIDOCS-30.pdf"}
 ],
 "additionalSources":[
-{"url":"https://www.passline.com/eventos/la-batalla-de-chile-funciones-especiales-fidocs-30","facts":"November 18 part starts 15:00/16:45/18:30; runtimes 96/88/79 min; free entry."}
+{"url":"https://www.passline.com/eventos/la-batalla-de-chile-funciones-especiales-fidocs-30","facts":"November 18 part starts 15:00/16:45/18:30; runtimes 96/88/79 min; free entry."},
+{"url":"https://fidocs.cl/wp-content/uploads/2026/11/Programacion-FIDOCS-30.pdf","facts":"Borges parts 130/89/104 min; four parallel activities; Sergio Bravo Q&A; screening context and printed shorts sequence; conflicting Cortos #1 and La Batalla totals."},
+{"url":"https://fidocs.cl/actividades-paralelas/","facts":"Four standalone activities, published intervals, venues, admission and registration links; Performance mortuoria presentation before Revolutionaries Never Die."},
+{"url":"https://fidocs.cl/foco-restauraciones/","facts":"Current FIDOCS 30 section confirms Sergio Bravo screening is free."}
 ],
-"snapshotSha256":{"source-snapshots-20261103.json":"d60374265e0e40bd38857d2d30525e5910498eedb82be18d7cbca1ffd459e43c","ticket-source-snapshots-20261103.json":"6fb0ae74a35d596ac4972b1385445bf82ba8b2dfcc92d3d7d51edc6fe12b27d3","all-ticket-links-20261103.json":"79e7c50da43b27b18c7b92c08dcdab2e62a8e87be43fb32bd0f3899ecae9d913"}
+"snapshotSha256":{"source-snapshots-20261103.json":"d60374265e0e40bd38857d2d30525e5910498eedb82be18d7cbca1ffd459e43c","ticket-source-snapshots-20261103.json":"6fb0ae74a35d596ac4972b1385445bf82ba8b2dfcc92d3d7d51edc6fe12b27d3","all-ticket-links-20261103.json":"79e7c50da43b27b18c7b92c08dcdab2e62a8e87be43fb32bd0f3899ecae9d913"},
+"baselineRetrieved":"2026-11-03",
+"activityListings":[
+{"date":"2026-11-13","start":720,"roomId":"sala-k","source":"https://fidocs.cl/actividades-paralelas/","id":"fidocs-2026-foro-nuevas-voces","filmId":"foro-nuevas-voces","venueId":"sala-k","duration":90},
+{"date":"2026-11-15","start":600,"roomId":"ceina-cine","source":"https://fidocs.cl/actividades-paralelas/","id":"fidocs-2026-panel-30-anos-de-fidocs","filmId":"panel-30-anos-de-fidocs","venueId":"ceina","duration":90},
+{"date":"2026-11-16","start":1020,"roomId":"sala-k","source":"https://fidocs.cl/actividades-paralelas/","id":"fidocs-2026-chris-marker-en-america-latina","filmId":"chris-marker-en-america-latina","venueId":"sala-k","duration":60},
+{"date":"2026-11-17","start":690,"roomId":"udp-biblioteca","source":"https://fidocs.cl/actividades-paralelas/","id":"fidocs-2026-masterclass-susana-de-sousa-dias","filmId":"masterclass-susana-de-sousa-dias","venueId":"udp","duration":120}
+],
+"supplementSha256":"b8c6e58608c4d4188867056aaadc3a3563caba7857381addd992d15d4958eace",
+"programSha256":"475a080ab66cb058f7db050be28e3944a2139bf95eeb2612d2e0978bb1b2045b"
 }
