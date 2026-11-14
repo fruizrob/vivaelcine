@@ -1,0 +1,181 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/678681?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:40.206Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 678681,
+    "imdb_id": "tt0362494",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "La captura del capo",
+    "overview": "",
+    "popularity": 0.5196,
+    "poster_path": "/uaF4JPd7LkGkBK6pLUGa7uZ3mOr.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "1999-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La captura del capo",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 3,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1039328,
+          "known_for_department": "Directing",
+          "name": "Gilberto de Anda",
+          "original_name": "Gilberto de Anda",
+          "popularity": 0.3908,
+          "profile_path": "/p89BGUyL1i3PFu42U1jt2wr4f0w.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "6301166c839d93007b62bf07",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 975186,
+          "known_for_department": "Acting",
+          "name": "Salvador Pineda",
+          "original_name": "Salvador Pineda",
+          "popularity": 0.3977,
+          "profile_path": "/spo8o3J5Fvf5zH58URdonsveUoU.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "6301167111c066007cbc33a3",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 990687,
+          "known_for_department": "Acting",
+          "name": "Claudia Pichardo",
+          "original_name": "Claudia Pichardo",
+          "popularity": 0.2697,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "63011675097c49007aa22aec",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2107645,
+          "known_for_department": "Acting",
+          "name": "Jaquelinne Goldsmith",
+          "original_name": "Jaquelinne Goldsmith",
+          "popularity": 0.2175,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Barbra",
+          "credit_id": "6301167c96e30b007fdeda94",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 941109,
+          "known_for_department": "Acting",
+          "name": "Héctor Reynoso",
+          "original_name": "Héctor Reynoso",
+          "popularity": 0.3189,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "630116817d41aa007e38b0fa",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1039328,
+          "known_for_department": "Directing",
+          "name": "Gilberto de Anda",
+          "original_name": "Gilberto de Anda",
+          "popularity": 0.3908,
+          "profile_path": "/p89BGUyL1i3PFu42U1jt2wr4f0w.jpg",
+          "credit_id": "63011661426ae8007d27bcb7",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1039328,
+          "known_for_department": "Directing",
+          "name": "Gilberto de Anda",
+          "original_name": "Gilberto de Anda",
+          "popularity": 0.3908,
+          "profile_path": "/p89BGUyL1i3PFu42U1jt2wr4f0w.jpg",
+          "credit_id": "6301166697eab4007d001527",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1039328,
+          "known_for_department": "Directing",
+          "name": "Gilberto de Anda",
+          "original_name": "Gilberto de Anda",
+          "popularity": 0.3908,
+          "profile_path": "/p89BGUyL1i3PFu42U1jt2wr4f0w.jpg",
+          "credit_id": "6301165a3e6f2b007a9dbed7",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1999-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Nunkui&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-14T02:25:57.414Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/jhhpgu249IuxjIpfIYC0sEMYlO.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1243032,
+        "title": "Nunkui",
+        "original_language": "es",
+        "original_title": "Nunkui",
+        "overview": "Nunkui vive en una comunidad Shuar con sus abuelos, tías y primos y sueña con el espíritu femenino de la huerta, llamado Nunkui como ella. Mientras su tía abuela le enseña cantos mágicos y secretos para el cultivo, la extensa selva amazónica en la que viven es entregada a compañías mineras y comienzan desalojos en la zona. Los sueños premonitorios, la figura del abuelo, un líder Shuar que lucha por la defensa del territorio, y la complejidad de un mundo exuberante de plantas, animales y espíritus, marcan su entrada a la adolescencia y la comprensión de su lugar en el mundo.",
+        "popularity": 0.3446,
+        "poster_path": "/p61q7EcIjvKpfmd8tXDlDdXCTr8.jpg",
+        "release_date": "2026-04-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

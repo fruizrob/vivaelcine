@@ -1,0 +1,573 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/679901?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:49.552Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/cN2cybEECs4QtTk4zcpjVj6boYb.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 679901,
+    "imdb_id": "tt7991758",
+    "origin_country": [
+      "ES",
+      "CH"
+    ],
+    "original_language": "es",
+    "original_title": "L'ofrena",
+    "overview": "Violeta, una afamada psiquiatra, recibe una visita inesperada a su consulta. Se trata de Rita, la mujer de Jan, un antiguo amor de adolescencia de Violeta que marcó su vida tras abandonarla de manera traumática veinte años atrás. Rita acude a Violeta con el pretexto de recuperar el amor de su marido. Lo que Violeta desconoce es que la visita de Rita es el primer paso de Jan para intentar reescribir su historia.",
+    "popularity": 0.4007,
+    "poster_path": "/7hZHgf8pCNI2FUJSs3Ihp1OdKsg.jpg",
+    "production_companies": [
+      {
+        "id": 20702,
+        "logo_path": "/r4yePW0qoWZn5o5F2CEXygznSaD.png",
+        "name": "Nanouk Films",
+        "origin_country": "ES"
+      },
+      {
+        "id": 5085,
+        "logo_path": "/mPuVc7m1Ki7OQQvAYwYfIlEI3vu.png",
+        "name": "TV3",
+        "origin_country": "ES"
+      },
+      {
+        "id": 109457,
+        "logo_path": "/pYEbj8odvX8Yckezf2XZQuDuouj.png",
+        "name": "Suica Films",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      },
+      {
+        "iso_3166_1": "CH",
+        "name": "Switzerland"
+      }
+    ],
+    "release_date": "2020-09-18",
+    "revenue": 0,
+    "runtime": 111,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Catalan",
+        "iso_639_1": "ca",
+        "name": "Català"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La ofrenda",
+    "video": false,
+    "vote_average": 5.1,
+    "vote_count": 7,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 28514,
+          "known_for_department": "Acting",
+          "name": "Àlex Brendemühl",
+          "original_name": "Àlex Brendemühl",
+          "popularity": 0.6717,
+          "profile_path": "/imQGzQ6HSoBVqfvIB0nLmhVmkNz.jpg",
+          "cast_id": 1,
+          "character": "Priest",
+          "credit_id": "5e5d288887e63e00137418c5",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 114254,
+          "known_for_department": "Acting",
+          "name": "Verónica Echegui",
+          "original_name": "Verónica Echegui",
+          "popularity": 1.207,
+          "profile_path": "/A6bHIHnDlmKY6pWOlgLNsUf60W5.jpg",
+          "cast_id": 2,
+          "character": "Rita",
+          "credit_id": "5e5d289a87e63e001a74051a",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1141781,
+          "known_for_department": "Acting",
+          "name": "Anna Alarcón",
+          "original_name": "Anna Alarcón",
+          "popularity": 0.5633,
+          "profile_path": "/8iZCN30b7wUlWCk7RDsBSzZmuRT.jpg",
+          "cast_id": 3,
+          "character": "Violeta",
+          "credit_id": "5e5d28a355c926001353ee1e",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1209572,
+          "known_for_department": "Acting",
+          "name": "Pablo Molinero",
+          "original_name": "Pablo Molinero",
+          "popularity": 0.401,
+          "profile_path": "/mtoRws2DEpETuGJGmvI5DALUcce.jpg",
+          "cast_id": 4,
+          "character": "Nico",
+          "credit_id": "5e5d28ae357c0000112c12e7",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2438142,
+          "known_for_department": "Acting",
+          "name": "Claudia Riera",
+          "original_name": "Claudia Riera",
+          "popularity": 0.5038,
+          "profile_path": "/uBMSiIXu3Vu1xGr9bB1i8u29OxD.jpg",
+          "cast_id": 5,
+          "character": "Violeta jove",
+          "credit_id": "5e5d28b887e63e00137418e9",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2555190,
+          "known_for_department": "Acting",
+          "name": "Josh Climent",
+          "original_name": "Josh Climent",
+          "popularity": 0.2229,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Jan jove",
+          "credit_id": "5e5d28c666ae4d001989481b",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1027164,
+          "known_for_department": "Directing",
+          "name": "Ventura Durall",
+          "original_name": "Ventura Durall",
+          "popularity": 0.1233,
+          "profile_path": "/1NNhw1NBxvZGsrpCqumHF2ZQpJy.jpg",
+          "credit_id": "5e5d28d2357c0000112c130d",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1027164,
+          "known_for_department": "Directing",
+          "name": "Ventura Durall",
+          "original_name": "Ventura Durall",
+          "popularity": 0.1233,
+          "profile_path": "/1NNhw1NBxvZGsrpCqumHF2ZQpJy.jpg",
+          "credit_id": "5e5d28df9b86160018fc59d2",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1524491,
+          "known_for_department": "Acting",
+          "name": "Sandra Beltrán",
+          "original_name": "Sandra Beltrán",
+          "popularity": 0.0901,
+          "profile_path": "/sbCR3ovCknnCjXAuu9goc0PGrqq.jpg",
+          "credit_id": "5e5d28e99b86160015fc7c9f",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1823441,
+          "known_for_department": "Crew",
+          "name": "Guillem Sala",
+          "original_name": "Guillem Sala",
+          "popularity": 0.0637,
+          "profile_path": null,
+          "credit_id": "5e5d290166ae4d0012896056",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1502664,
+          "known_for_department": "Writing",
+          "name": "Clara Roquet",
+          "original_name": "Clara Roquet",
+          "popularity": 0.7305,
+          "profile_path": "/d0r4XtZpPPgt68jSJl6Iksmnoi9.jpg",
+          "credit_id": "5e5d290c357c0000162bbaf4",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2271537,
+          "known_for_department": "Camera",
+          "name": "Álex García",
+          "original_name": "Álex García",
+          "popularity": 0.078,
+          "profile_path": null,
+          "credit_id": "5e5d292555c9260019534921",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2555191,
+          "known_for_department": "Editing",
+          "name": "Marc Roca",
+          "original_name": "Marc Roca",
+          "popularity": 0.2617,
+          "profile_path": null,
+          "credit_id": "5e5d294766ae4d001989493f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2203960,
+          "known_for_department": "Directing",
+          "name": "Rafa Molés",
+          "original_name": "Rafa Molés",
+          "popularity": 0.2575,
+          "profile_path": "/2lKXLzJp2VC8bAw8KuuVcgOpuxU.jpg",
+          "credit_id": "69a9b5125c33aea906ec623a",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2203959,
+          "known_for_department": "Directing",
+          "name": "Pepe Andreu",
+          "original_name": "Pepe Andreu",
+          "popularity": 0.2191,
+          "profile_path": "/zoMw8PpfPiZNrqgQAL8w7UVNpWh.jpg",
+          "credit_id": "69aaaf779c9de69072878463",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6053128,
+          "known_for_department": "Production",
+          "name": "Víctor Ballester",
+          "original_name": "Víctor Ballester",
+          "popularity": 0.033,
+          "profile_path": null,
+          "credit_id": "69aaafa055115538ba9985be",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1316935,
+          "known_for_department": "Directing",
+          "name": "Sergi Cameron",
+          "original_name": "Sergi Cameron",
+          "popularity": 0.1672,
+          "profile_path": "/aCXzGy11f7mZAV9TsnrRNAz27ei.jpg",
+          "credit_id": "69aaafb1e977518f061518a6",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2796948,
+          "known_for_department": "Production",
+          "name": "Giorgio D'Imperio",
+          "original_name": "Giorgio D'Imperio",
+          "popularity": 0.0804,
+          "profile_path": null,
+          "credit_id": "69aaafcad2c6c7362b77c7b9",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1027164,
+          "known_for_department": "Directing",
+          "name": "Ventura Durall",
+          "original_name": "Ventura Durall",
+          "popularity": 0.1233,
+          "profile_path": "/1NNhw1NBxvZGsrpCqumHF2ZQpJy.jpg",
+          "credit_id": "69aaafd9dde319760f878570",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1608420,
+          "known_for_department": "Production",
+          "name": "Natalia Maestro",
+          "original_name": "Natalia Maestro",
+          "popularity": 0.1261,
+          "profile_path": "/65w55anSYMBkgFfYMEwmru49QyE.jpg",
+          "credit_id": "69aaafe1e6e8b87a25998602",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1365519,
+          "known_for_department": "Production",
+          "name": "Adrià Monés",
+          "original_name": "Adrià Monés",
+          "popularity": 0.1783,
+          "profile_path": null,
+          "credit_id": "69aaaff155115538ba9985c3",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3102901,
+          "known_for_department": "Directing",
+          "name": "Àlex Gantzer",
+          "original_name": "Àlex Gantzer",
+          "popularity": 0.1148,
+          "profile_path": null,
+          "credit_id": "69aab025d77adc1603b44ae8",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1058165,
+          "known_for_department": "Production",
+          "name": "Andreas Roald",
+          "original_name": "Andreas Roald",
+          "popularity": 0.1204,
+          "profile_path": null,
+          "credit_id": "69aab03b1b0837dfb6998581",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1316936,
+          "known_for_department": "Directing",
+          "name": "Salvador Sunyer",
+          "original_name": "Salvador Sunyer",
+          "popularity": 0.1196,
+          "profile_path": "/vDBiiF8kPUp7c6XkujnyOxk1Qx4.jpg",
+          "credit_id": "69aab04983658860f1b44ae3",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1031992,
+          "known_for_department": "Production",
+          "name": "Dan Wechsler",
+          "original_name": "Dan Wechsler",
+          "popularity": 0.2091,
+          "profile_path": "/2ujcIXiTPgaZ1ZDKLh0R8s2QX0j.jpg",
+          "credit_id": "69aab059525e1c6df0bdcfdf",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2031302,
+          "known_for_department": "Production",
+          "name": "Jamal Zeinal Zade",
+          "original_name": "Jamal Zeinal Zade",
+          "popularity": 0.1909,
+          "profile_path": null,
+          "credit_id": "69aab065525e1c6df0bdcfe2",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2203963,
+          "known_for_department": "Sound",
+          "name": "Alberto Lucendo",
+          "original_name": "Alberto Lucendo",
+          "popularity": 0.0721,
+          "profile_path": null,
+          "credit_id": "69aab08fd77adc1603b44aee",
+          "department": "Sound",
+          "job": "Music Score Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1339025,
+          "known_for_department": "Visual Effects",
+          "name": "Boris Rabusseau",
+          "original_name": "Boris Rabusseau",
+          "popularity": 0.1624,
+          "profile_path": null,
+          "credit_id": "69aab0abefdfc7ed4277c746",
+          "department": "Editing",
+          "job": "Colorist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1457163,
+          "known_for_department": "Production",
+          "name": "Irene Roqué",
+          "original_name": "Irene Roqué",
+          "popularity": 0.2482,
+          "profile_path": "/btTLKZcuSpShZYZpoyVA2VZtrJ9.jpg",
+          "credit_id": "69aab0c01f3f00b63c316794",
+          "department": "Production",
+          "job": "Casting Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3585239,
+          "known_for_department": "Art",
+          "name": "Víctor Santacana",
+          "original_name": "Víctor Santacana",
+          "popularity": 0.0895,
+          "profile_path": null,
+          "credit_id": "69aab0cc56bfb2a6c5878541",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4165485,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Inés Liverato",
+          "original_name": "Inés Liverato",
+          "popularity": 0.0785,
+          "profile_path": null,
+          "credit_id": "69aab0dbe40f81eea677c6ff",
+          "department": "Costume & Make-Up",
+          "job": "Costume Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1436725,
+          "known_for_department": "Art",
+          "name": "Anna Auquer",
+          "original_name": "Anna Auquer",
+          "popularity": 0.0846,
+          "profile_path": "/vUGuiJkH80TR1la3wDLBQ4gFlNc.jpg",
+          "credit_id": "69aab0e770dfcfc6b16acc27",
+          "department": "Art",
+          "job": "Set Decoration"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-09-18T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2021-07-30T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2021-07-30T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "ES",
+          "title": "L'ofrena",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "La ofrenda",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "The Offering",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

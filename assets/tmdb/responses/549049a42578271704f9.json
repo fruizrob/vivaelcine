@@ -1,0 +1,185 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/788964?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:10.844Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 788964,
+    "imdb_id": "tt5255296",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Miriam",
+    "overview": "",
+    "popularity": 0.3412,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1980-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Miriam",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 374406,
+          "known_for_department": "Acting",
+          "name": "Luisa Rossi",
+          "original_name": "Luisa Rossi",
+          "popularity": 0.3173,
+          "profile_path": "/7uMdjwyV0f7BtLZyjA5Wo7P6ymw.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "600ab030d55c3d003f6cb544",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 589789,
+          "known_for_department": "Acting",
+          "name": "Corrado Annicelli",
+          "original_name": "Corrado Annicelli",
+          "popularity": 0.3289,
+          "profile_path": "/1NYzcZU5w1ShEgoj6nyxxhVrWyO.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "600ab03c0cd446003ddba27d",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1147963,
+          "known_for_department": "Acting",
+          "name": "Claudia Vegliante",
+          "original_name": "Claudia Vegliante",
+          "popularity": 0.257,
+          "profile_path": "/aWhQsZEpb3Cwd99XQYi435qinwY.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "600ab046dd83fa003d8f92a9",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1481102,
+          "known_for_department": "Acting",
+          "name": "Martina Carpi",
+          "original_name": "Martina Carpi",
+          "popularity": 0.1022,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "600ab04f0cd4460040dbed91",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 45984,
+          "known_for_department": "Acting",
+          "name": "Aldo Bufi Landi",
+          "original_name": "Aldo Bufi Landi",
+          "popularity": 0.353,
+          "profile_path": "/2vp4NvWpxjlEOFho8yxFb4bDjJN.jpg",
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "600ab05f4d0e8d003f7248de",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1679885,
+          "known_for_department": "Acting",
+          "name": "Claudio Sorrentino",
+          "original_name": "Claudio Sorrentino",
+          "popularity": 0.1994,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "600ab06c391b9c003fd33a68",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2085672,
+          "known_for_department": "Acting",
+          "name": "Margherita Sestito",
+          "original_name": "Margherita Sestito",
+          "popularity": 0.1626,
+          "profile_path": "/n6kyKxBh9yDlkxHrcQsA9xcr5sf.jpg",
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "600ab07523d278003e36a84b",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1930,
+          "known_for_department": "Writing",
+          "name": "Truman Capote",
+          "original_name": "Truman Capote",
+          "popularity": 0.6739,
+          "profile_path": "/lkBM2Xu5tlGkcMgdlxo1BPJWOiP.jpg",
+          "credit_id": "600ab026d55c3d003e6df1ea",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 129044,
+          "known_for_department": "Writing",
+          "name": "Biagio Proietti",
+          "original_name": "Biagio Proietti",
+          "popularity": 0.3112,
+          "profile_path": null,
+          "credit_id": "600ab00d0cd4460040dbecee",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1980-01-01T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

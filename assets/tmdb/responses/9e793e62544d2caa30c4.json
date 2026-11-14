@@ -1,0 +1,31 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=La+bola+negra&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-14T02:25:51.272Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+        "genre_ids": [
+          18,
+          10752
+        ],
+        "id": 1422041,
+        "title": "La bola negra",
+        "original_language": "es",
+        "original_title": "La bola negra",
+        "overview": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+        "popularity": 129.5765,
+        "poster_path": "/t1azKLExwUxKj6v6m2L535evuRa.jpg",
+        "release_date": "2026-09-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 217
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

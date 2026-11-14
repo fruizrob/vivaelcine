@@ -1,0 +1,313 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1108716?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:07.185Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/pDNVSNvbKqmnmlJlpORgDS2ZP9z.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1108716,
+    "imdb_id": null,
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Le minotaure, c'est moi ! Picasso et les taureaux",
+    "overview": "La tauromaquia fue una gran pasión para Pablo Picasso. Exploramos sus inicios en Málaga y seguimos su amor por los toros en París, Nîmes y Arlés, que influyó en su arte y lo convirtió en el gran artista del siglo XX.",
+    "popularity": 0.308,
+    "poster_path": "/qo6Luh77YKYPFuUtXutJuzHnaZl.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-04-02",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Picasso y la tauromaquia",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 563891,
+          "known_for_department": "Acting",
+          "name": "Pablo Picasso",
+          "original_name": "Pablo Picasso",
+          "popularity": 0.5809,
+          "profile_path": "/g2PSb8WdVPI6rKlK494mh6HADhU.jpg",
+          "cast_id": 2,
+          "character": "Self (archive footage)",
+          "credit_id": "642fd3fc6dea3a0076bc6679",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3168723,
+          "known_for_department": "Directing",
+          "name": "Hilka Sinning",
+          "original_name": "Hilka Sinning",
+          "popularity": 0.0845,
+          "profile_path": null,
+          "credit_id": "642be38c8de0ae00d5f4a751",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2207440,
+          "known_for_department": "Sound",
+          "name": "Christian Vignal",
+          "original_name": "Christian Vignal",
+          "popularity": 0.1365,
+          "profile_path": null,
+          "credit_id": "697e89ee6608816a1d0e7241",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1437041,
+          "known_for_department": "Editing",
+          "name": "Martin Menzel",
+          "original_name": "Martin Menzel",
+          "popularity": 0.3078,
+          "profile_path": null,
+          "credit_id": "697e89f4c0bf7d1633bbdb30",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5977369,
+          "known_for_department": "Sound",
+          "name": "Behzad Soroush",
+          "original_name": "Behzad Soroush",
+          "popularity": 0.0824,
+          "profile_path": null,
+          "credit_id": "697e89fbccef69267bdc97d8",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2534939,
+          "known_for_department": "Sound",
+          "name": "Emilio López Alemán",
+          "original_name": "Emilio López Alemán",
+          "popularity": 0.1099,
+          "profile_path": null,
+          "credit_id": "697e8a025bae9de4f21c5861",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3464038,
+          "known_for_department": "Sound",
+          "name": "Clara Lemière",
+          "original_name": "Clara Lemière",
+          "popularity": 0.0864,
+          "profile_path": null,
+          "credit_id": "697e8a08e3cecb1fe70e7311",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5977370,
+          "known_for_department": "Sound",
+          "name": "Jeremie Le Henaff",
+          "original_name": "Jeremie Le Henaff",
+          "popularity": 0.1011,
+          "profile_path": null,
+          "credit_id": "697e8a1010501a3861dc97db",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2045950,
+          "known_for_department": "Sound",
+          "name": "Julius Hofstädter",
+          "original_name": "Julius Hofstädter",
+          "popularity": 0.1052,
+          "profile_path": null,
+          "credit_id": "697e8a17fff44c9231dc97a4",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1926608,
+          "known_for_department": "Production",
+          "name": "Stefan Mathieu",
+          "original_name": "Stefan Mathieu",
+          "popularity": 0.2445,
+          "profile_path": null,
+          "credit_id": "697e8a450bfe34a0a884cb2c",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2045954,
+          "known_for_department": "Production",
+          "name": "Anahita Nazemi",
+          "original_name": "Anahita Nazemi",
+          "popularity": 0.1173,
+          "profile_path": null,
+          "credit_id": "697e8a519f69aefe56d4432b",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5977371,
+          "known_for_department": "Production",
+          "name": "Carlos Sevillano",
+          "original_name": "Carlos Sevillano",
+          "popularity": 0.0554,
+          "profile_path": null,
+          "credit_id": "697e8a5bb037c639de70e6bc",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2239112,
+          "known_for_department": "Visual Effects",
+          "name": "Lukas Scholz",
+          "original_name": "Lukas Scholz",
+          "popularity": 0.0724,
+          "profile_path": null,
+          "credit_id": "697e8a65c85226489c9740df",
+          "department": "Editing",
+          "job": "Color Grading"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4955068,
+          "known_for_department": "Crew",
+          "name": "Olivier Azpitarte",
+          "original_name": "Olivier Azpitarte",
+          "popularity": 0.0866,
+          "profile_path": null,
+          "credit_id": "697e8a73359ee2af5ebbdbbd",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4676586,
+          "known_for_department": "Camera",
+          "name": "Leonard Kessler",
+          "original_name": "Leonard Kessler",
+          "popularity": 0.0604,
+          "profile_path": null,
+          "credit_id": "697e8a7f650a32eec76f7063",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5977372,
+          "known_for_department": "Crew",
+          "name": "José Olmedo",
+          "original_name": "José Olmedo",
+          "popularity": 0.0582,
+          "profile_path": null,
+          "credit_id": "697e8a87ab1c738c7270e700",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2584303,
+          "known_for_department": "Camera",
+          "name": "Théo Reynal",
+          "original_name": "Théo Reynal",
+          "popularity": 0.075,
+          "profile_path": null,
+          "credit_id": "697e8a8d1e588d0a1070e6b4",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2648844,
+          "known_for_department": "Camera",
+          "name": "Frank Van Vught",
+          "original_name": "Frank Van Vught",
+          "popularity": 0.1673,
+          "profile_path": null,
+          "credit_id": "697e8a9420c9a1d59170e6b4",
+          "department": "Crew",
+          "job": "Cinematography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "TP",
+              "descriptors": [],
+              "iso_639_1": "fr",
+              "note": "",
+              "release_date": "2023-04-02T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "DE",
+          "title": "Der Minotaurus, das bin ich! Picasso und die Stiere",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

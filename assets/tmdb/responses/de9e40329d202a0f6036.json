@@ -1,0 +1,520 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/28644?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:54.422Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/u1N34argMlLDuS7zUIekPVk9Imz.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 28644,
+    "imdb_id": "tt1206488",
+    "origin_country": [
+      "ES",
+      "PE"
+    ],
+    "original_language": "es",
+    "original_title": "La teta asustada",
+    "overview": "Fausta (Magaly Solier) padece de \"La teta asustada\", una enfermedad que se transmite por la leche materna de mujeres maltratadas durante la época del terrorismo en el Perú. Los infectados nacen sin alma, porque del susto se escondió en la tierra, y cargan un terror atávico que les aísla por completo. Pero Fausta esconde algo más; guarda un secreto que no quiere revelar, hasta que la súbita muerte de su madre desencadenará hechos inesperados que transformarán su vida y la de otros. Seleccionada por Perú como candidata al Oscar 2010 en la categoría de película de habla no inglesa.",
+    "popularity": 1.1103,
+    "poster_path": "/pjlfAZXBIZLrBK4dcYtX0WWatoo.jpg",
+    "production_companies": [
+      {
+        "id": 7046,
+        "logo_path": null,
+        "name": "Paris Film Production",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      },
+      {
+        "iso_3166_1": "PE",
+        "name": "Peru"
+      }
+    ],
+    "release_date": "2009-02-13",
+    "revenue": 0,
+    "runtime": 93,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Quechua",
+        "iso_639_1": "qu",
+        "name": ""
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La teta asustada",
+    "video": false,
+    "vote_average": 6.322,
+    "vote_count": 107,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 101400,
+          "known_for_department": "Acting",
+          "name": "Magaly Solier",
+          "original_name": "Magaly Solier",
+          "popularity": 0.4211,
+          "profile_path": "/twX0in8k7Wyg8XpCXy75SsuX3sa.jpg",
+          "cast_id": 2,
+          "character": "Fausta",
+          "credit_id": "52fe45a6c3a368484e067377",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 101401,
+          "known_for_department": "Acting",
+          "name": "Susi Sánchez",
+          "original_name": "Susi Sánchez",
+          "popularity": 0.7544,
+          "profile_path": "/hsOZ4Hyw3Zu2GnariSg28sUixPV.jpg",
+          "cast_id": 3,
+          "character": "Aída",
+          "credit_id": "52fe45a6c3a368484e06737b",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 101402,
+          "known_for_department": "Acting",
+          "name": "Efraín Solís",
+          "original_name": "Efraín Solís",
+          "popularity": 0.1214,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Noé",
+          "credit_id": "52fe45a6c3a368484e06737f",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 101403,
+          "known_for_department": "Acting",
+          "name": "Marino Ballón",
+          "original_name": "Marino Ballón",
+          "popularity": 0.1306,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Tío Lúcido",
+          "credit_id": "52fe45a6c3a368484e067383",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2332521,
+          "known_for_department": "Acting",
+          "name": "Daniel Nuñez Duran",
+          "original_name": "Daniel Nuñez Duran",
+          "popularity": 0.1785,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "",
+          "credit_id": "615e9e48d1444300436796e0",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 101399,
+          "known_for_department": "Writing",
+          "name": "Claudia Llosa",
+          "original_name": "Claudia Llosa",
+          "popularity": 0.4169,
+          "profile_path": "/dno4PDtAA0uJ5UaDU1l2VvRp0Xh.jpg",
+          "credit_id": "52fe45a6c3a368484e067373",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 101399,
+          "known_for_department": "Writing",
+          "name": "Claudia Llosa",
+          "original_name": "Claudia Llosa",
+          "popularity": 0.4169,
+          "profile_path": "/dno4PDtAA0uJ5UaDU1l2VvRp0Xh.jpg",
+          "credit_id": "52fe45a6c3a368484e067389",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 79282,
+          "known_for_department": "Production",
+          "name": "Antonio Chavarrías",
+          "original_name": "Antonio Chavarrías",
+          "popularity": 0.2804,
+          "profile_path": null,
+          "credit_id": "5b58c4dac3a3685c970599fc",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 7356,
+          "known_for_department": "Production",
+          "name": "José María Morales",
+          "original_name": "José María Morales",
+          "popularity": 0.2775,
+          "profile_path": "/uZuRnwfCKMYrzkVsnqQ5VhBrtSw.jpg",
+          "credit_id": "5b58c4bb9251416dc60534e1",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 101399,
+          "known_for_department": "Writing",
+          "name": "Claudia Llosa",
+          "original_name": "Claudia Llosa",
+          "popularity": 0.4169,
+          "profile_path": "/dno4PDtAA0uJ5UaDU1l2VvRp0Xh.jpg",
+          "credit_id": "5b58c4e59251416dda04e569",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 965928,
+          "known_for_department": "Editing",
+          "name": "Frank Gutiérrez",
+          "original_name": "Frank Gutiérrez",
+          "popularity": 0.1246,
+          "profile_path": null,
+          "credit_id": "5b58c4189251416dde04daaa",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1606193,
+          "known_for_department": "Sound",
+          "name": "Selma Mutal",
+          "original_name": "Selma Mutal",
+          "popularity": 0.1135,
+          "profile_path": null,
+          "credit_id": "5b58c40a9251416dd6051b52",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2092182,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Ana Villanueva",
+          "original_name": "Ana Villanueva",
+          "popularity": 0.0905,
+          "profile_path": null,
+          "credit_id": "5b58c464c3a3685c930598a2",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 69316,
+          "known_for_department": "Camera",
+          "name": "Natasha Braier",
+          "original_name": "Natasha Braier",
+          "popularity": 0.2355,
+          "profile_path": "/u05OMZaKZn4jNCa7sDyYTBobxci.jpg",
+          "credit_id": "5b58c3f59251416dc2053750",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3663570,
+          "known_for_department": "Production",
+          "name": "Paul Córdova",
+          "original_name": "Paul Córdova",
+          "popularity": 0.1454,
+          "profile_path": "/dyTEoRUywcNWJVp653AcfKKITVN.jpg",
+          "credit_id": "6830b735c7ff56358beb26aa",
+          "department": "Crew",
+          "job": "Video Assist Operator"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2009-08-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Berlin International Film Festival",
+              "release_date": "2009-02-12T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2009-02-13T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2009-06-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Thessaloniki International Film Festival",
+              "release_date": "2009-11-21T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-02-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2009-05-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2009-12-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2009-03-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-08-27T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ZA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Durban International Film Festival",
+              "release_date": "2010-07-26T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "CN",
+          "title": "惧乳：伤心的奶水",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CN",
+          "title": "乳液创伤",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CN",
+          "title": "悲伤的乳汁",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CN",
+          "title": "牛奶的悲哀",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CN",
+          "title": "受惊吓的乳房",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Eine Perle Ewigkeit",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PT",
+          "title": "A Teta Assustada",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "NO",
+          "title": "Faustas perler",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Fausta",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "GR",
+          "title": "To gala tis thlipsis",
+          "type": "transliteration"
+        },
+        {
+          "iso_3166_1": "HU",
+          "title": "Fausta éneke",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "IT",
+          "title": "Il canto di Paloma",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PL",
+          "title": "Gorzkie mleko",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "RS",
+          "title": "Mleko tuge",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "RU",
+          "title": "Молоко скорби",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "SE",
+          "title": "Faustas pärlor",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "TR",
+          "title": "Aci süt",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "KR",
+          "title": "밀크 오브 소로우",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BR",
+          "title": "A Teta Assustada",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "RU",
+          "title": "Молоко печали",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

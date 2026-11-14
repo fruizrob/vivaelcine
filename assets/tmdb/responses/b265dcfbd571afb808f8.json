@@ -1,0 +1,143 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1596783?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:45.320Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/9nJwJm6WJliFgSKWvAtxu3npOgR.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1596783,
+    "imdb_id": null,
+    "origin_country": [
+      "RO"
+    ],
+    "original_language": "ro",
+    "original_title": "Justiție capturată",
+    "overview": "",
+    "popularity": 0.0985,
+    "poster_path": "/xe5XOiXIMk9rLQglHwlZCMPXqaL.jpg",
+    "production_companies": [
+      {
+        "id": 127074,
+        "logo_path": null,
+        "name": "Recorder",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2025-12-09",
+    "revenue": 0,
+    "runtime": 120,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Romanian",
+        "iso_639_1": "ro",
+        "name": "Română"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Justiție capturată",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5877131,
+          "known_for_department": "Directing",
+          "name": "Andreea Pocotilă",
+          "original_name": "Andreea Pocotilă",
+          "popularity": 0.0375,
+          "profile_path": null,
+          "credit_id": "693ed8b13e7084c3bfaeccbe",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2494067,
+          "known_for_department": "Directing",
+          "name": "Mihai Voinea",
+          "original_name": "Mihai Voinea",
+          "popularity": 0.1032,
+          "profile_path": null,
+          "credit_id": "693ed8d038b481c9f683ea60",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5877134,
+          "known_for_department": "Editing",
+          "name": "Teodora Preda",
+          "original_name": "Teodora Preda",
+          "popularity": 0.0766,
+          "profile_path": null,
+          "credit_id": "693ed903c17d769551781088",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2494068,
+          "known_for_department": "Directing",
+          "name": "Cristian Delcea",
+          "original_name": "Cristian Delcea",
+          "popularity": 0.1988,
+          "profile_path": null,
+          "credit_id": "693ed9182ce8f2730a9997f9",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3492455,
+          "known_for_department": "Editing",
+          "name": "Ionut Duinea",
+          "original_name": "Ionut Duinea",
+          "popularity": 0.031,
+          "profile_path": null,
+          "credit_id": "6946c676e5964a61ccb1c2b5",
+          "department": "Art",
+          "job": "Graphic Designer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "RO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ro",
+              "note": "",
+              "release_date": "2025-12-09T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

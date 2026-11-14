@@ -1,0 +1,79 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1703151?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:45.667Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1703151,
+    "imdb_id": null,
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "xx",
+    "original_title": "El Otro Partido",
+    "overview": "",
+    "popularity": 0.0422,
+    "poster_path": "/uEwIOQ3lSnZMjvBN7pHnWK2X3P9.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2026-01-20",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "El Otro Partido",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2962134,
+          "known_for_department": "Directing",
+          "name": "Cristian Serio",
+          "original_name": "Cristian Serio",
+          "popularity": 0.0441,
+          "profile_path": null,
+          "credit_id": "6a170322368cd25e0077960e",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-01-20T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "The Other Game",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

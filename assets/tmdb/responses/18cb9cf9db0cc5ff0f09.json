@@ -1,0 +1,70 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/705086?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:43.326Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/htJfoO1ScntNOD08LbJZksHliV9.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 705086,
+    "imdb_id": null,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "La Frontera: Capturados Vivos (Concierto Expo'92)",
+    "overview": "Grabado en la Plaza Sony de la isla de la Cartuja de Sevilla durante la celebración de la Expo'92",
+    "popularity": 0.0425,
+    "poster_path": "/aqutd5CvPcF6pu8PX8qtEW3SVL7.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1992-07-16",
+    "revenue": 0,
+    "runtime": 55,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Grabado en la Plaza Sony de la isla de la Cartuja de Sevilla durante la celebración de la Expo'92",
+    "title": "La Frontera: Capturados Vivos (Concierto Expo'92)",
+    "video": true,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "APTA",
+              "descriptors": [],
+              "iso_639_1": "{\"folded_name\"=>\"Espanol; Castellano\", \"english_name\"=>\"Spanish\", \"iso_639_1\"=>\"es\", \"native_name\"=>\"Español; Castellano\"}",
+              "note": "",
+              "release_date": "1992-07-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

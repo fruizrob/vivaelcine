@@ -1,0 +1,622 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1179621?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:42.507Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/7ufu0EAdhU9nGnvT94gJYpbqxTq.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 10770,
+        "name": "Película de TV"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "id": 1179621,
+    "imdb_id": "tt28249138",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "How She Caught A Killer",
+    "overview": "",
+    "popularity": 1.0466,
+    "poster_path": "/vwfd0gAi9A4tT38Kf7mEulGnAwj.jpg",
+    "production_companies": [
+      {
+        "id": 208805,
+        "logo_path": null,
+        "name": "Suspense Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 208806,
+        "logo_path": null,
+        "name": "Tiny Riot Entertainment",
+        "origin_country": ""
+      },
+      {
+        "id": 3431,
+        "logo_path": "/bVTF0p5xlPfQhQIuBLr9BFtrKip.png",
+        "name": "Lifetime",
+        "origin_country": "US"
+      },
+      {
+        "id": 196937,
+        "logo_path": null,
+        "name": "Novus Ordo Seclorum Entertainment",
+        "origin_country": "CA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2023-09-16",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "How She Caught A Killer",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 10,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 198927,
+          "known_for_department": "Acting",
+          "name": "Sarah Drew",
+          "original_name": "Sarah Drew",
+          "popularity": 2.6845,
+          "profile_path": "/65hUM3Egh5roemP3Cgn0bA38rDj.jpg",
+          "cast_id": 1,
+          "character": "Detective Linda Murphy",
+          "credit_id": "6506488a3cd12c010cd0113a",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 116972,
+          "known_for_department": "Acting",
+          "name": "Graeme Duffy",
+          "original_name": "Graeme Duffy",
+          "popularity": 0.5372,
+          "profile_path": "/goVfm94sW0Seegygy7FWDZ6C2C7.jpg",
+          "cast_id": 2,
+          "character": "Coroner",
+          "credit_id": "6506489c42d8a500c4fbad55",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 75532,
+          "known_for_department": "Acting",
+          "name": "Benita Ha",
+          "original_name": "Benita Ha",
+          "popularity": 0.6436,
+          "profile_path": "/enOVSgQsiu8Vv0LCXLGrwVcL76c.jpg",
+          "cast_id": 3,
+          "character": "Kristen Mills",
+          "credit_id": "650648bb394a8700c5bd4c73",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4275901,
+          "known_for_department": "Acting",
+          "name": "Delilah Hamlin",
+          "original_name": "Delilah Hamlin",
+          "popularity": 0.2642,
+          "profile_path": "/h9IRGTXyzOxTjWEExGUM42tMlLf.jpg",
+          "cast_id": 4,
+          "character": "Former Sex Worker / Aspiring Nurse",
+          "credit_id": "650648cb373ac200acd6678a",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2458591,
+          "known_for_department": "Acting",
+          "name": "Jamall Johnson",
+          "original_name": "Jamall Johnson",
+          "popularity": 0.5193,
+          "profile_path": "/jbYWhcKQOYpkXoACdHCJ3Gfq7Zg.jpg",
+          "cast_id": 5,
+          "character": "FBI Agent Neil Carter",
+          "credit_id": "650648de5aadc400e4012f91",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2250,
+          "known_for_department": "Acting",
+          "name": "Eric Keenleyside",
+          "original_name": "Eric Keenleyside",
+          "popularity": 1.1306,
+          "profile_path": "/n7CFXU0redDCSHuLIPIKg45M0Do.jpg",
+          "cast_id": 6,
+          "character": "Detective David Goodman",
+          "credit_id": "650648ed5aadc400c7ddb1e9",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 72045,
+          "known_for_department": "Acting",
+          "name": "Donavon Stinson",
+          "original_name": "Donavon Stinson",
+          "popularity": 0.7185,
+          "profile_path": "/jHNpo2tT2JQmT4AkOzWjefTDhaW.jpg",
+          "cast_id": 7,
+          "character": "Stan Peterson",
+          "credit_id": "650648fb394a87011c9ceb29",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 98661,
+          "known_for_department": "Acting",
+          "name": "Bradley Stryker",
+          "original_name": "Bradley Stryker",
+          "popularity": 0.8779,
+          "profile_path": "/3h0F6HRz4He5ESx9mIIIGV90MF2.jpg",
+          "cast_id": 8,
+          "character": "Wilson",
+          "credit_id": "650649073cd12c00ad8ae435",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 64897,
+          "known_for_department": "Acting",
+          "name": "Barbara Tyson",
+          "original_name": "Barbara Tyson",
+          "popularity": 0.7427,
+          "profile_path": "/5iNxR4IuOs1nVkWCTQSeG2QXLdQ.jpg",
+          "cast_id": 9,
+          "character": "Lady",
+          "credit_id": "6506491245765d013b5ef8a4",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2175466,
+          "known_for_department": "Acting",
+          "name": "Rob Compton",
+          "original_name": "Rob Compton",
+          "popularity": 0.576,
+          "profile_path": "/16ykeM6h2VQNdmBldKc8XcEDS6I.jpg",
+          "cast_id": 35,
+          "character": "Patron",
+          "credit_id": "66c8672e3475324333caa7af",
+          "order": 9
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1194072,
+          "known_for_department": "Directing",
+          "name": "Robin Hays",
+          "original_name": "Robin Hays",
+          "popularity": 0.2222,
+          "profile_path": "/dvB3AkZZPb5cE4eti6SzKuHND1C.jpg",
+          "credit_id": "65064928109dec010cc18cff",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 198927,
+          "known_for_department": "Acting",
+          "name": "Sarah Drew",
+          "original_name": "Sarah Drew",
+          "popularity": 2.6845,
+          "profile_path": "/65hUM3Egh5roemP3Cgn0bA38rDj.jpg",
+          "credit_id": "65064950fa27f4012d5a5a34",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3923701,
+          "known_for_department": "Production",
+          "name": "Jason Egenberg",
+          "original_name": "Jason Egenberg",
+          "popularity": 0.0573,
+          "profile_path": null,
+          "credit_id": "65064964394a8700c5bd4d8b",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1108734,
+          "known_for_department": "Production",
+          "name": "Timothy O. Johnson",
+          "original_name": "Timothy O. Johnson",
+          "popularity": 0.3765,
+          "profile_path": "/faPHGS2QyDDUqkXEaDB8NlzeNTf.jpg",
+          "credit_id": "65064972109dec00eb160f7c",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 590345,
+          "known_for_department": "Production",
+          "name": "Stacy Mandelberg",
+          "original_name": "Stacy Mandelberg",
+          "popularity": 0.2223,
+          "profile_path": "/u9sL9rO3GYJftK1N4sboP1NeIYR.jpg",
+          "credit_id": "650649803cd12c012de785ad",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1624461,
+          "known_for_department": "Production",
+          "name": "Navid Soofi",
+          "original_name": "Navid Soofi",
+          "popularity": 0.3342,
+          "profile_path": "/wOucBmB8WbCVMoelFlDrNK1860V.jpg",
+          "credit_id": "6506498e5aadc40101b982de",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2381193,
+          "known_for_department": "Editing",
+          "name": "Jason Nielsen",
+          "original_name": "Jason Nielsen",
+          "popularity": 0.4136,
+          "profile_path": null,
+          "credit_id": "650649a23cd12c014ebede7b",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1652772,
+          "known_for_department": "Art",
+          "name": "Moe Curtin",
+          "original_name": "Moe Curtin",
+          "popularity": 0.1227,
+          "profile_path": null,
+          "credit_id": "650649b0373ac200c531d656",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2721469,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Kathleen Fowlstone",
+          "original_name": "Kathleen Fowlstone",
+          "popularity": 0.2884,
+          "profile_path": "/cj69L0dHmFEJKV8MjUH3L8iPYxM.jpg",
+          "credit_id": "650649cb42d8a500e1578026",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Department Head"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4275913,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Bryanna Koenning",
+          "original_name": "Bryanna Koenning",
+          "popularity": 0.0334,
+          "profile_path": null,
+          "credit_id": "650649d445765d00e3702c63",
+          "department": "Costume & Make-Up",
+          "job": "Hair Setup"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4275914,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Kayla Laurie",
+          "original_name": "Kayla Laurie",
+          "popularity": 0.1014,
+          "profile_path": null,
+          "credit_id": "650649e0fa27f400ae9e2e59",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2929144,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Selena Taylor",
+          "original_name": "Selena Taylor",
+          "popularity": 0.318,
+          "profile_path": null,
+          "credit_id": "650649ee3cd12c014ebedee3",
+          "department": "Costume & Make-Up",
+          "job": "Hair Department Head"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1809701,
+          "known_for_department": "Directing",
+          "name": "Darren Robson",
+          "original_name": "Darren Robson",
+          "popularity": 0.2489,
+          "profile_path": null,
+          "credit_id": "650649fb5aadc400c7ddb398",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2929148,
+          "known_for_department": "Art",
+          "name": "Erika Ting",
+          "original_name": "Erika Ting",
+          "popularity": 0.1578,
+          "profile_path": null,
+          "credit_id": "65064a1b5aadc400c7ddb3d2",
+          "department": "Art",
+          "job": "Assistant Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3138071,
+          "known_for_department": "Camera",
+          "name": "Erik Mortensen",
+          "original_name": "Erik Mortensen",
+          "popularity": 0.1513,
+          "profile_path": null,
+          "credit_id": "65064a3142d8a500fe3aa653",
+          "department": "Camera",
+          "job": "Key Grip"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4275919,
+          "known_for_department": "Camera",
+          "name": "Arsalan Neshan",
+          "original_name": "Arsalan Neshan",
+          "popularity": 0.0645,
+          "profile_path": null,
+          "credit_id": "65064a3f394a8700e225d16d",
+          "department": "Camera",
+          "job": "Camera Trainee"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2504224,
+          "known_for_department": "Directing",
+          "name": "Robbin MacDonald",
+          "original_name": "Robbin MacDonald",
+          "popularity": 0.0807,
+          "profile_path": null,
+          "credit_id": "65064a573cd12c00ad8ae5e7",
+          "department": "Production",
+          "job": "Location Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2781288,
+          "known_for_department": "Directing",
+          "name": "Samantha Suminguit",
+          "original_name": "Samantha Suminguit",
+          "popularity": 0.0518,
+          "profile_path": null,
+          "credit_id": "65064a665aadc400c7ddb437",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4275923,
+          "known_for_department": "Production",
+          "name": "Amanda Jane Porter",
+          "original_name": "Amanda Jane Porter",
+          "popularity": 0.1241,
+          "profile_path": null,
+          "credit_id": "65064aa1394a8700ada72720",
+          "department": "Production",
+          "job": "Payroll Accountant"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4350320,
+          "known_for_department": "Production",
+          "name": "Brook James",
+          "original_name": "Brook James",
+          "popularity": 0.143,
+          "profile_path": "/fOLgCnRiAXWd7ddl4kSD6Vw99Bf.jpg",
+          "credit_id": "65415daf6517d600c900e6a3",
+          "department": "Production",
+          "job": "Assistant Production Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1328421,
+          "known_for_department": "Acting",
+          "name": "Angela Gulner",
+          "original_name": "Angela Gulner",
+          "popularity": 0.2685,
+          "profile_path": "/kHz9XQtwWvS9aBMBNdg3l5gi4mD.jpg",
+          "credit_id": "6543982d41a561336a211b93",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2047878,
+          "known_for_department": "Writing",
+          "name": "Yuri Baranovsky",
+          "original_name": "Yuri Baranovsky",
+          "popularity": 0.4357,
+          "profile_path": "/qeedZUXKqhlM7Z8t8jIXiGpJk3Z.jpg",
+          "credit_id": "65439832e1ad7900c96566db",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2426329,
+          "known_for_department": "Directing",
+          "name": "Steve Bors",
+          "original_name": "Steve Bors",
+          "popularity": 0.334,
+          "profile_path": null,
+          "credit_id": "654398516beaea00eaf63c5b",
+          "department": "Directing",
+          "job": "Second Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1810411,
+          "known_for_department": "Directing",
+          "name": "Andrew Pavel",
+          "original_name": "Andrew Pavel",
+          "popularity": 0.4387,
+          "profile_path": null,
+          "credit_id": "654398576beaea012c8cbdbc",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2468893,
+          "known_for_department": "Camera",
+          "name": "Jonathan Kischel",
+          "original_name": "Jonathan Kischel",
+          "popularity": 0.1247,
+          "profile_path": null,
+          "credit_id": "677156de5863b1e8191293db",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1822244,
+          "known_for_department": "Crew",
+          "name": "Chad Sayn",
+          "original_name": "Chad Sayn",
+          "popularity": 0.3059,
+          "profile_path": "/vha5kzAcHUdrFvegWFZxW99vf03.jpg",
+          "credit_id": "677156e81f2c5d9301929be6",
+          "department": "Crew",
+          "job": "Stunt Coordinator"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "fr",
+              "note": "RTS un",
+              "release_date": "2025-01-09T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "TF1",
+              "release_date": "2025-01-17T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "Lifetime",
+              "release_date": "2023-09-16T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

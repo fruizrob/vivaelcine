@@ -1,0 +1,367 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/68167?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:46.381Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/zlaHc8w9ob0ZRASmIUdPiEQB0ce.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 37,
+        "name": "Western"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 10770,
+        "name": "Película de TV"
+      }
+    ],
+    "homepage": "",
+    "id": 68167,
+    "imdb_id": "tt0120216",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Stolen Women, Captured Hearts",
+    "overview": "Basada en un hecho real, esta es una historia de amor ambientada en las llanuras del oeste americano en 1868. Anna Brewster Morgan (Janine Turner) acude al Fuerte Hays en Kansas para conocer al que será su futuro marido. Durante el camino, su caravana es atacada por los Sioux, pero ella logra sobrevivir gracias a la inesperada ayuda de Tokalah (Michael Greyeyes), uno de los guerreros indios.",
+    "popularity": 1.3904,
+    "poster_path": "/ulzzcLil3C0Y6tSuf3nW5MNDQRi.jpg",
+    "production_companies": [
+      {
+        "id": 2161,
+        "logo_path": "/kaHPCUD2nQ1DGWDAH3zbYVCkTae.png",
+        "name": "CBS Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1997-01-16",
+    "revenue": 0,
+    "runtime": 87,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pasión comanche",
+    "video": false,
+    "vote_average": 7.604,
+    "vote_count": 48,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 51580,
+          "known_for_department": "Acting",
+          "name": "Janine Turner",
+          "original_name": "Janine Turner",
+          "popularity": 1.6648,
+          "profile_path": "/sstY4R6okeEKWfhFkwCF5dWoCiq.jpg",
+          "cast_id": 2,
+          "character": "Anna Brewster-Morgan",
+          "credit_id": "562a2367925141284c001f7e",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 26495,
+          "known_for_department": "Acting",
+          "name": "Jean Louisa Kelly",
+          "original_name": "Jean Louisa Kelly",
+          "popularity": 2.216,
+          "profile_path": "/hUaXI2x27HNIKc4WXcnvNkl4wF9.jpg",
+          "cast_id": 3,
+          "character": "Sarah White",
+          "credit_id": "562a238592514140060006ac",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 154647,
+          "known_for_department": "Acting",
+          "name": "Michael Greyeyes",
+          "original_name": "Michael Greyeyes",
+          "popularity": 0.7143,
+          "profile_path": "/jy45vhkNT0s7gtf1dRIfFL77YWg.jpg",
+          "cast_id": 4,
+          "character": "Tokalah",
+          "credit_id": "562a239ac3a3681b5c001ebc",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29459,
+          "known_for_department": "Acting",
+          "name": "Patrick Bergin",
+          "original_name": "Patrick Bergin",
+          "popularity": 1.3103,
+          "profile_path": "/oLVUHx6pj1djR39L3gG9lZ4PdcJ.jpg",
+          "cast_id": 5,
+          "character": "Daniel Morgan",
+          "credit_id": "562a23ae925141284c001f86",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 156029,
+          "known_for_department": "Acting",
+          "name": "William Shockley",
+          "original_name": "William Shockley",
+          "popularity": 1.4468,
+          "profile_path": "/lOcuXGETGWR8kVQMgjan1jOT13a.jpg",
+          "cast_id": 6,
+          "character": "General George Armstrong Custer",
+          "credit_id": "562a23c59251412853001ed1",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 7853,
+          "known_for_department": "Acting",
+          "name": "Rodney A. Grant",
+          "original_name": "Rodney A. Grant",
+          "popularity": 0.9759,
+          "profile_path": "/44J0nk3dWoGbCXIgHi9lftmiUHR.jpg",
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "562a23d4c3a3681b54002016",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 126829,
+          "known_for_department": "Acting",
+          "name": "Saginaw Grant",
+          "original_name": "Saginaw Grant",
+          "popularity": 0.5002,
+          "profile_path": "/pQdS21e9ddOcSS2JzKsibdZexbd.jpg",
+          "cast_id": 8,
+          "character": "Chief Luta",
+          "credit_id": "562a23ec9251414ab700053c",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 62478,
+          "known_for_department": "Acting",
+          "name": "William Lightning",
+          "original_name": "William Lightning",
+          "popularity": 0.1662,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Cetah",
+          "credit_id": "562a2403c3a3681b52001f7c",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12422,
+          "known_for_department": "Acting",
+          "name": "Dennis Weaver",
+          "original_name": "Dennis Weaver",
+          "popularity": 1.2074,
+          "profile_path": "/ed8NnlU9Kxtmwxb4Io4VlWSIY71.jpg",
+          "cast_id": 10,
+          "character": "Captain Farnsworth",
+          "credit_id": "562a2450c3a3681b4b001c5a",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 62475,
+          "known_for_department": "Acting",
+          "name": "Kateri Walker",
+          "original_name": "Kateri Walker",
+          "popularity": 0.2887,
+          "profile_path": "/6xVZfv6tu4BlhL665JPMuUb86KV.jpg",
+          "cast_id": 11,
+          "character": "Manipi",
+          "credit_id": "562a24909251412857001f5e",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 548408,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Selina Jayne",
+          "original_name": "Selina Jayne",
+          "popularity": 0.2856,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Kimimila",
+          "credit_id": "562a24aac3a3681b52001f9a",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32652,
+          "known_for_department": "Acting",
+          "name": "Apesanahkwat",
+          "original_name": "Apesanahkwat",
+          "popularity": 0.3046,
+          "profile_path": "/8eJ1bAEXBT56zuKeJKFNWUintLT.jpg",
+          "cast_id": 13,
+          "character": "Bloody Knife",
+          "credit_id": "562a24bec3a3681b4d00243a",
+          "order": 11
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1220670,
+          "known_for_department": "Writing",
+          "name": "Richard Fielder",
+          "original_name": "Richard Fielder",
+          "popularity": 0.2766,
+          "profile_path": null,
+          "credit_id": "562a230e9251412857001f3a",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 80609,
+          "known_for_department": "Directing",
+          "name": "Jerry London",
+          "original_name": "Jerry London",
+          "popularity": 0.6031,
+          "profile_path": "/oxBqSU4oQHCSERmXJY8LurbnZWf.jpg",
+          "credit_id": "562a22fa9251412845001d06",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2484934,
+          "known_for_department": "Acting",
+          "name": "Leigh Murray",
+          "original_name": "Leigh Murray",
+          "popularity": 0.1819,
+          "profile_path": "/qTD99ShHS68IvK8eYexWv60uqAQ.jpg",
+          "credit_id": "5df9498165686e00138a85c0",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1997-01-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1997-03-16T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "GB",
+          "title": "Stolen Women",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Der Traum des Häuptlings",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BG",
+          "title": "Откраднати жени, пленени сърца",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "Pasión comanche",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PT",
+          "title": "Mulheres Roubadas",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "GR",
+          "title": "Klemmenes gynaikes",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "HU",
+          "title": "Elrabolt szív",
+          "type": "alternative title"
+        },
+        {
+          "iso_3166_1": "FI",
+          "title": "Punainen rakkaus",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "HU",
+          "title": "Sápadt arcok",
+          "type": "video title"
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "Stolen Women, Captured Hearts",
+          "type": "original"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/555607?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:12.096Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 555607,
+    "imdb_id": "tt1437211",
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Für Miriam",
+    "overview": "",
+    "popularity": 0.6919,
+    "poster_path": "/aidqwCCBnmmBJaTOuDlUssXKi0J.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2009-02-12",
+    "revenue": 0,
+    "runtime": 58,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Für Miriam",
+    "video": false,
+    "vote_average": 3,
+    "vote_count": 3,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 35663,
+          "known_for_department": "Acting",
+          "name": "Franziska Petri",
+          "original_name": "Franziska Petri",
+          "popularity": 0.7499,
+          "profile_path": "/bVp5vEYWeyHBZ4ioAJmHUWnMn1V.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5bcde8880e0a26016202625d",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5514,
+          "known_for_department": "Acting",
+          "name": "Vincent Redetzki",
+          "original_name": "Vincent Redetzki",
+          "popularity": 0.5915,
+          "profile_path": "/7loFI0Arjl7kIL6Ltd55USDFjy0.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5bcde890925141613e021196",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 8801,
+          "known_for_department": "Acting",
+          "name": "Rolf Kanies",
+          "original_name": "Rolf Kanies",
+          "popularity": 0.6517,
+          "profile_path": "/wX6KscOnIT0zILwQyRBYVUwm4l9.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "5bcde8999251416126022f8a",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 38216,
+          "known_for_department": "Acting",
+          "name": "Kai Scheve",
+          "original_name": "Kai Scheve",
+          "popularity": 0.448,
+          "profile_path": "/rqeRX8XWHWOwcc87SqJ2r4ihXar.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "5bcde8a10e0a260164024ca6",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1091977,
+          "known_for_department": "Directing",
+          "name": "Lars-Gunnar Lotz",
+          "original_name": "Lars-Gunnar Lotz",
+          "popularity": 0.096,
+          "profile_path": "/y34qcFwUvU3Y0q0DjaHZ5VOvKKU.jpg",
+          "credit_id": "5bcde87b0e0a260168026142",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2009-02-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

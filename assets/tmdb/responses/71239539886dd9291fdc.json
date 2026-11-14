@@ -1,0 +1,66 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Tinku&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:05.727Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 845592,
+        "title": "Tinku",
+        "original_language": "en",
+        "original_title": "Tinku",
+        "overview": "",
+        "popularity": 0.2648,
+        "poster_path": "/yhb5gDF3Su3jJ6GTgPjRMYReDp1.jpg",
+        "release_date": "1977-01-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 9,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oGwoA9ZKyJOAJP3EAkMnpi9HEqU.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 1475741,
+        "title": "Tinku",
+        "original_language": "qu",
+        "original_title": "Tinku",
+        "overview": "Un eclipse inicia el ritual. En un desierto interminable, dos pueblos antiguos divididos por una hendidura en la tierra se reúnen para celebrar un evento único y mágico. Tinkú. En la oscuridad del eclipse, este ritual requerirá la mayor muestra de coraje y fuerza: el autosacrificio.",
+        "popularity": 0.1021,
+        "poster_path": "/5JYPOtNA7sQAW06sSaib3EhDXYY.jpg",
+        "release_date": "2026-02-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 683869,
+        "title": "Tinku",
+        "original_language": "qu",
+        "original_title": "Tinku",
+        "overview": "",
+        "popularity": 0.1752,
+        "poster_path": null,
+        "release_date": "2015-09-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1661195?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:10.444Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "id": 1661195,
+    "imdb_id": "tt40792134",
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "TV Entreaberta",
+    "overview": "",
+    "popularity": 0.0624,
+    "poster_path": "/lunzCoocm6PIiNnRqDJymPeFen9.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2026-03-30",
+    "revenue": 0,
+    "runtime": 9,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "TV Entreaberta",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4417908,
+          "known_for_department": "Acting",
+          "name": "Guilherme Pereira",
+          "original_name": "Guilherme Pereira",
+          "popularity": 0.0538,
+          "profile_path": "/eBQbWUEIr7QcqS2T5M1d3YEHGfl.jpg",
+          "cast_id": 8,
+          "character": "Apresentador",
+          "credit_id": "69f0dd3098fe0d5fe6133fc1",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6174576,
+          "known_for_department": "Acting",
+          "name": "Diorcélio Antônio",
+          "original_name": "Diorcélio Antônio",
+          "popularity": 0.0699,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Apresentador",
+          "credit_id": "69f0dd40851e062369133fa3",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6174577,
+          "known_for_department": "Acting",
+          "name": "Nayara Leite",
+          "original_name": "Nayara Leite",
+          "popularity": 0.1045,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Mulher",
+          "credit_id": "69f0dd578274cc9d5c9d2ec3",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6108614,
+          "known_for_department": "Directing",
+          "name": "Mateus Compart",
+          "original_name": "Mateus Compart",
+          "popularity": 0.0695,
+          "profile_path": null,
+          "credit_id": "69cbeb51bbe237cb85c773b1",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6172969,
+          "known_for_department": "Art",
+          "name": "Milu Scalia",
+          "original_name": "Milu Scalia",
+          "popularity": 0.0025,
+          "profile_path": null,
+          "credit_id": "69efe9daa505b33024e366c9",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6172970,
+          "known_for_department": "Sound",
+          "name": "Vítor Batista",
+          "original_name": "Vítor Batista",
+          "popularity": 0.065,
+          "profile_path": null,
+          "credit_id": "69efe9f4e894277f83a892b4",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4494753,
+          "known_for_department": "Visual Effects",
+          "name": "Matheus Neilor",
+          "original_name": "Matheus Neilor",
+          "popularity": 0.0567,
+          "profile_path": null,
+          "credit_id": "69efea3417b590bafca9e355",
+          "department": "Visual Effects",
+          "job": "Animation Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6172973,
+          "known_for_department": "Art",
+          "name": "Sarah Leite",
+          "original_name": "Sarah Leite",
+          "popularity": 0.0432,
+          "profile_path": null,
+          "credit_id": "69efea5e93da0e694f0fce07",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6172975,
+          "known_for_department": "Visual Effects",
+          "name": "Artur Diniz",
+          "original_name": "Artur Diniz",
+          "popularity": 0.0235,
+          "profile_path": null,
+          "credit_id": "69efea7cd0c31dfebe142e79",
+          "department": "Visual Effects",
+          "job": "3D Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6108614,
+          "known_for_department": "Directing",
+          "name": "Mateus Compart",
+          "original_name": "Mateus Compart",
+          "popularity": 0.0695,
+          "profile_path": null,
+          "credit_id": "69efeaaebe72683bdaabbda6",
+          "department": "Crew",
+          "job": "Script"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4494753,
+          "known_for_department": "Visual Effects",
+          "name": "Matheus Neilor",
+          "original_name": "Matheus Neilor",
+          "popularity": 0.0567,
+          "profile_path": null,
+          "credit_id": "69f0de26d5a50db999133f35",
+          "department": "Art",
+          "job": "Storyboard Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6108614,
+          "known_for_department": "Directing",
+          "name": "Mateus Compart",
+          "original_name": "Mateus Compart",
+          "popularity": 0.0695,
+          "profile_path": null,
+          "credit_id": "69f0de39bb83830f88f96f34",
+          "department": "Art",
+          "job": "Storyboard Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6172975,
+          "known_for_department": "Visual Effects",
+          "name": "Artur Diniz",
+          "original_name": "Artur Diniz",
+          "popularity": 0.0235,
+          "profile_path": null,
+          "credit_id": "69f0de4805d41ba46b62bf69",
+          "department": "Art",
+          "job": "Storyboard Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6172970,
+          "known_for_department": "Sound",
+          "name": "Vítor Batista",
+          "original_name": "Vítor Batista",
+          "popularity": 0.065,
+          "profile_path": null,
+          "credit_id": "69f0de5415d2318ee8f96f0c",
+          "department": "Art",
+          "job": "Storyboard Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4494756,
+          "known_for_department": "Visual Effects",
+          "name": "Letícia Terra",
+          "original_name": "Letícia Terra",
+          "popularity": 0.0213,
+          "profile_path": null,
+          "credit_id": "69f0de672420ad5704aa83fa",
+          "department": "Art",
+          "job": "Storyboard Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6174580,
+          "known_for_department": "Art",
+          "name": "Mateus Miranda",
+          "original_name": "Mateus Miranda",
+          "popularity": 0.0427,
+          "profile_path": null,
+          "credit_id": "69f0de7e5b3fce941a81a99b",
+          "department": "Art",
+          "job": "Storyboard Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6172970,
+          "known_for_department": "Sound",
+          "name": "Vítor Batista",
+          "original_name": "Vítor Batista",
+          "popularity": 0.065,
+          "profile_path": null,
+          "credit_id": "69f0e0cdeca453caf0cd236f",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-03-30T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

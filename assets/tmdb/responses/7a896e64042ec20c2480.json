@@ -1,0 +1,160 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/762549?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:54.877Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 762549,
+    "imdb_id": null,
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Vincent Van Gogh - L’odore assordante del bianco",
+    "overview": "",
+    "popularity": 0.4605,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "2020-10-10",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Vincent Van Gogh - L’odore assordante del bianco",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 24288,
+          "known_for_department": "Acting",
+          "name": "Alessandro Preziosi",
+          "original_name": "Alessandro Preziosi",
+          "popularity": 0.7587,
+          "profile_path": "/ynBGohkuvPtMMiIJd2oJUr3M67z.jpg",
+          "cast_id": 1,
+          "character": "Vincent Van Gogh",
+          "credit_id": "5fa9e07d3a340b0040c67406",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1871282,
+          "known_for_department": "Acting",
+          "name": "Francesco Biscione",
+          "original_name": "Francesco Biscione",
+          "popularity": 0.1904,
+          "profile_path": "/8emRVQ6jYf0pAHi75JNB8e9B6OI.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5fa9e1f5abf8e2003e4305fb",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2207661,
+          "known_for_department": "Acting",
+          "name": "Massimo Nicolini",
+          "original_name": "Massimo Nicolini",
+          "popularity": 0.232,
+          "profile_path": "/xhbVailGNRxzNBQE4LSHko8VDvD.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "5fa9e2923a340b0041c3b036",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2850440,
+          "known_for_department": "Acting",
+          "name": "Roberto Manzi",
+          "original_name": "Roberto Manzi",
+          "popularity": 0.062,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "5fa9e2a941465c0040c44c33",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1464907,
+          "known_for_department": "Acting",
+          "name": "Leonardo Sbragia",
+          "original_name": "Leonardo Sbragia",
+          "popularity": 0.3182,
+          "profile_path": "/z9T8xRu5QDi8FdA0LkrELSWQrHl.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "5fa9e2c0534661003eeaff3f",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2850443,
+          "known_for_department": "Directing",
+          "name": "Alessandro Maggi",
+          "original_name": "Alessandro Maggi",
+          "popularity": 0.1595,
+          "profile_path": null,
+          "credit_id": "5fa9e305124c8d003e648eae",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "it",
+              "note": "",
+              "release_date": "2020-10-10T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

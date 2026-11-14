@@ -1,0 +1,197 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/702725?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:33.899Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "id": 702725,
+    "imdb_id": "tt0127686",
+    "origin_country": [
+      "DK"
+    ],
+    "original_language": "da",
+    "original_title": "Min ven privatdetektiven",
+    "overview": "",
+    "popularity": 0.1893,
+    "poster_path": "/o8cTn707U6srNTY8zhze1mJYE6k.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "DK",
+        "name": "Denmark"
+      }
+    ],
+    "release_date": "1924-04-07",
+    "revenue": 0,
+    "runtime": 103,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Min ven privatdetektiven",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29037,
+          "known_for_department": "Acting",
+          "name": "Philip Bech",
+          "original_name": "Philip Bech",
+          "popularity": 0.2184,
+          "profile_path": "/8IgmeYWQJfrBboz2okoBRhV16rv.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "5eb8ad44b7d3520021e7896c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1086978,
+          "known_for_department": "Acting",
+          "name": "Karina Bell",
+          "original_name": "Karina Bell",
+          "popularity": 0.1334,
+          "profile_path": "/5MKUUMTSmocpZ1qegN7q4PsxJrt.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "5eb8ad4cc3514c001e5acadd",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2633859,
+          "known_for_department": "Acting",
+          "name": "Einar Forchhammer",
+          "original_name": "Einar Forchhammer",
+          "popularity": 0.103,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "5eb8ad510cb3350021cdca73",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 578993,
+          "known_for_department": "Acting",
+          "name": "Aage Fønss",
+          "original_name": "Aage Fønss",
+          "popularity": 0.4321,
+          "profile_path": "/vNBJbfw8ycC30MtH4HJjpuSZm7x.jpg",
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "5eb8ad580cb3350021cdca84",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 117942,
+          "known_for_department": "Acting",
+          "name": "Peter Malberg",
+          "original_name": "Peter Malberg",
+          "popularity": 0.3744,
+          "profile_path": "/oyH7exq1S6RkLLflCQ4rHMz58fr.jpg",
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "5eb8ad5e7d2bc1001cfc31c5",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29045,
+          "known_for_department": "Acting",
+          "name": "Gunnar Tolnæs",
+          "original_name": "Gunnar Tolnæs",
+          "popularity": 0.3131,
+          "profile_path": "/gomGkgkwHRFtS7mqaYzxs6ezmVE.jpg",
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "6543b750ed2ac200aeb09447",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1086977,
+          "known_for_department": "Directing",
+          "name": "A.W. Sandberg",
+          "original_name": "A.W. Sandberg",
+          "popularity": 0.2427,
+          "profile_path": null,
+          "credit_id": "5eb8ad35cc277c00206c2164",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 47197,
+          "known_for_department": "Writing",
+          "name": "Sam Ask",
+          "original_name": "Sam Ask",
+          "popularity": 0.1446,
+          "profile_path": "/e7x28IOA3iya7RuLJOqj9YfjKIQ.jpg",
+          "credit_id": "5eb8ad3dbbe1dd0020834b1b",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1924-04-07T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "SE",
+          "title": "Gåtan på Römersholm",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

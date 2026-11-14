@@ -1,0 +1,132 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1763725?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:51.223Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1763725,
+    "imdb_id": null,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Lodo Negro",
+    "overview": "",
+    "popularity": 0.1028,
+    "poster_path": "/ceydcGbStB4oVVKEs6CXoE5WJpl.jpg",
+    "production_companies": [
+      {
+        "id": 309645,
+        "logo_path": null,
+        "name": "Evolire Producciones",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2015-07-10",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lodo Negro",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6457440,
+          "known_for_department": "Acting",
+          "name": "Felipe Ferrer Barcenas",
+          "original_name": "Felipe Ferrer Barcenas",
+          "popularity": 0.0472,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Felipe",
+          "credit_id": "6a9b1c5229524f9fcf61e7e0",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6457443,
+          "known_for_department": "Acting",
+          "name": "Axel Arnaud",
+          "original_name": "Axel Arnaud",
+          "popularity": 0.0569,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Axel",
+          "credit_id": "6a9b1c68d515cbec9a972e20",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6457440,
+          "known_for_department": "Acting",
+          "name": "Felipe Ferrer Barcenas",
+          "original_name": "Felipe Ferrer Barcenas",
+          "popularity": 0.0472,
+          "profile_path": null,
+          "credit_id": "6a9b1c838d6ea72080a433cc",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6356069,
+          "known_for_department": "Crew",
+          "name": "Diffuse Mind",
+          "original_name": "Diffuse Mind",
+          "popularity": 0.1097,
+          "profile_path": null,
+          "credit_id": "6a9b1ce96475045979b79440",
+          "department": "Crew",
+          "job": "Compositor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "B",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2015-07-10T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1416330?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:04.326Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1416330,
+    "imdb_id": null,
+    "origin_country": [
+      "PL"
+    ],
+    "original_language": "pl",
+    "original_title": "Praktyczny pan",
+    "overview": "",
+    "popularity": 0.1916,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 143480,
+        "logo_path": null,
+        "name": "Running Rabbit Films",
+        "origin_country": "PL"
+      },
+      {
+        "id": 129370,
+        "logo_path": "/c7OFocnzGIZ86DrcNAzosYNssKZ.png",
+        "name": "EC1 Łódź",
+        "origin_country": "PL"
+      },
+      {
+        "id": 249921,
+        "logo_path": null,
+        "name": "Orinoko Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PL",
+        "name": "Poland"
+      }
+    ],
+    "release_date": "2020-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Polish",
+        "iso_639_1": "pl",
+        "name": "Polski"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Praktyczny pan",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5174251,
+          "known_for_department": "Acting",
+          "name": "Tobiasz Majak",
+          "original_name": "Tobiasz Majak",
+          "popularity": 0.0363,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "(voice)",
+          "credit_id": "678392fd90f42c32837b3185",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5174254,
+          "known_for_department": "Acting",
+          "name": "Wincenty Wiącek",
+          "original_name": "Wincenty Wiącek",
+          "popularity": 0.0897,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Child (voice)",
+          "credit_id": "67839328bd793c03544e8f8c",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5174255,
+          "known_for_department": "Acting",
+          "name": "Wincenty Wiącek",
+          "original_name": "Wincenty Wiącek",
+          "popularity": 0.0499,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Child (voice)",
+          "credit_id": "67839328c81acaa63dbbcb91",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 239276,
+          "known_for_department": "Acting",
+          "name": "Masza Bogucka-Bauman",
+          "original_name": "Masza Bogucka-Bauman",
+          "popularity": 0.1088,
+          "profile_path": "/3brYOUJVgfXKlhLoJM3czumXFuF.jpg",
+          "cast_id": 7,
+          "character": "Radio Speaker (voice)",
+          "credit_id": "67839348c81acaa63dbbcb94",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1305280,
+          "known_for_department": "Directing",
+          "name": "Michał Poniedzielski",
+          "original_name": "Michał Poniedzielski",
+          "popularity": 0.1014,
+          "profile_path": null,
+          "credit_id": "67839209218fd57acf4f034a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4378371,
+          "known_for_department": "Directing",
+          "name": "Dominik Litwiniak",
+          "original_name": "Dominik Litwiniak",
+          "popularity": 0.1369,
+          "profile_path": null,
+          "credit_id": "67839224bd793c03544e8f05",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2672283,
+          "known_for_department": "Writing",
+          "name": "Roksana Jędrzejewska-Wróbel",
+          "original_name": "Roksana Jędrzejewska-Wróbel",
+          "popularity": 0.0589,
+          "profile_path": null,
+          "credit_id": "6783922fb9094c7dfebafd0e",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2851273,
+          "known_for_department": "Production",
+          "name": "Joanna Ronikier",
+          "original_name": "Joanna Ronikier",
+          "popularity": 0.0845,
+          "profile_path": null,
+          "credit_id": "67839367218fd57acf4f03a3",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3327898,
+          "known_for_department": "Production",
+          "name": "Błażej Moder",
+          "original_name": "Błażej Moder",
+          "popularity": 0.0816,
+          "profile_path": null,
+          "credit_id": "678393780690ac06e77b4bb2",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3327897,
+          "known_for_department": "Production",
+          "name": "Monika Głowacka",
+          "original_name": "Monika Głowacka",
+          "popularity": 0.0677,
+          "profile_path": null,
+          "credit_id": "6783938b218fd57acf4f03b8",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2672283,
+          "known_for_department": "Writing",
+          "name": "Roksana Jędrzejewska-Wróbel",
+          "original_name": "Roksana Jędrzejewska-Wróbel",
+          "popularity": 0.0589,
+          "profile_path": null,
+          "credit_id": "678393de218fd57acf4f03da",
+          "department": "Writing",
+          "job": "Short Story"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-01-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

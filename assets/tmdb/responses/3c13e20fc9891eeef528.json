@@ -1,0 +1,521 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/842476?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:22.220Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 842476,
+    "imdb_id": "tt14864752",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Leah Ross",
+    "overview": "",
+    "popularity": 0.289,
+    "poster_path": "/76eIPHd2Jh3cLVbuvOYEBh8Hgb.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2019-05-03",
+    "revenue": 0,
+    "runtime": 8,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Leah Ross",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1295332,
+          "known_for_department": "Acting",
+          "name": "Estelle Bajou",
+          "original_name": "Estelle Bajou",
+          "popularity": 0.1125,
+          "profile_path": null,
+          "cast_id": 33,
+          "character": "Leah",
+          "credit_id": "60cd357a426ae80029fe59ae",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129173,
+          "known_for_department": "Acting",
+          "name": "Anika Ramlo",
+          "original_name": "Anika Ramlo",
+          "popularity": 0.082,
+          "profile_path": null,
+          "cast_id": 34,
+          "character": "Sam",
+          "credit_id": "60cd3584e267de00572616a3",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129160,
+          "known_for_department": "Art",
+          "name": "Eric Simanskis",
+          "original_name": "Eric Simanskis",
+          "popularity": 0.0473,
+          "profile_path": null,
+          "credit_id": "60cd34832d37210071348d9d",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129164,
+          "known_for_department": "Sound",
+          "name": "Brian Sheehan",
+          "original_name": "Brian Sheehan",
+          "popularity": 0.0594,
+          "profile_path": null,
+          "credit_id": "60cd34a96a34480041f8bd0d",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129075,
+          "known_for_department": "Production",
+          "name": "Brian Sheehan",
+          "original_name": "Brian Sheehan",
+          "popularity": 0.0692,
+          "profile_path": null,
+          "credit_id": "60cd341099c96400425706d3",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1965673,
+          "known_for_department": "Camera",
+          "name": "Robindeep Singh",
+          "original_name": "Robindeep Singh",
+          "popularity": 0.0828,
+          "profile_path": null,
+          "credit_id": "60cd34bf33ad8f0041bfa49e",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129155,
+          "known_for_department": "Editing",
+          "name": "Brian Sheehan",
+          "original_name": "Brian Sheehan",
+          "popularity": 0.0272,
+          "profile_path": null,
+          "credit_id": "60cd34239652200058e836b5",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129156,
+          "known_for_department": "Camera",
+          "name": "Raunak Kapoor",
+          "original_name": "Raunak Kapoor",
+          "popularity": 0.1023,
+          "profile_path": null,
+          "credit_id": "60cd344799c964005a0162c5",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3129157,
+          "known_for_department": "Directing",
+          "name": "Jim Boemio",
+          "original_name": "Jim Boemio",
+          "popularity": 0.1006,
+          "profile_path": null,
+          "credit_id": "60cd346219ab59003f5b4011",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129166,
+          "known_for_department": "Crew",
+          "name": "Seth Bowman",
+          "original_name": "Seth Bowman",
+          "popularity": 0.0469,
+          "profile_path": null,
+          "credit_id": "60cd34ce13654500407833b1",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5175,
+          "known_for_department": "Editing",
+          "name": "Michael R. Miller",
+          "original_name": "Michael R. Miller",
+          "popularity": 0.2563,
+          "profile_path": null,
+          "credit_id": "60cd35005ed9620029cc3ab0",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129159,
+          "known_for_department": "Art",
+          "name": "Michaela Anglin",
+          "original_name": "Michaela Anglin",
+          "popularity": 0.0792,
+          "profile_path": null,
+          "credit_id": "60cd3479cede690059fe997f",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129165,
+          "known_for_department": "Camera",
+          "name": "Ojas Jain",
+          "original_name": "Ojas Jain",
+          "popularity": 0.0142,
+          "profile_path": null,
+          "credit_id": "60cd34b48d22fc0058735b64",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2299178,
+          "known_for_department": "Directing",
+          "name": "Riley Fitchpatrick",
+          "original_name": "Riley Fitchpatrick",
+          "popularity": 0.0775,
+          "profile_path": null,
+          "credit_id": "60cd34e22790bf00406a2a56",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 151092,
+          "known_for_department": "Writing",
+          "name": "Eric Eason",
+          "original_name": "Eric Eason",
+          "popularity": 0.2636,
+          "profile_path": null,
+          "credit_id": "60cd34d9bc2cb3003fac83eb",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129161,
+          "known_for_department": "Art",
+          "name": "Nick Tuttle",
+          "original_name": "Nick Tuttle",
+          "popularity": 0.0657,
+          "profile_path": null,
+          "credit_id": "60cd348deee18600245bbb1f",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2505546,
+          "known_for_department": "Acting",
+          "name": "Luke Lowder",
+          "original_name": "Luke Lowder",
+          "popularity": 0.0311,
+          "profile_path": null,
+          "credit_id": "60cd34f899c964005a0164b2",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129076,
+          "known_for_department": "Editing",
+          "name": "Brian Sheehan",
+          "original_name": "Brian Sheehan",
+          "popularity": 0.0569,
+          "profile_path": null,
+          "credit_id": "60cd34013679a1007198bd01",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129076,
+          "known_for_department": "Editing",
+          "name": "Brian Sheehan",
+          "original_name": "Brian Sheehan",
+          "popularity": 0.0569,
+          "profile_path": null,
+          "credit_id": "60cd33f242bf01006f0ded08",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129082,
+          "known_for_department": "Sound",
+          "name": "Ceben",
+          "original_name": "Ceben",
+          "popularity": 0.0285,
+          "profile_path": null,
+          "credit_id": "60cd3438cede690059fe988b",
+          "department": "Sound",
+          "job": "Music Score Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1965675,
+          "known_for_department": "Art",
+          "name": "Mack Wolf",
+          "original_name": "Mack Wolf",
+          "popularity": 0.1406,
+          "profile_path": null,
+          "credit_id": "60cd34556a34480041f8bc26",
+          "department": "Production",
+          "job": "Production Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129162,
+          "known_for_department": "Sound",
+          "name": "Jake Bell",
+          "original_name": "Jake Bell",
+          "popularity": 0.0535,
+          "profile_path": null,
+          "credit_id": "60cd34a1136545007620f516",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2274849,
+          "known_for_department": "Editing",
+          "name": "Mod Hall",
+          "original_name": "Mod Hall",
+          "popularity": 0.0449,
+          "profile_path": null,
+          "credit_id": "60cd34ea2790bf00773611bd",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129169,
+          "known_for_department": "Crew",
+          "name": "Leah Ross",
+          "original_name": "Leah Ross",
+          "popularity": 0.0864,
+          "profile_path": null,
+          "credit_id": "60cd35291365450057b78055",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1555702,
+          "known_for_department": "Sound",
+          "name": "Wade Wilson",
+          "original_name": "Wade Wilson",
+          "popularity": 0.1723,
+          "profile_path": null,
+          "credit_id": "60cd355d33ad8f002ab9b070",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2497431,
+          "known_for_department": "Directing",
+          "name": "A.J. Riggins",
+          "original_name": "A.J. Riggins",
+          "popularity": 0.0444,
+          "profile_path": null,
+          "credit_id": "60cd3517eee186005881741d",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129087,
+          "known_for_department": "Crew",
+          "name": "Amy Sheehan",
+          "original_name": "Amy Sheehan",
+          "popularity": 0.0404,
+          "profile_path": null,
+          "credit_id": "60cd35363679a10042dbbe7f",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2255228,
+          "known_for_department": "Editing",
+          "name": "John L. Roberts",
+          "original_name": "John L. Roberts",
+          "popularity": 0.0707,
+          "profile_path": "/1BSzWHftiUT8q1KU2eRh7WDwlcx.jpg",
+          "credit_id": "60cd35202d37210029a7a0bc",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2274847,
+          "known_for_department": "Writing",
+          "name": "William Christopher Stephens",
+          "original_name": "William Christopher Stephens",
+          "popularity": 0.0937,
+          "profile_path": null,
+          "credit_id": "60cd3545136545007620f73b",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129172,
+          "known_for_department": "Crew",
+          "name": "Gabi Walden",
+          "original_name": "Gabi Walden",
+          "popularity": 0.0714,
+          "profile_path": null,
+          "credit_id": "60cd35542d3721004224ba70",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129168,
+          "known_for_department": "Crew",
+          "name": "Tanner Poff",
+          "original_name": "Tanner Poff",
+          "popularity": 0.0504,
+          "profile_path": null,
+          "credit_id": "60cd350f9a9e20006d575a86",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3129088,
+          "known_for_department": "Crew",
+          "name": "Barry Sheehan",
+          "original_name": "Barry Sheehan",
+          "popularity": 0.0463,
+          "profile_path": null,
+          "credit_id": "60cd353deee1860058817474",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1965675,
+          "known_for_department": "Art",
+          "name": "Mack Wolf",
+          "original_name": "Mack Wolf",
+          "popularity": 0.1406,
+          "profile_path": null,
+          "credit_id": "60cd35645ed9620029cc3b81",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1325564,
+          "known_for_department": "Writing",
+          "name": "Ron Stacker Thompson",
+          "original_name": "Ron Stacker Thompson",
+          "popularity": 0.1203,
+          "profile_path": null,
+          "credit_id": "60cd354c42bf01005a68068a",
+          "department": "Crew",
+          "job": "Thanks"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2019-05-03T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,607 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1066853?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:22.390Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/pS996yCbyfdfY2KOtoMG5I86X7E.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "homepage": "",
+    "id": 1066853,
+    "imdb_id": "tt5672432",
+    "origin_country": [
+      "LU",
+      "CH"
+    ],
+    "original_language": "de",
+    "original_title": "Jakobs Ross",
+    "overview": "",
+    "popularity": 0.394,
+    "poster_path": "/gTDM81f7YHGWSRK29anyDD1pFUv.jpg",
+    "production_companies": [
+      {
+        "id": 5572,
+        "logo_path": "/1e7KXaEbrSRVbbpfgpLF6EiPAqj.png",
+        "name": "Turnus Film",
+        "origin_country": "CH"
+      },
+      {
+        "id": 48467,
+        "logo_path": "/6Kbxor0pP4YLdjhn5tSLczqRlYk.png",
+        "name": "Amour Fou Luxembourg",
+        "origin_country": "LU"
+      },
+      {
+        "id": 42145,
+        "logo_path": "/fX8uY3tXWh814PLVqKM0IJEoDPW.png",
+        "name": "SRF",
+        "origin_country": "CH"
+      },
+      {
+        "id": 156682,
+        "logo_path": "/cZiD0yy530os4Dh3fjyIs2fgYQc.png",
+        "name": "Blue Entertainment",
+        "origin_country": "CH"
+      },
+      {
+        "id": 26025,
+        "logo_path": "/dCodJldpENhvsu9erly8L1ct5IG.png",
+        "name": "Ascot Elite Entertainment Group",
+        "origin_country": "CH"
+      },
+      {
+        "id": 201,
+        "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+        "name": "ARTE",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "LU",
+        "name": "Luxembourg"
+      },
+      {
+        "iso_3166_1": "CH",
+        "name": "Switzerland"
+      }
+    ],
+    "release_date": "2024-01-18",
+    "revenue": 0,
+    "runtime": 104,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Jakobs Ross",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 7,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1502016,
+          "known_for_department": "Acting",
+          "name": "Luna Wedler",
+          "original_name": "Luna Wedler",
+          "popularity": 1.0187,
+          "profile_path": "/2ykQMktlyynFjKWQ764LTBaT1xn.jpg",
+          "cast_id": 1,
+          "character": "Elsie Huwyler",
+          "credit_id": "63ac4466c8113d0082bb4036",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1818017,
+          "known_for_department": "Acting",
+          "name": "Valentin Postlmayr",
+          "original_name": "Valentin Postlmayr",
+          "popularity": 0.3886,
+          "profile_path": "/o5BDahQqFX5aWlfnBETZMC6Uqgp.jpg",
+          "cast_id": 3,
+          "character": "Jakob Eicher",
+          "credit_id": "63ac4485c8113d00c88e932e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1146745,
+          "known_for_department": "Acting",
+          "name": "Eugenie Anselin",
+          "original_name": "Eugenie Anselin",
+          "popularity": 0.4456,
+          "profile_path": "/jB8WLVPmZmRSSNkaTB6XeYaD3ul.jpg",
+          "cast_id": 14,
+          "character": "Amalie-Sophie Burgener",
+          "credit_id": "6577a4e089d97f00e375537a",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1030356,
+          "known_for_department": "Acting",
+          "name": "Max Hubacher",
+          "original_name": "Max Hubacher",
+          "popularity": 0.6192,
+          "profile_path": "/vjpHbMtjuaqrsEIxmQ99S8Ol90m.jpg",
+          "cast_id": 2,
+          "character": "Rico",
+          "credit_id": "63ac44751f748b008236a3ef",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 235807,
+          "known_for_department": "Acting",
+          "name": "Luc Feit",
+          "original_name": "Luc Feit",
+          "popularity": 0.4672,
+          "profile_path": "/qLg5l56oNwziohvddF6ixivtSD6.jpg",
+          "cast_id": 15,
+          "character": "Direktor Burgener",
+          "credit_id": "6577a4e5ec8a430137ff8492",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1187355,
+          "known_for_department": "Acting",
+          "name": "Annina Butterworth",
+          "original_name": "Annina Butterworth",
+          "popularity": 0.1421,
+          "profile_path": "/5fiAORW5Kcxkze1yRBxT5p6kcx5.jpg",
+          "cast_id": 16,
+          "character": "Lina vom Chneushügel",
+          "credit_id": "6691307c158a4bc768811c61",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1041249,
+          "known_for_department": "Acting",
+          "name": "Marie Jung",
+          "original_name": "Marie Jung",
+          "popularity": 0.2738,
+          "profile_path": "/wquNzcjuqmxl1FCPMQNoRbyGRKz.jpg",
+          "cast_id": 17,
+          "character": "Gouvernante Furrer",
+          "credit_id": "6691308aeb96fd5b09239dda",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 46835,
+          "known_for_department": "Acting",
+          "name": "Andreas Matti",
+          "original_name": "Andreas Matti",
+          "popularity": 0.3908,
+          "profile_path": "/kFPCRF9weP4iHBaG04o52GSIeD8.jpg",
+          "cast_id": 18,
+          "character": "Sauschaagg",
+          "credit_id": "66913095dc4b9b8e1eee4559",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2382300,
+          "known_for_department": "Acting",
+          "name": "Orell Bergkraut",
+          "original_name": "Orell Bergkraut",
+          "popularity": 0.0506,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Kari Unbekannt",
+          "credit_id": "669130a0d2332e27a106b7af",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1818244,
+          "known_for_department": "Acting",
+          "name": "Martin Vischer",
+          "original_name": "Martin Vischer",
+          "popularity": 0.3317,
+          "profile_path": "/lAJL6zSLk2eQckvsRIgZRh9CbmM.jpg",
+          "cast_id": 20,
+          "character": "Hans Obstmeier",
+          "credit_id": "669130a8d2332e27a106b7b3",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1704500,
+          "known_for_department": "Acting",
+          "name": "Thomas U. Hostettler",
+          "original_name": "Thomas U. Hostettler",
+          "popularity": 0.0714,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Bauer Grob",
+          "credit_id": "669130b0b35808659406b34e",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1200734,
+          "known_for_department": "Acting",
+          "name": "Barbara Terpoorten",
+          "original_name": "Barbara Terpoorten",
+          "popularity": 0.2671,
+          "profile_path": "/o8l7yHdHV9CQX5KUQuSBD6NO5X8.jpg",
+          "cast_id": 22,
+          "character": "Käserin Ursula",
+          "credit_id": "669130b8cf62fae661811d3c",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2387914,
+          "known_for_department": "Acting",
+          "name": "Tabea Buser",
+          "original_name": "Tabea Buser",
+          "popularity": 0.1463,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "Hulda",
+          "credit_id": "669130c0fc48159cbbd17849",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1087716,
+          "known_for_department": "Acting",
+          "name": "Philippe Graber",
+          "original_name": "Philippe Graber",
+          "popularity": 0.5852,
+          "profile_path": "/xgW6vI5AileU1PF0tqXQwKMcAV2.jpg",
+          "cast_id": 24,
+          "character": "Kaplan Schlumpf",
+          "credit_id": "669130c9caf236ba64239f35",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1380835,
+          "known_for_department": "Acting",
+          "name": "Daniel Frei",
+          "original_name": "Daniel Frei",
+          "popularity": 0.2561,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "Rosshändler Zigo",
+          "credit_id": "669130db020b07484c9e24ec",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3857057,
+          "known_for_department": "Acting",
+          "name": "Hans Adolfsen",
+          "original_name": "Hans Adolfsen",
+          "popularity": 0.0557,
+          "profile_path": null,
+          "cast_id": 26,
+          "character": "Quartett Herrenhaus, Piano",
+          "credit_id": "669130e406e1b3f2aa8b38e0",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4825535,
+          "known_for_department": "Acting",
+          "name": "Valerio Trabucchi",
+          "original_name": "Valerio Trabucchi",
+          "popularity": 0.0528,
+          "profile_path": null,
+          "cast_id": 27,
+          "character": "Quartett Herrenhaus, Cellist",
+          "credit_id": "669130ec03b5d45265ee4707",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2986284,
+          "known_for_department": "Sound",
+          "name": "Pierre Funck",
+          "original_name": "Pierre Funck",
+          "popularity": 0.1399,
+          "profile_path": null,
+          "cast_id": 28,
+          "character": "Harmonium Kirche",
+          "credit_id": "669130f44d3c15df39e112ec",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4825536,
+          "known_for_department": "Acting",
+          "name": "Bodo Kaiser",
+          "original_name": "Bodo Kaiser",
+          "popularity": 0.028,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "Bruder Rico",
+          "credit_id": "669131096ecef8e1a88b39a4",
+          "order": 18
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1352765,
+          "known_for_department": "Production",
+          "name": "Bady Minck",
+          "original_name": "Bady Minck",
+          "popularity": 0.3187,
+          "profile_path": null,
+          "credit_id": "6577a4955b950800ae197839",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 557705,
+          "known_for_department": "Production",
+          "name": "Anita Wasser",
+          "original_name": "Anita Wasser",
+          "popularity": 0.2517,
+          "profile_path": "/z1tOyvuP4lMy0dN3OcPO47ZPaVW.jpg",
+          "credit_id": "6577a4867a3c52012d00bccc",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1481526,
+          "known_for_department": "Production",
+          "name": "Michael Steiger",
+          "original_name": "Michael Steiger",
+          "popularity": 0.1253,
+          "profile_path": "/e8SqLsij4Avs3K2NFZCoTIjaCyk.jpg",
+          "credit_id": "6577a48ee93e95218dcbd068",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 564793,
+          "known_for_department": "Production",
+          "name": "Alexander Dumreicher-Ivanceanu",
+          "original_name": "Alexander Dumreicher-Ivanceanu",
+          "popularity": 0.3787,
+          "profile_path": null,
+          "credit_id": "6577a49d35a61e013ac1d7ca",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1265655,
+          "known_for_department": "Sound",
+          "name": "Yves Bémelmans",
+          "original_name": "Yves Bémelmans",
+          "popularity": 0.2257,
+          "profile_path": null,
+          "credit_id": "6577a4b389d97f01009e9a45",
+          "department": "Sound",
+          "job": "Location Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 23400,
+          "known_for_department": "Editing",
+          "name": "Isabel Meier",
+          "original_name": "Isabel Meier",
+          "popularity": 0.2049,
+          "profile_path": null,
+          "credit_id": "6577a4aa4bfa5400abef717b",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1408650,
+          "known_for_department": "Sound",
+          "name": "Manu Gerber",
+          "original_name": "Manu Gerber",
+          "popularity": 0.2757,
+          "profile_path": null,
+          "credit_id": "6577a4bcaf58cb01236c1edb",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 52728,
+          "known_for_department": "Directing",
+          "name": "Katalin Gödrös",
+          "original_name": "Katalin Gödrös",
+          "popularity": 0.1991,
+          "profile_path": null,
+          "credit_id": "63ac449a79a1c300a027af8f",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3848435,
+          "known_for_department": "Writing",
+          "name": "Silvia Tschui",
+          "original_name": "Silvia Tschui",
+          "popularity": 0.0386,
+          "profile_path": null,
+          "credit_id": "63ac44f3c8113d007d476e52",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1495221,
+          "known_for_department": "Writing",
+          "name": "Urs Bühler",
+          "original_name": "Urs Bühler",
+          "popularity": 0.1287,
+          "profile_path": null,
+          "credit_id": "63ac44d5be4b36008a6c553a",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Solothurn Film Festival",
+              "release_date": "2024-01-18T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2024-01-18T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Arte•tv",
+              "release_date": "2026-05-08T00:00:00.000Z",
+              "type": 4
+            },
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Arte",
+              "release_date": "2026-05-15T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Arte•tv",
+              "release_date": "2026-05-08T00:00:00.000Z",
+              "type": 4
+            },
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Arte",
+              "release_date": "2026-05-15T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Jecheon International Music & Film Festival",
+              "release_date": "2025-09-05T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "DE",
+          "title": "Jakobs Ross",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "LU",
+          "title": "Jakobs Ross",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CH",
+          "title": "Jakobs Ross",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Le cheval de Jacob",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

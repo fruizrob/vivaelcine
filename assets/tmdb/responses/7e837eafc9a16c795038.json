@@ -1,0 +1,79 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1689427?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:09.766Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1689427,
+    "imdb_id": null,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "No prendas la luz",
+    "overview": "",
+    "popularity": 0.0191,
+    "poster_path": "/i2GWUTCUYUQ2IImbGnudj2ux3Il.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2025-10-31",
+    "revenue": 0,
+    "runtime": 2,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "No prendas la luz",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6194022,
+          "known_for_department": "Directing",
+          "name": "Carina Vanessa Rodríguez",
+          "original_name": "Carina Vanessa Rodríguez",
+          "popularity": 0.0298,
+          "profile_path": null,
+          "credit_id": "69fb54b1e32a69c8b2cd0e03",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2025-10-31T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

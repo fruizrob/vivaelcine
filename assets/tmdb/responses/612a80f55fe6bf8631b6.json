@@ -1,0 +1,297 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1676480?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:10.072Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/t6mF8edXFxzSkTon4iGoNY7c9iE.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1676480,
+    "imdb_id": "tt38973684",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Pinchu es así",
+    "overview": "Pinchu es un guarrete y todos y todas le ríen la gracia, incluida su novia Jimena. Sólo Bea es capaz de verlo tal y como es, aunque tendrá que plantearse si ella está justificando de la misma forma el comportamiento de un ser muy querido",
+    "popularity": 0.2691,
+    "poster_path": "/cseUesl72uE09y06vuiN47WCKCW.jpg",
+    "production_companies": [
+      {
+        "id": 310110,
+        "logo_path": "/UGUupU6XwQlR5jPZZAv1RVOFGn.png",
+        "name": "Carmen Córdoba",
+        "origin_country": "ES"
+      },
+      {
+        "id": 258251,
+        "logo_path": null,
+        "name": "La Chula Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2026-04-18",
+    "revenue": 0,
+    "runtime": 9,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pinchu es así",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1283843,
+          "known_for_department": "Acting",
+          "name": "Alba Flores",
+          "original_name": "Alba Flores",
+          "popularity": 1.5394,
+          "profile_path": "/vWUZkQKxj63qTNBa8DvEd0CpU64.jpg",
+          "cast_id": 8,
+          "character": "Bea (voice)",
+          "credit_id": "6aa199978548c9e43e2af4cc",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2708199,
+          "known_for_department": "Acting",
+          "name": "Helena Lanza",
+          "original_name": "Helena Lanza",
+          "popularity": 0.2848,
+          "profile_path": "/vqdDuy4CVftlv5cvQpNkGqUusDQ.jpg",
+          "cast_id": 9,
+          "character": "Sol (voice)",
+          "credit_id": "6aa199a1cffed90c10892198",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4272237,
+          "known_for_department": "Crew",
+          "name": "María Zaragoza",
+          "original_name": "María Zaragoza",
+          "popularity": 0.1756,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Rebeca (voice)",
+          "credit_id": "6aa199aeb41b59ee2545a571",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6019763,
+          "known_for_department": "Acting",
+          "name": "Nüll García",
+          "original_name": "Nüll García",
+          "popularity": 0.1266,
+          "profile_path": "/jsSQWkOEp96KAjjHrUjhgDoBns.jpg",
+          "cast_id": 11,
+          "character": "Jimena (voice)",
+          "credit_id": "6aa199bccaa01f6b152d5588",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2639955,
+          "known_for_department": "Acting",
+          "name": "Eduardo Rosa",
+          "original_name": "Eduardo Rosa",
+          "popularity": 0.1676,
+          "profile_path": "/dbDsMUGiXgpXUDIpPWItjO1j0Tk.jpg",
+          "cast_id": 12,
+          "character": "Pinchu (voice)",
+          "credit_id": "6aa19a2dd2073633cd939e7a",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2859699,
+          "known_for_department": "Directing",
+          "name": "Carmen Córdoba González",
+          "original_name": "Carmen Córdoba González",
+          "popularity": 0.0803,
+          "profile_path": "/xoPzki5rnPfU6XSKdRzKCoxNUXx.jpg",
+          "credit_id": "69e4871539a1eb015d7a07cf",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4272237,
+          "known_for_department": "Crew",
+          "name": "María Zaragoza",
+          "original_name": "María Zaragoza",
+          "popularity": 0.1756,
+          "profile_path": null,
+          "credit_id": "6aa198edd72a2b3db8d284e9",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6467438,
+          "known_for_department": "Art",
+          "name": "María Herreros",
+          "original_name": "María Herreros",
+          "popularity": 0.078,
+          "profile_path": null,
+          "credit_id": "6aa199437c8a0790af7469bd",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 142051,
+          "known_for_department": "Visual Effects",
+          "name": "Thierry Torres Rubio",
+          "original_name": "Thierry Torres Rubio",
+          "popularity": 0.0885,
+          "profile_path": null,
+          "credit_id": "6aa19954daea691261f69eeb",
+          "department": "Visual Effects",
+          "job": "Animation Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2730935,
+          "known_for_department": "Sound",
+          "name": "Rolando Alonso",
+          "original_name": "Rolando Alonso",
+          "popularity": 0.0641,
+          "profile_path": null,
+          "credit_id": "6aa199689ac9e3764a45a567",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2859699,
+          "known_for_department": "Directing",
+          "name": "Carmen Córdoba González",
+          "original_name": "Carmen Córdoba González",
+          "popularity": 0.0803,
+          "profile_path": "/xoPzki5rnPfU6XSKdRzKCoxNUXx.jpg",
+          "credit_id": "6aa19983421ae04ff6f69ef8",
+          "department": "Writing",
+          "job": "Idea"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6467458,
+          "known_for_department": "Sound",
+          "name": "Patricia Muñoz Mallén",
+          "original_name": "Patricia Muñoz Mallén",
+          "popularity": 0.0323,
+          "profile_path": null,
+          "credit_id": "6aa19aac27a76838698033df",
+          "department": "Sound",
+          "job": "Songs"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2859699,
+          "known_for_department": "Directing",
+          "name": "Carmen Córdoba González",
+          "original_name": "Carmen Córdoba González",
+          "popularity": 0.0803,
+          "profile_path": "/xoPzki5rnPfU6XSKdRzKCoxNUXx.jpg",
+          "credit_id": "6aa19acb84c0cb399a12c205",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2859699,
+          "known_for_department": "Directing",
+          "name": "Carmen Córdoba González",
+          "original_name": "Carmen Córdoba González",
+          "popularity": 0.0803,
+          "profile_path": "/xoPzki5rnPfU6XSKdRzKCoxNUXx.jpg",
+          "credit_id": "6aa19aead72a2b3db8d28515",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-04-18T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Leiden International Film Festival",
+              "release_date": "2026-10-08T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Kuandu International Animation Festival",
+              "release_date": "2026-10-26T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

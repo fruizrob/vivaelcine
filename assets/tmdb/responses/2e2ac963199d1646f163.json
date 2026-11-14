@@ -1,0 +1,139 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1669913?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:12.961Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/xsTERIvWjb4uv886ltdHweaAJhP.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1669913,
+    "imdb_id": null,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Miriam Margolyes Made Me Me",
+    "overview": "",
+    "popularity": 0.4293,
+    "poster_path": "/5l3NtDyEQDW5enz7P8NxnPGvUH5.jpg",
+    "production_companies": [
+      {
+        "id": 3324,
+        "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+        "name": "BBC",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2026-04-13",
+    "revenue": 0,
+    "runtime": 60,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Miriam Margolyes Made Me Me",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6199,
+          "known_for_department": "Acting",
+          "name": "Miriam Margolyes",
+          "original_name": "Miriam Margolyes",
+          "popularity": 1.5959,
+          "profile_path": "/vsnCGCp0nhJTag56HP8XFhXnZo9.jpg",
+          "cast_id": 2,
+          "character": "Self",
+          "credit_id": "69dd584b460a66f9199b8ad8",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1017365,
+          "known_for_department": "Directing",
+          "name": "Simon Draper",
+          "original_name": "Simon Draper",
+          "popularity": 0.2177,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Self",
+          "credit_id": "69dd5866d6eeb3193b9b8b81",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 9144,
+          "known_for_department": "Acting",
+          "name": "Sally Phillips",
+          "original_name": "Sally Phillips",
+          "popularity": 1.4685,
+          "profile_path": "/xLEMZhksdCEO8HUhQLNetkETLdr.jpg",
+          "cast_id": 4,
+          "character": "Self",
+          "credit_id": "69dd5878f6a74e069e70b15a",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1017365,
+          "known_for_department": "Directing",
+          "name": "Simon Draper",
+          "original_name": "Simon Draper",
+          "popularity": 0.2177,
+          "profile_path": null,
+          "credit_id": "69dd583013284275953739c9",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "BBC Two",
+              "release_date": "2026-04-13T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

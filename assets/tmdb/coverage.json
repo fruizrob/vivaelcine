@@ -1,18 +1,7612 @@
 {
-  "generatedAt": "2026-11-05T23:22:01.161Z",
+  "generatedAt": "2026-11-14T02:32:26.263Z",
   "coverage": {
-    "total": 134,
-    "queried": 131,
+    "total": 219,
+    "queried": 216,
     "unannounced": 3,
-    "matched": 108,
-    "unmatched": 5,
+    "matched": 165,
+    "unmatched": 30,
     "ambiguous": 0,
-    "needsReview": 18,
+    "needsReview": 21,
     "retained": 0,
-    "withFestivalHistory": 59,
-    "appearances": 145
+    "withFestivalHistory": 84,
+    "appearances": 192
   },
   "films": [
+    {
+      "key": "ficvina-2026/31-minutos",
+      "title": "31 minutos, la película",
+      "status": "matched",
+      "filmId": "ficvina-2026/31-minutos",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "director",
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 36999,
+      "appearances": 0,
+      "boundTmdbId": 36999,
+      "catalogueYear": 2008,
+      "tmdbYear": 2008,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 36999,
+          "title": "31 Minutos, la película",
+          "year": "2008",
+          "runtime": 83,
+          "directors": [
+            "Pedro Peirano",
+            "Álvaro Díaz González"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/asteroide-2518",
+      "title": "Asteroide 2518",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/asteroide-2518",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Asteroide 2518",
+            "year": "2026",
+            "page": 1
+          },
+          {
+            "query": "Asteroide 2518",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": 2026,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": []
+    },
+    {
+      "key": "ficvina-2026/cine-chileno/Detrás de la lluvia",
+      "title": "Detrás de la lluvia",
+      "status": "matched",
+      "filmId": "ficvina-2026/cine-chileno/Detrás de la lluvia",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 663250,
+      "appearances": 1,
+      "boundTmdbId": 663250,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 663250,
+          "title": "Detrás de la lluvia",
+          "year": "2026",
+          "runtime": 97,
+          "directors": [
+            "Valeria Sarmiento"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/cine-chileno/El jardín de los pañuelos blancos",
+      "title": "El jardín de los pañuelos blancos",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/cine-chileno/El jardín de los pañuelos blancos",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "El jardín de los pañuelos blancos",
+            "year": "2026",
+            "page": 1
+          },
+          {
+            "query": "El jardín de los pañuelos blancos",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": 2026,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": []
+    },
+    {
+      "key": "ficvina-2026/ciudad-jardin",
+      "title": "Ciudad jardín",
+      "status": "matched",
+      "filmId": "fidocs-2026/ciudad-jardin",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "year"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1810714,
+      "appearances": 0,
+      "boundTmdbId": 1810714,
+      "catalogueYear": 2026,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1810714,
+          "title": "Ciudad Jardín",
+          "year": "",
+          "runtime": 99,
+          "directors": [
+            "Javier Zoro"
+          ],
+          "problems": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/cocaina-negra",
+      "title": "Cocaína negra",
+      "status": "matched",
+      "filmId": "ficvina-2026/cocaina-negra",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1660634,
+      "appearances": 1,
+      "boundTmdbId": 1660634,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "MX",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "es",
+          "note": "Festival Internacional de Cine en Ensenada (FICEns)",
+          "release_date": "2026-11-21T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1660634,
+          "title": "Cocaína negra",
+          "year": "2026",
+          "runtime": 84,
+          "directors": [
+            "Cristóbal Valenzuela"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/el-coloquio-de-los-pajaros",
+      "title": "El coloquio de los pájaros",
+      "status": "matched",
+      "filmId": "ficvina-2026/el-coloquio-de-los-pajaros",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1657856,
+      "appearances": 0,
+      "boundTmdbId": 1657856,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "CH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "fr",
+          "note": "Visions du Réel",
+          "release_date": "2026-04-22T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "MIDBO",
+          "release_date": "2026-11-04T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "es",
+          "note": "Lima Film Festival ",
+          "release_date": "2026-08-08T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1657856,
+          "title": "El coloquio de los pájaros",
+          "year": "2026",
+          "runtime": 60,
+          "directors": [
+            "Sofía Velázquez Núñez"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/el-laberinto-del-fauno",
+      "title": "El laberinto del fauno",
+      "status": "matched",
+      "filmId": "ficvina-2026/el-laberinto-del-fauno",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1417,
+      "appearances": 4,
+      "boundTmdbId": 1417,
+      "catalogueYear": 2006,
+      "tmdbYear": 2006,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Gold Coast Film Fantastic",
+          "release_date": "2006-09-06T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival of Rio",
+          "release_date": "2006-09-29T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "DO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Dominican Republic Global Film Festival",
+          "release_date": "2006-11-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "EE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Tallinn Black Nights Film Festival",
+          "release_date": "2006-12-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ES",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Sitges Film Festival",
+          "release_date": "2006-10-06T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FI",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Helsinki International Film Festival",
+          "release_date": "2006-09-21T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Paris Mon Premier Festival",
+          "release_date": "2006-10-26T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "London FrightFest Film Festival",
+          "release_date": "2006-08-25T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Thessaloniki International Film Festival",
+          "release_date": "2006-11-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "IE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Horrorthon Festival Dublin",
+          "release_date": "2006-10-29T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Amsterdam Fantastic Film Festival",
+          "release_date": "2007-04-25T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Oslo International Film Festival",
+          "release_date": "2006-11-16T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Davao",
+          "release_date": "2007-06-06T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Manila",
+          "release_date": "2007-04-25T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Fantasporto Film Festival",
+          "release_date": "2007-02-23T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TW",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Taipei Golden Horse Film Festival",
+          "release_date": "2006-11-12T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Atlanta, Georgia",
+          "release_date": "2007-01-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Los Angeles, California",
+          "release_date": "2006-12-18T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "UY",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival de Cine de Montevideo",
+          "release_date": "2006-10-20T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "VE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Caracas",
+          "release_date": "2007-02-16T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1417,
+          "title": "El laberinto del fauno",
+          "year": "2006",
+          "runtime": 112,
+          "directors": [
+            "Guillermo del Toro"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/el-partido",
+      "title": "El partido",
+      "status": "matched",
+      "filmId": "ficvina-2026/el-partido",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1666712,
+      "appearances": 3,
+      "boundTmdbId": 1666712,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Sydney Film Festival ",
+          "release_date": "2026-06-09T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Melbourne International Film Festival",
+          "release_date": "2026-08-14T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Russell Hobbs British Film Festival",
+          "release_date": "2026-10-29T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Film Fest Gent",
+          "release_date": "2026-10-08T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Zurich Film Festival ",
+          "release_date": "2026-09-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "HU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Budapest International Film Festival",
+          "release_date": "2026-10-25T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "IL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Haifa International Film Festival",
+          "release_date": "2026-09-26T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "JP",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Tokyo International Film Festival",
+          "release_date": "2026-10-28T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1666712,
+          "title": "El Partido",
+          "year": "2026",
+          "runtime": 91,
+          "directors": [
+            "Juan Cabral",
+            "Santiago Franco"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/guerra-de-verano",
+      "title": "Guerra de verano",
+      "status": "matched",
+      "filmId": "ficvina-2026/guerra-de-verano",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1247058,
+      "appearances": 0,
+      "boundTmdbId": 1247058,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Tribeca Film Festival ",
+          "release_date": "2026-06-07T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1247058,
+          "title": "Guerra de verano",
+          "year": "2026",
+          "runtime": 104,
+          "directors": [
+            "Alicia Scherson"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/habitar-cortos/Caerá el morro y marcharán sus hijos",
+      "title": "Caerá el morro y marcharán sus hijos",
+      "status": "matched",
+      "filmId": "ficvina-2026/habitar-cortos/Caerá el morro y marcharán sus hijos",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1709895,
+      "appearances": 0,
+      "boundTmdbId": 1709895,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1709895,
+          "title": "Caerá el Morro y Marcharán sus Hijos",
+          "year": "",
+          "runtime": 13,
+          "directors": [
+            "Oscar Marín Sepúlveda"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/habitar-cortos/Caudal",
+      "title": "Caudal",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/habitar-cortos/Caudal",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Caudal",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1165912,
+          "title": "Caudal",
+          "year": "2021",
+          "runtime": 0,
+          "directors": [
+            "Luís Sobreiro"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1304835,
+          "title": "Caudal",
+          "year": "2024",
+          "runtime": 11,
+          "directors": [
+            "Ignacio Masllorens"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 400112,
+          "title": "Los hijos mandan",
+          "year": "1939",
+          "runtime": 77,
+          "directors": [
+            "Gabriel Soria"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 256146,
+          "title": "Los Caudales",
+          "year": "2005",
+          "runtime": 17,
+          "directors": [
+            "Timoleon Wilkins"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/habitar-cortos/Criaturas que gritan",
+      "title": "Criaturas que gritan",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/habitar-cortos/Criaturas que gritan",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Criaturas que gritan",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": []
+    },
+    {
+      "key": "ficvina-2026/habitar-cortos/La ofrenda",
+      "title": "La ofrenda",
+      "status": "matched",
+      "filmId": "ficvina-2026/habitar-cortos/La ofrenda",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1808382,
+      "appearances": 0,
+      "boundTmdbId": 1808382,
+      "catalogueYear": null,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "CL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "es",
+          "note": "",
+          "release_date": "2026-08-24T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1808382,
+          "title": "La Ofrenda",
+          "year": "2026",
+          "runtime": 18,
+          "directors": [
+            "Samuel González"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/habitar-cortos/Norte claro, sur oscuro",
+      "title": "Norte claro, sur oscuro",
+      "status": "matched",
+      "filmId": "fidocs-2026/norte-claro-sur-oscuro",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1794054,
+      "appearances": 0,
+      "boundTmdbId": 1794054,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1794054,
+          "title": "Norte claro, sur oscuro",
+          "year": "",
+          "runtime": 24,
+          "directors": [
+            "Francisca Amigo Moraga"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/karmele",
+      "title": "Karmele",
+      "status": "matched",
+      "filmId": "ficvina-2026/karmele",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "year"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1495245,
+      "appearances": 1,
+      "boundTmdbId": 1495245,
+      "catalogueYear": 2026,
+      "tmdbYear": 2025,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "HSBC Spanish & Latin American Film Festival",
+          "release_date": "2026-06-13T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1495245,
+          "title": "Karmele",
+          "year": "2025",
+          "runtime": 114,
+          "directors": [
+            "Asier Altuna"
+          ],
+          "problems": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/la-anatomia-de-los-caballos",
+      "title": "La anatomía de los caballos",
+      "status": "matched",
+      "filmId": "ficvina-2026/la-anatomia-de-los-caballos",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "year"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1472990,
+      "appearances": 1,
+      "boundTmdbId": 1472990,
+      "catalogueYear": 2025,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "IT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Torino Film Festival",
+          "release_date": "2025-11-24T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1472990,
+          "title": "La anatomía de los caballos",
+          "year": "2026",
+          "runtime": 106,
+          "directors": [
+            "Daniel Vidal Toche"
+          ],
+          "problems": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/la-bola-negra",
+      "title": "La bola negra",
+      "status": "matched",
+      "filmId": "ficvina-2026/la-bola-negra",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1422041,
+      "appearances": 7,
+      "boundTmdbId": 1422041,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Sydney Film Festival ",
+          "release_date": "2026-06-12T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "New Farm Queer Film Festival",
+          "release_date": "2026-08-08T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Melbourne International Film Festival",
+          "release_date": "2026-08-09T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Queer Screen Film Fest",
+          "release_date": "2026-09-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Darwin International Film Festival",
+          "release_date": "2026-09-20T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Film Fest Gent",
+          "release_date": "2026-10-12T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Pink Screens Festival",
+          "release_date": "2026-10-29T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BG",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Cinelibri Film-Literature Festival",
+          "release_date": "2026-10-19T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Rio de Janeiro International Film Festival",
+          "release_date": "2026-10-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Vancouver International Film Festival",
+          "release_date": "2026-10-09T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival du Nouveau Cinéma",
+          "release_date": "2026-10-11T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Windsor International Film Festival",
+          "release_date": "2026-11-06T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Zurich Film Festival",
+          "release_date": "2026-09-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Geneva International Film Festival",
+          "release_date": "2026-11-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Queersicht LGBTIAQ+ Filmfestival",
+          "release_date": "2026-11-07T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Viña del Mar International Film Festival ",
+          "release_date": "2026-11-28T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bogota International Film Festival",
+          "release_date": "2026-10-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "30 Salón Audiovisual ",
+          "release_date": "2026-10-31T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Cali International Film Festival",
+          "release_date": "2026-10-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "DE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Filmfest Hamburg ",
+          "release_date": "2026-09-27T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "DE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Film Festival Cologne",
+          "release_date": "2026-10-30T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "DE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Mannheim-Heidelberg International Film Festival",
+          "release_date": "2026-11-14T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "EE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Tallinn Black Nights Film Festival",
+          "release_date": "2026-11-07T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ES",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "International Social Film Festival of Catalonia",
+          "release_date": "2026-10-31T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ES",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Sevilla European Film Festival",
+          "release_date": "2026-11-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FI",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Helsinki International Film Festival",
+          "release_date": "2026-09-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Biarritz Film Festival - Nouvelles Vagues ",
+          "release_date": "2026-06-25T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival Ciné32 Indépendance(s) et Création / Cinespaña Festival",
+          "release_date": "2026-10-02T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Grand Lyon Film Festival",
+          "release_date": "2026-10-13T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "War on Screen International Film Festival",
+          "release_date": "2026-10-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Montpellier International Mediterranean Film Festival",
+          "release_date": "2026-10-22T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bordeaux International Independent Film Festival",
+          "release_date": "2026-11-02T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival du Film de Sarlat",
+          "release_date": "2026-11-04T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival Écran Total",
+          "release_date": "2026-11-14T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Arras Film Festival",
+          "release_date": "2026-11-11T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival International du Film d'Histoire de Pessac",
+          "release_date": "2026-11-19T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "De l'Écrit à l'Écran Festival",
+          "release_date": "2026-09-23T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival Chéries Chéris",
+          "release_date": "2026-11-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Leeds International Film Festival / Cheltenham Film Festival",
+          "release_date": "2026-11-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Cambridge Film Festival",
+          "release_date": "2026-10-26T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "French Film Festival UK",
+          "release_date": "2026-11-11T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Cornwall Film Festival",
+          "release_date": "2026-11-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Thessaloniki International Film Festival",
+          "release_date": "2026-11-06T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "HK",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "bc30",
+          "release_date": "2026-10-19T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "HU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Budapest International Film Festival",
+          "release_date": "2026-10-30T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ID",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Jakarta World Cinema",
+          "release_date": "2026-11-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "IL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Jerusalem Film Festival",
+          "release_date": "2026-07-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "IL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Haifa Film Festival",
+          "release_date": "2026-09-27T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "IT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Rome Film Festival",
+          "release_date": "2026-10-23T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "JP",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Tokyo International Film Festival",
+          "release_date": "2026-10-31T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "KR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Seoul International Pride Film Festival ",
+          "release_date": "2026-11-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "LT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Lokys, liūtas ir šakelė",
+          "release_date": "2026-10-02T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "MX",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Morelia International Film Festival ",
+          "release_date": "2026-10-18T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Leiden International Film Festival",
+          "release_date": "2026-10-08T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "KINO Super Sneak Preview",
+          "release_date": "2026-10-13T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NZ",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "New Zealand International Film Festival",
+          "release_date": "2026-08-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "TAURON New Horizons International Film Festival",
+          "release_date": "2026-07-25T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "BNP Paribas Two Riversides Film and Art Festival",
+          "release_date": "2026-08-07T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "All About Freedom Festival",
+          "release_date": "2026-10-13T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "ToruńCAMERIMAGE",
+          "release_date": "2026-11-12T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "RS",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Belgrade Auteur Film Festival",
+          "release_date": "2026-11-21T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "SG",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Singapore International Film Festival",
+          "release_date": "2026-10-25T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bangkok International Film Festival",
+          "release_date": "2026-09-25T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bangkok",
+          "release_date": "2026-10-12T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TW",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Kaohsiung Film Festival",
+          "release_date": "2026-10-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "UA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Spanish Film Festival",
+          "release_date": "2026-09-25T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Reeling - The Chicago LGBTQ+ International Film Festival",
+          "release_date": "2026-09-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Telluride Film Festival",
+          "release_date": "2026-09-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "NewFest / San Diego International Film Festival / OUTshine LGBTQ+ Film Festival",
+          "release_date": "2026-10-15T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Mill Valley Film Festival / CineFest Latino Boston Film Festival / Out On Film: Atlanta's LGBTQ+ Film Festival",
+          "release_date": "2026-10-04T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Hamptons International Film Festival",
+          "release_date": "2026-10-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Heartland Film Festival / Montclair Film Festival / Philadelphia Film Festival",
+          "release_date": "2026-10-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "MSP Cine Latino Film Festival / Bend Film Festival",
+          "release_date": "2026-10-07T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Newport Beach Film Festival",
+          "release_date": "2026-10-18T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Twin Cities Film Festival",
+          "release_date": "2026-10-23T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Orcas Island Film Festival",
+          "release_date": "2026-10-14T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Santa Fe International Film Festival / Middleburg Film Festival",
+          "release_date": "2026-10-16T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Hawai'i International Film Festival",
+          "release_date": "2026-10-30T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Virginia Film Festival / Refocus Film Festival / SCAD Savannah Film Festival / New Orleans Film Festival",
+          "release_date": "2026-10-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Denver Film Festival",
+          "release_date": "2026-10-26T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Miami Film Festival GEMS",
+          "release_date": "2026-11-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Centre Film Festival",
+          "release_date": "2026-11-02T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1422041,
+          "title": "La bola negra",
+          "year": "2026",
+          "runtime": 159,
+          "directors": [
+            "Javier Ambrossi",
+            "Javier Calvo"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/la-cordillera-de-los-suenos",
+      "title": "La cordillera de los sueños",
+      "status": "matched",
+      "filmId": "ficvina-2026/la-cordillera-de-los-suenos",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 582944,
+      "appearances": 6,
+      "boundTmdbId": 582944,
+      "catalogueYear": 2019,
+      "tmdbYear": 2019,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "DE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Munich International Film Festival",
+          "release_date": "2019-06-29T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NL",
+          "certification": "12",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "",
+          "release_date": "2019-10-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Chicago International Film Festival",
+          "release_date": "2019-10-20T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 582944,
+          "title": "La cordillera de los sueños",
+          "year": "2019",
+          "runtime": 84,
+          "directors": [
+            "Patricio Guzmán"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/la-fabulosa-maquina-del-tiempo",
+      "title": "La fabulosa máquina del tiempo",
+      "status": "matched",
+      "filmId": "ficvina-2026/la-fabulosa-maquina-del-tiempo",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "title"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1599779,
+      "appearances": 1,
+      "boundTmdbId": 1599779,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "pt",
+          "note": "It's All True – International Documentary Film Festival",
+          "release_date": "2026-04-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "UY",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "44th Uruguay International Film Festival",
+          "release_date": "2026-04-05T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1599779,
+          "title": "A Fabulosa Máquina do Tempo",
+          "year": "2026",
+          "runtime": 73,
+          "directors": [
+            "Eliza Capai"
+          ],
+          "problems": [
+            "title"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/la-frontera",
+      "title": "La frontera",
+      "status": "matched",
+      "filmId": "ficvina-2026/la-frontera",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 114092,
+      "appearances": 0,
+      "boundTmdbId": 114092,
+      "catalogueYear": 1991,
+      "tmdbYear": 1991,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 114092,
+          "title": "La Frontera",
+          "year": "1991",
+          "runtime": 115,
+          "directors": [
+            "Ricardo Larraín"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/la-ilusion-de-un-verano-sin-fin",
+      "title": "La ilusión de un verano sin fin",
+      "status": "matched",
+      "filmId": "fidocs-2026/la-ilusion-de-un-verano-sin-fin",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1729643,
+      "appearances": 3,
+      "boundTmdbId": 1729643,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Rio de Janeiro International Film Festival",
+          "release_date": "2026-10-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival du Nouveau Cinéma",
+          "release_date": "2026-10-12T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Leeds International Film Festival",
+          "release_date": "2026-11-04T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "QCinema International Film Festival",
+          "release_date": "2026-11-13T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Telluride Film Festival ",
+          "release_date": "2026-09-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Camden International Film Festival ",
+          "release_date": "2026-09-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Mill Valley Film Festival ",
+          "release_date": "2026-10-06T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1729643,
+          "title": "La ilusión de un verano sin fin",
+          "year": "2026",
+          "runtime": 94,
+          "directors": [
+            "Alessandra Sanguinetti"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/la-muerte-no-tiene-dueno",
+      "title": "La muerte no tiene dueño",
+      "status": "matched",
+      "filmId": "ficvina-2026/la-muerte-no-tiene-dueno",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "year"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1379747,
+      "appearances": 2,
+      "boundTmdbId": 1379747,
+      "catalogueYear": 2025,
+      "tmdbYear": 2027,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "São Paulo International Film Festival",
+          "release_date": "2026-10-22T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Vancouver International Film Festival",
+          "release_date": "2026-10-09T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ID",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Jakarta World Cinema",
+          "release_date": "2026-11-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "IT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Torino Film Festival ",
+          "release_date": "2026-11-28T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Lima International Film Festival",
+          "release_date": "2026-08-07T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "TAURON New Horizons International Film Festival",
+          "release_date": "2026-07-25T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "RU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Karo/Art Film Festival",
+          "release_date": "2026-10-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TW",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Taipei Golden Horse Film Festival",
+          "release_date": "2026-11-12T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "UA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Odesa International Film Festival",
+          "release_date": "2026-08-29T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Fantastic Fest",
+          "release_date": "2026-09-18T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1379747,
+          "title": "La Muerte no Tiene Dueño",
+          "year": "2027",
+          "runtime": 104,
+          "directors": [
+            "Jorge Thielen Armand"
+          ],
+          "problems": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/la-teta-asustada",
+      "title": "La teta asustada",
+      "status": "matched",
+      "filmId": "ficvina-2026/la-teta-asustada",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 28644,
+      "appearances": 1,
+      "boundTmdbId": 28644,
+      "catalogueYear": 2009,
+      "tmdbYear": 2009,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "GR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Thessaloniki International Film Festival",
+          "release_date": "2009-11-21T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ZA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Durban International Film Festival",
+          "release_date": "2010-07-26T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 28644,
+          "title": "La teta asustada",
+          "year": "2009",
+          "runtime": 93,
+          "directors": [
+            "Claudia Llosa"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/los-vencedores",
+      "title": "Los vencedores",
+      "status": "matched",
+      "filmId": "ficvina-2026/los-vencedores",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "year"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1661239,
+      "appearances": 1,
+      "boundTmdbId": 1661239,
+      "catalogueYear": 2025,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "AR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "BAFICI",
+          "release_date": "2026-04-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "RU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Message to Man International Film Festival",
+          "release_date": "2026-10-17T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1661239,
+          "title": "Los vencedores",
+          "year": "2026",
+          "runtime": 99,
+          "directors": [
+            "Pablo Aparo"
+          ],
+          "problems": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/lyn-mia",
+      "title": "Lyn Mía",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/lyn-mia",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Lyn Mía",
+            "year": "2026",
+            "page": 1
+          },
+          {
+            "query": "Lyn Mía",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": 2026,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": []
+    },
+    {
+      "key": "ficvina-2026/mailin",
+      "title": "Mailin",
+      "status": "matched",
+      "filmId": "ficvina-2026/mailin",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "year"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1567783,
+      "appearances": 2,
+      "boundTmdbId": 1567783,
+      "catalogueYear": 2025,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "AR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival La mujer y el cine de Buenos Aires",
+          "release_date": "2026-08-29T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival FILMAR en América Latina",
+          "release_date": "2026-11-14T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival Internacional de Cine de Viña del Mar - FICVIÑA",
+          "release_date": "2026-11-26T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Histeria Festival Internacional de Cine Fantástico ",
+          "release_date": "2026-11-08T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ES",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival Internacional de Cine Documental de Barcelona - DocsBarcelona",
+          "release_date": "2026-05-14T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival de Cine Latinoamericano de Toulouse - Cinelatino",
+          "release_date": "2026-03-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Thessaloniki International Documentary Festival",
+          "release_date": "2026-03-06T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "HR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "ZagrebDox International Documentary Film Festival",
+          "release_date": "2026-04-23T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "IT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "UnArchive Found Footage Fest de Roma",
+          "release_date": "2026-05-30T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "LU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Luxembourg City Film Festival",
+          "release_date": "2026-03-06T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "SE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Göteborg Film Festival",
+          "release_date": "2026-01-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "UA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Docudays UA International Documentary Human Rights Film Festival [DOCU/WORLD]",
+          "release_date": "2026-06-06T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1567783,
+          "title": "Mailin",
+          "year": "2026",
+          "runtime": 89,
+          "directors": [
+            "María Silvia Esteve"
+          ],
+          "problems": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/matapanki",
+      "title": "Matapanki",
+      "status": "matched",
+      "filmId": "ficvina-2026/matapanki",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1475972,
+      "appearances": 2,
+      "boundTmdbId": 1475972,
+      "catalogueYear": 2025,
+      "tmdbYear": 2025,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "AR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Buenos Aires Rojo Sangre ",
+          "release_date": "2025-11-29T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival Cine a la vista",
+          "release_date": "2026-09-07T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "es",
+          "note": "Fantaspoa",
+          "release_date": "2026-04-08T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival do Rio",
+          "release_date": "2026-10-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "es",
+          "note": "Fantasia International Film Festival",
+          "release_date": "2026-07-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "es",
+          "note": "Neuchâtel International Fantastic Film Festival",
+          "release_date": "2026-07-11T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival Internacional de Cine de Chiloé",
+          "release_date": "2025-12-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival de Cine Nacional de Ñuble",
+          "release_date": "2026-01-16T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival de Cine Chileno",
+          "release_date": "2026-01-26T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival Ojo de Pescado",
+          "release_date": "2026-08-29T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival BioBío Cine",
+          "release_date": "2026-11-06T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "es",
+          "note": "FICCI ",
+          "release_date": "2026-04-18T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+          "release_date": "2025-12-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ES",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "52 Festival de Huelva Cine Iberoamericano",
+          "release_date": "2026-11-13T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Cine Accidental",
+          "release_date": "2026-11-07T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "IT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "es",
+          "note": "Bridge Film Festival",
+          "release_date": "2026-07-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Cine Latino BIFF",
+          "release_date": "2026-03-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "30 Festival Internacional de cine de Lima",
+          "release_date": "2026-08-11T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Ars Independent Festival",
+          "release_date": "2026-10-04T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "SE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Panoramica",
+          "release_date": "2026-09-26T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Slamdance Film Festival",
+          "release_date": "2026-02-20T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1475972,
+          "title": "Matapanki",
+          "year": "2025",
+          "runtime": 71,
+          "directors": [
+            "Diego 'Mapache' Fuentes"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/motel-paraiso",
+      "title": "Motel paraíso",
+      "status": "matched",
+      "filmId": "ficvina-2026/motel-paraiso",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "director",
+        "year"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1631783,
+      "appearances": 0,
+      "boundTmdbId": 1631783,
+      "catalogueYear": 2025,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "GR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Theessaloniki International Documentary Festival",
+          "release_date": "2026-03-11T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1631783,
+          "title": "Motel Paraiso",
+          "year": "2026",
+          "runtime": 89,
+          "directors": [
+            "Jose Eduardo Castilla"
+          ],
+          "problems": [
+            "director",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/nunkui",
+      "title": "Nunkui",
+      "status": "matched",
+      "filmId": "ficvina-2026/nunkui",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1243032,
+      "appearances": 1,
+      "boundTmdbId": 1243032,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1243032,
+          "title": "Nunkui",
+          "year": "2026",
+          "runtime": 92,
+          "directors": [
+            "Verenice Benítez"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/ogu-y-mampato",
+      "title": "Ogú y Mampato",
+      "status": "matched",
+      "filmId": "ficvina-2026/ogu-y-mampato",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "title",
+        "director",
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 38518,
+      "appearances": 0,
+      "boundTmdbId": 38518,
+      "catalogueYear": 2002,
+      "tmdbYear": 2002,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 38518,
+          "title": "Ogú y Mampato en Rapa Nui",
+          "year": "2002",
+          "runtime": 80,
+          "directors": [
+            "Alejandro Rojas"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/olivia-y-el-terremoto-invisible",
+      "title": "Olivia y el terremoto invisible",
+      "status": "matched",
+      "filmId": "ficvina-2026/olivia-y-el-terremoto-invisible",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 676679,
+      "appearances": 1,
+      "boundTmdbId": 676679,
+      "catalogueYear": 2025,
+      "tmdbYear": 2025,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "CA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Ottawa International Animation Festival",
+          "release_date": "2025-09-25T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Annecy International Animation Film Festival",
+          "release_date": "2025-06-09T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "KR",
+          "certification": "ALL",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Seoul International Children's Film Festival",
+          "release_date": "2026-09-11T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "PELÍCULA>PELIKULA Manila Spanish Film Festival",
+          "release_date": "2026-10-04T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "RU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bear International Film Festival",
+          "release_date": "2026-05-30T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TW",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "HSINCHU Children Film Festival",
+          "release_date": "2026-08-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TW",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Tiffi on Delivery: Children and Youth Film Festival",
+          "release_date": "2026-09-23T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 676679,
+          "title": "Olivia y el terremoto invisible",
+          "year": "2025",
+          "runtime": 70,
+          "directors": [
+            "Irene Iborra Rizo"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/pin-de-fartie",
+      "title": "Pin de Fartie",
+      "status": "matched",
+      "filmId": "ficvina-2026/pin-de-fartie",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1517070,
+      "appearances": 1,
+      "boundTmdbId": 1517070,
+      "catalogueYear": 2025,
+      "tmdbYear": 2025,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "AT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Vienna International Film Festival",
+          "release_date": "2025-10-22T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "KR",
+          "certification": "ALL",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Jeonju International Film Festival",
+          "release_date": "2026-04-30T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1517070,
+          "title": "Pin de Fartie",
+          "year": "2025",
+          "runtime": 106,
+          "directors": [
+            "Alejo Moguillansky"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/plata-o-mierda",
+      "title": "Plata o mierda",
+      "status": "matched",
+      "filmId": "fidocs-2026/plata-o-mierda",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "year",
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1058543,
+      "appearances": 1,
+      "boundTmdbId": 1058543,
+      "catalogueYear": 2026,
+      "tmdbYear": 2025,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1058543,
+          "title": "Plata o Mierda",
+          "year": "2025",
+          "runtime": 88,
+          "directors": [
+            "Marcos Joubert",
+            "Toia Bonino"
+          ],
+          "problems": [
+            "year",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/poblacion-flotante",
+      "title": "Población flotante",
+      "status": "matched",
+      "filmId": "sanfic-2026/poblacion-flotante",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "year"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1578145,
+      "appearances": 1,
+      "boundTmdbId": 1578145,
+      "catalogueYear": 2026,
+      "tmdbYear": 2025,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1578145,
+          "title": "Población flotante",
+          "year": "2025",
+          "runtime": 66,
+          "directors": [
+            "Carlos Araya Díaz"
+          ],
+          "problems": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/pulso-1/Allá en el cielo",
+      "title": "Allá en el cielo",
+      "status": "matched",
+      "filmId": "ficvina-2026/pulso-1/Allá en el cielo",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1616197,
+      "appearances": 1,
+      "boundTmdbId": 1616197,
+      "catalogueYear": null,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "UA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Kyiv International Short Film Festival ",
+          "release_date": "2026-09-20T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1616197,
+          "title": "Allá en el cielo",
+          "year": "2026",
+          "runtime": 18,
+          "directors": [
+            "Roddy Dextre",
+            "Julián Estrada"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/pulso-1/La procesión de los ausentes",
+      "title": "La procesión de los ausentes",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/pulso-1/La procesión de los ausentes",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "La procesión de los ausentes",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": []
+    },
+    {
+      "key": "ficvina-2026/pulso-1/Las visitas de Camilo",
+      "title": "Las visitas de Camilo",
+      "status": "matched",
+      "filmId": "ficvina-2026/pulso-1/Las visitas de Camilo",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1661234,
+      "appearances": 0,
+      "boundTmdbId": 1661234,
+      "catalogueYear": null,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1661234,
+          "title": "Las visitas de Camilo",
+          "year": "2026",
+          "runtime": 16,
+          "directors": [
+            "Itatí Olmedo"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/pulso-1/Paulina",
+      "title": "Paulina",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/pulso-1/Paulina",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Paulina",
+            "year": null,
+            "page": 1
+          },
+          {
+            "query": "Paulina",
+            "year": null,
+            "page": 2
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 482225,
+          "title": "Paulina",
+          "year": "1997",
+          "runtime": 88,
+          "directors": [
+            "Vicky Funari"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1045414,
+          "title": "Paulina",
+          "year": "2017",
+          "runtime": 19,
+          "directors": [
+            "Lucía Lalor"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 372357,
+          "title": "Paulina",
+          "year": "2012",
+          "runtime": 0,
+          "directors": [
+            "Lynn Kossler"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 744363,
+          "title": "Paulina",
+          "year": "2012",
+          "runtime": 29,
+          "directors": [
+            "Caylee So"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 533683,
+          "title": "Paulina 1880",
+          "year": "1972",
+          "runtime": 0,
+          "directors": [
+            "Jean-Louis Bertuccelli"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 556836,
+          "title": "Paulina",
+          "year": "2011",
+          "runtime": 5,
+          "directors": [
+            "Ute Aurand"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 888407,
+          "title": "Paulina Chiziane",
+          "year": "2021",
+          "runtime": 0,
+          "directors": [
+            "Renan Ramos Rocha"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 477928,
+          "title": "Paulina Hollers",
+          "year": "2007",
+          "runtime": 15,
+          "directors": [
+            "Brent Green"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1406613,
+          "title": "Paulina Goto: Natural",
+          "year": "2025",
+          "runtime": 85,
+          "directors": [
+            "Aldo Ballesteros O.",
+            "Paulina Goto"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 149687,
+          "title": "Los peligros de Paulina",
+          "year": "1947",
+          "runtime": 96,
+          "directors": [
+            "George Marshall"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 580480,
+          "title": "Paulina, Franz & Maria",
+          "year": "2011",
+          "runtime": 13,
+          "directors": [
+            "Ute Aurand"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 714516,
+          "title": "Hay que casar a Paulina",
+          "year": "1944",
+          "runtime": 85,
+          "directors": [
+            "Manuel Romero"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1207765,
+          "title": "Polly, Paulina, Pauline",
+          "year": "2023",
+          "runtime": 11,
+          "directors": [
+            "Misty Shipman"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 353014,
+          "title": "Paulina s'en va",
+          "year": "1969",
+          "runtime": 90,
+          "directors": [
+            "André Téchiné"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 911525,
+          "title": "La cicatriz de Paulina",
+          "year": "2011",
+          "runtime": 64,
+          "directors": [
+            "Genciana Cortés",
+            "Manuel Legarda"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 639776,
+          "title": "Paulina, en el nombre de la ley",
+          "year": "2000",
+          "runtime": 0,
+          "directors": [
+            "María del Carmen de Lara"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1006177,
+          "title": "Madre Paulina: Súdita de Deus",
+          "year": "1991",
+          "runtime": 61,
+          "directors": [
+            "Carlos Nascimbeni"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 344764,
+          "title": "Paulina y el cóndor",
+          "year": "1994",
+          "runtime": 7,
+          "directors": [
+            "Marisol Barragán"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 842151,
+          "title": "Tina Paulina: Living on Hope Street",
+          "year": "",
+          "runtime": 0,
+          "directors": [],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 10293,
+          "title": "Pauline en la playa",
+          "year": "1983",
+          "runtime": 94,
+          "directors": [
+            "Éric Rohmer"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 257055,
+          "title": "In memoriam",
+          "year": "1977",
+          "runtime": 96,
+          "directors": [
+            "Enrique Brasó"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 171908,
+          "title": "The Perils of Pauline",
+          "year": "1967",
+          "runtime": 107,
+          "directors": [
+            "Herbert B. Leonard",
+            "Joshua Shelley"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 336664,
+          "title": "La patota",
+          "year": "2015",
+          "runtime": 103,
+          "directors": [
+            "Santiago Mitre"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1549726,
+          "title": "Drugi dnevnik Pauline P.",
+          "year": "2025",
+          "runtime": 80,
+          "directors": [
+            "Neven Hitrec"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1104601,
+          "title": "Dnevnik Pauline P.",
+          "year": "2023",
+          "runtime": 96,
+          "directors": [
+            "Neven Hitrec"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/pulso-1/Sol menor",
+      "title": "Sol menor",
+      "status": "matched",
+      "filmId": "ficvina-2026/pulso-1/Sol menor",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1500856,
+      "appearances": 0,
+      "boundTmdbId": 1500856,
+      "catalogueYear": null,
+      "tmdbYear": 2025,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "LT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Scanorama",
+          "release_date": "2026-11-07T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Curtas Vila do Conde",
+          "release_date": "2025-07-14T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1500856,
+          "title": "Sol Menor",
+          "year": "2025",
+          "runtime": 27,
+          "directors": [
+            "André Silva Santos"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/pulso-1/Tauromaquia",
+      "title": "Tauromaquia",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/pulso-1/Tauromaquia",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Tauromaquia",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 538384,
+          "title": "Tauromaquia",
+          "year": "2015",
+          "runtime": 3,
+          "directors": [
+            "Christian Arredondo Narváez"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1609111,
+          "title": "Tauromaquia",
+          "year": "2025",
+          "runtime": 14,
+          "directors": [
+            "Albert Serra"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1108716,
+          "title": "Picasso y la tauromaquia",
+          "year": "2023",
+          "runtime": 0,
+          "directors": [
+            "Hilka Sinning"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/pulso-2/Baisanos",
+      "title": "Baisanos",
+      "status": "matched",
+      "filmId": "ficvina-2026/pulso-2/Baisanos",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1508247,
+      "appearances": 1,
+      "boundTmdbId": 1508247,
+      "catalogueYear": null,
+      "tmdbYear": 2025,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "It's All True – International Documentary Film Festival",
+          "release_date": "2026-04-10T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1508247,
+          "title": "Baisanos",
+          "year": "2025",
+          "runtime": 13,
+          "directors": [
+            "Andrés Khamis Giacoman",
+            "Francisca Khamis Giacoman"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/pulso-2/En otra Palestina",
+      "title": "En otra Palestina",
+      "status": "matched",
+      "filmId": "ficvina-2026/pulso-2/En otra Palestina",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1643576,
+      "appearances": 0,
+      "boundTmdbId": 1643576,
+      "catalogueYear": null,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "CO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Cartagena International Film Festival",
+          "release_date": "2026-04-14T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "DE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Dokfilmwoche Hamburg ",
+          "release_date": "2026-04-18T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1643576,
+          "title": "En otra Palestina",
+          "year": "2026",
+          "runtime": 10,
+          "directors": [
+            "Yaela Gottlieb"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/pulso-2/Ixquic",
+      "title": "Ixquic",
+      "status": "matched",
+      "filmId": "ficvina-2026/pulso-2/Ixquic",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1714900,
+      "appearances": 0,
+      "boundTmdbId": 1714900,
+      "catalogueYear": null,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1714900,
+          "title": "Ixquic",
+          "year": "2026",
+          "runtime": 25,
+          "directors": [
+            "Elvis Caj"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/pulso-2/Miriam",
+      "title": "Miriam",
+      "status": "matched",
+      "filmId": "ficvina-2026/pulso-2/Miriam",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1614760,
+      "appearances": 0,
+      "boundTmdbId": 1614760,
+      "catalogueYear": null,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "DE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Oficial Selection on 76. Internationale Filmfestspiele Berlin | World Premier",
+          "release_date": "2026-02-14T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1614760,
+          "title": "Miriam",
+          "year": "2026",
+          "runtime": 20,
+          "directors": [
+            "Karla Condado"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/pulso-2/Presépio",
+      "title": "Presépio",
+      "status": "matched",
+      "filmId": "ficvina-2026/pulso-2/Presépio",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1543600,
+      "appearances": 0,
+      "boundTmdbId": 1543600,
+      "catalogueYear": null,
+      "tmdbYear": 2025,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "BR",
+          "certification": "12",
+          "descriptors": [],
+          "iso_639_1": "pt",
+          "note": "Rio de Janeiro International Film Festival",
+          "release_date": "2025-10-07T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "12",
+          "descriptors": [],
+          "iso_639_1": "fr",
+          "note": "Prix Regard Queer - Biarritz Amérique Latine Film Festival",
+          "release_date": "2025-09-24T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1543600,
+          "title": "Presépio",
+          "year": "2025",
+          "runtime": 18,
+          "directors": [
+            "Felipe Bibian"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/pulso-2/Videoclub 2001",
+      "title": "Videoclub 2001",
+      "status": "matched",
+      "filmId": "ficvina-2026/pulso-2/Videoclub 2001",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1503361,
+      "appearances": 0,
+      "boundTmdbId": 1503361,
+      "catalogueYear": null,
+      "tmdbYear": 2025,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "ES",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "es",
+          "note": "CINEMA JOVE",
+          "release_date": "2025-06-21T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1503361,
+          "title": "Videoclub 2001",
+          "year": "2025",
+          "runtime": 16,
+          "directors": [
+            "Guillermo Polo"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/relicto",
+      "title": "Relicto",
+      "status": "matched",
+      "filmId": "sanfic-2026/relicto",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1633353,
+      "appearances": 0,
+      "boundTmdbId": 1633353,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Cinéma du Réel",
+          "release_date": "2026-03-22T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1633353,
+          "title": "Relicto",
+          "year": "2026",
+          "runtime": 97,
+          "directors": [
+            "Guillermo Quintero"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/replicas",
+      "title": "Réplicas",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/replicas",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Réplicas",
+            "year": "2026",
+            "page": 1
+          },
+          {
+            "query": "Réplicas",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": 2026,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 300681,
+          "title": "Réplicas",
+          "year": "2018",
+          "runtime": 120,
+          "directors": [
+            "Jeffrey Nachmanoff"
+          ],
+          "problems": [
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 622776,
+          "title": "La ciudad de las réplicas",
+          "year": "2016",
+          "runtime": 67,
+          "directors": [
+            "Belina Zavadisca"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 702264,
+          "title": "Gary Numan - Replicas Live",
+          "year": "2008",
+          "runtime": 0,
+          "directors": [],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 117978,
+          "title": "In Their Skin",
+          "year": "2012",
+          "runtime": 96,
+          "directors": [
+            "Jeremy Power Regimbal"
+          ],
+          "problems": [
+            "director",
+            "year",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/ruca-1/Capturar la caída",
+      "title": "Capturar la caída",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/ruca-1/Capturar la caída",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Capturar la caída",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": []
+    },
+    {
+      "key": "ficvina-2026/ruca-1/H4BLAM#",
+      "title": "H4BLAM#",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/ruca-1/H4BLAM#",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "H4BLAM#",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": []
+    },
+    {
+      "key": "ficvina-2026/ruca-1/Me vas a estar esperando",
+      "title": "Me vas a estar esperando",
+      "status": "matched",
+      "filmId": "ficvina-2026/ruca-1/Me vas a estar esperando",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1812493,
+      "appearances": 0,
+      "boundTmdbId": 1812493,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1812493,
+          "title": "¿Me vas a estar esperando?",
+          "year": "",
+          "runtime": 0,
+          "directors": [
+            "Conam Calderón"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/ruca-1/Mi gran noche",
+      "title": "Mi gran noche",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/ruca-1/Mi gran noche",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Mi gran noche",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 335053,
+          "title": "Mi gran noche",
+          "year": "2015",
+          "runtime": 98,
+          "directors": [
+            "Álex de la Iglesia"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1661506,
+          "title": "Mi gran noche",
+          "year": "2026",
+          "runtime": 12,
+          "directors": [
+            "Lorenzo Ferro",
+            "Lucas A Vignale"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 697636,
+          "title": "Mi gran noche",
+          "year": "2004",
+          "runtime": 10,
+          "directors": [
+            "Arturo Ripstein"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1546616,
+          "title": "Mi Gran Noche",
+          "year": "",
+          "runtime": 10,
+          "directors": [],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1819067,
+          "title": "Mi Peor Gran Noche",
+          "year": "",
+          "runtime": 0,
+          "directors": [],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1818099,
+          "title": "Raphael: Mi gran noche en Acapulco",
+          "year": "2007",
+          "runtime": 0,
+          "directors": [],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/ruca-1/Ross",
+      "title": "Ross",
+      "status": "needs_review",
+      "filmId": "ficvina-2026/ruca-1/Ross",
+      "method": null,
+      "reason": "search_truncated",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Ross",
+            "year": null,
+            "page": 1
+          },
+          {
+            "query": "Ross",
+            "year": null,
+            "page": 2
+          }
+        ],
+        "truncated": true,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 9504,
+          "title": "Glengarry Glen Ross (Éxito a cualquier precio)",
+          "year": "1992",
+          "runtime": 100,
+          "directors": [
+            "James Foley"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 445893,
+          "title": "Kubler Ross",
+          "year": "2015",
+          "runtime": 8,
+          "directors": [
+            "Xavier Pijuan Sala"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 42077,
+          "title": "Mi nombre es Julia Ross",
+          "year": "1945",
+          "runtime": 65,
+          "directors": [
+            "Joseph H. Lewis"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 842476,
+          "title": "Leah Ross",
+          "year": "2019",
+          "runtime": 8,
+          "directors": [
+            "Brian Sheehan"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1066853,
+          "title": "Jakobs Ross",
+          "year": "2024",
+          "runtime": 104,
+          "directors": [
+            "Katalin Gödrös"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 951682,
+          "title": "Ross",
+          "year": "2013",
+          "runtime": 12,
+          "directors": [
+            "Declan Allen"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 402422,
+          "title": "Mr. Ross",
+          "year": "2010",
+          "runtime": 4,
+          "directors": [
+            "Mitch Magee"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 189352,
+          "title": "Betsy Ross",
+          "year": "1917",
+          "runtime": 59,
+          "directors": [
+            "George Cowl",
+            "Travers Vale"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 360708,
+          "title": "Flieger Ross",
+          "year": "1966",
+          "runtime": 0,
+          "directors": [
+            "Michael Kehlmann"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 490289,
+          "title": "Ross & Beth",
+          "year": "2014",
+          "runtime": 15,
+          "directors": [
+            "Hamish Bennett"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 853354,
+          "title": "Bob Ross: Casualidades, traiciones y avaricia",
+          "year": "2021",
+          "runtime": 92,
+          "directors": [
+            "Joshua Rofé"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 23666,
+          "title": "Ross Noble: Sonic Waffle",
+          "year": "2005",
+          "runtime": 110,
+          "directors": [
+            "Ross Noble"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1530669,
+          "title": "Ross Ryler",
+          "year": "2025",
+          "runtime": 150,
+          "directors": [
+            "Ethan Butler",
+            "Clayton Butler"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1310156,
+          "title": "Tiburones vs. Ross Edgley",
+          "year": "2024",
+          "runtime": 45,
+          "directors": [],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 415542,
+          "title": "Jeff Ross Roasts Cops",
+          "year": "2016",
+          "runtime": 50,
+          "directors": [],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1509310,
+          "title": "Diana Ross: Supreme Sensation",
+          "year": "2023",
+          "runtime": 43,
+          "directors": [
+            "Oliver Elphick"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1622316,
+          "title": "One Shot Ross",
+          "year": "1917",
+          "runtime": 50,
+          "directors": [
+            "Clifford Smith"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 238597,
+          "title": "Ross Noble - Mindblender",
+          "year": "2013",
+          "runtime": 130,
+          "directors": [
+            "Peter Callow",
+            "Ross Noble"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 238959,
+          "title": "Bob Ross: The Happy Painter",
+          "year": "2011",
+          "runtime": 64,
+          "directors": [
+            "Sherry Spradlin"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 111266,
+          "title": "Ross Noble: Things",
+          "year": "2010",
+          "runtime": 0,
+          "directors": [
+            "Peter Callow",
+            "Ross Noble"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 28245,
+          "title": "Ross Noble: Nobleism",
+          "year": "2009",
+          "runtime": 0,
+          "directors": [
+            "Cal Barton"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 505488,
+          "title": "Wallowitch & Ross: This Moment",
+          "year": "1999",
+          "runtime": 77,
+          "directors": [
+            "Richard Morris"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 71748,
+          "title": "Jeffrey Ross: No Offense",
+          "year": "2008",
+          "runtime": 58,
+          "directors": [
+            "Jay Karas"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 35050,
+          "title": "Ross Noble: Randomist",
+          "year": "2006",
+          "runtime": 115,
+          "directors": [
+            "Cal Barton",
+            "Ross Noble"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 585525,
+          "title": "Private Life: Kyle Ross",
+          "year": "2019",
+          "runtime": 20,
+          "directors": [
+            "Heidi Moore"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1555160,
+          "title": "Jeff Ross: Take a Banana for the Ride",
+          "year": "2026",
+          "runtime": 90,
+          "directors": [
+            "Stephen Kessler",
+            "Seth Barrish"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1232421,
+          "title": "Ross Noble: Humournoid",
+          "year": "2022",
+          "runtime": 92,
+          "directors": [],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1086784,
+          "title": "Alex Ross Perry",
+          "year": "2014",
+          "runtime": 13,
+          "directors": [
+            "Ricky D’Ambrose"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1408555,
+          "title": "Ross Perot: Straight Talk",
+          "year": "",
+          "runtime": 60,
+          "directors": [],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 23760,
+          "title": "Ross Noble: Unrealtime",
+          "year": "2004",
+          "runtime": 60,
+          "directors": [
+            "Cal Barton",
+            "Ross Noble"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1559181,
+          "title": "Michelle Ross: Unknown Icon",
+          "year": "2025",
+          "runtime": 44,
+          "directors": [
+            "Alison Duke"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 196003,
+          "title": "Betsy Ross Dance",
+          "year": "1903",
+          "runtime": 2,
+          "directors": [],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 35048,
+          "title": "Ross Noble: Fizzy Logic",
+          "year": "2007",
+          "runtime": 128,
+          "directors": [
+            "Peter Callow",
+            "Ross Noble"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1730842,
+          "title": "Kellen and Ross",
+          "year": "",
+          "runtime": 0,
+          "directors": [],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 487541,
+          "title": "Jeff Ross Roasts the Border",
+          "year": "2017",
+          "runtime": 50,
+          "directors": [
+            "Stuart Miller",
+            "Jeff Ross"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 346106,
+          "title": "Jeff Ross Roasts America",
+          "year": "2012",
+          "runtime": 60,
+          "directors": [
+            "Jay Karas"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 744584,
+          "title": "Ross Noble: ‘El Hablador",
+          "year": "2020",
+          "runtime": 85,
+          "directors": [
+            "Peter Callow"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 463216,
+          "title": "The Ross Perot Myth",
+          "year": "2016",
+          "runtime": 11,
+          "directors": [
+            "Eamon Harrington",
+            "John Watkin"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1516537,
+          "title": "Diana Ross in Concert!",
+          "year": "1979",
+          "runtime": 76,
+          "directors": [],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1482048,
+          "title": "Up Next... Ross Coltrane",
+          "year": "2025",
+          "runtime": 13,
+          "directors": [
+            "Jacob Clarke"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/ruca-1/Ven",
+      "title": "Ven",
+      "status": "needs_review",
+      "filmId": "ficvina-2026/ruca-1/Ven",
+      "method": null,
+      "reason": "search_truncated",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Ven",
+            "year": null,
+            "page": 1
+          },
+          {
+            "query": "Ven",
+            "year": null,
+            "page": 2
+          }
+        ],
+        "truncated": true,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 25237,
+          "title": "Masacre (Ven y mira)",
+          "year": "1985",
+          "runtime": 142,
+          "directors": [
+            "Элем Климов"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 238693,
+          "title": "Folkets ven",
+          "year": "1918",
+          "runtime": 83,
+          "directors": [
+            "Holger-Madsen"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 571384,
+          "title": "Ven a Jugar",
+          "year": "2020",
+          "runtime": 96,
+          "directors": [
+            "Jacob Chase"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 187194,
+          "title": "Damernes ven",
+          "year": "1969",
+          "runtime": 75,
+          "directors": [
+            "Annelise Meineche"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1662414,
+          "title": "Ven a volar conmigo",
+          "year": "2026",
+          "runtime": 60,
+          "directors": [
+            "John Travolta"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 326072,
+          "title": "Cesta ven",
+          "year": "2014",
+          "runtime": 103,
+          "directors": [
+            "Petr Václav"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1084877,
+          "title": "Madre ven",
+          "year": "2022",
+          "runtime": 106,
+          "directors": [
+            "Andrés Garrigó"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1338842,
+          "title": "Camina, ven",
+          "year": "2024",
+          "runtime": 19,
+          "directors": [
+            "Isaac Morantus"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1358941,
+          "title": "Ven conmigo",
+          "year": "",
+          "runtime": 9,
+          "directors": [
+            "Lancer 3 One"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 769896,
+          "title": "Adiós, Ven.",
+          "year": "2021",
+          "runtime": 15,
+          "directors": [
+            "Gabriela Alma"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 522999,
+          "title": "Vor fælles Ven",
+          "year": "1921",
+          "runtime": 142,
+          "directors": [
+            "A.W. Sandberg"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1545779,
+          "title": "Si me ven llorando",
+          "year": "2024",
+          "runtime": 23,
+          "directors": [
+            "María Luz Zamora Abanades (Malu Zamora)"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1358304,
+          "title": "Como Nos Ven",
+          "year": "2024",
+          "runtime": 8,
+          "directors": [
+            "Alana Peña",
+            "Amalia El Hage",
+            "Mariela Gastón"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 627893,
+          "title": "Ven a cantar conmigo",
+          "year": "1967",
+          "runtime": 87,
+          "directors": [
+            "Alfredo Zacarías"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1718255,
+          "title": "Ko pridem ven",
+          "year": "2025",
+          "runtime": 106,
+          "directors": [
+            "Metod Pevec"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 910789,
+          "title": "Ojos que no ven",
+          "year": "2000",
+          "runtime": 90,
+          "directors": [
+            "Beda Docampo Feijóo"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1555122,
+          "title": "Ven a mi",
+          "year": "2016",
+          "runtime": 0,
+          "directors": [
+            "Marcos Muñoz Flores"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 586592,
+          "title": "Ven con papá",
+          "year": "2019",
+          "runtime": 100,
+          "directors": [
+            "Ant Timpson"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 463581,
+          "title": "A vén gazember",
+          "year": "1932",
+          "runtime": 95,
+          "directors": [
+            "Heinz Hille"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1594703,
+          "title": "NO LO VEN",
+          "year": "2024",
+          "runtime": 11,
+          "directors": [
+            "Luciana Willging"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1051268,
+          "title": "Ojos que no ven",
+          "year": "2022",
+          "runtime": 90,
+          "directors": [
+            "Alfonso Zarate"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 702725,
+          "title": "Min ven privatdetektiven",
+          "year": "1924",
+          "runtime": 103,
+          "directors": [
+            "A.W. Sandberg"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1317073,
+          "title": "Bare en ven",
+          "year": "2024",
+          "runtime": 0,
+          "directors": [
+            "Jacob Daniel Lewis"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 29935,
+          "title": "Ojos que no ven",
+          "year": "2003",
+          "runtime": 150,
+          "directors": [
+            "Francisco J. Lombardi"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1020402,
+          "title": "Ven a jugar",
+          "year": "2014",
+          "runtime": 43,
+          "directors": [
+            "Erik Mariñelarena"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1360746,
+          "title": "Gaias usynlige ven",
+          "year": "2024",
+          "runtime": 0,
+          "directors": [],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 396945,
+          "title": "Ojos que no ven",
+          "year": "2012",
+          "runtime": 15,
+          "directors": [
+            "Natalia Mateo"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 59725,
+          "title": "En ven i bolignøden",
+          "year": "1965",
+          "runtime": 0,
+          "directors": [
+            "Annelise Reenberg"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1202839,
+          "title": "Ven a mi casa esta Navidad",
+          "year": "2023",
+          "runtime": 83,
+          "directors": [
+            "Sabrina Campos"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1407881,
+          "title": "Linggo ni Tatay Ven",
+          "year": "",
+          "runtime": 15,
+          "directors": [
+            "Jasper Tan"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1385670,
+          "title": "Lotte & Totte: Min første ven",
+          "year": "2025",
+          "runtime": 65,
+          "directors": [
+            "Mia Fridthjof"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 871494,
+          "title": "Ojos que no ven",
+          "year": "2007",
+          "runtime": 10,
+          "directors": [
+            "Marysol Jasso"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1406084,
+          "title": "Ojos que no ven",
+          "year": "2016",
+          "runtime": 0,
+          "directors": [
+            "Pol Mallafré"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 374172,
+          "title": "Ven a morir conmigo",
+          "year": "1994",
+          "runtime": 94,
+          "directors": [
+            "Armand Mastroianni"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1237882,
+          "title": "Ojos Que No Ven",
+          "year": "1987",
+          "runtime": 51,
+          "directors": [
+            "Jose Guiterrez-Gomez",
+            "José Vergelin"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 488103,
+          "title": "Ven... mi corazón te llama",
+          "year": "1942",
+          "runtime": 89,
+          "directors": [
+            "Manuel Romero"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 834404,
+          "title": "Teen Titans Go! - Los Titans ven Space Jam",
+          "year": "2021",
+          "runtime": 83,
+          "directors": [
+            "Peter Rida Michail"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 193649,
+          "title": "Ven, querida damisela, y hazlo",
+          "year": "1969",
+          "runtime": 90,
+          "directors": [
+            "Jozef Zachar"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 716827,
+          "title": "Ojos que no ven",
+          "year": "2009",
+          "runtime": 75,
+          "directors": [
+            "Andrés Irigoyen",
+            "Ana María Cacopardo"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 109980,
+          "title": "Obušku, z pytle ven!",
+          "year": "1956",
+          "runtime": 70,
+          "directors": [
+            "Jaromír Pleskot"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/ruca-1/Zozobra",
+      "title": "Zozobra",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/ruca-1/Zozobra",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Zozobra",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1222780,
+          "title": "Zozobra",
+          "year": "2024",
+          "runtime": 0,
+          "directors": [
+            "Carlos Goytortúa"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 766007,
+          "title": "La zozobra",
+          "year": "2020",
+          "runtime": 68,
+          "directors": [
+            "Pablo Cruz Villalba"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1127033,
+          "title": "La zozobra",
+          "year": "",
+          "runtime": 5,
+          "directors": [
+            "Cinthia Infante"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 458865,
+          "title": "Vago rumor de mares en zozobra",
+          "year": "2008",
+          "runtime": 18,
+          "directors": [
+            "Julián Hernández"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1363672,
+          "title": "Zozobra: 100 Years of Fire and Redemption",
+          "year": "2024",
+          "runtime": 60,
+          "directors": [
+            "Elisa Hutton"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1367122,
+          "title": "Will Shuster's Zozobra™ de Santa Fe",
+          "year": "2001",
+          "runtime": 60,
+          "directors": [
+            "Carol A. Ellison Fleming"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/ruca-2/¿Quién mató a Gaete?",
+      "title": "¿Quién mató a Gaete?",
+      "status": "matched",
+      "filmId": "ficvina-2026/ruca-2/¿Quién mató a Gaete?",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1598492,
+      "appearances": 0,
+      "boundTmdbId": 1598492,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1598492,
+          "title": "¿Quién Mató a Gaete?",
+          "year": "",
+          "runtime": 0,
+          "directors": [
+            "Pablo E. Alvarado S."
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/ruca-2/Captura",
+      "title": "Captura",
+      "status": "needs_review",
+      "filmId": "ficvina-2026/ruca-2/Captura",
+      "method": null,
+      "reason": "search_truncated",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Captura",
+            "year": null,
+            "page": 1
+          },
+          {
+            "query": "Captura",
+            "year": null,
+            "page": 2
+          }
+        ],
+        "truncated": true,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1621552,
+          "title": "La captura",
+          "year": "2026",
+          "runtime": 91,
+          "directors": [
+            "Chava Cartas"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 669313,
+          "title": "Captura recomendada",
+          "year": "1950",
+          "runtime": 90,
+          "directors": [
+            "Don Napy"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 327171,
+          "title": "La Captura",
+          "year": "2012",
+          "runtime": 90,
+          "directors": [
+            "Dago García",
+            "Juan Carlos Vásquez"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1333148,
+          "title": "Captura",
+          "year": "2024",
+          "runtime": 76,
+          "directors": [
+            "Adi Voicu"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1767078,
+          "title": "Captura",
+          "year": "2026",
+          "runtime": 2,
+          "directors": [
+            "Julián Mauro Pellegrini"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 897532,
+          "title": "La Captura",
+          "year": "2020",
+          "runtime": 14,
+          "directors": [
+            "Carlos Quiroz Figuerola"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 62084,
+          "title": "La captura",
+          "year": "1950",
+          "runtime": 91,
+          "directors": [
+            "John Sturges"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 911516,
+          "title": "La captura del siglo",
+          "year": "1996",
+          "runtime": 125,
+          "directors": [
+            "Cusi Barrio"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 678681,
+          "title": "La captura del capo",
+          "year": "1999",
+          "runtime": 0,
+          "directors": [
+            "Gilberto de Anda"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 486237,
+          "title": "La Captura De Gabino Barrera",
+          "year": "1970",
+          "runtime": 85,
+          "directors": [
+            "René Cardona"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 257521,
+          "title": "En busca y captura",
+          "year": "2014",
+          "runtime": 91,
+          "directors": [
+            "Daniel Lusko"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1818420,
+          "title": "La Captura del 40",
+          "year": "2024",
+          "runtime": 0,
+          "directors": [
+            "José Luis Vera"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 384955,
+          "title": "La captura de Chucho el Roto",
+          "year": "1961",
+          "runtime": 75,
+          "directors": [
+            "Manuel Muñoz 'Torito'",
+            "Alberto Mariscal"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1018647,
+          "title": "La captura del enfermero asesino",
+          "year": "2022",
+          "runtime": 95,
+          "directors": [
+            "Tim Travers Hawkins"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 373441,
+          "title": "Jim: La captura de James Foley",
+          "year": "2016",
+          "runtime": 110,
+          "directors": [
+            "Brian Oakes"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1367056,
+          "title": "Captura del Bandolero Andrés Ramos",
+          "year": "1933",
+          "runtime": 8,
+          "directors": [
+            "Francisco Diumenjo"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 89595,
+          "title": "Sushi: La captura global",
+          "year": "2012",
+          "runtime": 74,
+          "directors": [
+            "Mark Hall"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 818505,
+          "title": "Todos Esses Jovens Fotógrafos que se Movimentam Dedicando-se à Captura da Atualidade, Não Sabem que São Agentes da Morte",
+          "year": "2021",
+          "runtime": 2,
+          "directors": [
+            "Luna Colazante"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 136795,
+          "title": "Cuerpos especiales",
+          "year": "2013",
+          "runtime": 117,
+          "directors": [
+            "Paul Feig"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1179621,
+          "title": "How She Caught A Killer",
+          "year": "2023",
+          "runtime": 90,
+          "directors": [
+            "Robin Hays"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 20677,
+          "title": "Detective Conan 4: Capturado en sus ojos",
+          "year": "2000",
+          "runtime": 99,
+          "directors": [
+            "こだま兼嗣"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 2260,
+          "title": "Capturing the Friedmans",
+          "year": "2003",
+          "runtime": 107,
+          "directors": [
+            "Andrew Jarecki"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 53828,
+          "title": "Acero azul",
+          "year": "1934",
+          "runtime": 54,
+          "directors": [
+            "Robert N. Bradbury"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 705086,
+          "title": "La Frontera: Capturados Vivos (Concierto Expo'92)",
+          "year": "1992",
+          "runtime": 55,
+          "directors": [],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 94548,
+          "title": "La leyenda del Yeti",
+          "year": "1979",
+          "runtime": 90,
+          "directors": [
+            "Bill Rebane"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 132001,
+          "title": "Perros callejeros II",
+          "year": "1979",
+          "runtime": 100,
+          "directors": [
+            "José Antonio de la Loma"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 332907,
+          "title": "Capture Device",
+          "year": "2009",
+          "runtime": 7,
+          "directors": [
+            "Mike Pecci"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 52777,
+          "title": "Capturado",
+          "year": "1982",
+          "runtime": 111,
+          "directors": [
+            "Ted Kotcheff"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1449036,
+          "title": "Capturando Memórias",
+          "year": "2027",
+          "runtime": 6,
+          "directors": [
+            "Lucas Duarte"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1114842,
+          "title": "Instantes Capturados",
+          "year": "2022",
+          "runtime": 10,
+          "directors": [
+            "Maria Augusta V. Nunes"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 446120,
+          "title": "Capturar (Las 1001 novias)",
+          "year": "2017",
+          "runtime": 89,
+          "directors": [
+            "Fernando Merinero"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1659483,
+          "title": "Elpidio Valdés ¡capturado!",
+          "year": "1988",
+          "runtime": 9,
+          "directors": [
+            "Juan Padrón"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1301404,
+          "title": "Capturar o Fantasma",
+          "year": "2024",
+          "runtime": 12,
+          "directors": [
+            "Davi Mello"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 884028,
+          "title": "Pêndulo Lunar ou a Impossibilidade de Capturar a Luz da Lua",
+          "year": "2021",
+          "runtime": 0,
+          "directors": [
+            "Bruna Piantino",
+            "Sentidor"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1596783,
+          "title": "Justiție capturată",
+          "year": "2025",
+          "runtime": 120,
+          "directors": [
+            "Andreea Pocotilă",
+            "Mihai Voinea"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 836383,
+          "title": "Capturando el tiempo",
+          "year": "2020",
+          "runtime": 6,
+          "directors": [
+            "Itzel Sarmientos Roque"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1583728,
+          "title": "Veado Capturado na Rede Neural",
+          "year": "",
+          "runtime": 0,
+          "directors": [],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 572751,
+          "title": "Atrapado",
+          "year": "2020",
+          "runtime": 85,
+          "directors": [
+            "Isaac Florentine"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 68167,
+          "title": "Pasión comanche",
+          "year": "1997",
+          "runtime": 87,
+          "directors": [
+            "Jerry London"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 25875,
+          "title": "Seda",
+          "year": "2006",
+          "runtime": 108,
+          "directors": [
+            "Su Chaobin"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/ruca-2/Como chispitas",
+      "title": "Como chispitas",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/ruca-2/Como chispitas",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Como chispitas",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": []
+    },
+    {
+      "key": "ficvina-2026/ruca-2/El pan nuestro de cada día",
+      "title": "El pan nuestro de cada día",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/ruca-2/El pan nuestro de cada día",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "El pan nuestro de cada día",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 34796,
+          "title": "El pan nuestro de cada día",
+          "year": "1930",
+          "runtime": 77,
+          "directors": [
+            "F. W. Murnau"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1712767,
+          "title": "El pan nuestro de cada día",
+          "year": "1955",
+          "runtime": 0,
+          "directors": [
+            "Pedro Valdivieso"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 126136,
+          "title": "El pan nuestro de cada día",
+          "year": "1934",
+          "runtime": 81,
+          "directors": [
+            "King Vidor"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/ruca-2/Enajenado",
+      "title": "Enajenado",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/ruca-2/Enajenado",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Enajenado",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": []
+    },
+    {
+      "key": "ficvina-2026/ruca-2/Herederas del mar",
+      "title": "Herederas del mar",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/ruca-2/Herederas del mar",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Herederas del mar",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": []
+    },
+    {
+      "key": "ficvina-2026/ruca-2/Te quiero lejos",
+      "title": "Te quiero lejos",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/ruca-2/Te quiero lejos",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Te quiero lejos",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": []
+    },
+    {
+      "key": "ficvina-2026/siempre-soy-tu-animal-materno",
+      "title": "Siempre soy tu animal materno",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/siempre-soy-tu-animal-materno",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Siempre soy tu animal materno",
+            "year": "2026",
+            "page": 1
+          },
+          {
+            "query": "Siempre soy tu animal materno",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": 2026,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1661932,
+          "title": "Siempre soy tu animal materno",
+          "year": "2026",
+          "runtime": 100,
+          "directors": [
+            "Valentina Maurel"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/sorda",
+      "title": "Sorda",
+      "status": "matched",
+      "filmId": "ficvina-2026/sorda",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1303613,
+      "appearances": 2,
+      "boundTmdbId": 1303613,
+      "catalogueYear": 2025,
+      "tmdbYear": 2025,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Sydney Film Festival",
+          "release_date": "2025-06-07T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Melbourne International Film Festival",
+          "release_date": "2025-08-09T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Adelaide Film Festival",
+          "release_date": "2025-10-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Perth Festival",
+          "release_date": "2026-03-04T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Mostra Farol 2026 - Opening Film",
+          "release_date": "2026-03-20T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ES",
+          "certification": "A",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Málaga Film Festival",
+          "release_date": "2025-03-15T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Edinburgh International Film Festival",
+          "release_date": "2025-08-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "HK",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Spanish Film Festival",
+          "release_date": "2025-10-02T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "HR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Mediterranean Film Festival Split",
+          "release_date": "2025-06-19T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ID",
+          "certification": "13+",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Jakarta World Cinema",
+          "release_date": "2025-09-30T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NZ",
+          "certification": "PG",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "New Zealand International Film Festival",
+          "release_date": "2025-08-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "RU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Spirit Of Fire International Festival Of Cinematographic Debuts",
+          "release_date": "2026-03-15T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "RU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Made by Women International Film Festival",
+          "release_date": "2026-07-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TW",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Taipei Golden Horse Film Festival",
+          "release_date": "2025-11-11T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "PG-13",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Seattle International Film Festival",
+          "release_date": "2025-05-17T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1303613,
+          "title": "Sorda",
+          "year": "2025",
+          "runtime": 100,
+          "directors": [
+            "Eva Libertad"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/tres-tristes-tias",
+      "title": "Tres tristes tías",
+      "status": "matched",
+      "filmId": "ficvina-2026/tres-tristes-tias",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1807652,
+      "appearances": 0,
+      "boundTmdbId": 1807652,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "CL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "",
+          "release_date": "2026-10-22T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1807652,
+          "title": "Tres Tristes Tías",
+          "year": "2026",
+          "runtime": 71,
+          "directors": [
+            "Carlos Villegas Leiva"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/uatana",
+      "title": "Uatana",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/uatana",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Uatana",
+            "year": "2026",
+            "page": 1
+          },
+          {
+            "query": "Uatana",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": 2026,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": []
+    },
+    {
+      "key": "ficvina-2026/universos-1/Azul: la última semilla",
+      "title": "Azul: la última semilla",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/universos-1/Azul: la última semilla",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Azul: la última semilla",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": []
+    },
+    {
+      "key": "ficvina-2026/universos-1/Garantía de por vida",
+      "title": "Garantía de por vida",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/universos-1/Garantía de por vida",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Garantía de por vida",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": []
+    },
+    {
+      "key": "ficvina-2026/universos-1/Lodo",
+      "title": "Lodo",
+      "status": "matched",
+      "filmId": "ficvina-2026/universos-1/Lodo",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1603999,
+      "appearances": 1,
+      "boundTmdbId": 1603999,
+      "catalogueYear": null,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "UY",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "es",
+          "note": "16º JIIFF - José Ignacio International Film Festival",
+          "release_date": "2026-02-01T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1603999,
+          "title": "Lodo",
+          "year": "2026",
+          "runtime": 15,
+          "directors": [
+            "Joseph Specker Nys"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/universos-1/O jardim mágico",
+      "title": "O jardim mágico",
+      "status": "matched",
+      "filmId": "ficvina-2026/universos-1/O jardim mágico",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1475725,
+      "appearances": 0,
+      "boundTmdbId": 1475725,
+      "catalogueYear": null,
+      "tmdbYear": 2025,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "CA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Ottawa International Animation Festival",
+          "release_date": "2026-09-23T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1475725,
+          "title": "El jardín mágico",
+          "year": "2025",
+          "runtime": 6,
+          "directors": [
+            "Naira Carneiro",
+            "Carlon Hardt"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/universos-1/Pan",
+      "title": "Pan",
+      "status": "matched",
+      "filmId": "ficvina-2026/universos-1/Pan",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1670307,
+      "appearances": 0,
+      "boundTmdbId": 1670307,
+      "catalogueYear": null,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "RU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Moscow International Film Festival",
+          "release_date": "2026-04-17T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1670307,
+          "title": "Pan",
+          "year": "2026",
+          "runtime": 15,
+          "directors": [
+            "Miguel León"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/universos-1/Paqarina",
+      "title": "Paqarina",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/universos-1/Paqarina",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Paqarina",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 862433,
+          "title": "ESCRITO DESDE NUESTRA PAQARINA",
+          "year": "",
+          "runtime": 4,
+          "directors": [],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/universos-1/Tinku",
+      "title": "Tinku",
+      "status": "matched",
+      "filmId": "ficvina-2026/universos-1/Tinku",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "director",
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1475741,
+      "appearances": 0,
+      "boundTmdbId": 1475741,
+      "catalogueYear": null,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "BO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Digital",
+          "release_date": "2025-02-13T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1475741,
+          "title": "Tinku",
+          "year": "2026",
+          "runtime": 12,
+          "directors": [
+            "Román Edwin Nina Nina"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/universos-1/Trabajo hecho",
+      "title": "Trabajo hecho",
+      "status": "matched",
+      "filmId": "ficvina-2026/universos-1/Trabajo hecho",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "director",
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1766948,
+      "appearances": 0,
+      "boundTmdbId": 1766948,
+      "catalogueYear": null,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "CL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival CHILEMONOS",
+          "release_date": "2026-05-25T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1766948,
+          "title": "Trabajo hecho",
+          "year": "2026",
+          "runtime": 11,
+          "directors": [
+            "Jaime Freire"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/universos-2/A menina que queria ser pedra",
+      "title": "A menina que queria ser pedra",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/universos-2/A menina que queria ser pedra",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "A menina que queria ser pedra",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1688870,
+          "title": "A menina que queria ser pedra",
+          "year": "2026",
+          "runtime": 9,
+          "directors": [
+            "Jackson Abacatu"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/universos-2/Decaer",
+      "title": "Decaer",
+      "status": "matched",
+      "filmId": "ficvina-2026/universos-2/Decaer",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "director",
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1668881,
+      "appearances": 0,
+      "boundTmdbId": 1668881,
+      "catalogueYear": null,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "CO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "es",
+          "note": "Festival Internacional de Cine de Cartagena",
+          "release_date": "2026-04-16T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "UA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Linoleum Contemporary Animation and Media Art Festival ",
+          "release_date": "2026-09-30T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1668881,
+          "title": "decaer",
+          "year": "2026",
+          "runtime": 7,
+          "directors": [
+            "Juan Camilo González Jiménez"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/universos-2/El cuerpo de Cristo",
+      "title": "El cuerpo de Cristo",
+      "status": "matched",
+      "filmId": "ficvina-2026/universos-2/El cuerpo de Cristo",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1570967,
+      "appearances": 0,
+      "boundTmdbId": 1570967,
+      "catalogueYear": null,
+      "tmdbYear": 2025,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "ES",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "International Festival of Documentary and Short Film of Bilbao",
+          "release_date": "2025-11-21T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ES",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "ManzanaRec - Festival Social",
+          "release_date": "2026-02-21T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "RU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Message to Man International Film Festival",
+          "release_date": "2026-10-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TW",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Taichung International Animation Festival",
+          "release_date": "2026-10-04T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "UA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Lviv International Film Festival Wiz-Art ",
+          "release_date": "2026-09-24T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1570967,
+          "title": "El cuerpo de Cristo",
+          "year": "2025",
+          "runtime": 13,
+          "directors": [
+            "Bea Lema"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/universos-2/El Tamagochi escarlata",
+      "title": "El Tamagochi escarlata",
+      "status": "matched",
+      "filmId": "ficvina-2026/universos-2/El Tamagochi escarlata",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "director",
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1543556,
+      "appearances": 1,
+      "boundTmdbId": 1543556,
+      "catalogueYear": null,
+      "tmdbYear": 2025,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1543556,
+          "title": "El Tamagochi Escarlata",
+          "year": "2025",
+          "runtime": 13,
+          "directors": [
+            "Fransisco Visceral Rivera"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/universos-2/Emechiché, el renacer de los cabeciblancos",
+      "title": "Emechiché, el renacer de los cabeciblancos",
+      "status": "matched",
+      "filmId": "ficvina-2026/universos-2/Emechiché, el renacer de los cabeciblancos",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1592964,
+      "appearances": 0,
+      "boundTmdbId": 1592964,
+      "catalogueYear": null,
+      "tmdbYear": 2025,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1592964,
+          "title": "Emechiche, El renacer de los cabeciblancos",
+          "year": "2025",
+          "runtime": 11,
+          "directors": [
+            "Juan Camilo González"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/universos-2/Mensajeras sin mensaje",
+      "title": "Mensajeras sin mensaje",
+      "status": "unmatched",
+      "filmId": "ficvina-2026/universos-2/Mensajeras sin mensaje",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Mensajeras sin mensaje",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": null,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": []
+    },
+    {
+      "key": "ficvina-2026/universos-2/Mnema",
+      "title": "Mnema",
+      "status": "matched",
+      "filmId": "ficvina-2026/universos-2/Mnema",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1699981,
+      "appearances": 0,
+      "boundTmdbId": 1699981,
+      "catalogueYear": null,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "deadCenter Film Festival",
+          "release_date": "2026-06-12T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1699981,
+          "title": "Mnema",
+          "year": "2026",
+          "runtime": 9,
+          "directors": [
+            "Inês Costa",
+            "Carolina Bonzinho"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/universos-2/No prendas la luz",
+      "title": "No prendas la luz",
+      "status": "matched",
+      "filmId": "ficvina-2026/universos-2/No prendas la luz",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1689427,
+      "appearances": 0,
+      "boundTmdbId": 1689427,
+      "catalogueYear": null,
+      "tmdbYear": 2025,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1689427,
+          "title": "No prendas la luz",
+          "year": "2025",
+          "runtime": 2,
+          "directors": [
+            "Carina Vanessa Rodríguez"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/universos-2/Pinchu es así",
+      "title": "Pinchu es así",
+      "status": "matched",
+      "filmId": "ficvina-2026/universos-2/Pinchu es así",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "director",
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1676480,
+      "appearances": 0,
+      "boundTmdbId": 1676480,
+      "catalogueYear": null,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "NL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Leiden International Film Festival",
+          "release_date": "2026-10-08T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TW",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Kuandu International Animation Festival",
+          "release_date": "2026-10-26T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1676480,
+          "title": "Pinchu es así",
+          "year": "2026",
+          "runtime": 9,
+          "directors": [
+            "Carmen Córdoba González"
+          ],
+          "problems": [
+            "director",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ficvina-2026/universos-2/TV entreaberta",
+      "title": "TV entreaberta",
+      "status": "matched",
+      "filmId": "ficvina-2026/universos-2/TV entreaberta",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1661195,
+      "appearances": 0,
+      "boundTmdbId": 1661195,
+      "catalogueYear": null,
+      "tmdbYear": 2026,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1661195,
+          "title": "TV Entreaberta",
+          "year": "2026",
+          "runtime": 9,
+          "directors": [
+            "Mateus Compart"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
     {
       "key": "fidocs-2026/48",
       "title": "48",

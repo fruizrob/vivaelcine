@@ -1,0 +1,610 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1575549?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:48.136Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/hOf4T1Y96WtamN6hReKGtTDOZYE.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 1575549,
+    "imdb_id": null,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "La Ofrenda",
+    "overview": "Impulsado por el deseo de volver a ver a su padre, un joven se adentra en lo más profundo del bosque para realizar un antiguo ritual. Entre velas, sombras y recuerdos, una presencia demuestra que invocar a los muertos puede despertar algo mucho peor.",
+    "popularity": 0.1872,
+    "poster_path": "/eyZhdEiwkhjT1Dhdgw8uUb9MbaD.jpg",
+    "production_companies": [
+      {
+        "id": 274309,
+        "logo_path": null,
+        "name": "ЯSánchez",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2025-10-31",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Ofrenda",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5799390,
+          "known_for_department": "Acting",
+          "name": "Alan Jesús Sánchez Arce",
+          "original_name": "Alan Jesús Sánchez Arce",
+          "popularity": 0.1427,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Hijo",
+          "credit_id": "690bf998e1eab1fb154bd42d",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5799391,
+          "known_for_department": "Acting",
+          "name": "Sebastián Sánchez Marcial",
+          "original_name": "Sebastián Sánchez Marcial",
+          "popularity": 0.126,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Hombre del Bosque",
+          "credit_id": "690bf9eec4b5576044d736c9",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5799392,
+          "known_for_department": "Acting",
+          "name": "Margarita Flores Pérez",
+          "original_name": "Margarita Flores Pérez",
+          "popularity": 0.0388,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Mujer del Bosque",
+          "credit_id": "690bfa0502c621aa3c613d8b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5691336,
+          "known_for_department": "Camera",
+          "name": "Feliciano Sánchez Flores",
+          "original_name": "Feliciano Sánchez Flores",
+          "popularity": 0.0945,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Padre",
+          "credit_id": "690bf9b5e99baffd40613ece",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5691339,
+          "known_for_department": "Editing",
+          "name": "Josué Sánchez Reyes",
+          "original_name": "Josué Sánchez Reyes",
+          "popularity": 0.0342,
+          "profile_path": "/b2xSP7wecervhU6Bd385qXbRvc7.jpg",
+          "credit_id": "690bfa6bbce0c077884bd42c",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5799401,
+          "known_for_department": "Lighting",
+          "name": "Itzel Elena Parra",
+          "original_name": "Itzel Elena Parra",
+          "popularity": 0.0598,
+          "profile_path": "/18f645LwLnSum9yRRGxCLMnRx69.jpg",
+          "credit_id": "690bfb18408a57b8c2f6d1ec",
+          "department": "Lighting",
+          "job": "Lighting Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5799413,
+          "known_for_department": "Sound",
+          "name": "Suri Sofía Sánchez Reyes",
+          "original_name": "Suri Sofía Sánchez Reyes",
+          "popularity": 0.0143,
+          "profile_path": "/8OuORz6vlrt67eCYbrNLnzeq9tg.jpg",
+          "credit_id": "690bfbca8c96df40c5935075",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5799397,
+          "known_for_department": "Camera",
+          "name": "Cecilia Delgado Balderrama",
+          "original_name": "Cecilia Delgado Balderrama",
+          "popularity": 0.014,
+          "profile_path": "/iaQF84UVFW9Ma9oOv6ty5U45F2r.jpg",
+          "credit_id": "690bfc04dd96e460ebd7345b",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5799422,
+          "known_for_department": "Directing",
+          "name": "Vanessa Bello Sampedro",
+          "original_name": "Vanessa Bello Sampedro",
+          "popularity": 0.0214,
+          "profile_path": "/nFrdCMnCP1hZg7bWA7iY0MW6h6r.jpg",
+          "credit_id": "690bfc3fc4b5576044d736f5",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5799427,
+          "known_for_department": "Crew",
+          "name": "Santiago Wydler Morales",
+          "original_name": "Santiago Wydler Morales",
+          "popularity": 0.0404,
+          "profile_path": null,
+          "credit_id": "690bfc98ed025a428df6d303",
+          "department": "Crew",
+          "job": "Script"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5799413,
+          "known_for_department": "Sound",
+          "name": "Suri Sofía Sánchez Reyes",
+          "original_name": "Suri Sofía Sánchez Reyes",
+          "popularity": 0.0143,
+          "profile_path": "/8OuORz6vlrt67eCYbrNLnzeq9tg.jpg",
+          "credit_id": "690bfcd175f212e6e14bd4b3",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5799427,
+          "known_for_department": "Crew",
+          "name": "Santiago Wydler Morales",
+          "original_name": "Santiago Wydler Morales",
+          "popularity": 0.0404,
+          "profile_path": null,
+          "credit_id": "690bfd003e3df38edc78a662",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5799422,
+          "known_for_department": "Directing",
+          "name": "Vanessa Bello Sampedro",
+          "original_name": "Vanessa Bello Sampedro",
+          "popularity": 0.0214,
+          "profile_path": "/nFrdCMnCP1hZg7bWA7iY0MW6h6r.jpg",
+          "credit_id": "690bfd198cfd8b2510d734a4",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5691339,
+          "known_for_department": "Editing",
+          "name": "Josué Sánchez Reyes",
+          "original_name": "Josué Sánchez Reyes",
+          "popularity": 0.0342,
+          "profile_path": "/b2xSP7wecervhU6Bd385qXbRvc7.jpg",
+          "credit_id": "690bfd590924363633613d6d",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5691339,
+          "known_for_department": "Editing",
+          "name": "Josué Sánchez Reyes",
+          "original_name": "Josué Sánchez Reyes",
+          "popularity": 0.0342,
+          "profile_path": "/b2xSP7wecervhU6Bd385qXbRvc7.jpg",
+          "credit_id": "690bfd7e75f212e6e14bd4b7",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5799427,
+          "known_for_department": "Crew",
+          "name": "Santiago Wydler Morales",
+          "original_name": "Santiago Wydler Morales",
+          "popularity": 0.0404,
+          "profile_path": null,
+          "credit_id": "690c01c5dd96e460ebd734a4",
+          "department": "Crew",
+          "job": "Choreographer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5691339,
+          "known_for_department": "Editing",
+          "name": "Josué Sánchez Reyes",
+          "original_name": "Josué Sánchez Reyes",
+          "popularity": 0.0342,
+          "profile_path": "/b2xSP7wecervhU6Bd385qXbRvc7.jpg",
+          "credit_id": "690c01e535803e924b9350c8",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5799401,
+          "known_for_department": "Lighting",
+          "name": "Itzel Elena Parra",
+          "original_name": "Itzel Elena Parra",
+          "popularity": 0.0598,
+          "profile_path": "/18f645LwLnSum9yRRGxCLMnRx69.jpg",
+          "credit_id": "6a0d11e1cd39f489f8b81735",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "27th International Youth Media Festival YOUKI",
+              "release_date": "2026-11-18T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "53rd Concordia Film Festival (CFF)",
+              "release_date": "2026-05-09T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "24th Vancouver Latin American Film Festival (VLAFF)",
+              "release_date": "2026-09-17T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "5th Stseptékwles re Sk’elép (Coyote Stories) Indigenous Film Festival",
+              "release_date": "2026-09-26T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "5th Sognielettrici Electricdreams International Film Festival",
+              "release_date": "2026-10-26T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "5to Festival Internacional de Cine CINEMA GUAJOLOTE",
+              "release_date": "2026-07-26T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "13vo Concurso Universitario de Cortometrajes de Horror MALSUEÑO",
+              "release_date": "2025-10-31T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "39a FENALI BUAP",
+              "release_date": "2026-03-26T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "1er Festival de Cine Mitote",
+              "release_date": "2026-08-22T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "12vo Festival Internacional de Cine y Arquitectura CINETEKTON",
+              "release_date": "2026-09-20T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Racconto CineClub",
+              "release_date": "2026-08-11T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "9no Festival de Cine Independiente de la CDMX (FECIMX)",
+              "release_date": "2026-09-05T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "El Espejo Humeante CineClub (Puebla)",
+              "release_date": "2026-10-06T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Retrospectiva MALSUEÑO (CINEMA)",
+              "release_date": "2026-08-28T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "6ta Muestra Itinerante YESCA",
+              "release_date": "2026-09-18T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "20mo Festival Internacional de Cine Universitario KINOKI",
+              "release_date": "2026-09-09T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "7mo ANIMAL Film Fest + CINEBOX San Martín Texmelucan",
+              "release_date": "2026-10-02T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "12vo Festival Internacional de Cine y Arquitectura CINETEKTON + El Espejo Humeante CineClub (Guanajuato)",
+              "release_date": "2026-09-23T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "El Espejo Humeante CineClub (Chihuahua)",
+              "release_date": "2026-10-01T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "6ta Muestra Itinerante YESCA",
+              "release_date": "2026-09-25T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Retrospectiva MALSUEÑO (Baja California)",
+              "release_date": "2026-10-08T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Retrospectiva MALSUEÑO (Baja California) + Muestra Festival Internacional de Cine de la Otredad",
+              "release_date": "2026-10-22T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Puebla Cine Fest 2026",
+              "release_date": "2026-11-13T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "11vo Festival Internacional de Cine con Medios Alternativos",
+              "release_date": "2026-11-26T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "11vo Festival Internacional de Cine con Medios Alternativos",
+              "release_date": "2026-11-27T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "1er Encuentro de Cine Estudiantil ENTRECORTES 2026",
+              "release_date": "2026-10-28T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Retrospectiva MALSUEÑO (Puebla)",
+              "release_date": "2026-11-12T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Más Allá Fest El Patio Cine",
+              "release_date": "2026-11-07T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "8vo Espanto Film Fest",
+              "release_date": "2026-11-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "2nd Independent Film Festival Vilne Kino (Вільне Кіно)",
+              "release_date": "2026-07-22T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "2nd Independent Film Festival Vilne Kino (Вільне Кіно)",
+              "release_date": "2026-07-11T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "2nd Independent Film Festival Vilne Kino (Вільне Кіно)",
+              "release_date": "2026-08-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "20th First Nations Film and Video Festival",
+              "release_date": "2026-11-03T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "31st Red Nation International Film Festival",
+              "release_date": "2026-11-06T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

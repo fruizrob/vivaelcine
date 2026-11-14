@@ -1,0 +1,225 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1661234?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:00.715Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1661234,
+    "imdb_id": null,
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "Las visitas de Camilo",
+    "overview": "",
+    "popularity": 0.04,
+    "poster_path": "/ecZ6FJzsZMIOOjZ7jIpjDwGGnVv.jpg",
+    "production_companies": [
+      {
+        "id": 293861,
+        "logo_path": null,
+        "name": "Ñañuvã",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2026-04-20",
+    "revenue": 0,
+    "runtime": 16,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Las visitas de Camilo",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6108885,
+          "known_for_department": "Acting",
+          "name": "Marcela Crociati",
+          "original_name": "Marcela Crociati",
+          "popularity": 0.0508,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "69cbfedc415f551eeb42a726",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6108886,
+          "known_for_department": "Acting",
+          "name": "José Olmedo",
+          "original_name": "José Olmedo",
+          "popularity": 0.0666,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "69cbfee6fba76b5471b8327e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6108887,
+          "known_for_department": "Acting",
+          "name": "Rubén Martínez",
+          "original_name": "Rubén Martínez",
+          "popularity": 0.0292,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "69cbfef7995eff1db94c04cd",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6108890,
+          "known_for_department": "Directing",
+          "name": "Itatí Olmedo",
+          "original_name": "Itatí Olmedo",
+          "popularity": 0.0798,
+          "profile_path": null,
+          "credit_id": "69cbff16789949e926645a06",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6108893,
+          "known_for_department": "Sound",
+          "name": "Agustín Cotroneo",
+          "original_name": "Agustín Cotroneo",
+          "popularity": 0.0538,
+          "profile_path": null,
+          "credit_id": "69cbff3ee24865dd71ca4028",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4168492,
+          "known_for_department": "Sound",
+          "name": "Sonia Borenstein",
+          "original_name": "Sonia Borenstein",
+          "popularity": 0.077,
+          "profile_path": null,
+          "credit_id": "69cbff4c574f58b99cc357ff",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6108894,
+          "known_for_department": "Sound",
+          "name": "Jorge Gribo",
+          "original_name": "Jorge Gribo",
+          "popularity": 0.0596,
+          "profile_path": null,
+          "credit_id": "69cbff5df4cdeed5fcca409d",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6108890,
+          "known_for_department": "Directing",
+          "name": "Itatí Olmedo",
+          "original_name": "Itatí Olmedo",
+          "popularity": 0.0798,
+          "profile_path": null,
+          "credit_id": "69cbff6cb8e4bb46674c0366",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6108890,
+          "known_for_department": "Directing",
+          "name": "Itatí Olmedo",
+          "original_name": "Itatí Olmedo",
+          "popularity": 0.0798,
+          "profile_path": null,
+          "credit_id": "69cbff73066289cb9bac4f03",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6108890,
+          "known_for_department": "Directing",
+          "name": "Itatí Olmedo",
+          "original_name": "Itatí Olmedo",
+          "popularity": 0.0798,
+          "profile_path": null,
+          "credit_id": "69cbff7c415f551eeb42a73a",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6108890,
+          "known_for_department": "Directing",
+          "name": "Itatí Olmedo",
+          "original_name": "Itatí Olmedo",
+          "popularity": 0.0798,
+          "profile_path": null,
+          "credit_id": "69cbff86ee7a5294c5c35731",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "BAFICI",
+              "release_date": "2026-04-20T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

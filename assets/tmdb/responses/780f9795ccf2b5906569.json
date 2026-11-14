@@ -1,0 +1,280 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/518475?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:13.150Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "id": 518475,
+    "imdb_id": "tt6433232",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Miriam Is Going to Mars",
+    "overview": "",
+    "popularity": 0.3582,
+    "poster_path": "/m793zNXAJN5wwJuA8t4obpkCnwr.jpg",
+    "production_companies": [
+      {
+        "id": 103436,
+        "logo_path": "/3ndQly7EP5csQOpi6Mv0URlFaSF.png",
+        "name": "Cutters Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2017-05-01",
+    "revenue": 0,
+    "runtime": 15,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Miriam Is Going to Mars",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2024292,
+          "known_for_department": "Acting",
+          "name": "Nathaniel Buescher",
+          "original_name": "Nathaniel Buescher",
+          "popularity": 0.2364,
+          "profile_path": "/5wqHTNCXwnfr5D6DiX6nmJyVAr8.jpg",
+          "cast_id": 0,
+          "character": "Thomas",
+          "credit_id": "5ad5bb229251415dcf011304",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2024293,
+          "known_for_department": "Acting",
+          "name": "Meghann Marty",
+          "original_name": "Meghann Marty",
+          "popularity": 0.185,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Asylum Patient",
+          "credit_id": "5ad5bb2d9251415dd2011c96",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1450211,
+          "known_for_department": "Acting",
+          "name": "Ann Sonneville",
+          "original_name": "Ann Sonneville",
+          "popularity": 0.2333,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Miriam Johnson",
+          "credit_id": "5ad5bb420e0a2660ad012bf6",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2723423,
+          "known_for_department": "Acting",
+          "name": "Chandra Michaels",
+          "original_name": "Chandra Michaels",
+          "popularity": 0.3696,
+          "profile_path": "/qmgQPKI2mcR6EzffqcJAreIO8A2.jpg",
+          "cast_id": 13,
+          "character": "Jenny",
+          "credit_id": "5f1e020a66a7c300380cfd99",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1602830,
+          "known_for_department": "Directing",
+          "name": "Michael Lippert",
+          "original_name": "Michael Lippert",
+          "popularity": 0.1775,
+          "profile_path": null,
+          "credit_id": "5ad5bb5d9251415dc0010d62",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1602830,
+          "known_for_department": "Directing",
+          "name": "Michael Lippert",
+          "original_name": "Michael Lippert",
+          "popularity": 0.1775,
+          "profile_path": null,
+          "credit_id": "5ad5bb630e0a2660ad012c15",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1304308,
+          "known_for_department": "Acting",
+          "name": "Brittany Wagner",
+          "original_name": "Brittany Wagner",
+          "popularity": 0.1168,
+          "profile_path": "/52wE14rhEEo672J3VQnMwUp8kp3.jpg",
+          "credit_id": "5ad5bb6f0e0a2660aa011e23",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1602830,
+          "known_for_department": "Directing",
+          "name": "Michael Lippert",
+          "original_name": "Michael Lippert",
+          "popularity": 0.1775,
+          "profile_path": null,
+          "credit_id": "5ad5bb869251415dd2011ced",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2024297,
+          "known_for_department": "Art",
+          "name": "Manuel Perez Pena",
+          "original_name": "Manuel Perez Pena",
+          "popularity": 0.0711,
+          "profile_path": null,
+          "credit_id": "5ad5bb8e0e0a2660aa011e48",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2024297,
+          "known_for_department": "Art",
+          "name": "Manuel Perez Pena",
+          "original_name": "Manuel Perez Pena",
+          "popularity": 0.0711,
+          "profile_path": null,
+          "credit_id": "5ad5bb969251415dcf011392",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2024298,
+          "known_for_department": "Sound",
+          "name": "Mike Regan",
+          "original_name": "Mike Regan",
+          "popularity": 0.0457,
+          "profile_path": null,
+          "credit_id": "5ad5bbc30e0a2660b6012882",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2024295,
+          "known_for_department": "Sound",
+          "name": "Devin Delaney",
+          "original_name": "Devin Delaney",
+          "popularity": 0.0807,
+          "profile_path": null,
+          "credit_id": "5f6c32676517d60037d7c5fb",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2024296,
+          "known_for_department": "Camera",
+          "name": "Austin Rink",
+          "original_name": "Austin Rink",
+          "popularity": 0.042,
+          "profile_path": null,
+          "credit_id": "5f6c3274a7e363003826b163",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "RU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "ru",
+              "note": "Moscow International Film Festival",
+              "release_date": "2018-04-19T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2017-05-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "RU",
+          "title": "Miriam otpravlyayetsya na Mars",
+          "type": "transliteration"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1557439?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:12.254Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1557439,
+    "imdb_id": "tt2569580",
+    "origin_country": [
+      "EE"
+    ],
+    "original_language": "et",
+    "original_title": "Miriam merehädas",
+    "overview": "",
+    "popularity": 0.1969,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "EE",
+        "name": "Estonia"
+      }
+    ],
+    "release_date": "2006-01-01",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Miriam merehädas",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 584884,
+          "known_for_department": "Directing",
+          "name": "Riho Unt",
+          "original_name": "Riho Unt",
+          "popularity": 0.2683,
+          "profile_path": "/f2DdpHVOc5qquRqe9L3YxVnWfwu.jpg",
+          "credit_id": "68e230bdcc96686ebd9ca832",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "EE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

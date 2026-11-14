@@ -1,0 +1,28 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=En+otra+Palestina&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:07.698Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1643576,
+        "title": "En otra Palestina",
+        "original_language": "ar",
+        "original_title": "En otra Palestina",
+        "overview": "Unos niños nadan en el río Jordán de camino a Jerusalén. Es verano y las plantas dan frutas. Hay caminos en todas partes. Personas y recuerdos a la espera de ser nombrados. Es año nuevo en  Palestina.",
+        "popularity": 0.1152,
+        "poster_path": "/eMRPiQcEX4rj3PUYPFVFyvDzmZS.jpg",
+        "release_date": "2026-04-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

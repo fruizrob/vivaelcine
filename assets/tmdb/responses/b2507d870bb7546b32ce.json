@@ -1,0 +1,694 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/42077?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:22.057Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/gFl2UbHNznIxxsp4kkKX7lB8uGX.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 42077,
+    "imdb_id": "tt0037932",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "My Name Is Julia Ross",
+    "overview": "Una joven norteamericana encuentra trabajo en Londres como secretaria personal de una dama inglesa, cuyo hijo es un hombre enigmático con una profunda cicatriz en la cara. El encuentro con este personaje será el comienzo de una terrible pesadilla.",
+    "popularity": 1.1668,
+    "poster_path": "/h0E0KMwmbehZK4P7oxkDvOqLixT.jpg",
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1945-11-08",
+    "revenue": 0,
+    "runtime": 65,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Se fue a dormir como secretaria... ¡y despertó a la \"novia\" de un loco!",
+    "title": "Mi nombre es Julia Ross",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 74,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 13026,
+          "known_for_department": "Acting",
+          "name": "Nina Foch",
+          "original_name": "Nina Foch",
+          "popularity": 1.1381,
+          "profile_path": "/zkSVQYtUBFKpoBXCyIA0dW8N5Tj.jpg",
+          "cast_id": 2,
+          "character": "Julia Ross",
+          "credit_id": "52fe45ebc3a36847f80e22f7",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 14299,
+          "known_for_department": "Acting",
+          "name": "May Whitty",
+          "original_name": "May Whitty",
+          "popularity": 0.6249,
+          "profile_path": "/xjcKt4OBswpGUSGG0jkgr5fP5r4.jpg",
+          "cast_id": 3,
+          "character": "Mrs. Hughes",
+          "credit_id": "52fe45ebc3a36847f80e22fb",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14564,
+          "known_for_department": "Acting",
+          "name": "George Macready",
+          "original_name": "George Macready",
+          "popularity": 0.9182,
+          "profile_path": "/gGtegV82TMbcd5psHx6w7by5FgO.jpg",
+          "cast_id": 4,
+          "character": "Ralph Hughes",
+          "credit_id": "52fe45ebc3a36847f80e22ff",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2907,
+          "known_for_department": "Acting",
+          "name": "Roland Varno",
+          "original_name": "Roland Varno",
+          "popularity": 0.4506,
+          "profile_path": "/yFASdWdOLaOi2MoO1w85rqX4xUS.jpg",
+          "cast_id": 5,
+          "character": "Dennis Bruce",
+          "credit_id": "52fe45ebc3a36847f80e2303",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 98495,
+          "known_for_department": "Acting",
+          "name": "Anita Sharp-Bolster",
+          "original_name": "Anita Sharp-Bolster",
+          "popularity": 0.5548,
+          "profile_path": "/5TXokT8kg57VTYciarbCOgN56p.jpg",
+          "cast_id": 12,
+          "character": "Sparkes",
+          "credit_id": "5997a9ba925141260100258d",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 21878,
+          "known_for_department": "Acting",
+          "name": "Doris Lloyd",
+          "original_name": "Doris Lloyd",
+          "popularity": 0.5807,
+          "profile_path": "/fBK3svuhA9YpWRtD6EHMJMd7YC4.jpg",
+          "cast_id": 13,
+          "character": "Mrs. Mackie",
+          "credit_id": "5997a9c8c3a3682b8100271a",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 39802,
+          "known_for_department": "Acting",
+          "name": "Queenie Leonard",
+          "original_name": "Queenie Leonard",
+          "popularity": 0.751,
+          "profile_path": "/8kmlIjijBXjk0J1jdjhABwMbl2K.jpg",
+          "cast_id": 14,
+          "character": "Alice (uncredited)",
+          "credit_id": "5997a9fb925141258f002763",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1540998,
+          "known_for_department": "Acting",
+          "name": "Joy Harington",
+          "original_name": "Joy Harington",
+          "popularity": 0.5426,
+          "profile_path": "/3twv7E6oKEPZMaIDQkrGqYwwlGH.jpg",
+          "cast_id": 15,
+          "character": "Bertha (uncredited)",
+          "credit_id": "5997aa08c3a3682b8100276b",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 101742,
+          "known_for_department": "Acting",
+          "name": "Leonard Mudie",
+          "original_name": "Leonard Mudie",
+          "popularity": 0.5508,
+          "profile_path": "/gODC8yLtVXYypdqQcE01I2IFqfO.jpg",
+          "cast_id": 16,
+          "character": "Peters (uncredited)",
+          "credit_id": "5997aa15c3a3682268002d9a",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 111585,
+          "known_for_department": "Acting",
+          "name": "Ottola Nesmith",
+          "original_name": "Ottola Nesmith",
+          "popularity": 0.6714,
+          "profile_path": "/2oTVHxsM4Qkr1jIWDgTKF5jnMer.jpg",
+          "cast_id": 17,
+          "character": "Mrs. Robinson (uncredited)",
+          "credit_id": "5997aa41c3a3682268002dd4",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1417246,
+          "known_for_department": "Acting",
+          "name": "Milton Owen",
+          "original_name": "Milton Owen",
+          "popularity": 0.2509,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Policeman (uncredited)",
+          "credit_id": "5bc533c10e0a266e5706f168",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32192,
+          "known_for_department": "Acting",
+          "name": "Olaf Hytten",
+          "original_name": "Olaf Hytten",
+          "popularity": 0.5763,
+          "profile_path": "/A47xM0KsIYVS0wMHNKdME8DyOwr.jpg",
+          "cast_id": 20,
+          "character": "The Reverend Lewis (uncredited)",
+          "credit_id": "6475732fdd258901017f54e8",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30136,
+          "known_for_department": "Acting",
+          "name": "Leyland Hodgson",
+          "original_name": "Leyland Hodgson",
+          "popularity": 0.7482,
+          "profile_path": "/5UT6Zuarm1luaIsAVcNkFESi301.jpg",
+          "cast_id": 40,
+          "character": "Policeman (uncredited)",
+          "credit_id": "668208d50c1a409d089dc696",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 34368,
+          "known_for_department": "Acting",
+          "name": "Marilyn Johnson",
+          "original_name": "Marilyn Johnson",
+          "popularity": 0.1854,
+          "profile_path": null,
+          "cast_id": 41,
+          "character": "Nurse (uncredited)",
+          "credit_id": "668208f71ed9271c091e3757",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 120454,
+          "known_for_department": "Acting",
+          "name": "Charles McNaughton",
+          "original_name": "Charles McNaughton",
+          "popularity": 0.2293,
+          "profile_path": "/qkY7SSfGCj50Ygz6O57cmvtCcYe.jpg",
+          "cast_id": 42,
+          "character": "Gatekeeper (uncredited)",
+          "credit_id": "6682090725181d04ea12111d",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 112359,
+          "known_for_department": "Acting",
+          "name": "Harry Hays Morgan",
+          "original_name": "Harry Hays Morgan",
+          "popularity": 0.2731,
+          "profile_path": null,
+          "cast_id": 43,
+          "character": "Robinson (uncredited)",
+          "credit_id": "66820913cf760a75e8ef5497",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 86349,
+          "known_for_department": "Acting",
+          "name": "Reginald Sheffield",
+          "original_name": "Reginald Sheffield",
+          "popularity": 0.3914,
+          "profile_path": "/2vdJFsjZJxXs0QBdH21HG3wShWf.jpg",
+          "cast_id": 44,
+          "character": "McQuarrie (uncredited)",
+          "credit_id": "6682092b61dda9e59d9dc1fc",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 117695,
+          "known_for_department": "Acting",
+          "name": "Evan Thomas",
+          "original_name": "Evan Thomas",
+          "popularity": 0.2599,
+          "profile_path": null,
+          "cast_id": 45,
+          "character": "Dr. Keller (uncredited)",
+          "credit_id": "6682094d649b3941533ac762",
+          "order": 17
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 86004,
+          "known_for_department": "Directing",
+          "name": "Joseph H. Lewis",
+          "original_name": "Joseph H. Lewis",
+          "popularity": 0.6244,
+          "profile_path": "/zgl7TNNQxDPumnCMJuenCNXu8ns.jpg",
+          "credit_id": "52fe45ebc3a36847f80e22f3",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 105478,
+          "known_for_department": "Writing",
+          "name": "Muriel Roy Bolton",
+          "original_name": "Muriel Roy Bolton",
+          "popularity": 0.4038,
+          "profile_path": null,
+          "credit_id": "52fe45ebc3a36847f80e2309",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 166912,
+          "known_for_department": "Writing",
+          "name": "Anthony Gilbert",
+          "original_name": "Anthony Gilbert",
+          "popularity": 0.3571,
+          "profile_path": null,
+          "credit_id": "52fe45ebc3a36847f80e230f",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 96725,
+          "known_for_department": "Acting",
+          "name": "Wallace MacDonald",
+          "original_name": "Wallace MacDonald",
+          "popularity": 0.4208,
+          "profile_path": "/lP3Lxz5EiWYhziMJedbkuzeaQeE.jpg",
+          "credit_id": "52fe45ebc3a36847f80e2315",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6452,
+          "known_for_department": "Camera",
+          "name": "Burnett Guffey",
+          "original_name": "Burnett Guffey",
+          "popularity": 0.3966,
+          "profile_path": null,
+          "credit_id": "52fe45ebc3a36847f80e231b",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 34428,
+          "known_for_department": "Editing",
+          "name": "Henry Batista",
+          "original_name": "Henry Batista",
+          "popularity": 0.1611,
+          "profile_path": null,
+          "credit_id": "52fe45ebc3a36847f80e2321",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 34176,
+          "known_for_department": "Art",
+          "name": "Jerome Pycha Jr.",
+          "original_name": "Jerome Pycha Jr.",
+          "popularity": 0.2629,
+          "profile_path": null,
+          "credit_id": "668207c1309906db401e4064",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2499004,
+          "known_for_department": "Art",
+          "name": "Milton Stumph",
+          "original_name": "Milton Stumph",
+          "popularity": 0.0641,
+          "profile_path": null,
+          "credit_id": "668207ccc2d28ea5ed34ba6e",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12145,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Jean Louis",
+          "original_name": "Jean Louis",
+          "popularity": 0.5488,
+          "profile_path": "/7HD0QEtGD3lphzdafL8pmBw3YiN.jpg",
+          "credit_id": "668207d9fc6b0cd40ec81a13",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 34506,
+          "known_for_department": "Production",
+          "name": "Milton Feldman",
+          "original_name": "Milton Feldman",
+          "popularity": 0.2313,
+          "profile_path": null,
+          "credit_id": "668207ef789cbff191164940",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1141747,
+          "known_for_department": "Sound",
+          "name": "Lambert E. Day",
+          "original_name": "Lambert E. Day",
+          "popularity": 0.1977,
+          "profile_path": null,
+          "credit_id": "66820804cf760a75e8ef53f8",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 14025,
+          "known_for_department": "Sound",
+          "name": "Glenn Rominger",
+          "original_name": "Glenn Rominger",
+          "popularity": 0.2038,
+          "profile_path": null,
+          "credit_id": "6682080ed60c2e84099dc412",
+          "department": "Sound",
+          "job": "Sound Re-Recording Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 89532,
+          "known_for_department": "Crew",
+          "name": "Lawrence W. Butler",
+          "original_name": "Lawrence W. Butler",
+          "popularity": 0.1506,
+          "profile_path": null,
+          "credit_id": "6682081f701903853b12089c",
+          "department": "Crew",
+          "job": "Special Effects"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1757687,
+          "known_for_department": "Visual Effects",
+          "name": "Donald C. Glouner",
+          "original_name": "Donald C. Glouner",
+          "popularity": 0.1519,
+          "profile_path": null,
+          "credit_id": "66820830701903853b1208a3",
+          "department": "Visual Effects",
+          "job": "Matte Painter"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 31202,
+          "known_for_department": "Camera",
+          "name": "Gert Andersen",
+          "original_name": "Gert Andersen",
+          "popularity": 0.3531,
+          "profile_path": null,
+          "credit_id": "6682083ecb19cb8387659f3e",
+          "department": "Camera",
+          "job": "Second Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1369034,
+          "known_for_department": "Camera",
+          "name": "Ned Scott",
+          "original_name": "Ned Scott",
+          "popularity": 0.1126,
+          "profile_path": null,
+          "credit_id": "668208453ffc4e3af7120810",
+          "department": "Camera",
+          "job": "Still Photographer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 34413,
+          "known_for_department": "Sound",
+          "name": "Edwin Wetzel",
+          "original_name": "Edwin Wetzel",
+          "popularity": 0.2159,
+          "profile_path": null,
+          "credit_id": "668208688e15093780f16dbf",
+          "department": "Sound",
+          "job": "Scoring Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3347495,
+          "known_for_department": "Production",
+          "name": "Vera Mikol",
+          "original_name": "Vera Mikol",
+          "popularity": 0.065,
+          "profile_path": null,
+          "credit_id": "66820872c2d28ea5ed34bacf",
+          "department": "Production",
+          "job": "Researcher"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14356,
+          "known_for_department": "Sound",
+          "name": "Daniele Amfitheatrof",
+          "original_name": "Daniele Amfitheatrof",
+          "popularity": 0.3325,
+          "profile_path": null,
+          "credit_id": "6682087d27cb5d845d120e51",
+          "department": "Crew",
+          "job": "Additional Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29621,
+          "known_for_department": "Sound",
+          "name": "Mario Castelnuovo-Tedesco",
+          "original_name": "Mario Castelnuovo-Tedesco",
+          "popularity": 0.1965,
+          "profile_path": null,
+          "credit_id": "66820888a000e6275def54a7",
+          "department": "Crew",
+          "job": "Additional Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16748,
+          "known_for_department": "Sound",
+          "name": "George Duning",
+          "original_name": "George Duning",
+          "popularity": 0.4166,
+          "profile_path": "/erILCRc7tHoBsqL473pWvkIIMnS.jpg",
+          "credit_id": "6682089115e9e29fec65a49e",
+          "department": "Crew",
+          "job": "Additional Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2916,
+          "known_for_department": "Sound",
+          "name": "Friedrich Hollaender",
+          "original_name": "Friedrich Hollaender",
+          "popularity": 0.2551,
+          "profile_path": "/mbK3xSgCQg66FF0n9QQv9nIC8TV.jpg",
+          "credit_id": "6682089991f58d44891e391b",
+          "department": "Crew",
+          "job": "Additional Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30256,
+          "known_for_department": "Sound",
+          "name": "John Leipold",
+          "original_name": "John Leipold",
+          "popularity": 0.3037,
+          "profile_path": "/cPgas8DKKw42OjS9Bbrr6uDCT4m.jpg",
+          "credit_id": "668208a298da7b62047d2e45",
+          "department": "Crew",
+          "job": "Additional Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 33249,
+          "known_for_department": "Sound",
+          "name": "Ernst Toch",
+          "original_name": "Ernst Toch",
+          "popularity": 0.2993,
+          "profile_path": null,
+          "credit_id": "668208aba000e6275def54be",
+          "department": "Crew",
+          "job": "Additional Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 18577,
+          "known_for_department": "Sound",
+          "name": "Mischa Bakaleinikoff",
+          "original_name": "Mischa Bakaleinikoff",
+          "popularity": 0.3311,
+          "profile_path": null,
+          "credit_id": "693435a2f7208738464e4786",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1946-02-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "New York City, New York",
+              "release_date": "1945-11-08T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Louisville, Kentucky",
+              "release_date": "1945-11-15T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1945-11-27T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

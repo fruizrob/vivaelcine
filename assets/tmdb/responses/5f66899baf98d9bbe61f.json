@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=La+teta+asustada&include_adult=false&language=es-ES&year=2009",
+  "retrievedAt": "2026-11-14T02:25:54.270Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/u1N34argMlLDuS7zUIekPVk9Imz.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 28644,
+        "title": "La teta asustada",
+        "original_language": "es",
+        "original_title": "La teta asustada",
+        "overview": "Fausta (Magaly Solier) padece de \"La teta asustada\", una enfermedad que se transmite por la leche materna de mujeres maltratadas durante la época del terrorismo en el Perú. Los infectados nacen sin alma, porque del susto se escondió en la tierra, y cargan un terror atávico que les aísla por completo. Pero Fausta esconde algo más; guarda un secreto que no quiere revelar, hasta que la súbita muerte de su madre desencadenará hechos inesperados que transformarán su vida y la de otros. Seleccionada por Perú como candidata al Oscar 2010 en la categoría de película de habla no inglesa.",
+        "popularity": 1.1597,
+        "poster_path": "/pjlfAZXBIZLrBK4dcYtX0WWatoo.jpg",
+        "release_date": "2009-02-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.322,
+        "vote_count": 107
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

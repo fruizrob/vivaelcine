@@ -1,0 +1,103 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1192719?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:51.941Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1192719,
+    "imdb_id": "tt26031858",
+    "origin_country": [
+      "PT"
+    ],
+    "original_language": "nl",
+    "original_title": "Fogo no Lodo",
+    "overview": "",
+    "popularity": 0.0299,
+    "poster_path": "/4yC1ZdM10sG6Z54qGY74M4QIlcy.jpg",
+    "production_companies": [
+      {
+        "id": 114815,
+        "logo_path": null,
+        "name": "Kintop",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PT",
+        "name": "Portugal"
+      }
+    ],
+    "release_date": "2023-10-22",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Fogo no Lodo",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4325797,
+          "known_for_department": "Directing",
+          "name": "Daniel Barroca",
+          "original_name": "Daniel Barroca",
+          "popularity": 0.0364,
+          "profile_path": null,
+          "credit_id": "652ef83a0cb33516f7492eaa",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4325799,
+          "known_for_department": "Directing",
+          "name": "Catarina Laranjeiro",
+          "original_name": "Catarina Laranjeiro",
+          "popularity": 0.0956,
+          "profile_path": null,
+          "credit_id": "652ef851caef2d00e28d21ab",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "world premiere",
+              "release_date": "2023-10-22T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

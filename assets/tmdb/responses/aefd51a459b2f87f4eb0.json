@@ -1,0 +1,139 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/879871?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:04.533Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 879871,
+    "imdb_id": "tt0491450",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Pan comido",
+    "overview": "Dos asaltantes, uno con experiencia y otro novato, deciden robar a una señora. La siguen unas calles y al momento de emboscarla el asaltante experto tiene un imprevisto y el aprendiz se ve obligado a terminar con el asalto.",
+    "popularity": 0.2042,
+    "poster_path": "/xoNhI5mGg8WKH3XlLmuLY2jZ2In.jpg",
+    "production_companies": [
+      {
+        "id": 299,
+        "logo_path": "/elssmtHcogGtF8Gxokh9phZvLKi.png",
+        "name": "Instituto Mexicano de Cinematografía",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2007-01-01",
+    "revenue": 0,
+    "runtime": 7,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Dos asaltantes deciden robar a una señora. Un imprevisto se le presenta al asaltante más experimentado y todo sale de control, el aprendiz se ve obligado a improvisar.",
+    "title": "Pan comido",
+    "video": false,
+    "vote_average": 9,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 62477,
+          "known_for_department": "Acting",
+          "name": "Antonio Monroy",
+          "original_name": "Antonio Monroy",
+          "popularity": 0.4201,
+          "profile_path": "/kV2DMkExJ26SCTap134DTqXwv8c.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "615657f5dd731b008b8f6e2c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 941257,
+          "known_for_department": "Acting",
+          "name": "Beatriz Moreno",
+          "original_name": "Beatriz Moreno",
+          "popularity": 0.4091,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "615657feb513a80044f07ab3",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 979195,
+          "known_for_department": "Acting",
+          "name": "Alejandro Belmonte",
+          "original_name": "Alejandro Belmonte",
+          "popularity": 0.4165,
+          "profile_path": "/9SEu8OwFY2h5vQR1rls3AilWvQx.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "6156580681c7be0043a1e6b5",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3254327,
+          "known_for_department": "Directing",
+          "name": "Will Peña",
+          "original_name": "Will Peña",
+          "popularity": 0.0823,
+          "profile_path": null,
+          "credit_id": "61565816a4af8f008e978906",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2007-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/769896?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:31.640Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 769896,
+    "imdb_id": null,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Adiós, Ven.",
+    "overview": "Un cuento en bucle",
+    "popularity": 0.2099,
+    "poster_path": "/nLPB8bJamQiR8xSCbh7ZtUnKSPW.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2021-01-01",
+    "revenue": 0,
+    "runtime": 15,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "un cuento en bucle",
+    "title": "Adiós, Ven.",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2874651,
+          "known_for_department": "Acting",
+          "name": "Beatriz Martinez Pascual",
+          "original_name": "Beatriz Martinez Pascual",
+          "popularity": 0.0679,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "ELLA",
+          "credit_id": "5fc3a5273a340b003ede5280",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2874652,
+          "known_for_department": "Acting",
+          "name": "Jesús Manuel Alonso Valera",
+          "original_name": "Jesús Manuel Alonso Valera",
+          "popularity": 0.1073,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "ÉL",
+          "credit_id": "5fc3a5414d6791003bd9bd62",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2507674,
+          "known_for_department": "Sound",
+          "name": "Sergio Argüeso",
+          "original_name": "Sergio Argüeso",
+          "popularity": 0.1531,
+          "profile_path": null,
+          "credit_id": "5fc3a559a8858700410844ac",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2874649,
+          "known_for_department": "Directing",
+          "name": "Gabriela Alma",
+          "original_name": "Gabriela Alonso Martínez",
+          "popularity": 0.0482,
+          "profile_path": "/9Ul62Mb44mrl92tehI5xzS9eluF.jpg",
+          "credit_id": "5fc3a5780328b9003d698c44",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2874649,
+          "known_for_department": "Directing",
+          "name": "Gabriela Alma",
+          "original_name": "Gabriela Alonso Martínez",
+          "popularity": 0.0482,
+          "profile_path": "/9Ul62Mb44mrl92tehI5xzS9eluF.jpg",
+          "credit_id": "5fc3a4eb813cb6003f763a8b",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2021-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

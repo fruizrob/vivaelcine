@@ -1,0 +1,471 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/522999?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:31.798Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 522999,
+    "imdb_id": "tt2413056",
+    "origin_country": [
+      "DK"
+    ],
+    "original_language": "da",
+    "original_title": "Vor fælles Ven",
+    "overview": "",
+    "popularity": 0.5139,
+    "poster_path": "/39EdCZJC0cRpArcufbhhJv6DoZK.jpg",
+    "production_companies": [
+      {
+        "id": 235,
+        "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
+        "name": "Nordisk Film Denmark",
+        "origin_country": "DK"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DK",
+        "name": "Denmark"
+      }
+    ],
+    "release_date": "1921-06-05",
+    "revenue": 0,
+    "runtime": 142,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Vor fælles Ven",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1268724,
+          "known_for_department": "Acting",
+          "name": "Peter Fjelstrup",
+          "original_name": "Peter Fjelstrup",
+          "popularity": 0.3316,
+          "profile_path": "/vD2sRrqKbWvUPkuvSip2gfz6ZJp.jpg",
+          "cast_id": 3,
+          "character": "Gaffer Hexam",
+          "credit_id": "5d3275462f8d090012d9a1ec",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1129187,
+          "known_for_department": "Acting",
+          "name": "Karen Caspersen",
+          "original_name": "Karen Caspersen",
+          "popularity": 0.2756,
+          "profile_path": "/4m1HzGKa9FlXjG5dHBbflEZBwE.jpg",
+          "cast_id": 4,
+          "character": "Lizzie Hexam",
+          "credit_id": "5d327552caab6d1640a71628",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1272738,
+          "known_for_department": "Acting",
+          "name": "Svend Kornbeck",
+          "original_name": "Svend Kornbeck",
+          "popularity": 0.1971,
+          "profile_path": "/zSzQYwV7WoGCWMAQiCOijtnT0KQ.jpg",
+          "cast_id": 5,
+          "character": "Roger Riderhood",
+          "credit_id": "5d32755b2f8d095259d8ee1b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1162027,
+          "known_for_department": "Acting",
+          "name": "Charles Wilken",
+          "original_name": "Charles Wilken",
+          "popularity": 0.2428,
+          "profile_path": "/fVuQc49egpgrJoLeD3fJBJIl5Iv.jpg",
+          "cast_id": 14,
+          "character": "Mr. Venus",
+          "credit_id": "67208026427c5c19f026968c",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 578993,
+          "known_for_department": "Acting",
+          "name": "Aage Fønss",
+          "original_name": "Aage Fønss",
+          "popularity": 0.3134,
+          "profile_path": "/vNBJbfw8ycC30MtH4HJjpuSZm7x.jpg",
+          "cast_id": 18,
+          "character": "John Harmon / Julius Handford / J. Rokesmith",
+          "credit_id": "672080eb27bd57d91f63517e",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 117942,
+          "known_for_department": "Acting",
+          "name": "Peter Malberg",
+          "original_name": "Peter Malberg",
+          "popularity": 0.3174,
+          "profile_path": "/oyH7exq1S6RkLLflCQ4rHMz58fr.jpg",
+          "cast_id": 17,
+          "character": "Eugene Wrayburn",
+          "credit_id": "672080ca6d6b705dc8721308",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1268909,
+          "known_for_department": "Acting",
+          "name": "Henny Lauritzen",
+          "original_name": "Henny Lauritzen",
+          "popularity": 0.3197,
+          "profile_path": "/jmc2clM11gWK6ti5GFI0makTBK5.jpg",
+          "cast_id": 16,
+          "character": "Mrs. Wilfer",
+          "credit_id": "6720808a6d6b705dc87212df",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2922004,
+          "known_for_department": "Acting",
+          "name": "Carl Madsen",
+          "original_name": "Carl Madsen",
+          "popularity": 0.1042,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Reginald Wilfer",
+          "credit_id": "6720806e769107d77b487090",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3107227,
+          "known_for_department": "Acting",
+          "name": "Kate Riise",
+          "original_name": "Kate Riise",
+          "popularity": 0.1356,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Bella Wilfer",
+          "credit_id": "67207f204be15469e70e63e1",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5028924,
+          "known_for_department": "Acting",
+          "name": "Bertel Krause",
+          "original_name": "Bertel Krause",
+          "popularity": 0.0379,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Silas Wegg",
+          "credit_id": "67207fc94be15469e70e6425",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1086984,
+          "known_for_department": "Acting",
+          "name": "Egill Rostrup",
+          "original_name": "Egill Rostrup",
+          "popularity": 0.0986,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Mortimer Lightwood",
+          "credit_id": "5d3275612f8d095259d8ee5d",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1273027,
+          "known_for_department": "Acting",
+          "name": "Alfred Møller",
+          "original_name": "Alfred Møller",
+          "popularity": 0.0373,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Mr. Boffin",
+          "credit_id": "63b1eabb4544af00d34dec58",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1204605,
+          "known_for_department": "Acting",
+          "name": "Jonna Neiiendam",
+          "original_name": "Jonna Neiiendam",
+          "popularity": 0.1573,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Mrs. Boffin",
+          "credit_id": "67207ef94be15469e70e63be",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5028920,
+          "known_for_department": "Acting",
+          "name": "Ingeborg Frölich",
+          "original_name": "Ingeborg Frölich",
+          "popularity": 0.0569,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Jenny Wren",
+          "credit_id": "67207fa26d6b705dc8721266",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6280386,
+          "known_for_department": "Acting",
+          "name": "Peter Nielsen",
+          "original_name": "Peter Nielsen",
+          "popularity": 0.0874,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Bradley Headstone",
+          "credit_id": "6a2bae77ec69bc97bfe5d01e",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1435764,
+          "known_for_department": "Acting",
+          "name": "Kai Kilian",
+          "original_name": "Kai Kilian",
+          "popularity": 0.0919,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Charlie Hexam",
+          "credit_id": "6a2baeb6d33208013416b5ba",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1272622,
+          "known_for_department": "Acting",
+          "name": "Moritz Bielawski",
+          "original_name": "Moritz Bielawski",
+          "popularity": 0.2629,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "",
+          "credit_id": "6a2baed011e792e2b8222f1b",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 568921,
+          "known_for_department": "Acting",
+          "name": "Rasmus Christiansen",
+          "original_name": "Rasmus Christiansen",
+          "popularity": 0.2545,
+          "profile_path": "/292Pbv4oEcNo7bXoiKjLgSqNfJz.jpg",
+          "cast_id": 23,
+          "character": "",
+          "credit_id": "6a2baf052a3df4ac93c23c8e",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1272693,
+          "known_for_department": "Acting",
+          "name": "Betzy Kofoed",
+          "original_name": "Betzy Kofoed",
+          "popularity": 0.2285,
+          "profile_path": "/nTKTMnQNeInKm1lmdTfBikU1oAn.jpg",
+          "cast_id": 24,
+          "character": "",
+          "credit_id": "6a2baf147dbc6e391dc23926",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1268705,
+          "known_for_department": "Acting",
+          "name": "Astrid Krygell",
+          "original_name": "Astrid Krygell",
+          "popularity": 0.1505,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "",
+          "credit_id": "6a2baf1ec1739db14d5002c5",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1272621,
+          "known_for_department": "Acting",
+          "name": "Carl Lauritzen",
+          "original_name": "Carl Lauritzen",
+          "popularity": 0.3654,
+          "profile_path": "/b5S0p7LIgJleMAZUoGQgexBZjvR.jpg",
+          "cast_id": 26,
+          "character": "",
+          "credit_id": "6a2baf311595dd024b5002fe",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 591198,
+          "known_for_department": "Acting",
+          "name": "Carl Schenstrøm",
+          "original_name": "Carl Schenstrøm",
+          "popularity": 0.1869,
+          "profile_path": "/e8rJKXjL38FlI01CLD2FHJ4YXfN.jpg",
+          "cast_id": 27,
+          "character": "",
+          "credit_id": "6a2baf45d33208013416b5c1",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 222684,
+          "known_for_department": "Acting",
+          "name": "Clara Schønfeld",
+          "original_name": "Clara Schønfeld",
+          "popularity": 0.2272,
+          "profile_path": "/eax6hISAFTxZ5BjgMga9VfSE9k.jpg",
+          "cast_id": 28,
+          "character": "",
+          "credit_id": "6a2baf55eb63a36b6b223047",
+          "order": 22
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1086977,
+          "known_for_department": "Directing",
+          "name": "A.W. Sandberg",
+          "original_name": "A.W. Sandberg",
+          "popularity": 0.1531,
+          "profile_path": null,
+          "credit_id": "5af183a59251411eca004790",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3557,
+          "known_for_department": "Writing",
+          "name": "Charles Dickens",
+          "original_name": "Charles Dickens",
+          "popularity": 0.7128,
+          "profile_path": "/vuy9knaprX05bT4WNJki5iDPfsK.jpg",
+          "credit_id": "5d3274ff2f8d095259d8ed2d",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1470223,
+          "known_for_department": "Writing",
+          "name": "Laurids Skands",
+          "original_name": "Laurids Skands",
+          "popularity": 0.1759,
+          "profile_path": null,
+          "credit_id": "5d3275076a300b5922aef37f",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29034,
+          "known_for_department": "Art",
+          "name": "Carlo Jacobsen",
+          "original_name": "Carlo Jacobsen",
+          "popularity": 0.1069,
+          "profile_path": null,
+          "credit_id": "67207e6dc7802cc5035aa36f",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1128237,
+          "known_for_department": "Camera",
+          "name": "Einar Olsen",
+          "original_name": "Einar Olsen",
+          "popularity": 0.17,
+          "profile_path": null,
+          "credit_id": "6a2bad0b49405c5072dbd92c",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1921-06-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

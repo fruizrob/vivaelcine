@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Caer%C3%A1+el+morro+y+marchar%C3%A1n+sus+hijos&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:46.405Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/zIkTJcQSU7SfJ1PJzkjdZLuuYJc.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1709895,
+        "title": "Caerá el Morro y Marcharán sus Hijos",
+        "original_language": "es",
+        "original_title": "Caerá el Morro y Marcharán sus Hijos",
+        "overview": "",
+        "popularity": 0.1002,
+        "poster_path": "/fmsKRaSJaafULn9gu4f51HwNEws.jpg",
+        "release_date": "",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1559181?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:27.986Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/tU3MvmQSUAWCO18TRr6yIqNpmqZ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1559181,
+    "imdb_id": "tt36454257",
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_title": "Michelle Ross: Unknown Icon",
+    "overview": "",
+    "popularity": 0.3919,
+    "poster_path": "/jeLoBsfp9f5CJyxT0ERnOi4nGWI.jpg",
+    "production_companies": [
+      {
+        "id": 174173,
+        "logo_path": "/yJg3tCzCpDFxZLX2bxAHsxFC2F9.png",
+        "name": "CBC Docs",
+        "origin_country": "CA"
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2025-10-08",
+    "revenue": 0,
+    "runtime": 44,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Michelle Ross: Unknown Icon",
+    "video": false,
+    "vote_average": 1,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2675438,
+          "known_for_department": "Directing",
+          "name": "Alison Duke",
+          "original_name": "Alison Duke",
+          "popularity": 0.2433,
+          "profile_path": "/qnuKWZNWZlTAA59C9S99RAVTlvf.jpg",
+          "credit_id": "692bb3a3533bbe1a2daa3f81",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "14A",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2025-10-08T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

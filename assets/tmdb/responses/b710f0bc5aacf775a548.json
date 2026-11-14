@@ -1,0 +1,50 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=El+cuerpo+de+Cristo&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:07.453Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/lEdvjq6eYxJYv1iSvl0SjSM9knc.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
+        "id": 1570967,
+        "title": "El cuerpo de Cristo",
+        "original_language": "es",
+        "original_title": "El cuerpo de Cristo",
+        "overview": "Adela padece un trastorno mental que no reconoce como tal, lo que la lleva a buscar la solución en la religión y en los ritos populares. La protagonista se siente incomprendida tanto por su familia como por el entorno médico y psiquiátrico, donde la medicación se presenta como el remedio absoluto a todos sus problemas. Pero ella necesita que alguien escuche lo que realmente le ocurre. Cree estar vigilada, siente una presencia que a veces la toca y le hace daño dejándola prostrada en cama durante días. El único lugar donde su realidad tiene cabida es en la religión, lo que la lleva a visitar a una curandera a la que le confiesa cómo y cuándo empezó todo.",
+        "popularity": 0.8723,
+        "poster_path": "/4cPx42GlQlNusu07CnmMGjarrFU.jpg",
+        "release_date": "2025-11-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aGrjIWmXG6171tz959nZYJwVg68.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 80540,
+        "title": "Teresa, el cuerpo de Cristo",
+        "original_language": "es",
+        "original_title": "Teresa, el cuerpo de Cristo",
+        "overview": "Siglo XVI. Teresa de Cepeda y Ahumada es la hija de un hidalgo de Ávila que se resiste a aceptar su rol de mujer en un mundo de hombres: no quiere limitarse a ser esposa y madre. Siente que tiene que haber algo más elevado. Quiere escribir, quiere leer, quiere aprender. En busca de ese “algo” que le falta, ingresa en un convento de clausura. Su decepción no puede ser mayor: tras las paredes del claustro reina el materialismo y la misma frivolidad de los que ella viene huyendo. Así, decide iniciar una cruzada de oración y sacrificio que la convierten primero en una rebelde y una loca, más tarde en una líder y, finalmente en una santa. Esta es la crónica de una mujer única para un tiempo difícil. Una mujer hermosa y fuerte que luchó contra el mundo y salió ganando en su día y en la historia...",
+        "popularity": 0.8591,
+        "poster_path": "/z7nMnJLP8oO4edyJEHmJRXTLWXU.jpg",
+        "release_date": "2007-03-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 15
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  }
+}

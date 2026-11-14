@@ -1,0 +1,151 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/470552?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:09.311Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 470552,
+    "imdb_id": null,
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Miriam",
+    "overview": "",
+    "popularity": 0.247,
+    "poster_path": "/AfyrJCW6SwLgp6IjAABtbe2jGLK.jpg",
+    "production_companies": [
+      {
+        "id": 31052,
+        "logo_path": "/pJgQoO1PyJdhOP1UOrVsDeolYw7.png",
+        "name": "Deutsche Film- und Fernsehakademie Berlin (DFFB)",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "1969-12-31",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Miriam",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1868157,
+          "known_for_department": "Acting",
+          "name": "Lieselotte Marggraf",
+          "original_name": "Lieselotte Marggraf",
+          "popularity": 0.0888,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Miriam Kirschke",
+          "credit_id": "598ebd4b925141675f00c19e",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1868158,
+          "known_for_department": "Acting",
+          "name": "Sabine Krüger",
+          "original_name": "Sabine Krüger",
+          "popularity": 0.1386,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Young Girl Miriam",
+          "credit_id": "598ebd38925141674c00c272",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 64219,
+          "known_for_department": "Directing",
+          "name": "Daniel Schmid",
+          "original_name": "Daniel Schmid",
+          "popularity": 0.3415,
+          "profile_path": null,
+          "credit_id": "598ebcd0c3a368749300b534",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 64219,
+          "known_for_department": "Directing",
+          "name": "Daniel Schmid",
+          "original_name": "Daniel Schmid",
+          "popularity": 0.3415,
+          "profile_path": null,
+          "credit_id": "598ebcd8c3a368746100b971",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 45043,
+          "known_for_department": "Camera",
+          "name": "Jörg-Michael Baldenius",
+          "original_name": "Jörg-Michael Baldenius",
+          "popularity": 0.1987,
+          "profile_path": null,
+          "credit_id": "671f08111ea33928297dac32",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-12-31T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

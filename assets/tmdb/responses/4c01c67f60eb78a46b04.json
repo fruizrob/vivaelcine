@@ -1,0 +1,222 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/622776?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:19.067Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 622776,
+    "imdb_id": "tt5661054",
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "La ciudad de las réplicas",
+    "overview": "La Ciudad de las Réplicas es Famaillá, una localidad tucumana gobernada por los Mellizos Orellana, dos hermanos obsesionados por construir réplicas arquitectónicas y por consolidar a la ciudad como la Capital Nacional de los Mellizos.",
+    "popularity": 0.3649,
+    "poster_path": "/fMhFguzPaHOd5cRCCQMJ0vOzJPL.jpg",
+    "production_companies": [
+      {
+        "id": 135062,
+        "logo_path": "/zPQGuQgmKZQXc75rDD6BNFnT8qp.png",
+        "name": "Rita Cine",
+        "origin_country": "AR"
+      },
+      {
+        "id": 211552,
+        "logo_path": null,
+        "name": "Achilata Producciones",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2016-04-01",
+    "revenue": 0,
+    "runtime": 67,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La ciudad de las réplicas",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2385861,
+          "known_for_department": "Acting",
+          "name": "Enrique Orellana",
+          "original_name": "Enrique Orellana",
+          "popularity": 0.0616,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5d522db9fcb8cc0018e8886c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2385862,
+          "known_for_department": "Acting",
+          "name": "José Orellana",
+          "original_name": "José Orellana",
+          "popularity": 0.0816,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5d522dc64fd1410017a83a86",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2750519,
+          "known_for_department": "Camera",
+          "name": "Rodrigo Fafián",
+          "original_name": "Rodrigo Fafián",
+          "popularity": 0.0491,
+          "profile_path": null,
+          "credit_id": "653301d5b2681f011ba496a3",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3663723,
+          "known_for_department": "Sound",
+          "name": "Ramiro Mansilla Pons",
+          "original_name": "Ramiro Mansilla Pons",
+          "popularity": 0.0425,
+          "profile_path": null,
+          "credit_id": "653301e248138200c5e44ebc",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1827676,
+          "known_for_department": "Art",
+          "name": "Malcolm Reid",
+          "original_name": "Malcolm Reid",
+          "popularity": 0.1925,
+          "profile_path": null,
+          "credit_id": "653302016f8d95010bbd3be8",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2495783,
+          "known_for_department": "Editing",
+          "name": "Damián Tetelbaum",
+          "original_name": "Damián Tetelbaum",
+          "popularity": 0.2386,
+          "profile_path": null,
+          "credit_id": "653302089ac53508763d2fd4",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3336452,
+          "known_for_department": "Production",
+          "name": "Laura Mara Tablón",
+          "original_name": "Laura Mara Tablón",
+          "popularity": 0.044,
+          "profile_path": "/am0f5kWEAxKZaB47CfyMo0YQwwK.jpg",
+          "credit_id": "653302136f8d95012cd131f5",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2279216,
+          "known_for_department": "Writing",
+          "name": "Mariapaula Rithner",
+          "original_name": "Mariapaula Rithner",
+          "popularity": 0.0721,
+          "profile_path": null,
+          "credit_id": "653302218d22fc00ea6d452b",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2385863,
+          "known_for_department": "Directing",
+          "name": "Belina Zavadisca",
+          "original_name": "Belina Zavadisca",
+          "popularity": 0.1079,
+          "profile_path": null,
+          "credit_id": "5d522dd96f974600149b72f6",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2385863,
+          "known_for_department": "Directing",
+          "name": "Belina Zavadisca",
+          "original_name": "Belina Zavadisca",
+          "popularity": 0.1079,
+          "profile_path": null,
+          "credit_id": "5d522de26f974600159b722b",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2016-04-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

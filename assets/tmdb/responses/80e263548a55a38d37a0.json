@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Mnema&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:09.242Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1699981,
+        "title": "Mnema",
+        "original_language": "en",
+        "original_title": "Mnema",
+        "overview": "",
+        "popularity": 0.0757,
+        "poster_path": "/wIrZqXYF5qHeLCgh2xbsPMJK6An.jpg",
+        "release_date": "2026-06-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

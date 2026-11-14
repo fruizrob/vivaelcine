@@ -1,0 +1,151 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/372357?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:01.375Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 372357,
+    "imdb_id": "tt2534584",
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Paulina",
+    "overview": "",
+    "popularity": 0.15,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 117,
+        "logo_path": "/twj6GjwWKt23x21fkxItt7v7lEQ.png",
+        "name": "Kunsthochschule für Medien Köln",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2012-03-17",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Paulina",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 570243,
+          "known_for_department": "Acting",
+          "name": "Karolina Porcari",
+          "original_name": "Karolina Porcari",
+          "popularity": 0.3126,
+          "profile_path": "/gGMSzD83Ew2FGBP4yzartEaKpUK.jpg",
+          "cast_id": 3,
+          "character": "Paulina",
+          "credit_id": "566cf9d0c3a36833b600a003",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 71459,
+          "known_for_department": "Acting",
+          "name": "Sophie Rogall",
+          "original_name": "Sophie Rogall",
+          "popularity": 0.2881,
+          "profile_path": "/aUsiw4bBP1Zd6ibbY3Rdjt1fXYz.jpg",
+          "cast_id": 4,
+          "character": "Anna",
+          "credit_id": "566cf9edc3a368535a00ac17",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1548344,
+          "known_for_department": "Writing",
+          "name": "Lynn Kossler",
+          "original_name": "Lynn Kossler",
+          "popularity": 0.1128,
+          "profile_path": null,
+          "credit_id": "566cf989c3a36833b6009ff4",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1548344,
+          "known_for_department": "Writing",
+          "name": "Lynn Kossler",
+          "original_name": "Lynn Kossler",
+          "popularity": 0.1128,
+          "profile_path": null,
+          "credit_id": "566cf9929251412dbc00529e",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1548345,
+          "known_for_department": "Editing",
+          "name": "Daniel Scheuch",
+          "original_name": "Daniel Scheuch",
+          "popularity": 0.1215,
+          "profile_path": null,
+          "credit_id": "566cf9a4925141664f00a262",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "0",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2012-03-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

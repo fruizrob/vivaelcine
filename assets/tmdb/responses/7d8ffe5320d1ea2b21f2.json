@@ -1,0 +1,49 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Mailin&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:56.000Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/a60Az2I5ZWlW5tEuqMGy464IaPq.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1567783,
+        "title": "Mailin",
+        "original_language": "es",
+        "original_title": "Mailin",
+        "overview": "Mientras le cuenta un cuento antes de dormir a su hija, Mailin recompone sus recuerdos. Lo que podría haber sido un cuento de hadas resulta ser la historia de una niña que sufrió abusos por parte de un sacerdote durante 15 años. Es un largo camino hacia la sanación y la justicia, pero también la oportunidad de ofrecerle a su hija la infancia que ella nunca tuvo.",
+        "popularity": 0.2894,
+        "poster_path": "/wQpGvh5OAHFH7qC6mTGD68cMArp.jpg",
+        "release_date": "2026-11-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1372220,
+        "title": "Camino a Mailín",
+        "original_language": "es",
+        "original_title": "Camino a Mailín",
+        "overview": "",
+        "popularity": 0.0808,
+        "poster_path": "/cbDR9EJwLRuCZ9rZSHSjYFpgz9O.jpg",
+        "release_date": "2024-07-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  }
+}

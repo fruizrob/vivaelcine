@@ -1,0 +1,84 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/344764?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:04.384Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 344764,
+    "imdb_id": "tt0384418",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Paulina y el cóndor",
+    "overview": "",
+    "popularity": 0.0611,
+    "poster_path": "/tn69hUMtGE5bYGM1Xxf7KN3NAVg.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1994-06-14",
+    "revenue": 0,
+    "runtime": 7,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Paulina y el cóndor",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 2,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1477698,
+          "known_for_department": "Directing",
+          "name": "Marisol Barragán",
+          "original_name": "Marisol Barragán",
+          "popularity": 0.0738,
+          "profile_path": null,
+          "credit_id": "557f74889251412f170005a0",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1994-06-14T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

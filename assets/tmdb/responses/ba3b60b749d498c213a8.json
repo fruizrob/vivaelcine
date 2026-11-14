@@ -1,0 +1,820 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/25875?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:46.587Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/tP7kiti9RdIB3ZoCC0CbAaYRMZ0.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 25875,
+    "imdb_id": "tt0486480",
+    "origin_country": [
+      "TW"
+    ],
+    "original_language": "zh",
+    "original_title": "詭絲",
+    "overview": "Un grupo de científicos liderados por Hashimoto ha conseguido capturar a el fantasma de un niño, gracias a un nuevo invento creado por ellos mismos llamado la “Esponja Menger”.",
+    "popularity": 1.0886,
+    "poster_path": "/Gz2oiJMZIVga6TTUa8G8cOEFwe.jpg",
+    "production_companies": [
+      {
+        "id": 4713,
+        "logo_path": "/pdypzFmcHh5Uvd1u4X04NRXJNlp.png",
+        "name": "CMC Entertainment",
+        "origin_country": "TW"
+      },
+      {
+        "id": 235761,
+        "logo_path": null,
+        "name": "Unit 9 Pictures",
+        "origin_country": "TW"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "TW",
+        "name": "Taiwan"
+      }
+    ],
+    "release_date": "2006-09-28",
+    "revenue": 0,
+    "runtime": 108,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Seda",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 92,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1622,
+          "known_for_department": "Acting",
+          "name": "張震",
+          "original_name": "張震",
+          "popularity": 2.5251,
+          "profile_path": "/tkROVkn6yoqF3AcQ4hneOursHXR.jpg",
+          "cast_id": 9,
+          "character": "Tung",
+          "credit_id": "52fe44e1c3a368484e03c2e3",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 55784,
+          "known_for_department": "Acting",
+          "name": "江口洋介",
+          "original_name": "江口洋介",
+          "popularity": 1.9108,
+          "profile_path": "/lRLNrQ4Nv4CdWxWwAUQsu3p3NGR.jpg",
+          "cast_id": 12,
+          "character": "Hashimoto",
+          "credit_id": "547c04c89251412d75001b37",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 126345,
+          "known_for_department": "Acting",
+          "name": "林嘉欣",
+          "original_name": "林嘉欣",
+          "popularity": 1.2138,
+          "profile_path": "/vAVVDVf9NZC88rnRRFg0FqayXEH.jpg",
+          "cast_id": 5,
+          "character": "Wei",
+          "credit_id": "52fe44e1c3a368484e03c2cd",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 96611,
+          "known_for_department": "Acting",
+          "name": "Barbie Hsu",
+          "original_name": "徐熙媛",
+          "popularity": 0.879,
+          "profile_path": "/fsBEAJlHtGJ58wIvrqMKUeKNYqx.jpg",
+          "cast_id": 4,
+          "character": "Su",
+          "credit_id": "52fe44e1c3a368484e03c2c9",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 64440,
+          "known_for_department": "Acting",
+          "name": "陳柏霖",
+          "original_name": "陳柏霖",
+          "popularity": 1.07,
+          "profile_path": "/w89BYi3LaMFROA9gTw2vWPVcbda.jpg",
+          "cast_id": 10,
+          "character": "Ren",
+          "credit_id": "5475684ec3a3683fe0002b16",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1133858,
+          "known_for_department": "Acting",
+          "name": "戴立忍",
+          "original_name": "戴立忍",
+          "popularity": 0.9117,
+          "profile_path": "/goUmabqYbnDBc1HocW2pW8lNjln.jpg",
+          "cast_id": 11,
+          "character": "SWAT Leader",
+          "credit_id": "54756853c3a368364c001c26",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1937032,
+          "known_for_department": "Acting",
+          "name": "Kevin S. Smith",
+          "original_name": "Kevin S. Smith",
+          "popularity": 0.0826,
+          "profile_path": null,
+          "cast_id": 58,
+          "character": "James",
+          "credit_id": "653eb579519bbb00ab695f7c",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 564891,
+          "known_for_department": "Acting",
+          "name": "張鈞甯",
+          "original_name": "張鈞甯",
+          "popularity": 2.2646,
+          "profile_path": "/xNov6ffJ8dZCPUxO6g1nWnmdXM2.jpg",
+          "cast_id": 40,
+          "character": "Mei",
+          "credit_id": "64abaae53e2ec800ec87a819",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2508555,
+          "known_for_department": "Acting",
+          "name": "萬芳",
+          "original_name": "萬芳",
+          "popularity": 0.6752,
+          "profile_path": "/jA2yRGldsDBi4uzNqXBcFMOA9au.jpg",
+          "cast_id": 41,
+          "character": "Ghost Mother",
+          "credit_id": "64ababbffa78cd00c51e0018",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1270220,
+          "known_for_department": "Acting",
+          "name": "Kuan-Po Chen",
+          "original_name": "Kuan-Po Chen",
+          "popularity": 0.1356,
+          "profile_path": "/9jkHAc3DVD4Lro4bNgewhp6wE7H.jpg",
+          "cast_id": 42,
+          "character": "Ghost Child",
+          "credit_id": "64abac09b686b9015010a042",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4155065,
+          "known_for_department": "Acting",
+          "name": "馬之秦",
+          "original_name": "馬之秦",
+          "popularity": 0.3769,
+          "profile_path": "/x3wFbAfhzz8DuzMI2n6iBLJuNi2.jpg",
+          "cast_id": 43,
+          "character": "Tung's Mother",
+          "credit_id": "64abb406fa78cd011cfb320a",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 70120,
+          "known_for_department": "Acting",
+          "name": "Masane Tsukayama",
+          "original_name": "津嘉山正種",
+          "popularity": 1.3378,
+          "profile_path": "/7zeWvl3m6EAqCL0TKwGL3hVso3F.jpg",
+          "cast_id": 44,
+          "character": "Director of Japan",
+          "credit_id": "64abb59c8a0e9b011d8bcd77",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1107222,
+          "known_for_department": "Acting",
+          "name": "吳朋奉",
+          "original_name": "吳朋奉",
+          "popularity": 0.4417,
+          "profile_path": "/vuknxJeOV1PEiZ1WZPEGfVYbxmp.jpg",
+          "cast_id": 45,
+          "character": "Bomb Squad A",
+          "credit_id": "64abb70a8a0e9b011d8bce68",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 581855,
+          "known_for_department": "Acting",
+          "name": "黃健瑋",
+          "original_name": "黃健瑋",
+          "popularity": 0.694,
+          "profile_path": "/mqgxq8vVRYB0OUtIOKkeaujqREV.jpg",
+          "cast_id": 46,
+          "character": "Bomb Squad B",
+          "credit_id": "64abb71d6a344800c9fbc551",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 26731,
+          "known_for_department": "Camera",
+          "name": "黃岳泰",
+          "original_name": "黃岳泰",
+          "popularity": 0.5264,
+          "profile_path": "/lvl5vYoEbkguwaP3uuPdAD90UHa.jpg",
+          "cast_id": 48,
+          "character": "Sheriff",
+          "credit_id": "64abb754fa78cd00c51e07d8",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2626318,
+          "known_for_department": "Acting",
+          "name": "馬汀尼",
+          "original_name": "馬汀尼",
+          "popularity": 0.1818,
+          "profile_path": "/ab0tqL4n3ysOFdY1axYshUo4Hya.jpg",
+          "cast_id": 50,
+          "character": "Doctor A",
+          "credit_id": "653eb2d5cc968300c9e48763",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3277519,
+          "known_for_department": "Acting",
+          "name": "安原良",
+          "original_name": "安原良",
+          "popularity": 0.1141,
+          "profile_path": "/jqX3IaZDhy5hPDBpeBHpvtfVVYZ.jpg",
+          "cast_id": 51,
+          "character": "Doctor B",
+          "credit_id": "653eb2e9109cd0012cffd1b2",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2848385,
+          "known_for_department": "Acting",
+          "name": "Hao-Chin Peng",
+          "original_name": "Hao-Chin Peng",
+          "popularity": 0.1689,
+          "profile_path": null,
+          "cast_id": 52,
+          "character": "Man on the Bus",
+          "credit_id": "653eb3003081310100c70c0d",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1300132,
+          "known_for_department": "Acting",
+          "name": "夏靖庭",
+          "original_name": "夏靖庭",
+          "popularity": 0.8172,
+          "profile_path": "/cmoioYTVZo7PEOoLIcuw098DAV3.jpg",
+          "cast_id": 53,
+          "character": "Policeman A",
+          "credit_id": "653eb31550733c013e34f3b1",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 69827,
+          "known_for_department": "Acting",
+          "name": "段鈞豪",
+          "original_name": "段鈞豪",
+          "popularity": 0.538,
+          "profile_path": "/3yFTF94PfNlChF5509FHelNnhA0.jpg",
+          "cast_id": 54,
+          "character": "Policeman B",
+          "credit_id": "653eb329308131011d8d8042",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3849560,
+          "known_for_department": "Acting",
+          "name": "Anko",
+          "original_name": "Anko",
+          "popularity": 0.0785,
+          "profile_path": null,
+          "cast_id": 55,
+          "character": "SWAT Team",
+          "credit_id": "653eb35f109cd000eae41864",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3092505,
+          "known_for_department": "Acting",
+          "name": "Huang Wei-Chieh",
+          "original_name": "Huang Wei-Chieh",
+          "popularity": 0.0567,
+          "profile_path": null,
+          "cast_id": 56,
+          "character": "SWAT Team",
+          "credit_id": "653eb380519bbb00fe5d1218",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2508556,
+          "known_for_department": "Acting",
+          "name": "Ting-Chien Wu",
+          "original_name": "Ting-Chien Wu",
+          "popularity": 0.307,
+          "profile_path": "/tzMqvLFoTSJ9YHsIl0IdDOuEQqZ.jpg",
+          "cast_id": 57,
+          "character": "SWAT Team",
+          "credit_id": "653eb3a5e894a6011ca4300b",
+          "order": 22
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 554948,
+          "known_for_department": "Writing",
+          "name": "Su Chaobin",
+          "original_name": "Su Chaobin",
+          "popularity": 0.3898,
+          "profile_path": "/uVO1XV7KPFYdZIizKUnvGdn3Ucx.jpg",
+          "credit_id": "52fe44e1c3a368484e03c2d9",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 554948,
+          "known_for_department": "Writing",
+          "name": "Su Chaobin",
+          "original_name": "Su Chaobin",
+          "popularity": 0.3898,
+          "profile_path": "/uVO1XV7KPFYdZIizKUnvGdn3Ucx.jpg",
+          "credit_id": "52fe44e1c3a368484e03c2df",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 63574,
+          "known_for_department": "Editing",
+          "name": "張嘉輝",
+          "original_name": "張嘉輝",
+          "popularity": 0.5911,
+          "profile_path": null,
+          "credit_id": "651d09cdf04d01011c45210b",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 26731,
+          "known_for_department": "Camera",
+          "name": "黃岳泰",
+          "original_name": "黃岳泰",
+          "popularity": 0.5264,
+          "profile_path": "/lvl5vYoEbkguwaP3uuPdAD90UHa.jpg",
+          "credit_id": "66698ef371c5b381a0c82f09",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 66053,
+          "known_for_department": "Sound",
+          "name": "金培達",
+          "original_name": "金培達",
+          "popularity": 0.3855,
+          "profile_path": "/2Z6qKJWE8V041HtPO2yWmjfO7I3.jpg",
+          "credit_id": "66698f004837cebaaea7271b",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6444,
+          "known_for_department": "Art",
+          "name": "種田陽平",
+          "original_name": "種田陽平",
+          "popularity": 1.0621,
+          "profile_path": "/8OqwMCGtS93APYnSS35DJw0C7zS.jpg",
+          "credit_id": "64aba1013e2ec8010dac7506",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1452257,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Paul Katte",
+          "original_name": "Paul Katte",
+          "popularity": 0.1393,
+          "profile_path": null,
+          "credit_id": "64aba1d4e24b9300aee2ee0c",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Effects Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1760582,
+          "known_for_department": "Editing",
+          "name": "顧曉芸",
+          "original_name": "顧曉芸",
+          "popularity": 0.1163,
+          "profile_path": null,
+          "credit_id": "64aba1f1fa78cd00adc1be07",
+          "department": "Editing",
+          "job": "Editorial Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1452258,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Nick Nicolaou",
+          "original_name": "Nick Nicolaou",
+          "popularity": 0.1447,
+          "profile_path": null,
+          "credit_id": "64aba215fa78cd011cfb2420",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Effects Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4155016,
+          "known_for_department": "Production",
+          "name": "Wei-liu Wang",
+          "original_name": "Wei-liu Wang",
+          "popularity": 0.0666,
+          "profile_path": null,
+          "credit_id": "64aba2333e2ec8010dac75f7",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 937403,
+          "known_for_department": "Production",
+          "name": "黃志明",
+          "original_name": "黃志明",
+          "popularity": 0.2003,
+          "profile_path": "/8XmAf6IN81hS6kiNFiUyhr40y0g.jpg",
+          "credit_id": "64aba2663e2ec8012ee43968",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 589024,
+          "known_for_department": "Directing",
+          "name": "連奕琦",
+          "original_name": "連奕琦",
+          "popularity": 0.6443,
+          "profile_path": "/ui7M7yotYYPa5BHNMeZubBGVBZ6.jpg",
+          "credit_id": "64aba295fa78cd00e25cce36",
+          "department": "Production",
+          "job": "Location Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 581819,
+          "known_for_department": "Production",
+          "name": "安哲毅",
+          "original_name": "安哲毅",
+          "popularity": 0.1313,
+          "profile_path": "/hnB8lZFAshOlFI0hXGdsUiuDA7j.jpg",
+          "credit_id": "64aba2a6fa78cd00e25cce43",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1758847,
+          "known_for_department": "Visual Effects",
+          "name": "黃宏達",
+          "original_name": "黃宏達",
+          "popularity": 0.3076,
+          "profile_path": null,
+          "credit_id": "64aba3018a0e9b011d8bbfe6",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 28095,
+          "known_for_department": "Visual Effects",
+          "name": "黃宏顯",
+          "original_name": "黃宏顯",
+          "popularity": 0.1384,
+          "profile_path": null,
+          "credit_id": "64aba3198a0e9b00c6cb9d1a",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1576907,
+          "known_for_department": "Directing",
+          "name": "Sing-Choong Foo",
+          "original_name": "Sing-Choong Foo",
+          "popularity": 0.093,
+          "profile_path": null,
+          "credit_id": "64aba3568a0e9b0100c37a31",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 65931,
+          "known_for_department": "Acting",
+          "name": "董瑋",
+          "original_name": "董瑋",
+          "popularity": 1.5186,
+          "profile_path": "/qXcaPPa4or5bVTR299IZ7anp3m4.jpg",
+          "credit_id": "64aba5d966a0d300c66f4150",
+          "department": "Crew",
+          "job": "Stunts"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1117851,
+          "known_for_department": "Production",
+          "name": "Chin-Wen Huang",
+          "original_name": "Chin-Wen Huang",
+          "popularity": 0.1174,
+          "profile_path": null,
+          "credit_id": "64aba6273e2ec800af7e325d",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2143917,
+          "known_for_department": "Production",
+          "name": "唐在揚",
+          "original_name": "唐在揚",
+          "popularity": 0.2523,
+          "profile_path": "/hm2deD8kQt3A3oC3AQtDREVyphY.jpg",
+          "credit_id": "64aba653fa78cd00e25cd123",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1005818,
+          "known_for_department": "Production",
+          "name": "葉如芬",
+          "original_name": "葉如芬",
+          "popularity": 0.365,
+          "profile_path": "/dLU0lO4y3Jix3zhJt3k7G8Zf5Kv.jpg",
+          "credit_id": "64aba69e6a3448014d32c10c",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2862172,
+          "known_for_department": "Production",
+          "name": "李秀鑾",
+          "original_name": "李秀鑾",
+          "popularity": 0.0757,
+          "profile_path": null,
+          "credit_id": "64aba761e24b9300c6af9e85",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2700870,
+          "known_for_department": "Art",
+          "name": "陳柏任",
+          "original_name": "陳柏任",
+          "popularity": 0.1257,
+          "profile_path": null,
+          "credit_id": "64aba78afa78cd00c51dfcdf",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 111231,
+          "known_for_department": "Art",
+          "name": "杉本亮",
+          "original_name": "杉本亮",
+          "popularity": 0.618,
+          "profile_path": "/tsxwLAvWGQSPUrhyYkkfBwHJux5.jpg",
+          "credit_id": "64aba7a8b686b9012f87a19a",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 17117,
+          "known_for_department": "Art",
+          "name": "赤塚佳仁",
+          "original_name": "赤塚佳仁",
+          "popularity": 0.3362,
+          "profile_path": null,
+          "credit_id": "64aba7b96a3448014d32c1db",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 64429,
+          "known_for_department": "Costume & Make-Up",
+          "name": "利碧君",
+          "original_name": "利碧君",
+          "popularity": 0.5169,
+          "profile_path": null,
+          "credit_id": "64aba7d6fa78cd0139336d7d",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2007-09-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-05-24T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "zh",
+              "note": "",
+              "release_date": "2006-09-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-09-28T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "DE",
+          "title": "Seide",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "RU",
+          "title": "Шелк",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CN",
+          "title": "Gui si",
+          "type": "Romanized Mandarin"
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Silk - Der erste eingefangene Geist der Welt",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "TW",
+          "title": "TW Silk",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

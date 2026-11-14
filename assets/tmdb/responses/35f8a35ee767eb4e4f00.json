@@ -1,0 +1,139 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/585714?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:00.202Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/mfpdQFViXnVopv31NIk1Z7gGthD.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 585714,
+    "imdb_id": "tt10078502",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Stars in the Sky: A Hunting Story",
+    "overview": "Este documental presenta a un grupo de cazadores que se enfrentan a las complejidades, polémicas y contradicciones de cazar animales en plena naturaleza.",
+    "popularity": 0.5633,
+    "poster_path": "/luG3XAUFyRYrzmTSnIuZPXPH7RX.jpg",
+    "production_companies": [
+      {
+        "id": 53560,
+        "logo_path": "/mPfkW50TyMQb4U5qYsDft4bKtn8.png",
+        "name": "Zero Point Zero",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2018-11-08",
+    "revenue": 0,
+    "runtime": 69,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Estrellas en el cielo: Otra visión de la caza",
+    "video": false,
+    "vote_average": 4.2,
+    "vote_count": 6,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1321831,
+          "known_for_department": "Acting",
+          "name": "Steven Rinella",
+          "original_name": "Steven Rinella",
+          "popularity": 0.0714,
+          "profile_path": "/mpmkv8B99uBtNdrx1QMGNfOVnqb.jpg",
+          "cast_id": 1,
+          "character": "Self",
+          "credit_id": "5c7aec6d925141076948731e",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 91609,
+          "known_for_department": "Acting",
+          "name": "Joe Rogan",
+          "original_name": "Joe Rogan",
+          "popularity": 0.7919,
+          "profile_path": "/mWb6QIsGGHMdhN9yVGZXCHQIRzS.jpg",
+          "cast_id": 2,
+          "character": "Self",
+          "credit_id": "5cf60e5cc3a3684eb91e1d26",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1321831,
+          "known_for_department": "Acting",
+          "name": "Steven Rinella",
+          "original_name": "Steven Rinella",
+          "popularity": 0.0714,
+          "profile_path": "/mpmkv8B99uBtNdrx1QMGNfOVnqb.jpg",
+          "credit_id": "5f21ee64caaca200336ba818",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Source: IMDB (DOC NYC Film Festival)",
+              "release_date": "2018-11-08T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-03-01T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Stars in the Sky",
+          "type": "shorter title"
+        }
+      ]
+    }
+  }
+}

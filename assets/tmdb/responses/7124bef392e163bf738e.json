@@ -1,0 +1,89 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=All%C3%A1+en+el+cielo&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:59.514Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/80yeD2oiSPsTl3DIIFZfeeQKqN8.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1616197,
+        "title": "Allá en el cielo",
+        "original_language": "es",
+        "original_title": "Allá en el cielo",
+        "overview": "",
+        "popularity": 0.4966,
+        "poster_path": "/euyXv5b9MLGorqlKZco0UuAvNPA.jpg",
+        "release_date": "2026-02-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/17OkUnexMnrsTPfF5XLId3ATbDr.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 821625,
+        "title": "Allá en el cielo",
+        "original_language": "es",
+        "original_title": "Allá en el cielo",
+        "overview": "",
+        "popularity": 0.2231,
+        "poster_path": "/sDmWnn6JU3OK1s1G3YUrQcE9sI9.jpg",
+        "release_date": "2021-04-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7mVxlq9ln4USELWdbmulSprVMAa.jpg",
+        "genre_ids": [
+          12,
+          37,
+          10749
+        ],
+        "id": 43367,
+        "title": "Río de sangre",
+        "original_language": "en",
+        "original_title": "The Big Sky",
+        "overview": "Jim y Boone son dos exploradores que participan en una expedición por el río Missouri cuyo fin es establecer un asentamiento en territorio indio. Les acompañan un comerciante de pieles, una guía india y un indio que ha renegado de su tribu. A los peligros de la expedición se sumará la tensión que se establece entre los hombres debido a la belleza de la mujer.",
+        "popularity": 1.0885,
+        "poster_path": "/fFNzPlSe4mIvnXaTEvNQwVzYv1j.jpg",
+        "release_date": "1952-08-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 105
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mfpdQFViXnVopv31NIk1Z7gGthD.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 585714,
+        "title": "Estrellas en el cielo: Otra visión de la caza",
+        "original_language": "en",
+        "original_title": "Stars in the Sky: A Hunting Story",
+        "overview": "Este documental presenta a un grupo de cazadores que se enfrentan a las complejidades, polémicas y contradicciones de cazar animales en plena naturaleza.",
+        "popularity": 0.5633,
+        "poster_path": "/luG3XAUFyRYrzmTSnIuZPXPH7RX.jpg",
+        "release_date": "2018-11-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 6
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+  }
+}

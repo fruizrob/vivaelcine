@@ -1,0 +1,96 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1712767?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:47.251Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1712767,
+    "imdb_id": null,
+    "origin_country": [
+      "PE"
+    ],
+    "original_language": "es",
+    "original_title": "El pan nuestro de cada día",
+    "overview": "",
+    "popularity": 0.3458,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "PE",
+        "name": "Peru"
+      }
+    ],
+    "release_date": "1955-06-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "El pan nuestro de cada día",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1876838,
+          "known_for_department": "Acting",
+          "name": "Pedro Valdivieso",
+          "original_name": "Pedro Valdivieso",
+          "popularity": 0.2666,
+          "profile_path": null,
+          "credit_id": "6a2b04e3b44db4d0e78272b4",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6199224,
+          "known_for_department": "Directing",
+          "name": "Franklin Urteaga",
+          "original_name": "Franklin Urteaga",
+          "popularity": 0.0799,
+          "profile_path": null,
+          "credit_id": "6a45a393a86ef9bdea7edd9f",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1955-06-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

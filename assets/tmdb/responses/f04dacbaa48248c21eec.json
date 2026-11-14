@@ -1,0 +1,111 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/585525?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:26.773Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/nWsLD14y7DRCAfRXMKgIcOgffIB.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 585525,
+    "imdb_id": "tt9782984",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Private Life: Kyle Ross",
+    "overview": "",
+    "popularity": 0.3999,
+    "poster_path": "/7jd3FSSilAoxkDBmMe0xryCRu2D.jpg",
+    "production_companies": [
+      {
+        "id": 18269,
+        "logo_path": "/d06WEoDpgkKQXOiBM9lnUHuvpvk.png",
+        "name": "Helix Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2019-02-28",
+    "revenue": 0,
+    "runtime": 20,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Private Life: Kyle Ross",
+    "video": false,
+    "vote_average": 4.5,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": true,
+          "gender": 2,
+          "id": 1272430,
+          "known_for_department": "Acting",
+          "name": "Kyle Ross",
+          "original_name": "Kyle Ross",
+          "popularity": 0,
+          "profile_path": "/yTnSvZIh303Yzj6Gb533b12cEo7.jpg",
+          "cast_id": 1,
+          "character": "Himself",
+          "credit_id": "5c79ad38c3a36844e119a612",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": true,
+          "gender": 1,
+          "id": 1731581,
+          "known_for_department": "Directing",
+          "name": "Heidi Moore",
+          "original_name": "Heidi Moore",
+          "popularity": 0,
+          "profile_path": null,
+          "credit_id": "5c79ad589251412a5148e0a5",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2019-02-28T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

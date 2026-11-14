@@ -1,0 +1,272 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/744363?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:01.607Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 744363,
+    "imdb_id": "tt2229916",
+    "origin_country": [
+      "KH",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Paulina",
+    "overview": "",
+    "popularity": 0.277,
+    "poster_path": "/78J1u5Lw5qwLo3LKAy9EHNHAYRG.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "KH",
+        "name": "Cambodia"
+      }
+    ],
+    "release_date": "2012-04-20",
+    "revenue": 0,
+    "runtime": 29,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Khmer",
+        "iso_639_1": "km",
+        "name": ""
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Paulina",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1817021,
+          "known_for_department": "Acting",
+          "name": "Amy Pham",
+          "original_name": "Amy Pham",
+          "popularity": 0.2132,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "",
+          "credit_id": "5f64cb22ce5d8200349fe82c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1025651,
+          "known_for_department": "Acting",
+          "name": "Drea Castro",
+          "original_name": "Drea Castro",
+          "popularity": 0.3448,
+          "profile_path": "/l6HV3d5cIaRe08TD1I3nZywZOve.jpg",
+          "cast_id": 14,
+          "character": "Sopheap",
+          "credit_id": "5f64cb30dbcade00381b1886",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2783496,
+          "known_for_department": "Acting",
+          "name": "Jonathan Nhean",
+          "original_name": "Jonathan Nhean",
+          "popularity": 0.0736,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "",
+          "credit_id": "5f64cb38a0b690003833a287",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2392179,
+          "known_for_department": "Directing",
+          "name": "Caylee So",
+          "original_name": "Caylee So",
+          "popularity": 0.0687,
+          "profile_path": null,
+          "credit_id": "5f64ca2ca0b6900038339f66",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2392179,
+          "known_for_department": "Directing",
+          "name": "Caylee So",
+          "original_name": "Caylee So",
+          "popularity": 0.0687,
+          "profile_path": null,
+          "credit_id": "5f64ca37e33f83003cf5bd55",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2783481,
+          "known_for_department": "Production",
+          "name": "Perry Stallings",
+          "original_name": "Perry Stallings",
+          "popularity": 0.0439,
+          "profile_path": null,
+          "credit_id": "5f64ca44af3da60034256292",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2734990,
+          "known_for_department": "Production",
+          "name": "Neardey Trinh",
+          "original_name": "Neardey Trinh",
+          "popularity": 0.0181,
+          "profile_path": null,
+          "credit_id": "5f64ca5284448e00376a722d",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2061044,
+          "known_for_department": "Crew",
+          "name": "David Rivera",
+          "original_name": "David Rivera",
+          "popularity": 0.0499,
+          "profile_path": null,
+          "credit_id": "5f64ca5fe33f830035f43691",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2734988,
+          "known_for_department": "Editing",
+          "name": "Frank Martinez",
+          "original_name": "Frank Martinez",
+          "popularity": 0.0691,
+          "profile_path": null,
+          "credit_id": "5f64ca6c6a2227003a84a10c",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2783485,
+          "known_for_department": "Art",
+          "name": "Amy Shirley",
+          "original_name": "Amy Shirley",
+          "popularity": 0.142,
+          "profile_path": null,
+          "credit_id": "5f64ca771684f700394ffb58",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2783487,
+          "known_for_department": "Sound",
+          "name": "Lucas Zuniga",
+          "original_name": "Lucas Zuniga",
+          "popularity": 0.0445,
+          "profile_path": null,
+          "credit_id": "5f64ca8a5a78840035b45e1d",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2783488,
+          "known_for_department": "Editing",
+          "name": "Rockie Stephens",
+          "original_name": "Rockie Stephens",
+          "popularity": 0.1694,
+          "profile_path": null,
+          "credit_id": "5f64ca9884448e003667561d",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2783489,
+          "known_for_department": "Sound",
+          "name": "Bochan Huy",
+          "original_name": "Bochan Huy",
+          "popularity": 0.0122,
+          "profile_path": null,
+          "credit_id": "5f64caa3e33f830036f3597b",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1848028,
+          "known_for_department": "Sound",
+          "name": "PraCh Ly",
+          "original_name": "PraCh Ly",
+          "popularity": 0.1065,
+          "profile_path": null,
+          "credit_id": "5f64cabe6a22270037862797",
+          "department": "Sound",
+          "job": "Music"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2012-04-20T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

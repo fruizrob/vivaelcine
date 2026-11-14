@@ -1,0 +1,68 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Tauromaquia&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:06.650Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/tBvXZivAXqRTE2i7tJlE96miWMK.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 538384,
+        "title": "Tauromaquia",
+        "original_language": "es",
+        "original_title": "Tauromaquia",
+        "overview": "El dramático desenlace del encuentro entre un toro y un torero.",
+        "popularity": 0.2821,
+        "poster_path": "/yj7cIgIadLfqHteiUnmrLrzskxY.jpg",
+        "release_date": "2015-07-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 1609111,
+        "title": "Tauromaquia",
+        "original_language": "es",
+        "original_title": "Tauromaquia",
+        "overview": "",
+        "popularity": 0.296,
+        "poster_path": null,
+        "release_date": "2025-10-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pDNVSNvbKqmnmlJlpORgDS2ZP9z.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1108716,
+        "title": "Picasso y la tauromaquia",
+        "original_language": "fr",
+        "original_title": "Le minotaure, c'est moi ! Picasso et les taureaux",
+        "overview": "La tauromaquia fue una gran pasión para Pablo Picasso. Exploramos sus inicios en Málaga y seguimos su amor por los toros en París, Nîmes y Arlés, que influyó en su arte y lo convirtió en el gran artista del siglo XX.",
+        "popularity": 0.308,
+        "poster_path": "/qo6Luh77YKYPFuUtXutJuzHnaZl.jpg",
+        "release_date": "2023-04-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+  }
+}

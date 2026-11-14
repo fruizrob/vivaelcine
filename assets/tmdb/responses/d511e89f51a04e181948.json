@@ -1,0 +1,205 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1698740?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:48.285Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1698740,
+    "imdb_id": null,
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "La Ofrenda",
+    "overview": "",
+    "popularity": 0.2604,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 21,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Ofrenda",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6225891,
+          "known_for_department": "Acting",
+          "name": "Dante Limarzi",
+          "original_name": "Dante Limarzi",
+          "popularity": 0.1245,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "6a0cda545733468f4aa2aacc",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2421135,
+          "known_for_department": "Acting",
+          "name": "Pablo Limarzi",
+          "original_name": "Pablo Limarzi",
+          "popularity": 0.232,
+          "profile_path": "/bP4FuvNuEWuBdlzPb2lYAVripH8.jpg",
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "6a0cda5f373bcaf068a2ac9b",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1438612,
+          "known_for_department": "Acting",
+          "name": "Eva Bianco",
+          "original_name": "Eva Bianco",
+          "popularity": 0.3253,
+          "profile_path": "/d6ewiyd0xpbAcvH1LOEmqIGH0BE.jpg",
+          "cast_id": 10,
+          "character": "",
+          "credit_id": "6a0cda66c51cda80ce6a350e",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2325184,
+          "known_for_department": "Acting",
+          "name": "Eduardo Rivetto",
+          "original_name": "Eduardo Rivetto",
+          "popularity": 0.2925,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "",
+          "credit_id": "6a0cda7051d2746b5d6a3522",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4287196,
+          "known_for_department": "Camera",
+          "name": "Eduardo Ecker",
+          "original_name": "Eduardo Ecker",
+          "popularity": 0.1672,
+          "profile_path": null,
+          "credit_id": "6a0cd9d7a099afa7950e1862",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4287196,
+          "known_for_department": "Camera",
+          "name": "Eduardo Ecker",
+          "original_name": "Eduardo Ecker",
+          "popularity": 0.1672,
+          "profile_path": null,
+          "credit_id": "6a0cd9e14c87932ed8a2a8a3",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4101931,
+          "known_for_department": "Production",
+          "name": "Martin Granada",
+          "original_name": "Martin Granada",
+          "popularity": 0.1213,
+          "profile_path": null,
+          "credit_id": "6a0cd9ee1dc87bef5aedadeb",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2037574,
+          "known_for_department": "Camera",
+          "name": "Gustavo Schiaffino",
+          "original_name": "Gustavo Schiaffino",
+          "popularity": 0.1243,
+          "profile_path": "/9IA3Qghac7wnqTRHe2zsjigvEpy.jpg",
+          "credit_id": "6a0cd9fa1eed2443ca069cef",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2445647,
+          "known_for_department": "Production",
+          "name": "Albert Tholen",
+          "original_name": "Albert Tholen",
+          "popularity": 0.1693,
+          "profile_path": "/anYvmSiZH0JBCtEKDUIdKDAWqDL.jpg",
+          "credit_id": "6a0cda0658789fcd7aedaeaf",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2181946,
+          "known_for_department": "Art",
+          "name": "Adrián Suárez",
+          "original_name": "Adrián Suárez",
+          "popularity": 0.1929,
+          "profile_path": "/mt33qMlepQz8xAj5IQZvMKidkVV.jpg",
+          "credit_id": "6a0cda37a6583095ee069b7c",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3514221,
+          "known_for_department": "Sound",
+          "name": "Amir Sanjari",
+          "original_name": "Amir Sanjari",
+          "popularity": 0.0349,
+          "profile_path": null,
+          "credit_id": "6a0cda41a6583095ee069b7f",
+          "department": "Sound",
+          "job": "Music"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

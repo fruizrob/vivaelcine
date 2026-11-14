@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Og%C3%BA+y+Mampato&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:58.094Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/9uLKSwim3c1jt7hutVuzLlAhf5b.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 38518,
+        "title": "Ogú y Mampato en Rapa Nui",
+        "original_language": "en",
+        "original_title": "Ogú y Mampato en Rapa Nui",
+        "overview": "Mampato es un chico como otro cualquiera pero tiene algo que le hace muy especial: puede viajar a través del tiempo y el espacio con un cinturón mágico. Entusiasmado por las historias que su padre le cuenta sobre la isla de Pascua (Rapa Nui), Mampato decide viajar a la isla junto con su amigo Ogú y descubrir todos los misterios. Allí conocerán a Marama, su pequeña amiga pascuense. Y juntos desvelarán secretos increíbles de la isla y vivirán fantásticas aventuras. (FILMAFFINITY)",
+        "popularity": 0.507,
+        "poster_path": "/mWil8aIYlDu1VUtdHFqJhM6IqCP.jpg",
+        "release_date": "2002-06-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 5
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

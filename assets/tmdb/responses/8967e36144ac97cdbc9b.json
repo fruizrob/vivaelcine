@@ -1,0 +1,119 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1086784?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:27.443Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1086784,
+    "imdb_id": "tt3647140",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Alex Ross Perry",
+    "overview": "",
+    "popularity": 0.1312,
+    "poster_path": "/jkuQLlX47SHhgMTAFTMG2KVBGiL.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2014-01-01",
+    "revenue": 0,
+    "runtime": 13,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Alex Ross Perry",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1044255,
+          "known_for_department": "Directing",
+          "name": "Alex Ross Perry",
+          "original_name": "Alex Ross Perry",
+          "popularity": 0.5311,
+          "profile_path": "/roP0Q2zRDXnhh1qz6KVkg4N3fp8.jpg",
+          "cast_id": 4,
+          "character": "Self",
+          "credit_id": "63ec0311813cb6007942315d",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1192796,
+          "known_for_department": "Directing",
+          "name": "Ricky D’Ambrose",
+          "original_name": "Ricky D’Ambrose",
+          "popularity": 0.3112,
+          "profile_path": "/bjco5QowWNtMLTIZve37f3Hpw4L.jpg",
+          "credit_id": "63ec02de813cb600dc06f20a",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1192796,
+          "known_for_department": "Directing",
+          "name": "Ricky D’Ambrose",
+          "original_name": "Ricky D’Ambrose",
+          "popularity": 0.3112,
+          "profile_path": "/bjco5QowWNtMLTIZve37f3Hpw4L.jpg",
+          "credit_id": "63ec02ec8e8702007a1a25ac",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1192796,
+          "known_for_department": "Directing",
+          "name": "Ricky D’Ambrose",
+          "original_name": "Ricky D’Ambrose",
+          "popularity": 0.3112,
+          "profile_path": "/bjco5QowWNtMLTIZve37f3Hpw4L.jpg",
+          "credit_id": "63ec02fc699fb700cee1089c",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2014-01-01T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

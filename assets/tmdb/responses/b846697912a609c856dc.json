@@ -1,0 +1,147 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/869983?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:01.564Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 1000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 869983,
+    "imdb_id": null,
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Pan",
+    "overview": "",
+    "popularity": 0.1462,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 160166,
+        "logo_path": null,
+        "name": "Far Off Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2021-08-31",
+    "revenue": 0,
+    "runtime": 8,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pan",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3160666,
+          "known_for_department": "Acting",
+          "name": "Landon Sweeney",
+          "original_name": "Landon Sweeney",
+          "popularity": 0.0916,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Charles",
+          "credit_id": "6131546cb3f6f500428c1f92",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3220594,
+          "known_for_department": "Acting",
+          "name": "Lorna Hughes",
+          "original_name": "Lorna Hughes",
+          "popularity": 0.0514,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "613154a8f706de0044e294e7",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3220596,
+          "known_for_department": "Acting",
+          "name": "Geoff Edkins",
+          "original_name": "Geoff Edkins",
+          "popularity": 0.0669,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "613154e6924ce50043444d93",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3220601,
+          "known_for_department": "Camera",
+          "name": "Curtis James",
+          "original_name": "Curtis James",
+          "popularity": 0.0305,
+          "profile_path": null,
+          "credit_id": "613155bc5e12000043976afa",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3220600,
+          "known_for_department": "Directing",
+          "name": "William PatrickRoberts",
+          "original_name": "William PatrickRoberts",
+          "popularity": 0.0371,
+          "profile_path": null,
+          "credit_id": "613155a96cf3d5004280e986",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "PG",
+              "descriptors": [],
+              "iso_639_1": "English ",
+              "note": "",
+              "release_date": "2021-08-31T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

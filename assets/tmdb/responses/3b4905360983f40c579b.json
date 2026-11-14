@@ -1,0 +1,195 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1609111?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:07.040Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1609111,
+    "imdb_id": null,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Tauromaquia",
+    "overview": "",
+    "popularity": 0.3073,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2025-10-07",
+    "revenue": 0,
+    "runtime": 14,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Tauromaquia",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3565153,
+          "known_for_department": "Acting",
+          "name": "Pablo Aguado",
+          "original_name": "Pablo Aguado",
+          "popularity": 0.0955,
+          "profile_path": "/oOTmKlWD26s14cuw6JoauUUQ9C6.jpg",
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "695921844620527137cc91a6",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 932161,
+          "known_for_department": "Directing",
+          "name": "Albert Serra",
+          "original_name": "Albert Serra",
+          "popularity": 0.7015,
+          "profile_path": "/4ubbOopSH7dmxTuT9v7UkMOIXPy.jpg",
+          "credit_id": "69591fbeb460c4b4eed7ba5e",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3168993,
+          "known_for_department": "Editing",
+          "name": "Márton Tarkövi",
+          "original_name": "Márton Tarkövi",
+          "popularity": 0.1848,
+          "profile_path": "/8D7qbZD7VHMxYChR43nic48dxX4.jpg",
+          "credit_id": "6959201c1389b535ba7c7b8f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1160593,
+          "known_for_department": "Acting",
+          "name": "Montse Triola",
+          "original_name": "Montse Triola",
+          "popularity": 0.6961,
+          "profile_path": "/gYVRqCeUOoyy5zGplA0vdU6pPbf.jpg",
+          "credit_id": "69592078e4d7d287f5c39d0e",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2485510,
+          "known_for_department": "Production",
+          "name": "Luis Ferrón Ferri",
+          "original_name": "Luis Ferrón Ferri",
+          "popularity": 0.2128,
+          "profile_path": null,
+          "credit_id": "695920b7db151d9ef84af5b6",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4470000,
+          "known_for_department": "Production",
+          "name": "Pedro Palacios",
+          "original_name": "Pedro Palacios",
+          "popularity": 0.1942,
+          "profile_path": null,
+          "credit_id": "695920caafa1e6ced33bdc99",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1443502,
+          "known_for_department": "Acting",
+          "name": "Ricard Sales",
+          "original_name": "Ricard Sales",
+          "popularity": 0.374,
+          "profile_path": "/27QCFZE7f9rFsJjaUbCyshO2rXt.jpg",
+          "credit_id": "69592141650a414493e43166",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1160600,
+          "known_for_department": "Sound",
+          "name": "Jordi Ribas",
+          "original_name": "Jordi Ribas",
+          "popularity": 0.18,
+          "profile_path": "/aZVt1BbboCi7gPJfUdMGYN3YujI.jpg",
+          "credit_id": "695921a9d721a2cf0fc39efd",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1681269,
+          "known_for_department": "Camera",
+          "name": "Artur Tort",
+          "original_name": "Artur Tort",
+          "popularity": 0.1765,
+          "profile_path": "/7Y29auAlwAMcmPoQc3E50BCcjR6.jpg",
+          "credit_id": "695922296050d1c175d7b93c",
+          "department": "Crew",
+          "job": "Cinematography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Opening of Europalia Spain festival at the Bozar Palace of Fine Arts in Brussels",
+              "release_date": "2025-10-07T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

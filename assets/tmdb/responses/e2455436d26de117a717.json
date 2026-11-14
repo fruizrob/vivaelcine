@@ -1,0 +1,131 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/911525?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:03.860Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 911525,
+    "imdb_id": null,
+    "origin_country": [
+      "PE",
+      "CH"
+    ],
+    "original_language": "es",
+    "original_title": "La cicatriz de Paulina",
+    "overview": "",
+    "popularity": 0.0129,
+    "poster_path": "/jPhuJ37a7nViqZcGXpIVxyeJZyR.jpg",
+    "production_companies": [
+      {
+        "id": 165744,
+        "logo_path": null,
+        "name": "Plateforme 68",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PE",
+        "name": "Peru"
+      }
+    ],
+    "release_date": "2011-02-03",
+    "revenue": 0,
+    "runtime": 64,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La cicatriz de Paulina",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3334879,
+          "known_for_department": "Directing",
+          "name": "Genciana Cortés",
+          "original_name": "Genciana Cortés",
+          "popularity": 0.0389,
+          "profile_path": null,
+          "credit_id": "61ab0e9f8efe73005fb62730",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1276446,
+          "known_for_department": "Acting",
+          "name": "Manuel Legarda",
+          "original_name": "Manuel Legarda",
+          "popularity": 0.0755,
+          "profile_path": null,
+          "credit_id": "61ab0ff1d6d64d001ca150e5",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3334881,
+          "known_for_department": "Sound",
+          "name": "Orieta Chrem",
+          "original_name": "Orieta Chrem",
+          "popularity": 0.0059,
+          "profile_path": null,
+          "credit_id": "61ab1015325a5100933311e6",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1276446,
+          "known_for_department": "Acting",
+          "name": "Manuel Legarda",
+          "original_name": "Manuel Legarda",
+          "popularity": 0.0755,
+          "profile_path": null,
+          "credit_id": "61ab0e93498ef9001c83312d",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2011-02-03T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

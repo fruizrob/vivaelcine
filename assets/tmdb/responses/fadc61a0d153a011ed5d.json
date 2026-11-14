@@ -1,0 +1,106 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/89595?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:41.995Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 89595,
+    "imdb_id": "tt1834234",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Sushi: The Global Catch",
+    "overview": "Un ambicioso documental rodado durante dos años en cinco países que explora las posibilidades y los riesgos de una de las comidas más populares del mundo.Sushi, una cocina que antiguamente sólo se encontraba en Japón, ha crecido exponencialmente en otras naciones, llegando a crear toda una industria a su alrededor. En una carrera para complacer a un público hambriento, la cara delicadeza ha pasado a ser común y alcanzable económicamente, tanto en restaurantes, supermercados y hasta en el auge del fast food. Las tradiciones que requerían siete años de aprendizaje en Japón han dado paso a nuevas y rápidas formas de entrenamiento y soluciones basadas en la producción manufacturada para un público masivo. Esta fascinación por el sushi está teniendo consecuencias irreversibles para el medioambiente, como la reducción de especies depredadoras en el océano, incluyendo el atún de aleta azul.",
+    "popularity": 0.2563,
+    "poster_path": "/11vbZCirOj4oQUgucIKiWV986s5.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      },
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      },
+      {
+        "iso_3166_1": "PL",
+        "name": "Poland"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2012-06-07",
+    "revenue": 5757,
+    "runtime": 74,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Sushi: La captura global",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 12,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 937342,
+          "known_for_department": "Directing",
+          "name": "Mark Hall",
+          "original_name": "Mark Hall",
+          "popularity": 0.2302,
+          "profile_path": null,
+          "credit_id": "52fe4a219251416c910c44f7",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2012-06-07T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

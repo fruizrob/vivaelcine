@@ -1,0 +1,437 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/490289?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:23.441Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 490289,
+    "imdb_id": "tt3609744",
+    "origin_country": [
+      "US",
+      "NZ"
+    ],
+    "original_language": "en",
+    "original_title": "Ross & Beth",
+    "overview": "",
+    "popularity": 0.2119,
+    "poster_path": "/1URRR8HtExr6vUxLWYn6dPhl6bl.jpg",
+    "production_companies": [
+      {
+        "id": 98028,
+        "logo_path": null,
+        "name": "Scottie Productions",
+        "origin_country": "NZ"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NZ",
+        "name": "New Zealand"
+      }
+    ],
+    "release_date": "2014-07-01",
+    "revenue": 0,
+    "runtime": 15,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ross & Beth",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1933152,
+          "known_for_department": "Acting",
+          "name": "John Clarke",
+          "original_name": "John Clarke",
+          "popularity": 0.0526,
+          "profile_path": null,
+          "cast_id": 0,
+          "character": "Ross",
+          "credit_id": "5a21ec7ac3a3680b880afb0d",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1933153,
+          "known_for_department": "Acting",
+          "name": "Reiki Ruawai",
+          "original_name": "Reiki Ruawai",
+          "popularity": 0.0772,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Boy",
+          "credit_id": "5a21edf492514103300a9231",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 60372,
+          "known_for_department": "Acting",
+          "name": "Annie Whittle",
+          "original_name": "Annie Whittle",
+          "popularity": 0.3297,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Beth",
+          "credit_id": "5a21ee0992514103260b24de",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1933155,
+          "known_for_department": "Acting",
+          "name": "Naomi Tuao",
+          "original_name": "Naomi Tuao",
+          "popularity": 0.0462,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Boy's mum",
+          "credit_id": "5a21ee310e0a264ccd0b01d8",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1933156,
+          "known_for_department": "Acting",
+          "name": "Jason Parangi",
+          "original_name": "Jason Parangi",
+          "popularity": 0.0479,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Boy's dad",
+          "credit_id": "5a21ee480e0a264cca0ac00a",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1933157,
+          "known_for_department": "Acting",
+          "name": "Katie Rogers",
+          "original_name": "Katie Rogers",
+          "popularity": 0.0357,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Margaret",
+          "credit_id": "5a21ee66c3a3680b9d0a5a4a",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1480170,
+          "known_for_department": "Directing",
+          "name": "Simon Ogston",
+          "original_name": "Simon Ogston",
+          "popularity": 0.0311,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Margaret's boyfriend",
+          "credit_id": "5a21eeb30e0a264cbe0ab732",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1933159,
+          "known_for_department": "Acting",
+          "name": "Jeremy Hill",
+          "original_name": "Jeremy Hill",
+          "popularity": 0.2273,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Singer",
+          "credit_id": "5a21eedac3a3680b8d0ad68b",
+          "order": 7
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 40837,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Jane Holland",
+          "original_name": "Jane Holland",
+          "popularity": 0.1876,
+          "profile_path": null,
+          "credit_id": "5a21f2690e0a264cbc0b2303",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1933167,
+          "known_for_department": "Camera",
+          "name": "David Chan",
+          "original_name": "David Chan",
+          "popularity": 0.1133,
+          "profile_path": null,
+          "credit_id": "5a21f31692514103300a97e6",
+          "department": "Camera",
+          "job": "Camera Technician"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1933161,
+          "known_for_department": "Directing",
+          "name": "Hamish Bennett",
+          "original_name": "Hamish Bennett",
+          "popularity": 0.1774,
+          "profile_path": "/xMDWjlka266ApwQWVz7U9CbHVYO.jpg",
+          "credit_id": "5a21ef310e0a264cca0ac11d",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 40837,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Jane Holland",
+          "original_name": "Jane Holland",
+          "popularity": 0.1876,
+          "profile_path": null,
+          "credit_id": "5a21f2510e0a264cc10abb36",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1933164,
+          "known_for_department": "Directing",
+          "name": "Maika Bennett",
+          "original_name": "Maika Bennett",
+          "popularity": 0.0402,
+          "profile_path": null,
+          "credit_id": "5a21f2afc3a3680b8d0adac9",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1933157,
+          "known_for_department": "Acting",
+          "name": "Katie Rogers",
+          "original_name": "Katie Rogers",
+          "popularity": 0.0357,
+          "profile_path": null,
+          "credit_id": "5a21f354c3a3680b8f0adb39",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 319549,
+          "known_for_department": "Writing",
+          "name": "Michael Bennett",
+          "original_name": "Michael Bennett",
+          "popularity": 0.1844,
+          "profile_path": null,
+          "credit_id": "5a21f1e7c3a3680b880b00fd",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1506188,
+          "known_for_department": "Sound",
+          "name": "Karl Sölve Steven",
+          "original_name": "Karl Sölve Steven",
+          "popularity": 0.3241,
+          "profile_path": null,
+          "credit_id": "5a21f391c3a3680b930aee2b",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1933161,
+          "known_for_department": "Directing",
+          "name": "Hamish Bennett",
+          "original_name": "Hamish Bennett",
+          "popularity": 0.1774,
+          "profile_path": "/xMDWjlka266ApwQWVz7U9CbHVYO.jpg",
+          "credit_id": "5a21ef1f0e0a264cc40a9461",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 144897,
+          "known_for_department": "Lighting",
+          "name": "Grant McKinnon",
+          "original_name": "Grant McKinnon",
+          "popularity": 0.1339,
+          "profile_path": null,
+          "credit_id": "5a21f22692514103300a9701",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1933168,
+          "known_for_department": "Sound",
+          "name": "Al Wilson",
+          "original_name": "Al Wilson",
+          "popularity": 0.0857,
+          "profile_path": null,
+          "credit_id": "5a21f32e92514103290b0fa7",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1480171,
+          "known_for_department": "Production",
+          "name": "Orlando Stewart",
+          "original_name": "Orlando Stewart",
+          "popularity": 0.1198,
+          "profile_path": "/5bFTD4xIv9RD3JgYFW5QlOQQLW1.jpg",
+          "credit_id": "5a21f1a3c3a3680b880b00ac",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1933162,
+          "known_for_department": "Production",
+          "name": "Meg Douglas",
+          "original_name": "Meg Douglas",
+          "popularity": 0.0804,
+          "profile_path": null,
+          "credit_id": "5a21f1d40e0a264cbc0b224b",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1933163,
+          "known_for_department": "Editing",
+          "name": "Jason Pengelly",
+          "original_name": "Jason Pengelly",
+          "popularity": 0.07,
+          "profile_path": null,
+          "credit_id": "5a21f23cc3a3680b9a0b6b55",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1933157,
+          "known_for_department": "Acting",
+          "name": "Katie Rogers",
+          "original_name": "Katie Rogers",
+          "popularity": 0.0357,
+          "profile_path": null,
+          "credit_id": "5a21f34692514103240ac2f8",
+          "department": "Costume & Make-Up",
+          "job": "Wardrobe Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1933157,
+          "known_for_department": "Acting",
+          "name": "Katie Rogers",
+          "original_name": "Katie Rogers",
+          "popularity": 0.0357,
+          "profile_path": null,
+          "credit_id": "5a21f283c3a3680b9d0a5efe",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1480170,
+          "known_for_department": "Directing",
+          "name": "Simon Ogston",
+          "original_name": "Simon Ogston",
+          "popularity": 0.0311,
+          "profile_path": null,
+          "credit_id": "5a21f29b925141032c0af3ba",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1933169,
+          "known_for_department": "Directing",
+          "name": "Maryann Tuao",
+          "original_name": "Maryann Tuao",
+          "popularity": 0.0344,
+          "profile_path": null,
+          "credit_id": "5a21f36292514103390ad533",
+          "department": "Directing",
+          "job": "Continuity"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "NZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2014-07-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "NZ",
+          "title": "Ross and Beth",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

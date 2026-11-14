@@ -1,0 +1,481 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1020402?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:34.461Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 1020402,
+    "imdb_id": "tt4304010",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Ven a jugar",
+    "overview": "",
+    "popularity": 0.15,
+    "poster_path": "/f6NziPJkJEvwTuPj7VjiMOSJw9s.jpg",
+    "production_companies": [
+      {
+        "id": 51534,
+        "logo_path": "/55XlQYG3k5SsKQzCzgoJW8cwAHv.png",
+        "name": "E Corp Studio",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2014-09-07",
+    "revenue": 0,
+    "runtime": 43,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ven a jugar",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3687739,
+          "known_for_department": "Acting",
+          "name": "Adrián Hernández",
+          "original_name": "Adrián Hernández",
+          "popularity": 0.0403,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "El Tigre / Self",
+          "credit_id": "63146f49ba131b0079b2dc43",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3687740,
+          "known_for_department": "Acting",
+          "name": "Arturo E. Quintana",
+          "original_name": "Arturo E. Quintana",
+          "popularity": 0.0626,
+          "profile_path": "/DMgUXjJRYbrX8D0tU6iC8RGzsy.jpg",
+          "cast_id": 2,
+          "character": "El Tito",
+          "credit_id": "63146f9b7fcab3007fbf0ca8",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3687742,
+          "known_for_department": "Acting",
+          "name": "Emmanuel Pozos",
+          "original_name": "Emmanuel Pozos",
+          "popularity": 0.1092,
+          "profile_path": "/xifhGYM3pHAA9GfDQKwrYvqNFnn.jpg",
+          "cast_id": 3,
+          "character": "El Cobas",
+          "credit_id": "63146fa87fcab30091dce2b4",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3687744,
+          "known_for_department": "Acting",
+          "name": "Brenda Acosta",
+          "original_name": "Brenda Acosta",
+          "popularity": 0.0458,
+          "profile_path": "/dcMQHSY6MLsgALCtvSyYZq5TLXG.jpg",
+          "cast_id": 4,
+          "character": "Woman in White",
+          "credit_id": "63146fcde63571007a5c2d95",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3687745,
+          "known_for_department": "Acting",
+          "name": "Ilse Basurto",
+          "original_name": "Ilse Basurto",
+          "popularity": 0.1456,
+          "profile_path": "/z4ArVlXSOsl1JTtKXfynA3DkxiU.jpg",
+          "cast_id": 5,
+          "character": "Woman in White",
+          "credit_id": "63146fda326c190079d36906",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3687746,
+          "known_for_department": "Acting",
+          "name": "Guadalupe Cuevas",
+          "original_name": "Guadalupe Cuevas",
+          "popularity": 0.0339,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Woman in White",
+          "credit_id": "63146fe4ba131b007c555482",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1316181,
+          "known_for_department": "Acting",
+          "name": "Javier Bárcenas",
+          "original_name": "Javier Bárcenas",
+          "popularity": 0.0925,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Child (voice)",
+          "credit_id": "63147027e63571007de04f11",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3687748,
+          "known_for_department": "Acting",
+          "name": "Mariana Bárcenas",
+          "original_name": "Mariana Bárcenas",
+          "popularity": 0.0294,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Child (voice)",
+          "credit_id": "631470340cb335009187c9ae",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3687751,
+          "known_for_department": "Acting",
+          "name": "Vicente Garibay",
+          "original_name": "Vicente Garibay",
+          "popularity": 0.0784,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Child (voice)",
+          "credit_id": "6314703e7fcab30091dce2e7",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3687752,
+          "known_for_department": "Acting",
+          "name": "Rolando Monreal",
+          "original_name": "Rolando Monreal",
+          "popularity": 0.043,
+          "profile_path": "/3s5uFJz36D4UJ8BEiUZOsbPRsPI.jpg",
+          "cast_id": 10,
+          "character": "Breath in the Darkness",
+          "credit_id": "63147055a402c1007abfa3fc",
+          "order": 9
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3687740,
+          "known_for_department": "Acting",
+          "name": "Arturo E. Quintana",
+          "original_name": "Arturo E. Quintana",
+          "popularity": 0.0626,
+          "profile_path": "/DMgUXjJRYbrX8D0tU6iC8RGzsy.jpg",
+          "credit_id": "631470a5ba131b0079b2dca1",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3687755,
+          "known_for_department": "Production",
+          "name": "Tatiana Nayeli Domínguez",
+          "original_name": "Tatiana Nayeli Domínguez",
+          "popularity": 0.0805,
+          "profile_path": null,
+          "credit_id": "63147112f1b571007dba1769",
+          "department": "Production",
+          "job": "Production Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3687754,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Diana Gutiérrez",
+          "original_name": "Diana Gutiérrez",
+          "popularity": 0.0664,
+          "profile_path": "/2cKY3oM2rK4fXxkPvJexU4i1XAG.jpg",
+          "credit_id": "631470e9ba131b0081d10ccd",
+          "department": "Costume & Make-Up",
+          "job": "Prosthetic Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1456274,
+          "known_for_department": "Directing",
+          "name": "Erik Mariñelarena",
+          "original_name": "Erik Mariñelarena",
+          "popularity": 0.2851,
+          "profile_path": "/l23HB0U8A4s62uXa2ETjtBv1SFi.jpg",
+          "credit_id": "63147084f1b571007a79c40c",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1456274,
+          "known_for_department": "Directing",
+          "name": "Erik Mariñelarena",
+          "original_name": "Erik Mariñelarena",
+          "popularity": 0.2851,
+          "profile_path": "/l23HB0U8A4s62uXa2ETjtBv1SFi.jpg",
+          "credit_id": "631470659408ec0080c5c5ba",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3687752,
+          "known_for_department": "Acting",
+          "name": "Rolando Monreal",
+          "original_name": "Rolando Monreal",
+          "popularity": 0.043,
+          "profile_path": "/3s5uFJz36D4UJ8BEiUZOsbPRsPI.jpg",
+          "credit_id": "631470f7e63571007de04f58",
+          "department": "Costume & Make-Up",
+          "job": "Key Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3687759,
+          "known_for_department": "Camera",
+          "name": "Sonia Arias",
+          "original_name": "Sonia Arias",
+          "popularity": 0.0981,
+          "profile_path": null,
+          "credit_id": "63147150c048a9008504aefd",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3687767,
+          "known_for_department": "Crew",
+          "name": "Alarcón María",
+          "original_name": "Alarcón María",
+          "popularity": 0.0373,
+          "profile_path": null,
+          "credit_id": "631471bc0cb335007a927ad1",
+          "department": "Crew",
+          "job": "Child Wrangler"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3687773,
+          "known_for_department": "Crew",
+          "name": "Malena Solís",
+          "original_name": "Malena Solís",
+          "popularity": 0.0778,
+          "profile_path": null,
+          "credit_id": "6314720b7fcab3007a215c08",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3687740,
+          "known_for_department": "Acting",
+          "name": "Arturo E. Quintana",
+          "original_name": "Arturo E. Quintana",
+          "popularity": 0.0626,
+          "profile_path": "/DMgUXjJRYbrX8D0tU6iC8RGzsy.jpg",
+          "credit_id": "631470b40d29440081d9a7ca",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3687742,
+          "known_for_department": "Acting",
+          "name": "Emmanuel Pozos",
+          "original_name": "Emmanuel Pozos",
+          "popularity": 0.1092,
+          "profile_path": "/xifhGYM3pHAA9GfDQKwrYvqNFnn.jpg",
+          "credit_id": "6314712e9408ec007becf974",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3687744,
+          "known_for_department": "Acting",
+          "name": "Brenda Acosta",
+          "original_name": "Brenda Acosta",
+          "popularity": 0.0458,
+          "profile_path": "/dcMQHSY6MLsgALCtvSyYZq5TLXG.jpg",
+          "credit_id": "631471761511aa00924d8dbc",
+          "department": "Costume & Make-Up",
+          "job": "Wardrobe Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3687745,
+          "known_for_department": "Acting",
+          "name": "Ilse Basurto",
+          "original_name": "Ilse Basurto",
+          "popularity": 0.1456,
+          "profile_path": "/z4ArVlXSOsl1JTtKXfynA3DkxiU.jpg",
+          "credit_id": "63147184a402c1007abfa46d",
+          "department": "Costume & Make-Up",
+          "job": "Wardrobe Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3687739,
+          "known_for_department": "Acting",
+          "name": "Adrián Hernández",
+          "original_name": "Adrián Hernández",
+          "popularity": 0.0403,
+          "profile_path": null,
+          "credit_id": "631470761511aa0080d86dad",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3687771,
+          "known_for_department": "Crew",
+          "name": "Andrea Guzmán",
+          "original_name": "Andrea Guzmán",
+          "popularity": 0.0336,
+          "profile_path": null,
+          "credit_id": "631471f69408ec007becf9b6",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3687772,
+          "known_for_department": "Crew",
+          "name": "Moisés Ibarra",
+          "original_name": "Moisés Ibarra",
+          "popularity": 0.0154,
+          "profile_path": null,
+          "credit_id": "631472019408ec0080c5c651",
+          "department": "Crew",
+          "job": "Thanks"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3687746,
+          "known_for_department": "Acting",
+          "name": "Guadalupe Cuevas",
+          "original_name": "Guadalupe Cuevas",
+          "popularity": 0.0339,
+          "profile_path": null,
+          "credit_id": "631471980d29440081d9a819",
+          "department": "Costume & Make-Up",
+          "job": "Wardrobe Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3687765,
+          "known_for_department": "Crew",
+          "name": "Javier Bárcenas",
+          "original_name": "Javier Bárcenas",
+          "popularity": 0.0214,
+          "profile_path": null,
+          "credit_id": "631471ae1511aa0080d86e30",
+          "department": "Crew",
+          "job": "Child Wrangler"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1456274,
+          "known_for_department": "Directing",
+          "name": "Erik Mariñelarena",
+          "original_name": "Erik Mariñelarena",
+          "popularity": 0.2851,
+          "profile_path": "/l23HB0U8A4s62uXa2ETjtBv1SFi.jpg",
+          "credit_id": "631470960d294400795a7d4b",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2014-09-07T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Come Play",
+          "type": "festival title"
+        }
+      ]
+    }
+  }
+}

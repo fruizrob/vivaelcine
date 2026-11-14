@@ -1,0 +1,93 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/702264?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:19.223Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 702264,
+    "imdb_id": null,
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Gary Numan - Replicas Live",
+    "overview": "",
+    "popularity": 0.4426,
+    "poster_path": "/4vqpbC4GUJmZptzE3UMiXzLRe8w.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2008-08-03",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Gary Numan - Replicas Live",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1006861,
+          "known_for_department": "Acting",
+          "name": "Gary Numan",
+          "original_name": "Gary Numan",
+          "popularity": 0.3378,
+          "profile_path": "/v1FWaoFmeRZFPX6xzUNDvY2sfea.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5eb75776cc277c00206a874b",
+          "order": 0
+        }
+      ],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2008-08-03T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2011-06-13T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

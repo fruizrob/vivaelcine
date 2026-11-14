@@ -1,0 +1,467 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/670874?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:50.074Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 670874,
+    "imdb_id": "tt0105817",
+    "origin_country": [
+      "MX",
+      "US"
+    ],
+    "original_language": "es",
+    "original_title": "Wild Blue Moon",
+    "overview": "",
+    "popularity": 0.4781,
+    "poster_path": "/y1W04xKXG3nWtm5oWBOgQC1rWhr.jpg",
+    "production_companies": [
+      {
+        "id": 128575,
+        "logo_path": null,
+        "name": "Quetzal Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "1992-01-01",
+    "revenue": 0,
+    "runtime": 92,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Wild Blue Moon",
+    "video": false,
+    "vote_average": 4.5,
+    "vote_count": 6,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 17687,
+          "known_for_department": "Acting",
+          "name": "Mayra Sérbulo",
+          "original_name": "Mayra Sérbulo",
+          "popularity": 0.796,
+          "profile_path": "/m4KqGu9SHxccOk2fLOPzuYLftB0.jpg",
+          "cast_id": 5,
+          "character": "Luna",
+          "credit_id": "6564f1a57dfda6593175bd70",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 36635,
+          "known_for_department": "Acting",
+          "name": "Zaide Silvia Gutiérrez",
+          "original_name": "Zaide Silvia Gutiérrez",
+          "popularity": 0.5177,
+          "profile_path": "/s5GM7qbbuVelnWLTbCcocGPVRnt.jpg",
+          "cast_id": 7,
+          "character": "Luz",
+          "credit_id": "6564f1c8706e560138c4c967",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 104395,
+          "known_for_department": "Acting",
+          "name": "Socorro Avelar",
+          "original_name": "Socorro Avelar",
+          "popularity": 0.4269,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Village Witch",
+          "credit_id": "6564f1e824418200ca784271",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 10000,
+          "known_for_department": "Acting",
+          "name": "Gregory Sporleder",
+          "original_name": "Gregory Sporleder",
+          "popularity": 1.1477,
+          "profile_path": "/qcCA7hMP8rEEGQDfNCKKl3XZrHn.jpg",
+          "cast_id": 8,
+          "character": "Willie",
+          "credit_id": "6564f1daa35c8e00ab8ccd95",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1357661,
+          "known_for_department": "Acting",
+          "name": "Thom Vernon",
+          "original_name": "Thom Vernon",
+          "popularity": 0.295,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Terence",
+          "credit_id": "6564f1bd8f26bc011ce2046d",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 942706,
+          "known_for_department": "Acting",
+          "name": "Malena Doria",
+          "original_name": "Malena Doria",
+          "popularity": 0.3259,
+          "profile_path": "/msV8uPut9WgM4TNY2eQWWsgIV0U.jpg",
+          "cast_id": 13,
+          "character": "Chantica",
+          "credit_id": "6af19fda21aab50bf5708067",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1486678,
+          "known_for_department": "Acting",
+          "name": "Rodrigo Puebla",
+          "original_name": "Rodrigo Puebla",
+          "popularity": 0.5601,
+          "profile_path": "/jiwXy3q4XKzn9VWzmzTap1WMqFz.jpg",
+          "cast_id": 14,
+          "character": "Luna's father",
+          "credit_id": "6af19fe1cd64afa2004bcfcd",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2272835,
+          "known_for_department": "Acting",
+          "name": "Adyari Chazaro",
+          "original_name": "Adyari Chazaro",
+          "popularity": 0.1193,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Luna's sister",
+          "credit_id": "6af19fe94c95271191310426",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6620415,
+          "known_for_department": "Acting",
+          "name": "Claude Prud D'Homme",
+          "original_name": "Claude Prud D'Homme",
+          "popularity": 0.0059,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Hippie Friend",
+          "credit_id": "6af19ff123d6404a3431063e",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6620416,
+          "known_for_department": "Acting",
+          "name": "John Garvey",
+          "original_name": "John Garvey",
+          "popularity": 0.0253,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Hippie Friend",
+          "credit_id": "6af19ffa25fbfdd92e4bcf03",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6620418,
+          "known_for_department": "Acting",
+          "name": "María Céspedes",
+          "original_name": "María Céspedes",
+          "popularity": 0.0125,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Hippie Friend",
+          "credit_id": "6af1a0029e6fdb6a3fa9666a",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6620421,
+          "known_for_department": "Acting",
+          "name": "Victoria Southern",
+          "original_name": "Victoria Southern",
+          "popularity": 0.0513,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Hippie Friend",
+          "credit_id": "6af1a00bcd64afa2004bcfd1",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 956973,
+          "known_for_department": "Acting",
+          "name": "Yolanda Orizaga",
+          "original_name": "Yolanda Orizaga",
+          "popularity": 0.154,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Woman",
+          "credit_id": "6af1a015336f374ffc707e73",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 982256,
+          "known_for_department": "Acting",
+          "name": "Loló Navarro",
+          "original_name": "Loló Navarro",
+          "popularity": 0.2241,
+          "profile_path": "/rlzHZ7c7WXZCuBWzEkFFYd5g72I.jpg",
+          "cast_id": 21,
+          "character": "Housemaid",
+          "credit_id": "6af1a01dabc3757913a965f7",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2408905,
+          "known_for_department": "Acting",
+          "name": "Javier Herrera",
+          "original_name": "Javier Herrera",
+          "popularity": 0.0728,
+          "profile_path": "/5LGqSIVPJ8Y1dxcKWJuMNgrYPIw.jpg",
+          "cast_id": 22,
+          "character": "Young man",
+          "credit_id": "6af1a026a6f9b5c70ac71cad",
+          "order": 14
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3713,
+          "known_for_department": "Acting",
+          "name": "Frances Fisher",
+          "original_name": "Frances Fisher",
+          "popularity": 3.0627,
+          "profile_path": "/3iNDgd54IIj8g8hGqhhUjM6TeWd.jpg",
+          "credit_id": "6564f14a5cea1800e02d07bf",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 97141,
+          "known_for_department": "Directing",
+          "name": "Taggart Siegel",
+          "original_name": "Taggart Siegel",
+          "popularity": 0.2207,
+          "profile_path": null,
+          "credit_id": "6564f1663679a10977e2012b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 97141,
+          "known_for_department": "Directing",
+          "name": "Taggart Siegel",
+          "original_name": "Taggart Siegel",
+          "popularity": 0.2207,
+          "profile_path": null,
+          "credit_id": "6564f173706e5600c4bc42aa",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3713,
+          "known_for_department": "Acting",
+          "name": "Frances Fisher",
+          "original_name": "Frances Fisher",
+          "popularity": 3.0627,
+          "profile_path": "/3iNDgd54IIj8g8hGqhhUjM6TeWd.jpg",
+          "credit_id": "6564f156b234b900acfc4b3e",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1020068,
+          "known_for_department": "Camera",
+          "name": "Álex Phillips Jr.",
+          "original_name": "Álex Phillips Jr.",
+          "popularity": 0.2875,
+          "profile_path": null,
+          "credit_id": "6aecfd9d83e23c91de95bc0e",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6603631,
+          "known_for_department": "Editing",
+          "name": "Dermot McNeillage",
+          "original_name": "Dermot McNeillage",
+          "popularity": 0.0129,
+          "profile_path": null,
+          "credit_id": "6aecfda81f850d54e6579e1a",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1481635,
+          "known_for_department": "Editing",
+          "name": "Sonya Polonsky",
+          "original_name": "Sonya Polonsky",
+          "popularity": 0.25,
+          "profile_path": null,
+          "credit_id": "6aecfdb47e6913cdc795bbc0",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 110697,
+          "known_for_department": "Production",
+          "name": "Héctor López Lechuga",
+          "original_name": "Héctor López Lechuga",
+          "popularity": 0.2145,
+          "profile_path": null,
+          "credit_id": "6af77038ea8cdd45de484505",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6656682,
+          "known_for_department": "Art",
+          "name": "Geneviève Desgagnes",
+          "original_name": "Geneviève Desgagnes",
+          "popularity": 0,
+          "profile_path": null,
+          "credit_id": "6af7704476f688d7e848452f",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6656684,
+          "known_for_department": "Art",
+          "name": "Daniel Sidney",
+          "original_name": "Daniel Sidney",
+          "popularity": 0,
+          "profile_path": null,
+          "credit_id": "6af770524dbfdd00f73274ef",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6656688,
+          "known_for_department": "Directing",
+          "name": "Rene Villarea",
+          "original_name": "Rene Villarea",
+          "popularity": 0,
+          "profile_path": null,
+          "credit_id": "6af77061f489bc3b426dd75c",
+          "department": "Directing",
+          "job": "Assistant Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1992-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Shadow of the Pepper Tree",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "MX",
+          "title": "La ofrenda",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "NZ",
+          "title": "The Offering",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

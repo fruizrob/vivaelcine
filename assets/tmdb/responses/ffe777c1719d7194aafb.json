@@ -1,0 +1,130 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1317073?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:34.116Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1317073,
+    "imdb_id": "tt27237574",
+    "origin_country": [
+      "DK"
+    ],
+    "original_language": "da",
+    "original_title": "Bare en ven",
+    "overview": "",
+    "popularity": 0.1786,
+    "poster_path": "/skpTiVKWSOfxLun1fAznC9ktQsa.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2024-07-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bare en ven",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2031037,
+          "known_for_department": "Acting",
+          "name": "Pernille René",
+          "original_name": "Pernille René",
+          "popularity": 0.2678,
+          "profile_path": "/hzbQrwzK1cpG7FpforBiIYXw4O.jpg",
+          "cast_id": 1,
+          "character": "Louise",
+          "credit_id": "6694c506c0bf8fe8d6c985e1",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3716332,
+          "known_for_department": "Writing",
+          "name": "Kat Stephie",
+          "original_name": "Kat Stephie",
+          "popularity": 0.1461,
+          "profile_path": "/xucMs7Ajj8PLENbWKpVI3H9PF1K.jpg",
+          "cast_id": 2,
+          "character": "Anna",
+          "credit_id": "6694c52191670833f6466921",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4830361,
+          "known_for_department": "Acting",
+          "name": "Morten Bach Petersen",
+          "original_name": "Morten Bach Petersen",
+          "popularity": 0.1217,
+          "profile_path": "/aRCyhqNX5JBf5KE6VOXbqZBFAmx.jpg",
+          "cast_id": 3,
+          "character": "Simon",
+          "credit_id": "6694c53e7308b50d9c9c9891",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4830362,
+          "known_for_department": "Acting",
+          "name": "Tobias Gilbert",
+          "original_name": "Tobias Gilbert",
+          "popularity": 0.0412,
+          "profile_path": "/2ZIsHgdX7yvN6e7Y0zCI79lrl0C.jpg",
+          "cast_id": 4,
+          "character": "Mark",
+          "credit_id": "6694c5589d553f6bdb9c972d",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4830363,
+          "known_for_department": "Directing",
+          "name": "Jacob Daniel Lewis",
+          "original_name": "Jacob Daniel Lewis",
+          "popularity": 0.0616,
+          "profile_path": null,
+          "credit_id": "6694c58171c7a968896b4d3b",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "da",
+              "note": "",
+              "release_date": "2024-07-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Decaer&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:07.141Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/yEWhNGoDENJl1rdkmWKoKACUkr0.jpg",
+        "genre_ids": [
+          16,
+          99
+        ],
+        "id": 1668881,
+        "title": "decaer",
+        "original_language": "es",
+        "original_title": "decaer",
+        "overview": "Gracias a los chinos por la pólvora, parece que la hubieran hecho para mí. Su invención sucede como un accidente, pensada inicialmente para espantar los espíritus malos. Esta película inicia en China, luego un evento en Cartagena y se acaba siglos después en Bogotá.",
+        "popularity": 0.1765,
+        "poster_path": "/vG4HQdPsjfVOBuAN3L2Yea7HdQ4.jpg",
+        "release_date": "2026-04-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

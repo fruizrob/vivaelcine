@@ -1,0 +1,573 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/572751?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:46.175Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/bs3hu2Qi3QEAGbYFhdbWdT2QRLU.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "id": 572751,
+    "imdb_id": "tt7221772",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Seized",
+    "overview": "Escondido con su hijo Taylor en la costa mexicana, Nero espera dejar atrás su violenta carrera en las Fuerzas Especiales. Pero después de que la casa de Nero es atacada y Taylor es secuestrada, el misterioso Mzamo ordena a Nero que masacres a los miembros de tres sindicatos criminales rivales. Si falla, Taylor morirá. Ahora, con las balas volando y los cuerpos cayendo mientras Nero completa su misión, corre para encontrar el escondite de Mzamo y buscar venganza.",
+    "popularity": 2.2845,
+    "poster_path": "/hRCPafF0QzdUpWgZhfGVsW8Z7oI.jpg",
+    "production_companies": [
+      {
+        "id": 35625,
+        "logo_path": "/zxIrXuRMBmsXf7XpouDrF0P4RjI.png",
+        "name": "Premiere Entertainment Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 143335,
+        "logo_path": null,
+        "name": "Arramis Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 121204,
+        "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+        "name": "BondIt Media Capital",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2020-10-13",
+    "revenue": 0,
+    "runtime": 85,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Secuestraron a su hijo. Gran error.",
+    "title": "Atrapado",
+    "video": false,
+    "vote_average": 6.706,
+    "vote_count": 209,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 78110,
+          "known_for_department": "Acting",
+          "name": "Scott Adkins",
+          "original_name": "Scott Adkins",
+          "popularity": 4.1397,
+          "profile_path": "/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg",
+          "cast_id": 2,
+          "character": "Nero",
+          "credit_id": "5c2f6b8e0e0a2664f33845b4",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16214,
+          "known_for_department": "Acting",
+          "name": "Mario Van Peebles",
+          "original_name": "Mario Van Peebles",
+          "popularity": 1.5008,
+          "profile_path": "/fiExKjVttfePRwmfVvMHPjC7F9n.jpg",
+          "cast_id": 3,
+          "character": "Mzamo",
+          "credit_id": "5c2f6b980e0a2663023847ea",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2141978,
+          "known_for_department": "Acting",
+          "name": "Matthew Garbacz",
+          "original_name": "Matthew Garbacz",
+          "popularity": 0.2776,
+          "profile_path": "/IZ5LHneswlosu3zIVQAQnq9ql8.jpg",
+          "cast_id": 8,
+          "character": "Taylor",
+          "credit_id": "5f2ad4ccfdc1460036199fba",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 80371,
+          "known_for_department": "Acting",
+          "name": "Steven Elder",
+          "original_name": "Steven Elder",
+          "popularity": 0.5556,
+          "profile_path": "/nEfyzjSe43laenyiDUj2JEDT6Nt.jpg",
+          "cast_id": 4,
+          "character": "Donovan",
+          "credit_id": "5e3966f743250f0019c5f429",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1998622,
+          "known_for_department": "Acting",
+          "name": "James P. Bennett",
+          "original_name": "James P. Bennett",
+          "popularity": 0.4182,
+          "profile_path": "/bfLjWv1d2Lzctaig57KXdB944T4.jpg",
+          "cast_id": 5,
+          "character": "Walker",
+          "credit_id": "5e396730ac8e6b0018c7e85a",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1460814,
+          "known_for_department": "Acting",
+          "name": "Karlee Perez",
+          "original_name": "Karlee Perez",
+          "popularity": 0.4798,
+          "profile_path": "/xuIqMZgzvtAa1VBz7JAaa6UyShL.jpg",
+          "cast_id": 6,
+          "character": "Alanza",
+          "credit_id": "5e3967390c27100018748d46",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1995473,
+          "known_for_department": "Acting",
+          "name": "Peter Organ",
+          "original_name": "Peter Organ",
+          "popularity": 0.1934,
+          "profile_path": "/35By1yoWezMsCFB7sT697c7KHhY.jpg",
+          "cast_id": 7,
+          "character": "Carlos",
+          "credit_id": "5e3967420c2710001a74c212",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1117232,
+          "known_for_department": "Acting",
+          "name": "David Fernandez Jr.",
+          "original_name": "David Fernandez Jr.",
+          "popularity": 0.4548,
+          "profile_path": "/4p6HOU5u2N7Fl7gZKKVpHGv0Dbk.jpg",
+          "cast_id": 9,
+          "character": "Hugo",
+          "credit_id": "5f2ad4e02d8ef30036e1f416",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1043808,
+          "known_for_department": "Acting",
+          "name": "Luis Gatica",
+          "original_name": "Luis Gatica",
+          "popularity": 0.4165,
+          "profile_path": "/psZ9P7osXYv2f82bdfdl7eKJQwE.jpg",
+          "cast_id": 10,
+          "character": "Omar",
+          "credit_id": "5f2ad5072d8ef3791fd70fcc",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1314891,
+          "known_for_department": "Acting",
+          "name": "Mauricio Mendoza",
+          "original_name": "Mauricio Mendoza",
+          "popularity": 0.3948,
+          "profile_path": "/fsNHqoQ1UAS2VnSoCfh5tqMP4Bu.jpg",
+          "cast_id": 11,
+          "character": "Griego",
+          "credit_id": "5f2ad5113e09f3003620de13",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3512029,
+          "known_for_department": "Acting",
+          "name": "Rolando Gonzalez",
+          "original_name": "Rolando Gonzalez",
+          "popularity": 0.0529,
+          "profile_path": "/fzIC8S6Xp5FkOJJ1YETnNKh7Olz.jpg",
+          "cast_id": 13,
+          "character": "Eliazar Machado",
+          "credit_id": "625d1a1cd38b5817af96775e",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2518563,
+          "known_for_department": "Acting",
+          "name": "Jordann Kimley",
+          "original_name": "Jordann Kimley",
+          "popularity": 0.1642,
+          "profile_path": "/sK9kWGeCEsS8c8ijLpGS9WJMaJw.jpg",
+          "cast_id": 19,
+          "character": "Jorden",
+          "credit_id": "62c82724f29d66005145922c",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1419130,
+          "known_for_department": "Production",
+          "name": "Justin Nesbitt",
+          "original_name": "Justin Nesbitt",
+          "popularity": 0.2776,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Hacker",
+          "credit_id": "62c827d2706b9f1106c82f0b",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1199114,
+          "known_for_department": "Acting",
+          "name": "Uriah Hall",
+          "original_name": "Uriah Hall",
+          "popularity": 0.3437,
+          "profile_path": "/k8V1zEzLff3YkD8QrmCWr65rR3e.jpg",
+          "cast_id": 22,
+          "character": "Henchman",
+          "credit_id": "69814d004b1f6c45ae6cce20",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1318694,
+          "known_for_department": "Acting",
+          "name": "Ángel Soto",
+          "original_name": "Ángel Soto",
+          "popularity": 0.2906,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "Scott Adkins",
+          "credit_id": "69a232ba98d670e5d1417bc8",
+          "order": 14
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1480608,
+          "known_for_department": "Production",
+          "name": "Stuart Alson",
+          "original_name": "Stuart Alson",
+          "popularity": 0.6053,
+          "profile_path": "/oqeOAcZkqiVl1BWWiDhdJ4Tx5hH.jpg",
+          "credit_id": "6293463076eecf590ca29d61",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1480607,
+          "known_for_department": "Production",
+          "name": "Nicole Holland",
+          "original_name": "Nicole Holland",
+          "popularity": 0.3525,
+          "profile_path": "/xXqEm0OiSGMJGnCs78YeYeAyTkR.jpg",
+          "credit_id": "629359c5f2cf25009b8c7d34",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 103048,
+          "known_for_department": "Production",
+          "name": "Rafael Primorac",
+          "original_name": "Rafael Primorac",
+          "popularity": 0.1522,
+          "profile_path": null,
+          "credit_id": "629b3c1765e0a237030f56a9",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1451812,
+          "known_for_department": "Production",
+          "name": "Elias Axume",
+          "original_name": "Elias Axume",
+          "popularity": 0.5129,
+          "profile_path": "/57504kMAezyFZ6nGMq8iJPS6IB8.jpg",
+          "credit_id": "629b3becdc1cb40e48e395fe",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2960391,
+          "known_for_department": "Production",
+          "name": "Carlos Rincon",
+          "original_name": "Carlos Rincon",
+          "popularity": 0.1772,
+          "profile_path": "/tzgsAtv3oudyRtfTAVDVRB7jZ5B.jpg",
+          "credit_id": "629b3bc3dc1cb40e470c1f67",
+          "department": "Production",
+          "job": "Development Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 112159,
+          "known_for_department": "Acting",
+          "name": "Art Camacho",
+          "original_name": "Art Camacho",
+          "popularity": 0.6145,
+          "profile_path": "/5r43Lo6EYrtqnRdzHKgioyrNruN.jpg",
+          "credit_id": "643e091ac7176d048a9869b4",
+          "department": "Crew",
+          "job": "Stunt Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 78108,
+          "known_for_department": "Directing",
+          "name": "Isaac Florentine",
+          "original_name": "Isaac Florentine",
+          "popularity": 0.72,
+          "profile_path": "/4PJrg3l105M2GMNazhu2DXZ1Wce.jpg",
+          "credit_id": "5c2f6b809251416e456ddfdc",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1045500,
+          "known_for_department": "Directing",
+          "name": "Richard Lowry",
+          "original_name": "Richard Lowry",
+          "popularity": 0.396,
+          "profile_path": "/oHVEagq9IPdOXkNeEkZJ05cwNVB.jpg",
+          "credit_id": "5f2ad65f9affc00038e45ade",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-10-12T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-10-13T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "18",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-10-22T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-12-28T00:00:00.000Z",
+              "type": 4
+            },
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-12-28T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Hot Cinema2",
+              "release_date": "2024-06-21T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2021-04-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-10-13T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "R",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Digital",
+              "release_date": "2020-10-13T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "R",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-10-13T00:00:00.000Z",
+              "type": 4
+            },
+            {
+              "certification": "R",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2020-10-13T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "KR",
+          "title": "시즈드",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Seized - Gekidnapped",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BR",
+          "title": "Capturado",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CA",
+          "title": "Ultimatum (French Canadian title)",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "Atrapado",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "IL",
+          "title": "נתפס",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "RU",
+          "title": "Захват",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

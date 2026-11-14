@@ -1,0 +1,133 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1237882?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:36.208Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1237882,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "es",
+    "original_title": "Ojos Que No Ven",
+    "overview": "",
+    "popularity": 0.1427,
+    "poster_path": "/ncFcRbLlHp6IQkl69mGU0tmn4bE.jpg",
+    "production_companies": [
+      {
+        "id": 219518,
+        "logo_path": null,
+        "name": "Adinfinitum Films",
+        "origin_country": ""
+      },
+      {
+        "id": 219519,
+        "logo_path": null,
+        "name": "Instituto Familiar de la Raza",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1987-01-01",
+    "revenue": 0,
+    "runtime": 51,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ojos Que No Ven",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4507161,
+          "known_for_department": "Directing",
+          "name": "Jose Guiterrez-Gomez",
+          "original_name": "Jose Guiterrez-Gomez",
+          "popularity": 0.0194,
+          "profile_path": null,
+          "credit_id": "65b80b3bdb154f00bd92935f",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2997596,
+          "known_for_department": "Writing",
+          "name": "José Vergelin",
+          "original_name": "José Vergelin",
+          "popularity": 0.0786,
+          "profile_path": null,
+          "credit_id": "65b80b7db18f32017c2848c5",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4507179,
+          "known_for_department": "Writing",
+          "name": "Rodrigo Reyes",
+          "original_name": "Rodrigo Reyes",
+          "popularity": 0.0278,
+          "profile_path": null,
+          "credit_id": "65b80d873d35570163bcb2f6",
+          "department": "Writing",
+          "job": "Screenplay"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1987-01-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

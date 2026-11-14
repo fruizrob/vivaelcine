@@ -1,0 +1,188 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/739026?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:00.135Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 739026,
+    "imdb_id": "tt0070503",
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Pan",
+    "overview": "",
+    "popularity": 0.3084,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "1973-11-02",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pan",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 38161,
+          "known_for_department": "Acting",
+          "name": "Louis Waldon",
+          "original_name": "Louis Waldon",
+          "popularity": 0.4111,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Pan",
+          "credit_id": "5f5016747390c00034328135",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 38051,
+          "known_for_department": "Acting",
+          "name": "Helga Anders",
+          "original_name": "Helga Anders",
+          "popularity": 0.5745,
+          "profile_path": "/vgsYpHEuTjrVy8myn87d7ThhQln.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "5f5016a412970c0035a03201",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22531,
+          "known_for_department": "Acting",
+          "name": "Herbert Fux",
+          "original_name": "Herbert Fux",
+          "popularity": 0.7101,
+          "profile_path": "/6fxgv19OAVQjGUSRODwRczPtZ55.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "5f5016aec5840d00377825bd",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1646,
+          "known_for_department": "Acting",
+          "name": "Udo Kier",
+          "original_name": "Udo Kier",
+          "popularity": 1.5223,
+          "profile_path": "/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg",
+          "cast_id": 5,
+          "character": "Pilgrim of Death",
+          "credit_id": "5f5016bcf29d6600345d6d67",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1085056,
+          "known_for_department": "Acting",
+          "name": "Evelyn Opela",
+          "original_name": "Evelyn Opela",
+          "popularity": 0.3366,
+          "profile_path": "/guIzQdOp0OAOgefcXLeSezwAISe.jpg",
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "5f5016c512970c00379fbd54",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 37338,
+          "known_for_department": "Acting",
+          "name": "Dieter Schidor",
+          "original_name": "Dieter Schidor",
+          "popularity": 0.4277,
+          "profile_path": "/lF1YvzJWyG6EA6gCiPk72mK6cwV.jpg",
+          "cast_id": 7,
+          "character": "",
+          "credit_id": "5f5016cd6782590035cc6ac0",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 53419,
+          "known_for_department": "Acting",
+          "name": "Elga Sorbas",
+          "original_name": "Elga Sorbas",
+          "popularity": 0.2603,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "5f5016d8e894a6003747db19",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1139431,
+          "known_for_department": "Directing",
+          "name": "George Moorse",
+          "original_name": "George Moorse",
+          "popularity": 0.2236,
+          "profile_path": "/liZuGBHVaRZsYUQX0UcWrgb8pcC.jpg",
+          "credit_id": "5f5016676782590032ccf1e9",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1973-11-02T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

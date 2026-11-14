@@ -1,0 +1,32 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=El+laberinto+del+fauno&include_adult=false&language=es-ES&year=2006",
+  "retrievedAt": "2026-11-14T02:25:44.832Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+        "genre_ids": [
+          14,
+          18,
+          10752
+        ],
+        "id": 1417,
+        "title": "El laberinto del fauno",
+        "original_language": "es",
+        "original_title": "El laberinto del fauno",
+        "overview": "En la España falangista de 1944, una joven aficionada a los libros e hijastra de un sádico oficial del ejército huye a un misterioso pero cautivador mundo de fantasía.",
+        "popularity": 15.7307,
+        "poster_path": "/gWPkUFGlO7ZIiArUcWRBmvAwVjB.jpg",
+        "release_date": "2006-10-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.771,
+        "vote_count": 11918
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

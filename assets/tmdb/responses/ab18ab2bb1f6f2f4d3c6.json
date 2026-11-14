@@ -1,0 +1,411 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/80540?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:08.228Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/aGrjIWmXG6171tz959nZYJwVg68.jpg",
+    "belongs_to_collection": null,
+    "budget": 10000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 80540,
+    "imdb_id": "tt0458500",
+    "origin_country": [
+      "GB",
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Teresa, el cuerpo de Cristo",
+    "overview": "Siglo XVI. Teresa de Cepeda y Ahumada es la hija de un hidalgo de Ávila que se resiste a aceptar su rol de mujer en un mundo de hombres: no quiere limitarse a ser esposa y madre. Siente que tiene que haber algo más elevado. Quiere escribir, quiere leer, quiere aprender. En busca de ese “algo” que le falta, ingresa en un convento de clausura. Su decepción no puede ser mayor: tras las paredes del claustro reina el materialismo y la misma frivolidad de los que ella viene huyendo. Así, decide iniciar una cruzada de oración y sacrificio que la convierten primero en una rebelde y una loca, más tarde en una líder y, finalmente en una santa. Esta es la crónica de una mujer única para un tiempo difícil. Una mujer hermosa y fuerte que luchó contra el mundo y salió ganando en su día y en la historia...",
+    "popularity": 0.7605,
+    "poster_path": "/z7nMnJLP8oO4edyJEHmJRXTLWXU.jpg",
+    "production_companies": [
+      {
+        "id": 25899,
+        "logo_path": null,
+        "name": "Artédis",
+        "origin_country": "FR"
+      },
+      {
+        "id": 71141,
+        "logo_path": null,
+        "name": "Future Film Production",
+        "origin_country": ""
+      },
+      {
+        "id": 1025,
+        "logo_path": "/9kuQMWUQxiWbPkOrNi9xYIypwNa.png",
+        "name": "Lolafilms",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2007-03-09",
+    "revenue": 0,
+    "runtime": 101,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Teresa, el cuerpo de Cristo",
+    "video": false,
+    "vote_average": 4.5,
+    "vote_count": 15,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3627,
+          "known_for_department": "Acting",
+          "name": "Paz Vega",
+          "original_name": "Paz Vega",
+          "popularity": 2.7405,
+          "profile_path": "/fNLlJysFd5f0Q8Lj20EZpU8BiRN.jpg",
+          "cast_id": 0,
+          "character": "Teresa",
+          "credit_id": "5683894592514131df014362",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 101,
+          "known_for_department": "Acting",
+          "name": "Leonor Watling",
+          "original_name": "Leonor Watling",
+          "popularity": 0.9526,
+          "profile_path": "/uyEM3c37lL90by5vmuOk0XZQ83O.jpg",
+          "cast_id": 1,
+          "character": "Doña Guiomar de Ulloa",
+          "credit_id": "5683895f9251414ecb00850d",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 400,
+          "known_for_department": "Acting",
+          "name": "Geraldine Chaplin",
+          "original_name": "Geraldine Chaplin",
+          "popularity": 2.3275,
+          "profile_path": "/teiPgoY0Fgyw4Xs07IGDsJmcsjL.jpg",
+          "cast_id": 2,
+          "character": "Priora",
+          "credit_id": "56838974c3a36828f500cb78",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 72631,
+          "known_for_department": "Acting",
+          "name": "José Luis Gómez",
+          "original_name": "José Luis Gómez",
+          "popularity": 0.5129,
+          "profile_path": "/eG52Jd823tAQ1Ktoz7eD3CGY2PR.jpg",
+          "cast_id": 3,
+          "character": "Fray Pedro de Alcántara",
+          "credit_id": "5683898ac3a3684be9016248",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 34629,
+          "known_for_department": "Acting",
+          "name": "Eusebio Poncela",
+          "original_name": "Eusebio Poncela",
+          "popularity": 0.4375,
+          "profile_path": "/pCbXRk44XYJzWDzYybAco5dlGF7.jpg",
+          "cast_id": 4,
+          "character": "Fray Gaspar Daza",
+          "credit_id": "5683899a9251412e52015400",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 59139,
+          "known_for_department": "Acting",
+          "name": "Amparo Valle",
+          "original_name": "Amparo Valle",
+          "popularity": 0.2583,
+          "profile_path": "/7LGFF7Tprg2hZUNohLvGJ5GNrSc.jpg",
+          "cast_id": 5,
+          "character": "Mari Briceño",
+          "credit_id": "568389aac3a3684bcc01818d",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3652,
+          "known_for_department": "Acting",
+          "name": "Manuel Morón",
+          "original_name": "Manuel Morón",
+          "popularity": 0.5641,
+          "profile_path": "/kK9liGaocGdahQc4RnnMxm5U7V5.jpg",
+          "cast_id": 6,
+          "character": "Provincial",
+          "credit_id": "568389bcc3a36860e90169ae",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1033064,
+          "known_for_department": "Acting",
+          "name": "Francesc Garrido",
+          "original_name": "Francesc Garrido",
+          "popularity": 0.8407,
+          "profile_path": "/npt3TYgw3Suvucq3o0n5Tdt59C.jpg",
+          "cast_id": 7,
+          "character": "Salcedo",
+          "credit_id": "568389cdc3a3686075015a9b",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3613269,
+          "known_for_department": "Acting",
+          "name": "Amparo Marín",
+          "original_name": "Amparo Marín",
+          "popularity": 0.1389,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Monja 1",
+          "credit_id": "62c58bb5dcb6a300501ad3cf",
+          "order": 8
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3790,
+          "known_for_department": "Writing",
+          "name": "Ray Loriga",
+          "original_name": "Ray Loriga",
+          "popularity": 0.4626,
+          "profile_path": null,
+          "credit_id": "56838a12c3a3682abc0107b5",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3790,
+          "known_for_department": "Writing",
+          "name": "Ray Loriga",
+          "original_name": "Ray Loriga",
+          "popularity": 0.4626,
+          "profile_path": null,
+          "credit_id": "56838a06c3a3686075015aa9",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1193974,
+          "known_for_department": "Sound",
+          "name": "Ángel Illarramendi",
+          "original_name": "Ángel Illarramendi",
+          "popularity": 0.27,
+          "profile_path": "/cEBy6A6Nq6SmFVmKspkMB6rQKCo.jpg",
+          "credit_id": "596c739bc3a3685bb100103e",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1152752,
+          "known_for_department": "Editing",
+          "name": "Pablo Blanco",
+          "original_name": "Pablo Blanco",
+          "popularity": 0.3534,
+          "profile_path": "/mCeTTGka3kK2zOoA9lSqvqVZKjY.jpg",
+          "credit_id": "5a916ed9c3a368252900b48f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 10759,
+          "known_for_department": "Sound",
+          "name": "Michael Nyman",
+          "original_name": "Michael Nyman",
+          "popularity": 0.3169,
+          "profile_path": "/8D3nBzYlHloLv31EJzVW1ZBF19.jpg",
+          "credit_id": "5a916ec70e0a2616c600afc4",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4376,
+          "known_for_department": "Camera",
+          "name": "José Luis Alcaine",
+          "original_name": "José Luis Alcaine",
+          "popularity": 0.369,
+          "profile_path": "/sOBZyYDImqtkv34q8bAAIwa5weH.jpg",
+          "credit_id": "5a916ecf92514141830094da",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 18806,
+          "known_for_department": "Production",
+          "name": "António da Cunha Telles",
+          "original_name": "António da Cunha Telles",
+          "popularity": 0.3402,
+          "profile_path": "/8ZaViDkoATD5rIhhm6FmQxyz0tn.jpg",
+          "credit_id": "5a916ebb0e0a2616d200ae07",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1984280,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Maribel Pérez",
+          "original_name": "Maribel Pérez",
+          "popularity": 0.0685,
+          "profile_path": null,
+          "credit_id": "5a916eec0e0a2616bd00a7e8",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 958722,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Eiko Ishioka",
+          "original_name": "Eiko Ishioka",
+          "popularity": 0.3884,
+          "profile_path": "/pznygmqUyS6We51zIUiQG3zwXp4.jpg",
+          "credit_id": "5a916ee3c3a368250200aa02",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1173688,
+          "known_for_department": "Crew",
+          "name": "Ricardo Cruz",
+          "original_name": "Ricardo Cruz",
+          "popularity": 0.2634,
+          "profile_path": "/3B5iuwJCW4JjCJlKn9tlFpZNXOq.jpg",
+          "credit_id": "6aca2a272bc0504e56de3a89",
+          "department": "Crew",
+          "job": "Stunt Coordinator"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2007-03-09T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2007-06-18T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2007-06-14T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2007-11-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "PT",
+          "title": "Teresa, O Corpo de Cristo",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "Teresa, muerte y vida",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

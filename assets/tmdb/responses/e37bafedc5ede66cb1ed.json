@@ -1,0 +1,31 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Videoclub+2001&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:18.026Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/eZAgfLsIJ6GKPgkNK2FQyz8bFxE.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 1503361,
+        "title": "Videoclub 2001",
+        "original_language": "es",
+        "original_title": "Videoclub 2001",
+        "overview": "Otoño de 2005. La digitalización avanza imparable y los videoclubs están en peligro de extinción. Mila, una joven rebelde que hereda el “Videoclub 2001” tras la muerte de su padre, debe decidir si lucha por mantenerlo vivo. Por su familia, su comunidad y su amor por el cine.",
+        "popularity": 0.489,
+        "poster_path": "/5DNyGLgY5XcyZH1L9PkqFT1cpfT.jpg",
+        "release_date": "2025-06-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

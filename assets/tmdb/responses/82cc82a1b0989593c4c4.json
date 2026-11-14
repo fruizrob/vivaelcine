@@ -1,0 +1,575 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1333148?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:39.358Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/oBMA6g6lWjl2KIXu7RMgl2n0EO0.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 1333148,
+    "imdb_id": "tt31828781",
+    "origin_country": [
+      "BG",
+      "RO"
+    ],
+    "original_language": "ro",
+    "original_title": "Captura",
+    "overview": "",
+    "popularity": 0.4862,
+    "poster_path": "/sr3knfntoqmBy3D5mQp8lDKZEVx.jpg",
+    "production_companies": [
+      {
+        "id": 99677,
+        "logo_path": "/1IAeYNQdZ5a0SQ2mwr2UIuk5mtH.png",
+        "name": "Axel Film",
+        "origin_country": "RO"
+      },
+      {
+        "id": 224070,
+        "logo_path": "/j8VsacFKnkg1QhKkfglS5Fp62xx.png",
+        "name": "Contrast Films",
+        "origin_country": "BG"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "RO",
+        "name": "Romania"
+      },
+      {
+        "iso_3166_1": "BG",
+        "name": "Bulgaria"
+      }
+    ],
+    "release_date": "2024-11-15",
+    "revenue": 0,
+    "runtime": 76,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Romanian",
+        "iso_639_1": "ro",
+        "name": "Română"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Captura",
+    "video": false,
+    "vote_average": 4,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2196632,
+          "known_for_department": "Acting",
+          "name": "Yann Verburgh",
+          "original_name": "Yann Verburgh",
+          "popularity": 0.1905,
+          "profile_path": "/lgDKpsonuiUseOGz2Mgsx6pRwHj.jpg",
+          "cast_id": 6,
+          "character": "Sami",
+          "credit_id": "6796bd4f0e1e0486d62b1a8e",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1547411,
+          "known_for_department": "Acting",
+          "name": "Nicoleta Lefter",
+          "original_name": "Nicoleta Lefter",
+          "popularity": 0.0762,
+          "profile_path": "/khbGLYPz1H0T3E3up8YnoGLPBHr.jpg",
+          "cast_id": 3,
+          "character": "Pia",
+          "credit_id": "6796bd0e0e1e0486d62b1a5c",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 77902,
+          "known_for_department": "Acting",
+          "name": "Simona Măicănescu",
+          "original_name": "Simona Măicănescu",
+          "popularity": 0.3604,
+          "profile_path": "/31JabpR3j2esdVuvS2MrLbJ1inH.jpg",
+          "cast_id": 10,
+          "character": "",
+          "credit_id": "67e74cdff1f5376875dd953b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2399509,
+          "known_for_department": "Acting",
+          "name": "Cezar Antal",
+          "original_name": "Cezar Antal",
+          "popularity": 0.2956,
+          "profile_path": "/4E8Gq46TzTOCSqANTxStIvYNHQ4.jpg",
+          "cast_id": 11,
+          "character": "",
+          "credit_id": "67e74ceb6b367d469567a40c",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1611680,
+          "known_for_department": "Acting",
+          "name": "Corneliu Ulici",
+          "original_name": "Corneliu Ulici",
+          "popularity": 0.3139,
+          "profile_path": "/bbn3v2DHsmRRFkNbC9HudZK3NFh.jpg",
+          "cast_id": 12,
+          "character": "",
+          "credit_id": "67e74cfc6deb8da720dd9c60",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4196968,
+          "known_for_department": "Acting",
+          "name": "Mihaela Rădescu",
+          "original_name": "Mihaela Rădescu",
+          "popularity": 0.1081,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "",
+          "credit_id": "67e74d10f1f5376875dd954e",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2939666,
+          "known_for_department": "Acting",
+          "name": "Razvan Krem Alexe",
+          "original_name": "Razvan Krem Alexe",
+          "popularity": 0.1739,
+          "profile_path": "/fqiLvULLxi4pFMXKwQ7gXQQGiiN.jpg",
+          "cast_id": 4,
+          "character": "Vadim",
+          "credit_id": "6796bd3525d2980fb023fdc7",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2228284,
+          "known_for_department": "Acting",
+          "name": "Pavel Ulici",
+          "original_name": "Pavel Ulici",
+          "popularity": 0.2134,
+          "profile_path": "/pTO3yjLN2fIKCQCxVcJNbnsA2kk.jpg",
+          "cast_id": 14,
+          "character": "",
+          "credit_id": "67e74d2cf1f5376875dd9554",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3395102,
+          "known_for_department": "Acting",
+          "name": "Ciprian Chiricheș",
+          "original_name": "Ciprian Chiricheș",
+          "popularity": 0.1524,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "",
+          "credit_id": "67e74d386deb8da720dd9c6e",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1412726,
+          "known_for_department": "Acting",
+          "name": "Flavia Hojda",
+          "original_name": "Flavia Hojda",
+          "popularity": 0.218,
+          "profile_path": "/kXSKPZywJ8DsqQoixKTNKY9Ay1a.jpg",
+          "cast_id": 16,
+          "character": "",
+          "credit_id": "67e74d3d6deb8da720dd9c71",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5334611,
+          "known_for_department": "Acting",
+          "name": "Simona Dabija",
+          "original_name": "Simona Dabija",
+          "popularity": 0.0278,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "",
+          "credit_id": "67e74d5087145de32d6367ad",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5334612,
+          "known_for_department": "Acting",
+          "name": "Ilie Alexandru Bumbac",
+          "original_name": "Ilie Alexandru Bumbac",
+          "popularity": 0.0345,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "",
+          "credit_id": "67e74d65b5655aac426369c5",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2506825,
+          "known_for_department": "Acting",
+          "name": "Marius Cordos",
+          "original_name": "Marius Cordos",
+          "popularity": 0.3326,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "",
+          "credit_id": "67e74d73b5655aac426369c8",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1617043,
+          "known_for_department": "Acting",
+          "name": "Rolando Matsangos",
+          "original_name": "Rolando Matsangos",
+          "popularity": 0.2238,
+          "profile_path": "/p1rC35yPpOHUiupBWZ007G2V41L.jpg",
+          "cast_id": 20,
+          "character": "",
+          "credit_id": "67e74d806b367d469567a41d",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2023216,
+          "known_for_department": "Acting",
+          "name": "Iulian Burciu",
+          "original_name": "Iulian Burciu",
+          "popularity": 0.1363,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "",
+          "credit_id": "67e74d88b5655aac426369cb",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2392568,
+          "known_for_department": "Acting",
+          "name": "Stefan Mihai",
+          "original_name": "Stefan Mihai",
+          "popularity": 0.2048,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "",
+          "credit_id": "67e74d9e6b367d469567a422",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2328093,
+          "known_for_department": "Acting",
+          "name": "Marius Calugarita",
+          "original_name": "Marius Calugarita",
+          "popularity": 0.1717,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "",
+          "credit_id": "67e74da7b5655aac426369ce",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3875193,
+          "known_for_department": "Acting",
+          "name": "Daniel Haralambie",
+          "original_name": "Daniel Haralambie",
+          "popularity": 0.0691,
+          "profile_path": null,
+          "cast_id": 24,
+          "character": "",
+          "credit_id": "67e74daf6deb8da720dd9c91",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2357763,
+          "known_for_department": "Acting",
+          "name": "Costin Cambir",
+          "original_name": "Costin Cambir",
+          "popularity": 0.1176,
+          "profile_path": "/fZVKKvfqDYjTrKLnP9qentYfl3w.jpg",
+          "cast_id": 25,
+          "character": "",
+          "credit_id": "67e74dba6deb8da720dd9c99",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5334620,
+          "known_for_department": "Acting",
+          "name": "Maria Malcica",
+          "original_name": "Maria Malcica",
+          "popularity": 0.0276,
+          "profile_path": null,
+          "cast_id": 26,
+          "character": "",
+          "credit_id": "67e74dc1b5655aac426369de",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5334621,
+          "known_for_department": "Acting",
+          "name": "Vlad Pavel",
+          "original_name": "Vlad Pavel",
+          "popularity": 0.0219,
+          "profile_path": null,
+          "cast_id": 27,
+          "character": "",
+          "credit_id": "67e74dc987145de32d6367c0",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2322798,
+          "known_for_department": "Acting",
+          "name": "Silviu Debu",
+          "original_name": "Silviu Debu",
+          "popularity": 0.121,
+          "profile_path": null,
+          "cast_id": 28,
+          "character": "",
+          "credit_id": "67e74dcfb5655aac426369e5",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4482697,
+          "known_for_department": "Acting",
+          "name": "Codrin Boldea",
+          "original_name": "Codrin Boldea",
+          "popularity": 0.1151,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "",
+          "credit_id": "67e74dd9b5655aac426369e8",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5334622,
+          "known_for_department": "Acting",
+          "name": "Valentin Terente",
+          "original_name": "Valentin Terente",
+          "popularity": 0.0285,
+          "profile_path": null,
+          "cast_id": 30,
+          "character": "",
+          "credit_id": "67e74dde87145de32d6367cb",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1859384,
+          "known_for_department": "Acting",
+          "name": "Tudor Morar",
+          "original_name": "Tudor Morar",
+          "popularity": 0.0609,
+          "profile_path": null,
+          "cast_id": 31,
+          "character": "",
+          "credit_id": "67e74de36deb8da720dd9ca0",
+          "order": 24
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5334623,
+          "known_for_department": "Acting",
+          "name": "Anamaria Ivan",
+          "original_name": "Anamaria Ivan",
+          "popularity": 0.0151,
+          "profile_path": null,
+          "cast_id": 32,
+          "character": "",
+          "credit_id": "67e74de9f1f5376875dd95ac",
+          "order": 25
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2017159,
+          "known_for_department": "Acting",
+          "name": "Marian Râlea",
+          "original_name": "Marian Râlea",
+          "popularity": 0.2345,
+          "profile_path": "/x421eg3hp5onyDpZYLIaEo3wEOI.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "6796bd40df4b0191ce2af4ac",
+          "order": 26
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1923801,
+          "known_for_department": "Acting",
+          "name": "Ionut Brancu",
+          "original_name": "Ionut Brancu",
+          "popularity": 0.0539,
+          "profile_path": null,
+          "cast_id": 33,
+          "character": "",
+          "credit_id": "67e74e06bd1f96f9ef636507",
+          "order": 27
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1672168,
+          "known_for_department": "Acting",
+          "name": "Sorin Dobrin",
+          "original_name": "Sorin Dobrin",
+          "popularity": 0.1181,
+          "profile_path": null,
+          "cast_id": 34,
+          "character": "",
+          "credit_id": "67e74e14f1f5376875dd95b0",
+          "order": 28
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1581237,
+          "known_for_department": "Writing",
+          "name": "Adi Voicu",
+          "original_name": "Adi Voicu",
+          "popularity": 0.18,
+          "profile_path": null,
+          "credit_id": "66c1244c9fda0e509c9dc7b5",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1581237,
+          "known_for_department": "Writing",
+          "name": "Adi Voicu",
+          "original_name": "Adi Voicu",
+          "popularity": 0.18,
+          "profile_path": null,
+          "credit_id": "673918db097d404fd6670e1f",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 931380,
+          "known_for_department": "Production",
+          "name": "Marcian Lazar",
+          "original_name": "Marcian Lazar",
+          "popularity": 0.0533,
+          "profile_path": null,
+          "credit_id": "6796bd98760f51e17d2b1eb5",
+          "department": "Production",
+          "job": "Production Executive"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3230540,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Sonia Constantinescu",
+          "original_name": "Sonia Constantinescu",
+          "popularity": 0.0881,
+          "profile_path": null,
+          "credit_id": "6796bdda25d2980fb023fdf4",
+          "department": "Costume & Make-Up",
+          "job": "Costume Set Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3230541,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Anca Miron",
+          "original_name": "Anca Miron",
+          "popularity": 0.0278,
+          "profile_path": null,
+          "credit_id": "6796bdf1702f492f478f35cf",
+          "department": "Costume & Make-Up",
+          "job": "Costume Assistant"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "RO",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2024-11-15T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1603999?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:50.675Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 1603999,
+    "imdb_id": null,
+    "origin_country": [
+      "BR",
+      "UY"
+    ],
+    "original_language": "pt",
+    "original_title": "Lodo",
+    "overview": "",
+    "popularity": 0.2356,
+    "poster_path": "/sg1NwJyxHDuzFekZyXbZHK9eEsR.jpg",
+    "production_companies": [
+      {
+        "id": 157427,
+        "logo_path": null,
+        "name": "Cuenco Cine",
+        "origin_country": ""
+      },
+      {
+        "id": 155112,
+        "logo_path": "/xWAOXyQL9POMDsekDcq98eEpPdt.png",
+        "name": "Cafeína Produções",
+        "origin_country": "BR"
+      },
+      {
+        "id": 220320,
+        "logo_path": "/dYAp35zlPIu0wgiXwLfrQGyrw18.png",
+        "name": "2 Plátanos Filmes",
+        "origin_country": "BR"
+      },
+      {
+        "id": 273976,
+        "logo_path": "/eGVUpQCXGYCYAeYtaz9Y7B3C57D.png",
+        "name": "Murmúrio Filmes",
+        "origin_country": "BR"
+      },
+      {
+        "id": 296200,
+        "logo_path": null,
+        "name": "Joseph Specker Nys",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      },
+      {
+        "iso_3166_1": "UY",
+        "name": "Uruguay"
+      }
+    ],
+    "release_date": "2026-01-30",
+    "revenue": 0,
+    "runtime": 15,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lodo",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2053165,
+          "known_for_department": "Directing",
+          "name": "Joseph Specker Nys",
+          "original_name": "Joseph Specker Nys",
+          "popularity": 0.0437,
+          "profile_path": null,
+          "credit_id": "694d8d1789e2aa8f55074568",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2053165,
+          "known_for_department": "Directing",
+          "name": "Joseph Specker Nys",
+          "original_name": "Joseph Specker Nys",
+          "popularity": 0.0437,
+          "profile_path": null,
+          "credit_id": "69e90e8de9ef868f71a5a02d",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1650948,
+          "known_for_department": "Crew",
+          "name": "Eleonora Loner",
+          "original_name": "Eleonora Loner",
+          "popularity": 0.1155,
+          "profile_path": null,
+          "credit_id": "69e90ef3f8d56ce3656b1b73",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6160868,
+          "known_for_department": "Writing",
+          "name": "Thalles Fiala",
+          "original_name": "Thalles Fiala",
+          "popularity": 0.0715,
+          "profile_path": null,
+          "credit_id": "69e90f0264261136babb1746",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2053165,
+          "known_for_department": "Directing",
+          "name": "Joseph Specker Nys",
+          "original_name": "Joseph Specker Nys",
+          "popularity": 0.0437,
+          "profile_path": null,
+          "credit_id": "69e90f146611e5d6190ab6e3",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6160870,
+          "known_for_department": "Production",
+          "name": "Piero Sabini Giannecchin",
+          "original_name": "Piero Sabini Giannecchin",
+          "popularity": 0.0639,
+          "profile_path": null,
+          "credit_id": "69e90f23c772478e4fc615f0",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6160871,
+          "known_for_department": "Production",
+          "name": "Maria Emilia Oliveira de Azevedo",
+          "original_name": "Maria Emilia Oliveira de Azevedo",
+          "popularity": 0.0623,
+          "profile_path": null,
+          "credit_id": "69e90f38a53c72774ccd2ce7",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2551100,
+          "known_for_department": "Visual Effects",
+          "name": "Pablo Turcatti",
+          "original_name": "Pablo Turcatti",
+          "popularity": 0.0881,
+          "profile_path": null,
+          "credit_id": "69e90f494401c99783bb175d",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6160873,
+          "known_for_department": "Crew",
+          "name": "Sergio Piñeiro",
+          "original_name": "Sergio Piñeiro",
+          "popularity": 0.0711,
+          "profile_path": null,
+          "credit_id": "69e90f54a53c72774ccd2cf1",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2053165,
+          "known_for_department": "Directing",
+          "name": "Joseph Specker Nys",
+          "original_name": "Joseph Specker Nys",
+          "popularity": 0.0437,
+          "profile_path": null,
+          "credit_id": "69e90f610ea39f8d68cd2d07",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3160920,
+          "known_for_department": "Editing",
+          "name": "Piero Sabini",
+          "original_name": "Piero Sabini",
+          "popularity": 0.0743,
+          "profile_path": null,
+          "credit_id": "69e90f6c2c9f28ab75bcaf81",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4000728,
+          "known_for_department": "Sound",
+          "name": "Facundo de Castro",
+          "original_name": "Facundo de Castro",
+          "popularity": 0.0799,
+          "profile_path": null,
+          "credit_id": "69e90f79a53c72774ccd2cf4",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4000728,
+          "known_for_department": "Sound",
+          "name": "Facundo de Castro",
+          "original_name": "Facundo de Castro",
+          "popularity": 0.0799,
+          "profile_path": null,
+          "credit_id": "69e90f823ed41d9bd0bb1728",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4000728,
+          "known_for_department": "Sound",
+          "name": "Facundo de Castro",
+          "original_name": "Facundo de Castro",
+          "popularity": 0.0799,
+          "profile_path": null,
+          "credit_id": "69e90f93d6f49585a8cd2cfc",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3160407,
+          "known_for_department": "Sound",
+          "name": "Júlio Miotto",
+          "original_name": "Júlio Miotto",
+          "popularity": 0.0761,
+          "profile_path": null,
+          "credit_id": "69e90fa1547ddc4dad0ab64c",
+          "department": "Sound",
+          "job": "Music"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "International Film Festival Rotterdam ",
+              "release_date": "2026-01-30T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UY",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "16º JIIFF - José Ignacio International Film Festival",
+              "release_date": "2026-02-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}
