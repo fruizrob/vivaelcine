@@ -110,6 +110,8 @@ test('collections, unknown winners and individual parts retain their own facts',
   for (const component of components) assert.ok(programme.includes(`>${esc(component.title)}</a>`));
   const total = components.reduce((minutes, film) => minutes + film.duration, 0);
   assert.ok(programme.includes(`${total} min (suma de cortometrajes)`));
+  assert.ok(programme.includes('Las fichas originales suman 79 min'));
+  assert.ok(!programme.includes('Se conserva la suma de las fichas individuales'));
   const borges = htmlFor('biografia-de-jorge-luis-borges');
   assert.ok(borges.includes('parte 1</h1>'));
   assert.ok(borges.includes('130 min'));
@@ -127,6 +129,12 @@ test('collections, unknown winners and individual parts retain their own facts',
   const foco = htmlFor('foco-federico-luis');
   assert.ok(foco.includes('77 min'));
   assert.ok(foco.includes('suman 78 min'));
+  const ficvina = festivals.find(festival => festival.id === 'ficvina-2026');
+  const doubleBill = ficvina.events.find(event => event.filmId === 'cine-chileno');
+  const doubleBillHtml = pages.get(screeningPath(doubleBill));
+  assert.equal(durationOf(doubleBill, ficvina.films), 104);
+  assert.ok(doubleBillHtml.includes('16:44 estimado por metraje'));
+  assert.ok(doubleBillHtml.includes('Metrajes originales del PDF: 7 y 98 min'));
 });
 
 test('parallel activity pages preserve registration and published ends without invented film facts', () => {

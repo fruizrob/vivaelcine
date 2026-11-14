@@ -59,6 +59,8 @@ export function roomLocation(room) {
 export function matches(event, film, filters) {
   if (filters.venue && event.venueId !== filters.venue) return false;
   if (filters.section && film.section !== filters.section) return false;
-  const components = (film.components || []).flatMap(part => [part.title, part.originalTitle, part.director]);
-  return normalize([event.title, event.originalTitle, event.director, event.countries, film.title, film.originalTitle, film.director, film.countries, film.alias, ...components].join(' ')).includes(normalize(filters.search).trim());
+  const searchable = record => [record.title, record.originalTitle, record.director, record.countries,
+    record.alias, ...(record.aliases || []), ...(record.searchAliases || [])];
+  const components = (film.components || []).flatMap(searchable);
+  return normalize([...searchable(event), ...searchable(film), ...components].join(' ')).includes(normalize(filters.search).trim());
 }

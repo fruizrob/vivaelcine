@@ -48,7 +48,7 @@ export function frame(path, title, description, body, asOf, sharing = false) {
 </head>
 <body>
   <a class="skip-link" href="#programme">Ir al contenido</a>
-  <header><a class="brand" href="/">¡Viva el Cine!</a><nav aria-label="Programación">${link('/', 'Agenda de festivales')}</nav></header>
+  <header><a class="brand" href="/">¡Viva el Cine!</a><nav aria-label="Programación">${link('/festivales/fidocs-2026/', 'FIDOCS 30')} ${link('/festivales/sanfic-2026/', 'SANFIC22')}</nav></header>
   <main id="programme">${body}</main>
   ${sharing ? `<footer><p>Página generada para el <time datetime="${asOf}">${asOf}</time>. Confirma cambios y condiciones con el organizador.</p></footer>` : `<footer><p>Página generada para el <time datetime="${asOf}">${esc(dateLabel(asOf))}</time>. El estado temporal usa esa fecha; no confirma realización ni disponibilidad.</p>
   <p>${link('/', 'Abrir agenda interactiva')}.</p>
@@ -104,11 +104,7 @@ export function buildPages(festivals, sources, asOf) {
     const name = `${festival.name} · ${first.slice(0, 4)}`;
     const eventLabel = events.some(event => festival.films[event.filmId].kind === 'activity') ? 'eventos' : 'funciones';
     const recordedLabel = eventLabel === 'eventos' ? 'Eventos registrados' : 'Funciones registradas';
-    const days = festival.days.map(day => {
-      const count = events.filter(event => event.date === day.date).length;
-      const label = count === 1 ? (eventLabel === 'eventos' ? 'evento' : 'función') : eventLabel;
-      return `<li>${link(dayPath(festival, day.date), dateLabel(day.date))} <span>${count} ${label}</span></li>`;
-    }).join('\n');
+    const days = festival.days.map(day => `<li>${link(dayPath(festival, day.date), dateLabel(day.date))} <span>${events.filter(event => event.date === day.date).length} ${eventLabel}</span></li>`).join('\n');
     pages.set(editionPath(festival), frame(editionPath(festival), `Programación de ${name}`,
       `${festival.name}: ${events.length} ${recordedLabel.toLowerCase()} del ${first} al ${last} en ${festival.city || 'Santiago'}. Horarios, salas y fuentes por día.`,
       `<h1>Programación de ${esc(name)}</h1>${status(first, last, asOf)}

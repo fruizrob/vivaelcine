@@ -1,6 +1,6 @@
-import { applyFilmMetadata } from './film-metadata.js?v=20261114-facts';
+import { applyFilmMetadata } from './film-metadata.js?v=20261114-review';
 import { festivals, festivalFor } from './data.js?v=20261114-amor';
-import { clock, durationOf, endOf, initialDay, roomLocation, yearOf } from './core.js?v=20261114-facts';
+import { clock, durationOf, endOf, initialDay, roomLocation, yearOf } from './core.js?v=20261114-review';
 import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange, timelineWidth } from './timeline.js?v=20261114-facts';
 import { screeningUrl } from './story.js?v=20261114-amor-artwork';
 import { appleCalendarUrl, googleCalendarUrl, setupSharing } from './sharing.js?v=20261114-amor-calendar';
