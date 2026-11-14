@@ -20,6 +20,10 @@ test('catalogue covers every screening, programme member and separate part witho
   const expected = new Set();
   for (const festival of festivals) for (const event of festival.events) {
     const film = festival.films[event.filmId];
+    if (film.kind === 'activity') {
+      assert.ok(!catalogue.has(`${festival.id}/${event.filmId}`));
+      continue;
+    }
     if (film.components) {
       for (const component of film.components) expected.add(`${festival.id}/${component.filmId || `${event.filmId}/${component.title}`}`);
       assert.ok(!catalogue.has(`${festival.id}/${event.filmId}`));

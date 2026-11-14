@@ -119,8 +119,9 @@ test('every official FIDOCS listing and published start maps to a screening', ()
       covered.add(event.id);
     }
   }
-  assert.equal(covered.size, fidocs.events.length);
-  assert.equal(fidocs.events.length, 48);
+  assert.equal(covered.size, fidocs.events.filter(event => fidocs.films[event.filmId].kind !== 'activity').length);
+  assert.equal(covered.size, 48);
+  assert.equal(fidocs.events.length, 52);
 });
 
 test('festival links select independent schedules and preserve existing SANFIC links', () => {
@@ -136,6 +137,44 @@ test('festival links select independent schedules and preserve existing SANFIC l
       assert.ok(festival.sections[festival.films[event.filmId]?.section], event.id);
     }
   }
+});
+
+test('parallel activities use published intervals, venues and registration without film identities', () => {
+  const activities = fidocs.events.filter(event => fidocs.films[event.filmId].kind === 'activity');
+  assert.deepEqual(activities.map(event => [event.date, event.start, endOf(event, fidocs.films), event.roomId]), [
+    ['2026-11-13', 720, 810, 'sala-k'],
+    ['2026-11-15', 600, 690, 'ceina-cine'],
+    ['2026-11-16', 1020, 1080, 'sala-k'],
+    ['2026-11-17', 690, 810, 'udp-biblioteca'],
+  ]);
+  assert.equal(activities.filter(event => fidocs.films[event.filmId].registrationUrl).length, 3);
+  const sources = JSON.parse(readFileSync(new URL('../assets/fidocs-2026-sources.json', import.meta.url)));
+  assert.deepEqual(new Set(sources.activityListings.map(event => event.id)), new Set(activities.map(event => event.id)));
+  for (const event of activities) {
+    const record = fidocs.films[event.filmId];
+    assert.equal(record.year, undefined);
+    assert.equal(record.director, undefined);
+    assert.equal(record.letterboxd, undefined);
+    assert.equal(record.ticketUrl, undefined);
+    const result = drawTimeline(fidocs, { date: event.date, search: record.title,
+      section: 'actividades-paralelas', venue: event.venueId });
+    assert.deepEqual(result.shown.map(item => item.id), [event.id]);
+    assert.match(result.html, new RegExp(`data-event="${event.id}"`));
+  }
+});
+
+test('Borges uses individual PDF runtimes and only unannounced winners keep unknown ends', () => {
+  const parts = fidocs.events.filter(event => event.filmId === 'biografia-de-jorge-luis-borges');
+  assert.deepEqual(parts.map(event => durationOf(event, fidocs.films)), [130, 89, 104]);
+  assert.deepEqual(parts.map(event => endOf(event, fidocs.films)), [790, 944, 1064]);
+  for (const event of parts) assert.match(event.durationSource, /Programacion-FIDOCS-30\.pdf$/);
+  const unknown = fidocs.events.filter(event => endOf(event, fidocs.films) === null);
+  assert.equal(unknown.length, 3);
+  assert.ok(unknown.every(event => fidocs.films[event.filmId].section === 'ganadoras'));
+  assert.equal(fidocs.films['cortos-emergentes-1'].duration, 79);
+  assert.equal(fidocs.films['la-batalla-de-chile-parte-i-ii-y-iii'].duration, 263);
+  assert.equal(fidocs.films['sergio-bravo'].free, true);
+  assert.equal(fidocs.films['sergio-bravo'].qa, true);
 });
 
 test('FIDOCS morning screenings and all published dates fit the timeline', () => {

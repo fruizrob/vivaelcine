@@ -61,6 +61,48 @@ def copy_curated(previous, current):
         current.update(year=previous['year'], yearSource=previous['yearSource'])
 
 
+def apply_program_updates(data, manifest, path):
+    """Apply sourced supplemental program facts after the original snapshot import."""
+    updates = json.loads(path.read_text())
+    data.update(updated=updates['updated'], programUrl=updates['programUrl'])
+    data['sections'].update(updates['sections'])
+    data['rooms'].extend(updates['rooms'])
+    for film_id, fields in updates['filmUpdates'].items():
+        data['films'][film_id].update(fields)
+    by_id = {event['id']: event for event in data['events']}
+    for event_id, fields in updates['eventUpdates'].items():
+        by_id[event_id].update(fields)
+    for film_id, order in updates['componentOrders'].items():
+        film = data['films'][film_id]
+        members = {part['filmId']: part for part in film['components']}
+        assert set(order) == set(members), film_id
+        film['components'] = [members[key] for key in order]
+        film['componentOrderSource'] = updates['programUrl']
+    activity_listings = []
+    for activity in updates['activities']:
+        key = activity['id']
+        assert key not in data['films'], key
+        record = {k:v for k,v in activity.items() if k not in ('id','date','start','roomId')}
+        data['films'][key] = dict(record, kind='activity')
+        room = next(room for room in data['rooms'] if room['id'] == activity['roomId'])
+        event = {k:activity[k] for k in ('date','start','roomId','source')}
+        event.update(id=f'fidocs-2026-{key}', filmId=key, venueId=room['venueId'])
+        data['events'].append(event)
+        activity_listings.append(dict(event, duration=record['duration']))
+    data['events'].sort(key=lambda event:(event['date'],event['start'],event['roomId'],event['id']))
+    manifest.update(baselineRetrieved=manifest['retrieved'], retrieved=updates['updated'],
+                    activityListings=activity_listings)
+    manifest['method'] += ' November 13 audit: current listings/details, downloadable program and parallel activities.'
+    manifest['counts'].update(activityRecords=len(activity_listings), activityBlocks=len(activity_listings),
+                              agendaBlocks=len(data['events']), screeningSpaces=manifest['counts']['spaces'],
+                              spaces=len(data['rooms']))
+    manifest['uncertainties'] = [item for item in manifest['uncertainties']
+                                if item.get('filmId') != 'biografia-de-jorge-luis-borges'] + updates['uncertainties']
+    manifest['additionalSources'].extend(updates['sources'])
+    manifest['supplementSha256'] = hashlib.sha256(path.read_bytes()).hexdigest()
+    manifest['programSha256'] = updates['programSha256']
+
+
 def main(raw_dir, repo):
     bundle = json.loads((raw_dir / 'source-snapshots-20261103.json').read_text())
     tickets = json.loads((raw_dir / 'all-ticket-links-20261103.json').read_text())['tickets']
@@ -233,6 +275,7 @@ def main(raw_dir, repo):
     for event in events:
         assert event['filmId'] in films and event['roomId'] in {x['id'] for x in rooms}
     preserve_curated_metadata(repo / 'data/fidocs-2026.js', films, events)
+    apply_program_updates(data, manifest, repo / 'assets/fidocs-2026-updates.json')
     repo.joinpath('data').mkdir(exist_ok=True, parents=True)
     repo.joinpath('assets').mkdir(exist_ok=True)
     # One record per line keeps large, read-only datasets reviewable and below 500 LOC.
