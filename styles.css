@@ -159,9 +159,12 @@ dialog .film-heading h2{margin-top:0;overflow-wrap:anywhere}
 .detail-when{font-size:15px;color:var(--ink);border-block:1px solid var(--line);padding:16px 0}
 .detail-when strong{display:block;margin-block:4px;font-size:18px;font-variant-numeric:tabular-nums;white-space:nowrap}
 .detail-when span{display:block;font-size:12px;margin-top:5px}
-.calendar-button{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:46px;margin-bottom:18px;padding:10px 16px;border:1px solid #c2d7f4;border-radius:6px;background:#e8f0fe;color:#174ea6;font-size:13px;font-weight:600;text-decoration:none}
+.calendar-actions{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:18px}
+.calendar-button{display:inline-flex;flex:1;align-items:center;justify-content:center;gap:10px;min-height:46px;padding:10px 16px;border:1px solid #c2d7f4;border-radius:6px;background:#e8f0fe;color:#174ea6;font-size:13px;font-weight:600;text-decoration:none;white-space:nowrap}
 .calendar-button img{flex:none}
 .calendar-button:hover{background:#dce8fc;border-color:#8cb1e5}
+.apple-calendar{border-color:var(--line);background:var(--white);color:var(--ink)}
+.apple-calendar:hover{border-color:var(--muted);background:#f0ede5}
 dialog .film-director{color:var(--ink);margin:0 0 6px}
 dialog .film-meta{font-size:12px;margin:0 0 6px;text-wrap:pretty}
 dialog .film-admission{color:var(--ink);margin:12px 0}
@@ -235,7 +238,7 @@ dialog{padding:28px 22px}
 .release-notes-header{padding:16px 12px 12px 22px}
 .release-notes-body{padding:0 22px 24px}
 dialog h2{font-size:29px}
-.calendar-button{width:100%}
+.calendar-button{flex-basis:100%}
 .detail-when{font-size:13px}}
 @media(max-width:480px){.film-heading{gap:16px}.film-heading>.film-poster{width:76px}dialog .film-heading h2{font-size:26px}}
 @media print{.masthead,.toolbar,.legend,.footer,.days,.skip-link,.event-share,.share-menu,dialog{display:none!important}

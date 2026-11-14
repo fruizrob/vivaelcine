@@ -39,6 +39,10 @@ export function googleCalendarUrl(festival, event, pageUrl) {
   return `https://calendar.google.com/calendar/render?${params}&dates=${dates}`;
 }
 
+export function appleCalendarUrl(festival, event, pageUrl) {
+  return new URL(`/calendarios/${encodeURIComponent(festival.id)}/${encodeURIComponent(event.id)}.ics`, pageUrl).href;
+}
+
 export function setupSharing(menu, storyDialog, festival) {
   const showStory = setupStory(storyDialog, festival);
   const story = menu.querySelector('#choose-story');

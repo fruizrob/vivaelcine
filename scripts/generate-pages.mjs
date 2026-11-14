@@ -6,6 +6,7 @@ import { localDate } from '../discovery-time.js';
 import { buildPages, sitemap } from './discovery-pages.mjs';
 import shortLinks from '../data/short-links.js';
 import { updateLinks, serializeLinks, buildShortPages, notFoundPage } from './short-pages.mjs';
+import { buildCalendarFiles } from './calendar-files.mjs';
 
 const root = new URL('../', import.meta.url);
 const json = async path => JSON.parse(await readFile(new URL(path, root), 'utf8'));
@@ -52,11 +53,13 @@ export async function generate({ check = false, asOf } = {}) {
   const links = updateLinks(inputs.festivals, shortLinks);
   const shortPages = buildShortPages(inputs.festivals, links, date);
   const outputs = new Map([...pages, ...shortPages].map(([path, html]) => [path.slice(1) + 'index.html', html]));
+  const calendars = buildCalendarFiles(inputs.festivals);
+  for (const [path, content] of calendars) outputs.set(path, content);
   outputs.set('data/short-links.js', serializeLinks(links));
   outputs.set('404.html', notFoundPage(date));
   outputs.set('sitemap.xml', sitemap(pages));
   outputs.set('generated-pages.json', JSON.stringify({ asOf: date, files: [...outputs.keys()].sort() }, null, 2) + '\n');
-  const existing = [...await existingPages('festivales/'), ...await existingPages('funciones/'), ...await existingPages('s/')];
+  const existing = [...await existingPages('festivales/'), ...await existingPages('funciones/'), ...await existingPages('s/'), ...await existingPages('calendarios/')];
   const obsolete = existing.filter(path => !outputs.has(path));
   if (obsolete.length) throw new Error(`Obsolete generated files require explicit review/removal: ${obsolete.join(', ')}`);
   const stale = [];
@@ -75,7 +78,7 @@ export async function generate({ check = false, asOf } = {}) {
     }
   }
   if (stale.length) throw new Error(`Stale generated output (${stale.length} files). Run npm run generate:pages. First: ${stale.slice(0, 4).join(', ')}`);
-  return { pages: pages.size, shortLinks: shortPages.size, asOf: date };
+  return { pages: pages.size, shortLinks: shortPages.size, calendars: calendars.size, asOf: date };
 }
 
 if (process.argv[1] && pathToFileURL(process.argv[1]).href === import.meta.url) {
@@ -88,7 +91,7 @@ if (process.argv[1] && pathToFileURL(process.argv[1]).href === import.meta.url) 
       else throw new Error('Usage: node scripts/generate-pages.mjs [--check] [--as-of YYYY-MM-DD]');
     }
     const result = await generate({ check: args.includes('--check'), asOf });
-    console.log(`${args.includes('--check') ? 'Checked' : 'Generated'} ${result.pages} programme pages and ${result.shortLinks} short links; calendar cut-off ${result.asOf}.`);
+    console.log(`${args.includes('--check') ? 'Checked' : 'Generated'} ${result.pages} programme pages, ${result.shortLinks} short links and ${result.calendars} calendar files; calendar cut-off ${result.asOf}.`);
   } catch (error) {
     console.error(error.message);
     process.exitCode = 1;
