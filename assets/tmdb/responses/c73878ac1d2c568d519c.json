@@ -1,0 +1,88 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/402422?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:22.903Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 402422,
+    "imdb_id": "tt1852037",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Mr. Ross",
+    "overview": "",
+    "popularity": 0.1444,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2010-07-22",
+    "revenue": 0,
+    "runtime": 4,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mr. Ross",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1240487,
+          "known_for_department": "Acting",
+          "name": "Kate McKinnon",
+          "original_name": "Kate McKinnon",
+          "popularity": 2.1207,
+          "profile_path": "/2cNetzianFcxPQbyOQnkAIkKUZE.jpg",
+          "cast_id": 1,
+          "character": "Debby",
+          "credit_id": "5762e5fb925141444e00006c",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1431875,
+          "known_for_department": "Directing",
+          "name": "Mitch Magee",
+          "original_name": "Mitch Magee",
+          "popularity": 0.1316,
+          "profile_path": null,
+          "credit_id": "5762e581925141444200004e",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-07-22T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

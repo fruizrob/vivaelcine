@@ -1,0 +1,135 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/439610?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:52.249Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 439610,
+    "imdb_id": "",
+    "origin_country": [
+      "PT"
+    ],
+    "original_language": "pt",
+    "original_title": "As Polacas - Flores do Lodo",
+    "overview": "",
+    "popularity": 0.2943,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2017-02-05",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "As Polacas - Flores do Lodo",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1751031,
+          "known_for_department": "Acting",
+          "name": "Alexandre Akerman",
+          "original_name": "Alexandre Akerman",
+          "popularity": 0.0605,
+          "profile_path": null,
+          "cast_id": 0,
+          "character": "",
+          "credit_id": "589739a6c3a36822e00144e6",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1751032,
+          "known_for_department": "Acting",
+          "name": "Beth Zalcman",
+          "original_name": "Beth Zalcman",
+          "popularity": 0.2648,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "589739c69251412e0d019546",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1751033,
+          "known_for_department": "Acting",
+          "name": "Carla Soares",
+          "original_name": "Carla Soares",
+          "popularity": 0.0826,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "589739d9c3a368627c015045",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1751034,
+          "known_for_department": "Acting",
+          "name": "Eduardo Osorio",
+          "original_name": "Eduardo Osorio",
+          "popularity": 0.0323,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "589739e79251415a5b014697",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1751035,
+          "known_for_department": "Acting",
+          "name": "João das Neves",
+          "original_name": "João das Neves",
+          "popularity": 0.1778,
+          "profile_path": "/gP8gxDD9PLoeGy7UAaksRnaatiW.jpg",
+          "credit_id": "58973a11c3a36822e0014527",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2017-02-05T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

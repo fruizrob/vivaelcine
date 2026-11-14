@@ -1,0 +1,669 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1495245?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:50.390Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/ygjUi7Vq0zKVJhqRdlzpTJjuyeT.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 1495245,
+    "imdb_id": "tt11132536",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "eu",
+    "original_title": "Karmele",
+    "overview": "",
+    "popularity": 0.2033,
+    "poster_path": "/50frWMPdylqPZ5iMCJBdDmqhdw7.jpg",
+    "production_companies": [
+      {
+        "id": 65398,
+        "logo_path": "/jW6iQpVx8nyfHmKktTs9SfhbLft.png",
+        "name": "Txintxua Films",
+        "origin_country": "ES"
+      },
+      {
+        "id": 109961,
+        "logo_path": null,
+        "name": "Gastibeltza Filmak",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2025-10-10",
+    "revenue": 0,
+    "runtime": 114,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Basque",
+        "iso_639_1": "eu",
+        "name": "euskera"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Karmele",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2480576,
+          "known_for_department": "Acting",
+          "name": "Jone Laspiur",
+          "original_name": "Jone Laspiur",
+          "popularity": 0.2985,
+          "profile_path": "/3oDKWBrXdZxmZr0f2GJXb8d7BfF.jpg",
+          "cast_id": 13,
+          "character": "Karmele Urresti",
+          "credit_id": "6846e65dc4906be91f2931a8",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1658652,
+          "known_for_department": "Acting",
+          "name": "Eneko Sagardoy",
+          "original_name": "Eneko Sagardoy",
+          "popularity": 0.4217,
+          "profile_path": "/rDVddEvLjCMSdR9Uu7zFds2pQEz.jpg",
+          "cast_id": 14,
+          "character": "Txomin Letamendi",
+          "credit_id": "6846e66c80ad30119629300a",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1303016,
+          "known_for_department": "Acting",
+          "name": "Nagore Aranburu",
+          "original_name": "Nagore Aranburu",
+          "popularity": 0.4586,
+          "profile_path": "/o4LsdYek1XDfVRFxWKEaPuZhgAZ.jpg",
+          "cast_id": 15,
+          "character": "Madre de Karmele",
+          "credit_id": "6846e67815854ca56634294c",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3604313,
+          "known_for_department": "Acting",
+          "name": "Javier Barandiarán",
+          "original_name": "Javier Barandiarán",
+          "popularity": 0.381,
+          "profile_path": "/rDySCuA5mMfhCOAXG0NBM7F8auo.jpg",
+          "cast_id": 16,
+          "character": "Padre de Karmele",
+          "credit_id": "6846e680166c738044de7053",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2459717,
+          "known_for_department": "Acting",
+          "name": "Kepa Errasti",
+          "original_name": "Kepa Errasti",
+          "popularity": 0.3319,
+          "profile_path": "/41VgCyie2G2ekFZCGA3LGvzBLbM.jpg",
+          "cast_id": 18,
+          "character": "Manu Sota",
+          "credit_id": "68e96cbe74eee2f60f4a9dca",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1975583,
+          "known_for_department": "Acting",
+          "name": "Iñigo Aranburu",
+          "original_name": "Iñigo Aranburu",
+          "popularity": 0.3487,
+          "profile_path": "/5Frg6smKAUi4crWTF36S7g4HYsU.jpg",
+          "cast_id": 19,
+          "character": "Olazabal",
+          "credit_id": "68e96cd19f790d8be8aa1e1d",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1124052,
+          "known_for_department": "Acting",
+          "name": "Iñaki Beraetxe",
+          "original_name": "Iñaki Beraetxe",
+          "popularity": 0.1848,
+          "profile_path": "/6gpmLxIUOm3IGqdc7Me3abza5j0.jpg",
+          "cast_id": 20,
+          "character": "Julián",
+          "credit_id": "68e96cdfd49e9ead71e6aeb6",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2662808,
+          "known_for_department": "Directing",
+          "name": "Lur Olaizola Lizarralde",
+          "original_name": "Lur Olaizola Lizarralde",
+          "popularity": 0.1376,
+          "profile_path": "/iOmacJLzCXBwxF4ZgU5GF1Vfzpd.jpg",
+          "cast_id": 45,
+          "character": "Uncredited",
+          "credit_id": "692ee7f5ae123022453992bf",
+          "order": 7
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1034477,
+          "known_for_department": "Directing",
+          "name": "Asier Altuna",
+          "original_name": "Asier Altuna",
+          "popularity": 0.1786,
+          "profile_path": "/8904hiBejz1Od8bqIajHma9xDiE.jpg",
+          "credit_id": "6846e4cd2435c5cb9d301a81",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1034477,
+          "known_for_department": "Directing",
+          "name": "Asier Altuna",
+          "original_name": "Asier Altuna",
+          "popularity": 0.1786,
+          "profile_path": "/8904hiBejz1Od8bqIajHma9xDiE.jpg",
+          "credit_id": "6846e4d917f2287284301a0c",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1678147,
+          "known_for_department": "Production",
+          "name": "Marian Fernández Pascal",
+          "original_name": "Marian Fernández Pascal",
+          "popularity": 0.1967,
+          "profile_path": "/6gjM7SWvzHGutf5OD7OkCfJriC1.jpg",
+          "credit_id": "6846e4e91f6d18e6513fca55",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1629318,
+          "known_for_department": "Camera",
+          "name": "Javier Agirre Erauso",
+          "original_name": "Javier Agirre Erauso",
+          "popularity": 0.1674,
+          "profile_path": "/tqCpbBahvut74k9We8ZHTe2ljWv.jpg",
+          "credit_id": "6846e5022712534a241ea888",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1585446,
+          "known_for_department": "Editing",
+          "name": "Laurent Dufreche",
+          "original_name": "Laurent Dufreche",
+          "popularity": 0.1401,
+          "profile_path": "/kryx1ErRtzYLYTwogXIaG1SifVr.jpg",
+          "credit_id": "6846e51117f2287284301a10",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2496989,
+          "known_for_department": "Sound",
+          "name": "Aitor Etxebarria",
+          "original_name": "Aitor Etxebarria",
+          "popularity": 0.2065,
+          "profile_path": null,
+          "credit_id": "6846e52687de1c0fd8de722f",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1530149,
+          "known_for_department": "Sound",
+          "name": "Alazne Ameztoy",
+          "original_name": "Alazne Ameztoy",
+          "popularity": 0.1964,
+          "profile_path": "/3DdelcGCgxV8y7Ev8QvWx5vDfpT.jpg",
+          "credit_id": "6846e542fdde0316f4fd5f37",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2150266,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Nerea Torrijos",
+          "original_name": "Nerea Torrijos",
+          "popularity": 0.1756,
+          "profile_path": "/meQHgqMbEcnHhhbBHLheuLfhE4W.jpg",
+          "credit_id": "6846e565472507208bfd5f56",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2459716,
+          "known_for_department": "Acting",
+          "name": "Kirmen Uribe",
+          "original_name": "Kirmen Uribe",
+          "popularity": 0.0978,
+          "profile_path": null,
+          "credit_id": "68482ddc30c20391ce2067b5",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5742543,
+          "known_for_department": "Production",
+          "name": "Julen Clarke",
+          "original_name": "Julen Clarke",
+          "popularity": 0.1063,
+          "profile_path": null,
+          "credit_id": "68e96d634a4c741ca3d856ee",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2164920,
+          "known_for_department": "Production",
+          "name": "María Rodrigo",
+          "original_name": "María Rodrigo",
+          "popularity": 0.3239,
+          "profile_path": "/8c73jO3eu1pzmy3o7Esmjc9dp2H.jpg",
+          "credit_id": "68e96d7d74eee2f60f4a9dd5",
+          "department": "Production",
+          "job": "Casting Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2842097,
+          "known_for_department": "Art",
+          "name": "Zaloa Ziluaga",
+          "original_name": "Zaloa Ziluaga",
+          "popularity": 0.1643,
+          "profile_path": "/kG02yxBd0VyKqlsro9aoonFPfSU.jpg",
+          "credit_id": "68e96d94a655b685194a9ccd",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5387823,
+          "known_for_department": "Art",
+          "name": "Imanol Etxeberria",
+          "original_name": "Imanol Etxeberria",
+          "popularity": 0.0621,
+          "profile_path": null,
+          "credit_id": "68e96db09ce96840bb73e0d1",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 25229,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Itziar Arrieta",
+          "original_name": "Itziar Arrieta",
+          "popularity": 0.253,
+          "profile_path": "/iyLeylsed9sQtx1ReTveuKbB0dO.jpg",
+          "credit_id": "68e96dda8fa7022a5430c7d9",
+          "department": "Costume & Make-Up",
+          "job": "Hair Department Head"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1493637,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Lola López",
+          "original_name": "Lola López",
+          "popularity": 0.2435,
+          "profile_path": "/qHzjqhuBcmkSxEDNJn4OmqVv1ek.jpg",
+          "credit_id": "68e96de9ab23f18ccb73e2f7",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Department Head"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2141575,
+          "known_for_department": "Production",
+          "name": "Ander Sistiaga",
+          "original_name": "Ander Sistiaga",
+          "popularity": 0.183,
+          "profile_path": null,
+          "credit_id": "68e96e074727ae5e35b7b2af",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2343544,
+          "known_for_department": "Directing",
+          "name": "Antxon Zabala",
+          "original_name": "Antxon Zabala",
+          "popularity": 0.1058,
+          "profile_path": null,
+          "credit_id": "68e96e1c88423261d830c499",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2120415,
+          "known_for_department": "Acting",
+          "name": "Amaia Irigoyen",
+          "original_name": "Amaia Irigoyen",
+          "popularity": 0.0696,
+          "profile_path": null,
+          "credit_id": "68e96e4bff9f0f40224a9dd1",
+          "department": "Directing",
+          "job": "Third Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5675728,
+          "known_for_department": "Directing",
+          "name": "Maren Zubeldia",
+          "original_name": "Maren Zubeldia",
+          "popularity": 0.1393,
+          "profile_path": "/99dmFYJwpxZoFlQNDF2vtyqKfUw.jpg",
+          "credit_id": "68e96e5aa9bc85072641e671",
+          "department": "Directing",
+          "job": "Third Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1381227,
+          "known_for_department": "Sound",
+          "name": "Iñaki Díez",
+          "original_name": "Iñaki Díez",
+          "popularity": 0.0871,
+          "profile_path": "/gmciWB7nFCfXuPYZKh5zjYEt9yM.jpg",
+          "credit_id": "68e96e73c7c1e92f6e30c743",
+          "department": "Sound",
+          "job": "Boom Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1550263,
+          "known_for_department": "Sound",
+          "name": "Xanti Salvador",
+          "original_name": "Xanti Salvador",
+          "popularity": 0.226,
+          "profile_path": null,
+          "credit_id": "68e96e84bf55e731e330c588",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5742545,
+          "known_for_department": "Sound",
+          "name": "Manex Zabaleta",
+          "original_name": "Manex Zabaleta",
+          "popularity": 0.1055,
+          "profile_path": null,
+          "credit_id": "68e96e976cedbc7c474aa1a0",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2722093,
+          "known_for_department": "Crew",
+          "name": "Mariano García Marty",
+          "original_name": "Mariano García Marty",
+          "popularity": 0.3124,
+          "profile_path": "/tVMsY5VdU2hXyrS7NJkVp5ytUOj.jpg",
+          "credit_id": "68e96ed28769f3657bb7b4c5",
+          "department": "Visual Effects",
+          "job": "Special Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1876053,
+          "known_for_department": "Visual Effects",
+          "name": "Jon Serrano Serván",
+          "original_name": "Jon Serrano Serván",
+          "popularity": 0.3876,
+          "profile_path": "/kw8hcG42iKiXB9xybxxLn13eqjz.jpg",
+          "credit_id": "68e96f122a9297081cb7b381",
+          "department": "Visual Effects",
+          "job": "Special Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1444920,
+          "known_for_department": "Visual Effects",
+          "name": "Félix Bergés",
+          "original_name": "Félix Bergés",
+          "popularity": 0.3842,
+          "profile_path": null,
+          "credit_id": "68e96f2649f7675475b7b2bf",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3724231,
+          "known_for_department": "Visual Effects",
+          "name": "Ezequiel Larrú",
+          "original_name": "Ezequiel Larrú",
+          "popularity": 0.2013,
+          "profile_path": null,
+          "credit_id": "68e96f30d9b6991a544aa0b1",
+          "department": "Visual Effects",
+          "job": "Visual Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2877481,
+          "known_for_department": "Crew",
+          "name": "Txarli Argiñano",
+          "original_name": "Txarli Argiñano",
+          "popularity": 0.1787,
+          "profile_path": "/pkZCLfpoolbuYufNgEgjncju3Qx.jpg",
+          "credit_id": "68e96f6b7bcd3e099d30c770",
+          "department": "Camera",
+          "job": "Second Unit Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3882572,
+          "known_for_department": "Camera",
+          "name": "Aitor Goenaga",
+          "original_name": "Aitor Goenaga",
+          "popularity": 0.0625,
+          "profile_path": "/1g23Q7RU6WMzsbq33t5M71i3kqx.jpg",
+          "credit_id": "68e96f7bca4e60f8c85f6922",
+          "department": "Camera",
+          "job": "Steadicam Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2459478,
+          "known_for_department": "Camera",
+          "name": "Jon Goitia",
+          "original_name": "Jon Goitia",
+          "popularity": 0.0924,
+          "profile_path": null,
+          "credit_id": "68e96f930405db422d5f6a44",
+          "department": "Camera",
+          "job": "First Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2560432,
+          "known_for_department": "Camera",
+          "name": "David Herranz",
+          "original_name": "David Herranz",
+          "popularity": 0.1358,
+          "profile_path": "/tewUjzg6jV6Z7ZOZvMzyG1xm917.jpg",
+          "credit_id": "68e96f9f2c9062f48f5f6aad",
+          "department": "Camera",
+          "job": "Still Photographer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5742554,
+          "known_for_department": "Lighting",
+          "name": "Xabier Urretabizkaia Elizondo",
+          "original_name": "Xabier Urretabizkaia Elizondo",
+          "popularity": 0.0285,
+          "profile_path": null,
+          "credit_id": "68e96ffd0421e3d70dd85929",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4739316,
+          "known_for_department": "Editing",
+          "name": "Clara Rus",
+          "original_name": "Clara Rus",
+          "popularity": 0.0541,
+          "profile_path": null,
+          "credit_id": "68e9700c8c061a90a6b7b4de",
+          "department": "Editing",
+          "job": "Colorist"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1489881,
+          "known_for_department": "Directing",
+          "name": "Ane Muñoz",
+          "original_name": "Ane Muñoz",
+          "popularity": 0.1282,
+          "profile_path": null,
+          "credit_id": "68e97020cd3ae6868fe6ae91",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "HSBC Spanish & Latin American Film Festival",
+              "release_date": "2026-06-13T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "San Sebastián International Film Festival",
+              "release_date": "2025-09-21T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2025-10-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2025-11-19T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

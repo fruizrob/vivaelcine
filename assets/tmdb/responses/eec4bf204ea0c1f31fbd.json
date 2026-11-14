@@ -1,0 +1,239 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/505488?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:26.252Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/i07j7GHxmzE8eYXOBedK3aVMjn9.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 505488,
+    "imdb_id": "tt0186683",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Wallowitch & Ross: This Moment",
+    "overview": "",
+    "popularity": 0.556,
+    "poster_path": "/uljJRL7Dwj0KrFTgcvj74FSdR0J.jpg",
+    "production_companies": [
+      {
+        "id": 150500,
+        "logo_path": null,
+        "name": "Karmic Release Ltd.",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1999-02-16",
+    "revenue": 0,
+    "runtime": 77,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Wallowitch & Ross: This Moment",
+    "video": false,
+    "vote_average": 4.5,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1979190,
+          "known_for_department": "Acting",
+          "name": "John Wallowitch",
+          "original_name": "John Wallowitch",
+          "popularity": 0.1413,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Self",
+          "credit_id": "5a8691e90e0a26540c03231c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1095415,
+          "known_for_department": "Acting",
+          "name": "Bertram Ross",
+          "original_name": "Bertram Ross",
+          "popularity": 0.1543,
+          "profile_path": "/c8V0BqrARktNSrnF7KOaLzo3a1k.jpg",
+          "cast_id": 2,
+          "character": "Self",
+          "credit_id": "5a8691f5c3a3686339036bfe",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1979191,
+          "known_for_department": "Acting",
+          "name": "Lynn Lobban",
+          "original_name": "Lynn Lobban",
+          "popularity": 0.1088,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Self",
+          "credit_id": "5a869202c3a36863160364b5",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 92585,
+          "known_for_department": "Acting",
+          "name": "Dixie Carter",
+          "original_name": "Dixie Carter",
+          "popularity": 0.5534,
+          "profile_path": "/vunYThFacsDaNr1AKypq6v03ALO.jpg",
+          "cast_id": 10,
+          "character": "Self",
+          "credit_id": "66d8bec1322156d41a9d3090",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1979189,
+          "known_for_department": "Directing",
+          "name": "Richard Morris",
+          "original_name": "Richard Morris",
+          "popularity": 0.0906,
+          "profile_path": null,
+          "credit_id": "5a869185c3a3686207032add",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1813358,
+          "known_for_department": "Production",
+          "name": "Roberta Morris Purdee",
+          "original_name": "Roberta Morris Purdee",
+          "popularity": 0.0844,
+          "profile_path": null,
+          "credit_id": "66d8b1373520f8b85abd846e",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 175051,
+          "known_for_department": "Acting",
+          "name": "Nathan Purdee",
+          "original_name": "Nathan Purdee",
+          "popularity": 0.4286,
+          "profile_path": "/oCKeKOidKxz3Cl9lIHjvKWHRdcG.jpg",
+          "credit_id": "66d8b1418e93410d781829ba",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 57888,
+          "known_for_department": "Camera",
+          "name": "Don Lenzer",
+          "original_name": "Don Lenzer",
+          "popularity": 0.2505,
+          "profile_path": "/kgVVDwSu898eUFcqebjAI4QrUuB.jpg",
+          "credit_id": "66d8b1948f73fe939d1abbab",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1979189,
+          "known_for_department": "Directing",
+          "name": "Richard Morris",
+          "original_name": "Richard Morris",
+          "popularity": 0.0906,
+          "profile_path": null,
+          "credit_id": "66d8b1f50850835db49d8749",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4923639,
+          "known_for_department": "Editing",
+          "name": "Marsha McKeever",
+          "original_name": "Marsha McKeever",
+          "popularity": 0.0434,
+          "profile_path": null,
+          "credit_id": "66d8b210513289b966ea36e0",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4923742,
+          "known_for_department": "Production",
+          "name": "Sue Gandy",
+          "original_name": "Sue Gandy",
+          "popularity": 0.0323,
+          "profile_path": null,
+          "credit_id": "66d8bea436080f794d0ee58e",
+          "department": "Production",
+          "job": "Co-Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Palm Springs International Film Festival",
+              "release_date": "1999-01-09T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1999-02-16T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

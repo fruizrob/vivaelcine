@@ -1,0 +1,390 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/841087?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:52.101Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "id": 841087,
+    "imdb_id": "tt0409195",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Puño de lodo",
+    "overview": "",
+    "popularity": 0.3631,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1999-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Puño de lodo",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1152416,
+          "known_for_department": "Acting",
+          "name": "Jorge Reynoso",
+          "original_name": "Jorge Reynoso",
+          "popularity": 0.5882,
+          "profile_path": "/yeuQ19pTNdjfMU9OBSLc7ZPtsYf.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "659d8c191d35630148ab98d6",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 952702,
+          "known_for_department": "Acting",
+          "name": "Lina Santos",
+          "original_name": "Lina Santos",
+          "popularity": 0.5708,
+          "profile_path": "/3HI8sj3ZOTBeBpVdnioKHVMBidU.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "659d8c281d3563025c5499aa",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 102275,
+          "known_for_department": "Acting",
+          "name": "Julio Alemán",
+          "original_name": "Julio Alemán",
+          "popularity": 0.4294,
+          "profile_path": "/vC7pjqqLfQRNhvZxKqdcTyOSHIP.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "659d8c396d97e600f078c6c0",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 942879,
+          "known_for_department": "Acting",
+          "name": "Martha Ortiz",
+          "original_name": "Martha Ortiz",
+          "popularity": 0.3987,
+          "profile_path": "/8hFo5wlAxoh2MrtDdnyUfU28MUQ.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "659d8c499bcd0f01481ac9fb",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6225259,
+          "known_for_department": "Acting",
+          "name": "Chuy Luviano",
+          "original_name": "Chuy Luviano",
+          "popularity": 0.0987,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "6af17fecd7e9b5c322a95e88",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6619308,
+          "known_for_department": "Acting",
+          "name": "Adriana Luke",
+          "original_name": "Adriana Luke",
+          "popularity": 0.0052,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "",
+          "credit_id": "6af17ff5953781188f3101f4",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1076589,
+          "known_for_department": "Acting",
+          "name": "Mario Arévalo",
+          "original_name": "Mario Arévalo",
+          "popularity": 0.2695,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "",
+          "credit_id": "6af180027487d86a6d4bc9b7",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 31800,
+          "known_for_department": "Acting",
+          "name": "Antonio Raxel",
+          "original_name": "Antonio Raxel",
+          "popularity": 0.4769,
+          "profile_path": "/1IevnkX5Ux3MSuY7DQbmQ64In6J.jpg",
+          "cast_id": 12,
+          "character": "",
+          "credit_id": "6af1800bdb0a018fb0707c17",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6283366,
+          "known_for_department": "Acting",
+          "name": "José María Sánchez",
+          "original_name": "José María Sánchez",
+          "popularity": 0.0614,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "",
+          "credit_id": "6af1801391d989bd1ac717ee",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1689440,
+          "known_for_department": "Acting",
+          "name": "Adalberto Menéndez",
+          "original_name": "Adalberto Menéndez",
+          "popularity": 0.1958,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "",
+          "credit_id": "6af1801bdb0a018fb0707c1b",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6619312,
+          "known_for_department": "Acting",
+          "name": "Jaime Colin",
+          "original_name": "Jaime Colin",
+          "popularity": 0.0115,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "",
+          "credit_id": "6af1802360129b3ba1707a9a",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6619314,
+          "known_for_department": "Acting",
+          "name": "Pamela Infante",
+          "original_name": "Pamela Infante",
+          "popularity": 0.0181,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "",
+          "credit_id": "6af1802ecd64afa2004bca9e",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5839170,
+          "known_for_department": "Acting",
+          "name": "Raul Tovar",
+          "original_name": "Raul Tovar",
+          "popularity": 0.174,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "",
+          "credit_id": "6af18037abc3757913a960f5",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1481919,
+          "known_for_department": "Acting",
+          "name": "Teodoro Costa",
+          "original_name": "Teodoro Costa",
+          "popularity": 0.2241,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "",
+          "credit_id": "6af18041336f374ffc70796c",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6610512,
+          "known_for_department": "Acting",
+          "name": "José Olivares",
+          "original_name": "José Olivares",
+          "popularity": 0.0239,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "",
+          "credit_id": "6af180499e6fdb6a3fa961f1",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2632056,
+          "known_for_department": "Acting",
+          "name": "Yolanda Solares",
+          "original_name": "Yolanda Solares",
+          "popularity": 0.1277,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "",
+          "credit_id": "6af18051cd64afa2004bcac0",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1801730,
+          "known_for_department": "Acting",
+          "name": "Miguel Delgado",
+          "original_name": "Miguel Delgado",
+          "popularity": 0.0262,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "",
+          "credit_id": "6af180596e29a503eb4bcc4f",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2233169,
+          "known_for_department": "Acting",
+          "name": "Arturo Albo",
+          "original_name": "Arturo Albo",
+          "popularity": 0.069,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "",
+          "credit_id": "6af1806169291bc7823101eb",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4222304,
+          "known_for_department": "Acting",
+          "name": "Teo Acosta",
+          "original_name": "Teo Acosta",
+          "popularity": 0.0961,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "",
+          "credit_id": "6af18069500e939c6c707b13",
+          "order": 18
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1044102,
+          "known_for_department": "Directing",
+          "name": "René Cardona III",
+          "original_name": "René Cardona III",
+          "popularity": 0.279,
+          "profile_path": "/48PZGAYQy0fR8hrGeSXDCx5D7QF.jpg",
+          "credit_id": "659d8bfe24b33301a629ca36",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1484889,
+          "known_for_department": "Writing",
+          "name": "Orlando R. Mendoza",
+          "original_name": "Orlando R. Mendoza",
+          "popularity": 0.2136,
+          "profile_path": null,
+          "credit_id": "6aefb04c6148527be2eb31af",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 38758,
+          "known_for_department": "Writing",
+          "name": "Carlos Valdemar",
+          "original_name": "Carlos Valdemar",
+          "popularity": 0.304,
+          "profile_path": null,
+          "credit_id": "6aefb057cd2674ad82499136",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1043994,
+          "known_for_department": "Camera",
+          "name": "Mario Becerra",
+          "original_name": "Mario Becerra",
+          "popularity": 0.1187,
+          "profile_path": null,
+          "credit_id": "6aefb06171c98ff979b87d16",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1999-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

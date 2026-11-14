@@ -1,0 +1,356 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1543556?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:08.543Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1543556,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "El Tamagochi Escarlata",
+    "overview": "¡Un crimen ha ocurrido en la sala del 4B! Una compañera sufre el robo de un invaluable y preciado juguete: El Tamagochi Escarlata, por lo que Iñaki y su amigo tortuga Cecilio se transforman en detectives privados de los años 40 para resolver el misterio. Sin embargo, deberán enfrentarse a oscuros poderes que no les harán fácil la tarea.",
+    "popularity": 0.3679,
+    "poster_path": "/3HPe585fq3l5p50E3nBr45mxcEu.jpg",
+    "production_companies": [
+      {
+        "id": 167865,
+        "logo_path": null,
+        "name": "Pista B",
+        "origin_country": "CL"
+      },
+      {
+        "id": 264005,
+        "logo_path": null,
+        "name": "Dantesco Media",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "2025-10-15",
+    "revenue": 0,
+    "runtime": 13,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El Tamagochi Escarlata",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2809552,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Maria Ignacia Hargreaves",
+          "original_name": "Maria Ignacia Hargreaves",
+          "popularity": 0.1708,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Iñaki",
+          "credit_id": "68bf357aba1293b3929bcb0b",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2467851,
+          "known_for_department": "Production",
+          "name": "Lucas Engel",
+          "original_name": "Lucas Engel",
+          "popularity": 0.0889,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Cecilio",
+          "credit_id": "68bf3589572c69d92498c689",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3612740,
+          "known_for_department": "Acting",
+          "name": "Paco Pasquette",
+          "original_name": "Paco Pasquette",
+          "popularity": 0.0883,
+          "profile_path": "/hkR71DW65VUaL2zstns8hmJLkJI.jpg",
+          "cast_id": 3,
+          "character": "Profesor Fernando / Facundo / Don Cheba",
+          "credit_id": "68bf3596ba1293b3929bcb12",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1993595,
+          "known_for_department": "Acting",
+          "name": "Consuelo Carreño",
+          "original_name": "Consuelo Carreño",
+          "popularity": 0.2003,
+          "profile_path": "/zmVQ1fGI0PW7i4wqbjJWiew9Ndu.jpg",
+          "cast_id": 4,
+          "character": "Amanda",
+          "credit_id": "68bf359fe2761164679bcc02",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4285211,
+          "known_for_department": "Directing",
+          "name": "Guillermo Arias",
+          "original_name": "Guillermo Arias",
+          "popularity": 0.1178,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Aurelio (El niño dinosaurio)",
+          "credit_id": "68f694d152519836dacd0fd0",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4092480,
+          "known_for_department": "Writing",
+          "name": "Fransisco Visceral Rivera",
+          "original_name": "Fransisco Visceral Rivera",
+          "popularity": 0.1949,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Dani",
+          "credit_id": "68f694f6e7777729b197fba0",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1864720,
+          "known_for_department": "Writing",
+          "name": "Alejandra Moffat",
+          "original_name": "Alejandra Moffat",
+          "popularity": 0.3094,
+          "profile_path": "/4kPSgZURdNDB2JNsVhYIPD3IHJt.jpg",
+          "cast_id": 16,
+          "character": "Magdalena",
+          "credit_id": "68f69500be4fae394a69182f",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4092480,
+          "known_for_department": "Writing",
+          "name": "Fransisco Visceral Rivera",
+          "original_name": "Fransisco Visceral Rivera",
+          "popularity": 0.1949,
+          "profile_path": null,
+          "credit_id": "68bf35af70d14bf26c1f57b3",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2467851,
+          "known_for_department": "Production",
+          "name": "Lucas Engel",
+          "original_name": "Lucas Engel",
+          "popularity": 0.0889,
+          "profile_path": null,
+          "credit_id": "68bf35c124af1eee5498c4ef",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1966014,
+          "known_for_department": "Acting",
+          "name": "Ignacio Socías",
+          "original_name": "Ignacio Socías",
+          "popularity": 0.1899,
+          "profile_path": "/hqLItNBvosAqP79ErXIIlw7cJOG.jpg",
+          "credit_id": "68bf35d1cb00241a8c4e6667",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1966014,
+          "known_for_department": "Acting",
+          "name": "Ignacio Socías",
+          "original_name": "Ignacio Socías",
+          "popularity": 0.1899,
+          "profile_path": "/hqLItNBvosAqP79ErXIIlw7cJOG.jpg",
+          "credit_id": "68bf35e129f4ce50344e6829",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4092480,
+          "known_for_department": "Writing",
+          "name": "Fransisco Visceral Rivera",
+          "original_name": "Fransisco Visceral Rivera",
+          "popularity": 0.1949,
+          "profile_path": null,
+          "credit_id": "68bf35f0122c836fc74e654c",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4092480,
+          "known_for_department": "Writing",
+          "name": "Fransisco Visceral Rivera",
+          "original_name": "Fransisco Visceral Rivera",
+          "popularity": 0.1949,
+          "profile_path": null,
+          "credit_id": "68bf35f9840ac1eeea9bcd05",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2771412,
+          "known_for_department": "Directing",
+          "name": "Juan Cifuentes Mera",
+          "original_name": "Juan Cifuentes Mera",
+          "popularity": 0.1063,
+          "profile_path": null,
+          "credit_id": "68bf36069f524398508cf604",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2771412,
+          "known_for_department": "Directing",
+          "name": "Juan Cifuentes Mera",
+          "original_name": "Juan Cifuentes Mera",
+          "popularity": 0.1063,
+          "profile_path": null,
+          "credit_id": "68f6951e0853aaa020f5c3f4",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1157030,
+          "known_for_department": "Directing",
+          "name": "Niles Atallah",
+          "original_name": "Niles Atallah",
+          "popularity": 0.2306,
+          "profile_path": "/b9m2uiBVkumKvbbtaVN6Rp12ayy.jpg",
+          "credit_id": "68f695678306ee08412d6c15",
+          "department": "Production",
+          "job": "Associate Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4092480,
+          "known_for_department": "Writing",
+          "name": "Fransisco Visceral Rivera",
+          "original_name": "Fransisco Visceral Rivera",
+          "popularity": 0.1949,
+          "profile_path": null,
+          "credit_id": "68f6958b9daba0f0d72d6bf4",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5544646,
+          "known_for_department": "Visual Effects",
+          "name": "Matías López",
+          "original_name": "Matías López",
+          "popularity": 0.041,
+          "profile_path": null,
+          "credit_id": "68f695ee7b30bb60d3cd0f93",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5761603,
+          "known_for_department": "Sound",
+          "name": "Cristian Rivera Rivera",
+          "original_name": "Cristian Rivera Rivera",
+          "popularity": 0.0504,
+          "profile_path": null,
+          "credit_id": "68f696211ad84b50ee3214f6",
+          "department": "Sound",
+          "job": "Music"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Valdivia International Film Festival ",
+              "release_date": "2025-10-15T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

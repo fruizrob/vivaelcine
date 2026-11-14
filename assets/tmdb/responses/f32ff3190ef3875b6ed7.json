@@ -1,0 +1,97 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/826621?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:13.479Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/w00hEThBEJee8MwraeI1X95IP3r.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 826621,
+    "imdb_id": null,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Os Desejos de Miriam",
+    "overview": "",
+    "popularity": 0.0484,
+    "poster_path": "/ykltZrJDi0OEKywmlixNmRnQLW2.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2017-06-16",
+    "revenue": 0,
+    "runtime": 20,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Os Desejos de Miriam",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2275630,
+          "known_for_department": "Directing",
+          "name": "Nivaldo Vasconcelos",
+          "original_name": "Nivaldo Vasconcelos",
+          "popularity": 0.106,
+          "profile_path": null,
+          "credit_id": "6093f646a06efe0042173740",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1600341,
+          "known_for_department": "Directing",
+          "name": "Nuno Lindoso",
+          "original_name": "Nuno Lindoso",
+          "popularity": 0.1023,
+          "profile_path": "/pvVBNzsamHIi3XqtPC8LXoHg519.jpg",
+          "credit_id": "6093f62e168ea3004244b826",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "",
+              "release_date": "2017-06-16T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

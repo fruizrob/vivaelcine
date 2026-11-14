@@ -1,0 +1,191 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1669868?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:10.292Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 25000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1669868,
+    "imdb_id": "tt39205193",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Miriam",
+    "overview": "",
+    "popularity": 0.315,
+    "poster_path": "/byB79UOlM3HsCsnYNXTVr11v1lG.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-01-16",
+    "revenue": 0,
+    "runtime": 13,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Miriam",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 206739,
+          "known_for_department": "Acting",
+          "name": "Alexandra Billings",
+          "original_name": "Alexandra Billings",
+          "popularity": 0.9271,
+          "profile_path": "/bHYEiyBlT7nmBRaQNQX2uVPsaLw.jpg",
+          "cast_id": 1,
+          "character": "Terry",
+          "credit_id": "69dd54b18355a477490281c2",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1506286,
+          "known_for_department": "Acting",
+          "name": "Lauren Blumenfeld",
+          "original_name": "Lauren Blumenfeld",
+          "popularity": 0.2078,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Betty",
+          "credit_id": "69dd54cbb9b7e801e8c73db5",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 40462,
+          "known_for_department": "Acting",
+          "name": "Kristen Bell",
+          "original_name": "Kristen Bell",
+          "popularity": 3.9758,
+          "profile_path": "/rP74dJXl7EjinGM0shQtUOlH5s2.jpg",
+          "cast_id": 5,
+          "character": "Podcaster",
+          "credit_id": "6ab193d36035c1bb4a919a28",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1506286,
+          "known_for_department": "Acting",
+          "name": "Lauren Blumenfeld",
+          "original_name": "Lauren Blumenfeld",
+          "popularity": 0.2078,
+          "profile_path": null,
+          "credit_id": "69dd55118355a477490281dc",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1506286,
+          "known_for_department": "Acting",
+          "name": "Lauren Blumenfeld",
+          "original_name": "Lauren Blumenfeld",
+          "popularity": 0.2078,
+          "profile_path": null,
+          "credit_id": "69dd551fc89c7a1d4f373d74",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1228832,
+          "known_for_department": "Acting",
+          "name": "Jennifer Griffin Chambers",
+          "original_name": "Jennifer Griffin Chambers",
+          "popularity": 0.2643,
+          "profile_path": null,
+          "credit_id": "6ab193fc3bdb5344c4a037d1",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1228832,
+          "known_for_department": "Acting",
+          "name": "Jennifer Griffin Chambers",
+          "original_name": "Jennifer Griffin Chambers",
+          "popularity": 0.2643,
+          "profile_path": null,
+          "credit_id": "6ab1941507707589f0919a8c",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1506286,
+          "known_for_department": "Acting",
+          "name": "Lauren Blumenfeld",
+          "original_name": "Lauren Blumenfeld",
+          "popularity": 0.2078,
+          "profile_path": null,
+          "credit_id": "6ab1942ede441e34a9919a59",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 900406,
+          "known_for_department": "Camera",
+          "name": "Adrian Peng Correia",
+          "original_name": "Adrian Peng Correia",
+          "popularity": 0.2723,
+          "profile_path": null,
+          "credit_id": "6ab1944ae99070bb68a037fa",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2026-01-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

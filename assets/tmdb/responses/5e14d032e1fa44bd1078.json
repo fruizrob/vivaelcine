@@ -1,0 +1,171 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1408555?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:27.615Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/y3kO8q15e2f6KRAesYPpcs3SK6T.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1408555,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Ross Perot: Straight Talk",
+    "overview": "",
+    "popularity": 0.2262,
+    "poster_path": "/reaqmr1MYUf86baQfZ7WrOOuvuD.jpg",
+    "production_companies": [
+      {
+        "id": 45955,
+        "logo_path": null,
+        "name": "David Paradine Productions",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 60,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ross Perot: Straight Talk",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1600260,
+          "known_for_department": "Acting",
+          "name": "Ross Perot",
+          "original_name": "Ross Perot",
+          "popularity": 0.2633,
+          "profile_path": "/zx4GX5uWoEKc4jX4cap6y2N2DEl.jpg",
+          "cast_id": 1,
+          "character": "Self",
+          "credit_id": "676f5c00bf10ff1984618c96",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 93328,
+          "known_for_department": "Acting",
+          "name": "David Frost",
+          "original_name": "David Frost",
+          "popularity": 0.5217,
+          "profile_path": "/oWbeL1KLjGjlmNmkmkbea4LxJo0.jpg",
+          "cast_id": 2,
+          "character": "Self",
+          "credit_id": "676f5c10eb742f45de929459",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5144577,
+          "known_for_department": "Production",
+          "name": "John M. Florescu",
+          "original_name": "John M. Florescu",
+          "popularity": 0.0479,
+          "profile_path": null,
+          "credit_id": "676f5c493dff0de99b619006",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 93328,
+          "known_for_department": "Acting",
+          "name": "David Frost",
+          "original_name": "David Frost",
+          "popularity": 0.5217,
+          "profile_path": "/oWbeL1KLjGjlmNmkmkbea4LxJo0.jpg",
+          "credit_id": "676f5c57d6d10ecc8c12d080",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5144578,
+          "known_for_department": "Production",
+          "name": "Wallace Westfeldt",
+          "original_name": "Wallace Westfeldt",
+          "popularity": 0.0477,
+          "profile_path": null,
+          "credit_id": "676f5c707d1bc87de7613a7b",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5144579,
+          "known_for_department": "Production",
+          "name": "Robert Muller",
+          "original_name": "Robert Muller",
+          "popularity": 0.041,
+          "profile_path": null,
+          "credit_id": "676f5c923dff0de99b619025",
+          "department": "Production",
+          "job": "Coordinating Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 54798,
+          "known_for_department": "Editing",
+          "name": "Bill DeRonde",
+          "original_name": "Bill DeRonde",
+          "popularity": 0.27,
+          "profile_path": null,
+          "credit_id": "676f5ca87d1bc87de7613a81",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "1992-06-10T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

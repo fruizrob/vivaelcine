@@ -1,0 +1,111 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Paulina&include_adult=false&language=es-ES&page=2",
+  "retrievedAt": "2026-11-14T02:26:04.914Z",
+  "data": {
+    "page": 2,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/9kgcslYJ9XINfZJ7d1s7LCrOPyO.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 257055,
+        "title": "In memoriam",
+        "original_language": "es",
+        "original_title": "In memoriam",
+        "overview": "Sumido en un angustioso triángulo de silencios y palabras no dichas, un hombre ama en secreto a una mujer que ama a otro hombre.",
+        "popularity": 0.952,
+        "poster_path": "/amEmT6BCYpiDu0LasojtryVmNJv.jpg",
+        "release_date": "1977-09-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jSyVKEVWl7UE9IS6oFjF26pWsWs.jpg",
+        "genre_ids": [
+          12,
+          35
+        ],
+        "id": 171908,
+        "title": "The Perils of Pauline",
+        "original_language": "en",
+        "original_title": "The Perils of Pauline",
+        "overview": "",
+        "popularity": 0.7182,
+        "poster_path": "/pUJ3n5uaQLYKrUxgJwb6bvzIG0k.jpg",
+        "release_date": "1967-08-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/u8jNoaGnhcElSlTNr3cuqqRv6pK.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 336664,
+        "title": "La patota",
+        "original_language": "es",
+        "original_title": "La patota",
+        "overview": "Paulina es una joven abogada que regresa a su ciudad para dedicarse a labores sociales. Trabaja en un programa de defensa de los derechos humanos en zonas humildes de la periferia de la ciudad. Tras la segunda semana de trabajo, es interceptada y atacada por una patota. Remake del clásico del cine argentino del mismo nombre, que en 1961 dirigió Daniel Tinayre, con Mirtha Legrand como protagonista.",
+        "popularity": 0.8132,
+        "poster_path": "/39qtuThCnq7Ygiw4T6O5Htw5IBw.jpg",
+        "release_date": "2015-06-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.308,
+        "vote_count": 60
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gjcWTetl4qknjBII7VSLM0eOtXQ.jpg",
+        "genre_ids": [
+          10751,
+          35
+        ],
+        "id": 1549726,
+        "title": "Drugi dnevnik Pauline P.",
+        "original_language": "hr",
+        "original_title": "Drugi dnevnik Pauline P.",
+        "overview": "",
+        "popularity": 0.5754,
+        "poster_path": "/kfpiZ1BVdTe0T7Loa2L9TqSsp39.jpg",
+        "release_date": "2025-11-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vdo5xhh3WScO6x06WfBGM1IS2Cy.jpg",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "id": 1104601,
+        "title": "Dnevnik Pauline P.",
+        "original_language": "hr",
+        "original_title": "Dnevnik Pauline P.",
+        "overview": "",
+        "popularity": 0.3884,
+        "poster_path": "/3YjCBoucA8vQ6MI9GpdGCdfGaXP.jpg",
+        "release_date": "2023-03-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 25
+  }
+}

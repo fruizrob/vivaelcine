@@ -1,0 +1,102 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/716827?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:36.889Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 716827,
+    "imdb_id": "tt1467012",
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "Ojos que no ven",
+    "overview": "",
+    "popularity": 0.1451,
+    "poster_path": "/v5wSF9tdypcYGGec2u7MgWjRxW7.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2009-06-04",
+    "revenue": 0,
+    "runtime": 75,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ojos que no ven",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2697615,
+          "known_for_department": "Directing",
+          "name": "Andrés Irigoyen",
+          "original_name": "Andrés Irigoyen",
+          "popularity": 0.087,
+          "profile_path": null,
+          "credit_id": "5efbab5ef0317400394f0175",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2434603,
+          "known_for_department": "Directing",
+          "name": "Ana María Cacopardo",
+          "original_name": "Ana María Cacopardo",
+          "popularity": 0.0154,
+          "profile_path": null,
+          "credit_id": "5efbab4ce93e950035bde79f",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2009-06-04T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

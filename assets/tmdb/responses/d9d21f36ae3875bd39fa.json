@@ -1,0 +1,151 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/969702?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:14.716Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 969702,
+    "imdb_id": "tt20123146",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "imagine... Miriam Margolyes: Up for Grabs",
+    "overview": "",
+    "popularity": 0.4587,
+    "poster_path": "/3KBgnT2EXLOCLUIyKYt24Ncd3Ip.jpg",
+    "production_companies": [
+      {
+        "id": 3324,
+        "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+        "name": "BBC",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2022-04-25",
+    "revenue": 0,
+    "runtime": 66,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "imagine... Miriam Margolyes: Up for Grabs",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 50121,
+          "known_for_department": "Acting",
+          "name": "Alan Yentob",
+          "original_name": "Alan Yentob",
+          "popularity": 0.418,
+          "profile_path": "/cE1TVynSWTO2iPcVcNwWNZt3wbN.jpg",
+          "cast_id": 1,
+          "character": "Self - Presenter",
+          "credit_id": "626dff2efcadb41bb60058b2",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6199,
+          "known_for_department": "Acting",
+          "name": "Miriam Margolyes",
+          "original_name": "Miriam Margolyes",
+          "popularity": 1.4853,
+          "profile_path": "/vsnCGCp0nhJTag56HP8XFhXnZo9.jpg",
+          "cast_id": 2,
+          "character": "Self",
+          "credit_id": "626dff44eec4f31197cd34e3",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1212937,
+          "known_for_department": "Production",
+          "name": "Simon Lloyd",
+          "original_name": "Simon Lloyd",
+          "popularity": 0.1155,
+          "profile_path": null,
+          "credit_id": "626dff713c43440067b2c24f",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 50121,
+          "known_for_department": "Acting",
+          "name": "Alan Yentob",
+          "original_name": "Alan Yentob",
+          "popularity": 0.418,
+          "profile_path": "/cE1TVynSWTO2iPcVcNwWNZt3wbN.jpg",
+          "credit_id": "626dff839e401200669a7158",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1212937,
+          "known_for_department": "Production",
+          "name": "Simon Lloyd",
+          "original_name": "Simon Lloyd",
+          "popularity": 0.1155,
+          "profile_path": null,
+          "credit_id": "626dff63bf77440066808893",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2022-04-25T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

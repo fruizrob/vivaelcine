@@ -1,0 +1,358 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/463581?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:33.270Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 463581,
+    "imdb_id": "tt0130343",
+    "origin_country": [
+      "HU"
+    ],
+    "original_language": "hu",
+    "original_title": "A vén gazember",
+    "overview": "",
+    "popularity": 0.2416,
+    "poster_path": "/6qrvZ5GoH9ii2kdMYGtQJfURmRw.jpg",
+    "production_companies": [
+      {
+        "id": 7013,
+        "logo_path": null,
+        "name": "Hunnia Filmstúdió",
+        "origin_country": "HU"
+      },
+      {
+        "id": 12372,
+        "logo_path": "/lcQScIQXHQXuLMLFQt0loJl5gWJ.png",
+        "name": "UFA",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "HU",
+        "name": "Hungary"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "1932-12-21",
+    "revenue": 0,
+    "runtime": 95,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hungarian",
+        "iso_639_1": "hu",
+        "name": "Magyar"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "A vén gazember",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 28060,
+          "known_for_department": "Acting",
+          "name": "Rosy Barsony",
+          "original_name": "Rosy Barsony",
+          "popularity": 0.277,
+          "profile_path": "/A1hogkFKPsh4069VJ0eyi4HmFpm.jpg",
+          "cast_id": 8,
+          "character": "Mária",
+          "credit_id": "67ff7296ef5ae687cbd996e7",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1485744,
+          "known_for_department": "Acting",
+          "name": "Ferenc Táray",
+          "original_name": "Ferenc Táray",
+          "popularity": 0.1565,
+          "profile_path": null,
+          "cast_id": 0,
+          "character": "",
+          "credit_id": "5951a3da9251412b31014f6a",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1839826,
+          "known_for_department": "Acting",
+          "name": "Sugár Károly",
+          "original_name": "Sugár Károly",
+          "popularity": 0.1379,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5951a3e8c3a368138801517a",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1543391,
+          "known_for_department": "Acting",
+          "name": "Rózsi Bársony",
+          "original_name": "Rózsi Bársony",
+          "popularity": 0.1566,
+          "profile_path": "/i3bIh2vX1FsPlXeiv92Ocq0G970.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5951a3f5c3a368134a013c5b",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1839827,
+          "known_for_department": "Acting",
+          "name": "Cs. Aczél Ilona",
+          "original_name": "Cs. Aczél Ilona",
+          "popularity": 0.1318,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "5951a3ff9251412a9b014b71",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 127115,
+          "known_for_department": "Acting",
+          "name": "Tibor von Halmay",
+          "original_name": "Tibor von Halmay",
+          "popularity": 0.3595,
+          "profile_path": "/yWVmeH1evdgVVM1Bx1jqTmdyXJN.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "5951a409c3a3681498014e15",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1839828,
+          "known_for_department": "Acting",
+          "name": "Gusztáv Ilosvay",
+          "original_name": "Gusztáv Ilosvay",
+          "popularity": 0.1242,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "5951a414c3a36813c5016aeb",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2580981,
+          "known_for_department": "Acting",
+          "name": "Ilona Cs. Aczél",
+          "original_name": "Ilona Cs. Aczél",
+          "popularity": 0.1077,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Inokay felesége",
+          "credit_id": "69bf189b52cba5c04a13b96d",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1100821,
+          "known_for_department": "Acting",
+          "name": "Magda Kun",
+          "original_name": "Magda Kun",
+          "popularity": 0.2528,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Magda",
+          "credit_id": "69bf18b255f1c000b14fec9c",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6087443,
+          "known_for_department": "Acting",
+          "name": "Erzsébet Gyöngyössy",
+          "original_name": "Erzsébet Gyöngyössy",
+          "popularity": 0.0669,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Balassa grófnõ",
+          "credit_id": "69bf18c64607fb1e394fec7f",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 132292,
+          "known_for_department": "Acting",
+          "name": "Gusztáv Vándory",
+          "original_name": "Gusztáv Vándory",
+          "popularity": 0.258,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Thury",
+          "credit_id": "69bf18da060efdd1e31b06f1",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1812434,
+          "known_for_department": "Acting",
+          "name": "Emilia Étsy",
+          "original_name": "Emilia Étsy",
+          "popularity": 0.0125,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Perkálné",
+          "credit_id": "69bf18ed5e9090019501c6ca",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1812431,
+          "known_for_department": "Acting",
+          "name": "Béla Venczel",
+          "original_name": "Béla Venczel",
+          "popularity": 0.0746,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Draskóczy tábornok",
+          "credit_id": "69bf18ffd70366b22201c6ce",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3060654,
+          "known_for_department": "Acting",
+          "name": "Rezső Harsányi",
+          "original_name": "Rezső Harsányi",
+          "popularity": 0.1657,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Vizsgálóbíró",
+          "credit_id": "69bf190fda85b807c3a24c37",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6087446,
+          "known_for_department": "Acting",
+          "name": "Imre Kovács",
+          "original_name": "Imre Kovács",
+          "popularity": 0.0344,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Jegyzõ",
+          "credit_id": "69bf192630a3cd035c01c649",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 132000,
+          "known_for_department": "Acting",
+          "name": "Tivadar Bilicsi",
+          "original_name": "Tivadar Bilicsi",
+          "popularity": 0.2081,
+          "profile_path": "/21yiHiPWlcWox5W13vWyLzUH2G8.jpg",
+          "cast_id": 17,
+          "character": "Borügynök",
+          "credit_id": "69bf19361260ad439b1b0712",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1812435,
+          "known_for_department": "Acting",
+          "name": "Hugó Déri",
+          "original_name": "Hugó Déri",
+          "popularity": 0.0796,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Másik borügynök",
+          "credit_id": "69bf194556a0dd19d57b2991",
+          "order": 16
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1380213,
+          "known_for_department": "Directing",
+          "name": "Heinz Hille",
+          "original_name": "Heinz Hille",
+          "popularity": 0.1682,
+          "profile_path": null,
+          "credit_id": "5951a42c9251412ac7014f0c",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 37846,
+          "known_for_department": "Writing",
+          "name": "Emeric Pressburger",
+          "original_name": "Emeric Pressburger",
+          "popularity": 0.8743,
+          "profile_path": "/wb8vDYVpKSjgJS1SmrX9PchDWc7.jpg",
+          "credit_id": "5acea299c3a36834de0a52e6",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "HU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "hu",
+              "note": "",
+              "release_date": "1932-12-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

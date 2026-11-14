@@ -1,0 +1,192 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1352875?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:54.039Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/buoXta56Uzwp6jeGHltt69k2Qlc.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1352875,
+    "imdb_id": null,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_title": "Putik Abril",
+    "overview": "",
+    "popularity": 0.2933,
+    "poster_path": "/7M5RodN5ko1tfOjutgCxNwcT3vC.jpg",
+    "production_companies": [
+      {
+        "id": 238257,
+        "logo_path": null,
+        "name": "Slowly Moving Images",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PH",
+        "name": "Philippines"
+      }
+    ],
+    "release_date": "2024-09-07",
+    "revenue": 0,
+    "runtime": 19,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Tagalog",
+        "iso_639_1": "tl",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Putik Abril",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4926084,
+          "known_for_department": "Acting",
+          "name": "Monica Bontigao",
+          "original_name": "Monica Bontigao",
+          "popularity": 0.0935,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "66da3f1412cbf3af8c8c9373",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4926085,
+          "known_for_department": "Acting",
+          "name": "Elvie Manglanlan Duco",
+          "original_name": "Elvie Manglanlan Duco",
+          "popularity": 0.0739,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "66da3f1e58810d62803c473e",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4926086,
+          "known_for_department": "Acting",
+          "name": "Graciel Gasmin",
+          "original_name": "Graciel Gasmin",
+          "popularity": 0.082,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "66da3f2a50214e6c5489ea54",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4926087,
+          "known_for_department": "Directing",
+          "name": "TJ Collanto",
+          "original_name": "TJ Collanto",
+          "popularity": 0.0585,
+          "profile_path": null,
+          "credit_id": "66da3f38ee33817e08747994",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3036800,
+          "known_for_department": "Directing",
+          "name": "Jiajun 'Oscar' Zhang",
+          "original_name": "Jiajun 'Oscar' Zhang",
+          "popularity": 0.1356,
+          "profile_path": "/ybw78n2bWEAEn9K7l7Xv1nHsXWu.jpg",
+          "credit_id": "66da3f492b4e67af085dbfcf",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1403881,
+          "known_for_department": "Editing",
+          "name": "Carlo Francisco Manatad",
+          "original_name": "Carlo Francisco Manatad",
+          "popularity": 0.1183,
+          "profile_path": "/nxsuePxVoyOjGNHHRvXx33I31mF.jpg",
+          "credit_id": "66da3f58f1d170d3949d1264",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Festival Internacional de Cine de la Provincia de Buenos Aires",
+              "release_date": "2024-09-07T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CN",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Beijing International Short Film Festival Film ",
+              "release_date": "2024-11-30T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ID",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Jogja-NETPAC Asian Film Festival",
+              "release_date": "2024-12-04T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "AR",
+          "title": "Lodo de Abril",
+          "type": "Spanish"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1127033?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:37.786Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 1127033,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "La zozobra",
+    "overview": "",
+    "popularity": 0.0432,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "La zozobra",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4062688,
+          "known_for_department": "Acting",
+          "name": "Mara Infante",
+          "original_name": "Mara Infante",
+          "popularity": 0.0635,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Women",
+          "credit_id": "6461a4acef8b3200fe7d9f38",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4062689,
+          "known_for_department": "Directing",
+          "name": "Cinthia Infante",
+          "original_name": "Cinthia Infante",
+          "popularity": 0.0063,
+          "profile_path": null,
+          "credit_id": "6461a4c9e3fa2f0124465fa6",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Sorda&include_adult=false&language=es-ES&year=2025",
+  "retrievedAt": "2026-11-14T02:26:48.898Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/AfHILoD0FowwIhG2zlM57V0ogmy.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1303613,
+        "title": "Sorda",
+        "original_language": "es",
+        "original_title": "Sorda",
+        "overview": "Ángela, una mujer sorda, va a tener un bebé con Héctor, su pareja oyente. El embarazo hace aflorar sus miedos frente la maternidad y sobre cómo podrá comunicarse con su hija. La llegada de la niña genera una crisis en la pareja y lleva a Ángela a afrontar la crianza de su hija en un mundo que no está hecho para ella.",
+        "popularity": 2.1037,
+        "poster_path": "/hfBwdvdp11wiMqdipxIY4dOzBUC.jpg",
+        "release_date": "2025-04-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 115
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/556836?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:01.962Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 556836,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Paulina",
+    "overview": "",
+    "popularity": 0.117,
+    "poster_path": "/zPA6IUSqxuyBTwhZ2S1KnFwi4VB.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2011-01-01",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Paulina",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1145419,
+          "known_for_department": "Directing",
+          "name": "Ute Aurand",
+          "original_name": "Ute Aurand",
+          "popularity": 0.1988,
+          "profile_path": "/5R1DsvP1zbaIGqI68FltbjSOUCG.jpg",
+          "credit_id": "5bd33a1292514103960021f7",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2011-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

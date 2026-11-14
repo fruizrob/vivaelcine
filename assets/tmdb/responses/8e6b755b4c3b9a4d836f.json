@@ -1,0 +1,731 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/56287?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:03.275Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/j59qny9pcp3RCzT7HdTQm2auTSk.jpg",
+    "belongs_to_collection": {
+      "id": 188202,
+      "name": "Pane, amore e… - Collezione",
+      "poster_path": "/8wofWXplSVJN7LecO8pNE5hQTPR.jpg",
+      "backdrop_path": "/rZ3e96KmvV0NNPs1Dbx1pxRN22v.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 56287,
+    "imdb_id": "tt0050817",
+    "origin_country": [
+      "IT",
+      "FR"
+    ],
+    "original_language": "it",
+    "original_title": "Pane, amore e...",
+    "overview": "El brigada Carotenuto, después de dejar el cuerpo de los carabineros, regresa a Sorrento, su ciudad natal. A su llegada, es recibido por su hermano, don Matteo, párroco de la ciudadela, y por el cuerpo de guardias urbanos, cuyo mando asumirá. El problema surge cuando se entera de que no podrá vivir en su casa natal, porque está ocupada por una joven viuda, doña Sofía, una hermosa pescadera, llamada \"La brava\".",
+    "popularity": 0.7992,
+    "poster_path": "/gxxsgvpDEEgrCyhhcGjQ91a7OrW.jpg",
+    "production_companies": [
+      {
+        "id": 641,
+        "logo_path": "/w8flpSJntsxVCMkIU1qeg1kJcJh.png",
+        "name": "Titanus",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "1955-12-22",
+    "revenue": 0,
+    "runtime": 110,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pan , amor y...",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 184,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12329,
+          "known_for_department": "Directing",
+          "name": "Vittorio De Sica",
+          "original_name": "Vittorio De Sica",
+          "popularity": 0.7899,
+          "profile_path": "/rJuNw9vNhyyqydDQT0nPYAoId6f.jpg",
+          "cast_id": 2,
+          "character": "Maresciallo Carotenuto",
+          "credit_id": "52fe48f7c3a36847f8182875",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 16757,
+          "known_for_department": "Acting",
+          "name": "Sophia Loren",
+          "original_name": "Sophia Loren",
+          "popularity": 2.0826,
+          "profile_path": "/lxhkn933v8EuBHvfTWSS5SQQnJ4.jpg",
+          "cast_id": 3,
+          "character": "Donna Sofia",
+          "credit_id": "52fe48f7c3a36847f8182879",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 224208,
+          "known_for_department": "Acting",
+          "name": "Tina Pica",
+          "original_name": "Tina Pica",
+          "popularity": 0.3867,
+          "profile_path": "/6cJXDp0TKE6Kub0cUhLJLeZKc5w.jpg",
+          "cast_id": 4,
+          "character": "Caramella",
+          "credit_id": "52fe48f7c3a36847f818287d",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 132785,
+          "known_for_department": "Acting",
+          "name": "Lea Padovani",
+          "original_name": "Lea Padovani",
+          "popularity": 0.6541,
+          "profile_path": "/pLet1DtrRGBk4yZX10hUwhoWxGZ.jpg",
+          "cast_id": 21,
+          "character": "Donna Violante Ruotolo",
+          "credit_id": "5fc3d7a5dcf8750041d6a560",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 112973,
+          "known_for_department": "Acting",
+          "name": "Antonio Cifariello",
+          "original_name": "Antonio Cifariello",
+          "popularity": 0.6812,
+          "profile_path": "/5TxxIQ4x8N2Y5kyJlalxOmyEB6o.jpg",
+          "cast_id": 6,
+          "character": "Nicolino",
+          "credit_id": "52fe48f7c3a36847f8182885",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 120637,
+          "known_for_department": "Acting",
+          "name": "Mario Carotenuto",
+          "original_name": "Mario Carotenuto",
+          "popularity": 0.6384,
+          "profile_path": "/xr7zoHY4fnmvn3ZwUoybvbSpdRG.jpg",
+          "cast_id": 5,
+          "character": "Don Matteo Carotenuto",
+          "credit_id": "52fe48f7c3a36847f8182881",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1002593,
+          "known_for_department": "Acting",
+          "name": "Yoka Berretty",
+          "original_name": "Yoka Berretty",
+          "popularity": 0.3771,
+          "profile_path": "/odN70Fj0Cy5WOJZ3bXVSmWeAaLt.jpg",
+          "cast_id": 22,
+          "character": "Erika",
+          "credit_id": "5ff84556efea7a003f6ce33f",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 227308,
+          "known_for_department": "Acting",
+          "name": "Virgilio Riento",
+          "original_name": "Virgilio Riento",
+          "popularity": 0.5497,
+          "profile_path": "/dCzOoG756RhXRWMmkf9WspNHjkV.jpg",
+          "cast_id": 23,
+          "character": "Don Emidio",
+          "credit_id": "5ff845710c1255003eeecd0b",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1197185,
+          "known_for_department": "Acting",
+          "name": "Clara Crispo",
+          "original_name": "Clara Crispo",
+          "popularity": 0.2305,
+          "profile_path": null,
+          "cast_id": 24,
+          "character": "Donna Carmela",
+          "credit_id": "5ff8458cdd83fa003e6bfad7",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1718787,
+          "known_for_department": "Production",
+          "name": "Pasquale Misiano",
+          "original_name": "Pasquale Misiano",
+          "popularity": 0.2006,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "Don Peppino",
+          "credit_id": "5ff845aa61bac4003da80cb4",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1030787,
+          "known_for_department": "Acting",
+          "name": "Antonio La Raina",
+          "original_name": "Antonio La Raina",
+          "popularity": 0.3381,
+          "profile_path": "/5hqouP5WRsWMutAYVdtpRqkbofA.jpg",
+          "cast_id": 26,
+          "character": "Sindaco di Sorrento",
+          "credit_id": "5ff845c50cd32a003e4943a7",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1125596,
+          "known_for_department": "Acting",
+          "name": "Nino Imparato",
+          "original_name": "Nino Imparato",
+          "popularity": 0.1933,
+          "profile_path": "/4LKrJBiZAJ89SV7o3Wwf13jQTlL.jpg",
+          "cast_id": 27,
+          "character": "Vigile urbano",
+          "credit_id": "5ff845e320af77003c15bb13",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2037760,
+          "known_for_department": "Acting",
+          "name": "Gaetano Autiero",
+          "original_name": "Gaetano Autiero",
+          "popularity": 0.2342,
+          "profile_path": "/lluKRIPnfzEtfD0DmdhnGOnx9a8.jpg",
+          "cast_id": 28,
+          "character": "Titino",
+          "credit_id": "5ff846006c0b36003ca3c93c",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1116071,
+          "known_for_department": "Acting",
+          "name": "Fausto Guerzoni",
+          "original_name": "Fausto Guerzoni",
+          "popularity": 0.2564,
+          "profile_path": "/jSFaAMBJhMeqCilFSwdMI6fFUpI.jpg",
+          "cast_id": 29,
+          "character": "Uomo col cannocchiale",
+          "credit_id": "5ff84650fcec2e003e12aa4a",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1462362,
+          "known_for_department": "Acting",
+          "name": "Attilio Torelli",
+          "original_name": "Attilio Torelli",
+          "popularity": 0.1697,
+          "profile_path": null,
+          "cast_id": 30,
+          "character": "Rumbumbù",
+          "credit_id": "5ff8470c91f0ea003f9390a1",
+          "order": 14
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 57641,
+          "known_for_department": "Directing",
+          "name": "Dino Risi",
+          "original_name": "Dino Risi",
+          "popularity": 0.9888,
+          "profile_path": "/4Lfp0Yk9UiAH2fJtDcBbTCtnNIM.jpg",
+          "credit_id": "52fe48f7c3a36847f8182871",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2339556,
+          "known_for_department": "Directing",
+          "name": "Grazia Campori",
+          "original_name": "Grazia Campori",
+          "popularity": 0.1174,
+          "profile_path": null,
+          "credit_id": "62615dbf322b2b005136e5ec",
+          "department": "Directing",
+          "job": "Second Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1431331,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Maria Angelini",
+          "original_name": "Maria Angelini",
+          "popularity": 0.1582,
+          "profile_path": null,
+          "credit_id": "62615e3f322b2b005136e7c7",
+          "department": "Costume & Make-Up",
+          "job": "Hairstylist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1700653,
+          "known_for_department": "Production",
+          "name": "Mario Abussi",
+          "original_name": "Mario Abussi",
+          "popularity": 0.1289,
+          "profile_path": null,
+          "credit_id": "62615d8ad1a8933366c80056",
+          "department": "Production",
+          "job": "Production Secretary"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3056898,
+          "known_for_department": "Production",
+          "name": "Elmo De Sica",
+          "original_name": "Elmo De Sica",
+          "popularity": 0.0804,
+          "profile_path": null,
+          "credit_id": "62615d957fcab331cdf8f11c",
+          "department": "Production",
+          "job": "Production Secretary"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29389,
+          "known_for_department": "Sound",
+          "name": "Carlo Savina",
+          "original_name": "Carlo Savina",
+          "popularity": 0.3176,
+          "profile_path": null,
+          "credit_id": "62615e757caa4714b5f39ec9",
+          "department": "Sound",
+          "job": "Conductor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1065675,
+          "known_for_department": "Writing",
+          "name": "Ettore Maria Margadonna",
+          "original_name": "Ettore Maria Margadonna",
+          "popularity": 0.5402,
+          "profile_path": null,
+          "credit_id": "62615d5c992fe600a0679dcd",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1191298,
+          "known_for_department": "Directing",
+          "name": "Franco Montemurro",
+          "original_name": "Franco Montemurro",
+          "popularity": 0.1536,
+          "profile_path": null,
+          "credit_id": "62615db31495651655ed297f",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 56033,
+          "known_for_department": "Directing",
+          "name": "Enzo Barboni",
+          "original_name": "Enzo Barboni",
+          "popularity": 0.4206,
+          "profile_path": "/99fLTpS4fAo4DIqu1JylLyF6IJv.jpg",
+          "credit_id": "62615ded322b2b005136e6a1",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1431333,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Goffredo Rocchetti",
+          "original_name": "Goffredo Rocchetti",
+          "popularity": 0.2311,
+          "profile_path": null,
+          "credit_id": "62615e316eecee13a4135e94",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1567999,
+          "known_for_department": "Directing",
+          "name": "Luisa Alessandri",
+          "original_name": "Luisa Alessandri",
+          "popularity": 0.0779,
+          "profile_path": null,
+          "credit_id": "62615da757530e0a723a8602",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2955864,
+          "known_for_department": "Directing",
+          "name": "Franca Carotenuto",
+          "original_name": "Franca Carotenuto",
+          "popularity": 0.1009,
+          "profile_path": null,
+          "credit_id": "62615ddd6eecee13a5dae19b",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1509725,
+          "known_for_department": "Sound",
+          "name": "Kurt Doubrowsky",
+          "original_name": "Kurt Doubrowsky",
+          "popularity": 0.2192,
+          "profile_path": null,
+          "credit_id": "62615e18168ea31556745f00",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1120173,
+          "known_for_department": "Camera",
+          "name": "Enrico Umetelli",
+          "original_name": "Enrico Umetelli",
+          "popularity": 0.0994,
+          "profile_path": null,
+          "credit_id": "62615e0cd1a8933366c802aa",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2329406,
+          "known_for_department": "Camera",
+          "name": "Giovanni Battista Poletto",
+          "original_name": "Giovanni Battista Poletto",
+          "popularity": 0.2387,
+          "profile_path": null,
+          "credit_id": "62615e556eecee13a4135efa",
+          "department": "Camera",
+          "job": "Still Photographer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 24677,
+          "known_for_department": "Camera",
+          "name": "Nino Cristiani",
+          "original_name": "Nino Cristiani",
+          "popularity": 0.2343,
+          "profile_path": null,
+          "credit_id": "62781a7875f1ad005051d89e",
+          "department": "Camera",
+          "job": "Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 390453,
+          "known_for_department": "Writing",
+          "name": "Vincenzo Talarico",
+          "original_name": "Vincenzo Talarico",
+          "popularity": 0.3509,
+          "profile_path": null,
+          "credit_id": "54d2a47bc3a3686abf0003fc",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1177602,
+          "known_for_department": "Production",
+          "name": "Marcello Girosi",
+          "original_name": "Marcello Girosi",
+          "popularity": 0.211,
+          "profile_path": null,
+          "credit_id": "54d2a448c3a3686ac800043c",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 57641,
+          "known_for_department": "Directing",
+          "name": "Dino Risi",
+          "original_name": "Dino Risi",
+          "popularity": 0.9888,
+          "profile_path": "/4Lfp0Yk9UiAH2fJtDcBbTCtnNIM.jpg",
+          "credit_id": "54d2a463c3a3686ac2000396",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1065675,
+          "known_for_department": "Writing",
+          "name": "Ettore Maria Margadonna",
+          "original_name": "Ettore Maria Margadonna",
+          "popularity": 0.5402,
+          "profile_path": null,
+          "credit_id": "54d2a42d9251413fd60005ae",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1177602,
+          "known_for_department": "Production",
+          "name": "Marcello Girosi",
+          "original_name": "Marcello Girosi",
+          "popularity": 0.211,
+          "profile_path": null,
+          "credit_id": "632aa3d6c8f3c4007e743c01",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1538490,
+          "known_for_department": "Production",
+          "name": "Roberto Moretti",
+          "original_name": "Roberto Moretti",
+          "popularity": 0.2111,
+          "profile_path": null,
+          "credit_id": "632aa3986af9dd00821a78b6",
+          "department": "Production",
+          "job": "Unit Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 15133,
+          "known_for_department": "Production",
+          "name": "Goffredo Lombardo",
+          "original_name": "Goffredo Lombardo",
+          "popularity": 0.1549,
+          "profile_path": "/13MvHAjKkLCd7r3awFwyLDb6N07.jpg",
+          "credit_id": "632aa3deb6abc4007ad9e03d",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1323596,
+          "known_for_department": "Art",
+          "name": "Gastone Medin",
+          "original_name": "Gastone Medin",
+          "popularity": 0.2063,
+          "profile_path": null,
+          "credit_id": "5eceb952e61e6d001dcb7ff6",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1700654,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Fabrizio Carafa",
+          "original_name": "Fabrizio Carafa",
+          "popularity": 0.076,
+          "profile_path": null,
+          "credit_id": "5eceb963e61e6d001dcb8002",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1606804,
+          "known_for_department": "Production",
+          "name": "Nino Misiano",
+          "original_name": "Nino Misiano",
+          "popularity": 0.1324,
+          "profile_path": null,
+          "credit_id": "5eceba375c071b001e289686",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 15132,
+          "known_for_department": "Editing",
+          "name": "Mario Serandrei",
+          "original_name": "Mario Serandrei",
+          "popularity": 0.3414,
+          "profile_path": null,
+          "credit_id": "5eceb946e61e6d001ccbae6f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 15131,
+          "known_for_department": "Camera",
+          "name": "Giuseppe Rotunno",
+          "original_name": "Giuseppe Rotunno",
+          "popularity": 0.3298,
+          "profile_path": "/wr6CxoAWe52wdLeHF8hqp3hJynd.jpg",
+          "credit_id": "5eceb8e0528b2e001f641c06",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12334,
+          "known_for_department": "Art",
+          "name": "Ferdinando Ruffo",
+          "original_name": "Ferdinando Ruffo",
+          "popularity": 0.2281,
+          "profile_path": null,
+          "credit_id": "5eceb95a5c071b001e289454",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12331,
+          "known_for_department": "Sound",
+          "name": "Alessandro Cicognini",
+          "original_name": "Alessandro Cicognini",
+          "popularity": 0.2422,
+          "profile_path": null,
+          "credit_id": "5eceb8d85900860022c6102b",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1955-12-22T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "it",
+              "note": "",
+              "release_date": "1955-12-22T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1957-06-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "GR",
+          "title": "Ψωμί, Έρωτας και...",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1006177?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:04.229Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1006177,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "pt",
+    "original_title": "Madre Paulina: Súdita de Deus",
+    "overview": "",
+    "popularity": 0.2865,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "1991-01-01",
+    "revenue": 0,
+    "runtime": 61,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Madre Paulina: Súdita de Deus",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1130531,
+          "known_for_department": "Acting",
+          "name": "Nina de Pádua",
+          "original_name": "Nina de Pádua",
+          "popularity": 0.2931,
+          "profile_path": "/5MppFaiKy65OkX1igl4bAzzvmfH.jpg",
+          "cast_id": 2,
+          "character": "Madre Paulina",
+          "credit_id": "62e40fb0174973005d0479b4",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1315143,
+          "known_for_department": "Directing",
+          "name": "Carlos Nascimbeni",
+          "original_name": "Carlos Nascimbeni",
+          "popularity": 0.2047,
+          "profile_path": null,
+          "credit_id": "62e40f709f51af00624ce38f",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1991-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Paqarina&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:05.358Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/k9wRTWzmcnSfHr9V0wB9L3KdOFi.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 862433,
+        "title": "ESCRITO DESDE NUESTRA PAQARINA",
+        "original_language": "qu",
+        "original_title": "PAQARINANCHISMANTA HUK QILLQA",
+        "overview": "Entre las voces que retumban en una misma, pero que vienen desde el más allá, se hace presente un llamado, un escrito de hace muchos años atrás. Entre retazos de memoria que se renuevan como en un espiral, surge la voz de una mujer del Ande que trata de conectarse con su doble en el mundo presente, para anunciarle el inicio del fin.",
+        "popularity": 0.0973,
+        "poster_path": "/keHkgA8woaeGN4ysByPipjNFO6N.jpg",
+        "release_date": "",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

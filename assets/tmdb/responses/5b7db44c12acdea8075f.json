@@ -1,0 +1,107 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1114842?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:44.460Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1114842,
+    "imdb_id": "tt22183958",
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Instantes Capturados",
+    "overview": "",
+    "popularity": 0.2322,
+    "poster_path": "/8KOvFRdqsrzScToWxHar4yZBlUK.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2022-01-04",
+    "revenue": 0,
+    "runtime": 10,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Instantes Capturados",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2073659,
+          "known_for_department": "Production",
+          "name": "Simone Buttelli",
+          "original_name": "Simone Buttelli",
+          "popularity": 0.083,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "643e8b04e0ca7f04df0714c6",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2051879,
+          "known_for_department": "Directing",
+          "name": "Maria Augusta V. Nunes",
+          "original_name": "Maria Augusta V. Nunes",
+          "popularity": 0.231,
+          "profile_path": null,
+          "credit_id": "643e8ac7d7a70a0568ab2e9b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4016377,
+          "known_for_department": "Writing",
+          "name": "Maria Augusta V. Nunes",
+          "original_name": "Maria Augusta V. Nunes",
+          "popularity": 0.2642,
+          "profile_path": null,
+          "credit_id": "643e8ad6f288380527aacab6",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "",
+              "release_date": "2022-01-04T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

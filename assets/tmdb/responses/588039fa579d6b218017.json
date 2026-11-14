@@ -1,0 +1,89 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1113581?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:16.657Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1113581,
+    "imdb_id": "tt2571628",
+    "origin_country": [
+      "EE"
+    ],
+    "original_language": "xx",
+    "original_title": "Miriami Jõulupäkapikk",
+    "overview": "",
+    "popularity": 0.3017,
+    "poster_path": "/8wPmOgnxgNPVHWLMuXb2dHKIXR8.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "EE",
+        "name": "Estonia"
+      }
+    ],
+    "release_date": "2003-01-01",
+    "revenue": 0,
+    "runtime": 6,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Miriami Jõulupäkapikk",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1273972,
+          "known_for_department": "Directing",
+          "name": "Mait Laas",
+          "original_name": "Mait Laas",
+          "popularity": 0.1342,
+          "profile_path": "/osw0wFdhUuJusRGAqbNdHUyKNPl.jpg",
+          "credit_id": "6575d36fec8a4300aa6bef91",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "EE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2003-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Pin+de+Fartie&include_adult=false&language=es-ES&year=2025",
+  "retrievedAt": "2026-11-14T02:25:58.465Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/8ihR1MO97WDqJ5ulNsuQZcqZKle.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1517070,
+        "title": "Pin de Fartie",
+        "original_language": "es",
+        "original_title": "Pin de Fartie",
+        "overview": "",
+        "popularity": 0.2419,
+        "poster_path": "/kuss5iByu7DyB435aJBO4D2xaUs.jpg",
+        "release_date": "2025-09-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 5
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

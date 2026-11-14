@@ -1,0 +1,79 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1516537?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:29.553Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/AiJoYYJKbYXCHZaxMfi6fTPXMux.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 1516537,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Diana Ross in Concert!",
+    "overview": "",
+    "popularity": 0.3379,
+    "poster_path": "/jjsoDSayKaAwChShNoaXPmeuByi.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1979-09-13",
+    "revenue": 0,
+    "runtime": 76,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Diana Ross in Concert!",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 32715,
+          "known_for_department": "Acting",
+          "name": "Diana Ross",
+          "original_name": "Diana Ross",
+          "popularity": 1.2397,
+          "profile_path": "/je2Ky0RfjhJPvAeNRZFyJkW5urP.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "687e1b5287b981279c55d164",
+          "order": 0
+        }
+      ],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1979-09-13T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

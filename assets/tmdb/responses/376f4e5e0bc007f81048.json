@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=La+cordillera+de+los+sue%C3%B1os&include_adult=false&language=es-ES&year=2019",
+  "retrievedAt": "2026-11-14T02:25:52.322Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/qooKxeRESRN7jsRGI2gEc9GPtUa.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 582944,
+        "title": "La cordillera de los sueños",
+        "original_language": "es",
+        "original_title": "La cordillera de los sueños",
+        "overview": "“En Chile, cuando sale el sol, tuvo que escalar cerros, muros y cimas antes de llegar a la última piedra de la Cordillera. En mi país, la Cordillera está en todas partes. Pero para los ciudadanos chilenos, es un territorio desconocido. Después de ir Al norte para Nostalgia por la luz y al sur para El botón de la perla, ahora me siento listo para fotografiar esta inmensa columna vertebral para explorar sus misterios, poderosas revelaciones de la historia pasada y presente de Chile \". Patricio Guzmán",
+        "popularity": 0.5185,
+        "poster_path": "/u70b1bC4jVxBznd5nh509vz3rlv.jpg",
+        "release_date": "2019-10-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 36
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

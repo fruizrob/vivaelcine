@@ -1,0 +1,86 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/332907?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:43.869Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 332907,
+    "imdb_id": "tt1820409",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Capture Device",
+    "overview": "",
+    "popularity": 0.2633,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2009-03-01",
+    "revenue": 0,
+    "runtime": 7,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Capture Device",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1446261,
+          "known_for_department": "Directing",
+          "name": "Mike Pecci",
+          "original_name": "Mike Pecci",
+          "popularity": 0.2128,
+          "profile_path": null,
+          "credit_id": "55156c5cc3a3684239002f16",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1446261,
+          "known_for_department": "Directing",
+          "name": "Mike Pecci",
+          "original_name": "Mike Pecci",
+          "popularity": 0.2128,
+          "profile_path": null,
+          "credit_id": "55156c659251410462003778",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2009-03-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

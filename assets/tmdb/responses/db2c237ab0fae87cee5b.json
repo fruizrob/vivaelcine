@@ -1,0 +1,130 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/292886?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:09.113Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 292886,
+    "imdb_id": "tt0449318",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Miriam",
+    "overview": "",
+    "popularity": 0.2269,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2006-11-03",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Miriam",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1184462,
+          "known_for_department": "Acting",
+          "name": "Ben Maccabee",
+          "original_name": "Ben Maccabee",
+          "popularity": 0.248,
+          "profile_path": "/1HcuG3jiO16jPAONOPXRHUo48yS.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6120b9d65437f5004517f79a",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3206592,
+          "known_for_department": "Acting",
+          "name": "Ariana Savalas",
+          "original_name": "Ariana Savalas",
+          "popularity": 0.0544,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "6120c0b93a4a120046e32e7a",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1069803,
+          "known_for_department": "Acting",
+          "name": "Eric Axen",
+          "original_name": "Eric Axen",
+          "popularity": 0.1224,
+          "profile_path": "/mhliztxXvrZ1Az2OxrHxfs4V8Ol.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "6120c0bf9f0e190073439530",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": true,
+          "gender": 2,
+          "id": 140086,
+          "known_for_department": "Directing",
+          "name": "Matt Cimber",
+          "original_name": "Matt Cimber",
+          "popularity": 0,
+          "profile_path": null,
+          "credit_id": "62ae45760e44190060c897e3",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-11-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

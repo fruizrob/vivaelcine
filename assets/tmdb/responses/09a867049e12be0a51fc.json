@@ -1,0 +1,205 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/871494?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:35.688Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 871494,
+    "imdb_id": "tt1104099",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Ojos que no ven",
+    "overview": "Emilio es un niño ciego que vive feliz con su percepción del mundo. Sin embargo, su madre abrumada por cuidarlo día a día, lo abandona azarosamente en una carpintería en la que trabaja un viejo huraño y solitario que no espera más de la vida. Historia de un pequeño niño que no puede ver con sus ojos, pero ve claramente con su corazón.",
+    "popularity": 0.2159,
+    "poster_path": "/wNO7ypcOFTOrZDVDAryMen55XWH.jpg",
+    "production_companies": [
+      {
+        "id": 299,
+        "logo_path": "/elssmtHcogGtF8Gxokh9phZvLKi.png",
+        "name": "Instituto Mexicano de Cinematografía",
+        "origin_country": "MX"
+      },
+      {
+        "id": 5439,
+        "logo_path": "/yzcxOpyPQs9bA5g6GPYRklImYQv.png",
+        "name": "Consejo Nacional para la Cultura y las Artes",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2007-01-01",
+    "revenue": 0,
+    "runtime": 10,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ojos que no ven",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1683131,
+          "known_for_department": "Acting",
+          "name": "Fermin Garcia",
+          "original_name": "Fermin Garcia",
+          "popularity": 0.0732,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Abuelo",
+          "credit_id": "61367e76ef9d72008d529740",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3225069,
+          "known_for_department": "Acting",
+          "name": "Wendy Argelia Martínez",
+          "original_name": "Wendy Argelia Martínez",
+          "popularity": 0.1147,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Mamá",
+          "credit_id": "61367e859f0e19002a405de3",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3225070,
+          "known_for_department": "Acting",
+          "name": "Helí de Jesús Casillas",
+          "original_name": "Helí de Jesús Casillas",
+          "popularity": 0.0824,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Emilio",
+          "credit_id": "61367e8e1130bd0043575f77",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3225071,
+          "known_for_department": "Acting",
+          "name": "Angel Romo",
+          "original_name": "Angel Romo",
+          "popularity": 0.08,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Voz",
+          "credit_id": "61367ea36e0d72008c7ce8b5",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3225067,
+          "known_for_department": "Directing",
+          "name": "Marysol Jasso",
+          "original_name": "Marysol Jasso",
+          "popularity": 0.1246,
+          "profile_path": null,
+          "credit_id": "61367e411b7294008f5e66fa",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3225067,
+          "known_for_department": "Directing",
+          "name": "Marysol Jasso",
+          "original_name": "Marysol Jasso",
+          "popularity": 0.1246,
+          "profile_path": null,
+          "credit_id": "61367e47b7abb50043e5a677",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1578191,
+          "known_for_department": "Production",
+          "name": "Yuria Goded",
+          "original_name": "Yuria Goded",
+          "popularity": 0.0948,
+          "profile_path": null,
+          "credit_id": "61367eb7091e620094534f65",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3225073,
+          "known_for_department": "Camera",
+          "name": "Carlos Colin",
+          "original_name": "Carlos Colin",
+          "popularity": 0.0964,
+          "profile_path": null,
+          "credit_id": "61367ed50b73160043071522",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1201490,
+          "known_for_department": "Editing",
+          "name": "César O.G. Valdez",
+          "original_name": "César O.G. Valdez",
+          "popularity": 0.1225,
+          "profile_path": null,
+          "credit_id": "61367ee0b84f940043791036",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2007-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

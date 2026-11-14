@@ -1,0 +1,351 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1570967?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:08.080Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/lEdvjq6eYxJYv1iSvl0SjSM9knc.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1570967,
+    "imdb_id": "tt38575422",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "El cuerpo de Cristo",
+    "overview": "Adela padece un trastorno mental que no reconoce como tal, lo que la lleva a buscar la solución en la religión y en los ritos populares. La protagonista se siente incomprendida tanto por su familia como por el entorno médico y psiquiátrico, donde la medicación se presenta como el remedio absoluto a todos sus problemas. Pero ella necesita que alguien escuche lo que realmente le ocurre. Cree estar vigilada, siente una presencia que a veces la toca y le hace daño dejándola prostrada en cama durante días. El único lugar donde su realidad tiene cabida es en la religión, lo que la lleva a visitar a una curandera a la que le confiesa cómo y cuándo empezó todo.",
+    "popularity": 0.5547,
+    "poster_path": "/4cPx42GlQlNusu07CnmMGjarrFU.jpg",
+    "production_companies": [
+      {
+        "id": 80052,
+        "logo_path": "/eqzVWXXSQUd1pD8gQMPhYaVEQr0.png",
+        "name": "UniKo",
+        "origin_country": "ES"
+      },
+      {
+        "id": 87825,
+        "logo_path": "/mSmzwSHWOE3Ygmk789x4ea9m6Jk.png",
+        "name": "Abano Producións",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2025-11-21",
+    "revenue": 0,
+    "runtime": 13,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El cuerpo de Cristo",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6436291,
+          "known_for_department": "Acting",
+          "name": "Ana Santos",
+          "original_name": "Ana Santos",
+          "popularity": 0.085,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Adela",
+          "credit_id": "6a8e22fa34e786815831b46f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1093286,
+          "known_for_department": "Acting",
+          "name": "Andres Bellas",
+          "original_name": "Andres Bellas",
+          "popularity": 0.1018,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Médico 1",
+          "credit_id": "6a8e23107930b13e314601a7",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6436292,
+          "known_for_department": "Acting",
+          "name": "Pichu Vallejo",
+          "original_name": "Pichu Vallejo",
+          "popularity": 0.0867,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Curandera",
+          "credit_id": "6a8e2323c01135aa6c31b486",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1019693,
+          "known_for_department": "Acting",
+          "name": "César Cambeiro",
+          "original_name": "César Cambeiro",
+          "popularity": 0.396,
+          "profile_path": "/ddlJwn9CN4p5MEVSKgeTFuaOAdA.jpg",
+          "cast_id": 8,
+          "character": "Julio",
+          "credit_id": "6a8e2340a5fd07f2311b3c74",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6436293,
+          "known_for_department": "Acting",
+          "name": "Ana Ouro",
+          "original_name": "Ana Ouro",
+          "popularity": 0.0685,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Sofia",
+          "credit_id": "6a8e234f5aa375a9d0c8545e",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1769744,
+          "known_for_department": "Acting",
+          "name": "Ana Lemos",
+          "original_name": "Ana Lemos",
+          "popularity": 0.2403,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Enfermera",
+          "credit_id": "6a8e235efea71d0964d2f693",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1093285,
+          "known_for_department": "Acting",
+          "name": "Nora Abad",
+          "original_name": "Nora Abad",
+          "popularity": 0.1149,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Médico 2",
+          "credit_id": "6a8e237c309150a87d4601a8",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4151540,
+          "known_for_department": "Acting",
+          "name": "Luis Iglesias",
+          "original_name": "Luis Iglesias",
+          "popularity": 0.0978,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Cura",
+          "credit_id": "6a8e238b5d3cd357d0694d16",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1093289,
+          "known_for_department": "Acting",
+          "name": "Raul Dans",
+          "original_name": "Raul Dans",
+          "popularity": 0.067,
+          "profile_path": "/dbFlxPdXNouMQNjbdXBqwcuppXj.jpg",
+          "cast_id": 13,
+          "character": "Pedro",
+          "credit_id": "6a8e2398d7754a9da8b4bdfe",
+          "order": 8
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5781673,
+          "known_for_department": "Directing",
+          "name": "Bea Lema",
+          "original_name": "Bea Lema",
+          "popularity": 0.1365,
+          "profile_path": null,
+          "credit_id": "69020b45497b08a226c461e7",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5781673,
+          "known_for_department": "Directing",
+          "name": "Bea Lema",
+          "original_name": "Bea Lema",
+          "popularity": 0.1365,
+          "profile_path": null,
+          "credit_id": "698d715118c760ef1ef25a0c",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5781673,
+          "known_for_department": "Directing",
+          "name": "Bea Lema",
+          "original_name": "Bea Lema",
+          "popularity": 0.1365,
+          "profile_path": null,
+          "credit_id": "698d715bb25a4349a5f25a16",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5781673,
+          "known_for_department": "Directing",
+          "name": "Bea Lema",
+          "original_name": "Bea Lema",
+          "popularity": 0.1365,
+          "profile_path": null,
+          "credit_id": "698d71a6ab6d3d09b6fb1ede",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1990378,
+          "known_for_department": "Sound",
+          "name": "Paloma Peñarrubia",
+          "original_name": "Paloma Peñarrubia",
+          "popularity": 0.1583,
+          "profile_path": "/wuRc9ZDVMETeH9iDvME2V8w4JOI.jpg",
+          "credit_id": "6a8e23c6bfc82ee44231b410",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6436295,
+          "known_for_department": "Editing",
+          "name": "Estanis Bañuel",
+          "original_name": "Estanis Bañuel",
+          "popularity": 0.0374,
+          "profile_path": null,
+          "credit_id": "6a8e2409fea71d0964d2f69e",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "International Festival of Documentary and Short Film of Bilbao",
+              "release_date": "2025-11-21T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "ManzanaRec - Festival Social",
+              "release_date": "2026-02-21T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Message to Man International Film Festival",
+              "release_date": "2026-10-17T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Taichung International Animation Festival",
+              "release_date": "2026-10-04T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Lviv International Film Festival Wiz-Art ",
+              "release_date": "2026-09-24T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "UA",
+          "title": "The Body of Christ",
+          "type": "alternative festival title"
+        }
+      ]
+    }
+  }
+}

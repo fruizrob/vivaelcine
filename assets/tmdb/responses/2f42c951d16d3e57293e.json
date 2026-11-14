@@ -1,0 +1,83 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1557436?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:14.193Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1557436,
+    "imdb_id": "tt0453157",
+    "origin_country": [
+      "EE"
+    ],
+    "original_language": "et",
+    "original_title": "Miriam mängib peitust",
+    "overview": "",
+    "popularity": 0.0606,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "EE",
+        "name": "Estonia"
+      }
+    ],
+    "release_date": "2004-01-01",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Miriam mängib peitust",
+    "video": false,
+    "vote_average": 9,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1575190,
+          "known_for_department": "Directing",
+          "name": "Priit Tender",
+          "original_name": "Priit Tender",
+          "popularity": 0.1679,
+          "profile_path": "/hjBTP4aDZYT3csN56s2OCZW4Wj9.jpg",
+          "credit_id": "68e2300da6d51630a5c26e93",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "EE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2004-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

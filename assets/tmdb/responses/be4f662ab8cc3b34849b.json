@@ -1,0 +1,314 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/604933?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:13.327Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": {
+      "id": 1077614,
+      "name": "Miriam Collection",
+      "poster_path": null,
+      "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 604933,
+    "imdb_id": null,
+    "origin_country": [
+      "EE"
+    ],
+    "original_language": "et",
+    "original_title": "Miriam järve ääres",
+    "overview": "",
+    "popularity": 0.2912,
+    "poster_path": "/ygZKaoCY6DeHKbuhwDeRuP9J8Og.jpg",
+    "production_companies": [
+      {
+        "id": 69851,
+        "logo_path": "/eRkN7XGL7KmMYe8vUmtTuM4oSLP.png",
+        "name": "Nukufilm",
+        "origin_country": "EE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "EE",
+        "name": "Estonia"
+      }
+    ],
+    "release_date": "2017-05-01",
+    "revenue": 0,
+    "runtime": 5,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Estonian",
+        "iso_639_1": "et",
+        "name": "Eesti"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Miriam järve ääres",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1420648,
+          "known_for_department": "Acting",
+          "name": "Eva Püssa",
+          "original_name": "Eva Püssa",
+          "popularity": 0.3255,
+          "profile_path": "/jANyyNkC7P4YXh5yi0EtLVqmaOH.jpg",
+          "cast_id": 3,
+          "character": "(voice)",
+          "credit_id": "63ce46cd5bce9e009ac33cc8",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3887093,
+          "known_for_department": "Acting",
+          "name": "Marta Püssa",
+          "original_name": "Marta Püssa",
+          "popularity": 0.2183,
+          "profile_path": "/rXbdwkRSepiKIXnZEQYwnVkpbfM.jpg",
+          "cast_id": 4,
+          "character": "(voice)",
+          "credit_id": "63ce46d65bce9e00b669422a",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3477130,
+          "known_for_department": "Acting",
+          "name": "Hans Matthias Andreas",
+          "original_name": "Hans Matthias Andreas",
+          "popularity": 0.0617,
+          "profile_path": "/zaDXOJLFzHcOVdZsRS2y6joj7Xc.jpg",
+          "cast_id": 5,
+          "character": "(voice)",
+          "credit_id": "63ce46e063536a009f8d9dd8",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 137559,
+          "known_for_department": "Sound",
+          "name": "Ants Andreas",
+          "original_name": "Ants Andreas",
+          "popularity": 0.1114,
+          "profile_path": "/2LiVC0UamwI41YWSkWIV1D3RqBO.jpg",
+          "cast_id": 6,
+          "character": "(voice)",
+          "credit_id": "63ce46eb7aecc600c52fe709",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1273972,
+          "known_for_department": "Directing",
+          "name": "Mait Laas",
+          "original_name": "Mait Laas",
+          "popularity": 0.1342,
+          "profile_path": "/osw0wFdhUuJusRGAqbNdHUyKNPl.jpg",
+          "credit_id": "63ce47a8e16e5a02cd5a3fca",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2246355,
+          "known_for_department": "Production",
+          "name": "Kerdi Oengo",
+          "original_name": "Kerdi Oengo",
+          "popularity": 0.1609,
+          "profile_path": "/wDCFkOSIsPOHc3Bt9j2eJ2yxUKi.jpg",
+          "credit_id": "63ce47b27aecc60080c92fc4",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2576596,
+          "known_for_department": "Production",
+          "name": "Andrus Raudsalu",
+          "original_name": "Andrus Raudsalu",
+          "popularity": 0.0908,
+          "profile_path": null,
+          "credit_id": "63ce47bb63536a0083c30485",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2577985,
+          "known_for_department": "Writing",
+          "name": "Leelo Tungal",
+          "original_name": "Leelo Tungal",
+          "popularity": 0.1223,
+          "profile_path": "/twUlSCrjdu3sW5Kc0t1rxAYhOIN.jpg",
+          "credit_id": "63ce47c4e16e5a02cd5a3fe1",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1266777,
+          "known_for_department": "Writing",
+          "name": "Peep Pedmanson",
+          "original_name": "Peep Pedmanson",
+          "popularity": 0.1648,
+          "profile_path": "/zFMdYLcaBodW97Z0v2TT7Fsirp5.jpg",
+          "credit_id": "63ce47cd3c4344009db97419",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2246357,
+          "known_for_department": "Directing",
+          "name": "Sergo Kibus",
+          "original_name": "Sergo Kibus",
+          "popularity": 0.1862,
+          "profile_path": "/gTrZWKMh2MYc4WoBJywQzSKqyom.jpg",
+          "credit_id": "63ce47d65bce9e00885ac392",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2064113,
+          "known_for_department": "Art",
+          "name": "Ivika Luisk",
+          "original_name": "Ivika Luisk",
+          "popularity": 0.1056,
+          "profile_path": null,
+          "credit_id": "63ce47e05bce9e009ac33d61",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1596494,
+          "known_for_department": "Sound",
+          "name": "Tiit Kikas",
+          "original_name": "Tiit Kikas",
+          "popularity": 0.1532,
+          "profile_path": "/lyLcPgONYwT1XUJwOWWp5D8D5aJ.jpg",
+          "credit_id": "63ce47f07f0540008a7732fd",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 137560,
+          "known_for_department": "Sound",
+          "name": "Tiina Andreas",
+          "original_name": "Tiina Andreas",
+          "popularity": 0.0847,
+          "profile_path": "/gFbrPELh2vCkEe1mQfudkx1iS37.jpg",
+          "credit_id": "63ce47fa7aecc600ba59ff8b",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1631109,
+          "known_for_department": "Sound",
+          "name": "Aleksandra Koel-Tsupsman",
+          "original_name": "Aleksandra Koel-Tsupsman",
+          "popularity": 0.1785,
+          "profile_path": "/iil6QYM6Tp2YzhdkPzAwkZGhGLw.jpg",
+          "credit_id": "63ce48037f054000ae2a6153",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1725725,
+          "known_for_department": "Sound",
+          "name": "Liisa Taul",
+          "original_name": "Liisa Taul",
+          "popularity": 0.0929,
+          "profile_path": null,
+          "credit_id": "63ce480b3c434400bc23021b",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 584884,
+          "known_for_department": "Directing",
+          "name": "Riho Unt",
+          "original_name": "Riho Unt",
+          "popularity": 0.2683,
+          "profile_path": "/f2DdpHVOc5qquRqe9L3YxVnWfwu.jpg",
+          "credit_id": "5ceaf8630e0a266683cdc445",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2246357,
+          "known_for_department": "Directing",
+          "name": "Sergo Kibus",
+          "original_name": "Sergo Kibus",
+          "popularity": 0.1862,
+          "profile_path": "/gTrZWKMh2MYc4WoBJywQzSKqyom.jpg",
+          "credit_id": "5ceaf8749251414398b9fcc3",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "EE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2017-05-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

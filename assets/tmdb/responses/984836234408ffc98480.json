@@ -1,0 +1,102 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1670307?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:03.475Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1670307,
+    "imdb_id": null,
+    "origin_country": [
+      "CO"
+    ],
+    "original_language": "es",
+    "original_title": "Pan",
+    "overview": "",
+    "popularity": 0.1542,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "CO",
+        "name": "Colombia"
+      }
+    ],
+    "release_date": "2026-04-17",
+    "revenue": 0,
+    "runtime": 15,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pan",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2566253,
+          "known_for_department": "Directing",
+          "name": "Miguel León",
+          "original_name": "Miguel León",
+          "popularity": 0.1814,
+          "profile_path": "/3LbOhTlYwX5BoU3YQNxfvA7IfM0.jpg",
+          "credit_id": "69ddec838a12ffe9f93595f1",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2566253,
+          "known_for_department": "Directing",
+          "name": "Miguel León",
+          "original_name": "Miguel León",
+          "popularity": 0.1814,
+          "profile_path": "/3LbOhTlYwX5BoU3YQNxfvA7IfM0.jpg",
+          "credit_id": "69ddec8a2a025c1cbfd93de2",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "RU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Moscow International Film Festival",
+              "release_date": "2026-04-17T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

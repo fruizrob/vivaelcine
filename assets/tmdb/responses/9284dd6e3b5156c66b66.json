@@ -1,0 +1,549 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/46188?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:00.852Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/uU1NiZL4WnciDPBJff5Dz6mmiU6.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "id": 46188,
+    "imdb_id": "tt0220698",
+    "origin_country": [
+      "AU",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Peter Pan",
+    "overview": "",
+    "popularity": 0.6941,
+    "poster_path": "/x3068r7upUZru100Px4iY7xHwGE.jpg",
+    "production_companies": [
+      {
+        "id": 65288,
+        "logo_path": "/iXd0oGOIsFTL4kKz0knYT2VMuMJ.png",
+        "name": "Burbank Animation Studios",
+        "origin_country": "AU"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      }
+    ],
+    "release_date": "1988-06-23",
+    "revenue": 0,
+    "runtime": 48,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Peter Pan",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 84,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1196338,
+          "known_for_department": "Acting",
+          "name": "Phillip Hinton",
+          "original_name": "Phillip Hinton",
+          "popularity": 0.4545,
+          "profile_path": "/xt4NGtoSqsrbiKGXRmoTtDEt2eG.jpg",
+          "cast_id": 3,
+          "character": "Captain Hook / Mr. Darling (voice)",
+          "credit_id": "662e0f68c3aa3f0129fd5662",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 94979,
+          "known_for_department": "Acting",
+          "name": "Keith Scott",
+          "original_name": "Keith Scott",
+          "popularity": 0.4687,
+          "profile_path": "/mx2y1ZMXfiGERn0ECHXdVZVKKGI.jpg",
+          "cast_id": 4,
+          "character": "Smee (voice)",
+          "credit_id": "662e0fc1c3aa3f0129fd568f",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4680097,
+          "known_for_department": "Acting",
+          "name": "Daniel Floyd",
+          "original_name": "Daniel Floyd",
+          "popularity": 0.1124,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Toodles /Nibbs /Slightl / Curly / The Twins",
+          "credit_id": "662e109ee33f83012b21907c",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4680100,
+          "known_for_department": "Acting",
+          "name": "Jonathon Panic",
+          "original_name": "Jonathon Panic",
+          "popularity": 0.0594,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "John Darling (voice)",
+          "credit_id": "662e1191072166012469a5ac",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 930755,
+          "known_for_department": "Acting",
+          "name": "Caz Adams",
+          "original_name": "Caz Adams",
+          "popularity": 0.1881,
+          "profile_path": "/6o1LED4IOFYznQNFr1xzCqm6hzO.jpg",
+          "cast_id": 7,
+          "character": "Michael Darling (voice) (as Carol Adams)",
+          "credit_id": "662e11c8f6fd18012522d1ad",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1196337,
+          "known_for_department": "Acting",
+          "name": "Olivia Martin",
+          "original_name": "Olivia Martin",
+          "popularity": 0.1185,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Wendy Darling (voice)",
+          "credit_id": "662e120e7d5db501233e0dbe",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1563229,
+          "known_for_department": "Acting",
+          "name": "Jaye Rosenberg",
+          "original_name": "Jaye Rosenberg",
+          "popularity": 0.1455,
+          "profile_path": "/4eciGdFrlhlpg2j6lLPUoyuRXgG.jpg",
+          "cast_id": 9,
+          "character": "Peter Pan / Mrs. Darling (voice)",
+          "credit_id": "662e125a7d5db501263e086b",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4680111,
+          "known_for_department": "Acting",
+          "name": "Michael Anthony",
+          "original_name": "Michael Anthony",
+          "popularity": 0.1793,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Quenton",
+          "credit_id": "662e1302713ea6012868aff1",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4680112,
+          "known_for_department": "Acting",
+          "name": "Ben Brennan",
+          "original_name": "Ben Brennan",
+          "popularity": 0.1465,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Additional Voices",
+          "credit_id": "662e136369d2800126430ad7",
+          "order": 8
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1539149,
+          "known_for_department": "Visual Effects",
+          "name": "Richard Trueblood",
+          "original_name": "Richard Trueblood",
+          "popularity": 0.2598,
+          "profile_path": null,
+          "credit_id": "66140e8a6c8492012ffc102c",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 142228,
+          "known_for_department": "Directing",
+          "name": "Давид Черкаський",
+          "original_name": "Давид Черкаський",
+          "popularity": 0.409,
+          "profile_path": "/bbuqlo3NbITUHB2wIyQjhoyWle5.jpg",
+          "credit_id": "66140e7f0bb07601623057a6",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1253118,
+          "known_for_department": "Directing",
+          "name": "Chris Cuddington",
+          "original_name": "Chris Cuddington",
+          "popularity": 0.2486,
+          "profile_path": null,
+          "credit_id": "662e1abf8a88b20121ce4ed4",
+          "department": "Art",
+          "job": "Storyboard Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2259847,
+          "known_for_department": "Production",
+          "name": "Dulce Lagos Loychin",
+          "original_name": "Dulce Lagos Loychin",
+          "popularity": 0.0781,
+          "profile_path": null,
+          "credit_id": "662e1a838a88b20121ce4eb9",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4644510,
+          "known_for_department": "Sound",
+          "name": "John Stuart",
+          "original_name": "John Stuart",
+          "popularity": 0.1076,
+          "profile_path": null,
+          "credit_id": "662e1944713ea6012868b2db",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2228090,
+          "known_for_department": "Directing",
+          "name": "Dani Montano",
+          "original_name": "Dani Montano",
+          "popularity": 0.1464,
+          "profile_path": null,
+          "credit_id": "662e1aa424f2ce01262ab31c",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4680170,
+          "known_for_department": "Camera",
+          "name": "Bong Barrios",
+          "original_name": "Bong Barrios",
+          "popularity": 0.0276,
+          "profile_path": null,
+          "credit_id": "662e1cc2072166012a69a260",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14687,
+          "known_for_department": "Writing",
+          "name": "J.M. Barrie",
+          "original_name": "J.M. Barrie",
+          "popularity": 0.5136,
+          "profile_path": "/gbApVvWseqj1JSAA3KHWUBiNqgM.jpg",
+          "credit_id": "662e180ea806730122e8c583",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1064880,
+          "known_for_department": "Writing",
+          "name": "Paul Leadon",
+          "original_name": "Paul Leadon",
+          "popularity": 0.3363,
+          "profile_path": null,
+          "credit_id": "662e1830a806730125e8ca8f",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4680173,
+          "known_for_department": "Production",
+          "name": "Glovie Napoles",
+          "original_name": "Glovie Napoles",
+          "popularity": 0.0599,
+          "profile_path": null,
+          "credit_id": "662e1d885a78840121c1be19",
+          "department": "Production",
+          "job": "Production Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4644510,
+          "known_for_department": "Sound",
+          "name": "John Stuart",
+          "original_name": "John Stuart",
+          "popularity": 0.1076,
+          "profile_path": null,
+          "credit_id": "662e1c2760c751012364d62a",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1471622,
+          "known_for_department": "Editing",
+          "name": "Peter Jennings",
+          "original_name": "Peter Jennings",
+          "popularity": 0.1552,
+          "profile_path": null,
+          "credit_id": "662e19da7d5db501233e1113",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1354493,
+          "known_for_department": "Production",
+          "name": "Tom Stacey",
+          "original_name": "Tom Stacey",
+          "popularity": 0.1079,
+          "profile_path": null,
+          "credit_id": "662e18a869d2800126430cb6",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1070139,
+          "known_for_department": "Production",
+          "name": "Roz Phillips",
+          "original_name": "Roz Phillips",
+          "popularity": 0.1719,
+          "profile_path": null,
+          "credit_id": "662e188ae33f830122218c9d",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2259853,
+          "known_for_department": "Camera",
+          "name": "Frank Aguila",
+          "original_name": "Frank Aguila",
+          "popularity": 0.1385,
+          "profile_path": null,
+          "credit_id": "662e1c8b69d280012c430ddb",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1745244,
+          "known_for_department": "Sound",
+          "name": "Angus Robertson",
+          "original_name": "Angus Robertson",
+          "popularity": 0.1724,
+          "profile_path": null,
+          "credit_id": "662e1b3ca806730122e8c706",
+          "department": "Sound",
+          "job": "ADR Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4680172,
+          "known_for_department": "Camera",
+          "name": "Dennis Halili",
+          "original_name": "Dennis Halili",
+          "popularity": 0.097,
+          "profile_path": null,
+          "credit_id": "662e1d1bc3aa3f0129fd5c41",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2228129,
+          "known_for_department": "Camera",
+          "name": "Robert Jacobs",
+          "original_name": "Robert Jacobs",
+          "popularity": 0.0216,
+          "profile_path": null,
+          "credit_id": "662e1982d96c3c012298a415",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4680174,
+          "known_for_department": "Production",
+          "name": "Cherrie Navea",
+          "original_name": "Cherrie Navea",
+          "popularity": 0.0274,
+          "profile_path": null,
+          "credit_id": "662e1db38a88b20121ce5038",
+          "department": "Production",
+          "job": "Production Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1462750,
+          "known_for_department": "Production",
+          "name": "Mark D'Arcy-Irvine",
+          "original_name": "Mark D'Arcy-Irvine",
+          "popularity": 0.2274,
+          "profile_path": null,
+          "credit_id": "662e19bb03bf84012aead9a0",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2259852,
+          "known_for_department": "Visual Effects",
+          "name": "Vangie F. Bernardino",
+          "original_name": "Vangie F. Bernardino",
+          "popularity": 0.0477,
+          "profile_path": null,
+          "credit_id": "662e1c6fa80673012be8ced0",
+          "department": "Visual Effects",
+          "job": "Special Effects Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2259854,
+          "known_for_department": "Camera",
+          "name": "Richard Chuidian",
+          "original_name": "Richard Chuidian",
+          "popularity": 0.0857,
+          "profile_path": null,
+          "credit_id": "662e1cdbe33f83012b2194d5",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2259856,
+          "known_for_department": "Camera",
+          "name": "Nelson Yap",
+          "original_name": "Nelson Yap",
+          "popularity": 0.1416,
+          "profile_path": null,
+          "credit_id": "662e1d37713ea6012568cf29",
+          "department": "Camera",
+          "job": "Camera Operator"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1988-06-23T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2024-10-19T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "AZ",
+          "title": "Piter Pan",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1594703?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:33.420Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1594703,
+    "imdb_id": null,
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "NO LO VEN",
+    "overview": "Jorge es un taxista cordobés aferrado a discursos de orden, meritocracia y furia. Su único amigo es López, su conejo muerto, confidente y brújula espiritual.  En la noche, Jorge y López se cruzan con pasajeros que encarnan distintos estereotipos sociales, reflejos distorsionados de una sociedad en tensión. Entre conversaciones absurdas y situaciones cada vez más extremas, su rutina se quiebra cuando sube al taxi el joven que horas antes humilló al conductor frente a sus pares.  Atrapado entre la ira, el delirio y el deseo de reivindicación, Jorge deberá decidir si actuar para recuperar una dignidad herida o aceptar el lugar de burla que siente que el mundo le impuso.",
+    "popularity": 0.161,
+    "poster_path": "/qsco4NPfMa5jFm1aR0nUZkAaAK7.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2024-11-11",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El odio nunca viajó con tanta libertad.",
+    "title": "NO LO VEN",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5863394,
+          "known_for_department": "Acting",
+          "name": "Gabriel Cambiasso",
+          "original_name": "Gabriel Cambiasso",
+          "popularity": 0.1441,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Jorge",
+          "credit_id": "6935dcfef9bc3a6352c1f7c2",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4647383,
+          "known_for_department": "Acting",
+          "name": "Santiago Martins",
+          "original_name": "Santiago Martins",
+          "popularity": 0.0289,
+          "profile_path": "/pHamRJNTaFVE0izXW651qpiTKoA.jpg",
+          "cast_id": 2,
+          "character": "López",
+          "credit_id": "6935dd0b5d6051eafb4e4ed1",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5863395,
+          "known_for_department": "Acting",
+          "name": "Emilio Agüero",
+          "original_name": "Emilio Agüero",
+          "popularity": 0.0607,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Empresario",
+          "credit_id": "6935dd34cd7f64ee67c1f839",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2096709,
+          "known_for_department": "Acting",
+          "name": "Irene Gonnet",
+          "original_name": "Irene Gonnet",
+          "popularity": 0.0834,
+          "profile_path": "/5SjoHud4XS3yVns6wj5gSHk9NXX.jpg",
+          "cast_id": 4,
+          "character": "Abuela",
+          "credit_id": "6935dd3fc9e4cedd804e4f11",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5863397,
+          "known_for_department": "Acting",
+          "name": "Bianca Moyano",
+          "original_name": "Bianca Moyano",
+          "popularity": 0.0213,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Nieta",
+          "credit_id": "6935dd53d7abbe40af17b46e",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5807006,
+          "known_for_department": "Acting",
+          "name": "Sergio Juncos",
+          "original_name": "Sergio Juncos",
+          "popularity": 0.1016,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Taxista",
+          "credit_id": "6935dd6868ea30ebba243e8a",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5863399,
+          "known_for_department": "Acting",
+          "name": "Miguel Angel Rao",
+          "original_name": "Miguel Angel Rao",
+          "popularity": 0.0288,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Taxista",
+          "credit_id": "6935dd78231e10e64b70ae4c",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5863400,
+          "known_for_department": "Acting",
+          "name": "Pablo López",
+          "original_name": "Pablo López",
+          "popularity": 0.0282,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Taxista",
+          "credit_id": "6935dd8fc100ac2f6605d71e",
+          "order": 7
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5683712,
+          "known_for_department": "Camera",
+          "name": "Luciana Willging",
+          "original_name": "Luciana Willging",
+          "popularity": 0.0504,
+          "profile_path": null,
+          "credit_id": "6935ddd6f7208738464e4f2a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5863405,
+          "known_for_department": "Production",
+          "name": "Camila Mendez",
+          "original_name": "Camila Mendez",
+          "popularity": 0.0348,
+          "profile_path": null,
+          "credit_id": "6935de3ab0ee1345ca48ef11",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5863408,
+          "known_for_department": "Camera",
+          "name": "Tobías Rodriguez",
+          "original_name": "Tobías Rodriguez",
+          "popularity": 0.0414,
+          "profile_path": null,
+          "credit_id": "6935de59140f88b68270b049",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5863410,
+          "known_for_department": "Art",
+          "name": "Fernanda Hugo",
+          "original_name": "Fernanda Hugo",
+          "popularity": 0.0479,
+          "profile_path": null,
+          "credit_id": "6935de80150d22d813243eee",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5043984,
+          "known_for_department": "Directing",
+          "name": "Teo Gomez Nosotti",
+          "original_name": "Teo Gomez Nosotti",
+          "popularity": 0.0278,
+          "profile_path": null,
+          "credit_id": "6935dead0d4b1cb36605d521",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5806987,
+          "known_for_department": "Directing",
+          "name": "M Sol Clemente",
+          "original_name": "M Sol Clemente",
+          "popularity": 0.0348,
+          "profile_path": null,
+          "credit_id": "6935deda5d6051eafb4e4ed5",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5863414,
+          "known_for_department": "Editing",
+          "name": "Gonzalo Rozo",
+          "original_name": "Gonzalo Rozo",
+          "popularity": 0.0075,
+          "profile_path": null,
+          "credit_id": "6935defc5d6051eafb4e4ee1",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 5683712,
+          "known_for_department": "Camera",
+          "name": "Luciana Willging",
+          "original_name": "Luciana Willging",
+          "popularity": 0.0504,
+          "profile_path": null,
+          "credit_id": "6935e6844cd69a528370aecd",
+          "department": "Writing",
+          "job": "Author"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "+13",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Estreno oficial en sala en MUTRA: Muestra Taller de Realización Audiovisual, de la cátedra de Taller de Realización Audiovisual de la Lic. en Cine y Artes Audiovisuales correspondiente a la Universidad Nacional de Córdoba.",
+              "release_date": "2024-11-11T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

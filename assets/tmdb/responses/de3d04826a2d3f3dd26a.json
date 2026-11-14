@@ -1,0 +1,476 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/326072?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:31.000Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 740000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 326072,
+    "imdb_id": "tt3686270",
+    "origin_country": [
+      "CZ"
+    ],
+    "original_language": "cs",
+    "original_title": "Cesta ven",
+    "overview": "",
+    "popularity": 0.5161,
+    "poster_path": "/2MumcFQF2IUlZFxOD2pW2nZ5re1.jpg",
+    "production_companies": [
+      {
+        "id": 46855,
+        "logo_path": "/mWbWalzonARoUitPBhNgqYJMTz1.png",
+        "name": "Moloko Film",
+        "origin_country": "CZ"
+      },
+      {
+        "id": 487,
+        "logo_path": "/x3BUIowxU2skXOpnOeOkl7kIYDo.png",
+        "name": "Česká televize",
+        "origin_country": "CZ"
+      },
+      {
+        "id": 7823,
+        "logo_path": "/48TJ35Nr82qLhJ9rcGrGStIshqi.png",
+        "name": "Cinéma Defacto",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "CZ",
+        "name": "Czech Republic"
+      }
+    ],
+    "release_date": "2014-05-29",
+    "revenue": 0,
+    "runtime": 103,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Romanian",
+        "iso_639_1": "ro",
+        "name": "Română"
+      },
+      {
+        "english_name": "Czech",
+        "iso_639_1": "cs",
+        "name": "Český"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Cesta ven",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 11,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1428657,
+          "known_for_department": "Acting",
+          "name": "Klaudia Dudová",
+          "original_name": "Klaudia Dudová",
+          "popularity": 0.1691,
+          "profile_path": "/rCmEy1jk0y3TFETo0LeSFvmjmOr.jpg",
+          "cast_id": 5,
+          "character": "Žaneta",
+          "credit_id": "54e4e2e8c3a368654c0017d9",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1428658,
+          "known_for_department": "Acting",
+          "name": "David Ištok",
+          "original_name": "David Ištok",
+          "popularity": 0.0863,
+          "profile_path": "/2Jjcr04HGvnZ2Yn270LWT9bpqyq.jpg",
+          "cast_id": 6,
+          "character": "David",
+          "credit_id": "54e4e2f9c3a368654c0017de",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1428659,
+          "known_for_department": "Acting",
+          "name": "Mária Ferencová-Zajacová",
+          "original_name": "Mária Ferencová-Zajacová",
+          "popularity": 0.1807,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Andrea",
+          "credit_id": "54e4e31f9251412c8e005816",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1428660,
+          "known_for_department": "Acting",
+          "name": "Milan Cifra",
+          "original_name": "Milan Cifra",
+          "popularity": 0.2144,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Marian",
+          "credit_id": "54e4e333c3a368575600ac08",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3222847,
+          "known_for_department": "Acting",
+          "name": "Natálie Hlaváčová",
+          "original_name": "Natálie Hlaváčová",
+          "popularity": 0.0538,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "",
+          "credit_id": "6134363cd4d5090062675508",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3222849,
+          "known_for_department": "Acting",
+          "name": "Sára Makulová",
+          "original_name": "Sára Makulová",
+          "popularity": 0.0744,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Sárinka",
+          "credit_id": "61343650b84f94008ae73a09",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1970529,
+          "known_for_department": "Acting",
+          "name": "Přemysl Bureš",
+          "original_name": "Přemysl Bureš",
+          "popularity": 0.2004,
+          "profile_path": "/agnxH3OEte1YeJLXe7AbWJ4QAB9.jpg",
+          "cast_id": 20,
+          "character": "",
+          "credit_id": "61343668ea39490095cc64db",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2204455,
+          "known_for_department": "Acting",
+          "name": "Zdeněk Godla",
+          "original_name": "Zdeněk Godla",
+          "popularity": 0.294,
+          "profile_path": "/emOfI4xESMloEE1Qy679rlfMASe.jpg",
+          "cast_id": 21,
+          "character": "Štefan",
+          "credit_id": "61343679e3fa2f0065a5ad7a",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2204463,
+          "known_for_department": "Acting",
+          "name": "Julius Oračko",
+          "original_name": "Julius Oračko",
+          "popularity": 0.1791,
+          "profile_path": "/lyYxmeYoW55laAqCR6iIVja655F.jpg",
+          "cast_id": 22,
+          "character": "",
+          "credit_id": "61343688e93e950092d3d727",
+          "order": 8
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1044866,
+          "known_for_department": "Directing",
+          "name": "Petr Václav",
+          "original_name": "Petr Václav",
+          "popularity": 0.2801,
+          "profile_path": "/yQytISq3PhEhl5Iw6W1OyvmKIDW.jpg",
+          "credit_id": "54e4e1edc3a36823d4002f8f",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 46266,
+          "known_for_department": "Sound",
+          "name": "Max Richter",
+          "original_name": "Max Richter",
+          "popularity": 0.5274,
+          "profile_path": "/keYPSx2YlyRCk8KY7YaZ81fZ1Y3.jpg",
+          "credit_id": "54e4ea2692514109fc000035",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1428656,
+          "known_for_department": "Editing",
+          "name": "Florent Mangeot",
+          "original_name": "Florent Mangeot",
+          "popularity": 0.2784,
+          "profile_path": null,
+          "credit_id": "54e4e2cf925141469f009d4b",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1044866,
+          "known_for_department": "Directing",
+          "name": "Petr Václav",
+          "original_name": "Petr Václav",
+          "popularity": 0.2801,
+          "profile_path": "/yQytISq3PhEhl5Iw6W1OyvmKIDW.jpg",
+          "credit_id": "54e4ea469251410a01000025",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1138637,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Tereza Kučerová",
+          "original_name": "Tereza Kučerová",
+          "popularity": 0.332,
+          "profile_path": null,
+          "credit_id": "54e4e28dc3a368489700392d",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2323604,
+          "known_for_department": "Crew",
+          "name": "Martin Novosad",
+          "original_name": "Martin Novosad",
+          "popularity": 0.1438,
+          "profile_path": null,
+          "credit_id": "5d667e10b3e62766ecfe48b0",
+          "department": "Crew",
+          "job": "Dramaturgy"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1320743,
+          "known_for_department": "Sound",
+          "name": "Daniel Němec",
+          "original_name": "Daniel Němec",
+          "popularity": 0.3507,
+          "profile_path": null,
+          "credit_id": "5d667e76b3e6270014fe6ae0",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1905276,
+          "known_for_department": "Editing",
+          "name": "Florent Vassault",
+          "original_name": "Florent Vassault",
+          "popularity": 0.2244,
+          "profile_path": "/wT1FPCBIn7Ssn4NPFeIXPUu6EGK.jpg",
+          "credit_id": "5d667e64b3e6276e56fe5178",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1428655,
+          "known_for_department": "Camera",
+          "name": "Štěpán Kučera",
+          "original_name": "Štěpán Kučera",
+          "popularity": 0.3142,
+          "profile_path": null,
+          "credit_id": "5d667e1f58361b0011222f18",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2283103,
+          "known_for_department": "Sound",
+          "name": "Ivan Horák",
+          "original_name": "Ivan Horák",
+          "popularity": 0.2147,
+          "profile_path": null,
+          "credit_id": "5d667e81b3e62766ecfe4908",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2398024,
+          "known_for_department": "Art",
+          "name": "Jan Pfeiffer",
+          "original_name": "Jan Pfeiffer",
+          "popularity": 0.2156,
+          "profile_path": null,
+          "credit_id": "697b3ef3238b2505477f74a9",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2340123,
+          "known_for_department": "Production",
+          "name": "Jan Macola",
+          "original_name": "Jan Macola",
+          "popularity": 0.2138,
+          "profile_path": null,
+          "credit_id": "697b3f01bef8f6e92da7ecec",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2430114,
+          "known_for_department": "Production",
+          "name": "Miloš Lochman",
+          "original_name": "Miloš Lochman",
+          "popularity": 0.1827,
+          "profile_path": null,
+          "credit_id": "697b3f0ab086325a6bef492b",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2836339,
+          "known_for_department": "Production",
+          "name": "Karel Chvojka",
+          "original_name": "Karel Chvojka",
+          "popularity": 0.2446,
+          "profile_path": null,
+          "credit_id": "697b3f12bef8f6e92da7ecf0",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2573594,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Jana Debreczenyiová",
+          "original_name": "Jana Debreczenyiová",
+          "popularity": 0.0436,
+          "profile_path": null,
+          "credit_id": "697b3f39b1c7bdf59bc217e2",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2014-05-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cannes Film Festival",
+              "release_date": "2014-05-19T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-05-06T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2014-06-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "FR",
+          "title": "Je m'en sortirai",
+          "type": "Cannes festival title"
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Zaneta",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CZ",
+          "title": "Žaneta",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1383584?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:14.348Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/6ZrSG8miTUtDQzpat9sd2o9S1BW.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Música"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1383584,
+    "imdb_id": "tt21068328",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Importance of Being Miriam",
+    "overview": "",
+    "popularity": 0.3439,
+    "poster_path": "/1EeTaTFGD1P8bNQZeverF0uICPV.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2015-12-18",
+    "revenue": 0,
+    "runtime": 156,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Importance of Being Miriam",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6199,
+          "known_for_department": "Acting",
+          "name": "Miriam Margolyes",
+          "original_name": "Miriam Margolyes",
+          "popularity": 1.4853,
+          "profile_path": "/vsnCGCp0nhJTag56HP8XFhXnZo9.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "672b69105508209cf7ad22c2",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5043843,
+          "known_for_department": "Acting",
+          "name": "John Martin",
+          "original_name": "John Martin",
+          "popularity": 0.0807,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "672b695f2f64ebe8c8e4e70a",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3410788,
+          "known_for_department": "Production",
+          "name": "Ian Lumsden",
+          "original_name": "Ian Lumsden",
+          "popularity": 0.053,
+          "profile_path": null,
+          "credit_id": "672b6982599da28980955053",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3534056,
+          "known_for_department": "Sound",
+          "name": "Peter J. Adams",
+          "original_name": "Peter J. Adams",
+          "popularity": 0.0373,
+          "profile_path": null,
+          "credit_id": "672b69955508209cf7ad22d7",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2015-12-18T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

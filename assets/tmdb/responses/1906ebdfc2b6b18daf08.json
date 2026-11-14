@@ -1,0 +1,374 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1380728?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:48.502Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/a0AZjWx83MwfmKfmZzRoZfoIzG.jpg",
+    "belongs_to_collection": null,
+    "budget": 349,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 1380728,
+    "imdb_id": null,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "La Ofrenda",
+    "overview": "",
+    "popularity": 0.1747,
+    "poster_path": "/pGabRIbBNhveK3024ajj8pwaj3L.jpg",
+    "production_companies": [
+      {
+        "id": 225685,
+        "logo_path": null,
+        "name": "Cine Enmascarado",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2023-11-11",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Ofrenda",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5034541,
+          "known_for_department": "Acting",
+          "name": "Sergio Luna",
+          "original_name": "Sergio Luna",
+          "popularity": 0.0885,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "Sergio",
+          "credit_id": "672493a8c1212313ac7ec0e5",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4297530,
+          "known_for_department": "Camera",
+          "name": "Luis Javier Feria Prado",
+          "original_name": "Luis Javier Feria Prado",
+          "popularity": 0.0398,
+          "profile_path": "/wjpTOtUDYWaprSRRGpU8Fxo2KH8.jpg",
+          "cast_id": 23,
+          "character": "Gabo",
+          "credit_id": "672493be90004810fecb22cd",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3469669,
+          "known_for_department": "Directing",
+          "name": "José Eduardo Alvarado",
+          "original_name": "José Eduardo Alvarado",
+          "popularity": 0.0635,
+          "profile_path": "/ulFKYu6RyHJe6J1xcPdI5Y7lRM4.jpg",
+          "credit_id": "6723d0f81df70f7920ff0996",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4642868,
+          "known_for_department": "Directing",
+          "name": "Alexandros Arcos Molano",
+          "original_name": "Alexandros Arcos Molano",
+          "popularity": 0.0166,
+          "profile_path": null,
+          "credit_id": "6723d1331df70f7920ff09c2",
+          "department": "Directing",
+          "job": "Co-Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4642868,
+          "known_for_department": "Directing",
+          "name": "Alexandros Arcos Molano",
+          "original_name": "Alexandros Arcos Molano",
+          "popularity": 0.0166,
+          "profile_path": null,
+          "credit_id": "6723d17feeb0c5ef3b9be6a7",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4642847,
+          "known_for_department": "Acting",
+          "name": "Alax VB",
+          "original_name": "Alax VB",
+          "popularity": 0.0628,
+          "profile_path": "/6jZXdh72I8rV9XfW0p6ZY6FYRJQ.jpg",
+          "credit_id": "6723d18947fe097c193fd325",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4642868,
+          "known_for_department": "Directing",
+          "name": "Alexandros Arcos Molano",
+          "original_name": "Alexandros Arcos Molano",
+          "popularity": 0.0166,
+          "profile_path": null,
+          "credit_id": "6723d1bc47fe097c193fd328",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3469669,
+          "known_for_department": "Directing",
+          "name": "José Eduardo Alvarado",
+          "original_name": "José Eduardo Alvarado",
+          "popularity": 0.0635,
+          "profile_path": "/ulFKYu6RyHJe6J1xcPdI5Y7lRM4.jpg",
+          "credit_id": "6723d1d61df70f7920ff0a4f",
+          "department": "Writing",
+          "job": "Writers' Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4642847,
+          "known_for_department": "Acting",
+          "name": "Alax VB",
+          "original_name": "Alax VB",
+          "popularity": 0.0628,
+          "profile_path": "/6jZXdh72I8rV9XfW0p6ZY6FYRJQ.jpg",
+          "credit_id": "6723d1de1df70f7920ff0a59",
+          "department": "Writing",
+          "job": "Writers' Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3469669,
+          "known_for_department": "Directing",
+          "name": "José Eduardo Alvarado",
+          "original_name": "José Eduardo Alvarado",
+          "popularity": 0.0635,
+          "profile_path": "/ulFKYu6RyHJe6J1xcPdI5Y7lRM4.jpg",
+          "credit_id": "6723d1f3fe2a8a011ed75803",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4642847,
+          "known_for_department": "Acting",
+          "name": "Alax VB",
+          "original_name": "Alax VB",
+          "popularity": 0.0628,
+          "profile_path": "/6jZXdh72I8rV9XfW0p6ZY6FYRJQ.jpg",
+          "credit_id": "6723d200991edb035c5f9ba7",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3469664,
+          "known_for_department": "Visual Effects",
+          "name": "Andrea Baumgarten",
+          "original_name": "Andrea Baumgarten",
+          "popularity": 0.0808,
+          "profile_path": null,
+          "credit_id": "672491b88d19261406615a9d",
+          "department": "Art",
+          "job": "Title Illustration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4642851,
+          "known_for_department": "Directing",
+          "name": "Roberto Santos",
+          "original_name": "Roberto Santos",
+          "popularity": 0.0138,
+          "profile_path": null,
+          "credit_id": "67249203c4aa98945ef34791",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4642845,
+          "known_for_department": "Acting",
+          "name": "Jorge Mince",
+          "original_name": "Jorge Mince",
+          "popularity": 0.0685,
+          "profile_path": null,
+          "credit_id": "67249237c4aa98945ef347aa",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4642854,
+          "known_for_department": "Production",
+          "name": "Edwin Jiménez Cruz",
+          "original_name": "Edwin Jiménez Cruz",
+          "popularity": 0.0275,
+          "profile_path": null,
+          "credit_id": "6724925ee7b37c73c69d1ef4",
+          "department": "Editing",
+          "job": "Colorist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4642868,
+          "known_for_department": "Directing",
+          "name": "Alexandros Arcos Molano",
+          "original_name": "Alexandros Arcos Molano",
+          "popularity": 0.0166,
+          "profile_path": null,
+          "credit_id": "67249290a9df53ccf9c68c98",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4642854,
+          "known_for_department": "Production",
+          "name": "Edwin Jiménez Cruz",
+          "original_name": "Edwin Jiménez Cruz",
+          "popularity": 0.0275,
+          "profile_path": null,
+          "credit_id": "672492cef08ab5d3f2038728",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4642845,
+          "known_for_department": "Acting",
+          "name": "Jorge Mince",
+          "original_name": "Jorge Mince",
+          "popularity": 0.0685,
+          "profile_path": null,
+          "credit_id": "672492efa9df53ccf9c68cbc",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3469669,
+          "known_for_department": "Directing",
+          "name": "José Eduardo Alvarado",
+          "original_name": "José Eduardo Alvarado",
+          "popularity": 0.0635,
+          "profile_path": "/ulFKYu6RyHJe6J1xcPdI5Y7lRM4.jpg",
+          "credit_id": "67249305a9df53ccf9c68cc0",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4642851,
+          "known_for_department": "Directing",
+          "name": "Roberto Santos",
+          "original_name": "Roberto Santos",
+          "popularity": 0.0138,
+          "profile_path": null,
+          "credit_id": "67249316e7b37c73c69d1f28",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4642854,
+          "known_for_department": "Production",
+          "name": "Edwin Jiménez Cruz",
+          "original_name": "Edwin Jiménez Cruz",
+          "popularity": 0.0275,
+          "profile_path": null,
+          "credit_id": "67249326c4aa98945ef347b6",
+          "department": "Crew",
+          "job": "Sound Design Assistant"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3469669,
+          "known_for_department": "Directing",
+          "name": "José Eduardo Alvarado",
+          "original_name": "José Eduardo Alvarado",
+          "popularity": 0.0635,
+          "profile_path": "/ulFKYu6RyHJe6J1xcPdI5Y7lRM4.jpg",
+          "credit_id": "6724933ac1c7433ebbc425ca",
+          "department": "Visual Effects",
+          "job": "VFX Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5034540,
+          "known_for_department": "Art",
+          "name": "Minna Lopez",
+          "original_name": "Minna Lopez",
+          "popularity": 0.0338,
+          "profile_path": null,
+          "credit_id": "6724935ec1c7433ebbc425da",
+          "department": "Art",
+          "job": "Art Designer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "B-15",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2023-11-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

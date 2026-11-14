@@ -1,0 +1,79 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/681888?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:15.917Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/7UtrAmVdlXMfudZ7oZLexGJGEZP.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 681888,
+    "imdb_id": null,
+    "origin_country": [
+      "HK"
+    ],
+    "original_language": "cn",
+    "original_title": "楊千嬅 Let's Begin 2015 世界巡迴演唱會香港紅館站 Miriam Yeung Let's Begin Concert World Tour 2015",
+    "overview": "",
+    "popularity": 0.518,
+    "poster_path": "/mJ4TF0CzZVosIW8R7moaqLnZFmS.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2015-09-18",
+    "revenue": 0,
+    "runtime": 193,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "楊千嬅 Let's Begin 2015 世界巡迴演唱會香港紅館站 Miriam Yeung Let's Begin Concert World Tour 2015",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 56863,
+          "known_for_department": "Acting",
+          "name": "楊千嬅",
+          "original_name": "楊千嬅",
+          "popularity": 1.7134,
+          "profile_path": "/3NgovoC2nnHOFq7vr6j7m6URS7V.jpg",
+          "cast_id": 1,
+          "character": "主演",
+          "credit_id": "634237ff21621b00795463c2",
+          "order": 0
+        }
+      ],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "HK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "cn",
+              "note": "",
+              "release_date": "2015-09-18T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/663250?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:43.657Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 663250,
+    "imdb_id": "tt10873988",
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "Detrás de la lluvia",
+    "overview": "",
+    "popularity": 0.3759,
+    "poster_path": "/yqQw8IZsTNyNGlMUt63hcCzvoTL.jpg",
+    "production_companies": [
+      {
+        "id": 96241,
+        "logo_path": "/88iWHYlPj0BAjgiuOa5ztx1NwEw.png",
+        "name": "Poetastros",
+        "origin_country": "CL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "2026-07-09",
+    "revenue": 0,
+    "runtime": 97,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Detrás de la lluvia",
+    "video": false,
+    "vote_average": 3,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2658130,
+          "known_for_department": "Acting",
+          "name": "Paula Prado",
+          "original_name": "Paula Prado",
+          "popularity": 0.0946,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Sofía Belmar",
+          "credit_id": "6ace1e71e18d29f4db8e9002",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1043840,
+          "known_for_department": "Acting",
+          "name": "Cristián Arriagada",
+          "original_name": "Cristián Arriagada",
+          "popularity": 0.198,
+          "profile_path": "/ekrnLc23pTdaaEivyzcIznFEluY.jpg",
+          "cast_id": 18,
+          "character": "Julio Valente",
+          "credit_id": "6ace1e8d10b129f774135e68",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1041585,
+          "known_for_department": "Acting",
+          "name": "Shlomit Baytelman",
+          "original_name": "Shlomit Baytelman",
+          "popularity": 0.3242,
+          "profile_path": "/nEMHGLAWP5aFnosMTs74GtcA9dt.jpg",
+          "cast_id": 22,
+          "character": "Dora Baumann",
+          "credit_id": "6ace1f6b87a97d9f921f60a3",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 71208,
+          "known_for_department": "Acting",
+          "name": "Aline Küppenheim",
+          "original_name": "Aline Küppenheim",
+          "popularity": 0.3476,
+          "profile_path": "/q28ocDTSuq5USf3MxYXw98mV3VU.jpg",
+          "cast_id": 4,
+          "character": "Adriana",
+          "credit_id": "5e1b6f43a6c104001683dd7c",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 932914,
+          "known_for_department": "Acting",
+          "name": "Daniel Muñoz",
+          "original_name": "Daniel Muñoz",
+          "popularity": 0.3082,
+          "profile_path": "/oXKwU8MTDpt5orLSW5asMLeGB9e.jpg",
+          "cast_id": 19,
+          "character": "Inspector Federico Fontana",
+          "credit_id": "6ace1ed3bfe2c939826f401c",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1000325,
+          "known_for_department": "Acting",
+          "name": "Chamila Rodríguez",
+          "original_name": "Chamila Rodríguez",
+          "popularity": 0.2383,
+          "profile_path": "/1UjvtyxDycCEcHZcK5szOJcY58B.jpg",
+          "cast_id": 8,
+          "character": "Fiscal Laura Linares",
+          "credit_id": "5e1b6f5ea6c104001383e85b",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1352500,
+          "known_for_department": "Acting",
+          "name": "Julio Milostich",
+          "original_name": "Julio Milostich",
+          "popularity": 0.4276,
+          "profile_path": "/irIXZrSrw17LwTf3v0hKa5icAt8.jpg",
+          "cast_id": 20,
+          "character": "Arturo Santelices",
+          "credit_id": "6ace1f06fbdf829d5caac0a6",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2508233,
+          "known_for_department": "Acting",
+          "name": "Aimar Alarcón",
+          "original_name": "Aimar Alarcón",
+          "popularity": 0.0752,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Joven Barco",
+          "credit_id": "5e1b6f6ea6c104001383e864",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6545776,
+          "known_for_department": "Acting",
+          "name": "Clara Vargas Arellano",
+          "original_name": "Clara Vargas Arellano",
+          "popularity": 0.0191,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Sofía (niña)",
+          "credit_id": "6ace1f2e550c5615cb135bdb",
+          "order": 8
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1000325,
+          "known_for_department": "Acting",
+          "name": "Chamila Rodríguez",
+          "original_name": "Chamila Rodríguez",
+          "popularity": 0.2383,
+          "profile_path": "/1UjvtyxDycCEcHZcK5szOJcY58B.jpg",
+          "credit_id": "5e1b6f89a6c104001683dd86",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 134464,
+          "known_for_department": "Editing",
+          "name": "Valeria Sarmiento",
+          "original_name": "Valeria Sarmiento",
+          "popularity": 0.2844,
+          "profile_path": "/heyXSDnTvdX3wVLbfwE2Qtclf2S.jpg",
+          "credit_id": "5e1b6f7da6c104001383e867",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2108865,
+          "known_for_department": "Writing",
+          "name": "Omar Saavedra Santis",
+          "original_name": "Omar Saavedra Santis",
+          "popularity": 0.1686,
+          "profile_path": null,
+          "credit_id": "5e1b6f9aa6c104001383e86c",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1907196,
+          "known_for_department": "Editing",
+          "name": "Galut Alarcón",
+          "original_name": "Galut Alarcón",
+          "popularity": 0.1131,
+          "profile_path": null,
+          "credit_id": "5e1b6fcaa6c104001683dd8f",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 134463,
+          "known_for_department": "Sound",
+          "name": "Jorge Arriagada",
+          "original_name": "Jorge Arriagada",
+          "popularity": 0.2485,
+          "profile_path": null,
+          "credit_id": "5e1b6fb5a6c104001683dd89",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1112003,
+          "known_for_department": "Camera",
+          "name": "Acácio de Almeida",
+          "original_name": "Acácio de Almeida",
+          "popularity": 0.2768,
+          "profile_path": "/yB1mU5Sj7CYKOtXTstMQ8MwWMx8.jpg",
+          "credit_id": "6ace1f8f3a84411f21136163",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Karlovy Vary International Film Festival ",
+              "release_date": "2026-07-09T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

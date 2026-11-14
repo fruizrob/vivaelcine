@@ -1,0 +1,84 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1304835?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:47.084Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1304835,
+    "imdb_id": null,
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "Caudal",
+    "overview": "Varios planos que nacieron destinados a ser meros apéndices de otros más importantes, son reorganizados para dar forma a otra narrativa, formando un caudal de imágenes y sonidos sin argumento, ni personajes, ni motivo, pero que avanza irresponsablemente hacia ninguna parte.",
+    "popularity": 0.1891,
+    "poster_path": "/jQihlPczec2CKjTliP22rm5l9Ef.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2024-05-08",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "11",
+    "title": "Caudal",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1406432,
+          "known_for_department": "Directing",
+          "name": "Ignacio Masllorens",
+          "original_name": "Ignacio Masllorens",
+          "popularity": 0.2076,
+          "profile_path": "/p6ME16mqPTyC77E1Bdi2iawWOGc.jpg",
+          "credit_id": "66a742eaafa051a69babaf59",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Syncro Film Fest",
+              "release_date": "2024-05-08T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

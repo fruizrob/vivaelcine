@@ -1,0 +1,139 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/445893?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:21.845Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 445893,
+    "imdb_id": "tt6425768",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Kubler Ross",
+    "overview": "",
+    "popularity": 0.2116,
+    "poster_path": "/xlXcbB1TOXYtjkqgxSNEPpKkMHt.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2015-04-18",
+    "revenue": 0,
+    "runtime": 8,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Kubler Ross",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1772656,
+          "known_for_department": "Acting",
+          "name": "Oscar Jarque",
+          "original_name": "Oscar Jarque",
+          "popularity": 0.1808,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Husband",
+          "credit_id": "58c0d83e9251417310002d67",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1772657,
+          "known_for_department": "Acting",
+          "name": "Ángela Monge",
+          "original_name": "Ángela Monge",
+          "popularity": 0.1701,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Wife",
+          "credit_id": "58c0d853c3a368263000271c",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1602737,
+          "known_for_department": "Directing",
+          "name": "Xavier Pijuan Sala",
+          "original_name": "Xavier Pijuan Sala",
+          "popularity": 0.1201,
+          "profile_path": null,
+          "credit_id": "58c0d7d5c3a368263d002a2d",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1602737,
+          "known_for_department": "Directing",
+          "name": "Xavier Pijuan Sala",
+          "original_name": "Xavier Pijuan Sala",
+          "popularity": 0.1201,
+          "profile_path": null,
+          "credit_id": "58c0d7c9c3a368261700265b",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2015-04-18T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

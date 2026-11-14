@@ -1,0 +1,930 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/36999?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:42.637Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/jlUgPbxvLlYZvzerC5zq0VTRL1u.jpg",
+    "belongs_to_collection": null,
+    "budget": 2500000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "http://31minutosoficial.cl/codex/31-minutos-la-pelicula/",
+    "id": 36999,
+    "imdb_id": "tt1319695",
+    "origin_country": [
+      "BR",
+      "CL",
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "31 Minutos, la película",
+    "overview": "El equipo del mundialmente famoso programa de noticias de televisión 31 Minutos se adentra en el mar hacia una isla misteriosa para rescatar a su amado productor Juanin Juan Harry, quien ha sido adquirido por la coleccionista, Cachirula.",
+    "popularity": 0.8865,
+    "poster_path": "/9kB4DmISmLMsXcNw4I84eNXyO8B.jpg",
+    "production_companies": [
+      {
+        "id": 86970,
+        "logo_path": null,
+        "name": "User T-38",
+        "origin_country": ""
+      },
+      {
+        "id": 86971,
+        "logo_path": "/wIUypihbVWqsJQtQCMBjZGrO1UW.png",
+        "name": "Aplaplac",
+        "origin_country": "CL"
+      },
+      {
+        "id": 6446,
+        "logo_path": "/bzINKKiM2w4mUU2TAEU7FqnP7xa.png",
+        "name": "Total Entertainment",
+        "origin_country": "BR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      },
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      },
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2008-03-27",
+    "revenue": 1253971,
+    "runtime": 83,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Era un tranquilo noticiero de títeres… ERA.",
+    "title": "31 Minutos, la película",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 40,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 98252,
+          "known_for_department": "Writing",
+          "name": "Pedro Peirano",
+          "original_name": "Pedro Peirano",
+          "popularity": 0.508,
+          "profile_path": "/PQZ1G55HjP795CQwxxwxruZnph.jpg",
+          "cast_id": 1,
+          "character": "Tulio Triviño / Raúl Guantecillo / Bongo Stingo (voice)",
+          "credit_id": "52fe46209251416c91049fad",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 228971,
+          "known_for_department": "Writing",
+          "name": "Álvaro Díaz González",
+          "original_name": "Álvaro Díaz González",
+          "popularity": 0.324,
+          "profile_path": "/tSDryArcE07Q34SaFTNRqdMJBXS.jpg",
+          "cast_id": 11,
+          "character": "Juan Carlos Bodoque / Tío Horacio / Balón von Bola / Rosario Central / Pato Tengo Miedo / Joe Pino (voice)",
+          "credit_id": "5dc0f8147d2bc10017397d79",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 228972,
+          "known_for_department": "Acting",
+          "name": "Rodrigo Salinas",
+          "original_name": "Rodrigo Salinas",
+          "popularity": 0.2798,
+          "profile_path": "/4VBs6BwQFpkH7RaeVG1ot2weAkq.jpg",
+          "cast_id": 7,
+          "character": "Juanín Juan Harry / Mario Hugo / Chancho Irarrázabal / Bufalo Rubio / Tennison Salinas  (voice)",
+          "credit_id": "5a8311c4c3a3684cd501324c",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1976342,
+          "known_for_department": "Acting",
+          "name": "Jani Dueñas",
+          "original_name": "Jani Dueñas",
+          "popularity": 0.4385,
+          "profile_path": "/wm4ib69I6cA30Y0rKtXdy9wQoQM.jpg",
+          "cast_id": 8,
+          "character": "Patana Tufillo / Estrella / TV Announcer (voice)",
+          "credit_id": "5aa073c6925141581101b3b5",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1491204,
+          "known_for_department": "Writing",
+          "name": "Daniel Castro",
+          "original_name": "Daniel Castro",
+          "popularity": 0.236,
+          "profile_path": "/xZ9s9L7EnI8mLCyhRZI5xdpwa9L.jpg",
+          "cast_id": 10,
+          "character": "Policarpo Avendaño / Mico el Micrófono / Huachimingo / Tío Pelado / Tramoyas (voice)",
+          "credit_id": "5c41307c0e0a2633488ec736",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1992737,
+          "known_for_department": "Acting",
+          "name": "Patricio Díaz",
+          "original_name": "Patricio Díaz",
+          "popularity": 0.1114,
+          "profile_path": "/j3oK6kNhVEkh1KFd2Zy5V1DPU5e.jpg",
+          "cast_id": 16,
+          "character": "Guaripolo / Vicho / Canillita / Tramoyas (voice)",
+          "credit_id": "5f1216532afb250033387dae",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1992736,
+          "known_for_department": "Directing",
+          "name": "Francisco Schultz",
+          "original_name": "Francisco Schultz",
+          "popularity": 0.2016,
+          "profile_path": "/hVF3D2QyysivVi5yBaWyXigQjjR.jpg",
+          "cast_id": 17,
+          "character": "Dante Torobolino (voice)",
+          "credit_id": "5f12173d1c6aa700357a930c",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 98236,
+          "known_for_department": "Acting",
+          "name": "Catalina Saavedra",
+          "original_name": "Catalina Saavedra",
+          "popularity": 0.4486,
+          "profile_path": "/z4VVmyuL3BfIjRMFUUPS987hJET.jpg",
+          "cast_id": 18,
+          "character": "Cachirula (voice)",
+          "credit_id": "5f1217531d78f200331e8a52",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1289459,
+          "known_for_department": "Sound",
+          "name": "Pedro Subercaseaux",
+          "original_name": "Pedro Subercaseaux",
+          "popularity": 0.0902,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Despachador (voice)",
+          "credit_id": "5f12179722e4800036685cf1",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 98251,
+          "known_for_department": "Directing",
+          "name": "Sebastián Silva",
+          "original_name": "Sebastián Silva",
+          "popularity": 0.6246,
+          "profile_path": "/uvRKkoWqzTIxxSSEfK4f5com6TB.jpg",
+          "cast_id": 20,
+          "character": "Cámara de Seguridad / Charangito (voice)",
+          "credit_id": "5f1217b62afb25003538db2a",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2715443,
+          "known_for_department": "Acting",
+          "name": "Tamara Goldschmied",
+          "original_name": "Tamara Goldschmied",
+          "popularity": 0.015,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Pez comido por Pelicano (voice)",
+          "credit_id": "5f12180b1c6aa700347ab851",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5749298,
+          "known_for_department": "Acting",
+          "name": "Constanza Contreras",
+          "original_name": "Constanza Contreras",
+          "popularity": 0.0752,
+          "profile_path": null,
+          "cast_id": 28,
+          "character": "Tulio niño (voice)",
+          "credit_id": "68ee86c5cbb94673ec532820",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5749302,
+          "known_for_department": "Acting",
+          "name": "Maximiliano Martínez",
+          "original_name": "Maximiliano Martínez",
+          "popularity": 0.0828,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "Bodoque niño (voice)",
+          "credit_id": "68ee872eadd1906fe5eff9c5",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5749319,
+          "known_for_department": "Acting",
+          "name": "Catalina Feliú",
+          "original_name": "Catalina Feliú",
+          "popularity": 0.0272,
+          "profile_path": null,
+          "cast_id": 30,
+          "character": "Juanín niño (voice)",
+          "credit_id": "68ee8974cbb94673ec53284c",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3392062,
+          "known_for_department": "Acting",
+          "name": "Eduardo 'Lalo' Ibeas",
+          "original_name": "Eduardo 'Lalo' Ibeas",
+          "popularity": 0.0584,
+          "profile_path": null,
+          "cast_id": 31,
+          "character": "Jefe Hombres Musculosos / Hombre del aseo (voice)",
+          "credit_id": "68ee8a29dfea770e48aedbaf",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2171540,
+          "known_for_department": "Sound",
+          "name": "Nadine Voullième",
+          "original_name": "Nadine Voullième",
+          "popularity": 0.1624,
+          "profile_path": "/peiXpXpsFajFqk6zHs8BKavKTO8.jpg",
+          "cast_id": 32,
+          "character": "Gallo / Amiga de Guaripolo (voice)",
+          "credit_id": "68ee8abed3ebdaf5baf9677c",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1992735,
+          "known_for_department": "Sound",
+          "name": "Pablo Ilabaca",
+          "original_name": "Pablo Ilabaca",
+          "popularity": 0.2004,
+          "profile_path": "/s8YiRYWOMcL9gTvsMiwHARR1sFT.jpg",
+          "cast_id": 33,
+          "character": "Vendedor de Bolsillos (voice)",
+          "credit_id": "68ee8bce082a9d9ea240c980",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5466621,
+          "known_for_department": "Crew",
+          "name": "Francisca Lacalle",
+          "original_name": "Francisca Lacalle",
+          "popularity": 0.0591,
+          "profile_path": null,
+          "cast_id": 34,
+          "character": "Maquilladora (voice)",
+          "credit_id": "68ee8e689b22516a334ada7a",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3664026,
+          "known_for_department": "Acting",
+          "name": "Fernando Solís",
+          "original_name": "Fernando Solís",
+          "popularity": 0.1932,
+          "profile_path": "/9hV1d0qO7Y9hIcNK3tVDTcRBNYF.jpg",
+          "cast_id": 35,
+          "character": "Lord Warmington Banquete (voice)",
+          "credit_id": "68ee8eff2db95cdff72be5f8",
+          "order": 18
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 98252,
+          "known_for_department": "Writing",
+          "name": "Pedro Peirano",
+          "original_name": "Pedro Peirano",
+          "popularity": 0.508,
+          "profile_path": "/PQZ1G55HjP795CQwxxwxruZnph.jpg",
+          "credit_id": "52fe46209251416c91049fbb",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 72812,
+          "known_for_department": "Camera",
+          "name": "M.I. Littin-Menz",
+          "original_name": "M.I. Littin-Menz",
+          "popularity": 0.268,
+          "profile_path": null,
+          "credit_id": "58ae95c3c3a368357a003f82",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1491204,
+          "known_for_department": "Writing",
+          "name": "Daniel Castro",
+          "original_name": "Daniel Castro",
+          "popularity": 0.236,
+          "profile_path": "/xZ9s9L7EnI8mLCyhRZI5xdpwa9L.jpg",
+          "credit_id": "5c412f489251417a60aff6e6",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 228971,
+          "known_for_department": "Writing",
+          "name": "Álvaro Díaz González",
+          "original_name": "Álvaro Díaz González",
+          "popularity": 0.324,
+          "profile_path": "/tSDryArcE07Q34SaFTNRqdMJBXS.jpg",
+          "credit_id": "5dc0f831470ead001389dafc",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 98252,
+          "known_for_department": "Writing",
+          "name": "Pedro Peirano",
+          "original_name": "Pedro Peirano",
+          "popularity": 0.508,
+          "profile_path": "/PQZ1G55HjP795CQwxxwxruZnph.jpg",
+          "credit_id": "5e811b7a2a210c00152a8adf",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 228971,
+          "known_for_department": "Writing",
+          "name": "Álvaro Díaz González",
+          "original_name": "Álvaro Díaz González",
+          "popularity": 0.324,
+          "profile_path": "/tSDryArcE07Q34SaFTNRqdMJBXS.jpg",
+          "credit_id": "5e811b9f6d97e60018c7077a",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 228972,
+          "known_for_department": "Acting",
+          "name": "Rodrigo Salinas",
+          "original_name": "Rodrigo Salinas",
+          "popularity": 0.2798,
+          "profile_path": "/4VBs6BwQFpkH7RaeVG1ot2weAkq.jpg",
+          "credit_id": "5e811bb8498ef90015c95c16",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1992734,
+          "known_for_department": "Editing",
+          "name": "Rodrigo Toro",
+          "original_name": "Rodrigo Toro",
+          "popularity": 0.1394,
+          "profile_path": null,
+          "credit_id": "5f12188743d9b1003a590815",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1992736,
+          "known_for_department": "Directing",
+          "name": "Francisco Schultz",
+          "original_name": "Francisco Schultz",
+          "popularity": 0.2016,
+          "profile_path": "/hVF3D2QyysivVi5yBaWyXigQjjR.jpg",
+          "credit_id": "5f12189b43d9b10038587392",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1552719,
+          "known_for_department": "Sound",
+          "name": "Angelo Pierattini",
+          "original_name": "Angelo Pierattini",
+          "popularity": 0.1886,
+          "profile_path": null,
+          "credit_id": "5f1218be43d9b1003a590830",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1992735,
+          "known_for_department": "Sound",
+          "name": "Pablo Ilabaca",
+          "original_name": "Pablo Ilabaca",
+          "popularity": 0.2004,
+          "profile_path": "/s8YiRYWOMcL9gTvsMiwHARR1sFT.jpg",
+          "credit_id": "5f1218d11d78f200331e8e4d",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1907196,
+          "known_for_department": "Editing",
+          "name": "Galut Alarcón",
+          "original_name": "Galut Alarcón",
+          "popularity": 0.0632,
+          "profile_path": null,
+          "credit_id": "5f1218ea43d9b1003a59086b",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 10040,
+          "known_for_department": "Editing",
+          "name": "Felipe Lacerda",
+          "original_name": "Felipe Lacerda",
+          "popularity": 0.2198,
+          "profile_path": null,
+          "credit_id": "5f1218f91c6aa700347ab9b2",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2727893,
+          "known_for_department": "Production",
+          "name": "Juan Manuel Egaña",
+          "original_name": "Juan Manuel Egaña",
+          "popularity": 0.1714,
+          "profile_path": null,
+          "credit_id": "69960ec55cc81f17f6851ac4",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 583443,
+          "known_for_department": "Production",
+          "name": "Marcos Didonet",
+          "original_name": "Marcos Didonet",
+          "popularity": 0.1644,
+          "profile_path": null,
+          "credit_id": "69960f01c2305059896f7fa3",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2727893,
+          "known_for_department": "Production",
+          "name": "Juan Manuel Egaña",
+          "original_name": "Juan Manuel Egaña",
+          "popularity": 0.1714,
+          "profile_path": null,
+          "credit_id": "69960f0f889bd86477851873",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 589141,
+          "known_for_department": "Production",
+          "name": "Iafa Britz",
+          "original_name": "Iafa Britz",
+          "popularity": 0.1671,
+          "profile_path": null,
+          "credit_id": "69960f22863a981b3c3defbb",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2428555,
+          "known_for_department": "Visual Effects",
+          "name": "Juan Tomičić",
+          "original_name": "Juan Tomičić",
+          "popularity": 0.086,
+          "profile_path": null,
+          "credit_id": "69960f370a2a6f1e813defc4",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5747547,
+          "known_for_department": "Art",
+          "name": "Matías Iglesis",
+          "original_name": "Matías Iglesis",
+          "popularity": 0.09,
+          "profile_path": "/3MPfYpJXug57I0E74bauysAzN3B.jpg",
+          "credit_id": "69960f63a3c9b9881a3c8cd7",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3298636,
+          "known_for_department": "Visual Effects",
+          "name": "Iñaki «Ketxu» Gil",
+          "original_name": "Iñaki «Ketxu» Gil",
+          "popularity": 0.0684,
+          "profile_path": "/7H9CUNBgiLaezkV3OXTMQw5dEpZ.jpg",
+          "credit_id": "69960f9d451955ec64288d1a",
+          "department": "Visual Effects",
+          "job": "Visual Effects"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2171540,
+          "known_for_department": "Sound",
+          "name": "Nadine Voullième",
+          "original_name": "Nadine Voullième",
+          "popularity": 0.1624,
+          "profile_path": "/peiXpXpsFajFqk6zHs8BKavKTO8.jpg",
+          "credit_id": "69960fe0ea628675b53c8ca2",
+          "department": "Sound",
+          "job": "Dialogue Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3196050,
+          "known_for_department": "Production",
+          "name": "Karla Estrada",
+          "original_name": "Karla Estrada",
+          "popularity": 0.1025,
+          "profile_path": null,
+          "credit_id": "69960ff9e26c8b05773defe5",
+          "department": "Production",
+          "job": "Production Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1694488,
+          "known_for_department": "Directing",
+          "name": "Manuela Delpiano",
+          "original_name": "Manuela Delpiano",
+          "popularity": 0.0729,
+          "profile_path": null,
+          "credit_id": "69961021bbd9363eec4a91cf",
+          "department": "Directing",
+          "job": "Continuity"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2874163,
+          "known_for_department": "Directing",
+          "name": "Karina Elgueda",
+          "original_name": "Karina Elgueda",
+          "popularity": 0.1435,
+          "profile_path": null,
+          "credit_id": "6996103012f7deb80b4a91ba",
+          "department": "Directing",
+          "job": "Continuity"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5747548,
+          "known_for_department": "Art",
+          "name": "Nicolás Grüm",
+          "original_name": "Nicolás Grüm",
+          "popularity": 0.1311,
+          "profile_path": null,
+          "credit_id": "6996106176c80157f21b0692",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5747547,
+          "known_for_department": "Art",
+          "name": "Matías Iglesis",
+          "original_name": "Matías Iglesis",
+          "popularity": 0.09,
+          "profile_path": "/3MPfYpJXug57I0E74bauysAzN3B.jpg",
+          "credit_id": "6996107801a5cd7d4d1b030c",
+          "department": "Visual Effects",
+          "job": "Character Designer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1552645,
+          "known_for_department": "Art",
+          "name": "Estefania Larrain",
+          "original_name": "Estefania Larrain",
+          "popularity": 0.1862,
+          "profile_path": "/b4dDGMKPWio1LSPfQadaaFOuUEM.jpg",
+          "credit_id": "699610987c7e77feb73c8ca6",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2633659,
+          "known_for_department": "Art",
+          "name": "Mercedes Marambio",
+          "original_name": "Mercedes Marambio",
+          "popularity": 0.0537,
+          "profile_path": null,
+          "credit_id": "699610dd61504e9e8e3c8cd4",
+          "department": "Art",
+          "job": "Set Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5848656,
+          "known_for_department": "Art",
+          "name": "Jocelyn Olguín",
+          "original_name": "Jocelyn Olguín",
+          "popularity": 0.0533,
+          "profile_path": null,
+          "credit_id": "6996115838dc42c0c13c8cdb",
+          "department": "Crew",
+          "job": "Prop Maker"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4320681,
+          "known_for_department": "Art",
+          "name": "Max Grum",
+          "original_name": "Max Grum",
+          "popularity": 0.033,
+          "profile_path": null,
+          "credit_id": "699611836d6ccf38341b08d5",
+          "department": "Art",
+          "job": "Graphic Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2003582,
+          "known_for_department": "Acting",
+          "name": "Gonzalo Bustos",
+          "original_name": "Gonzalo Bustos",
+          "popularity": 0.1123,
+          "profile_path": null,
+          "credit_id": "699611af6fe03d49bc3c8d4c",
+          "department": "Camera",
+          "job": "Grip"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1995683,
+          "known_for_department": "Sound",
+          "name": "Camilo Salinas",
+          "original_name": "Camilo Salinas",
+          "popularity": 0.1153,
+          "profile_path": null,
+          "credit_id": "6a2b5617cab54f005adbd535",
+          "department": "Sound",
+          "job": "Music Arranger"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3577936,
+          "known_for_department": "Acting",
+          "name": "Felipe Ilabaca",
+          "original_name": "Felipe Ilabaca",
+          "popularity": 0.1287,
+          "profile_path": "/anAfrEoJcporkQ7lUWhbMYzIvRx.jpg",
+          "credit_id": "6a2b563e2a73ccaa2cecf5d3",
+          "department": "Sound",
+          "job": "Musician"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "BAFICI (Buenos Aires Festival Internacional de Cine Independiente)",
+              "release_date": "2018-04-11T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "L",
+              "descriptors": [],
+              "iso_639_1": "[object Object]",
+              "note": "",
+              "release_date": "2012-08-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Museo La Moneda, Santiago de Chile",
+              "release_date": "2024-02-06T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Centro Cultural La Moneda, 35mm restoration",
+              "release_date": "2025-03-29T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2008-03-27T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Prime Video",
+              "release_date": "2025-12-26T00:00:00.000Z",
+              "type": 4
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "YouTube",
+              "release_date": "2015-07-03T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "A",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Museo Franz Mayer, Mexico City",
+              "release_date": "2024-12-10T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "A",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2009-09-18T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Canal Once",
+              "release_date": "2011-05-01T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "American Cinematheque, Los Angeles",
+              "release_date": "2025-05-03T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "BR",
+          "title": "31 Minutos: O Filme",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "MX",
+          "title": "31 Minutos, la película",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CN",
+          "title": "31 分钟：电影",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "31 Minutes, the movie",
+          "type": "English"
+        }
+      ]
+    }
+  }
+}

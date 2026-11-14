@@ -1,0 +1,109 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/683869?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:06.255Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 683869,
+    "imdb_id": null,
+    "origin_country": [
+      "QU"
+    ],
+    "original_language": "qu",
+    "original_title": "Tinku",
+    "overview": "",
+    "popularity": 0.1752,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 130760,
+        "logo_path": null,
+        "name": "Burzako Cine Documental",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2015-09-29",
+    "revenue": 0,
+    "runtime": 18,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Tinku",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2570249,
+          "known_for_department": "Production",
+          "name": "Juan Manuel Cots",
+          "original_name": "Juan Manuel Cots",
+          "popularity": 0.0181,
+          "profile_path": null,
+          "credit_id": "5e725f33cabfe400181a3455",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": true,
+          "gender": 2,
+          "id": 2375963,
+          "known_for_department": "Camera",
+          "name": "Bruno Carbonetto",
+          "original_name": "Bruno Carbonetto",
+          "popularity": 0,
+          "profile_path": null,
+          "credit_id": "5e725f1a2f3b1700174a5609",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BO",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "qu",
+              "note": "",
+              "release_date": "2015-09-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

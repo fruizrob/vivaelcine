@@ -1,0 +1,177 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1555122?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:32.938Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/rk6BI1Wj1ON9aJTInei6NUf7DRK.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 1555122,
+    "imdb_id": "tt6838904",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Ven a mi",
+    "overview": "",
+    "popularity": 0.4071,
+    "poster_path": "/sruktlASwgkVbJbWhCHMlYZmbDC.jpg",
+    "production_companies": [
+      {
+        "id": 251197,
+        "logo_path": null,
+        "name": "Domistudio",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2016-10-10",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ven a mi",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5721716,
+          "known_for_department": "Acting",
+          "name": "Sara Álvarez Bravo",
+          "original_name": "Sara Álvarez Bravo",
+          "popularity": 0.081,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Sara",
+          "credit_id": "68dc79796cb09aefa038ccb2",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5364577,
+          "known_for_department": "Acting",
+          "name": "Dekko Mohar",
+          "original_name": "Dekko Mohar",
+          "popularity": 0.0737,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "68dc798e1173d3085838cdd2",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2006659,
+          "known_for_department": "Production",
+          "name": "Marcos Muñoz Flores",
+          "original_name": "Marcos Muñoz Flores",
+          "popularity": 0.0366,
+          "profile_path": null,
+          "credit_id": "68dc79ad25206e358638ce5e",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2006659,
+          "known_for_department": "Production",
+          "name": "Marcos Muñoz Flores",
+          "original_name": "Marcos Muñoz Flores",
+          "popularity": 0.0366,
+          "profile_path": null,
+          "credit_id": "68dc79b6ce2239051f38cf31",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5721721,
+          "known_for_department": "Camera",
+          "name": "Tania del Rosario España",
+          "original_name": "Tania del Rosario España",
+          "popularity": 0.085,
+          "profile_path": null,
+          "credit_id": "68dc79c877ce5e008db4255c",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5721724,
+          "known_for_department": "Sound",
+          "name": "Donovan Rodríguez Flores",
+          "original_name": "Donovan Rodríguez Flores",
+          "popularity": 0.1051,
+          "profile_path": null,
+          "credit_id": "68dc79d9ad317f2b61bb182e",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2006659,
+          "known_for_department": "Production",
+          "name": "Marcos Muñoz Flores",
+          "original_name": "Marcos Muñoz Flores",
+          "popularity": 0.0366,
+          "profile_path": null,
+          "credit_id": "68dc7a0def910ececd2df7b0",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2016-10-10T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

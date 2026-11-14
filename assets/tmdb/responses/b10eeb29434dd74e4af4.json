@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Pinchu+es+as%C3%AD&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:09.910Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/t6mF8edXFxzSkTon4iGoNY7c9iE.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 1676480,
+        "title": "Pinchu es así",
+        "original_language": "es",
+        "original_title": "Pinchu es así",
+        "overview": "Pinchu es un guarrete y todos y todas le ríen la gracia, incluida su novia Jimena. Sólo Bea es capaz de verlo tal y como es, aunque tendrá que plantearse si ella está justificando de la misma forma el comportamiento de un ser muy querido",
+        "popularity": 0.2691,
+        "poster_path": "/cseUesl72uE09y06vuiN47WCKCW.jpg",
+        "release_date": "2026-04-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

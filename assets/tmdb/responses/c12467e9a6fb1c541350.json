@@ -1,0 +1,198 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1614760?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:10.519Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/1ztONFNhubvMDxBuv2t1ruVt7f5.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1614760,
+    "imdb_id": "tt39386285",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Miriam",
+    "overview": "",
+    "popularity": 0.1225,
+    "poster_path": "/j0O3JEhufj39oZnMOljhAuGzasJ.jpg",
+    "production_companies": [
+      {
+        "id": 288345,
+        "logo_path": null,
+        "name": "Bosque de Niebla Cine",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2026-03-12",
+    "revenue": 0,
+    "runtime": 20,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Miriam",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3524290,
+          "known_for_department": "Camera",
+          "name": "Karla Condado",
+          "original_name": "Karla Condado",
+          "popularity": 0.066,
+          "profile_path": "/cpyUpoWjb2miOXj8VszNgfmqnjU.jpg",
+          "credit_id": "6965459a763c9c7e5db353ef",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3524290,
+          "known_for_department": "Camera",
+          "name": "Karla Condado",
+          "original_name": "Karla Condado",
+          "popularity": 0.066,
+          "profile_path": "/cpyUpoWjb2miOXj8VszNgfmqnjU.jpg",
+          "credit_id": "6984657a0e6514cdf5912dbd",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3524290,
+          "known_for_department": "Camera",
+          "name": "Karla Condado",
+          "original_name": "Karla Condado",
+          "popularity": 0.066,
+          "profile_path": "/cpyUpoWjb2miOXj8VszNgfmqnjU.jpg",
+          "credit_id": "69846592723f9772b06e7544",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5022524,
+          "known_for_department": "Crew",
+          "name": "León Boltvinik",
+          "original_name": "León Boltvinik",
+          "popularity": 0.0685,
+          "profile_path": null,
+          "credit_id": "698465a5e9c6f0b74d912dce",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Oficial Selection on 76. Internationale Filmfestspiele Berlin | World Premier",
+              "release_date": "2026-02-14T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "B-15",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Proyección Especial en CCU BUAP",
+              "release_date": "2026-03-12T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "B-15",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Puebla Cine Fest 2026",
+              "release_date": "2026-11-13T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "B-15",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "FICM Morelia International Film Festival ",
+              "release_date": "2026-10-17T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "B-15",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Docs MX 2026",
+              "release_date": "2026-10-23T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "The 45th Uppsala Short Film Festival",
+              "release_date": "2026-10-19T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "GLAFF | GuadaLAjara Film Festival 2026",
+              "release_date": "2026-11-07T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

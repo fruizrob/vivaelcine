@@ -1,0 +1,188 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/722205?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:50.519Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 722205,
+    "imdb_id": "tt1344737",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Lodo",
+    "overview": "Relato surrealista que analiza el alma de una mujer en tres niveles de conciencia: en un presente deformado por las obsesiones viaja por un paisaje desolado, en un sueño se ve atrapada con otras personas en una ciudad desierta en la que siempre es de noche, y en ciertos recuerdos recurrentes de su adolescencia.",
+    "popularity": 0.1732,
+    "poster_path": "/nsOOC9o4mOAVwEWfD1F78TX1LZk.jpg",
+    "production_companies": [
+      {
+        "id": 174401,
+        "logo_path": null,
+        "name": "Universidad Pública de Navarra",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [],
+    "release_date": "2009-01-10",
+    "revenue": 0,
+    "runtime": 110,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lodo",
+    "video": false,
+    "vote_average": 1,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3528480,
+          "known_for_department": "Acting",
+          "name": "Alejandro Aguire",
+          "original_name": "Alejandro Aguire",
+          "popularity": 0.0501,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "626b8cd5c74eba0bed3eefef",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1047423,
+          "known_for_department": "Acting",
+          "name": "Aintzane Alastruey",
+          "original_name": "Aintzane Alastruey",
+          "popularity": 0.0583,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "626b8cf9c74eba0bed3ef03d",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3528482,
+          "known_for_department": "Acting",
+          "name": "Jorge Andolz",
+          "original_name": "Jorge Andolz",
+          "popularity": 0.1237,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "626b8d15d7107e009980c2d4",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3528487,
+          "known_for_department": "Art",
+          "name": "Natalia Aguirre",
+          "original_name": "Natalia Aguirre",
+          "popularity": 0.0336,
+          "profile_path": null,
+          "credit_id": "626b8eecd7107e009980c615",
+          "department": "Art",
+          "job": "Art Department Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3528483,
+          "known_for_department": "Sound",
+          "name": "Sergio Lasuén",
+          "original_name": "Sergio Lasuén",
+          "popularity": 0.0091,
+          "profile_path": null,
+          "credit_id": "626b8d5c69d2800b06732021",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3528484,
+          "known_for_department": "Crew",
+          "name": "Gorka Larralde",
+          "original_name": "Gorka Larralde",
+          "popularity": 0.005,
+          "profile_path": null,
+          "credit_id": "626b8d9bcdbaff009affb59f",
+          "department": "Crew",
+          "job": "Photoscience Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1047422,
+          "known_for_department": "Directing",
+          "name": "Karlos Alastruey",
+          "original_name": "Karlos Alastruey",
+          "popularity": 0.1047,
+          "profile_path": null,
+          "credit_id": "5f033bc3dd258900399e4c89",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1073163,
+          "known_for_department": "Writing",
+          "name": "Javier Alastruey",
+          "original_name": "Javier Alastruey",
+          "popularity": 0.0743,
+          "profile_path": null,
+          "credit_id": "5f033bd211c0660036b5c7ad",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1047422,
+          "known_for_department": "Directing",
+          "name": "Karlos Alastruey",
+          "original_name": "Karlos Alastruey",
+          "popularity": 0.1047,
+          "profile_path": null,
+          "credit_id": "5f033bc8f056d50036d4944e",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2009-01-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1449036?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:44.306Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 1000,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1449036,
+    "imdb_id": null,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "en",
+    "original_title": "Capturando Memórias",
+    "overview": "",
+    "popularity": 0.8624,
+    "poster_path": "/i1onR1ozg4Nr4ta9t8nT6J1sRuF.jpg",
+    "production_companies": [
+      {
+        "id": 211134,
+        "logo_path": null,
+        "name": "Lucas Duarte Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2027-12-14",
+    "revenue": 0,
+    "runtime": 6,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Rumored",
+    "tagline": "",
+    "title": "Capturando Memórias",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4324217,
+          "known_for_department": "Production",
+          "name": "Lucas Duarte",
+          "original_name": "Lucas Duarte",
+          "popularity": 0.0926,
+          "profile_path": "/3sW6iTc1P7ZbSMyUhteiHw8xYWR.jpg",
+          "cast_id": 1,
+          "character": "Narrator",
+          "credit_id": "67d5c1b031538de608f180b3",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4324217,
+          "known_for_department": "Production",
+          "name": "Lucas Duarte",
+          "original_name": "Lucas Duarte",
+          "popularity": 0.0926,
+          "profile_path": "/3sW6iTc1P7ZbSMyUhteiHw8xYWR.jpg",
+          "credit_id": "67d5c1c931678cc3f801416e",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4324217,
+          "known_for_department": "Production",
+          "name": "Lucas Duarte",
+          "original_name": "Lucas Duarte",
+          "popularity": 0.0926,
+          "profile_path": "/3sW6iTc1P7ZbSMyUhteiHw8xYWR.jpg",
+          "credit_id": "67d5c1e613d0e96b427bb02f",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4324217,
+          "known_for_department": "Production",
+          "name": "Lucas Duarte",
+          "original_name": "Lucas Duarte",
+          "popularity": 0.0926,
+          "profile_path": "/3sW6iTc1P7ZbSMyUhteiHw8xYWR.jpg",
+          "credit_id": "67d5c1f731538de608f180d1",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4324217,
+          "known_for_department": "Production",
+          "name": "Lucas Duarte",
+          "original_name": "Lucas Duarte",
+          "popularity": 0.0926,
+          "profile_path": "/3sW6iTc1P7ZbSMyUhteiHw8xYWR.jpg",
+          "credit_id": "67d5c20731678cc3f8014172",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "L",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "",
+              "release_date": "2027-12-14T00:00:00.000Z",
+              "type": 2
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "",
+              "release_date": "2028-01-14T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "BR",
+          "title": "Capturando Memórias",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "Capturing Memories",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "Capturando Recuerdos",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Capturer des Souvenirs",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "IT",
+          "title": "Catturando Ricordi",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/196003?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:28.164Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 196003,
+    "imdb_id": "tt0331437",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Betsy Ross Dance",
+    "overview": "",
+    "popularity": 0.0759,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 13131,
+        "logo_path": null,
+        "name": "American Mutoscope & Biograph",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1903-06-22",
+    "revenue": 0,
+    "runtime": 2,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Betsy Ross Dance",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 4,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 8819,
+          "known_for_department": "Camera",
+          "name": "Billy Bitzer",
+          "original_name": "Billy Bitzer",
+          "popularity": 0.3798,
+          "profile_path": "/9nNC55iPLBuBK8KwQUoiK06piHW.jpg",
+          "credit_id": "5684e19ec3a3684be9019e22",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1903-06-22T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

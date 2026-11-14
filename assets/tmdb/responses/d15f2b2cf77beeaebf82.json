@@ -1,0 +1,713 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1379747?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:54.114Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/sCR4GtMpRmF7VQeHUymOavnJa8N.jpg",
+    "belongs_to_collection": null,
+    "budget": 1200000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "id": 1379747,
+    "imdb_id": "tt33303400",
+    "origin_country": [
+      "VE",
+      "CA",
+      "IT",
+      "LU"
+    ],
+    "original_language": "es",
+    "original_title": "La Muerte no Tiene Dueño",
+    "overview": "",
+    "popularity": 1.6924,
+    "poster_path": "/6pztCoqbpdTXnAjRkIUPvSnVMwR.jpg",
+    "production_companies": [
+      {
+        "id": 37674,
+        "logo_path": "/prJSz2DaWIZZfxHtb0hc6Vwfcw6.png",
+        "name": "Deal Productions",
+        "origin_country": "LU"
+      },
+      {
+        "id": 116278,
+        "logo_path": null,
+        "name": "Faits Divers Media",
+        "origin_country": "CA"
+      },
+      {
+        "id": 103029,
+        "logo_path": "/mcfJRJp8TODx277L0DIiFcf8kkH.png",
+        "name": "La Faena Films",
+        "origin_country": "VE"
+      },
+      {
+        "id": 52231,
+        "logo_path": "/3VudNAlVU2jYlor7r2Oawngwtvx.png",
+        "name": "TRES",
+        "origin_country": "VE"
+      },
+      {
+        "id": 140114,
+        "logo_path": "/698xcYut47M1BexvtGKmKX3Yf0a.png",
+        "name": "h264",
+        "origin_country": "CA"
+      },
+      {
+        "id": 203535,
+        "logo_path": "/igDFdmhm88iM78VZrlouKUUxpLO.png",
+        "name": "Volos Films Italia",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "VE",
+        "name": "Venezuela"
+      },
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "LU",
+        "name": "Luxembourg"
+      }
+    ],
+    "release_date": "2027-03-25",
+    "revenue": 0,
+    "runtime": 104,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Muerte no Tiene Dueño",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 18514,
+          "known_for_department": "Acting",
+          "name": "Asia Argento",
+          "original_name": "Asia Argento",
+          "popularity": 2.1957,
+          "profile_path": "/dYbYNxMnqhNyAJyrPU7e2C9jcRz.jpg",
+          "cast_id": 4,
+          "character": "Caro",
+          "credit_id": "69c97eea24a14474e22eca0c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6234338,
+          "known_for_department": "Acting",
+          "name": "Dogreika Tovar",
+          "original_name": "Dogreika Tovar",
+          "popularity": 0.1066,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Sonia",
+          "credit_id": "6a11a5b2ac5142880be3ba28",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2625423,
+          "known_for_department": "Acting",
+          "name": "Jorge Thielen Hedderich",
+          "original_name": "Jorge Thielen Hedderich",
+          "popularity": 0.1779,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Roque",
+          "credit_id": "6a11a5b87b27c3969eb990d3",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6234341,
+          "known_for_department": "Acting",
+          "name": "Yermain Sequera",
+          "original_name": "Yermain Sequera",
+          "popularity": 0.1294,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Maiko",
+          "credit_id": "6a11a5f20f674985b6b5aa98",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6234342,
+          "known_for_department": "Acting",
+          "name": "Arturo Rodríguez",
+          "original_name": "Arturo Rodríguez",
+          "popularity": 0.1486,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Yoni",
+          "credit_id": "6a11a610fcb7a8978eaec327",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1491541,
+          "known_for_department": "Acting",
+          "name": "Jericó Montilla",
+          "original_name": "Jericó Montilla",
+          "popularity": 0.2315,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Policewoman",
+          "credit_id": "6a11a6197db16ef022aec246",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3901317,
+          "known_for_department": "Acting",
+          "name": "Morris Merentes",
+          "original_name": "Morris Merentes",
+          "popularity": 0.0933,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "Driver",
+          "credit_id": "6acdf92334f473e91d8e8d67",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1008368,
+          "known_for_department": "Acting",
+          "name": "Rafael Gil",
+          "original_name": "Rafael Gil",
+          "popularity": 0.1031,
+          "profile_path": null,
+          "cast_id": 30,
+          "character": "Hotel Manager",
+          "credit_id": "6acdf963e0daea5bc16f40d6",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6545559,
+          "known_for_department": "Acting",
+          "name": "José \"Chindito\" Aponte",
+          "original_name": "José \"Chindito\" Aponte",
+          "popularity": 0.1407,
+          "profile_path": null,
+          "cast_id": 31,
+          "character": "Tenant",
+          "credit_id": "6acdf987a9cebd83a3e781f0",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1676791,
+          "known_for_department": "Acting",
+          "name": "José Dolores López",
+          "original_name": "José Dolores López",
+          "popularity": 0.0805,
+          "profile_path": null,
+          "cast_id": 32,
+          "character": "Policeman on the road",
+          "credit_id": "6acdf9a8e674f23cdc1f6003",
+          "order": 9
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1674167,
+          "known_for_department": "Directing",
+          "name": "Jorge Thielen Armand",
+          "original_name": "Jorge Thielen Armand",
+          "popularity": 0.1992,
+          "profile_path": "/hH7M1djWcWMbAr7YtHUPTNATinZ.jpg",
+          "credit_id": "6721a3ca1601419f7361c646",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2252441,
+          "known_for_department": "Production",
+          "name": "Stefano Centini",
+          "original_name": "Stefano Centini",
+          "popularity": 0.1329,
+          "profile_path": "/n7eTz6qmYhAbK5WXjO88bv1Y1em.jpg",
+          "credit_id": "6721a3e21df70f7920fec010",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2016453,
+          "known_for_department": "Camera",
+          "name": "Rodrigo Michelangeli",
+          "original_name": "Rodrigo Michelangeli",
+          "popularity": 0.1605,
+          "profile_path": "/sCm5WFTLwExNdq4oaZkzJyqt3hg.jpg",
+          "credit_id": "6721a412eeb0c5ef3b9ba1e9",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1674167,
+          "known_for_department": "Directing",
+          "name": "Jorge Thielen Armand",
+          "original_name": "Jorge Thielen Armand",
+          "popularity": 0.1992,
+          "profile_path": "/hH7M1djWcWMbAr7YtHUPTNATinZ.jpg",
+          "credit_id": "69c97f02567ea6f1d43c26ff",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1680664,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Marisela Marín",
+          "original_name": "Marisela Marín",
+          "popularity": 0.1306,
+          "profile_path": null,
+          "credit_id": "6a781391d7faf4915964f6f4",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1284153,
+          "known_for_department": "Art",
+          "name": "Matías Tikas",
+          "original_name": "Matías Tikas",
+          "popularity": 0.0976,
+          "profile_path": null,
+          "credit_id": "6a7813af01dcf566014f0507",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5740115,
+          "known_for_department": "Costume & Make-Up",
+          "name": "David Morales",
+          "original_name": "David Morales",
+          "popularity": 0.1012,
+          "profile_path": null,
+          "credit_id": "6a7813cfc9aec3c48ade6019",
+          "department": "Costume & Make-Up",
+          "job": "Prosthetic Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4813338,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Francis Novoa",
+          "original_name": "Francis Novoa",
+          "popularity": 0.1021,
+          "profile_path": null,
+          "credit_id": "6a7813e283758fc16fcfc290",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1623020,
+          "known_for_department": "Camera",
+          "name": "Luis Armando Arteaga",
+          "original_name": "Luis Armando Arteaga",
+          "popularity": 0.1645,
+          "profile_path": null,
+          "credit_id": "6a7813fc2933936f187c3cb9",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 984145,
+          "known_for_department": "Editing",
+          "name": "Felipe Guerrero",
+          "original_name": "Felipe Guerrero",
+          "popularity": 0.2934,
+          "profile_path": null,
+          "credit_id": "6a78140fc9aec3c48ade6021",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2016036,
+          "known_for_department": "Acting",
+          "name": "Tatiana Mabo",
+          "original_name": "Tatiana Mabo",
+          "popularity": 0.1424,
+          "profile_path": "/m0LMEhqXNWFMaCAW4wEN0AjWYeH.jpg",
+          "credit_id": "6a78142419dafaa9e7bda719",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1385800,
+          "known_for_department": "Sound",
+          "name": "Vittorio Giampietro",
+          "original_name": "Vittorio Giampietro",
+          "popularity": 0.0904,
+          "profile_path": null,
+          "credit_id": "6a7814643fdba57f2bcb9b0c",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2201814,
+          "known_for_department": "Production",
+          "name": "Alexandra Hoesdorff",
+          "original_name": "Alexandra Hoesdorff",
+          "popularity": 0.1813,
+          "profile_path": null,
+          "credit_id": "6a7814bb3fdba57f2bcb9b12",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2272854,
+          "known_for_department": "Production",
+          "name": "Arantza Maldonado",
+          "original_name": "Arantza Maldonado",
+          "popularity": 0.0359,
+          "profile_path": null,
+          "credit_id": "6a7814ceb8a4be2264cb9a69",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 22210,
+          "known_for_department": "Acting",
+          "name": "Désirée Nosbusch",
+          "original_name": "Désirée Nosbusch",
+          "popularity": 0.7534,
+          "profile_path": "/vwqP8VVyVQle9qKtHgfc7IPNFmE.jpg",
+          "credit_id": "6a7814ee6dec12b827cfc250",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1424355,
+          "known_for_department": "Directing",
+          "name": "Mo Scarpelli",
+          "original_name": "Mo Scarpelli",
+          "popularity": 0.1077,
+          "profile_path": "/hCdeTvJ73GNWdF6bkdqRFXPeG29.jpg",
+          "credit_id": "6a7814fd2933936f187c3cd4",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1674167,
+          "known_for_department": "Directing",
+          "name": "Jorge Thielen Armand",
+          "original_name": "Jorge Thielen Armand",
+          "popularity": 0.1992,
+          "profile_path": "/hH7M1djWcWMbAr7YtHUPTNATinZ.jpg",
+          "credit_id": "6a781510c0c2df4747de6046",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2790306,
+          "known_for_department": "Production",
+          "name": "D.D. Wigley",
+          "original_name": "D.D. Wigley",
+          "popularity": 0.1045,
+          "profile_path": null,
+          "credit_id": "6a78154e3fdba57f2bcb9b15",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3684692,
+          "known_for_department": "Sound",
+          "name": "Francesco Tuminello",
+          "original_name": "Francesco Tuminello",
+          "popularity": 0.0507,
+          "profile_path": null,
+          "credit_id": "6a7815793fdba57f2bcb9b18",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1294674,
+          "known_for_department": "Sound",
+          "name": "Sylvain Bellemare",
+          "original_name": "Sylvain Bellemare",
+          "popularity": 0.4477,
+          "profile_path": "/kGsqhWsy3TP92U5widUlBgUkLV4.jpg",
+          "credit_id": "6acdf52734f473e91d8e8d10",
+          "department": "Sound",
+          "job": "Sound Designer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "São Paulo International Film Festival",
+              "release_date": "2026-10-22T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Vancouver International Film Festival",
+              "release_date": "2026-10-09T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Locarno Film Festival",
+              "release_date": "2026-08-13T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2027-03-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cannes Directors' Fortnight",
+              "release_date": "2026-05-20T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ID",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Jakarta World Cinema",
+              "release_date": "2026-11-05T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Torino Film Festival ",
+              "release_date": "2026-11-28T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Lima International Film Festival",
+              "release_date": "2026-08-07T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "TAURON New Horizons International Film Festival",
+              "release_date": "2026-07-25T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "RU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Karo/Art Film Festival",
+              "release_date": "2026-10-17T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TW",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Taipei Golden Horse Film Festival",
+              "release_date": "2026-11-12T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "UA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Odesa International Film Festival",
+              "release_date": "2026-08-29T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Fantastic Fest",
+              "release_date": "2026-09-18T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "VE",
+          "title": "La muerte no tiene dueño",
+          "type": "original title"
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "La mort n'a pas de maître",
+          "type": "Translation"
+        }
+      ]
+    }
+  }
+}

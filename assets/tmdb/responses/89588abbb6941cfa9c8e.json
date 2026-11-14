@@ -1,0 +1,128 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/243229?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:03.632Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 243229,
+    "imdb_id": "tt1534484",
+    "origin_country": [
+      "NL"
+    ],
+    "original_language": "nl",
+    "original_title": "Pan",
+    "overview": "",
+    "popularity": 0.073,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "release_date": "1962-11-02",
+    "revenue": 0,
+    "runtime": 23,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Dutch",
+        "iso_639_1": "nl",
+        "name": "Nederlands"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pan",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1278334,
+          "known_for_department": "Camera",
+          "name": "Herman van der Horst",
+          "original_name": "Herman van der Horst",
+          "popularity": 0.0729,
+          "profile_path": "/wFqR83Vm6q2QyCE744hlSCGYEiA.jpg",
+          "credit_id": "52fe4edbc3a36847f82ac4e7",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1278334,
+          "known_for_department": "Camera",
+          "name": "Herman van der Horst",
+          "original_name": "Herman van der Horst",
+          "popularity": 0.0729,
+          "profile_path": "/wFqR83Vm6q2QyCE744hlSCGYEiA.jpg",
+          "credit_id": "56005f9a9251414e560003fa",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1278334,
+          "known_for_department": "Camera",
+          "name": "Herman van der Horst",
+          "original_name": "Herman van der Horst",
+          "popularity": 0.0729,
+          "profile_path": "/wFqR83Vm6q2QyCE744hlSCGYEiA.jpg",
+          "credit_id": "56005fa6c3a3685f370003ef",
+          "department": "Crew",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1278334,
+          "known_for_department": "Camera",
+          "name": "Herman van der Horst",
+          "original_name": "Herman van der Horst",
+          "popularity": 0.0729,
+          "profile_path": "/wFqR83Vm6q2QyCE744hlSCGYEiA.jpg",
+          "credit_id": "56005fb5c3a3685f54000449",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Source: IMDB",
+              "release_date": "1962-11-02T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

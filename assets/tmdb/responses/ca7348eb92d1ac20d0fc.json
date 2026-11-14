@@ -1,0 +1,528 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/238959?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:25.522Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/m3BRwI06Ad7EJ1Yvkvxtc2PAkw0.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 238959,
+    "imdb_id": "tt2155259",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Bob Ross: The Happy Painter",
+    "overview": "",
+    "popularity": 0.9116,
+    "poster_path": "/yhV6rSv8Ry80lyDL8sjZpu8hzph.jpg",
+    "production_companies": [
+      {
+        "id": 26277,
+        "logo_path": "/uXqiWcZbtSG2G9cQ031fRl2V0gH.png",
+        "name": "American Public Television",
+        "origin_country": "US"
+      },
+      {
+        "id": 103609,
+        "logo_path": null,
+        "name": "Blue Ridge PBS",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2011-12-03",
+    "revenue": 0,
+    "runtime": 64,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bob Ross: The Happy Painter",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 13,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 157338,
+          "known_for_department": "Acting",
+          "name": "Bob Ross",
+          "original_name": "Bob Ross",
+          "popularity": 0.5031,
+          "profile_path": "/1yqRN7uEQnlzG8phS1hZDz28Ux3.jpg",
+          "cast_id": 3,
+          "character": "Self (archive footage)",
+          "credit_id": "52fe4e89c3a36847f8296df9",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2026908,
+          "known_for_department": "Acting",
+          "name": "Steve Ross",
+          "original_name": "Steve Ross",
+          "popularity": 0.2848,
+          "profile_path": "/8CknCUbtJ4xS5WF79PAz3K7M1CC.jpg",
+          "cast_id": 21,
+          "character": "Self (archive footage)",
+          "credit_id": "5ada8dd99251410acb001964",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3213606,
+          "known_for_department": "Acting",
+          "name": "Walt Kowalski",
+          "original_name": "Walt Kowalski",
+          "popularity": 0.1064,
+          "profile_path": null,
+          "cast_id": 32,
+          "character": "Self",
+          "credit_id": "643c092f2ea6b904ef516658",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2288933,
+          "known_for_department": "Acting",
+          "name": "Annette Kowalski",
+          "original_name": "Annette Kowalski",
+          "popularity": 0.1195,
+          "profile_path": null,
+          "cast_id": 33,
+          "character": "Self",
+          "credit_id": "643c09398ec4ab049aaef6b4",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1273730,
+          "known_for_department": "Acting",
+          "name": "William Alexander",
+          "original_name": "William Alexander",
+          "popularity": 0.0744,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Self (archive footage)",
+          "credit_id": "52fe4e89c3a36847f8296df1",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 191570,
+          "known_for_department": "Acting",
+          "name": "Phil Donahue",
+          "original_name": "Phil Donahue",
+          "popularity": 0.4029,
+          "profile_path": "/3e2hnEiPJzwYaQ0jaAajJIIx7by.jpg",
+          "cast_id": 4,
+          "character": "Self",
+          "credit_id": "52fe4e89c3a36847f8296dfd",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 10223,
+          "known_for_department": "Acting",
+          "name": "Jane Seymour",
+          "original_name": "Jane Seymour",
+          "popularity": 2.6269,
+          "profile_path": "/4crZXhSXSeAiwZDZyjfQ9dMgbj0.jpg",
+          "cast_id": 5,
+          "character": "Self",
+          "credit_id": "52fe4e89c3a36847f8296e01",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 14670,
+          "known_for_department": "Acting",
+          "name": "Joan Rivers",
+          "original_name": "Joan Rivers",
+          "popularity": 1.0804,
+          "profile_path": "/ocCom3OjllEUQBTK3RhK4dwS23H.jpg",
+          "cast_id": 20,
+          "character": "Self (archive footage)",
+          "credit_id": "5ada8d809251410acb0018eb",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 18288,
+          "known_for_department": "Acting",
+          "name": "Terrence Howard",
+          "original_name": "Terrence Howard",
+          "popularity": 1.925,
+          "profile_path": "/eZ6uRZOYWZAyjNmWpDKGdLL6WUC.jpg",
+          "cast_id": 17,
+          "character": "Self",
+          "credit_id": "5ada8cff9251410ad8001895",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 151657,
+          "known_for_department": "Acting",
+          "name": "Regis Philbin",
+          "original_name": "Regis Philbin",
+          "popularity": 0.5486,
+          "profile_path": "/bqUyIlaGBZqd4GTn8MVW47FZ4xX.jpg",
+          "cast_id": 19,
+          "character": "Self (archive footage)",
+          "credit_id": "5ada8d5ac3a36862ca001b46",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 162783,
+          "known_for_department": "Acting",
+          "name": "Kathie Lee Gifford",
+          "original_name": "Kathie Lee Gifford",
+          "popularity": 0.6097,
+          "profile_path": "/omz2rFxQjf7ozuu6l4svGRJlQK.jpg",
+          "cast_id": 11,
+          "character": "Self (archive footage)",
+          "credit_id": "5ada8badc3a36862c00016a3",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 181472,
+          "known_for_department": "Acting",
+          "name": "Brad Paisley",
+          "original_name": "Brad Paisley",
+          "popularity": 0.7159,
+          "profile_path": "/5YIMRT5nQw1noIbhNzsWbDO7FCm.jpg",
+          "cast_id": 6,
+          "character": "Self",
+          "credit_id": "52fe4e89c3a36847f8296e05",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1273731,
+          "known_for_department": "Acting",
+          "name": "Bill Bryant",
+          "original_name": "Bill Bryant",
+          "popularity": 0.1071,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Self",
+          "credit_id": "52fe4e89c3a36847f8296df5",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2026889,
+          "known_for_department": "Acting",
+          "name": "Alice Cheney",
+          "original_name": "Alice Cheney",
+          "popularity": 0.0991,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Self",
+          "credit_id": "5ada8a9b0e0a26143c001788",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2026890,
+          "known_for_department": "Acting",
+          "name": "Richard Collins",
+          "original_name": "Richard Collins",
+          "popularity": 0.0477,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Self",
+          "credit_id": "5ada8ad70e0a261436001830",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2026891,
+          "known_for_department": "Acting",
+          "name": "Nancy Cox",
+          "original_name": "Nancy Cox",
+          "popularity": 0.0592,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Self",
+          "credit_id": "5ada8b449251410acb00166a",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2026892,
+          "known_for_department": "Acting",
+          "name": "Larry Dyer",
+          "original_name": "Larry Dyer",
+          "popularity": 0.0541,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Self",
+          "credit_id": "5ada8b64c3a36862e70017e5",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2026895,
+          "known_for_department": "Acting",
+          "name": "Audrey Golden",
+          "original_name": "Audrey Golden",
+          "popularity": 0.0931,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Self",
+          "credit_id": "5ada8bdd0e0a2614450017a4",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2026899,
+          "known_for_department": "Acting",
+          "name": "Mike Gorak",
+          "original_name": "Mike Gorak",
+          "popularity": 0.0526,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Self",
+          "credit_id": "5ada8c6ec3a36862d6001785",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2026900,
+          "known_for_department": "Acting",
+          "name": "Doug Hallgren",
+          "original_name": "Doug Hallgren",
+          "popularity": 0.1557,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Self",
+          "credit_id": "5ada8c909251410ac700175b",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1465795,
+          "known_for_department": "Directing",
+          "name": "Matthew Scott Harris",
+          "original_name": "Matthew Scott Harris",
+          "popularity": 0.1483,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Self",
+          "credit_id": "5ada8cdf0e0a261439001b1e",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2026904,
+          "known_for_department": "Acting",
+          "name": "Joan Kowalski",
+          "original_name": "Joan Kowalski",
+          "popularity": 0.0463,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Self",
+          "credit_id": "5ada8d2a9251410ac70017de",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1219922,
+          "known_for_department": "Acting",
+          "name": "Duff Goldman",
+          "original_name": "Duff Goldman",
+          "popularity": 0.4045,
+          "profile_path": "/iU6V5S7gL8q1uwHmHHoW4kISV4P.jpg",
+          "cast_id": 31,
+          "character": "Self",
+          "credit_id": "6420b75a23be4600febe0981",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2026910,
+          "known_for_department": "Production",
+          "name": "Julie Newman",
+          "original_name": "Julie Newman",
+          "popularity": 0.0344,
+          "profile_path": null,
+          "cast_id": 34,
+          "character": "Narrator (voice)",
+          "credit_id": "643c099446aed4051c4fa57d",
+          "order": 23
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2026914,
+          "known_for_department": "Production",
+          "name": "Carol Jennings",
+          "original_name": "Carol Jennings",
+          "popularity": 0.052,
+          "profile_path": null,
+          "credit_id": "5ada8f7ec3a36862c0001ac7",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2026909,
+          "known_for_department": "Directing",
+          "name": "Sherry Spradlin",
+          "original_name": "Sherry Spradlin",
+          "popularity": 0.107,
+          "profile_path": null,
+          "credit_id": "5ada8ebd0e0a261445001a85",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2026913,
+          "known_for_department": "Editing",
+          "name": "Spencer Thomason",
+          "original_name": "Spencer Thomason",
+          "popularity": 0.0563,
+          "profile_path": null,
+          "credit_id": "5ada8f540e0a261445001b16",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2026910,
+          "known_for_department": "Production",
+          "name": "Julie Newman",
+          "original_name": "Julie Newman",
+          "popularity": 0.0344,
+          "profile_path": null,
+          "credit_id": "5ada8f159251410acd001c8f",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2026919,
+          "known_for_department": "Crew",
+          "name": "David Spruell",
+          "original_name": "David Spruell",
+          "popularity": 0.0475,
+          "profile_path": null,
+          "credit_id": "5ada90190e0a261436001e44",
+          "department": "Crew",
+          "job": "Other"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2026951,
+          "known_for_department": "Editing",
+          "name": "Alan J. Scherry",
+          "original_name": "Alan J. Scherry",
+          "popularity": 0.0427,
+          "profile_path": null,
+          "credit_id": "5ada9da7c3a36803fa001eec",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2026949,
+          "known_for_department": "Production",
+          "name": "William Anderson",
+          "original_name": "William Anderson",
+          "popularity": 0.1301,
+          "profile_path": null,
+          "credit_id": "5ada9d440e0a261439002b90",
+          "department": "Production",
+          "job": "Other"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2011-12-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Bob Ross The Happy Painter",
+          "type": "Alternate 1"
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "The Happy Painter",
+          "type": "Alternate 2"
+        }
+      ]
+    }
+  }
+}

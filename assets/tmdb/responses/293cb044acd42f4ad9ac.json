@@ -1,0 +1,33 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Olivia+y+el+terremoto+invisible&include_adult=false&language=es-ES&year=2025",
+  "retrievedAt": "2026-11-14T02:25:58.254Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/2Hpx6MfavpIJsC3jNTnYWzdx81D.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          10751
+        ],
+        "id": 676679,
+        "title": "Olivia y el terremoto invisible",
+        "original_language": "ca",
+        "original_title": "L'Olívia i el terratrèmol invisible",
+        "overview": "Olivia, su hermano pequeño Tim y su madre Ingrid son expulsados de casa y tienen que empezar de cero en otro barrio. Mientras Ingrid hace malabares para resolver la situación, Olivia se inventa una fantasía protectora para su hermano y para ella: todo lo que viven no es real, están rodando una película. Pero esta invención tendrá consecuencias inesperadas. Afortunadamente, a su alrededor se formará una nueva y pintoresca familia con la que vivirán rocambolescas aventuras. Entre risas, llantos, magia y amistad, descubrirán que son los increíbles héroes cotidianos de sus propias vidas.",
+        "popularity": 1.2819,
+        "poster_path": "/m4EG6CPnV6OhtFz9vEgruDzERcD.jpg",
+        "release_date": "2025-11-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 8
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

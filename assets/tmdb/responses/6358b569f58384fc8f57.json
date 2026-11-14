@@ -1,0 +1,97 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/482225?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:01.081Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 482225,
+    "imdb_id": "tt0155004",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Paulina",
+    "overview": "",
+    "popularity": 0.5356,
+    "poster_path": "/fTw5WxTXrzvWvpDPTG2kStE42AX.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1997-12-15",
+    "revenue": 0,
+    "runtime": 88,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Paulina",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 131456,
+          "known_for_department": "Directing",
+          "name": "Vicky Funari",
+          "original_name": "Vicky Funari",
+          "popularity": 0.2603,
+          "profile_path": null,
+          "credit_id": "59e919d7c3a3681a690075ff",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "1997-12-15T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sundance Film Festival",
+              "release_date": "1998-01-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

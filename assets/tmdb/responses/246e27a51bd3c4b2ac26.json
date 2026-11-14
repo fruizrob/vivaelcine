@@ -1,0 +1,125 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1406084?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:35.841Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1406084,
+    "imdb_id": "tt5455638",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Ojos que no ven",
+    "overview": "",
+    "popularity": 0.176,
+    "poster_path": "/o0D1zRxZaZVNwUIWdOFWeAKt1MI.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2016-02-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ojos que no ven",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1621790,
+          "known_for_department": "Acting",
+          "name": "Ruth Llopis",
+          "original_name": "Ruth Llopis",
+          "popularity": 0.3968,
+          "profile_path": "/uubMrUhY6tAJRholWupmPcY0Odv.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6767439887b92a43be5e3414",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1489567,
+          "known_for_department": "Acting",
+          "name": "Xavier Pàmies",
+          "original_name": "Xavier Pàmies",
+          "popularity": 0.1441,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "676743a603a3aa5330910a73",
+          "order": 1
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5134093,
+          "known_for_department": "Directing",
+          "name": "Pol Mallafré",
+          "original_name": "Pol Mallafré",
+          "popularity": 0.0265,
+          "profile_path": null,
+          "credit_id": "676743d741db2b4b9c749a89",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1346524,
+          "known_for_department": "Directing",
+          "name": "Ignacio Rodó",
+          "original_name": "Ignacio Rodó",
+          "popularity": 0.2157,
+          "profile_path": "/iTvIlBtFmdmS9MRQRuNZ8B1GtUn.jpg",
+          "credit_id": "676743e641db2b4b9c749a9a",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "Ai",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2016-02-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

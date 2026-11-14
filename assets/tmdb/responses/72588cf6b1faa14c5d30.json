@@ -1,0 +1,91 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1204095?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:17.710Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1204095,
+    "imdb_id": null,
+    "origin_country": [
+      "PT"
+    ],
+    "original_language": "pt",
+    "original_title": "Presépio",
+    "overview": "",
+    "popularity": 0.162,
+    "poster_path": "/32BO1xzcRLNT9gXXFpgt59jmGUM.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-11-14",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Presépio",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2340575,
+          "known_for_department": "Sound",
+          "name": "Diogo Chaves",
+          "original_name": "Diogo Chaves",
+          "popularity": 0.0857,
+          "profile_path": "/ohemsiqg9TLRnwVxGKsBXcIa8ck.jpg",
+          "credit_id": "65510cf3ea84c710959b3901",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3243571,
+          "known_for_department": "Directing",
+          "name": "Vasco Vasconcelos",
+          "original_name": "Vasco Vasconcelos",
+          "popularity": 0.058,
+          "profile_path": null,
+          "credit_id": "65510cc667b61345ce363e16",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "Caminhos do Cinema Português",
+              "release_date": "2023-11-14T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

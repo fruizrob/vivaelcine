@@ -1,0 +1,709 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/3012?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:55.104Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/dYCmzdD0INOsNRoJOjqCLsirl4M.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "homepage": "",
+    "id": 3012,
+    "imdb_id": "tt0057652",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The Victors",
+    "overview": "Junio de 1944. Tras un duro adiestramiento, un contingente de soldados británicos que debe llevar a cabo una misión en Italia, ocupa un pueblo. El cabo Baker se enamora de una joven que ha perdido a su marido en la guerra, pero tiene que irse con su grupo a Francia, justamente al día siguiente del desembarco de los aliados en Normandía. En Francia, el sargento Craig inicia una relación con una mujer que vive atemorizada por los constantes bombardeos. El próximo destino del grupo es Bélgica, donde el cabo Tower decide desertar para estar con Regine, una violinista a la que acaba de conocer.",
+    "popularity": 0.8685,
+    "poster_path": "/bVzJNdrhSjEzeyLle0rbJaH7Xon.jpg",
+    "production_companies": [
+      {
+        "id": 18705,
+        "logo_path": null,
+        "name": "Highroad Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10427,
+        "logo_path": "/3u5sNgPRbba0ND3SUMXPTT7On9h.png",
+        "name": "Open Road Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1963-11-22",
+    "revenue": 0,
+    "runtime": 175,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Los vencedores",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 29,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3265,
+          "known_for_department": "Acting",
+          "name": "Eli Wallach",
+          "original_name": "Eli Wallach",
+          "popularity": 1.9518,
+          "profile_path": "/tX1kYpW1K8XjEA3i9FXrgFqNAaw.jpg",
+          "cast_id": 16,
+          "character": "Sgt. Craig",
+          "credit_id": "52fe437cc3a36847f8057b37",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3267,
+          "known_for_department": "Acting",
+          "name": "George Hamilton",
+          "original_name": "George Hamilton",
+          "popularity": 1.7053,
+          "profile_path": "/qWqB7zGHpEryXetnzDyihwl7haY.jpg",
+          "cast_id": 14,
+          "character": "Trower",
+          "credit_id": "52fe437cc3a36847f8057b2f",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1933,
+          "known_for_department": "Acting",
+          "name": "George Peppard",
+          "original_name": "George Peppard",
+          "popularity": 1.6205,
+          "profile_path": "/td2SN1HGqgGsWLi4YhReMYvH2ik.jpg",
+          "cast_id": 11,
+          "character": "Cpl. Chase",
+          "credit_id": "52fe437cc3a36847f8057b23",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 14812,
+          "known_for_department": "Acting",
+          "name": "Jeanne Moreau",
+          "original_name": "Jeanne Moreau",
+          "popularity": 1.2558,
+          "profile_path": "/lsIlRbcStJev5n1mypIeUUYKWuy.jpg",
+          "cast_id": 13,
+          "character": "French Woman",
+          "credit_id": "52fe437cc3a36847f8057b2b",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6250,
+          "known_for_department": "Acting",
+          "name": "Romy Schneider",
+          "original_name": "Romy Schneider",
+          "popularity": 1.7182,
+          "profile_path": "/7ZM51RfI5oMx8Q5hpyYZ7MyD6Do.jpg",
+          "cast_id": 12,
+          "character": "Regine",
+          "credit_id": "52fe437cc3a36847f8057b27",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 15395,
+          "known_for_department": "Acting",
+          "name": "Maurice Ronet",
+          "original_name": "Maurice Ronet",
+          "popularity": 0.6386,
+          "profile_path": "/n59auqYzna4exH96CFzGA1l7TAb.jpg",
+          "cast_id": 20,
+          "character": "French Lieutenant",
+          "credit_id": "52fe437cc3a36847f8057b47",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 8949,
+          "known_for_department": "Acting",
+          "name": "Peter Fonda",
+          "original_name": "Peter Fonda",
+          "popularity": 1.4173,
+          "profile_path": "/dgorN06SQ9ZNL2NY3I7BNxg93lc.jpg",
+          "cast_id": 15,
+          "character": "Weaver",
+          "credit_id": "52fe437cc3a36847f8057b33",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3926,
+          "known_for_department": "Acting",
+          "name": "Albert Finney",
+          "original_name": "Albert Finney",
+          "popularity": 1.3573,
+          "profile_path": "/v77sxrIQvkPmiqE4bODGocXgDTl.jpg",
+          "cast_id": 17,
+          "character": "Russian Soldier",
+          "credit_id": "52fe437cc3a36847f8057b3b",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3337,
+          "known_for_department": "Acting",
+          "name": "Vince Edwards",
+          "original_name": "Vince Edwards",
+          "popularity": 0.9964,
+          "profile_path": "/goXXCXM1YFH0kiQ2Lw8TO0BudoI.jpg",
+          "cast_id": 18,
+          "character": "Baker",
+          "credit_id": "52fe437cc3a36847f8057b3f",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 29902,
+          "known_for_department": "Acting",
+          "name": "Μελίνα Μερκούρη",
+          "original_name": "Μελίνα Μερκούρη",
+          "popularity": 0.8786,
+          "profile_path": "/klw1lzuMZJDqDJMdypSYSkx8R0K.jpg",
+          "cast_id": 19,
+          "character": "Magda",
+          "credit_id": "52fe437cc3a36847f8057b43",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 30927,
+          "known_for_department": "Acting",
+          "name": "Rosanna Schiaffino",
+          "original_name": "Rosanna Schiaffino",
+          "popularity": 0.6496,
+          "profile_path": "/mgsEjqpTQ9blngLxXWYmtlsnK9G.jpg",
+          "cast_id": 21,
+          "character": "Maria",
+          "credit_id": "52fe437cc3a36847f8057b4b",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 17844,
+          "known_for_department": "Acting",
+          "name": "Elke Sommer",
+          "original_name": "Elke Sommer",
+          "popularity": 3.0417,
+          "profile_path": "/8xkl8985aLTtX9mC8iXHdrAEO7A.jpg",
+          "cast_id": 22,
+          "character": "Helga",
+          "credit_id": "52fe437cc3a36847f8057b4f",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30928,
+          "known_for_department": "Acting",
+          "name": "Michael Callan",
+          "original_name": "Michael Callan",
+          "popularity": 0.7099,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "Eldridge",
+          "credit_id": "52fe437cc3a36847f8057b53",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30929,
+          "known_for_department": "Acting",
+          "name": "James Mitchum",
+          "original_name": "James Mitchum",
+          "popularity": 0.7046,
+          "profile_path": "/9MywuhftO1CGwquDt9TpPOMLlNX.jpg",
+          "cast_id": 24,
+          "character": "Grogan",
+          "credit_id": "52fe437cc3a36847f8057b57",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 12776,
+          "known_for_department": "Acting",
+          "name": "Senta Berger",
+          "original_name": "Senta Berger",
+          "popularity": 1.3779,
+          "profile_path": "/A6vTzs8BVX2XgOofzo6UiThBaoV.jpg",
+          "cast_id": 25,
+          "character": "Trudi",
+          "credit_id": "52fe437cc3a36847f8057b5b",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30930,
+          "known_for_department": "Acting",
+          "name": "Albert Lieven",
+          "original_name": "Albert Lieven",
+          "popularity": 0.7908,
+          "profile_path": "/tISwXHeibCgB0ft3mkleGJCPE68.jpg",
+          "cast_id": 26,
+          "character": "Herr Metzger",
+          "credit_id": "52fe437cc3a36847f8057b5f",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 106628,
+          "known_for_department": "Acting",
+          "name": "Marianne Stone",
+          "original_name": "Marianne Stone",
+          "popularity": 0.6088,
+          "profile_path": "/koHtShEtkbm1rO2YbjfQN3Opz0t.jpg",
+          "cast_id": 39,
+          "character": "Prostitute at Hotel de Flandre (uncredited)",
+          "credit_id": "59f256d29251416aaf03b0a1",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 386,
+          "known_for_department": "Acting",
+          "name": "Peter Vaughan",
+          "original_name": "Peter Vaughan",
+          "popularity": 1.1913,
+          "profile_path": "/pqblKGyukQmyTbMTAhFG1B2mgFq.jpg",
+          "cast_id": 40,
+          "character": "Policeman",
+          "credit_id": "60dc4f90b458b80046c95d5d",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 247622,
+          "known_for_department": "Acting",
+          "name": "Elizabeth Ercy",
+          "original_name": "Elizabeth Ercy",
+          "popularity": 0.287,
+          "profile_path": "/csE77Z79yXzJPyFJy94lwPeepLy.jpg",
+          "cast_id": 41,
+          "character": "Young French Girl (uncredited)",
+          "credit_id": "630f783ccb8028007d8b8225",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1491168,
+          "known_for_department": "Acting",
+          "name": "James Payne",
+          "original_name": "James Payne",
+          "popularity": 0.3003,
+          "profile_path": null,
+          "cast_id": 42,
+          "character": "German Soldier at Pill Box (uncredited)",
+          "credit_id": "6898d223bff3489cac5d1012",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1793508,
+          "known_for_department": "Acting",
+          "name": "James Chase",
+          "original_name": "James Chase",
+          "popularity": 0.2649,
+          "profile_path": null,
+          "cast_id": 43,
+          "character": "Condemned Soldier",
+          "credit_id": "69fc733b76e3af79eda6486c",
+          "order": 20
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4066,
+          "known_for_department": "Writing",
+          "name": "Carl Foreman",
+          "original_name": "Carl Foreman",
+          "popularity": 0.683,
+          "profile_path": "/fmvUBlEgFdm7lq4VzmZbhdL8n14.jpg",
+          "credit_id": "52fe437cc3a36847f8057ae9",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30922,
+          "known_for_department": "Sound",
+          "name": "Sol Kaplan",
+          "original_name": "Sol Kaplan",
+          "popularity": 0.3712,
+          "profile_path": null,
+          "credit_id": "52fe437cc3a36847f8057b07",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4066,
+          "known_for_department": "Writing",
+          "name": "Carl Foreman",
+          "original_name": "Carl Foreman",
+          "popularity": 0.683,
+          "profile_path": "/fmvUBlEgFdm7lq4VzmZbhdL8n14.jpg",
+          "credit_id": "52fe437cc3a36847f8057af5",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 30921,
+          "known_for_department": "Production",
+          "name": "Harold Buck",
+          "original_name": "Harold Buck",
+          "popularity": 0.0765,
+          "profile_path": null,
+          "credit_id": "52fe437cc3a36847f8057b01",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30923,
+          "known_for_department": "Camera",
+          "name": "Christopher Challis",
+          "original_name": "Christopher Challis",
+          "popularity": 0.2382,
+          "profile_path": null,
+          "credit_id": "52fe437cc3a36847f8057b0d",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30924,
+          "known_for_department": "Editing",
+          "name": "Alan Osbiston",
+          "original_name": "Alan Osbiston",
+          "popularity": 0.2936,
+          "profile_path": null,
+          "credit_id": "52fe437cc3a36847f8057b13",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30920,
+          "known_for_department": "Writing",
+          "name": "Alexander Baron",
+          "original_name": "Alexander Baron",
+          "popularity": 0.4106,
+          "profile_path": "/ahReiKNxNIiapys1R8JdPX1mbrk.jpg",
+          "credit_id": "52fe437cc3a36847f8057aef",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30926,
+          "known_for_department": "Art",
+          "name": "Geoffrey Drake",
+          "original_name": "Geoffrey Drake",
+          "popularity": 0.2308,
+          "profile_path": null,
+          "credit_id": "52fe437cc3a36847f8057b1f",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4066,
+          "known_for_department": "Writing",
+          "name": "Carl Foreman",
+          "original_name": "Carl Foreman",
+          "popularity": 0.683,
+          "profile_path": "/fmvUBlEgFdm7lq4VzmZbhdL8n14.jpg",
+          "credit_id": "52fe437cc3a36847f8057afb",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30925,
+          "known_for_department": "Production",
+          "name": "Barry Gray",
+          "original_name": "Barry Gray",
+          "popularity": 0.0936,
+          "profile_path": null,
+          "credit_id": "52fe437cc3a36847f8057b19",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6608,
+          "known_for_department": "Crew",
+          "name": "Cliff Richardson",
+          "original_name": "Cliff Richardson",
+          "popularity": 0.2445,
+          "profile_path": null,
+          "credit_id": "5788bd729251410bd1000bf3",
+          "department": "Crew",
+          "job": "Special Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 224397,
+          "known_for_department": "Art",
+          "name": "Maurice Fowler",
+          "original_name": "Maurice Fowler",
+          "popularity": 0.3225,
+          "profile_path": null,
+          "credit_id": "5788bd23c3a36817d7000579",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 13494,
+          "known_for_department": "Crew",
+          "name": "Wally Veevers",
+          "original_name": "Wally Veevers",
+          "popularity": 0.3429,
+          "profile_path": null,
+          "credit_id": "5788bd83c3a36818e200042a",
+          "department": "Crew",
+          "job": "Special Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 959727,
+          "known_for_department": "Camera",
+          "name": "Austin Dempster",
+          "original_name": "Austin Dempster",
+          "popularity": 0.3943,
+          "profile_path": null,
+          "credit_id": "5788bd609251411e290004d1",
+          "department": "Camera",
+          "job": "Camera Operator"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1650693,
+          "known_for_department": "Directing",
+          "name": "Joan Davis",
+          "original_name": "Joan Davis",
+          "popularity": 0.2019,
+          "profile_path": null,
+          "credit_id": "5788bd419251411e290004be",
+          "department": "Directing",
+          "job": "Script Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 78172,
+          "known_for_department": "Editing",
+          "name": "Don Deacon",
+          "original_name": "Don Deacon",
+          "popularity": 0.1562,
+          "profile_path": null,
+          "credit_id": "5788bd969251410bd1000c0e",
+          "department": "Editing",
+          "job": "Dialogue Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1560751,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Ernest Gasser",
+          "original_name": "Ernest Gasser",
+          "popularity": 0.3604,
+          "profile_path": null,
+          "credit_id": "5788be40c3a36866f200142f",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 13322,
+          "known_for_department": "Sound",
+          "name": "Buster Ambler",
+          "original_name": "Buster Ambler",
+          "popularity": 0.3086,
+          "profile_path": null,
+          "credit_id": "5788bda7c3a36866f20013db",
+          "department": "Crew",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 255,
+          "known_for_department": "Sound",
+          "name": "Winston Ryder",
+          "original_name": "Winston Ryder",
+          "popularity": 0.2189,
+          "profile_path": null,
+          "credit_id": "5788be059251410bd1000c5c",
+          "department": "Sound",
+          "job": "Sound Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1432524,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Gordon Bond",
+          "original_name": "Gordon Bond",
+          "popularity": 0.209,
+          "profile_path": null,
+          "credit_id": "5788be30c3a3687c85000d01",
+          "department": "Costume & Make-Up",
+          "job": "Hairstylist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 931836,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Wally Schneiderman",
+          "original_name": "Wally Schneiderman",
+          "popularity": 0.2157,
+          "profile_path": null,
+          "credit_id": "5788be51c3a3687c85000d12",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 13323,
+          "known_for_department": "Sound",
+          "name": "Bob Jones",
+          "original_name": "Bob Jones",
+          "popularity": 0.1862,
+          "profile_path": null,
+          "credit_id": "5788bde7c3a36818890004ac",
+          "department": "Crew",
+          "job": "Sound Recordist"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "de",
+              "note": "",
+              "release_date": "1963-11-22T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1963-11-22T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "FR",
+          "title": "Les vainqueurs",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

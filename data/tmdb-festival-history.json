@@ -1,18 +1,303 @@
 {
-  "generatedAt": "2026-11-05T23:22:01.161Z",
+  "generatedAt": "2026-11-14T02:32:26.263Z",
   "coverage": {
-    "total": 134,
-    "queried": 131,
+    "total": 219,
+    "queried": 216,
     "unannounced": 3,
-    "matched": 108,
-    "unmatched": 5,
+    "matched": 165,
+    "unmatched": 30,
     "ambiguous": 0,
-    "needsReview": 18,
+    "needsReview": 21,
     "retained": 0,
-    "withFestivalHistory": 59,
-    "appearances": 145
+    "withFestivalHistory": 84,
+    "appearances": 192
   },
   "films": {
+    "ficvina-2026/cine-chileno/Detrás de la lluvia": [
+      {
+        "festival": "Karlovy Vary",
+        "date": "2026-07-09",
+        "source": "https://www.themoviedb.org/movie/663250/releases"
+      }
+    ],
+    "ficvina-2026/cocaina-negra": [
+      {
+        "festival": "Guadalajara",
+        "date": "2026-04-23",
+        "source": "https://www.themoviedb.org/movie/1660634/releases"
+      }
+    ],
+    "ficvina-2026/el-laberinto-del-fauno": [
+      {
+        "festival": "Cannes",
+        "date": "2006-05-27",
+        "source": "https://www.themoviedb.org/movie/1417/releases"
+      },
+      {
+        "festival": "Toronto",
+        "date": "2006-09-10",
+        "source": "https://www.themoviedb.org/movie/1417/releases"
+      },
+      {
+        "festival": "New York",
+        "date": "2006-10-15",
+        "source": "https://www.themoviedb.org/movie/1417/releases"
+      },
+      {
+        "festival": "Cannes",
+        "date": "2026-05-12",
+        "source": "https://www.themoviedb.org/movie/1417/releases"
+      }
+    ],
+    "ficvina-2026/el-partido": [
+      {
+        "festival": "Cannes",
+        "date": "2026-05-13",
+        "source": "https://www.themoviedb.org/movie/1666712/releases"
+      },
+      {
+        "festival": "Karlovy Vary",
+        "date": "2026-07-03",
+        "source": "https://www.themoviedb.org/movie/1666712/releases"
+      },
+      {
+        "festival": "BFI London",
+        "date": "2026-10-08",
+        "source": "https://www.themoviedb.org/movie/1666712/releases"
+      }
+    ],
+    "ficvina-2026/karmele": [
+      {
+        "festival": "San Sebastián",
+        "date": "2025-09-21",
+        "source": "https://www.themoviedb.org/movie/1495245/releases"
+      }
+    ],
+    "ficvina-2026/la-anatomia-de-los-caballos": [
+      {
+        "festival": "Karlovy Vary",
+        "date": "2025-07-06",
+        "source": "https://www.themoviedb.org/movie/1472990/releases"
+      }
+    ],
+    "ficvina-2026/la-bola-negra": [
+      {
+        "festival": "Cannes",
+        "date": "2026-05-21",
+        "source": "https://www.themoviedb.org/movie/1422041/releases"
+      },
+      {
+        "festival": "Toronto",
+        "date": "2026-09-15",
+        "source": "https://www.themoviedb.org/movie/1422041/releases"
+      },
+      {
+        "festival": "San Sebastián",
+        "date": "2026-09-19",
+        "source": "https://www.themoviedb.org/movie/1422041/releases"
+      },
+      {
+        "festival": "BFI London",
+        "date": "2026-10-08",
+        "source": "https://www.themoviedb.org/movie/1422041/releases"
+      },
+      {
+        "festival": "Busan",
+        "date": "2026-10-10",
+        "source": "https://www.themoviedb.org/movie/1422041/releases"
+      },
+      {
+        "festival": "Cannes",
+        "date": "2026-10-28",
+        "source": "https://www.themoviedb.org/movie/1422041/releases"
+      },
+      {
+        "festival": "Mar del Plata",
+        "date": "2026-11-09",
+        "source": "https://www.themoviedb.org/movie/1422041/releases"
+      }
+    ],
+    "ficvina-2026/la-cordillera-de-los-suenos": [
+      {
+        "festival": "Cannes",
+        "date": "2019-05-17",
+        "source": "https://www.themoviedb.org/movie/582944/releases"
+      },
+      {
+        "festival": "Karlovy Vary",
+        "date": "2019-06-28",
+        "source": "https://www.themoviedb.org/movie/582944/releases"
+      },
+      {
+        "festival": "Toronto",
+        "date": "2019-09-06",
+        "source": "https://www.themoviedb.org/movie/582944/releases"
+      },
+      {
+        "festival": "San Sebastián",
+        "date": "2019-09-20",
+        "source": "https://www.themoviedb.org/movie/582944/releases"
+      },
+      {
+        "festival": "Busan",
+        "date": "2019-10-04",
+        "source": "https://www.themoviedb.org/movie/582944/releases"
+      },
+      {
+        "festival": "BFI London",
+        "date": "2019-10-10",
+        "source": "https://www.themoviedb.org/movie/582944/releases"
+      }
+    ],
+    "ficvina-2026/la-fabulosa-maquina-del-tiempo": [
+      {
+        "festival": "Berlinale",
+        "date": "2026-02-13",
+        "source": "https://www.themoviedb.org/movie/1599779/releases"
+      }
+    ],
+    "ficvina-2026/la-ilusion-de-un-verano-sin-fin": [
+      {
+        "festival": "Locarno",
+        "date": "2026-08-08",
+        "source": "https://www.themoviedb.org/movie/1729643/releases"
+      },
+      {
+        "festival": "San Sebastián",
+        "date": "2026-09-22",
+        "source": "https://www.themoviedb.org/movie/1729643/releases"
+      },
+      {
+        "festival": "IDFA",
+        "date": "2026-11-13",
+        "source": "https://www.themoviedb.org/movie/1729643/releases"
+      }
+    ],
+    "ficvina-2026/la-muerte-no-tiene-dueno": [
+      {
+        "festival": "Cannes",
+        "date": "2026-05-20",
+        "source": "https://www.themoviedb.org/movie/1379747/releases"
+      },
+      {
+        "festival": "Locarno",
+        "date": "2026-08-13",
+        "source": "https://www.themoviedb.org/movie/1379747/releases"
+      }
+    ],
+    "ficvina-2026/la-teta-asustada": [
+      {
+        "festival": "Berlinale",
+        "date": "2009-02-12",
+        "source": "https://www.themoviedb.org/movie/28644/releases"
+      }
+    ],
+    "ficvina-2026/los-vencedores": [
+      {
+        "festival": "Locarno",
+        "date": "2026-08-07",
+        "source": "https://www.themoviedb.org/movie/1661239/releases"
+      }
+    ],
+    "ficvina-2026/mailin": [
+      {
+        "festival": "IDFA",
+        "date": "2025-11-15",
+        "source": "https://www.themoviedb.org/movie/1567783/releases"
+      },
+      {
+        "festival": "Guadalajara",
+        "date": "2026-04-23",
+        "source": "https://www.themoviedb.org/movie/1567783/releases"
+      }
+    ],
+    "ficvina-2026/matapanki": [
+      {
+        "festival": "Valdivia",
+        "date": "2025-10-14",
+        "source": "https://www.themoviedb.org/movie/1475972/releases"
+      },
+      {
+        "festival": "Berlinale",
+        "date": "2026-02-17",
+        "source": "https://www.themoviedb.org/movie/1475972/releases"
+      }
+    ],
+    "ficvina-2026/nunkui": [
+      {
+        "festival": "Guadalajara",
+        "date": "2026-04-21",
+        "source": "https://www.themoviedb.org/movie/1243032/releases"
+      }
+    ],
+    "ficvina-2026/olivia-y-el-terremoto-invisible": [
+      {
+        "festival": "Locarno",
+        "date": "2025-08-10",
+        "source": "https://www.themoviedb.org/movie/676679/releases"
+      }
+    ],
+    "ficvina-2026/pin-de-fartie": [
+      {
+        "festival": "Venecia",
+        "date": "2025-09-03",
+        "source": "https://www.themoviedb.org/movie/1517070/releases"
+      }
+    ],
+    "ficvina-2026/plata-o-mierda": [
+      {
+        "festival": "IDFA",
+        "date": "2025-11-18",
+        "source": "https://www.themoviedb.org/movie/1058543/releases"
+      }
+    ],
+    "ficvina-2026/poblacion-flotante": [
+      {
+        "festival": "Ji.hlava",
+        "date": "2025-10-30",
+        "source": "https://www.themoviedb.org/movie/1578145/releases"
+      }
+    ],
+    "ficvina-2026/pulso-1/Allá en el cielo": [
+      {
+        "festival": "Berlinale",
+        "date": "2026-02-17",
+        "source": "https://www.themoviedb.org/movie/1616197/releases"
+      }
+    ],
+    "ficvina-2026/pulso-2/Baisanos": [
+      {
+        "festival": "Locarno",
+        "date": "2025-08-10",
+        "source": "https://www.themoviedb.org/movie/1508247/releases"
+      }
+    ],
+    "ficvina-2026/sorda": [
+      {
+        "festival": "Berlinale",
+        "date": "2025-02-15",
+        "source": "https://www.themoviedb.org/movie/1303613/releases"
+      },
+      {
+        "festival": "Karlovy Vary",
+        "date": "2025-07-04",
+        "source": "https://www.themoviedb.org/movie/1303613/releases"
+      }
+    ],
+    "ficvina-2026/universos-1/Lodo": [
+      {
+        "festival": "Rotterdam",
+        "date": "2026-01-30",
+        "source": "https://www.themoviedb.org/movie/1603999/releases"
+      }
+    ],
+    "ficvina-2026/universos-2/El Tamagochi escarlata": [
+      {
+        "festival": "Valdivia",
+        "date": "2025-10-15",
+        "source": "https://www.themoviedb.org/movie/1543556/releases"
+      }
+    ],
     "fidocs-2026/aqui-se-escucha-el-silencio": [
       {
         "festival": "Guadalajara",
@@ -858,6 +1143,226 @@
     ]
   },
   "posters": {
+    "ficvina-2026/31-minutos": {
+      "path": "/9kB4DmISmLMsXcNw4I84eNXyO8B.jpg",
+      "source": "https://www.themoviedb.org/movie/36999"
+    },
+    "ficvina-2026/cine-chileno/Detrás de la lluvia": {
+      "path": "/yqQw8IZsTNyNGlMUt63hcCzvoTL.jpg",
+      "source": "https://www.themoviedb.org/movie/663250"
+    },
+    "ficvina-2026/ciudad-jardin": {
+      "path": "/cYg6GvBBznWBpRjD9EDZmNUZOSh.jpg",
+      "source": "https://www.themoviedb.org/movie/1810714"
+    },
+    "ficvina-2026/cocaina-negra": {
+      "path": "/hTZ15X6RHnWKJrqoPihvE7RduOY.jpg",
+      "source": "https://www.themoviedb.org/movie/1660634"
+    },
+    "ficvina-2026/el-coloquio-de-los-pajaros": {
+      "path": "/eB6Ipvk7uqTnPZAPHuzTqAqG2tx.jpg",
+      "source": "https://www.themoviedb.org/movie/1657856"
+    },
+    "ficvina-2026/el-laberinto-del-fauno": {
+      "path": "/gWPkUFGlO7ZIiArUcWRBmvAwVjB.jpg",
+      "source": "https://www.themoviedb.org/movie/1417"
+    },
+    "ficvina-2026/el-partido": {
+      "path": "/e5PVS1QgYS5DxHZeBWTKdxYMyou.jpg",
+      "source": "https://www.themoviedb.org/movie/1666712"
+    },
+    "ficvina-2026/guerra-de-verano": {
+      "path": "/yQNjgH9TfBFGJwNCB3vMxhQQWHG.jpg",
+      "source": "https://www.themoviedb.org/movie/1247058"
+    },
+    "ficvina-2026/habitar-cortos/Caerá el morro y marcharán sus hijos": {
+      "path": "/fmsKRaSJaafULn9gu4f51HwNEws.jpg",
+      "source": "https://www.themoviedb.org/movie/1709895"
+    },
+    "ficvina-2026/habitar-cortos/Norte claro, sur oscuro": {
+      "path": "/yGZhUsuvZjfgqsB5oeYYdXN62XV.jpg",
+      "source": "https://www.themoviedb.org/movie/1794054"
+    },
+    "ficvina-2026/karmele": {
+      "path": "/50frWMPdylqPZ5iMCJBdDmqhdw7.jpg",
+      "source": "https://www.themoviedb.org/movie/1495245"
+    },
+    "ficvina-2026/la-anatomia-de-los-caballos": {
+      "path": "/tHP6StnYXWrMXE23wGPZtoe1RRN.jpg",
+      "source": "https://www.themoviedb.org/movie/1472990"
+    },
+    "ficvina-2026/la-bola-negra": {
+      "path": "/t1azKLExwUxKj6v6m2L535evuRa.jpg",
+      "source": "https://www.themoviedb.org/movie/1422041"
+    },
+    "ficvina-2026/la-cordillera-de-los-suenos": {
+      "path": "/u70b1bC4jVxBznd5nh509vz3rlv.jpg",
+      "source": "https://www.themoviedb.org/movie/582944"
+    },
+    "ficvina-2026/la-fabulosa-maquina-del-tiempo": {
+      "path": "/lxMSgrmj8zlI83njLRRkHiOTpXx.jpg",
+      "source": "https://www.themoviedb.org/movie/1599779"
+    },
+    "ficvina-2026/la-frontera": {
+      "path": "/7Wh2MhzjswMzliPq7lWkOG8JZ65.jpg",
+      "source": "https://www.themoviedb.org/movie/114092"
+    },
+    "ficvina-2026/la-ilusion-de-un-verano-sin-fin": {
+      "path": "/pSTyPDEnDB6OQFDShkKFZzNY5Ve.jpg",
+      "source": "https://www.themoviedb.org/movie/1729643"
+    },
+    "ficvina-2026/la-muerte-no-tiene-dueno": {
+      "path": "/6pztCoqbpdTXnAjRkIUPvSnVMwR.jpg",
+      "source": "https://www.themoviedb.org/movie/1379747"
+    },
+    "ficvina-2026/la-teta-asustada": {
+      "path": "/pjlfAZXBIZLrBK4dcYtX0WWatoo.jpg",
+      "source": "https://www.themoviedb.org/movie/28644"
+    },
+    "ficvina-2026/los-vencedores": {
+      "path": "/hJVeuvHc7xmeYHhCs1iypk6nPy.jpg",
+      "source": "https://www.themoviedb.org/movie/1661239"
+    },
+    "ficvina-2026/mailin": {
+      "path": "/wQpGvh5OAHFH7qC6mTGD68cMArp.jpg",
+      "source": "https://www.themoviedb.org/movie/1567783"
+    },
+    "ficvina-2026/matapanki": {
+      "path": "/1OYfceazvouuk3d0PPcZiSXWXaw.jpg",
+      "source": "https://www.themoviedb.org/movie/1475972"
+    },
+    "ficvina-2026/motel-paraiso": {
+      "path": "/cKeviAP5J26asqeAmPCgBNTZsIo.jpg",
+      "source": "https://www.themoviedb.org/movie/1631783"
+    },
+    "ficvina-2026/nunkui": {
+      "path": "/p61q7EcIjvKpfmd8tXDlDdXCTr8.jpg",
+      "source": "https://www.themoviedb.org/movie/1243032"
+    },
+    "ficvina-2026/ogu-y-mampato": {
+      "path": "/mWil8aIYlDu1VUtdHFqJhM6IqCP.jpg",
+      "source": "https://www.themoviedb.org/movie/38518"
+    },
+    "ficvina-2026/olivia-y-el-terremoto-invisible": {
+      "path": "/m4EG6CPnV6OhtFz9vEgruDzERcD.jpg",
+      "source": "https://www.themoviedb.org/movie/676679"
+    },
+    "ficvina-2026/pin-de-fartie": {
+      "path": "/kuss5iByu7DyB435aJBO4D2xaUs.jpg",
+      "source": "https://www.themoviedb.org/movie/1517070"
+    },
+    "ficvina-2026/plata-o-mierda": {
+      "path": "/3FbxXaRocgaBzDqGEL0PzbvyCTd.jpg",
+      "source": "https://www.themoviedb.org/movie/1058543"
+    },
+    "ficvina-2026/poblacion-flotante": {
+      "path": "/7dsPrg8lWiijpFzKOAWsfi45ltv.jpg",
+      "source": "https://www.themoviedb.org/movie/1578145"
+    },
+    "ficvina-2026/pulso-1/Allá en el cielo": {
+      "path": "/euyXv5b9MLGorqlKZco0UuAvNPA.jpg",
+      "source": "https://www.themoviedb.org/movie/1616197"
+    },
+    "ficvina-2026/pulso-1/Las visitas de Camilo": {
+      "path": "/ecZ6FJzsZMIOOjZ7jIpjDwGGnVv.jpg",
+      "source": "https://www.themoviedb.org/movie/1661234"
+    },
+    "ficvina-2026/pulso-1/Sol menor": {
+      "path": "/dyDNNgnVIaI4MR83kPpoVNCWoVV.jpg",
+      "source": "https://www.themoviedb.org/movie/1500856"
+    },
+    "ficvina-2026/pulso-2/Baisanos": {
+      "path": "/tCv57s06oN3YrNscVVNxdCOcOjZ.jpg",
+      "source": "https://www.themoviedb.org/movie/1508247"
+    },
+    "ficvina-2026/pulso-2/En otra Palestina": {
+      "path": "/eMRPiQcEX4rj3PUYPFVFyvDzmZS.jpg",
+      "source": "https://www.themoviedb.org/movie/1643576"
+    },
+    "ficvina-2026/pulso-2/Ixquic": {
+      "path": "/rGizvYSLdwyvtM4uvwLPnofgE1E.jpg",
+      "source": "https://www.themoviedb.org/movie/1714900"
+    },
+    "ficvina-2026/pulso-2/Miriam": {
+      "path": "/j0O3JEhufj39oZnMOljhAuGzasJ.jpg",
+      "source": "https://www.themoviedb.org/movie/1614760"
+    },
+    "ficvina-2026/pulso-2/Presépio": {
+      "path": "/6iyzA9HcJYerRUOYfi7Z3uxnM1r.jpg",
+      "source": "https://www.themoviedb.org/movie/1543600"
+    },
+    "ficvina-2026/pulso-2/Videoclub 2001": {
+      "path": "/5DNyGLgY5XcyZH1L9PkqFT1cpfT.jpg",
+      "source": "https://www.themoviedb.org/movie/1503361"
+    },
+    "ficvina-2026/relicto": {
+      "path": "/sTTnQtAmxez5p70okxjlTrpowGc.jpg",
+      "source": "https://www.themoviedb.org/movie/1633353"
+    },
+    "ficvina-2026/ruca-1/Me vas a estar esperando": {
+      "path": "/sIvfneRwKFhVverRcjwantFHFaQ.jpg",
+      "source": "https://www.themoviedb.org/movie/1812493"
+    },
+    "ficvina-2026/ruca-2/¿Quién mató a Gaete?": {
+      "path": "/dq3z9bi7ws6CIL7iV0UnLZQERTw.jpg",
+      "source": "https://www.themoviedb.org/movie/1598492"
+    },
+    "ficvina-2026/sorda": {
+      "path": "/hfBwdvdp11wiMqdipxIY4dOzBUC.jpg",
+      "source": "https://www.themoviedb.org/movie/1303613"
+    },
+    "ficvina-2026/tres-tristes-tias": {
+      "path": "/3ELpL6CR6CHvX5h7jZTzyhnYWVc.jpg",
+      "source": "https://www.themoviedb.org/movie/1807652"
+    },
+    "ficvina-2026/universos-1/Lodo": {
+      "path": "/sg1NwJyxHDuzFekZyXbZHK9eEsR.jpg",
+      "source": "https://www.themoviedb.org/movie/1603999"
+    },
+    "ficvina-2026/universos-1/O jardim mágico": {
+      "path": "/jr9LVGnioJPmwnjclixZ6yqqr9Z.jpg",
+      "source": "https://www.themoviedb.org/movie/1475725"
+    },
+    "ficvina-2026/universos-1/Tinku": {
+      "path": "/5JYPOtNA7sQAW06sSaib3EhDXYY.jpg",
+      "source": "https://www.themoviedb.org/movie/1475741"
+    },
+    "ficvina-2026/universos-1/Trabajo hecho": {
+      "path": "/7NSdvPKuaiA82wXVoSyluqvAket.jpg",
+      "source": "https://www.themoviedb.org/movie/1766948"
+    },
+    "ficvina-2026/universos-2/Decaer": {
+      "path": "/vG4HQdPsjfVOBuAN3L2Yea7HdQ4.jpg",
+      "source": "https://www.themoviedb.org/movie/1668881"
+    },
+    "ficvina-2026/universos-2/El cuerpo de Cristo": {
+      "path": "/4cPx42GlQlNusu07CnmMGjarrFU.jpg",
+      "source": "https://www.themoviedb.org/movie/1570967"
+    },
+    "ficvina-2026/universos-2/El Tamagochi escarlata": {
+      "path": "/3HPe585fq3l5p50E3nBr45mxcEu.jpg",
+      "source": "https://www.themoviedb.org/movie/1543556"
+    },
+    "ficvina-2026/universos-2/Emechiché, el renacer de los cabeciblancos": {
+      "path": "/a6MItsvgkatTwGoBzkPdho4OvU5.jpg",
+      "source": "https://www.themoviedb.org/movie/1592964"
+    },
+    "ficvina-2026/universos-2/Mnema": {
+      "path": "/wIrZqXYF5qHeLCgh2xbsPMJK6An.jpg",
+      "source": "https://www.themoviedb.org/movie/1699981"
+    },
+    "ficvina-2026/universos-2/No prendas la luz": {
+      "path": "/i2GWUTCUYUQ2IImbGnudj2ux3Il.jpg",
+      "source": "https://www.themoviedb.org/movie/1689427"
+    },
+    "ficvina-2026/universos-2/Pinchu es así": {
+      "path": "/cseUesl72uE09y06vuiN47WCKCW.jpg",
+      "source": "https://www.themoviedb.org/movie/1676480"
+    },
+    "ficvina-2026/universos-2/TV entreaberta": {
+      "path": "/lunzCoocm6PIiNnRqDJymPeFen9.jpg",
+      "source": "https://www.themoviedb.org/movie/1661195"
+    },
     "fidocs-2026/48": {
       "path": "/7hwhI6NQ28Pewo7hTqAOhDfR60E.jpg",
       "source": "https://www.themoviedb.org/movie/191947"
@@ -1252,6 +1757,3627 @@
     }
   },
   "metadata": {
+    "ficvina-2026/31-minutos": {
+      "tmdbId": 36999,
+      "year": 2008,
+      "source": "https://www.themoviedb.org/movie/36999",
+      "releases": [
+        {
+          "country": "AR",
+          "type": 2,
+          "date": "2018-04-11T00:00:00.000Z",
+          "note": "BAFICI (Buenos Aires Festival Internacional de Cine Independiente)",
+          "certification": ""
+        },
+        {
+          "country": "BR",
+          "type": 3,
+          "date": "2012-08-03T00:00:00.000Z",
+          "note": "",
+          "certification": "L"
+        },
+        {
+          "country": "CL",
+          "type": 2,
+          "date": "2024-02-06T00:00:00.000Z",
+          "note": "Museo La Moneda, Santiago de Chile",
+          "certification": ""
+        },
+        {
+          "country": "CL",
+          "type": 2,
+          "date": "2025-03-29T00:00:00.000Z",
+          "note": "Centro Cultural La Moneda, 35mm restoration",
+          "certification": ""
+        },
+        {
+          "country": "CL",
+          "type": 3,
+          "date": "2008-03-27T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "CL",
+          "type": 4,
+          "date": "2025-12-26T00:00:00.000Z",
+          "note": "Prime Video",
+          "certification": ""
+        },
+        {
+          "country": "CL",
+          "type": 4,
+          "date": "2015-07-03T00:00:00.000Z",
+          "note": "YouTube",
+          "certification": ""
+        },
+        {
+          "country": "MX",
+          "type": 2,
+          "date": "2024-12-10T00:00:00.000Z",
+          "note": "Museo Franz Mayer, Mexico City",
+          "certification": "A"
+        },
+        {
+          "country": "MX",
+          "type": 3,
+          "date": "2009-09-18T00:00:00.000Z",
+          "note": "",
+          "certification": "A"
+        },
+        {
+          "country": "MX",
+          "type": 6,
+          "date": "2011-05-01T00:00:00.000Z",
+          "note": "Canal Once",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 2,
+          "date": "2025-05-03T00:00:00.000Z",
+          "note": "American Cinematheque, Los Angeles",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/cine-chileno/Detrás de la lluvia": {
+      "tmdbId": 663250,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/663250",
+      "releases": [
+        {
+          "country": "CZ",
+          "type": 1,
+          "date": "2026-07-09T00:00:00.000Z",
+          "note": "Karlovy Vary International Film Festival ",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/ciudad-jardin": {
+      "tmdbId": 1810714,
+      "year": null,
+      "source": "https://www.themoviedb.org/movie/1810714",
+      "releases": []
+    },
+    "ficvina-2026/cocaina-negra": {
+      "tmdbId": 1660634,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1660634",
+      "releases": [
+        {
+          "country": "CL",
+          "type": 3,
+          "date": "2026-11-05T00:00:00.000Z",
+          "note": "",
+          "certification": "14"
+        },
+        {
+          "country": "MX",
+          "type": 1,
+          "date": "2026-04-23T00:00:00.000Z",
+          "note": "Guadalajara International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "MX",
+          "type": 1,
+          "date": "2026-11-21T00:00:00.000Z",
+          "note": "Festival Internacional de Cine en Ensenada (FICEns)",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/el-coloquio-de-los-pajaros": {
+      "tmdbId": 1657856,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1657856",
+      "releases": [
+        {
+          "country": "CH",
+          "type": 1,
+          "date": "2026-04-22T00:00:00.000Z",
+          "note": "Visions du Réel",
+          "certification": ""
+        },
+        {
+          "country": "CO",
+          "type": 1,
+          "date": "2026-11-04T00:00:00.000Z",
+          "note": "MIDBO",
+          "certification": ""
+        },
+        {
+          "country": "PE",
+          "type": 1,
+          "date": "2026-08-08T00:00:00.000Z",
+          "note": "Lima Film Festival ",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/el-laberinto-del-fauno": {
+      "tmdbId": 1417,
+      "year": 2006,
+      "source": "https://www.themoviedb.org/movie/1417",
+      "releases": [
+        {
+          "country": "AR",
+          "type": 3,
+          "date": "2007-01-04T00:00:00.000Z",
+          "note": "",
+          "certification": "+13"
+        },
+        {
+          "country": "AT",
+          "type": 3,
+          "date": "2007-02-22T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "AU",
+          "type": 1,
+          "date": "2006-09-06T00:00:00.000Z",
+          "note": "Gold Coast Film Fantastic",
+          "certification": ""
+        },
+        {
+          "country": "AU",
+          "type": 3,
+          "date": "2007-01-18T00:00:00.000Z",
+          "note": "",
+          "certification": "MA 15+"
+        },
+        {
+          "country": "BE",
+          "type": 3,
+          "date": "2006-11-22T00:00:00.000Z",
+          "note": "",
+          "certification": "16"
+        },
+        {
+          "country": "BG",
+          "type": 3,
+          "date": "2007-12-28T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "BR",
+          "type": 1,
+          "date": "2006-09-29T00:00:00.000Z",
+          "note": "Festival of Rio",
+          "certification": ""
+        },
+        {
+          "country": "BR",
+          "type": 3,
+          "date": "2006-12-01T00:00:00.000Z",
+          "note": "",
+          "certification": "16"
+        },
+        {
+          "country": "CA",
+          "type": 1,
+          "date": "2006-09-10T00:00:00.000Z",
+          "note": "Toronto International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CA",
+          "type": 2,
+          "date": "2006-12-29T00:00:00.000Z",
+          "note": "",
+          "certification": "14A"
+        },
+        {
+          "country": "CA",
+          "type": 3,
+          "date": "2007-01-19T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "CL",
+          "type": 3,
+          "date": "2026-10-15T00:00:00.000Z",
+          "note": "Reestreno 20° Aniversario",
+          "certification": "14"
+        },
+        {
+          "country": "CO",
+          "type": 3,
+          "date": "2007-02-23T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "CZ",
+          "type": 3,
+          "date": "2007-08-09T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "DE",
+          "type": 3,
+          "date": "2007-02-22T00:00:00.000Z",
+          "note": "",
+          "certification": "16"
+        },
+        {
+          "country": "DE",
+          "type": 3,
+          "date": "2026-10-06T00:00:00.000Z",
+          "note": "Best of Cinema",
+          "certification": ""
+        },
+        {
+          "country": "DK",
+          "type": 3,
+          "date": "2007-03-09T00:00:00.000Z",
+          "note": "",
+          "certification": "15"
+        },
+        {
+          "country": "DO",
+          "type": 1,
+          "date": "2006-11-10T00:00:00.000Z",
+          "note": "Dominican Republic Global Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "EE",
+          "type": 1,
+          "date": "2006-12-01T00:00:00.000Z",
+          "note": "Tallinn Black Nights Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "EE",
+          "type": 3,
+          "date": "2007-03-23T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "ES",
+          "type": 1,
+          "date": "2006-10-06T00:00:00.000Z",
+          "note": "Sitges Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "ES",
+          "type": 3,
+          "date": "2006-10-11T00:00:00.000Z",
+          "note": "",
+          "certification": "18"
+        },
+        {
+          "country": "FI",
+          "type": 1,
+          "date": "2006-09-21T00:00:00.000Z",
+          "note": "Helsinki International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "FI",
+          "type": 3,
+          "date": "2006-12-29T00:00:00.000Z",
+          "note": "",
+          "certification": "K-16"
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2006-05-27T00:00:00.000Z",
+          "note": "Cannes Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2006-10-26T00:00:00.000Z",
+          "note": "Paris Mon Premier Festival",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-05-12T00:00:00.000Z",
+          "note": "Cannes Film Festival - 4K Restoration ",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 3,
+          "date": "2006-11-01T00:00:00.000Z",
+          "note": "",
+          "certification": "12"
+        },
+        {
+          "country": "FR",
+          "type": 4,
+          "date": "2011-05-05T00:00:00.000Z",
+          "note": "VOD",
+          "certification": "12"
+        },
+        {
+          "country": "FR",
+          "type": 4,
+          "date": "2021-10-22T00:00:00.000Z",
+          "note": "Prime Video",
+          "certification": "12"
+        },
+        {
+          "country": "FR",
+          "type": 5,
+          "date": "2007-07-03T00:00:00.000Z",
+          "note": "DVD",
+          "certification": "12"
+        },
+        {
+          "country": "FR",
+          "type": 5,
+          "date": "2009-04-15T00:00:00.000Z",
+          "note": "Blu-ray",
+          "certification": "12"
+        },
+        {
+          "country": "GB",
+          "type": 1,
+          "date": "2006-08-25T00:00:00.000Z",
+          "note": "London FrightFest Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "GB",
+          "type": 3,
+          "date": "2006-11-24T00:00:00.000Z",
+          "note": "",
+          "certification": "15"
+        },
+        {
+          "country": "GR",
+          "type": 1,
+          "date": "2006-11-24T00:00:00.000Z",
+          "note": "Thessaloniki International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "GR",
+          "type": 3,
+          "date": "2007-02-08T00:00:00.000Z",
+          "note": "",
+          "certification": "Κ-18"
+        },
+        {
+          "country": "GR",
+          "type": 5,
+          "date": "2007-11-08T00:00:00.000Z",
+          "note": "DVD",
+          "certification": ""
+        },
+        {
+          "country": "HK",
+          "type": 3,
+          "date": "2007-03-15T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "HU",
+          "type": 3,
+          "date": "2007-03-08T00:00:00.000Z",
+          "note": "",
+          "certification": "16"
+        },
+        {
+          "country": "ID",
+          "type": 2,
+          "date": "2006-12-12T00:00:00.000Z",
+          "note": "Jakarta International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "IE",
+          "type": 1,
+          "date": "2006-10-29T00:00:00.000Z",
+          "note": "Horrorthon Festival Dublin",
+          "certification": ""
+        },
+        {
+          "country": "IE",
+          "type": 3,
+          "date": "2006-11-24T00:00:00.000Z",
+          "note": "",
+          "certification": "18"
+        },
+        {
+          "country": "IL",
+          "type": 3,
+          "date": "2007-03-15T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "IS",
+          "type": 3,
+          "date": "2007-02-09T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "IT",
+          "type": 3,
+          "date": "2006-11-24T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "JP",
+          "type": 3,
+          "date": "2007-10-06T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "KR",
+          "type": 3,
+          "date": "2006-11-30T00:00:00.000Z",
+          "note": "",
+          "certification": "15"
+        },
+        {
+          "country": "KZ",
+          "type": 3,
+          "date": "2006-12-15T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "LT",
+          "type": 3,
+          "date": "2009-08-11T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "LT",
+          "type": 3,
+          "date": "2007-01-19T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "LV",
+          "type": 3,
+          "date": "2007-03-23T00:00:00.000Z",
+          "note": "",
+          "certification": "16+"
+        },
+        {
+          "country": "MX",
+          "type": 3,
+          "date": "2006-10-20T00:00:00.000Z",
+          "note": "",
+          "certification": "C"
+        },
+        {
+          "country": "MX",
+          "type": 3,
+          "date": "2026-10-15T00:00:00.000Z",
+          "note": "Reestreno 20° Aniversario",
+          "certification": "B-15"
+        },
+        {
+          "country": "MY",
+          "type": 3,
+          "date": "2007-03-15T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "NL",
+          "type": 1,
+          "date": "2007-04-25T00:00:00.000Z",
+          "note": "Amsterdam Fantastic Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "NL",
+          "type": 3,
+          "date": "2007-04-26T00:00:00.000Z",
+          "note": "",
+          "certification": "16"
+        },
+        {
+          "country": "NL",
+          "type": 5,
+          "date": "2008-08-21T00:00:00.000Z",
+          "note": "DVD",
+          "certification": "16"
+        },
+        {
+          "country": "NL",
+          "type": 5,
+          "date": "2011-02-28T00:00:00.000Z",
+          "note": "Blu-ray",
+          "certification": "16"
+        },
+        {
+          "country": "NL",
+          "type": 6,
+          "date": "2011-11-23T00:00:00.000Z",
+          "note": "RTL 7",
+          "certification": "16"
+        },
+        {
+          "country": "NO",
+          "type": 1,
+          "date": "2006-11-16T00:00:00.000Z",
+          "note": "Oslo International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "NO",
+          "type": 3,
+          "date": "2007-01-05T00:00:00.000Z",
+          "note": "",
+          "certification": "15"
+        },
+        {
+          "country": "PA",
+          "type": 3,
+          "date": "2007-02-23T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "PH",
+          "type": 1,
+          "date": "2007-06-06T00:00:00.000Z",
+          "note": "Davao",
+          "certification": ""
+        },
+        {
+          "country": "PH",
+          "type": 1,
+          "date": "2007-04-25T00:00:00.000Z",
+          "note": "Manila",
+          "certification": ""
+        },
+        {
+          "country": "PL",
+          "type": 3,
+          "date": "2007-03-30T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "PT",
+          "type": 1,
+          "date": "2007-02-23T00:00:00.000Z",
+          "note": "Fantasporto Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "PT",
+          "type": 3,
+          "date": "2007-03-01T00:00:00.000Z",
+          "note": "",
+          "certification": "M/16"
+        },
+        {
+          "country": "RO",
+          "type": 3,
+          "date": "2007-03-23T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "RS",
+          "type": 3,
+          "date": "2006-11-04T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "RU",
+          "type": 3,
+          "date": "2006-11-30T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "SE",
+          "type": 3,
+          "date": "2007-02-09T00:00:00.000Z",
+          "note": "",
+          "certification": "15"
+        },
+        {
+          "country": "SE",
+          "type": 5,
+          "date": "2007-09-05T00:00:00.000Z",
+          "note": "DVD",
+          "certification": "15"
+        },
+        {
+          "country": "SE",
+          "type": 5,
+          "date": "2008-12-10T00:00:00.000Z",
+          "note": "Blu-ray",
+          "certification": "15"
+        },
+        {
+          "country": "SG",
+          "type": 3,
+          "date": "2006-11-30T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "SI",
+          "type": 3,
+          "date": "2007-05-17T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "SK",
+          "type": 3,
+          "date": "2008-01-10T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "TR",
+          "type": 3,
+          "date": "2007-04-06T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "TW",
+          "type": 1,
+          "date": "2006-11-12T00:00:00.000Z",
+          "note": "Taipei Golden Horse Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "TW",
+          "type": 3,
+          "date": "2020-04-01T00:00:00.000Z",
+          "note": "Re-release",
+          "certification": "12+"
+        },
+        {
+          "country": "TW",
+          "type": 3,
+          "date": "2007-04-27T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "UA",
+          "type": 3,
+          "date": "2006-11-30T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2006-10-15T00:00:00.000Z",
+          "note": "New York Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2007-01-17T00:00:00.000Z",
+          "note": "Atlanta, Georgia",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2006-12-18T00:00:00.000Z",
+          "note": "Los Angeles, California",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 2,
+          "date": "2006-12-29T00:00:00.000Z",
+          "note": "",
+          "certification": "R"
+        },
+        {
+          "country": "US",
+          "type": 2,
+          "date": "2026-10-09T00:00:00.000Z",
+          "note": "20th Anniversary Re-release",
+          "certification": "R"
+        },
+        {
+          "country": "US",
+          "type": 3,
+          "date": "2007-01-19T00:00:00.000Z",
+          "note": "",
+          "certification": "R"
+        },
+        {
+          "country": "UY",
+          "type": 1,
+          "date": "2006-10-20T00:00:00.000Z",
+          "note": "Festival de Cine de Montevideo",
+          "certification": ""
+        },
+        {
+          "country": "UY",
+          "type": 3,
+          "date": "2007-01-18T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "VE",
+          "type": 1,
+          "date": "2007-02-16T00:00:00.000Z",
+          "note": "Caracas",
+          "certification": ""
+        },
+        {
+          "country": "VE",
+          "type": 3,
+          "date": "2007-02-23T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/el-partido": {
+      "tmdbId": 1666712,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1666712",
+      "releases": [
+        {
+          "country": "AE",
+          "type": 3,
+          "date": "2026-07-16T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "AR",
+          "type": 3,
+          "date": "2026-05-21T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "AU",
+          "type": 1,
+          "date": "2026-06-09T00:00:00.000Z",
+          "note": "Sydney Film Festival ",
+          "certification": ""
+        },
+        {
+          "country": "AU",
+          "type": 1,
+          "date": "2026-08-14T00:00:00.000Z",
+          "note": "Melbourne International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "AU",
+          "type": 1,
+          "date": "2026-10-29T00:00:00.000Z",
+          "note": "Russell Hobbs British Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "BE",
+          "type": 1,
+          "date": "2026-10-08T00:00:00.000Z",
+          "note": "Film Fest Gent",
+          "certification": ""
+        },
+        {
+          "country": "BH",
+          "type": 3,
+          "date": "2026-07-16T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "CH",
+          "type": 1,
+          "date": "2026-09-24T00:00:00.000Z",
+          "note": "Zurich Film Festival ",
+          "certification": ""
+        },
+        {
+          "country": "CZ",
+          "type": 1,
+          "date": "2026-07-03T00:00:00.000Z",
+          "note": "Karlovy Vary International Film Festival ",
+          "certification": ""
+        },
+        {
+          "country": "CZ",
+          "type": 3,
+          "date": "2026-09-03T00:00:00.000Z",
+          "note": "",
+          "certification": "U"
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-05-13T00:00:00.000Z",
+          "note": "Cannes Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "GB",
+          "type": 1,
+          "date": "2026-10-08T00:00:00.000Z",
+          "note": "\tBFI London Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "GR",
+          "type": 3,
+          "date": "2026-09-10T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "HU",
+          "type": 1,
+          "date": "2026-10-25T00:00:00.000Z",
+          "note": "Budapest International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "IL",
+          "type": 1,
+          "date": "2026-09-26T00:00:00.000Z",
+          "note": "Haifa International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "JP",
+          "type": 1,
+          "date": "2026-10-28T00:00:00.000Z",
+          "note": "Tokyo International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "NL",
+          "type": 3,
+          "date": "2026-09-17T00:00:00.000Z",
+          "note": "",
+          "certification": "12"
+        },
+        {
+          "country": "QA",
+          "type": 3,
+          "date": "2026-07-23T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "SE",
+          "type": 3,
+          "date": "2026-06-26T00:00:00.000Z",
+          "note": "",
+          "certification": "7"
+        },
+        {
+          "country": "UY",
+          "type": 3,
+          "date": "2026-05-28T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/guerra-de-verano": {
+      "tmdbId": 1247058,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1247058",
+      "releases": [
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-06-07T00:00:00.000Z",
+          "note": "Tribeca Film Festival ",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/habitar-cortos/Caerá el morro y marcharán sus hijos": {
+      "tmdbId": 1709895,
+      "year": null,
+      "source": "https://www.themoviedb.org/movie/1709895",
+      "releases": []
+    },
+    "ficvina-2026/habitar-cortos/La ofrenda": {
+      "tmdbId": 1808382,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1808382",
+      "releases": [
+        {
+          "country": "CL",
+          "type": 1,
+          "date": "2026-08-24T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/habitar-cortos/Norte claro, sur oscuro": {
+      "tmdbId": 1794054,
+      "year": null,
+      "source": "https://www.themoviedb.org/movie/1794054",
+      "releases": []
+    },
+    "ficvina-2026/karmele": {
+      "tmdbId": 1495245,
+      "year": 2025,
+      "source": "https://www.themoviedb.org/movie/1495245",
+      "releases": [
+        {
+          "country": "AU",
+          "type": 1,
+          "date": "2026-06-13T00:00:00.000Z",
+          "note": "HSBC Spanish & Latin American Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "ES",
+          "type": 1,
+          "date": "2025-09-21T00:00:00.000Z",
+          "note": "San Sebastián International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "ES",
+          "type": 3,
+          "date": "2025-10-10T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 3,
+          "date": "2025-11-19T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/la-anatomia-de-los-caballos": {
+      "tmdbId": 1472990,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1472990",
+      "releases": [
+        {
+          "country": "CZ",
+          "type": 1,
+          "date": "2025-07-06T00:00:00.000Z",
+          "note": "Karlovy Vary International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "IT",
+          "type": 1,
+          "date": "2025-11-24T00:00:00.000Z",
+          "note": "Torino Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "PE",
+          "type": 3,
+          "date": "2026-11-26T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/la-bola-negra": {
+      "tmdbId": 1422041,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1422041",
+      "releases": [
+        {
+          "country": "AR",
+          "type": 1,
+          "date": "2026-11-09T00:00:00.000Z",
+          "note": "Mar del Plata International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "AR",
+          "type": 3,
+          "date": "2027-01-21T00:00:00.000Z",
+          "note": "",
+          "certification": "+16"
+        },
+        {
+          "country": "AU",
+          "type": 1,
+          "date": "2026-06-12T00:00:00.000Z",
+          "note": "Sydney Film Festival ",
+          "certification": ""
+        },
+        {
+          "country": "AU",
+          "type": 1,
+          "date": "2026-08-08T00:00:00.000Z",
+          "note": "New Farm Queer Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "AU",
+          "type": 1,
+          "date": "2026-08-09T00:00:00.000Z",
+          "note": "Melbourne International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "AU",
+          "type": 1,
+          "date": "2026-09-05T00:00:00.000Z",
+          "note": "Queer Screen Film Fest",
+          "certification": ""
+        },
+        {
+          "country": "AU",
+          "type": 1,
+          "date": "2026-09-20T00:00:00.000Z",
+          "note": "Darwin International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "AU",
+          "type": 3,
+          "date": "2026-10-15T00:00:00.000Z",
+          "note": "",
+          "certification": "MA 15+"
+        },
+        {
+          "country": "BE",
+          "type": 1,
+          "date": "2026-10-12T00:00:00.000Z",
+          "note": "Film Fest Gent",
+          "certification": ""
+        },
+        {
+          "country": "BE",
+          "type": 1,
+          "date": "2026-10-29T00:00:00.000Z",
+          "note": "Pink Screens Festival",
+          "certification": ""
+        },
+        {
+          "country": "BE",
+          "type": 3,
+          "date": "2026-12-16T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "BG",
+          "type": 1,
+          "date": "2026-10-19T00:00:00.000Z",
+          "note": "Cinelibri Film-Literature Festival",
+          "certification": ""
+        },
+        {
+          "country": "BR",
+          "type": 1,
+          "date": "2026-10-01T00:00:00.000Z",
+          "note": "Rio de Janeiro International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "BR",
+          "type": 3,
+          "date": "2027-01-21T00:00:00.000Z",
+          "note": "",
+          "certification": "16"
+        },
+        {
+          "country": "CA",
+          "type": 1,
+          "date": "2026-09-15T00:00:00.000Z",
+          "note": "Toronto International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CA",
+          "type": 1,
+          "date": "2026-10-09T00:00:00.000Z",
+          "note": "Vancouver International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CA",
+          "type": 1,
+          "date": "2026-10-11T00:00:00.000Z",
+          "note": "Festival du Nouveau Cinéma",
+          "certification": ""
+        },
+        {
+          "country": "CA",
+          "type": 1,
+          "date": "2026-11-06T00:00:00.000Z",
+          "note": "Windsor International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CA",
+          "type": 2,
+          "date": "2026-10-23T00:00:00.000Z",
+          "note": "Toronto, Ontario",
+          "certification": "14A"
+        },
+        {
+          "country": "CA",
+          "type": 2,
+          "date": "2026-10-30T00:00:00.000Z",
+          "note": "Vancouver, British Columbia / Montreal, Quebec",
+          "certification": "14A"
+        },
+        {
+          "country": "CA",
+          "type": 3,
+          "date": "2026-11-06T00:00:00.000Z",
+          "note": "",
+          "certification": "14A"
+        },
+        {
+          "country": "CA",
+          "type": 4,
+          "date": "2026-12-02T00:00:00.000Z",
+          "note": "Netflix",
+          "certification": "14A"
+        },
+        {
+          "country": "CH",
+          "type": 1,
+          "date": "2026-09-24T00:00:00.000Z",
+          "note": "Zurich Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CH",
+          "type": 1,
+          "date": "2026-11-01T00:00:00.000Z",
+          "note": "Geneva International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CH",
+          "type": 1,
+          "date": "2026-11-07T00:00:00.000Z",
+          "note": "Queersicht LGBTIAQ+ Filmfestival",
+          "certification": ""
+        },
+        {
+          "country": "CL",
+          "type": 1,
+          "date": "2026-11-28T00:00:00.000Z",
+          "note": "Viña del Mar International Film Festival ",
+          "certification": ""
+        },
+        {
+          "country": "CL",
+          "type": 2,
+          "date": "2026-11-28T00:00:00.000Z",
+          "note": "FICVIÑA26",
+          "certification": "18"
+        },
+        {
+          "country": "CL",
+          "type": 3,
+          "date": "2027-01-21T00:00:00.000Z",
+          "note": "",
+          "certification": "14"
+        },
+        {
+          "country": "CO",
+          "type": 1,
+          "date": "2026-10-10T00:00:00.000Z",
+          "note": "Bogota International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CO",
+          "type": 1,
+          "date": "2026-10-31T00:00:00.000Z",
+          "note": "30 Salón Audiovisual ",
+          "certification": ""
+        },
+        {
+          "country": "CO",
+          "type": 1,
+          "date": "2026-10-24T00:00:00.000Z",
+          "note": "Cali International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CO",
+          "type": 3,
+          "date": "2027-01-14T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "DE",
+          "type": 1,
+          "date": "2026-09-27T00:00:00.000Z",
+          "note": "Filmfest Hamburg ",
+          "certification": ""
+        },
+        {
+          "country": "DE",
+          "type": 1,
+          "date": "2026-10-30T00:00:00.000Z",
+          "note": "Film Festival Cologne",
+          "certification": ""
+        },
+        {
+          "country": "DE",
+          "type": 1,
+          "date": "2026-11-14T00:00:00.000Z",
+          "note": "Mannheim-Heidelberg International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "DE",
+          "type": 3,
+          "date": "2026-11-19T00:00:00.000Z",
+          "note": "",
+          "certification": "16"
+        },
+        {
+          "country": "EE",
+          "type": 1,
+          "date": "2026-11-07T00:00:00.000Z",
+          "note": "Tallinn Black Nights Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "ES",
+          "type": 1,
+          "date": "2026-09-19T00:00:00.000Z",
+          "note": "San Sebastian International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "ES",
+          "type": 1,
+          "date": "2026-10-31T00:00:00.000Z",
+          "note": "International Social Film Festival of Catalonia",
+          "certification": ""
+        },
+        {
+          "country": "ES",
+          "type": 1,
+          "date": "2026-11-10T00:00:00.000Z",
+          "note": "Sevilla European Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "ES",
+          "type": 3,
+          "date": "2026-09-25T00:00:00.000Z",
+          "note": "",
+          "certification": "16"
+        },
+        {
+          "country": "FI",
+          "type": 1,
+          "date": "2026-09-17T00:00:00.000Z",
+          "note": "Helsinki International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "FI",
+          "type": 3,
+          "date": "2026-11-20T00:00:00.000Z",
+          "note": "",
+          "certification": "K-16"
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-05-21T00:00:00.000Z",
+          "note": "Cannes Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-06-25T00:00:00.000Z",
+          "note": "Biarritz Film Festival - Nouvelles Vagues ",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-10-02T00:00:00.000Z",
+          "note": "Festival Ciné32 Indépendance(s) et Création / Cinespaña Festival",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-10-13T00:00:00.000Z",
+          "note": "Grand Lyon Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-10-10T00:00:00.000Z",
+          "note": "War on Screen International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-10-22T00:00:00.000Z",
+          "note": "Montpellier International Mediterranean Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-11-02T00:00:00.000Z",
+          "note": "Bordeaux International Independent Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-11-04T00:00:00.000Z",
+          "note": "Festival du Film de Sarlat",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-11-14T00:00:00.000Z",
+          "note": "Festival Écran Total",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-11-11T00:00:00.000Z",
+          "note": "Arras Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-11-19T00:00:00.000Z",
+          "note": "Festival International du Film d'Histoire de Pessac",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-09-23T00:00:00.000Z",
+          "note": "De l'Écrit à l'Écran Festival",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-11-24T00:00:00.000Z",
+          "note": "Festival Chéries Chéris",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 3,
+          "date": "2026-12-16T00:00:00.000Z",
+          "note": "",
+          "certification": "16"
+        },
+        {
+          "country": "GB",
+          "type": 1,
+          "date": "2026-10-08T00:00:00.000Z",
+          "note": "BFI London Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "GB",
+          "type": 1,
+          "date": "2026-11-01T00:00:00.000Z",
+          "note": "Leeds International Film Festival / Cheltenham Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "GB",
+          "type": 1,
+          "date": "2026-10-26T00:00:00.000Z",
+          "note": "Cambridge Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "GB",
+          "type": 1,
+          "date": "2026-11-11T00:00:00.000Z",
+          "note": "French Film Festival UK",
+          "certification": ""
+        },
+        {
+          "country": "GB",
+          "type": 1,
+          "date": "2026-11-17T00:00:00.000Z",
+          "note": "Cornwall Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "GB",
+          "type": 3,
+          "date": "2026-11-06T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "GR",
+          "type": 1,
+          "date": "2026-11-06T00:00:00.000Z",
+          "note": "Thessaloniki International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "HK",
+          "type": 1,
+          "date": "2026-10-19T00:00:00.000Z",
+          "note": "bc30",
+          "certification": ""
+        },
+        {
+          "country": "HK",
+          "type": 3,
+          "date": "2026-11-05T00:00:00.000Z",
+          "note": "",
+          "certification": "IIB"
+        },
+        {
+          "country": "HU",
+          "type": 1,
+          "date": "2026-10-30T00:00:00.000Z",
+          "note": "Budapest International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "ID",
+          "type": 1,
+          "date": "2026-11-01T00:00:00.000Z",
+          "note": "Jakarta World Cinema",
+          "certification": ""
+        },
+        {
+          "country": "IE",
+          "type": 3,
+          "date": "2026-11-06T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "IL",
+          "type": 1,
+          "date": "2026-07-10T00:00:00.000Z",
+          "note": "Jerusalem Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "IL",
+          "type": 1,
+          "date": "2026-09-27T00:00:00.000Z",
+          "note": "Haifa Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "IT",
+          "type": 1,
+          "date": "2026-10-23T00:00:00.000Z",
+          "note": "Rome Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "IT",
+          "type": 3,
+          "date": "2027-01-14T00:00:00.000Z",
+          "note": "",
+          "certification": "14+"
+        },
+        {
+          "country": "JP",
+          "type": 1,
+          "date": "2026-10-31T00:00:00.000Z",
+          "note": "Tokyo International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "KR",
+          "type": 1,
+          "date": "2026-10-10T00:00:00.000Z",
+          "note": "Busan International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "KR",
+          "type": 1,
+          "date": "2026-11-05T00:00:00.000Z",
+          "note": "Seoul International Pride Film Festival ",
+          "certification": ""
+        },
+        {
+          "country": "LT",
+          "type": 1,
+          "date": "2026-10-02T00:00:00.000Z",
+          "note": "Lokys, liūtas ir šakelė",
+          "certification": ""
+        },
+        {
+          "country": "MX",
+          "type": 1,
+          "date": "2026-10-18T00:00:00.000Z",
+          "note": "Morelia International Film Festival ",
+          "certification": ""
+        },
+        {
+          "country": "NL",
+          "type": 1,
+          "date": "2026-10-08T00:00:00.000Z",
+          "note": "Leiden International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "NL",
+          "type": 1,
+          "date": "2026-10-13T00:00:00.000Z",
+          "note": "KINO Super Sneak Preview",
+          "certification": ""
+        },
+        {
+          "country": "NL",
+          "type": 3,
+          "date": "2027-01-07T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "NO",
+          "type": 3,
+          "date": "2027-02-05T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "NZ",
+          "type": 1,
+          "date": "2026-08-01T00:00:00.000Z",
+          "note": "New Zealand International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "NZ",
+          "type": 2,
+          "date": "2026-10-15T00:00:00.000Z",
+          "note": "",
+          "certification": "M"
+        },
+        {
+          "country": "PL",
+          "type": 1,
+          "date": "2026-07-25T00:00:00.000Z",
+          "note": "TAURON New Horizons International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "PL",
+          "type": 1,
+          "date": "2026-08-07T00:00:00.000Z",
+          "note": "BNP Paribas Two Riversides Film and Art Festival",
+          "certification": ""
+        },
+        {
+          "country": "PL",
+          "type": 1,
+          "date": "2026-10-13T00:00:00.000Z",
+          "note": "All About Freedom Festival",
+          "certification": ""
+        },
+        {
+          "country": "PL",
+          "type": 1,
+          "date": "2026-11-12T00:00:00.000Z",
+          "note": "ToruńCAMERIMAGE",
+          "certification": ""
+        },
+        {
+          "country": "PR",
+          "type": 2,
+          "date": "2026-11-05T00:00:00.000Z",
+          "note": "",
+          "certification": "R"
+        },
+        {
+          "country": "RO",
+          "type": 1,
+          "date": "2026-10-28T00:00:00.000Z",
+          "note": "Les Films de Cannes à Bucarest",
+          "certification": ""
+        },
+        {
+          "country": "RS",
+          "type": 1,
+          "date": "2026-11-21T00:00:00.000Z",
+          "note": "Belgrade Auteur Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "RS",
+          "type": 3,
+          "date": "2026-12-10T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "SG",
+          "type": 1,
+          "date": "2026-10-25T00:00:00.000Z",
+          "note": "Singapore International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "TH",
+          "type": 1,
+          "date": "2026-09-25T00:00:00.000Z",
+          "note": "Bangkok International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "TH",
+          "type": 1,
+          "date": "2026-10-12T00:00:00.000Z",
+          "note": "Bangkok",
+          "certification": ""
+        },
+        {
+          "country": "TH",
+          "type": 3,
+          "date": "2026-10-15T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "TW",
+          "type": 1,
+          "date": "2026-10-17T00:00:00.000Z",
+          "note": "Kaohsiung Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "TW",
+          "type": 3,
+          "date": "2026-11-20T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "UA",
+          "type": 1,
+          "date": "2026-09-25T00:00:00.000Z",
+          "note": "Spanish Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-09-17T00:00:00.000Z",
+          "note": "Reeling - The Chicago LGBTQ+ International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-09-05T00:00:00.000Z",
+          "note": "Telluride Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-10-15T00:00:00.000Z",
+          "note": "NewFest / San Diego International Film Festival / OUTshine LGBTQ+ Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-10-04T00:00:00.000Z",
+          "note": "Mill Valley Film Festival / CineFest Latino Boston Film Festival / Out On Film: Atlanta's LGBTQ+ Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-10-10T00:00:00.000Z",
+          "note": "Hamptons International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-10-17T00:00:00.000Z",
+          "note": "Heartland Film Festival / Montclair Film Festival / Philadelphia Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-10-07T00:00:00.000Z",
+          "note": "MSP Cine Latino Film Festival / Bend Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-10-18T00:00:00.000Z",
+          "note": "Newport Beach Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-10-23T00:00:00.000Z",
+          "note": "Twin Cities Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-10-14T00:00:00.000Z",
+          "note": "Orcas Island Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-10-16T00:00:00.000Z",
+          "note": "Santa Fe International Film Festival / Middleburg Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-10-30T00:00:00.000Z",
+          "note": "Hawai'i International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-10-24T00:00:00.000Z",
+          "note": "Virginia Film Festival / Refocus Film Festival / SCAD Savannah Film Festival / New Orleans Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-10-26T00:00:00.000Z",
+          "note": "Denver Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-11-01T00:00:00.000Z",
+          "note": "Miami Film Festival GEMS",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-11-02T00:00:00.000Z",
+          "note": "Centre Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 2,
+          "date": "2026-10-16T00:00:00.000Z",
+          "note": "Los Angeles, California / New York City, New York",
+          "certification": "R"
+        },
+        {
+          "country": "US",
+          "type": 2,
+          "date": "2026-10-30T00:00:00.000Z",
+          "note": "Limited expansion",
+          "certification": "R"
+        },
+        {
+          "country": "US",
+          "type": 3,
+          "date": "2026-11-06T00:00:00.000Z",
+          "note": "",
+          "certification": "R"
+        },
+        {
+          "country": "US",
+          "type": 4,
+          "date": "2026-12-02T00:00:00.000Z",
+          "note": "Netflix",
+          "certification": "R"
+        },
+        {
+          "country": "UY",
+          "type": 3,
+          "date": "2027-01-07T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/la-cordillera-de-los-suenos": {
+      "tmdbId": 582944,
+      "year": 2019,
+      "source": "https://www.themoviedb.org/movie/582944",
+      "releases": [
+        {
+          "country": "CA",
+          "type": 1,
+          "date": "2019-09-06T00:00:00.000Z",
+          "note": "Toronto International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CZ",
+          "type": 1,
+          "date": "2019-06-28T00:00:00.000Z",
+          "note": "Karlovy Vary International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "DE",
+          "type": 1,
+          "date": "2019-06-29T00:00:00.000Z",
+          "note": "Munich International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "ES",
+          "type": 1,
+          "date": "2019-09-20T00:00:00.000Z",
+          "note": "San Sebastián International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2019-05-17T00:00:00.000Z",
+          "note": "Cannes Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 3,
+          "date": "2019-10-30T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "GB",
+          "type": 1,
+          "date": "2019-10-10T00:00:00.000Z",
+          "note": "BFI London Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "GB",
+          "type": 3,
+          "date": "2022-10-07T00:00:00.000Z",
+          "note": "",
+          "certification": "12A"
+        },
+        {
+          "country": "GR",
+          "type": 3,
+          "date": "2019-10-10T00:00:00.000Z",
+          "note": "",
+          "certification": "K"
+        },
+        {
+          "country": "JP",
+          "type": 4,
+          "date": "2021-10-09T00:00:00.000Z",
+          "note": "",
+          "certification": "G"
+        },
+        {
+          "country": "KR",
+          "type": 1,
+          "date": "2019-10-04T00:00:00.000Z",
+          "note": "Busan International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "NL",
+          "type": 1,
+          "date": "2019-10-10T00:00:00.000Z",
+          "note": "",
+          "certification": "12"
+        },
+        {
+          "country": "SE",
+          "type": 3,
+          "date": "2020-01-03T00:00:00.000Z",
+          "note": "",
+          "certification": "11"
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2019-10-20T00:00:00.000Z",
+          "note": "Chicago International Film Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/la-fabulosa-maquina-del-tiempo": {
+      "tmdbId": 1599779,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1599779",
+      "releases": [
+        {
+          "country": "BR",
+          "type": 1,
+          "date": "2026-04-10T00:00:00.000Z",
+          "note": "It's All True – International Documentary Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "BR",
+          "type": 3,
+          "date": "2026-07-30T00:00:00.000Z",
+          "note": "",
+          "certification": "12"
+        },
+        {
+          "country": "DE",
+          "type": 1,
+          "date": "2026-02-13T00:00:00.000Z",
+          "note": "Berlin International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "UY",
+          "type": 1,
+          "date": "2026-04-05T00:00:00.000Z",
+          "note": "44th Uruguay International Film Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/la-frontera": {
+      "tmdbId": 114092,
+      "year": 1991,
+      "source": "https://www.themoviedb.org/movie/114092",
+      "releases": [
+        {
+          "country": "CL",
+          "type": 3,
+          "date": "1991-10-25T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "GB",
+          "type": 3,
+          "date": "1995-04-21T00:00:00.000Z",
+          "note": "",
+          "certification": "15"
+        }
+      ]
+    },
+    "ficvina-2026/la-ilusion-de-un-verano-sin-fin": {
+      "tmdbId": 1729643,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1729643",
+      "releases": [
+        {
+          "country": "BR",
+          "type": 1,
+          "date": "2026-10-01T00:00:00.000Z",
+          "note": "Rio de Janeiro International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CA",
+          "type": 1,
+          "date": "2026-10-12T00:00:00.000Z",
+          "note": "Festival du Nouveau Cinéma",
+          "certification": ""
+        },
+        {
+          "country": "CH",
+          "type": 1,
+          "date": "2026-08-08T00:00:00.000Z",
+          "note": "Locarno Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "ES",
+          "type": 1,
+          "date": "2026-09-22T00:00:00.000Z",
+          "note": "San Sebastián Internacional Film Festival ",
+          "certification": ""
+        },
+        {
+          "country": "GB",
+          "type": 1,
+          "date": "2026-11-04T00:00:00.000Z",
+          "note": "Leeds International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "NL",
+          "type": 1,
+          "date": "2026-11-13T00:00:00.000Z",
+          "note": "IDFA International Documentary Film Festival Amsterdam",
+          "certification": ""
+        },
+        {
+          "country": "PH",
+          "type": 1,
+          "date": "2026-11-13T00:00:00.000Z",
+          "note": "QCinema International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-09-05T00:00:00.000Z",
+          "note": "Telluride Film Festival ",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-09-17T00:00:00.000Z",
+          "note": "Camden International Film Festival ",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-10-06T00:00:00.000Z",
+          "note": "Mill Valley Film Festival ",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/la-muerte-no-tiene-dueno": {
+      "tmdbId": 1379747,
+      "year": 2027,
+      "source": "https://www.themoviedb.org/movie/1379747",
+      "releases": [
+        {
+          "country": "BR",
+          "type": 1,
+          "date": "2026-10-22T00:00:00.000Z",
+          "note": "São Paulo International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CA",
+          "type": 1,
+          "date": "2026-10-09T00:00:00.000Z",
+          "note": "Vancouver International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CH",
+          "type": 1,
+          "date": "2026-08-13T00:00:00.000Z",
+          "note": "Locarno Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "DE",
+          "type": 3,
+          "date": "2027-03-25T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-05-20T00:00:00.000Z",
+          "note": "Cannes Directors' Fortnight",
+          "certification": ""
+        },
+        {
+          "country": "ID",
+          "type": 1,
+          "date": "2026-11-05T00:00:00.000Z",
+          "note": "Jakarta World Cinema",
+          "certification": ""
+        },
+        {
+          "country": "IT",
+          "type": 1,
+          "date": "2026-11-28T00:00:00.000Z",
+          "note": "Torino Film Festival ",
+          "certification": ""
+        },
+        {
+          "country": "PE",
+          "type": 1,
+          "date": "2026-08-07T00:00:00.000Z",
+          "note": "Lima International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "PL",
+          "type": 1,
+          "date": "2026-07-25T00:00:00.000Z",
+          "note": "TAURON New Horizons International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "RU",
+          "type": 1,
+          "date": "2026-10-17T00:00:00.000Z",
+          "note": "Karo/Art Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "TW",
+          "type": 1,
+          "date": "2026-11-12T00:00:00.000Z",
+          "note": "Taipei Golden Horse Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "UA",
+          "type": 1,
+          "date": "2026-08-29T00:00:00.000Z",
+          "note": "Odesa International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-09-18T00:00:00.000Z",
+          "note": "Fantastic Fest",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/la-teta-asustada": {
+      "tmdbId": 28644,
+      "year": 2009,
+      "source": "https://www.themoviedb.org/movie/28644",
+      "releases": [
+        {
+          "country": "BR",
+          "type": 3,
+          "date": "2009-08-21T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "DE",
+          "type": 1,
+          "date": "2009-02-12T00:00:00.000Z",
+          "note": "Berlin International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "ES",
+          "type": 3,
+          "date": "2009-02-13T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 3,
+          "date": "2009-06-17T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "GR",
+          "type": 1,
+          "date": "2009-11-21T00:00:00.000Z",
+          "note": "Thessaloniki International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "GR",
+          "type": 3,
+          "date": "2010-02-25T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "IT",
+          "type": 3,
+          "date": "2009-05-08T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "NL",
+          "type": 3,
+          "date": "2009-12-03T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "PE",
+          "type": 3,
+          "date": "2009-03-12T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 2,
+          "date": "2010-08-27T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "ZA",
+          "type": 1,
+          "date": "2010-07-26T00:00:00.000Z",
+          "note": "Durban International Film Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/los-vencedores": {
+      "tmdbId": 1661239,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1661239",
+      "releases": [
+        {
+          "country": "AR",
+          "type": 1,
+          "date": "2026-04-17T00:00:00.000Z",
+          "note": "BAFICI",
+          "certification": ""
+        },
+        {
+          "country": "CH",
+          "type": 1,
+          "date": "2026-08-07T00:00:00.000Z",
+          "note": "Locarno Film Festival (Semaine de la critique)",
+          "certification": ""
+        },
+        {
+          "country": "RU",
+          "type": 1,
+          "date": "2026-10-17T00:00:00.000Z",
+          "note": "Message to Man International Film Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/mailin": {
+      "tmdbId": 1567783,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1567783",
+      "releases": [
+        {
+          "country": "AR",
+          "type": 1,
+          "date": "2026-08-29T00:00:00.000Z",
+          "note": "Festival La mujer y el cine de Buenos Aires",
+          "certification": ""
+        },
+        {
+          "country": "CH",
+          "type": 1,
+          "date": "2026-11-14T00:00:00.000Z",
+          "note": "Festival FILMAR en América Latina",
+          "certification": ""
+        },
+        {
+          "country": "CL",
+          "type": 1,
+          "date": "2026-11-26T00:00:00.000Z",
+          "note": "Festival Internacional de Cine de Viña del Mar - FICVIÑA",
+          "certification": ""
+        },
+        {
+          "country": "CR",
+          "type": 1,
+          "date": "2026-11-08T00:00:00.000Z",
+          "note": "Histeria Festival Internacional de Cine Fantástico ",
+          "certification": ""
+        },
+        {
+          "country": "ES",
+          "type": 1,
+          "date": "2026-05-14T00:00:00.000Z",
+          "note": "Festival Internacional de Cine Documental de Barcelona - DocsBarcelona",
+          "certification": ""
+        },
+        {
+          "country": "ES",
+          "type": 3,
+          "date": "2026-11-27T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-03-24T00:00:00.000Z",
+          "note": "Festival de Cine Latinoamericano de Toulouse - Cinelatino",
+          "certification": ""
+        },
+        {
+          "country": "GR",
+          "type": 1,
+          "date": "2026-03-06T00:00:00.000Z",
+          "note": "Thessaloniki International Documentary Festival",
+          "certification": ""
+        },
+        {
+          "country": "HR",
+          "type": 1,
+          "date": "2026-04-23T00:00:00.000Z",
+          "note": "ZagrebDox International Documentary Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "IT",
+          "type": 1,
+          "date": "2026-05-30T00:00:00.000Z",
+          "note": "UnArchive Found Footage Fest de Roma",
+          "certification": ""
+        },
+        {
+          "country": "LU",
+          "type": 1,
+          "date": "2026-03-06T00:00:00.000Z",
+          "note": "Luxembourg City Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "MX",
+          "type": 1,
+          "date": "2026-04-23T00:00:00.000Z",
+          "note": "Guadalajara Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "NL",
+          "type": 1,
+          "date": "2025-11-15T00:00:00.000Z",
+          "note": "IDFA - International Documentary Film Festival Amsterdam",
+          "certification": ""
+        },
+        {
+          "country": "SE",
+          "type": 1,
+          "date": "2026-01-24T00:00:00.000Z",
+          "note": "Göteborg Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "UA",
+          "type": 1,
+          "date": "2026-06-06T00:00:00.000Z",
+          "note": "Docudays UA International Documentary Human Rights Film Festival [DOCU/WORLD]",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/matapanki": {
+      "tmdbId": 1475972,
+      "year": 2025,
+      "source": "https://www.themoviedb.org/movie/1475972",
+      "releases": [
+        {
+          "country": "AR",
+          "type": 1,
+          "date": "2025-11-29T00:00:00.000Z",
+          "note": "Buenos Aires Rojo Sangre ",
+          "certification": ""
+        },
+        {
+          "country": "AR",
+          "type": 1,
+          "date": "2026-09-07T00:00:00.000Z",
+          "note": "Festival Cine a la vista",
+          "certification": ""
+        },
+        {
+          "country": "BR",
+          "type": 1,
+          "date": "2026-04-08T00:00:00.000Z",
+          "note": "Fantaspoa",
+          "certification": ""
+        },
+        {
+          "country": "BR",
+          "type": 1,
+          "date": "2026-10-01T00:00:00.000Z",
+          "note": "Festival do Rio",
+          "certification": ""
+        },
+        {
+          "country": "CA",
+          "type": 1,
+          "date": "2026-07-24T00:00:00.000Z",
+          "note": "Fantasia International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CH",
+          "type": 1,
+          "date": "2026-07-11T00:00:00.000Z",
+          "note": "Neuchâtel International Fantastic Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CL",
+          "type": 1,
+          "date": "2025-10-14T00:00:00.000Z",
+          "note": "Festival Internacional de Cine de Valdivia",
+          "certification": ""
+        },
+        {
+          "country": "CL",
+          "type": 1,
+          "date": "2025-12-05T00:00:00.000Z",
+          "note": "Festival Internacional de Cine de Chiloé",
+          "certification": ""
+        },
+        {
+          "country": "CL",
+          "type": 1,
+          "date": "2026-01-16T00:00:00.000Z",
+          "note": "Festival de Cine Nacional de Ñuble",
+          "certification": ""
+        },
+        {
+          "country": "CL",
+          "type": 1,
+          "date": "2026-01-26T00:00:00.000Z",
+          "note": "Festival de Cine Chileno",
+          "certification": ""
+        },
+        {
+          "country": "CL",
+          "type": 1,
+          "date": "2026-08-29T00:00:00.000Z",
+          "note": "Festival Ojo de Pescado",
+          "certification": ""
+        },
+        {
+          "country": "CL",
+          "type": 1,
+          "date": "2026-11-06T00:00:00.000Z",
+          "note": "Festival BioBío Cine",
+          "certification": ""
+        },
+        {
+          "country": "CO",
+          "type": 1,
+          "date": "2026-04-18T00:00:00.000Z",
+          "note": "FICCI ",
+          "certification": ""
+        },
+        {
+          "country": "CU",
+          "type": 1,
+          "date": "2025-12-10T00:00:00.000Z",
+          "note": "Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
+          "certification": ""
+        },
+        {
+          "country": "DE",
+          "type": 1,
+          "date": "2026-02-17T00:00:00.000Z",
+          "note": "Berlin International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "ES",
+          "type": 1,
+          "date": "2026-11-13T00:00:00.000Z",
+          "note": "52 Festival de Huelva Cine Iberoamericano",
+          "certification": ""
+        },
+        {
+          "country": "GT",
+          "type": 1,
+          "date": "2026-11-07T00:00:00.000Z",
+          "note": "Cine Accidental",
+          "certification": ""
+        },
+        {
+          "country": "IT",
+          "type": 1,
+          "date": "2026-07-10T00:00:00.000Z",
+          "note": "Bridge Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "NO",
+          "type": 1,
+          "date": "2026-03-05T00:00:00.000Z",
+          "note": "Cine Latino BIFF",
+          "certification": ""
+        },
+        {
+          "country": "PE",
+          "type": 1,
+          "date": "2026-08-11T00:00:00.000Z",
+          "note": "30 Festival Internacional de cine de Lima",
+          "certification": ""
+        },
+        {
+          "country": "PL",
+          "type": 1,
+          "date": "2026-10-04T00:00:00.000Z",
+          "note": "Ars Independent Festival",
+          "certification": ""
+        },
+        {
+          "country": "SE",
+          "type": 1,
+          "date": "2026-09-26T00:00:00.000Z",
+          "note": "Panoramica",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-02-20T00:00:00.000Z",
+          "note": "Slamdance Film Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/motel-paraiso": {
+      "tmdbId": 1631783,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1631783",
+      "releases": [
+        {
+          "country": "GR",
+          "type": 1,
+          "date": "2026-03-11T00:00:00.000Z",
+          "note": "Theessaloniki International Documentary Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/nunkui": {
+      "tmdbId": 1243032,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1243032",
+      "releases": [
+        {
+          "country": "MX",
+          "type": 1,
+          "date": "2026-04-21T00:00:00.000Z",
+          "note": "Guadalajara International Film Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/ogu-y-mampato": {
+      "tmdbId": 38518,
+      "year": 2002,
+      "source": "https://www.themoviedb.org/movie/38518",
+      "releases": [
+        {
+          "country": "CL",
+          "type": 3,
+          "date": "2002-06-27T00:00:00.000Z",
+          "note": "Source: IMDb",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/olivia-y-el-terremoto-invisible": {
+      "tmdbId": 676679,
+      "year": 2025,
+      "source": "https://www.themoviedb.org/movie/676679",
+      "releases": [
+        {
+          "country": "CA",
+          "type": 1,
+          "date": "2025-09-25T00:00:00.000Z",
+          "note": "Ottawa International Animation Festival",
+          "certification": ""
+        },
+        {
+          "country": "CH",
+          "type": 1,
+          "date": "2025-08-10T00:00:00.000Z",
+          "note": "Locarno Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CH",
+          "type": 3,
+          "date": "2026-05-28T00:00:00.000Z",
+          "note": "",
+          "certification": "8"
+        },
+        {
+          "country": "ES",
+          "type": 3,
+          "date": "2025-11-21T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2025-06-09T00:00:00.000Z",
+          "note": "Annecy International Animation Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 3,
+          "date": "2026-01-21T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "KR",
+          "type": 1,
+          "date": "2026-09-11T00:00:00.000Z",
+          "note": "Seoul International Children's Film Festival",
+          "certification": "ALL"
+        },
+        {
+          "country": "NL",
+          "type": 3,
+          "date": "2026-02-04T00:00:00.000Z",
+          "note": "",
+          "certification": "6"
+        },
+        {
+          "country": "PH",
+          "type": 1,
+          "date": "2026-10-04T00:00:00.000Z",
+          "note": "PELÍCULA>PELIKULA Manila Spanish Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "RU",
+          "type": 1,
+          "date": "2026-05-30T00:00:00.000Z",
+          "note": "Bear International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "TW",
+          "type": 1,
+          "date": "2026-08-01T00:00:00.000Z",
+          "note": "HSINCHU Children Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "TW",
+          "type": 1,
+          "date": "2026-09-23T00:00:00.000Z",
+          "note": "Tiffi on Delivery: Children and Youth Film Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/pin-de-fartie": {
+      "tmdbId": 1517070,
+      "year": 2025,
+      "source": "https://www.themoviedb.org/movie/1517070",
+      "releases": [
+        {
+          "country": "AT",
+          "type": 1,
+          "date": "2025-10-22T00:00:00.000Z",
+          "note": "Vienna International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "IT",
+          "type": 1,
+          "date": "2025-09-03T00:00:00.000Z",
+          "note": "Venice Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "KR",
+          "type": 1,
+          "date": "2026-04-30T00:00:00.000Z",
+          "note": "Jeonju International Film Festival",
+          "certification": "ALL"
+        }
+      ]
+    },
+    "ficvina-2026/plata-o-mierda": {
+      "tmdbId": 1058543,
+      "year": 2025,
+      "source": "https://www.themoviedb.org/movie/1058543",
+      "releases": [
+        {
+          "country": "NL",
+          "type": 1,
+          "date": "2025-11-18T00:00:00.000Z",
+          "note": "International Documentary Film Festival Amsterdam",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/poblacion-flotante": {
+      "tmdbId": 1578145,
+      "year": 2025,
+      "source": "https://www.themoviedb.org/movie/1578145",
+      "releases": [
+        {
+          "country": "CZ",
+          "type": 1,
+          "date": "2025-10-30T00:00:00.000Z",
+          "note": "Ji.hlava International Documentary Film Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/pulso-1/Allá en el cielo": {
+      "tmdbId": 1616197,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1616197",
+      "releases": [
+        {
+          "country": "DE",
+          "type": 1,
+          "date": "2026-02-17T00:00:00.000Z",
+          "note": "Berlinale",
+          "certification": ""
+        },
+        {
+          "country": "UA",
+          "type": 1,
+          "date": "2026-09-20T00:00:00.000Z",
+          "note": "Kyiv International Short Film Festival ",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/pulso-1/Las visitas de Camilo": {
+      "tmdbId": 1661234,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1661234",
+      "releases": [
+        {
+          "country": "AR",
+          "type": 3,
+          "date": "2026-04-20T00:00:00.000Z",
+          "note": "BAFICI",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/pulso-1/Sol menor": {
+      "tmdbId": 1500856,
+      "year": 2025,
+      "source": "https://www.themoviedb.org/movie/1500856",
+      "releases": [
+        {
+          "country": "LT",
+          "type": 1,
+          "date": "2026-11-07T00:00:00.000Z",
+          "note": "Scanorama",
+          "certification": ""
+        },
+        {
+          "country": "PT",
+          "type": 1,
+          "date": "2025-07-14T00:00:00.000Z",
+          "note": "Curtas Vila do Conde",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/pulso-2/Baisanos": {
+      "tmdbId": 1508247,
+      "year": 2025,
+      "source": "https://www.themoviedb.org/movie/1508247",
+      "releases": [
+        {
+          "country": "BR",
+          "type": 1,
+          "date": "2026-04-10T00:00:00.000Z",
+          "note": "It's All True – International Documentary Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CH",
+          "type": 1,
+          "date": "2025-08-10T00:00:00.000Z",
+          "note": "Locarno Film Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/pulso-2/En otra Palestina": {
+      "tmdbId": 1643576,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1643576",
+      "releases": [
+        {
+          "country": "CO",
+          "type": 1,
+          "date": "2026-04-14T00:00:00.000Z",
+          "note": "Cartagena International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "DE",
+          "type": 1,
+          "date": "2026-04-18T00:00:00.000Z",
+          "note": "Dokfilmwoche Hamburg ",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/pulso-2/Ixquic": {
+      "tmdbId": 1714900,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1714900",
+      "releases": [
+        {
+          "country": "CA",
+          "type": 3,
+          "date": "2026-06-07T00:00:00.000Z",
+          "note": "imagineNATIVE Film + Media Arts Festival",
+          "certification": ""
+        },
+        {
+          "country": "CO",
+          "type": 3,
+          "date": "2026-04-26T00:00:00.000Z",
+          "note": "Alternativa Film Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/pulso-2/Miriam": {
+      "tmdbId": 1614760,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1614760",
+      "releases": [
+        {
+          "country": "DE",
+          "type": 1,
+          "date": "2026-02-14T00:00:00.000Z",
+          "note": "Oficial Selection on 76. Internationale Filmfestspiele Berlin | World Premier",
+          "certification": ""
+        },
+        {
+          "country": "MX",
+          "type": 2,
+          "date": "2026-03-12T00:00:00.000Z",
+          "note": "Proyección Especial en CCU BUAP",
+          "certification": "B-15"
+        },
+        {
+          "country": "MX",
+          "type": 2,
+          "date": "2026-11-13T00:00:00.000Z",
+          "note": "Puebla Cine Fest 2026",
+          "certification": "B-15"
+        },
+        {
+          "country": "MX",
+          "type": 2,
+          "date": "2026-10-17T00:00:00.000Z",
+          "note": "FICM Morelia International Film Festival ",
+          "certification": "B-15"
+        },
+        {
+          "country": "MX",
+          "type": 2,
+          "date": "2026-10-23T00:00:00.000Z",
+          "note": "Docs MX 2026",
+          "certification": "B-15"
+        },
+        {
+          "country": "SE",
+          "type": 2,
+          "date": "2026-10-19T00:00:00.000Z",
+          "note": "The 45th Uppsala Short Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 2,
+          "date": "2026-11-07T00:00:00.000Z",
+          "note": "GLAFF | GuadaLAjara Film Festival 2026",
+          "certification": "PG-13"
+        }
+      ]
+    },
+    "ficvina-2026/pulso-2/Presépio": {
+      "tmdbId": 1543600,
+      "year": 2025,
+      "source": "https://www.themoviedb.org/movie/1543600",
+      "releases": [
+        {
+          "country": "BR",
+          "type": 1,
+          "date": "2025-10-07T00:00:00.000Z",
+          "note": "Rio de Janeiro International Film Festival",
+          "certification": "12"
+        },
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2025-09-24T00:00:00.000Z",
+          "note": "Prix Regard Queer - Biarritz Amérique Latine Film Festival",
+          "certification": "12"
+        }
+      ]
+    },
+    "ficvina-2026/pulso-2/Videoclub 2001": {
+      "tmdbId": 1503361,
+      "year": 2025,
+      "source": "https://www.themoviedb.org/movie/1503361",
+      "releases": [
+        {
+          "country": "ES",
+          "type": 1,
+          "date": "2025-06-21T00:00:00.000Z",
+          "note": "CINEMA JOVE",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/relicto": {
+      "tmdbId": 1633353,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1633353",
+      "releases": [
+        {
+          "country": "FR",
+          "type": 1,
+          "date": "2026-03-22T00:00:00.000Z",
+          "note": "Cinéma du Réel",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/ruca-1/Me vas a estar esperando": {
+      "tmdbId": 1812493,
+      "year": null,
+      "source": "https://www.themoviedb.org/movie/1812493",
+      "releases": []
+    },
+    "ficvina-2026/ruca-2/¿Quién mató a Gaete?": {
+      "tmdbId": 1598492,
+      "year": null,
+      "source": "https://www.themoviedb.org/movie/1598492",
+      "releases": []
+    },
+    "ficvina-2026/sorda": {
+      "tmdbId": 1303613,
+      "year": 2025,
+      "source": "https://www.themoviedb.org/movie/1303613",
+      "releases": [
+        {
+          "country": "AT",
+          "type": 3,
+          "date": "2025-10-31T00:00:00.000Z",
+          "note": "",
+          "certification": "8"
+        },
+        {
+          "country": "AU",
+          "type": 1,
+          "date": "2025-06-07T00:00:00.000Z",
+          "note": "Sydney Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "AU",
+          "type": 1,
+          "date": "2025-08-09T00:00:00.000Z",
+          "note": "Melbourne International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "AU",
+          "type": 1,
+          "date": "2025-10-17T00:00:00.000Z",
+          "note": "Adelaide Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "AU",
+          "type": 1,
+          "date": "2026-03-04T00:00:00.000Z",
+          "note": "Perth Festival",
+          "certification": ""
+        },
+        {
+          "country": "BR",
+          "type": 1,
+          "date": "2026-03-20T00:00:00.000Z",
+          "note": "Mostra Farol 2026 - Opening Film",
+          "certification": ""
+        },
+        {
+          "country": "BR",
+          "type": 3,
+          "date": "2026-05-14T00:00:00.000Z",
+          "note": "",
+          "certification": "12"
+        },
+        {
+          "country": "CH",
+          "type": 3,
+          "date": "2025-11-06T00:00:00.000Z",
+          "note": "",
+          "certification": "10"
+        },
+        {
+          "country": "CO",
+          "type": 3,
+          "date": "2025-11-20T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "CZ",
+          "type": 1,
+          "date": "2025-07-04T00:00:00.000Z",
+          "note": "Karlovy Vary International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "CZ",
+          "type": 3,
+          "date": "2025-10-09T00:00:00.000Z",
+          "note": "",
+          "certification": "15+"
+        },
+        {
+          "country": "DE",
+          "type": 1,
+          "date": "2025-02-15T00:00:00.000Z",
+          "note": "Berlin International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "DE",
+          "type": 3,
+          "date": "2025-10-30T00:00:00.000Z",
+          "note": "",
+          "certification": "12"
+        },
+        {
+          "country": "ES",
+          "type": 1,
+          "date": "2025-03-15T00:00:00.000Z",
+          "note": "Málaga Film Festival",
+          "certification": "A"
+        },
+        {
+          "country": "ES",
+          "type": 3,
+          "date": "2025-04-04T00:00:00.000Z",
+          "note": "",
+          "certification": "A"
+        },
+        {
+          "country": "ES",
+          "type": 5,
+          "date": "2025-08-26T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 3,
+          "date": "2026-04-29T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 5,
+          "date": "2026-09-08T00:00:00.000Z",
+          "note": "",
+          "certification": "TP"
+        },
+        {
+          "country": "FR",
+          "type": 5,
+          "date": "2026-11-25T00:00:00.000Z",
+          "note": "International Visual Theatre",
+          "certification": ""
+        },
+        {
+          "country": "FR",
+          "type": 6,
+          "date": "2026-11-09T00:00:00.000Z",
+          "note": "Ciné+ Festival",
+          "certification": "TP"
+        },
+        {
+          "country": "GB",
+          "type": 1,
+          "date": "2025-08-17T00:00:00.000Z",
+          "note": "Edinburgh International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "GB",
+          "type": 3,
+          "date": "2025-09-12T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "GR",
+          "type": 3,
+          "date": "2025-12-04T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "HK",
+          "type": 1,
+          "date": "2025-10-02T00:00:00.000Z",
+          "note": "Spanish Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "HR",
+          "type": 1,
+          "date": "2025-06-19T00:00:00.000Z",
+          "note": "Mediterranean Film Festival Split",
+          "certification": ""
+        },
+        {
+          "country": "HU",
+          "type": 3,
+          "date": "2025-08-14T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "ID",
+          "type": 1,
+          "date": "2025-09-30T00:00:00.000Z",
+          "note": "Jakarta World Cinema",
+          "certification": "13+"
+        },
+        {
+          "country": "IE",
+          "type": 3,
+          "date": "2025-09-12T00:00:00.000Z",
+          "note": "",
+          "certification": "12A"
+        },
+        {
+          "country": "IT",
+          "type": 3,
+          "date": "2026-05-28T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "MX",
+          "type": 3,
+          "date": "2025-11-06T00:00:00.000Z",
+          "note": "",
+          "certification": "B"
+        },
+        {
+          "country": "NL",
+          "type": 3,
+          "date": "2025-09-25T00:00:00.000Z",
+          "note": "",
+          "certification": "9"
+        },
+        {
+          "country": "NZ",
+          "type": 1,
+          "date": "2025-08-01T00:00:00.000Z",
+          "note": "New Zealand International Film Festival",
+          "certification": "PG"
+        },
+        {
+          "country": "PR",
+          "type": 2,
+          "date": "2026-09-03T00:00:00.000Z",
+          "note": "Fine Arts",
+          "certification": "NR"
+        },
+        {
+          "country": "RO",
+          "type": 4,
+          "date": "2026-07-04T00:00:00.000Z",
+          "note": "HBO Max",
+          "certification": "AP"
+        },
+        {
+          "country": "RO",
+          "type": 6,
+          "date": "2026-07-04T00:00:00.000Z",
+          "note": "Cinemax 2",
+          "certification": ""
+        },
+        {
+          "country": "RU",
+          "type": 1,
+          "date": "2026-03-15T00:00:00.000Z",
+          "note": "Spirit Of Fire International Festival Of Cinematographic Debuts",
+          "certification": ""
+        },
+        {
+          "country": "RU",
+          "type": 1,
+          "date": "2026-07-10T00:00:00.000Z",
+          "note": "Made by Women International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "SK",
+          "type": 3,
+          "date": "2025-10-23T00:00:00.000Z",
+          "note": "",
+          "certification": "7"
+        },
+        {
+          "country": "TW",
+          "type": 1,
+          "date": "2025-11-11T00:00:00.000Z",
+          "note": "Taipei Golden Horse Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "UA",
+          "type": 3,
+          "date": "2025-09-18T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2025-05-17T00:00:00.000Z",
+          "note": "Seattle International Film Festival",
+          "certification": "PG-13"
+        }
+      ]
+    },
+    "ficvina-2026/tres-tristes-tias": {
+      "tmdbId": 1807652,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1807652",
+      "releases": [
+        {
+          "country": "CL",
+          "type": 1,
+          "date": "2026-10-22T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/universos-1/Lodo": {
+      "tmdbId": 1603999,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1603999",
+      "releases": [
+        {
+          "country": "NL",
+          "type": 1,
+          "date": "2026-01-30T00:00:00.000Z",
+          "note": "International Film Festival Rotterdam ",
+          "certification": ""
+        },
+        {
+          "country": "UY",
+          "type": 1,
+          "date": "2026-02-01T00:00:00.000Z",
+          "note": "16º JIIFF - José Ignacio International Film Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/universos-1/O jardim mágico": {
+      "tmdbId": 1475725,
+      "year": 2025,
+      "source": "https://www.themoviedb.org/movie/1475725",
+      "releases": [
+        {
+          "country": "BR",
+          "type": 3,
+          "date": "2025-07-01T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "CA",
+          "type": 1,
+          "date": "2026-09-23T00:00:00.000Z",
+          "note": "Ottawa International Animation Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/universos-1/Pan": {
+      "tmdbId": 1670307,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1670307",
+      "releases": [
+        {
+          "country": "RU",
+          "type": 1,
+          "date": "2026-04-17T00:00:00.000Z",
+          "note": "Moscow International Film Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/universos-1/Tinku": {
+      "tmdbId": 1475741,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1475741",
+      "releases": [
+        {
+          "country": "AR",
+          "type": 2,
+          "date": "2026-02-07T00:00:00.000Z",
+          "note": "Cine Mbareté",
+          "certification": ""
+        },
+        {
+          "country": "BO",
+          "type": 1,
+          "date": "2025-02-13T00:00:00.000Z",
+          "note": "Digital",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/universos-1/Trabajo hecho": {
+      "tmdbId": 1766948,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1766948",
+      "releases": [
+        {
+          "country": "CL",
+          "type": 1,
+          "date": "2026-05-25T00:00:00.000Z",
+          "note": "Festival CHILEMONOS",
+          "certification": ""
+        },
+        {
+          "country": "IT",
+          "type": 3,
+          "date": "2026-08-17T00:00:00.000Z",
+          "note": "Imaginaria International Animation Film Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/universos-2/Decaer": {
+      "tmdbId": 1668881,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1668881",
+      "releases": [
+        {
+          "country": "CO",
+          "type": 1,
+          "date": "2026-04-16T00:00:00.000Z",
+          "note": "Festival Internacional de Cine de Cartagena",
+          "certification": ""
+        },
+        {
+          "country": "UA",
+          "type": 1,
+          "date": "2026-09-30T00:00:00.000Z",
+          "note": "Linoleum Contemporary Animation and Media Art Festival ",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/universos-2/El cuerpo de Cristo": {
+      "tmdbId": 1570967,
+      "year": 2025,
+      "source": "https://www.themoviedb.org/movie/1570967",
+      "releases": [
+        {
+          "country": "ES",
+          "type": 1,
+          "date": "2025-11-21T00:00:00.000Z",
+          "note": "International Festival of Documentary and Short Film of Bilbao",
+          "certification": ""
+        },
+        {
+          "country": "ES",
+          "type": 1,
+          "date": "2026-02-21T00:00:00.000Z",
+          "note": "ManzanaRec - Festival Social",
+          "certification": ""
+        },
+        {
+          "country": "RU",
+          "type": 1,
+          "date": "2026-10-17T00:00:00.000Z",
+          "note": "Message to Man International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "TW",
+          "type": 1,
+          "date": "2026-10-04T00:00:00.000Z",
+          "note": "Taichung International Animation Festival",
+          "certification": ""
+        },
+        {
+          "country": "UA",
+          "type": 1,
+          "date": "2026-09-24T00:00:00.000Z",
+          "note": "Lviv International Film Festival Wiz-Art ",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/universos-2/El Tamagochi escarlata": {
+      "tmdbId": 1543556,
+      "year": 2025,
+      "source": "https://www.themoviedb.org/movie/1543556",
+      "releases": [
+        {
+          "country": "CL",
+          "type": 1,
+          "date": "2025-10-15T00:00:00.000Z",
+          "note": "Valdivia International Film Festival ",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/universos-2/Emechiché, el renacer de los cabeciblancos": {
+      "tmdbId": 1592964,
+      "year": 2025,
+      "source": "https://www.themoviedb.org/movie/1592964",
+      "releases": [
+        {
+          "country": "CO",
+          "type": 3,
+          "date": "2025-12-04T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/universos-2/Mnema": {
+      "tmdbId": 1699981,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1699981",
+      "releases": [
+        {
+          "country": "US",
+          "type": 1,
+          "date": "2026-06-12T00:00:00.000Z",
+          "note": "deadCenter Film Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/universos-2/No prendas la luz": {
+      "tmdbId": 1689427,
+      "year": 2025,
+      "source": "https://www.themoviedb.org/movie/1689427",
+      "releases": [
+        {
+          "country": "MX",
+          "type": 3,
+          "date": "2025-10-31T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/universos-2/Pinchu es así": {
+      "tmdbId": 1676480,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1676480",
+      "releases": [
+        {
+          "country": "ES",
+          "type": 3,
+          "date": "2026-04-18T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        },
+        {
+          "country": "NL",
+          "type": 1,
+          "date": "2026-10-08T00:00:00.000Z",
+          "note": "Leiden International Film Festival",
+          "certification": ""
+        },
+        {
+          "country": "TW",
+          "type": 1,
+          "date": "2026-10-26T00:00:00.000Z",
+          "note": "Kuandu International Animation Festival",
+          "certification": ""
+        }
+      ]
+    },
+    "ficvina-2026/universos-2/TV entreaberta": {
+      "tmdbId": 1661195,
+      "year": 2026,
+      "source": "https://www.themoviedb.org/movie/1661195",
+      "releases": [
+        {
+          "country": "US",
+          "type": 3,
+          "date": "2026-03-30T00:00:00.000Z",
+          "note": "",
+          "certification": ""
+        }
+      ]
+    },
     "fidocs-2026/48": {
       "tmdbId": 191947,
       "year": 2010,

@@ -1,0 +1,377 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1659483?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:44.846Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "id": 1659483,
+    "imdb_id": null,
+    "origin_country": [
+      "CU"
+    ],
+    "original_language": "es",
+    "original_title": "Elpidio Valdés ¡capturado!",
+    "overview": "",
+    "popularity": 0.1284,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 5175,
+        "logo_path": "/685bT26uK9vuaCwf2Hylufdb4yI.png",
+        "name": "ICAIC",
+        "origin_country": "CU"
+      },
+      {
+        "id": 250989,
+        "logo_path": null,
+        "name": "Estudios de Animación ICAIC",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CU",
+        "name": "Cuba"
+      }
+    ],
+    "release_date": "1988-10-26",
+    "revenue": 0,
+    "runtime": 9,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Elpidio Valdés ¡capturado!",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1056777,
+          "known_for_department": "Acting",
+          "name": "Frank González",
+          "original_name": "Frank González",
+          "popularity": 0.166,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Elpidio Valdés (voice) / Media Cara (voice) / Coronel Andaluz (voice) / Don Cetáceo (voice)",
+          "credit_id": "69c7f3b65d82cc68c79d4c32",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1577521,
+          "known_for_department": "Acting",
+          "name": "Manuel Marín",
+          "original_name": "Manuel Marín",
+          "popularity": 0.1621,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "General Resoplez (voice)",
+          "credit_id": "69c7f3cb5c75be7e569d4c0b",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2840791,
+          "known_for_department": "Acting",
+          "name": "María Eugenia García",
+          "original_name": "María Eugenia García",
+          "popularity": 0.1512,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "María Silvia (voice)",
+          "credit_id": "69c7f3e1fad699040dc5978f",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6100508,
+          "known_for_department": "Acting",
+          "name": "Luisa Roque",
+          "original_name": "Luisa Roque",
+          "popularity": 0.0629,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Eutelia (voice)",
+          "credit_id": "69c7f3f31f0c0ede08c596fc",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4884202,
+          "known_for_department": "Acting",
+          "name": "Teresita Rúa",
+          "original_name": "Teresita Rúa",
+          "popularity": 0.0455,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Corneta (voice)",
+          "credit_id": "69c7f4130252394a60ad9a7c",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6100510,
+          "known_for_department": "Acting",
+          "name": "Eddy Vidal",
+          "original_name": "Eddy Vidal",
+          "popularity": 0.1399,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Cortico (voice)",
+          "credit_id": "69c7f4257760188baf074755",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 938171,
+          "known_for_department": "Directing",
+          "name": "Juan Padrón",
+          "original_name": "Juan Padrón",
+          "popularity": 0.3111,
+          "profile_path": "/ixbN2YmgsyEc85anwrelQVrRaiv.jpg",
+          "credit_id": "69c7f4bd2dfce5e7c40746f6",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4884377,
+          "known_for_department": "Directing",
+          "name": "Tulio Raggi",
+          "original_name": "Tulio Raggi",
+          "popularity": 0.0952,
+          "profile_path": "/7FIpIaPwRCHyc83VLNJGSAfsVKI.jpg",
+          "credit_id": "69c7f4cc3241b7efa2a34c41",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3027751,
+          "known_for_department": "Directing",
+          "name": "Mario Rivas",
+          "original_name": "Mario Rivas",
+          "popularity": 0.0632,
+          "profile_path": "/l6BZqRUu6By9L0wSaN7iiX11Bq1.jpg",
+          "credit_id": "69c7f4d92bdf57f9d79deaf2",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 938171,
+          "known_for_department": "Directing",
+          "name": "Juan Padrón",
+          "original_name": "Juan Padrón",
+          "popularity": 0.3111,
+          "profile_path": "/ixbN2YmgsyEc85anwrelQVrRaiv.jpg",
+          "credit_id": "69c7f4f12a50e16588c80ce3",
+          "department": "Writing",
+          "job": "Original Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1577855,
+          "known_for_department": "Visual Effects",
+          "name": "Mario García Montes",
+          "original_name": "Mario García Montes",
+          "popularity": 0.1261,
+          "profile_path": null,
+          "credit_id": "69c7f512767171d181c80d9b",
+          "department": "Visual Effects",
+          "job": "Animation Department Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1577855,
+          "known_for_department": "Visual Effects",
+          "name": "Mario García Montes",
+          "original_name": "Mario García Montes",
+          "popularity": 0.1261,
+          "profile_path": null,
+          "credit_id": "69c7f52558c62c549f9deab8",
+          "department": "Visual Effects",
+          "job": "Animation Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1577854,
+          "known_for_department": "Visual Effects",
+          "name": "José Reyes",
+          "original_name": "José Reyes",
+          "popularity": 0.2074,
+          "profile_path": null,
+          "credit_id": "69c7f53d5d82cc68c79d4c4c",
+          "department": "Visual Effects",
+          "job": "Animation Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1577856,
+          "known_for_department": "Visual Effects",
+          "name": "Noel Lima",
+          "original_name": "Noel Lima",
+          "popularity": 0.0301,
+          "profile_path": null,
+          "credit_id": "69c7f549ab6648f4199d4bb5",
+          "department": "Visual Effects",
+          "job": "Animation Supervisor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 938171,
+          "known_for_department": "Directing",
+          "name": "Juan Padrón",
+          "original_name": "Juan Padrón",
+          "popularity": 0.3111,
+          "profile_path": "/ixbN2YmgsyEc85anwrelQVrRaiv.jpg",
+          "credit_id": "69c7f55a5d82cc68c79d4c51",
+          "department": "Crew",
+          "job": "Animatronics Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2650992,
+          "known_for_department": "Sound",
+          "name": "Daniel Longres",
+          "original_name": "Daniel Longres",
+          "popularity": 0.0605,
+          "profile_path": null,
+          "credit_id": "69c7f5732a50e16588c80cf9",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4029082,
+          "known_for_department": "Sound",
+          "name": "Manuel Duchesne Cuzán",
+          "original_name": "Manuel Duchesne Cuzán",
+          "popularity": 0.0461,
+          "profile_path": "/mV0xuMhzeFNdEFc8mTTW9ms9d1T.jpg",
+          "credit_id": "69c7f583cf653321ef074797",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6102515,
+          "known_for_department": "Crew",
+          "name": "Héctor Borroto",
+          "original_name": "Héctor Borroto",
+          "popularity": 0.0244,
+          "profile_path": null,
+          "credit_id": "69c7f59a2ddf66657450eee8",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1577861,
+          "known_for_department": "Editing",
+          "name": "Rosa María Carreras",
+          "original_name": "Rosa María Carreras",
+          "popularity": 0.174,
+          "profile_path": null,
+          "credit_id": "69c7f5aaa51b700de0ad9d60",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1606671,
+          "known_for_department": "Sound",
+          "name": "Carlos Fernández",
+          "original_name": "Carlos Fernández",
+          "popularity": 0.1723,
+          "profile_path": null,
+          "credit_id": "69c7f5d0bb7e4e5a11e3bd67",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6102523,
+          "known_for_department": "Visual Effects",
+          "name": "Benito Amaro",
+          "original_name": "Benito Amaro",
+          "popularity": 0.0555,
+          "profile_path": null,
+          "credit_id": "69c7f5e5cbb9266205c80c81",
+          "department": "Visual Effects",
+          "job": "Visual Effects"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "1988-10-26T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

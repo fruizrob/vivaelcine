@@ -1,0 +1,116 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/447696?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:48.815Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 447696,
+    "imdb_id": "tt0347696",
+    "origin_country": [
+      "US",
+      "MX"
+    ],
+    "original_language": "en",
+    "original_title": "La Ofrenda",
+    "overview": "",
+    "popularity": 0.0918,
+    "poster_path": "/xgBxbWqPTzWxmsM8vLtPpGfffgv.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      },
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1988-01-01",
+    "revenue": 0,
+    "runtime": 50,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Ofrenda",
+    "video": false,
+    "vote_average": 9,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1201789,
+          "known_for_department": "Directing",
+          "name": "Susana Blaustein Muñoz",
+          "original_name": "Susana Blaustein Muñoz",
+          "popularity": 0.0958,
+          "profile_path": null,
+          "credit_id": "58cdb9f6c3a36850e9010ff3",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1064968,
+          "known_for_department": "Directing",
+          "name": "Lourdes Portillo",
+          "original_name": "Lourdes Portillo",
+          "popularity": 0.1523,
+          "profile_path": "/z3ZEOFT8aFtDkAdA9Qny9I0hCEA.jpg",
+          "credit_id": "58cdb9e6c3a36850e9010fe8",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1988-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

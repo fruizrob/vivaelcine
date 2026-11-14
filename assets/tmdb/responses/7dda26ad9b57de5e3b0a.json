@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Coca%C3%ADna+negra&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-14T02:25:44.131Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/boHRd6cfLSb3bqWTgDDQFYLhWUf.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1660634,
+        "title": "Cocaína negra",
+        "original_language": "es",
+        "original_title": "Cocaína negra",
+        "overview": "",
+        "popularity": 0.2815,
+        "poster_path": "/hTZ15X6RHnWKJrqoPihvE7RduOY.jpg",
+        "release_date": "2026-11-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

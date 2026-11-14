@@ -1,0 +1,117 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/436313?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:12.813Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 436313,
+    "imdb_id": "tt4534090",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Miriam: Home Delivery",
+    "overview": "",
+    "popularity": 0.113,
+    "poster_path": "/5T59wrJR4AHUIisZIMFeJCBmlkX.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2014-01-01",
+    "revenue": 0,
+    "runtime": 71,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Miriam: Home Delivery",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1742803,
+          "known_for_department": "Writing",
+          "name": "Juliet Jordan",
+          "original_name": "Juliet Jordan",
+          "popularity": 0.0052,
+          "profile_path": null,
+          "credit_id": "58829490c3a368064d00036a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1742803,
+          "known_for_department": "Writing",
+          "name": "Juliet Jordan",
+          "original_name": "Juliet Jordan",
+          "popularity": 0.0052,
+          "profile_path": null,
+          "credit_id": "58829497925141044f0003b4",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2137284,
+          "known_for_department": "Sound",
+          "name": "Matt Rigby",
+          "original_name": "Matt Rigby",
+          "popularity": 0.4514,
+          "profile_path": null,
+          "credit_id": "64341801e92d830077f91caa",
+          "department": "Sound",
+          "job": "Sound Effects Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1403501,
+          "known_for_department": "Sound",
+          "name": "Marlena Grzaslewicz",
+          "original_name": "Marlena Grzaslewicz",
+          "popularity": 0.2767,
+          "profile_path": null,
+          "credit_id": "6434180aec455200f33e9be2",
+          "department": "Sound",
+          "job": "Dialogue Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2014-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

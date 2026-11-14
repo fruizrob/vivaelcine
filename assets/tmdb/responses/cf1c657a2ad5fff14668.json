@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=La+anatom%C3%ADa+de+los+caballos&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:51.124Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/uUNmikyFkbQBeRsWhJQrQ35eEsM.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1472990,
+        "title": "La anatomía de los caballos",
+        "original_language": "es",
+        "original_title": "La anatomía de los caballos",
+        "overview": "Derrotado en combate, Ángel regresa a casa a su pueblo en una parte remota de los Andes peruanos. Sin embargo, cuando llega, descubre que el lugar ha cambiado por completo. Lo que fue el siglo XVIII es ahora la actualidad. ¿Qué ha sido de los ideales de la revolución por la que luchó? Las personas que viven en Perú hoy en día, ¿por qué están luchando? La anatomía de los caballos lleva al espectador a un viaje visual e intelectualmente estimulante a través del continuo espacio-temporal, durante el cual el director Daniel Vidal Toche reflexiona sobre si la lucha contra la opresión y la explotación en Perú alguna vez llegará a su fin. A través del personaje de Ángel, y también de Eustaquia, una chica que busca a su hermana, también se pregunta si el pensamiento revolucionario debe consignarse al pasado.",
+        "popularity": 0.4654,
+        "poster_path": "/tHP6StnYXWrMXE23wGPZtoe1RRN.jpg",
+        "release_date": "2026-11-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

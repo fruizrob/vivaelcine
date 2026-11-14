@@ -1,0 +1,442 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/488103?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:36.389Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/fvxz6yW0otZMg99bgtc0OfrYDnz.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 488103,
+    "imdb_id": "tt0197998",
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "Ven... mi corazón te llama",
+    "overview": "Una cantante casada con un tahur es acusada de asesinato.",
+    "popularity": 0.7829,
+    "poster_path": "/cKhiyTrxILEXJ2mEHTJQOmec9pM.jpg",
+    "production_companies": [
+      {
+        "id": 20630,
+        "logo_path": "/vb9bsR3XI1n33HRYv0jTHB4ml2C.png",
+        "name": "Lumiton",
+        "origin_country": "AR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "1942-09-09",
+    "revenue": 0,
+    "runtime": 89,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ven... mi corazón te llama",
+    "video": false,
+    "vote_average": 9,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1471371,
+          "known_for_department": "Acting",
+          "name": "Elvira Ríos",
+          "original_name": "Elvira Ríos",
+          "popularity": 0.3664,
+          "profile_path": "/am9eUvcddNERfGHqgJAgr4HcbJD.jpg",
+          "cast_id": 0,
+          "character": "Sombra Rey",
+          "credit_id": "5a129e9092514138e706b28f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1498044,
+          "known_for_department": "Acting",
+          "name": "Tito Lusiardo",
+          "original_name": "Tito Lusiardo",
+          "popularity": 0.2989,
+          "profile_path": "/7DCDcOr3BAqphtw8ArUWCtyzt1R.jpg",
+          "cast_id": 1,
+          "character": "Goyo Martinez",
+          "credit_id": "5a129ea792514138ea068753",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1682623,
+          "known_for_department": "Acting",
+          "name": "Alicia Barrié",
+          "original_name": "Alicia Barrié",
+          "popularity": 0.2509,
+          "profile_path": "/9X7yTidYjR6tGCJ9WPuw0yZF6As.jpg",
+          "cast_id": 2,
+          "character": "Lucila Cáceres",
+          "credit_id": "5a129ec0c3a368628006f30b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1051306,
+          "known_for_department": "Acting",
+          "name": "Elena Lucena",
+          "original_name": "Elena Lucena",
+          "popularity": 0.3506,
+          "profile_path": "/8RvZD7sLGvQGBz5po2pMSKPaEHk.jpg",
+          "cast_id": 3,
+          "character": "Pocha",
+          "credit_id": "5a129ecf92514138e706b2f1",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1325857,
+          "known_for_department": "Acting",
+          "name": "Enrique Roldán",
+          "original_name": "Enrique Roldán",
+          "popularity": 0.3292,
+          "profile_path": "/jPbkk7UZDWsgoOZoD21AQpZiPVH.jpg",
+          "cast_id": 4,
+          "character": "Arturo Campos",
+          "credit_id": "5a129ee9c3a368628306ba27",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1721034,
+          "known_for_department": "Acting",
+          "name": "Alberto Terrones",
+          "original_name": "Alberto Terrones",
+          "popularity": 0.1632,
+          "profile_path": "/i1JOYeqfSUktpd7tk2IbfQYHkMF.jpg",
+          "cast_id": 5,
+          "character": "Police superintendant",
+          "credit_id": "5a129f0492514138e706b352",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1816814,
+          "known_for_department": "Acting",
+          "name": "Vicente Forastieri",
+          "original_name": "Vicente Forastieri",
+          "popularity": 0.2173,
+          "profile_path": "/kv81iBsl1BlOTdiSH0l1dsFbcYv.jpg",
+          "cast_id": 11,
+          "character": "López",
+          "credit_id": "5fb59610d38b58003fecd940",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3079098,
+          "known_for_department": "Acting",
+          "name": "Antonio Capuano",
+          "original_name": "Antonio Capuano",
+          "popularity": 0.1991,
+          "profile_path": null,
+          "cast_id": 26,
+          "character": "Auxiliar",
+          "credit_id": "65be7bcea35c8e017cd499b9",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1640444,
+          "known_for_department": "Acting",
+          "name": "Juan José Porta",
+          "original_name": "Juan José Porta",
+          "popularity": 0.2956,
+          "profile_path": "/dym7MVEdBy5FP9leafGtNn7TBUm.jpg",
+          "cast_id": 13,
+          "character": "Juez",
+          "credit_id": "5fb5962e945c200040f137b0",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2861451,
+          "known_for_department": "Acting",
+          "name": "Patricio Azcárate",
+          "original_name": "Patricio Azcárate",
+          "popularity": 0.0965,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Oficial",
+          "credit_id": "5fb5964175110d003b0583e5",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1124644,
+          "known_for_department": "Acting",
+          "name": "Vicente Rubino",
+          "original_name": "Vicente Rubino",
+          "popularity": 0.2951,
+          "profile_path": "/jDhUPwZr2EC8YCE5FXDFb1FU2Yb.jpg",
+          "cast_id": 15,
+          "character": "Periodista",
+          "credit_id": "5fb5964e75110d003a05341e",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2297783,
+          "known_for_department": "Acting",
+          "name": "Mercedes Quintana",
+          "original_name": "Mercedes Quintana",
+          "popularity": 0.0801,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "",
+          "credit_id": "5fb5966b1f027500405dd190",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2462246,
+          "known_for_department": "Acting",
+          "name": "Eduardo Armani",
+          "original_name": "Eduardo Armani",
+          "popularity": 0.0867,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "",
+          "credit_id": "5fb59688e640d6004243a3de",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1775328,
+          "known_for_department": "Acting",
+          "name": "Rafael Diserio",
+          "original_name": "Rafael Diserio",
+          "popularity": 0.251,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Hombre en boite",
+          "credit_id": "5fb5969a439be1003ef9aeec",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1361488,
+          "known_for_department": "Acting",
+          "name": "Orestes Soriani",
+          "original_name": "Orestes Soriani",
+          "popularity": 0.2889,
+          "profile_path": "/lK7Va28wM02Jh6MWWWdYqR4IGAl.jpg",
+          "cast_id": 19,
+          "character": "Policía",
+          "credit_id": "5fb596a9439be10040f92f26",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1598379,
+          "known_for_department": "Acting",
+          "name": "Bernardo Perrone",
+          "original_name": "Bernardo Perrone",
+          "popularity": 0.4387,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Miembro del tribunal",
+          "credit_id": "5fb596b9d0b434003da8223a",
+          "order": 15
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1639159,
+          "known_for_department": "Sound",
+          "name": "Rodolfo Sciammarella",
+          "original_name": "Rodolfo Sciammarella",
+          "popularity": 0.2091,
+          "profile_path": null,
+          "credit_id": "5a129f41c3a368628c05e2cf",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1411903,
+          "known_for_department": "Directing",
+          "name": "Manuel Romero",
+          "original_name": "Manuel Romero",
+          "popularity": 0.3211,
+          "profile_path": "/8KsOGinZ1oZv5Z25Aix0v4Twr4g.jpg",
+          "credit_id": "5a129f2bc3a368628306ba8a",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1411903,
+          "known_for_department": "Directing",
+          "name": "Manuel Romero",
+          "original_name": "Manuel Romero",
+          "popularity": 0.3211,
+          "profile_path": "/8KsOGinZ1oZv5Z25Aix0v4Twr4g.jpg",
+          "credit_id": "5a129f1cc3a368628c05e2a2",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1816803,
+          "known_for_department": "Editing",
+          "name": "Antonio Rampoldi",
+          "original_name": "Antonio Rampoldi",
+          "popularity": 0.1385,
+          "profile_path": null,
+          "credit_id": "5a129f65c3a368628006f407",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1815972,
+          "known_for_department": "Art",
+          "name": "Ricardo J. Conord",
+          "original_name": "Ricardo J. Conord",
+          "popularity": 0.2467,
+          "profile_path": null,
+          "credit_id": "5fb59742a22d3e003f0d2d12",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1816806,
+          "known_for_department": "Art",
+          "name": "Francisco Guglielmino",
+          "original_name": "Francisco Guglielmino",
+          "popularity": 0.1234,
+          "profile_path": null,
+          "credit_id": "5fb597541f027500405dd21b",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1360798,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Eduardo Lerchundi",
+          "original_name": "Eduardo Lerchundi",
+          "popularity": 0.3087,
+          "profile_path": null,
+          "credit_id": "5fb59769d0b434003fa5abcd",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1423611,
+          "known_for_department": "Sound",
+          "name": "Leopoldo Orzali",
+          "original_name": "Leopoldo Orzali",
+          "popularity": 0.1205,
+          "profile_path": null,
+          "credit_id": "5fb5971158efd3003c737c2e",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2462246,
+          "known_for_department": "Acting",
+          "name": "Eduardo Armani",
+          "original_name": "Eduardo Armani",
+          "popularity": 0.0867,
+          "profile_path": null,
+          "credit_id": "5fb596fad55e4d003cd98536",
+          "department": "Sound",
+          "job": "Music Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1818145,
+          "known_for_department": "Camera",
+          "name": "Pablo Tabernero",
+          "original_name": "Pablo Tabernero",
+          "popularity": 0.0989,
+          "profile_path": null,
+          "credit_id": "69dfd86dc4cee17910012abc",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "1942-09-09T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

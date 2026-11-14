@@ -1,0 +1,101 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/755903?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:13.978Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/2SK3uCGkLpoy42uzEgQpjM0nKe6.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 755903,
+    "imdb_id": null,
+    "origin_country": [
+      "HK"
+    ],
+    "original_language": "zh",
+    "original_title": "Miriam Yeung Minor Classics Live",
+    "overview": "",
+    "popularity": 0.376,
+    "poster_path": "/iLRl8N1vkstLzYntrnnm73l77TK.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      }
+    ],
+    "release_date": "2011-11-24",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Miriam Yeung Minor Classics Live",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 56863,
+          "known_for_department": "Acting",
+          "name": "楊千嬅",
+          "original_name": "楊千嬅",
+          "popularity": 1.6777,
+          "profile_path": "/3NgovoC2nnHOFq7vr6j7m6URS7V.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5f905332278d8a003735285b",
+          "order": 0
+        }
+      ],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "HK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2011-11-24T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "HK",
+          "title": "楊千嬅 Minor Classics 音樂會 2011",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CN",
+          "title": "杨千嬅2011小型音乐会",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

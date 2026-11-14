@@ -1,0 +1,757 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/57521?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:59.432Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/ywScdkxr19Gggsr3u9o0Ped0srS.jpg",
+    "belongs_to_collection": null,
+    "budget": 6000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "http://www.panegre.com/",
+    "id": 57521,
+    "imdb_id": "tt1454523",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "ca",
+    "original_title": "Pa Negre",
+    "overview": "Durante los duros años de la postguerra, en una zona rural de Cataluña, un niño llamado Andreu, cuya familia pertenece al bando de los perdedores, encuentra un día en el bosque los cadáveres de un hombre y su hijo. Las autoridades sospechan de su padre, pero Andreu intentará encontrar al culpable. En estas circunstancias, se produce en Andreu el despertar de una conciencia moral que se opone a la mentira como instrumento del mundo de los adultos.",
+    "popularity": 1.3414,
+    "poster_path": "/bky4ArtXRnWLpGfDYLvY6S45yDj.jpg",
+    "production_companies": [
+      {
+        "id": 20786,
+        "logo_path": null,
+        "name": "Massa d'Or Produccions",
+        "origin_country": ""
+      },
+      {
+        "id": 5085,
+        "logo_path": "/mPuVc7m1Ki7OQQvAYwYfIlEI3vu.png",
+        "name": "TV3",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2010-10-10",
+    "revenue": 3770657,
+    "runtime": 108,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Catalan",
+        "iso_639_1": "ca",
+        "name": "Català"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Las mentiras de los adultos crían pequeños monstruos",
+    "title": "Pan negro",
+    "video": false,
+    "vote_average": 6.656,
+    "vote_count": 128,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 226429,
+          "known_for_department": "Acting",
+          "name": "Francesc Colomer",
+          "original_name": "Francesc Colomer",
+          "popularity": 0.3132,
+          "profile_path": "/sWcgILIJFHwUZQbMkzNbvzWcVmK.jpg",
+          "cast_id": 2,
+          "character": "Andreu",
+          "credit_id": "52fe4938c3a36847f818f563",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 226430,
+          "known_for_department": "Acting",
+          "name": "Marina Comas",
+          "original_name": "Marina Comas",
+          "popularity": 0.2915,
+          "profile_path": "/ltlzrgA0NmH07b7xiwLxaUN3QYi.jpg",
+          "cast_id": 3,
+          "character": "Núria",
+          "credit_id": "52fe4938c3a36847f818f567",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 226431,
+          "known_for_department": "Acting",
+          "name": "Nora Navas",
+          "original_name": "Nora Navas",
+          "popularity": 0.5986,
+          "profile_path": "/kTvfxyKoWUoxgsTSIRHs8dgdD3A.jpg",
+          "cast_id": 4,
+          "character": "Florència",
+          "credit_id": "52fe4938c3a36847f818f56b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17007,
+          "known_for_department": "Acting",
+          "name": "Roger Casamajor",
+          "original_name": "Roger Casamajor",
+          "popularity": 0.5913,
+          "profile_path": "/1UQozr5Y4C9HlFAWvsjsLPvThLF.jpg",
+          "cast_id": 5,
+          "character": "Farriol",
+          "credit_id": "52fe4938c3a36847f818f56f",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 226432,
+          "known_for_department": "Acting",
+          "name": "Lluïsa Castell",
+          "original_name": "Lluïsa Castell",
+          "popularity": 0.2753,
+          "profile_path": "/esCDIWtCOjbYFtf7dTLMvgrQNK2.jpg",
+          "cast_id": 6,
+          "character": "Ció",
+          "credit_id": "52fe4938c3a36847f818f573",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 226433,
+          "known_for_department": "Acting",
+          "name": "Mercé Arànega",
+          "original_name": "Mercé Arànega",
+          "popularity": 0.1276,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Sra. Manubens",
+          "credit_id": "52fe4938c3a36847f818f577",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 107927,
+          "known_for_department": "Acting",
+          "name": "Marina Gatell",
+          "original_name": "Marina Gatell",
+          "popularity": 0.4035,
+          "profile_path": "/t3yeuxuE3X2JmB8uAw63hIxOW7h.jpg",
+          "cast_id": 8,
+          "character": "Enriqueta",
+          "credit_id": "52fe4938c3a36847f818f57b",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 226434,
+          "known_for_department": "Acting",
+          "name": "Elisa Crehuet",
+          "original_name": "Elisa Crehuet",
+          "popularity": 0.1997,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Àvia",
+          "credit_id": "52fe4938c3a36847f818f57f",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1156199,
+          "known_for_department": "Acting",
+          "name": "Lázaro Mur",
+          "original_name": "Lázaro Mur",
+          "popularity": 0.1358,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Tísic",
+          "credit_id": "5ad41db50e0a2628bc00c67c",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1849084,
+          "known_for_department": "Acting",
+          "name": "Jordi Pla",
+          "original_name": "Jordi Pla",
+          "popularity": 0.208,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Quirze",
+          "credit_id": "5ad41dc40e0a2628bc00c69b",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 16974,
+          "known_for_department": "Acting",
+          "name": "Laia Marull",
+          "original_name": "Laia Marull",
+          "popularity": 0.4574,
+          "profile_path": "/9UCGtbwtrgXuQSgznmXvVgKIEmQ.jpg",
+          "cast_id": 13,
+          "character": "Pauleta",
+          "credit_id": "555ceb57c3a3682d87002147",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16972,
+          "known_for_department": "Acting",
+          "name": "Sergi López",
+          "original_name": "Sergi López",
+          "popularity": 0.781,
+          "profile_path": "/n3HcmUflYYaHUiQmzaayi0yqcRf.jpg",
+          "cast_id": 14,
+          "character": "Alcalde",
+          "credit_id": "555ceb76c3a3682d82001d91",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 87015,
+          "known_for_department": "Acting",
+          "name": "Eduard Fernández",
+          "original_name": "Eduard Fernández",
+          "popularity": 0.8835,
+          "profile_path": "/1oBOegVHnzjNAU3PFsulfYApEb8.jpg",
+          "cast_id": 15,
+          "character": "Mestre",
+          "credit_id": "555ceb889251416b66002013",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2023590,
+          "known_for_department": "Acting",
+          "name": "Andrea Caro",
+          "original_name": "Andrea Caro",
+          "popularity": 0.0483,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Roviretes",
+          "credit_id": "5ad41dd3925141298100c53d",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 936221,
+          "known_for_department": "Acting",
+          "name": "Joan Carles Suau",
+          "original_name": "Joan Carles Suau",
+          "popularity": 0.1755,
+          "profile_path": "/iLcZIDhtHsA0ZwDg6al7TrHhapx.jpg",
+          "cast_id": 26,
+          "character": "",
+          "credit_id": "699dd217350548103a6a9c32",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1363148,
+          "known_for_department": "Acting",
+          "name": "Ramón Moreno",
+          "original_name": "Ramón Moreno",
+          "popularity": 0.1702,
+          "profile_path": null,
+          "cast_id": 27,
+          "character": "",
+          "credit_id": "699dd2211ac1a280e36a9c60",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 543335,
+          "known_for_department": "Acting",
+          "name": "Manuel Bronchoud",
+          "original_name": "Manuel Bronchud",
+          "popularity": 0.2426,
+          "profile_path": null,
+          "cast_id": 28,
+          "character": "",
+          "credit_id": "699dd23d48541116ea6d034e",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 43338,
+          "known_for_department": "Acting",
+          "name": "Pere Tomàs",
+          "original_name": "Pere Tomàs",
+          "popularity": 0.1375,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "",
+          "credit_id": "699dd28d8e308198cf375415",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6029288,
+          "known_for_department": "Acting",
+          "name": "Jordi Esteva",
+          "original_name": "Jordi Esteva",
+          "popularity": 0.0539,
+          "profile_path": null,
+          "cast_id": 30,
+          "character": "",
+          "credit_id": "699dd2a3966941c42fa43aaa",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5080367,
+          "known_for_department": "Acting",
+          "name": "Daniel Fuster",
+          "original_name": "Daniel Fuster",
+          "popularity": 0.1575,
+          "profile_path": null,
+          "cast_id": 31,
+          "character": "",
+          "credit_id": "699dd2cc02f4c6001c06611e",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1936493,
+          "known_for_department": "Acting",
+          "name": "Eva Basteiro-Bertoli",
+          "original_name": "Eva Basteiro-Bertoli",
+          "popularity": 0.0279,
+          "profile_path": "/gqXvT7NVmIT7geJdMc5lt2dfDDU.jpg",
+          "cast_id": 32,
+          "character": "",
+          "credit_id": "699dd2d7d7fa27bd28d7485e",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1377475,
+          "known_for_department": "Acting",
+          "name": "Jesús Ramos",
+          "original_name": "Jesús Ramos",
+          "popularity": 0.3089,
+          "profile_path": null,
+          "cast_id": 33,
+          "character": "",
+          "credit_id": "699dd2f3a456c54ec26a9be6",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2866737,
+          "known_for_department": "Acting",
+          "name": "Miguel Borrás",
+          "original_name": "Miguel Borrás",
+          "popularity": 0.0913,
+          "profile_path": null,
+          "cast_id": 34,
+          "character": "",
+          "credit_id": "699dd2f94bf8e6b4d4d74ae8",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6029290,
+          "known_for_department": "Acting",
+          "name": "José Ramón Lloret",
+          "original_name": "José Ramón Lloret",
+          "popularity": 0.075,
+          "profile_path": null,
+          "cast_id": 35,
+          "character": "",
+          "credit_id": "699dd3006ea891172a37394b",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2242067,
+          "known_for_department": "Acting",
+          "name": "Rubén Arroyo",
+          "original_name": "Rubén Arroyo",
+          "popularity": 0.0657,
+          "profile_path": "/qg2K8CXPhlMzHfpV5eZbrEykVTc.jpg",
+          "cast_id": 36,
+          "character": "",
+          "credit_id": "699dd30b34cfa129376a9bdd",
+          "order": 24
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 145274,
+          "known_for_department": "Acting",
+          "name": "Bruna Lombardi",
+          "original_name": "Bruna Lombardi",
+          "popularity": 0.5449,
+          "profile_path": "/sL9UYCM3kFhBWYAxQ7vLdcN2jwc.jpg",
+          "cast_id": 37,
+          "character": "",
+          "credit_id": "699dd313aa5846ecfad74866",
+          "order": 25
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1469870,
+          "known_for_department": "Acting",
+          "name": "Rosa Nicolás",
+          "original_name": "Rosa Nicolás",
+          "popularity": 0.1387,
+          "profile_path": "/pEdGOyzqoFWm1eIIm5oypOfrvvQ.jpg",
+          "cast_id": 38,
+          "character": "",
+          "credit_id": "699dd31c3eb01a090a2b03c3",
+          "order": 26
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2614168,
+          "known_for_department": "Acting",
+          "name": "Arnau Pons",
+          "original_name": "Arnau Pons",
+          "popularity": 0.0873,
+          "profile_path": null,
+          "cast_id": 39,
+          "character": "",
+          "credit_id": "699dd3252b1fac737d2b01a8",
+          "order": 27
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1168109,
+          "known_for_department": "Camera",
+          "name": "Jaume Peracaula",
+          "original_name": "Jaume Peracaula",
+          "popularity": 0.1396,
+          "profile_path": null,
+          "cast_id": 40,
+          "character": "",
+          "credit_id": "699dd32ecd7bd70e8ca43a7c",
+          "order": 28
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6029292,
+          "known_for_department": "Acting",
+          "name": "Jesus Ratera",
+          "original_name": "Jesus Ratera",
+          "popularity": 0.0624,
+          "profile_path": null,
+          "cast_id": 41,
+          "character": "",
+          "credit_id": "699dd3341ac1a280e36a9c71",
+          "order": 29
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6029293,
+          "known_for_department": "Acting",
+          "name": "Albert Gasull",
+          "original_name": "Albert Gasull",
+          "popularity": 0.0438,
+          "profile_path": null,
+          "cast_id": 42,
+          "character": "",
+          "credit_id": "699dd33a023a5aa0c06a9cbf",
+          "order": 30
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4901889,
+          "known_for_department": "Acting",
+          "name": "Josep Maria Castellví",
+          "original_name": "Josep Maria Castellví",
+          "popularity": 0.0975,
+          "profile_path": null,
+          "cast_id": 43,
+          "character": "",
+          "credit_id": "699dd34734cfa129376a9bef",
+          "order": 31
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 151162,
+          "known_for_department": "Directing",
+          "name": "Agustí Villaronga",
+          "original_name": "Agustí Villaronga",
+          "popularity": 0.6313,
+          "profile_path": "/zW591ovxB52XldiJHUerAOb9V8K.jpg",
+          "credit_id": "52fe4938c3a36847f818f55f",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 151162,
+          "known_for_department": "Directing",
+          "name": "Agustí Villaronga",
+          "original_name": "Agustí Villaronga",
+          "popularity": 0.6313,
+          "profile_path": "/zW591ovxB52XldiJHUerAOb9V8K.jpg",
+          "credit_id": "5321a307c3a36828ba0019a1",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1173096,
+          "known_for_department": "Production",
+          "name": "Isona Passola",
+          "original_name": "Isona Passola",
+          "popularity": 0.1666,
+          "profile_path": "/moeCDQOcYZeBx8XJvyh63GqDmQl.jpg",
+          "credit_id": "5321a32fc3a368574d0033e9",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1396117,
+          "known_for_department": "Production",
+          "name": "Lluís Ferrando",
+          "original_name": "Lluís Ferrando",
+          "popularity": 0.1068,
+          "profile_path": null,
+          "credit_id": "6532a6f4efe37c00e42d6614",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1061960,
+          "known_for_department": "Writing",
+          "name": "Emili Teixidor",
+          "original_name": "Emili Teixidor",
+          "popularity": 0.3432,
+          "profile_path": null,
+          "credit_id": "6532a6d56f8d95012cd11604",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17533,
+          "known_for_department": "Production",
+          "name": "Pep Armengol",
+          "original_name": "Pep Armengol",
+          "popularity": 0.3753,
+          "profile_path": "/yBq3vrpQhbogDYVVyNN1JPt2rmM.jpg",
+          "credit_id": "6532a7358d22fc00ea6d27b4",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1141773,
+          "known_for_department": "Production",
+          "name": "Elisa Plaza",
+          "original_name": "Elisa Plaza",
+          "popularity": 0.1132,
+          "profile_path": null,
+          "credit_id": "6532a7006d9fe80138cac43b",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1498858,
+          "known_for_department": "Sound",
+          "name": "José Manuel Pagán",
+          "original_name": "José Manuel Pagán",
+          "popularity": 0.191,
+          "profile_path": null,
+          "credit_id": "699dd369236fc6cf1c6a9c82",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4330623,
+          "known_for_department": "Sound",
+          "name": "Oriol Carrasco",
+          "original_name": "Oriol Carrasco",
+          "popularity": 0.0607,
+          "profile_path": null,
+          "credit_id": "699dd3808e899148dc066104",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1094762,
+          "known_for_department": "Camera",
+          "name": "Antonio Riestra",
+          "original_name": "Antonio Riestra",
+          "popularity": 0.2413,
+          "profile_path": null,
+          "credit_id": "699dd395e4e08fe3d03759f8",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-10-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2011-08-24T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2014-05-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2011-04-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "ES",
+          "title": "Pan Negro",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Pain noir",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "GR",
+          "title": "Mavro psomi",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "HR",
+          "title": "Crni kruh",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "HU",
+          "title": "Fekete lelkek",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PL",
+          "title": "Czarny chleb",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PT",
+          "title": "Pão Negro",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "NL",
+          "title": "Black Bread",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

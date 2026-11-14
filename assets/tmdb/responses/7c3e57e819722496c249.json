@@ -1,0 +1,66 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=El+partido&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-14T02:25:45.354Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/kvGDXseMAZ6GYExkjP9h5L6hrWi.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1666712,
+        "title": "El Partido",
+        "original_language": "es",
+        "original_title": "El Partido",
+        "overview": "Narra la historia del emblemático partido entre Argentina e Inglaterra, disputado en el Estadio Azteca durante la Copa Mundial de Fútbol de 1986. Utilizando raras imágenes de archivo, como la controvertida \"Mano de Dios\" de Maradona, la película reconstruye aquel acontecimiento como un recuerdo vivo, pero también como la culminación de más de doscientos años de tensiones, encuentros y conflictos entre ambas naciones.",
+        "popularity": 0.851,
+        "poster_path": "/e5PVS1QgYS5DxHZeBWTKdxYMyou.jpg",
+        "release_date": "2026-05-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1703151,
+        "title": "El Otro Partido",
+        "original_language": "xx",
+        "original_title": "El Otro Partido",
+        "overview": "",
+        "popularity": 0.0422,
+        "poster_path": "/uEwIOQ3lSnZMjvBN7pHnWK2X3P9.jpg",
+        "release_date": "2026-01-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sDaIuRIjyI0LdKlX1jF0r9zmCYD.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1621024,
+        "title": "El partido que cambió el tenis",
+        "original_language": "en",
+        "original_title": "The Match That Changed Tennis",
+        "overview": "El duelo épico entre Djokovic y Nadal, mostrando su brillantez física, resistencia mental e intensidad emocional. Explore cómo este partido elevó el listón de las demandas físicas y mentales en el tenis, e inspiró a los próximos jugadores.",
+        "popularity": 0.8143,
+        "poster_path": "/oA7uL5PYZin1XeHEwFR2XIvjGYl.jpg",
+        "release_date": "2026-01-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 3
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+  }
+}

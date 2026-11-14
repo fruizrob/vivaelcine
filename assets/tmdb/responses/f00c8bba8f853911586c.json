@@ -1,0 +1,631 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/18871?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:53.368Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/aDLIjWJiXKx7PZ9JR8kuVNvUhyt.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 18871,
+    "imdb_id": "tt0039768",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Ride the Pink Horse",
+    "overview": "Lucky Gagin (Robert Montgomery) llega, en la víspera de una fiesta popular, a un pueblo mexicano de la frontera, con la misión de encontrar a un tal Frank Hugo (Fred Clark), de quien quiere vengarse. Un agente del FBI (Art Smith) también está tras la pista del misterioso Hugo.",
+    "popularity": 0.9393,
+    "poster_path": "/ia26MItbza7RAfYHw0ni83Km1HY.jpg",
+    "production_companies": [
+      {
+        "id": 10330,
+        "logo_path": "/vevakirICdmHxRPeZUdbjFqcFLM.png",
+        "name": "Universal International Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1947-10-08",
+    "revenue": 0,
+    "runtime": 97,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Persecución en la noche",
+    "video": false,
+    "vote_average": 7.236,
+    "vote_count": 74,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19406,
+          "known_for_department": "Acting",
+          "name": "Robert Montgomery",
+          "original_name": "Robert Montgomery",
+          "popularity": 0.8003,
+          "profile_path": "/o2H1yxVxbxlTWP1PZDFXv6oxiFj.jpg",
+          "cast_id": 1,
+          "character": "Lucky Gagin",
+          "credit_id": "52fe47a39251416c750a07ef",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 83743,
+          "known_for_department": "Acting",
+          "name": "Wanda Hendrix",
+          "original_name": "Wanda Hendrix",
+          "popularity": 0.5818,
+          "profile_path": "/A8XZJs9MCWleWo3SKt1K5ddG7rD.jpg",
+          "cast_id": 2,
+          "character": "Pila",
+          "credit_id": "52fe47a39251416c750a07f3",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 30952,
+          "known_for_department": "Acting",
+          "name": "Andrea King",
+          "original_name": "Andrea King",
+          "popularity": 0.5844,
+          "profile_path": "/46vBn004kQyF7TNffF1PbH2vrQj.jpg",
+          "cast_id": 3,
+          "character": "Marjorie Lundeen",
+          "credit_id": "52fe47a39251416c750a07f7",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 18646,
+          "known_for_department": "Acting",
+          "name": "Thomas Gomez",
+          "original_name": "Thomas Gomez",
+          "popularity": 0.7916,
+          "profile_path": "/B8xqQSXSFUjlXydqMN2w6WdFiV.jpg",
+          "cast_id": 4,
+          "character": "Pancho",
+          "credit_id": "52fe47a39251416c750a07fb",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 8632,
+          "known_for_department": "Acting",
+          "name": "Fred Clark",
+          "original_name": "Fred Clark",
+          "popularity": 0.7938,
+          "profile_path": "/yBjSwb6xma9ukYpbSe75C0eqNTx.jpg",
+          "cast_id": 5,
+          "character": "Frank Hugo",
+          "credit_id": "52fe47a39251416c750a07ff",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14359,
+          "known_for_department": "Acting",
+          "name": "Art Smith",
+          "original_name": "Art Smith",
+          "popularity": 0.4108,
+          "profile_path": "/pZUgwEf3x0yHRuwRv5ys42FpZC9.jpg",
+          "cast_id": 6,
+          "character": "Bill Retz",
+          "credit_id": "52fe47a39251416c750a0803",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14976,
+          "known_for_department": "Acting",
+          "name": "Richard Gaines",
+          "original_name": "Richard Gaines",
+          "popularity": 0.4322,
+          "profile_path": "/qTap65x0jLOgyM0jxC3BPG83TEN.jpg",
+          "cast_id": 7,
+          "character": "Jonathan",
+          "credit_id": "52fe47a39251416c750a0807",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 83744,
+          "known_for_department": "Acting",
+          "name": "Rita Conde",
+          "original_name": "Rita Conde",
+          "popularity": 0.2132,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Carla",
+          "credit_id": "52fe47a39251416c750a080b",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 83745,
+          "known_for_department": "Acting",
+          "name": "Iris Flores",
+          "original_name": "Iris Flores",
+          "popularity": 0.1762,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Maria",
+          "credit_id": "52fe47a39251416c750a080f",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 94335,
+          "known_for_department": "Acting",
+          "name": "Tito Renaldo",
+          "original_name": "Tito Renaldo",
+          "popularity": 0.3827,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Bellboy",
+          "credit_id": "52fe47a49251416c750a082f",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 82749,
+          "known_for_department": "Acting",
+          "name": "Grandon Rhodes",
+          "original_name": "Grandon Rhodes",
+          "popularity": 0.5846,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Mr. Edison",
+          "credit_id": "52fe47a49251416c750a082b",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 94401,
+          "known_for_department": "Acting",
+          "name": "Martín Garralaga",
+          "original_name": "Martín Garralaga",
+          "popularity": 0.4975,
+          "profile_path": "/tmXwvyHlxPhfig7qKhzIRxfid3Y.jpg",
+          "cast_id": 16,
+          "character": "Barkeeper",
+          "credit_id": "52fe47a49251416c750a0833",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 34508,
+          "known_for_department": "Acting",
+          "name": "Edward Earle",
+          "original_name": "Edward Earle",
+          "popularity": 0.4583,
+          "profile_path": "/mybd58aGD8RYdfjObAcbdgx4og2.jpg",
+          "cast_id": 17,
+          "character": "Locke",
+          "credit_id": "52fe47a49251416c750a0837",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 80545,
+          "known_for_department": "Acting",
+          "name": "Harold Goodwin",
+          "original_name": "Harold Goodwin",
+          "popularity": 0.3836,
+          "profile_path": "/iBjhsEdnsSs9Ll14rgKrSl33iff.jpg",
+          "cast_id": 18,
+          "character": "Red",
+          "credit_id": "52fe47a49251416c750a083b",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1291517,
+          "known_for_department": "Acting",
+          "name": "Maria Cortez",
+          "original_name": "Maria Cortez",
+          "popularity": 0.0953,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Elevator Girl",
+          "credit_id": "52fe47a49251416c750a083f",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 34609,
+          "known_for_department": "Acting",
+          "name": "Paul Bryar",
+          "original_name": "Paul Bryar",
+          "popularity": 0.687,
+          "profile_path": "/o13k57tZuq5JZCRxHoNX0adOrcD.jpg",
+          "cast_id": 21,
+          "character": "Policeman (uncredited)",
+          "credit_id": "52fe47a49251416c750a0847",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 34130,
+          "known_for_department": "Acting",
+          "name": "John Doucette",
+          "original_name": "John Doucette",
+          "popularity": 0.7682,
+          "profile_path": "/xwSggqoVJTnipwaMsbIGz1J37sp.jpg",
+          "cast_id": 20,
+          "character": "Thug (uncredited)",
+          "credit_id": "52fe47a49251416c750a0843",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 155252,
+          "known_for_department": "Acting",
+          "name": "Robert Cabal",
+          "original_name": "Robert Cabal",
+          "popularity": 0.3668,
+          "profile_path": "/hAJxjlnhngpWyUuUntbLXXKH8vZ.jpg",
+          "cast_id": 38,
+          "character": "Muchaho (uncredited)",
+          "credit_id": "6498b5c56f43ec011c62b971",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 161702,
+          "known_for_department": "Acting",
+          "name": "Julian Rivero",
+          "original_name": "Julian Rivero",
+          "popularity": 0.5762,
+          "profile_path": null,
+          "cast_id": 39,
+          "character": "Mexican Man (uncredited)",
+          "credit_id": "6498b5d6bbd0b00144f44049",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1096850,
+          "known_for_department": "Acting",
+          "name": "Charles Stevens",
+          "original_name": "Charles Stevens",
+          "popularity": 0.475,
+          "profile_path": "/5mCi2fkG5pn68RXaNSDa6eVouPm.jpg",
+          "cast_id": 40,
+          "character": "Drunk Mexican (uncredited)",
+          "credit_id": "6498b5dfbbd0b00144f4404f",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4131000,
+          "known_for_department": "Acting",
+          "name": "Roque Ybarra Jr.",
+          "original_name": "Roque Ybarra Jr.",
+          "popularity": 0.0502,
+          "profile_path": null,
+          "cast_id": 41,
+          "character": "Mexican Boy (uncredited)",
+          "credit_id": "6498b64a03bf84013c02da71",
+          "order": 20
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 19406,
+          "known_for_department": "Acting",
+          "name": "Robert Montgomery",
+          "original_name": "Robert Montgomery",
+          "popularity": 0.8003,
+          "profile_path": "/o2H1yxVxbxlTWP1PZDFXv6oxiFj.jpg",
+          "credit_id": "52fe47a39251416c750a0815",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4341,
+          "known_for_department": "Writing",
+          "name": "Ben Hecht",
+          "original_name": "Ben Hecht",
+          "popularity": 0.6648,
+          "profile_path": "/uYYvAfPiSx5BoWA0CrUS32p3qI5.jpg",
+          "credit_id": "52fe47a39251416c750a081b",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4358,
+          "known_for_department": "Writing",
+          "name": "Charles Lederer",
+          "original_name": "Charles Lederer",
+          "popularity": 0.4435,
+          "profile_path": "/h8OpLegI7NkkfpbF7WFsQ3uYaW3.jpg",
+          "credit_id": "52fe47a39251416c750a0821",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 81184,
+          "known_for_department": "Writing",
+          "name": "Dorothy B. Hughes",
+          "original_name": "Dorothy B. Hughes",
+          "popularity": 0.1888,
+          "profile_path": "/uAKBuvkScnXE9ugBYecsqs4ahNP.jpg",
+          "credit_id": "52fe47a39251416c750a0827",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 29637,
+          "known_for_department": "Art",
+          "name": "Bernard Herzbrun",
+          "original_name": "Bernard Herzbrun",
+          "popularity": 0.3127,
+          "profile_path": null,
+          "credit_id": "55ae80629251411e0f00adf0",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2657,
+          "known_for_department": "Art",
+          "name": "Robert F. Boyle",
+          "original_name": "Robert F. Boyle",
+          "popularity": 0.3634,
+          "profile_path": null,
+          "credit_id": "55ae80779251411e1100b0c4",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 8715,
+          "known_for_department": "Editing",
+          "name": "Ralph Dawson",
+          "original_name": "Ralph Dawson",
+          "popularity": 0.2938,
+          "profile_path": null,
+          "credit_id": "55ae808392514172ef008c90",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 7654,
+          "known_for_department": "Sound",
+          "name": "Leslie I. Carey",
+          "original_name": "Leslie I. Carey",
+          "popularity": 0.2679,
+          "profile_path": null,
+          "credit_id": "55ae80939251411e1400ae8d",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1489133,
+          "known_for_department": "Sound",
+          "name": "Jack A. Bolger, Jr.",
+          "original_name": "Jack A. Bolger, Jr.",
+          "popularity": 0.3045,
+          "profile_path": null,
+          "credit_id": "55ae80acc3a368300200ab64",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 12348,
+          "known_for_department": "Art",
+          "name": "Russell A. Gausman",
+          "original_name": "Russell A. Gausman",
+          "popularity": 0.2681,
+          "profile_path": null,
+          "credit_id": "55ae80b992514125da00aa78",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30107,
+          "known_for_department": "Art",
+          "name": "Oliver Emert",
+          "original_name": "Oliver Emert",
+          "popularity": 0.1785,
+          "profile_path": null,
+          "credit_id": "55ae80c192514125da00aa7a",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 30110,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Carmen Dirigo",
+          "original_name": "Carmen Dirigo",
+          "popularity": 0.1826,
+          "profile_path": null,
+          "credit_id": "55ae80f8c3a3682ff400c344",
+          "department": "Costume & Make-Up",
+          "job": "Hairstylist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14498,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Bud Westmore",
+          "original_name": "Bud Westmore",
+          "popularity": 0.5247,
+          "profile_path": "/cujaF4TgLnpronQ3aMCnbLSSOW7.jpg",
+          "credit_id": "55ae8100c3a368246c005424",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 417597,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Yvonne Wood",
+          "original_name": "Yvonne Wood",
+          "popularity": 0.257,
+          "profile_path": "/2EH2vfx2CgZeHctWCwkkQET5KvY.jpg",
+          "credit_id": "55ae810fc3a3687265004769",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 13809,
+          "known_for_department": "Camera",
+          "name": "Russell Metty",
+          "original_name": "Russell Metty",
+          "popularity": 0.3251,
+          "profile_path": null,
+          "credit_id": "55ae8121c3a368246c005427",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 121314,
+          "known_for_department": "Directing",
+          "name": "John Sherwood",
+          "original_name": "John Sherwood",
+          "popularity": 0.2468,
+          "profile_path": null,
+          "credit_id": "55ae8149c3a3682ff400c354",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 69513,
+          "known_for_department": "Production",
+          "name": "Joan Harrison",
+          "original_name": "Joan Harrison",
+          "popularity": 0.4396,
+          "profile_path": "/nnZhx4Fh1yf9oqkPSrV9d9a6QlE.jpg",
+          "credit_id": "55ae81afc3a368300200ab76",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30104,
+          "known_for_department": "Sound",
+          "name": "Frank Skinner",
+          "original_name": "Frank Skinner",
+          "popularity": 0.5872,
+          "profile_path": "/iXSLNqs6Rf9ynJ9TzNSpabNO2iW.jpg",
+          "credit_id": "5741d19ac3a3680745005239",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1947-10-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "PT",
+          "title": "Do Lodo Nasceu Uma Flor",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

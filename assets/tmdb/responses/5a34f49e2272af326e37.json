@@ -1,0 +1,316 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/400112?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:47.234Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 85000,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 400112,
+    "imdb_id": "tt13194068",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Los hijos mandan",
+    "overview": "",
+    "popularity": 0.354,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 77548,
+        "logo_path": null,
+        "name": "Cobián Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PR",
+        "name": "Puerto Rico"
+      },
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "1939-09-03",
+    "revenue": 0,
+    "runtime": 77,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Los hijos mandan",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 99171,
+          "known_for_department": "Acting",
+          "name": "Arturo de Córdova",
+          "original_name": "Arturo de Córdova",
+          "popularity": 0.5089,
+          "profile_path": "/znK2U1ylryi65tDhaT3vROUOXJH.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "574c5cffc3a3685435000073",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 185795,
+          "known_for_department": "Acting",
+          "name": "Fernando Soler",
+          "original_name": "Fernando Soler",
+          "popularity": 0.4212,
+          "profile_path": "/bkjpnIEvMakxAUEYE7dB9r8Hv1M.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "574c5d0fc3a368544100007d",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 941416,
+          "known_for_department": "Acting",
+          "name": "Blanca de Castejón",
+          "original_name": "Blanca de Castejón",
+          "popularity": 0.6292,
+          "profile_path": "/nuJ1lsPniM3sUqJdeF7dOpN3qky.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "574c5d419251412410000020",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 236239,
+          "known_for_department": "Directing",
+          "name": "Julián Soler",
+          "original_name": "Julián Soler",
+          "popularity": 0.475,
+          "profile_path": "/nkmUAbCnjy43dQlxFDEVIvKKZQ0.jpg",
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "574c5d50c3a368543e000081",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1658568,
+          "known_for_department": "Acting",
+          "name": "Carmen Mora",
+          "original_name": "Carmen Mora",
+          "popularity": 0.0927,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "",
+          "credit_id": "579c2dbbc3a3685b59003f8d",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1472158,
+          "known_for_department": "Acting",
+          "name": "Emilia Leovalli",
+          "original_name": "Emilia Leovalli",
+          "popularity": 0.1177,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "",
+          "credit_id": "579c2dd3c3a368565f003ef2",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 580218,
+          "known_for_department": "Acting",
+          "name": "Carlos Villarías",
+          "original_name": "Carlos Villarías",
+          "popularity": 0.3693,
+          "profile_path": "/iaYK6nLEvuQAApl0NPRPzco8FBK.jpg",
+          "cast_id": 12,
+          "character": "",
+          "credit_id": "579c2df69251411b0b003e27",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1040156,
+          "known_for_department": "Acting",
+          "name": "José Peña",
+          "original_name": "José Peña",
+          "popularity": 0.1984,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "",
+          "credit_id": "579c2e0fc3a368149100486d",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1658569,
+          "known_for_department": "Acting",
+          "name": "Rudy Cobián",
+          "original_name": "Rudy Cobián",
+          "popularity": 0.1037,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "",
+          "credit_id": "579c2e9992514163dc00507c",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 236567,
+          "known_for_department": "Acting",
+          "name": "Paul Ellis",
+          "original_name": "Paul Ellis",
+          "popularity": 0.43,
+          "profile_path": "/iQyvFolA1RTOSbyfvhgOnHcrSVA.jpg",
+          "cast_id": 15,
+          "character": "",
+          "credit_id": "579c2ec09251411b36003dce",
+          "order": 9
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1360346,
+          "known_for_department": "Directing",
+          "name": "Gabriel Soria",
+          "original_name": "Gabriel Soria",
+          "popularity": 0.2127,
+          "profile_path": null,
+          "credit_id": "574c5b149251410ef80001d8",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1628578,
+          "known_for_department": "Production",
+          "name": "Rafael Ramos Cobián",
+          "original_name": "Rafael Ramos Cobián",
+          "popularity": 0.1019,
+          "profile_path": null,
+          "credit_id": "574c5c56c3a368544100005c",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 941416,
+          "known_for_department": "Acting",
+          "name": "Blanca de Castejón",
+          "original_name": "Blanca de Castejón",
+          "popularity": 0.6292,
+          "profile_path": "/nuJ1lsPniM3sUqJdeF7dOpN3qky.jpg",
+          "credit_id": "574c5cd49251412418000023",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1628585,
+          "known_for_department": "Writing",
+          "name": "José López Pinillos",
+          "original_name": "José López Pinillos",
+          "popularity": 0.1183,
+          "profile_path": null,
+          "credit_id": "574c63aa925141241f000117",
+          "department": "Writing",
+          "job": "Author"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1344004,
+          "known_for_department": "Sound",
+          "name": "Nilo Menendez",
+          "original_name": "Nilo Menendez",
+          "popularity": 0.0577,
+          "profile_path": null,
+          "credit_id": "579c2f129251411b0b003e9c",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1576119,
+          "known_for_department": "Writing",
+          "name": "Elvira de la Mora",
+          "original_name": "Elvira de la Mora",
+          "popularity": 0.2214,
+          "profile_path": null,
+          "credit_id": "579d63c5925141069c003319",
+          "department": "Writing",
+          "job": "Screenplay"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1939-09-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "MX",
+          "title": "El caudal de los hijos",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

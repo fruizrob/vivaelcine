@@ -1,0 +1,111 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1232421?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:27.099Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/jnR9wldUmb1MIZJ7Dt2El65kWkv.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1232421,
+    "imdb_id": null,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Ross Noble: Humournoid",
+    "overview": "",
+    "popularity": 0.0922,
+    "poster_path": "/uU239VudvyOWXLGuq83ET8mDcFz.jpg",
+    "production_companies": [
+      {
+        "id": 90344,
+        "logo_path": null,
+        "name": "Stunt Baby Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2022-02-07",
+    "revenue": 0,
+    "runtime": 92,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ross Noble: Humournoid",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 90440,
+          "known_for_department": "Acting",
+          "name": "Ross Noble",
+          "original_name": "Ross Noble",
+          "popularity": 0.5641,
+          "profile_path": "/9oGbE5dvzkIDhIOSp9nnEPbCwDu.jpg",
+          "cast_id": 1,
+          "character": "Himself",
+          "credit_id": "65a7f1a5aa78980131628fd2",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 90440,
+          "known_for_department": "Acting",
+          "name": "Ross Noble",
+          "original_name": "Ross Noble",
+          "popularity": 0.5641,
+          "profile_path": "/9oGbE5dvzkIDhIOSp9nnEPbCwDu.jpg",
+          "credit_id": "65ab3d60357c0000d3d6fc2e",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2022-02-07T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

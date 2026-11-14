@@ -1,0 +1,533 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/772521?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:50.892Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 15000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 772521,
+    "imdb_id": "tt10926464",
+    "origin_country": [
+      "ES",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Lodo",
+    "overview": "",
+    "popularity": 0.4773,
+    "poster_path": "/84GeKzIjx2qaR3WvDcDiJuATr2F.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2022-03-07",
+    "revenue": 0,
+    "runtime": 20,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lodo",
+    "video": false,
+    "vote_average": 2,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3367845,
+          "known_for_department": "Acting",
+          "name": "Jayden Enamorado",
+          "original_name": "Jayden Enamorado",
+          "popularity": 0.0737,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Eru",
+          "credit_id": "61d25d50ec370c00686fe0f2",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1077346,
+          "known_for_department": "Acting",
+          "name": "Laura Patalano",
+          "original_name": "Laura Patalano",
+          "popularity": 0.4315,
+          "profile_path": "/zw1PyiEujvLKWvS7hAwNH46freS.jpg",
+          "cast_id": 3,
+          "character": "Lupe / Grandma",
+          "credit_id": "61d25d5c68929c0041311bd6",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3367847,
+          "known_for_department": "Acting",
+          "name": "Marita De La Torre",
+          "original_name": "Marita De La Torre",
+          "popularity": 0.1442,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Isabela / Mom",
+          "credit_id": "61d25d6d8c22c0001c2b4604",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 170293,
+          "known_for_department": "Acting",
+          "name": "Daniel Edward Mora",
+          "original_name": "Daniel Edward Mora",
+          "popularity": 0.601,
+          "profile_path": "/gRpa5p0MgrHTwhHhpE9MLoCbszq.jpg",
+          "cast_id": 5,
+          "character": "Don Cirilo",
+          "credit_id": "61d25e48497560008ff93a9a",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3367854,
+          "known_for_department": "Acting",
+          "name": "Adan Cortez",
+          "original_name": "Adan Cortez",
+          "popularity": 0.0331,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Kasper",
+          "credit_id": "61d25e540cd32a0068c9eb0d",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3367855,
+          "known_for_department": "Acting",
+          "name": "Raul Cordona",
+          "original_name": "Raul Cordona",
+          "popularity": 0.0866,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Comanche Warrior",
+          "credit_id": "61d25e5fd19a3300427212db",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1211945,
+          "known_for_department": "Acting",
+          "name": "Jill Remez",
+          "original_name": "Jill Remez",
+          "popularity": 0.4019,
+          "profile_path": "/zYNmrHsV1SpSbXyDPwiBC77E7mt.jpg",
+          "cast_id": 8,
+          "character": "Tia Tati",
+          "credit_id": "61d25e69c15f890040f38893",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1086892,
+          "known_for_department": "Camera",
+          "name": "Michael A. Martinez",
+          "original_name": "Michael A. Martinez",
+          "popularity": 0.4888,
+          "profile_path": "/svhvzCBY32BgHghoAbMZf2oFgIo.jpg",
+          "cast_id": 9,
+          "character": "Ghostly Spirit",
+          "credit_id": "61d25e741b722c008bf09b28",
+          "order": 7
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1011963,
+          "known_for_department": "Camera",
+          "name": "Alessandro Gentile",
+          "original_name": "Alessandro Gentile",
+          "popularity": 0.1349,
+          "profile_path": null,
+          "credit_id": "61d25d34a6e2d2001ceb5ca0",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1011963,
+          "known_for_department": "Camera",
+          "name": "Alessandro Gentile",
+          "original_name": "Alessandro Gentile",
+          "popularity": 0.1349,
+          "profile_path": null,
+          "credit_id": "61d25e88497560008ff93b21",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3367847,
+          "known_for_department": "Acting",
+          "name": "Marita De La Torre",
+          "original_name": "Marita De La Torre",
+          "popularity": 0.1442,
+          "profile_path": null,
+          "credit_id": "61d25e921c09fb0041e3f03c",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1264508,
+          "known_for_department": "Camera",
+          "name": "Jeff Dolen",
+          "original_name": "Jeff Dolen",
+          "popularity": 0.1315,
+          "profile_path": null,
+          "credit_id": "61d25e9e4975600067a3923f",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2799528,
+          "known_for_department": "Editing",
+          "name": "Dustin Brown",
+          "original_name": "Dustin Brown",
+          "popularity": 0.028,
+          "profile_path": null,
+          "credit_id": "61d25ed622f5d70045913178",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3367863,
+          "known_for_department": "Sound",
+          "name": "Iván Caramés Bohigas",
+          "original_name": "Iván Caramés Bohigas",
+          "popularity": 0.0535,
+          "profile_path": null,
+          "credit_id": "61d25ee9e21023004221e6df",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2540886,
+          "known_for_department": "Editing",
+          "name": "Elliot M. Smith",
+          "original_name": "Elliot M. Smith",
+          "popularity": 0.1131,
+          "profile_path": null,
+          "credit_id": "61d25ef7e10f460042d76168",
+          "department": "Editing",
+          "job": "Colorist"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3367847,
+          "known_for_department": "Acting",
+          "name": "Marita De La Torre",
+          "original_name": "Marita De La Torre",
+          "popularity": 0.1442,
+          "profile_path": null,
+          "credit_id": "61d25f035ff34e00a147382a",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3180380,
+          "known_for_department": "Production",
+          "name": "Max Solomon",
+          "original_name": "Max Solomon",
+          "popularity": 0.0842,
+          "profile_path": null,
+          "credit_id": "61d25f108ee49c001dd1941b",
+          "department": "Production",
+          "job": "Line Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3367866,
+          "known_for_department": "Art",
+          "name": "Cesar Reyes",
+          "original_name": "Cesar Reyes",
+          "popularity": 0.192,
+          "profile_path": null,
+          "credit_id": "61d25f374284ea001c9edb10",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3367868,
+          "known_for_department": "Art",
+          "name": "Natalie Alessandra",
+          "original_name": "Natalie Alessandra",
+          "popularity": 0.0278,
+          "profile_path": null,
+          "credit_id": "61d25f4f944a570045b2cbb0",
+          "department": "Art",
+          "job": "Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1405008,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Gabriela Castellanos",
+          "original_name": "Gabriela Castellanos",
+          "popularity": 0.1671,
+          "profile_path": null,
+          "credit_id": "61d25f5faaec710042806e5e",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2895353,
+          "known_for_department": "Directing",
+          "name": "Catherine Deptuch",
+          "original_name": "Catherine Deptuch",
+          "popularity": 0.0725,
+          "profile_path": null,
+          "credit_id": "61d25f72e210230067a60426",
+          "department": "Directing",
+          "job": "Second Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2259568,
+          "known_for_department": "Production",
+          "name": "Maricela Lazcano",
+          "original_name": "Maricela Lazcano",
+          "popularity": 0.1118,
+          "profile_path": null,
+          "credit_id": "61d25f7da6e2d2001ceb6462",
+          "department": "Directing",
+          "job": "First Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1919663,
+          "known_for_department": "Sound",
+          "name": "Marcos Butron Jr.",
+          "original_name": "Marcos Butron Jr.",
+          "popularity": 0.0811,
+          "profile_path": null,
+          "credit_id": "61d25f8b4284ea008a3d8dab",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1588884,
+          "known_for_department": "Crew",
+          "name": "Oscar Coronel",
+          "original_name": "Oscar Coronel",
+          "popularity": 0.1219,
+          "profile_path": null,
+          "credit_id": "61d25f95aaec710042806f73",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1341151,
+          "known_for_department": "Sound",
+          "name": "Paul Gonzales",
+          "original_name": "Paul Gonzales",
+          "popularity": 0.0978,
+          "profile_path": null,
+          "credit_id": "61d25fa0e194b0001cb0e743",
+          "department": "Sound",
+          "job": "Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3367872,
+          "known_for_department": "Camera",
+          "name": "Krystian Alcala",
+          "original_name": "Krystian Alcala",
+          "popularity": 0.0663,
+          "profile_path": null,
+          "credit_id": "61d25fb622f5d700459134b0",
+          "department": "Camera",
+          "job": "Second Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3367873,
+          "known_for_department": "Camera",
+          "name": "Ben Aprahamian",
+          "original_name": "Ben Aprahamian",
+          "popularity": 0.0501,
+          "profile_path": null,
+          "credit_id": "61d25fbf8ee49c00a0773d19",
+          "department": "Camera",
+          "job": "Grip"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1086892,
+          "known_for_department": "Camera",
+          "name": "Michael A. Martinez",
+          "original_name": "Michael A. Martinez",
+          "popularity": 0.4888,
+          "profile_path": "/svhvzCBY32BgHghoAbMZf2oFgIo.jpg",
+          "credit_id": "61d25fcd5541fa006789de7f",
+          "department": "Visual Effects",
+          "job": "Visual Effects"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3367875,
+          "known_for_department": "Lighting",
+          "name": "Tim Karau",
+          "original_name": "Tim Karau",
+          "popularity": 0.0559,
+          "profile_path": null,
+          "credit_id": "61d25fdde10f46001cd24b1c",
+          "department": "Lighting",
+          "job": "Gaffer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1560359,
+          "known_for_department": "Acting",
+          "name": "Cody Roberts",
+          "original_name": "Cody Roberts",
+          "popularity": 0.041,
+          "profile_path": null,
+          "credit_id": "61d25fe8d8f44e00420785bc",
+          "department": "Camera",
+          "job": "First Assistant Camera"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1011963,
+          "known_for_department": "Camera",
+          "name": "Alessandro Gentile",
+          "original_name": "Alessandro Gentile",
+          "popularity": 0.1349,
+          "profile_path": null,
+          "credit_id": "61d25ff98c22c0001c2b4dd7",
+          "department": "Camera",
+          "job": "Additional Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3367876,
+          "known_for_department": "Production",
+          "name": "Lance Simon",
+          "original_name": "Lance Simon",
+          "popularity": 0.0205,
+          "profile_path": null,
+          "credit_id": "61d2600aa6e2d2004194441a",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1011963,
+          "known_for_department": "Camera",
+          "name": "Alessandro Gentile",
+          "original_name": "Alessandro Gentile",
+          "popularity": 0.1349,
+          "profile_path": null,
+          "credit_id": "61d2601d7b7b4d0094fe9947",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2816037,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Jeanette Godoy",
+          "original_name": "Jeanette Godoy",
+          "popularity": 0.0217,
+          "profile_path": null,
+          "credit_id": "61d26042e2102300916ab66a",
+          "department": "Costume & Make-Up",
+          "job": "Wardrobe Designer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "[object Object]",
+              "note": "",
+              "release_date": "2022-03-07T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

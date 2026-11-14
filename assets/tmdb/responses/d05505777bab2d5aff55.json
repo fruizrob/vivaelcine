@@ -1,0 +1,73 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1285051?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:49.346Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1285051,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "La Guelaguetza (ofrenda oaxaquena)",
+    "overview": "",
+    "popularity": 0.1511,
+    "poster_path": "/aAI7u9NZcDuVdolNbT8bC4Ma4di.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1961-01-01",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Guelaguetza (ofrenda oaxaquena)",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 145452,
+          "known_for_department": "Directing",
+          "name": "Tito Davison",
+          "original_name": "Tito Davison",
+          "popularity": 0.3402,
+          "profile_path": "/qseuR8f5mryzsrYHzim9IPjcrPu.jpg",
+          "credit_id": "663693d8e92d830127d342f0",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1961-01-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

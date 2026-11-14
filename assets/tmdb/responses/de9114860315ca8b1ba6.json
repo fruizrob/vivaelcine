@@ -1,0 +1,718 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/29290?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:53.214Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/fLrntTx2ta90QhnMZpMnuhKxdTM.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 29290,
+    "imdb_id": "tt0064393",
+    "origin_country": [
+      "JP",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Green Slime",
+    "overview": "Un asteroide gigante se encamina hacia la tierra, por lo que varios astronuatas desembarcan de una estación espacial cercana para volarlo. La misión resulta un éxito, pero de regreso a la estación llevarán consigo, sin saberlo, un alienígena verde y viscoso que se muta en múltiples monstruos con tentáculos de un sólo ojo.",
+    "popularity": 1.0777,
+    "poster_path": "/njTp29mPn5mgCRhSjOM3YAeqy2b.jpg",
+    "production_companies": [
+      {
+        "id": 6175,
+        "logo_path": null,
+        "name": "Ram Films Inc.",
+        "origin_country": ""
+      },
+      {
+        "id": 6176,
+        "logo_path": null,
+        "name": "Southern Cross Feature Film Company",
+        "origin_country": "AU"
+      },
+      {
+        "id": 21,
+        "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+        "name": "Metro-Goldwyn-Mayer",
+        "origin_country": "US"
+      },
+      {
+        "id": 5822,
+        "logo_path": "/qyTbRgCyU9NLKvKaiQVbadtr7RY.png",
+        "name": "Toei Company",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "1968-12-19",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Batalla más allá de las estrellas",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 105,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 103492,
+          "known_for_department": "Acting",
+          "name": "Robert Horton",
+          "original_name": "Robert Horton",
+          "popularity": 0.5862,
+          "profile_path": "/fHVWySQMhEnTFynaoXKUyoM2afv.jpg",
+          "cast_id": 10,
+          "character": "Commander Jack Rankin",
+          "credit_id": "52fe45d5c3a368484e07187f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 9921,
+          "known_for_department": "Acting",
+          "name": "Luciana Paluzzi",
+          "original_name": "Luciana Paluzzi",
+          "popularity": 1.0988,
+          "profile_path": "/c8cRWe82adjPqKr0kHme36KAe5f.jpg",
+          "cast_id": 11,
+          "character": "Dr. Lisa Benson",
+          "credit_id": "52fe45d5c3a368484e071883",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 58423,
+          "known_for_department": "Acting",
+          "name": "Richard Jaeckel",
+          "original_name": "Richard Jaeckel",
+          "popularity": 1.1542,
+          "profile_path": "/bqPHmgKzNOWU58GtoB2SDiH8MHV.jpg",
+          "cast_id": 12,
+          "character": "Commander Vince Elliott",
+          "credit_id": "52fe45d5c3a368484e071887",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 103494,
+          "known_for_department": "Acting",
+          "name": "Bud Widom",
+          "original_name": "Bud Widom",
+          "popularity": 0.2272,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "General Jonathan B. Thompson",
+          "credit_id": "52fe45d5c3a368484e07188b",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 141086,
+          "known_for_department": "Acting",
+          "name": "Ted Gunther",
+          "original_name": "Ted Gunther",
+          "popularity": 0.1118,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Dr. Hans Halvorsen",
+          "credit_id": "52fe45d5c3a368484e07189b",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 141087,
+          "known_for_department": "Acting",
+          "name": "David Yorston",
+          "original_name": "David Yorston",
+          "popularity": 0.205,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Lt. Curtis",
+          "credit_id": "52fe45d5c3a368484e07189f",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 141088,
+          "known_for_department": "Acting",
+          "name": "Robert Dunham",
+          "original_name": "Robert Dunham",
+          "popularity": 0.2382,
+          "profile_path": "/z0sdf5idZaqNi8jx3dLMIDOuGVj.jpg",
+          "cast_id": 18,
+          "character": "Capt. Martin",
+          "credit_id": "52fe45d5c3a368484e0718a3",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 141089,
+          "known_for_department": "Acting",
+          "name": "Gary Randolf",
+          "original_name": "Gary Randolf",
+          "popularity": 0.1385,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Cordier",
+          "credit_id": "52fe45d5c3a368484e0718a7",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 21814,
+          "known_for_department": "Art",
+          "name": "Jack Morrisey",
+          "original_name": "Jack Morrisey",
+          "popularity": 0.2743,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Lt. Morris, Rocket Pilot",
+          "credit_id": "52fe45d5c3a368484e0718ab",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 141091,
+          "known_for_department": "Acting",
+          "name": "Eugene Vince",
+          "original_name": "Eugene Vince",
+          "popularity": 0.0974,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "Technician",
+          "credit_id": "52fe45d5c3a368484e0718b3",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 141092,
+          "known_for_department": "Acting",
+          "name": "Don Plante",
+          "original_name": "Don Plante",
+          "popularity": 0.1308,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "Technician",
+          "credit_id": "52fe45d5c3a368484e0718b7",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 141093,
+          "known_for_department": "Acting",
+          "name": "Linda Hardisty",
+          "original_name": "Linda Hardisty",
+          "popularity": 0.0923,
+          "profile_path": null,
+          "cast_id": 24,
+          "character": "Nurse",
+          "credit_id": "52fe45d5c3a368484e0718bb",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 141094,
+          "known_for_department": "Acting",
+          "name": "Richard Hylland",
+          "original_name": "Richard Hylland",
+          "popularity": 0.0651,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "Michaels",
+          "credit_id": "52fe45d5c3a368484e0718bf",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 141095,
+          "known_for_department": "Acting",
+          "name": "キャシー・ホーラン",
+          "original_name": "キャシー・ホーラン",
+          "popularity": 0.1217,
+          "profile_path": "/t5goFY08WexJHWEpNUHOQkCyefU.jpg",
+          "cast_id": 26,
+          "character": "Nurse",
+          "credit_id": "52fe45d5c3a368484e0718c3",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 141096,
+          "known_for_department": "Acting",
+          "name": "Ann Ault",
+          "original_name": "Ann Ault",
+          "popularity": 0.1445,
+          "profile_path": null,
+          "cast_id": 27,
+          "character": "Nurse",
+          "credit_id": "52fe45d5c3a368484e0718c7",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6436817,
+          "known_for_department": "Acting",
+          "name": "Susan Skersick",
+          "original_name": "Susan Skersick",
+          "popularity": 0.0674,
+          "profile_path": null,
+          "cast_id": 33,
+          "character": "Nurse",
+          "credit_id": "6a8ea733f05167e0a41b3fe2",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6436820,
+          "known_for_department": "Acting",
+          "name": "Helen Kirkpatrick",
+          "original_name": "Helen Kirkpatrick",
+          "popularity": 0.0345,
+          "profile_path": null,
+          "cast_id": 34,
+          "character": "Nurse",
+          "credit_id": "6a8ea743198570f086c36d7f",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6436824,
+          "known_for_department": "Acting",
+          "name": "Karl Bengs",
+          "original_name": "Karl Bengs",
+          "popularity": 0.0853,
+          "profile_path": null,
+          "cast_id": 35,
+          "character": "Rocket Pilot",
+          "credit_id": "6a8ea772108c8be9b3c85794",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 201217,
+          "known_for_department": "Acting",
+          "name": "Linda Miller",
+          "original_name": "Linda Miller",
+          "popularity": 0.2358,
+          "profile_path": "/4nZebAXPycYQPpuXBo8t7WHwrf8.jpg",
+          "cast_id": 32,
+          "character": "Nurse",
+          "credit_id": "613d9319e8a3e1008bd9aedf",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6436825,
+          "known_for_department": "Acting",
+          "name": "Strong Ilimaiti",
+          "original_name": "Strong Ilimaiti",
+          "popularity": 0.0382,
+          "profile_path": null,
+          "cast_id": 36,
+          "character": "Doctor",
+          "credit_id": "6a8ea787f6dbf9b5c6d2f9db",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1486079,
+          "known_for_department": "Acting",
+          "name": "Enver Altenbay",
+          "original_name": "Enver Altenbay",
+          "popularity": 0.1627,
+          "profile_path": null,
+          "cast_id": 37,
+          "character": "Technician",
+          "credit_id": "6a8ea7926d794e0c16c857f8",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3384702,
+          "known_for_department": "Acting",
+          "name": "Tom Scott",
+          "original_name": "Tom Scott",
+          "popularity": 0.1366,
+          "profile_path": null,
+          "cast_id": 38,
+          "character": "Lt. Scott, Rocket Pilot",
+          "credit_id": "6a8ea7cfbfc82ee44231b799",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1360663,
+          "known_for_department": "Acting",
+          "name": "Patricia Elliott",
+          "original_name": "Patricia Elliott",
+          "popularity": 0.2615,
+          "profile_path": "/chi8fgsqgy63nGMRpeqkn1LrlMA.jpg",
+          "cast_id": 39,
+          "character": "Nurse",
+          "credit_id": "6a8ea7d68dacab36c3d2fa8c",
+          "order": 22
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 31074,
+          "known_for_department": "Directing",
+          "name": "Kinji Fukasaku",
+          "original_name": "深作欣二",
+          "popularity": 2.2087,
+          "profile_path": "/rQ6nvSCP6JF51rRTrGHYFZ9dt7c.jpg",
+          "credit_id": "52fe45d5c3a368484e071857",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 31074,
+          "known_for_department": "Directing",
+          "name": "Kinji Fukasaku",
+          "original_name": "深作欣二",
+          "popularity": 2.2087,
+          "profile_path": "/rQ6nvSCP6JF51rRTrGHYFZ9dt7c.jpg",
+          "credit_id": "52fe45d5c3a368484e07185d",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 63669,
+          "known_for_department": "Writing",
+          "name": "Tom Rowe",
+          "original_name": "Tom Rowe",
+          "popularity": 0.2884,
+          "profile_path": null,
+          "credit_id": "52fe45d5c3a368484e071863",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 103486,
+          "known_for_department": "Writing",
+          "name": "Charles Sinclair",
+          "original_name": "Charles Sinclair",
+          "popularity": 0.1399,
+          "profile_path": null,
+          "credit_id": "52fe45d5c3a368484e071869",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 103487,
+          "known_for_department": "Production",
+          "name": "Walter Manley",
+          "original_name": "Walter Manley",
+          "popularity": 0.1172,
+          "profile_path": null,
+          "credit_id": "52fe45d5c3a368484e07186f",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 101124,
+          "known_for_department": "Writing",
+          "name": "Ivan Reiner",
+          "original_name": "Ivan Reiner",
+          "popularity": 0.2924,
+          "profile_path": null,
+          "credit_id": "52fe45d5c3a368484e071891",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 101124,
+          "known_for_department": "Writing",
+          "name": "Ivan Reiner",
+          "original_name": "Ivan Reiner",
+          "popularity": 0.2924,
+          "profile_path": null,
+          "credit_id": "52fe45d5c3a368484e071897",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 50239,
+          "known_for_department": "Sound",
+          "name": "Charles Fox",
+          "original_name": "Charles Fox",
+          "popularity": 0.4468,
+          "profile_path": "/ekiudg0JEIfzEw5eproO01fGIpz.jpg",
+          "credit_id": "5717c8809251412b37001708",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 103489,
+          "known_for_department": "Sound",
+          "name": "Toshiaki Tsushima",
+          "original_name": "津島利章",
+          "popularity": 0.582,
+          "profile_path": null,
+          "credit_id": "5717c898c3a3686d30001c53",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 198034,
+          "known_for_department": "Writing",
+          "name": "Bill Finger",
+          "original_name": "Bill Finger",
+          "popularity": 1.2166,
+          "profile_path": "/aU2Wv9QL9qNG0UQosl1MKpp1icV.jpg",
+          "credit_id": "5fb948ed880551003f9cb71b",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1909327,
+          "known_for_department": "Camera",
+          "name": "Yoshikazu Yamazawa",
+          "original_name": "Yoshikazu Yamazawa",
+          "popularity": 0.0473,
+          "profile_path": null,
+          "credit_id": "6a8ea833a35caecbaed2f9e8",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 138453,
+          "known_for_department": "Editing",
+          "name": "田中修",
+          "original_name": "田中修",
+          "popularity": 0.3428,
+          "profile_path": null,
+          "credit_id": "6a8ea85f4aa729490fc857cf",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1206506,
+          "known_for_department": "Art",
+          "name": "Shinichi Eno",
+          "original_name": "Shinichi Eno",
+          "popularity": 0.1111,
+          "profile_path": null,
+          "credit_id": "6a8ea86a654fbb6ce4112235",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6436839,
+          "known_for_department": "Writing",
+          "name": "Jacqueline Vaanice",
+          "original_name": "Jacqueline Vaanice",
+          "popularity": 0.0339,
+          "profile_path": null,
+          "credit_id": "6a8ea89f5aa375a9d0c8584b",
+          "department": "Writing",
+          "job": "Script Consultant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6436840,
+          "known_for_department": "Writing",
+          "name": "Yasuyo Yamanouchi",
+          "original_name": "Yasuyo Yamanouchi",
+          "popularity": 0.0558,
+          "profile_path": null,
+          "credit_id": "6a8ea8a8198570f086c36d9e",
+          "department": "Writing",
+          "job": "Script Consultant"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4610640,
+          "known_for_department": "Directing",
+          "name": "Shigeru Umetani",
+          "original_name": "Shigeru Umetani",
+          "popularity": 0.0449,
+          "profile_path": null,
+          "credit_id": "6a8ea8b5a2663cfb03c36e59",
+          "department": "Lighting",
+          "job": "Gaffer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-12-04T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Trieste Sci-fi Film Festival",
+              "release_date": "1968-07-06T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1968-12-19T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Los Angeles, California",
+              "release_date": "1968-12-01T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "New York City, New York",
+              "release_date": "1969-05-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "GAMMA3",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Bataille au-delà des étoiles",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Monster aus dem All",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "HU",
+          "title": "Zöld iszap",
+          "type": "alternative title"
+        }
+      ]
+    }
+  }
+}

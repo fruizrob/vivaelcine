@@ -1,0 +1,168 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1509310?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:24.460Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1509310,
+    "imdb_id": "tt30521091",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Diana Ross: Supreme Sensation",
+    "overview": "",
+    "popularity": 0.5825,
+    "poster_path": "/g7YBd1ewHQe2mvnpKmlcRPQICjv.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-12-20",
+    "revenue": 0,
+    "runtime": 43,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Diana Ross: Supreme Sensation",
+    "video": true,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 32715,
+          "known_for_department": "Acting",
+          "name": "Diana Ross",
+          "original_name": "Diana Ross",
+          "popularity": 1.0043,
+          "profile_path": "/je2Ky0RfjhJPvAeNRZFyJkW5urP.jpg",
+          "cast_id": 7,
+          "character": "Archival Footage",
+          "credit_id": "68825555585597c100f78182",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 14386,
+          "known_for_department": "Acting",
+          "name": "Beyoncé",
+          "original_name": "Beyoncé",
+          "popularity": 0.9339,
+          "profile_path": "/2HbjNtiCtmbArEnELuDFU7knaVK.jpg",
+          "cast_id": 3,
+          "character": "Self",
+          "credit_id": "688255296585bd4edbd9a606",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1346427,
+          "known_for_department": "Acting",
+          "name": "Bonnie Greer",
+          "original_name": "Bonnie Greer",
+          "popularity": 0.3248,
+          "profile_path": "/azTfVJeExTTpwextI3x5Q1AEgCx.jpg",
+          "cast_id": 4,
+          "character": "Self",
+          "credit_id": "68825534f9fcc95b9ad9a2e5",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5583989,
+          "known_for_department": "Acting",
+          "name": "Adam Mattera",
+          "original_name": "Adam Mattera",
+          "popularity": 0.1069,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "6882553cd9da18e5168a6043",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3678324,
+          "known_for_department": "Acting",
+          "name": "Krysta Wallrauch",
+          "original_name": "Krysta Wallrauch",
+          "popularity": 0.1414,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Self",
+          "credit_id": "688255483f1f6bc2bed9a25d",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4386366,
+          "known_for_department": "Writing",
+          "name": "Oliver Elphick",
+          "original_name": "Oliver Elphick",
+          "popularity": 0.1132,
+          "profile_path": null,
+          "credit_id": "6882550ea571086a4055e15a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4386366,
+          "known_for_department": "Writing",
+          "name": "Oliver Elphick",
+          "original_name": "Oliver Elphick",
+          "popularity": 0.1132,
+          "profile_path": null,
+          "credit_id": "688255193855a70164245d56",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2023-12-20T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

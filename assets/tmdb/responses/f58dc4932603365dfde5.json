@@ -1,0 +1,638 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/257521?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:40.559Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/t5nuwTiu0LDRQbWiozsgLSL8uYq.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 257521,
+    "imdb_id": "tt1761005",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Persecuted",
+    "overview": "John Luther es un popular predicador evangelista que se mantiene como la última barrera a la reforma religiosa en los Estados Unidos. Cuando un senador da la orden de detener a Luther acusado del asesinato de una niña inocente, Luther debe escapar rápidamente para descubrir la verdad.",
+    "popularity": 1.1121,
+    "poster_path": "/2txiRHanktEUaZF39iL7MxsdfZs.jpg",
+    "production_companies": [
+      {
+        "id": 24972,
+        "logo_path": null,
+        "name": "Vocal Yokels",
+        "origin_country": ""
+      },
+      {
+        "id": 54838,
+        "logo_path": null,
+        "name": "Indieproduction",
+        "origin_country": "US"
+      },
+      {
+        "id": 54839,
+        "logo_path": null,
+        "name": "One Media",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2014-05-09",
+    "revenue": 1558836,
+    "runtime": 91,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "En busca y captura",
+    "video": false,
+    "vote_average": 4.2,
+    "vote_count": 28,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1736,
+          "known_for_department": "Acting",
+          "name": "James Remar",
+          "original_name": "James Remar",
+          "popularity": 3.165,
+          "profile_path": "/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg",
+          "cast_id": 2,
+          "character": "John Luther",
+          "credit_id": "5331941d9251410b41001832",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 52374,
+          "known_for_department": "Acting",
+          "name": "Bruce Davison",
+          "original_name": "Bruce Davison",
+          "popularity": 1.6982,
+          "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+          "cast_id": 3,
+          "character": "Senator Donald Harrison",
+          "credit_id": "5331943a9251410b4e001741",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 923,
+          "known_for_department": "Acting",
+          "name": "Dean Stockwell",
+          "original_name": "Dean Stockwell",
+          "popularity": 2.0855,
+          "profile_path": "/gdHo8LNElMf1XxoRYgi0UUzbJuB.jpg",
+          "cast_id": 4,
+          "character": "Dave Wilson",
+          "credit_id": "5331944e9251410b5d00164c",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17874,
+          "known_for_department": "Acting",
+          "name": "Fred Thompson",
+          "original_name": "Fred Thompson",
+          "popularity": 1.2968,
+          "profile_path": "/d3x9crhTbzHaVA2OEsRu1YxirBG.jpg",
+          "cast_id": 5,
+          "character": "Dr. Charles Luther",
+          "credit_id": "533194719251410b510017c6",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 564284,
+          "known_for_department": "Acting",
+          "name": "Brad Stine",
+          "original_name": "Brad Stine",
+          "popularity": 0.3616,
+          "profile_path": "/beGABVhGxBHYPrGrJ39Gfhb3VYn.jpg",
+          "cast_id": 6,
+          "character": "Pastor Ryan Morris",
+          "credit_id": "5331949e9251410b600016c1",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 939500,
+          "known_for_department": "Acting",
+          "name": "Natalie Grant",
+          "original_name": "Natalie Grant",
+          "popularity": 0.2538,
+          "profile_path": "/dSsX1Wf4Ng8J9hfKYhXHPAKWFit.jpg",
+          "cast_id": 7,
+          "character": "Monica",
+          "credit_id": "533194c79251410b510017cb",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4281922,
+          "known_for_department": "Acting",
+          "name": "Ashley LaRae",
+          "original_name": "Ashley LaRae",
+          "popularity": 0.2072,
+          "profile_path": "/wT8PysheJEkPXDkXlnAnukldp8h.jpg",
+          "cast_id": 8,
+          "character": "Aaliyah",
+          "credit_id": "650b582eb1f68d00e396e612",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1233583,
+          "known_for_department": "Acting",
+          "name": "Gretchen Carlson",
+          "original_name": "Gretchen Carlson",
+          "popularity": 0.2204,
+          "profile_path": "/lHou8OyxxFNBD61oLuXPo2nGkUv.jpg",
+          "cast_id": 10,
+          "character": "Diana Lucas",
+          "credit_id": "65b0639871ffdf010bd44a8c",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3997895,
+          "known_for_department": "Acting",
+          "name": "James R. Higgins",
+          "original_name": "James R. Higgins",
+          "popularity": 0.1011,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "President",
+          "credit_id": "65b0643e67b613010c611a77",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 17688,
+          "known_for_department": "Acting",
+          "name": "Raoul Max Trujillo",
+          "original_name": "Raoul Max Trujillo",
+          "popularity": 1.5642,
+          "profile_path": "/dIfHIt1pgnYW9oCksc0DdoY5Mt5.jpg",
+          "cast_id": 12,
+          "character": "Mr. Gray",
+          "credit_id": "65b06483d100b600ada717a7",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1674482,
+          "known_for_department": "Acting",
+          "name": "Sage Bell",
+          "original_name": "Sage Bell",
+          "popularity": 0.1045,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Jodi Luther",
+          "credit_id": "65b0650679a1c3010adad843",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4496676,
+          "known_for_department": "Acting",
+          "name": "Matthew Page",
+          "original_name": "Matthew Page",
+          "popularity": 0.0783,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "William",
+          "credit_id": "65b06583d100b600eb2c0bd8",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 239997,
+          "known_for_department": "Acting",
+          "name": "Debrianna Mansini",
+          "original_name": "Debrianna Mansini",
+          "popularity": 0.3348,
+          "profile_path": "/xG3T8QWMmEgD47tyWGOy4NibYMN.jpg",
+          "cast_id": 15,
+          "character": "Agent Rivera",
+          "credit_id": "65b065bc79a1c300adae0485",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 79211,
+          "known_for_department": "Acting",
+          "name": "David House",
+          "original_name": "David House",
+          "popularity": 0.5729,
+          "profile_path": "/t67HnLsCMecFLMdhtJQbkiQiyXq.jpg",
+          "cast_id": 16,
+          "character": "Agent Clark",
+          "credit_id": "65b0665509c24c00caafe124",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1689269,
+          "known_for_department": "Acting",
+          "name": "Augusta Allen-Jones",
+          "original_name": "Augusta Allen-Jones",
+          "popularity": 0.1734,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Kathy",
+          "credit_id": "65b066ae6af8f800ed9f00a3",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1808715,
+          "known_for_department": "Acting",
+          "name": "Tad Jones",
+          "original_name": "Tad Jones",
+          "popularity": 0.1803,
+          "profile_path": "/gX773jeIjdNuXdSYb1LbVZ8oizV.jpg",
+          "cast_id": 18,
+          "character": "Senior Pastor",
+          "credit_id": "65b066fe75110d00ea5680d9",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 79213,
+          "known_for_department": "Acting",
+          "name": "Forrest Fyre",
+          "original_name": "Forrest Fyre",
+          "popularity": 0.3143,
+          "profile_path": "/2w6WymPDiC0tQ1Db8jkfh6ah35v.jpg",
+          "cast_id": 19,
+          "character": "Truth Board Member",
+          "credit_id": "65b0677209c24c00ad02a928",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1011304,
+          "known_for_department": "Acting",
+          "name": "Amy Baklini",
+          "original_name": "Amy Baklini",
+          "popularity": 0.234,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Staffer",
+          "credit_id": "65b27a062866fa012ce331b5",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4499588,
+          "known_for_department": "Acting",
+          "name": "Nate Heitzig",
+          "original_name": "Nate Heitzig",
+          "popularity": 0.0142,
+          "profile_path": null,
+          "cast_id": 21,
+          "character": "Fundamentalist",
+          "credit_id": "65b27ab16eecee00c93400a1",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4362839,
+          "known_for_department": "Acting",
+          "name": "Skip Heitzig",
+          "original_name": "Skip Heitzig",
+          "popularity": 0.0537,
+          "profile_path": null,
+          "cast_id": 22,
+          "character": "Gate keeper",
+          "credit_id": "65b27ac6a80236016daed34f",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1975870,
+          "known_for_department": "Acting",
+          "name": "Lauren Poole",
+          "original_name": "Lauren Poole",
+          "popularity": 0.2193,
+          "profile_path": "/zOZSujV1V7mU9I0ROyDJVGtTJyl.jpg",
+          "cast_id": 23,
+          "character": "Hotel clerk",
+          "credit_id": "65b28944dbf14401849c5bd8",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1204048,
+          "known_for_department": "Acting",
+          "name": "Cyd Schulte",
+          "original_name": "Cyd Schulte",
+          "popularity": 0.291,
+          "profile_path": "/AfAoN0l9UskufTqPrBYsDZKDBno.jpg",
+          "cast_id": 24,
+          "character": "",
+          "credit_id": "65b28954b7b69d017bf421f6",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1292930,
+          "known_for_department": "Acting",
+          "name": "Tabatha Shaun",
+          "original_name": "Tabatha Shaun",
+          "popularity": 0.6312,
+          "profile_path": "/dGlpvo6X4p6qwcENDY62Skk6XE6.jpg",
+          "cast_id": 25,
+          "character": "",
+          "credit_id": "65b289621c6329016b9398cc",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4499644,
+          "known_for_department": "Acting",
+          "name": "Justin Ramsey",
+          "original_name": "Justin Ramsey",
+          "popularity": 0.0813,
+          "profile_path": null,
+          "cast_id": 26,
+          "character": "",
+          "credit_id": "65b289851c632901529348a9",
+          "order": 23
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1574846,
+          "known_for_department": "Acting",
+          "name": "John Christian Love",
+          "original_name": "John Christian Love",
+          "popularity": 0.2122,
+          "profile_path": "/8CvScYn9DofQim6qWf2gp3iog2k.jpg",
+          "cast_id": 27,
+          "character": "",
+          "credit_id": "65b289951c6329018493d6dd",
+          "order": 24
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1170374,
+          "known_for_department": "Acting",
+          "name": "Kristin Hansen",
+          "original_name": "Kristin Hansen",
+          "popularity": 0.2006,
+          "profile_path": "/kVK61O0lHcXNaXTS03HGqtcRcwh.jpg",
+          "cast_id": 28,
+          "character": "",
+          "credit_id": "65b289e5a80236016daeda1d",
+          "order": 25
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4499647,
+          "known_for_department": "Acting",
+          "name": "Michanda Lindsey",
+          "original_name": "Michanda Lindsey",
+          "popularity": 0.0864,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "Local reporter",
+          "credit_id": "65b289ef2866fa0148e376b6",
+          "order": 26
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4369785,
+          "known_for_department": "Acting",
+          "name": "Jordan Sekulow",
+          "original_name": "Jordan Sekulow",
+          "popularity": 0.0976,
+          "profile_path": null,
+          "cast_id": 30,
+          "character": "CNW Reporter",
+          "credit_id": "65b289ff1c6329016b939916",
+          "order": 27
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4496548,
+          "known_for_department": "Acting",
+          "name": "Wendy Griffith",
+          "original_name": "Wendy Griffith",
+          "popularity": 0.0788,
+          "profile_path": null,
+          "cast_id": 31,
+          "character": "Legal expert",
+          "credit_id": "65b28a24ab1bc70185a91afa",
+          "order": 28
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1355108,
+          "known_for_department": "Acting",
+          "name": "Chris Muto",
+          "original_name": "Chris Muto",
+          "popularity": 0.2127,
+          "profile_path": "/79OJh2eZGRgX9HGFEtIBDO7Rl0p.jpg",
+          "cast_id": 32,
+          "character": "",
+          "credit_id": "65b28a346eecee017b34da97",
+          "order": 29
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4499649,
+          "known_for_department": "Acting",
+          "name": "Brenton Simmons",
+          "original_name": "Brenton Simmons",
+          "popularity": 0.102,
+          "profile_path": null,
+          "cast_id": 33,
+          "character": "News intern",
+          "credit_id": "65b28a66b7b69d00c9f4047f",
+          "order": 30
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1155329,
+          "known_for_department": "Directing",
+          "name": "Daniel Lusko",
+          "original_name": "Daniel Lusko",
+          "popularity": 0.324,
+          "profile_path": "/r4spQ95Lzq9MnaDJm1Nd2pwew7M.jpg",
+          "credit_id": "533193e59251410b48001665",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1155329,
+          "known_for_department": "Directing",
+          "name": "Daniel Lusko",
+          "original_name": "Daniel Lusko",
+          "popularity": 0.324,
+          "profile_path": "/r4spQ95Lzq9MnaDJm1Nd2pwew7M.jpg",
+          "credit_id": "533193cc9251410b48001662",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1537690,
+          "known_for_department": "Crew",
+          "name": "Al Goto",
+          "original_name": "Al Goto",
+          "popularity": 0.5835,
+          "profile_path": "/iH29BHKpmUO3iSKuhBSuj365VPl.jpg",
+          "credit_id": "654a3d9341a561336a23fd22",
+          "department": "Crew",
+          "job": "Stunt Coordinator"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 128763,
+          "known_for_department": "Sound",
+          "name": "Chris Ridenhour",
+          "original_name": "Chris Ridenhour",
+          "popularity": 0.3328,
+          "profile_path": "/7tDpp0CuTMr6EV03oCDZvJW4s9b.jpg",
+          "credit_id": "676321c8581a3c0507ab0408",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1018705,
+          "known_for_department": "Camera",
+          "name": "Richard J. Vialet",
+          "original_name": "Richard J. Vialet",
+          "popularity": 0.2022,
+          "profile_path": "/uutFacNEyTo14oBb0dhvfijfrsx.jpg",
+          "credit_id": "676321e98d1cfdc5224a3b49",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "HU",
+          "release_dates": [
+            {
+              "certification": "16",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-06-18T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2015-12-15T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "PG-13",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2014-05-09T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

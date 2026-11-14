@@ -1,0 +1,425 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1543600?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:17.542Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 17000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 1543600,
+    "imdb_id": null,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Presépio",
+    "overview": "",
+    "popularity": 0.3734,
+    "poster_path": "/6iyzA9HcJYerRUOYfi7Z3uxnM1r.jpg",
+    "production_companies": [
+      {
+        "id": 273173,
+        "logo_path": null,
+        "name": "Baracoa Filmes",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2025-09-24",
+    "revenue": 0,
+    "runtime": 18,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Presépio",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1759957,
+          "known_for_department": "Acting",
+          "name": "Wilson Rabelo",
+          "original_name": "Wilson Rabelo",
+          "popularity": 0.2839,
+          "profile_path": "/rwFWrqYYtvCfDUZi3Rmfdr130ef.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "68bf53ef5c1e4967ea06a831",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 52538,
+          "known_for_department": "Directing",
+          "name": "Luciano Vidigal",
+          "original_name": "Luciano Vidigal",
+          "popularity": 0.3869,
+          "profile_path": "/oDf83vY4OfqTiDLhSnzoxuKWgwp.jpg",
+          "cast_id": 7,
+          "character": "Beto",
+          "credit_id": "68e685148988c009537ffa8d",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2346581,
+          "known_for_department": "Acting",
+          "name": "Suzy Lopes",
+          "original_name": "Suzy Lopes",
+          "popularity": 0.218,
+          "profile_path": "/9wFqEjLoVF2rvZM3gVckDgAnUKK.jpg",
+          "cast_id": 4,
+          "character": "Cida",
+          "credit_id": "68e684bfb90b098cc7c7ea5e",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3399920,
+          "known_for_department": "Acting",
+          "name": "Ivson Rainero",
+          "original_name": "Ivson Rainero",
+          "popularity": 0.1236,
+          "profile_path": "/2mUNfOizq31kFO2NrntRVWgvciW.jpg",
+          "cast_id": 6,
+          "character": "Rubão",
+          "credit_id": "68e68506732a0245109be974",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3681526,
+          "known_for_department": "Directing",
+          "name": "Kikha Danttas",
+          "original_name": "Kikha Danttas",
+          "popularity": 0.0461,
+          "profile_path": null,
+          "cast_id": 8,
+          "character": "Sônia",
+          "credit_id": "68e68523732a0245109be978",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5738090,
+          "known_for_department": "Acting",
+          "name": "Rô Sant'Anna",
+          "original_name": "Rô Sant'Anna",
+          "popularity": 0.0535,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Telma",
+          "credit_id": "68e684e4e6f0b7e04f4163ad",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5738096,
+          "known_for_department": "Acting",
+          "name": "Júlia Perré",
+          "original_name": "Júlia Perré",
+          "popularity": 0.0404,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "Letícia",
+          "credit_id": "68e685345d855a0a949be963",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4609015,
+          "known_for_department": "Acting",
+          "name": "Luiz Alfredo Montenegro",
+          "original_name": "Luiz Alfredo Montenegro",
+          "popularity": 0.1267,
+          "profile_path": null,
+          "cast_id": 10,
+          "character": "Toninho",
+          "credit_id": "68e68544abe4a78b2f441d6c",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5738097,
+          "known_for_department": "Acting",
+          "name": "Gui Mendonça",
+          "original_name": "Gui Mendonça",
+          "popularity": 0.0626,
+          "profile_path": null,
+          "cast_id": 11,
+          "character": "Otávio",
+          "credit_id": "68e685972e04f3e1dc4163af",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3981432,
+          "known_for_department": "Acting",
+          "name": "Marília Nunes",
+          "original_name": "Marília Nunes",
+          "popularity": 0.0783,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Cíntia",
+          "credit_id": "68e685a6cef5a3926bfba81d",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5738098,
+          "known_for_department": "Acting",
+          "name": "Ben Torres",
+          "original_name": "Ben Torres",
+          "popularity": 0.0077,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Vini",
+          "credit_id": "68e685c0abe4a78b2f441d96",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5738099,
+          "known_for_department": "Acting",
+          "name": "Beatriz Torres",
+          "original_name": "Beatriz Torres",
+          "popularity": 0.106,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Isabela",
+          "credit_id": "68e685d3f98faae1c0cb0d70",
+          "order": 11
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2466234,
+          "known_for_department": "Art",
+          "name": "Felipe Bibian",
+          "original_name": "Felipe Bibian",
+          "popularity": 0.1089,
+          "profile_path": null,
+          "credit_id": "68bf5295adad6c15461f5830",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2466234,
+          "known_for_department": "Art",
+          "name": "Felipe Bibian",
+          "original_name": "Felipe Bibian",
+          "popularity": 0.1089,
+          "profile_path": null,
+          "credit_id": "68bf53d7538501451b4e6724",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2122582,
+          "known_for_department": "Camera",
+          "name": "Tiago Rios",
+          "original_name": "Tiago Rios",
+          "popularity": 0.2201,
+          "profile_path": null,
+          "credit_id": "68e6861830739d79059be97d",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2638329,
+          "known_for_department": "Art",
+          "name": "Laura Shalders",
+          "original_name": "Laura Shalders",
+          "popularity": 0.2655,
+          "profile_path": null,
+          "credit_id": "68e686268988c009537ffa90",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2283477,
+          "known_for_department": "Sound",
+          "name": "Bruno Armelin",
+          "original_name": "Bruno Armelin",
+          "popularity": 0.3115,
+          "profile_path": null,
+          "credit_id": "68e6863bf98faae1c0cb0d7e",
+          "department": "Crew",
+          "job": "Mixing Engineer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4933583,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Manu Monteiro",
+          "original_name": "Manu Monteiro",
+          "popularity": 0.1145,
+          "profile_path": null,
+          "credit_id": "68e6865e0a7d5776a69be96c",
+          "department": "Costume & Make-Up",
+          "job": "Makeup Artist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2148909,
+          "known_for_department": "Sound",
+          "name": "Victor Tigronez Marinho",
+          "original_name": "Victor Tigronez Marinho",
+          "popularity": 0.0992,
+          "profile_path": null,
+          "credit_id": "68e6867ceeaf788eaffba832",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2224656,
+          "known_for_department": "Editing",
+          "name": "Gabriel Medeiros",
+          "original_name": "Gabriel Medeiros",
+          "popularity": 0.0939,
+          "profile_path": null,
+          "credit_id": "68e6868d986fdfbd907ffa8a",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3399731,
+          "known_for_department": "Production",
+          "name": "Milla Monteiro",
+          "original_name": "Milla Monteiro",
+          "popularity": 0.0347,
+          "profile_path": null,
+          "credit_id": "68e686bd19ad0c8aaa805d39",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5738125,
+          "known_for_department": "Production",
+          "name": "Patricia Tudesco",
+          "original_name": "Patricia Tudesco",
+          "popularity": 0.0645,
+          "profile_path": null,
+          "credit_id": "68e686e09692f04b13fba831",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1838856,
+          "known_for_department": "Editing",
+          "name": "Pedro Saboya",
+          "original_name": "Pedro Saboya",
+          "popularity": 0.1653,
+          "profile_path": null,
+          "credit_id": "68e686f419ad0c8aaa805d3c",
+          "department": "Editing",
+          "job": "Colorist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1927762,
+          "known_for_department": "Production",
+          "name": "Gabriel Domingues",
+          "original_name": "Gabriel Domingues",
+          "popularity": 0.2594,
+          "profile_path": "/69dNiSWi3TLbVisflOJXZmZ2SUB.jpg",
+          "credit_id": "68e687063a0aca89e9c7ea4e",
+          "department": "Production",
+          "job": "Casting"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "Rio de Janeiro International Film Festival",
+              "release_date": "2025-10-07T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "fr",
+              "note": "Prix Regard Queer - Biarritz Amérique Latine Film Festival",
+              "release_date": "2025-09-24T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

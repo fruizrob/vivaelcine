@@ -1,0 +1,86 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/289186?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:06.325Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 289186,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Sol Menor",
+    "overview": "",
+    "popularity": 0.3355,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2007-01-01",
+    "revenue": 0,
+    "runtime": 7,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Sol Menor",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 940810,
+          "known_for_department": "Sound",
+          "name": "Joaquim Pinto",
+          "original_name": "Joaquim Pinto",
+          "popularity": 0.7199,
+          "profile_path": "/bJ8JGf7MV2Qyp13Dzq9ZsaOUerB.jpg",
+          "credit_id": "53ff60420e0a2658db0002f5",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1159279,
+          "known_for_department": "Directing",
+          "name": "Nuno Leonel",
+          "original_name": "Nuno Leonel",
+          "popularity": 0.21,
+          "profile_path": null,
+          "credit_id": "53ff604e0e0a2658e2000310",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2007-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

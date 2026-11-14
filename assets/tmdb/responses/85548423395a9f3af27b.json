@@ -1,0 +1,509 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1247058?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:46.247Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/xhPSTmIxNHtD5QgFcT2MGfdtF8m.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 1247058,
+    "imdb_id": "tt29295850",
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "Guerra de verano",
+    "overview": "Chile, 1989. Udo e Ingrid, turistas estadounidenses, vacacionan en la costa chilena. Mientras ella se entrega a la fiesta y a nuevos vínculos, él se obsesiona con un juego de guerra de estrategia y con Elsa, la enigmática dueña del hotel. La desaparición de un turista y la creciente paranoia de Udo transforman el balneario en un espacio inquietante, donde la frontera entre el juego y la realidad comienza a desmoronarse.",
+    "popularity": 0.5331,
+    "poster_path": "/yQNjgH9TfBFGJwNCB3vMxhQQWHG.jpg",
+    "production_companies": [
+      {
+        "id": 108615,
+        "logo_path": "/IfUyrEJhP2kfJ6ypsJmCSW9WbJ.png",
+        "name": "Nadador Cine",
+        "origin_country": "UY"
+      },
+      {
+        "id": 113463,
+        "logo_path": "/e3dNEEDqp0l5HvJWpSwCrw1naDS.png",
+        "name": "Le Tiro Cine",
+        "origin_country": "AR"
+      },
+      {
+        "id": 73385,
+        "logo_path": null,
+        "name": "Araucaria Cine",
+        "origin_country": "CL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      },
+      {
+        "iso_3166_1": "UY",
+        "name": "Uruguay"
+      },
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      },
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "2026-06-07",
+    "revenue": 0,
+    "runtime": 104,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Guerra de verano",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1166834,
+          "known_for_department": "Acting",
+          "name": "Dan Beirne",
+          "original_name": "Dan Beirne",
+          "popularity": 0.9124,
+          "profile_path": "/jCEDTG739T3VZnashONEDdsqcr5.jpg",
+          "cast_id": 9,
+          "character": "Udo Berger",
+          "credit_id": "681b60752fadab145b7015b6",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1966008,
+          "known_for_department": "Acting",
+          "name": "Lux Pascal",
+          "original_name": "Lux Pascal",
+          "popularity": 0.9451,
+          "profile_path": "/Yxf9KXHd2rGcsOGMpj26xxu5fn.jpg",
+          "cast_id": 1,
+          "character": "Ingrid",
+          "credit_id": "65d349f2dc86470185c798eb",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2646495,
+          "known_for_department": "Acting",
+          "name": "David Gaete",
+          "original_name": "David Gaete",
+          "popularity": 0.2754,
+          "profile_path": "/70gDfKweVcs5xz8eqExjq4glhP8.jpg",
+          "cast_id": 11,
+          "character": "El Quemado",
+          "credit_id": "6a21fe27ce379dc7a5201b66",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 71208,
+          "known_for_department": "Acting",
+          "name": "Aline Küppenheim",
+          "original_name": "Aline Küppenheim",
+          "popularity": 0.4717,
+          "profile_path": "/q28ocDTSuq5USf3MxYXw98mV3VU.jpg",
+          "cast_id": 3,
+          "character": "Elsa",
+          "credit_id": "65d34a111684f70164d0b7bd",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1769529,
+          "known_for_department": "Acting",
+          "name": "Agustín Pardella",
+          "original_name": "Agustín Pardella",
+          "popularity": 0.32,
+          "profile_path": "/ca5F6oZBc5lkBGg8h4PxbnWdheI.jpg",
+          "cast_id": 12,
+          "character": "Charly",
+          "credit_id": "6a2798ff180c615689a51510",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1208255,
+          "known_for_department": "Acting",
+          "name": "Malena Sánchez",
+          "original_name": "Malena Sánchez",
+          "popularity": 0.4325,
+          "profile_path": "/jmClSVqh6wnCI0lf4yKMWFYv7C5.jpg",
+          "cast_id": 5,
+          "character": "Lola",
+          "credit_id": "65d34a2b1684f70187d1628b",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2098518,
+          "known_for_department": "Acting",
+          "name": "Gabriel Cañas",
+          "original_name": "Gabriel Cañas",
+          "popularity": 0.4293,
+          "profile_path": "/nPppCXAW8y9FVyrHR5roErlw2mA.jpg",
+          "cast_id": 13,
+          "character": "Lobo",
+          "credit_id": "6a27992eb6870d8d1ec2eaca",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3353845,
+          "known_for_department": "Acting",
+          "name": "Camilo Arancibia",
+          "original_name": "Camilo Arancibia",
+          "popularity": 0.1612,
+          "profile_path": "/s9AjB8qUXeZsGL3gMerOD0oHCMw.jpg",
+          "cast_id": 14,
+          "character": "Cordero",
+          "credit_id": "6a27993ec21db5a378a5152f",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6273697,
+          "known_for_department": "Acting",
+          "name": "Gonzalo Delgado",
+          "original_name": "Gonzalo Delgado",
+          "popularity": 0.1012,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Recepcionista",
+          "credit_id": "6a279a253035a6eb0d95470c",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1350353,
+          "known_for_department": "Acting",
+          "name": "Gabriela Freire",
+          "original_name": "Gabriela Freire",
+          "popularity": 0.3729,
+          "profile_path": "/zF1JqCZNmUbRnGMwUFsL2vFX1cy.jpg",
+          "cast_id": 16,
+          "character": "Clarita",
+          "credit_id": "6a279a380813231447115e0e",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2044566,
+          "known_for_department": "Acting",
+          "name": "Benjamín Westfall",
+          "original_name": "Benjamín Westfall",
+          "popularity": 0.22,
+          "profile_path": "/sBe8wSJmdmXpz2K8XFGYbC9Ju7m.jpg",
+          "cast_id": 17,
+          "character": "Conrad",
+          "credit_id": "6a279a591b64457e38193449",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 966765,
+          "known_for_department": "Acting",
+          "name": "Daniel Antivilo",
+          "original_name": "Daniel Antivilo",
+          "popularity": 0.446,
+          "profile_path": "/uZxm4CsQEziyQmSPyDDoc94XLcD.jpg",
+          "cast_id": 18,
+          "character": "Dueño del Bar",
+          "credit_id": "6a279a827d32856c5d115dd1",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1699529,
+          "known_for_department": "Acting",
+          "name": "Teresa Ramos",
+          "original_name": "Teresa Ramos",
+          "popularity": 0.1873,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Madre Bar",
+          "credit_id": "6a279b0b41487b43c4115dac",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1618477,
+          "known_for_department": "Acting",
+          "name": "Lucio Hernández",
+          "original_name": "Lucio Hernández",
+          "popularity": 0.2169,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "Marido Elsa",
+          "credit_id": "6a279be10813231447115e2e",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2637512,
+          "known_for_department": "Acting",
+          "name": "Luis Cerda",
+          "original_name": "Luis Cerda",
+          "popularity": 0.2203,
+          "profile_path": "/qOd9MeRhpeGwueEun5nHgs7QKKs.jpg",
+          "cast_id": 21,
+          "character": "Oficial Marino",
+          "credit_id": "6a279bf1ca8dd608af115e19",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1050110,
+          "known_for_department": "Acting",
+          "name": "César Sepúlveda",
+          "original_name": "César Sepúlveda",
+          "popularity": 0.3389,
+          "profile_path": "/5O4ye1NuwjfTM63v7LeMzNLOwHn.jpg",
+          "cast_id": 22,
+          "character": "Capitan Krauss",
+          "credit_id": "6a279ca04e8519d0b464b15b",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4742022,
+          "known_for_department": "Acting",
+          "name": "Juan Bucher",
+          "original_name": "Juan Bucher",
+          "popularity": 0.0606,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "Hombre Rapado - Marino 1",
+          "credit_id": "6a279ce300b2155d673d6fe3",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6273714,
+          "known_for_department": "Acting",
+          "name": "Danilo Sierra",
+          "original_name": "Danilo Sierra",
+          "popularity": 0.0332,
+          "profile_path": null,
+          "cast_id": 26,
+          "character": "Marino 2",
+          "credit_id": "6a279d61d5d4acc99b115e1d",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6273713,
+          "known_for_department": "Acting",
+          "name": "Lilian Halasz",
+          "original_name": "Lilian Halasz",
+          "popularity": 0.0534,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "Camarera",
+          "credit_id": "6a279d4d94d72f0a954adca4",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 228206,
+          "known_for_department": "Acting",
+          "name": "Eduardo Paxeco",
+          "original_name": "Eduardo Paxeco",
+          "popularity": 0.4755,
+          "profile_path": "/z677BvbEYHb4mmiYhum1xN3xP0g.jpg",
+          "cast_id": 27,
+          "character": "Forense",
+          "credit_id": "6a279de77d32856c5d115e23",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6273720,
+          "known_for_department": "Acting",
+          "name": "Elisa Cortez",
+          "original_name": "Elisa Cortez",
+          "popularity": 0.0356,
+          "profile_path": null,
+          "cast_id": 28,
+          "character": "Esposa Pescador",
+          "credit_id": "6a27a0ec807b5b1908c2e758",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6273722,
+          "known_for_department": "Acting",
+          "name": "Carlos Muñoz",
+          "original_name": "Carlos Muñoz",
+          "popularity": 0.0298,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "Chico New Wave",
+          "credit_id": "6a27a14c807b5b1908c2e763",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4012390,
+          "known_for_department": "Sound",
+          "name": "Daniel Kottow",
+          "original_name": "Daniel Kottow",
+          "popularity": 0.0846,
+          "profile_path": null,
+          "cast_id": 30,
+          "character": "Presentador Torneo",
+          "credit_id": "6a27a16341487b43c4115df3",
+          "order": 22
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6273724,
+          "known_for_department": "Acting",
+          "name": "Valeria Jara",
+          "original_name": "Valeria Jara",
+          "popularity": 0.0767,
+          "profile_path": null,
+          "cast_id": 31,
+          "character": "Secretaria Capitania",
+          "credit_id": "6a27a19b03053555913d6e23",
+          "order": 23
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1138747,
+          "known_for_department": "Writing",
+          "name": "Roberto Bolaño",
+          "original_name": "Roberto Bolaño",
+          "popularity": 0.148,
+          "profile_path": "/2nZYwW5zJ2Tsdi81qll0cpO22v8.jpg",
+          "credit_id": "65d34a4b28d7fe016334caaa",
+          "department": "Writing",
+          "job": "Novel"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 229285,
+          "known_for_department": "Directing",
+          "name": "Alicia Scherson",
+          "original_name": "Alicia Scherson",
+          "popularity": 0.4028,
+          "profile_path": "/doe6gJejgnU902pqGIy8WCqylS2.jpg",
+          "credit_id": "65d34a5328d7fe017c359de7",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 229285,
+          "known_for_department": "Directing",
+          "name": "Alicia Scherson",
+          "original_name": "Alicia Scherson",
+          "popularity": 0.4028,
+          "profile_path": "/doe6gJejgnU902pqGIy8WCqylS2.jpg",
+          "credit_id": "65d34a5b4d67910163d38549",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1730521,
+          "known_for_department": "Camera",
+          "name": "Alejo Maglio",
+          "original_name": "Alejo Maglio",
+          "popularity": 0.122,
+          "profile_path": "/b3z6E9Xt2iBz7Df50wcGePwosvR.jpg",
+          "credit_id": "69661c2541ae8c823a2edd2e",
+          "department": "Crew",
+          "job": "Cinematography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Tribeca Film Festival ",
+              "release_date": "2026-06-07T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

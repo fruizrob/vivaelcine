@@ -1,0 +1,90 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/747274?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:15.397Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/qbc6iMNbPn8lCAU407FI4yQSzCS.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 747274,
+    "imdb_id": null,
+    "origin_country": [
+      "HK"
+    ],
+    "original_language": "zh",
+    "original_title": "Miriam Yeung Let's Begin Concert 2015 Live",
+    "overview": "",
+    "popularity": 0.1841,
+    "poster_path": "/bPY2BIpfEoJkJNsCFqqiZB3cgTZ.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      }
+    ],
+    "release_date": "2015-01-24",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Miriam Yeung Let's Begin Concert 2015 Live",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 56863,
+          "known_for_department": "Acting",
+          "name": "楊千嬅",
+          "original_name": "楊千嬅",
+          "popularity": 1.6777,
+          "profile_path": "/3NgovoC2nnHOFq7vr6j7m6URS7V.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5f942a2ed11e0e00508e9176",
+          "order": 0
+        }
+      ],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "HK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "{\"folded_name\"=>\"Cantonese\", \"english_name\"=>\"Cantonese\", \"iso_639_1\"=>\"cn\", \"native_name\"=>\"Cantonese\"}",
+              "note": "",
+              "release_date": "2015-01-24T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

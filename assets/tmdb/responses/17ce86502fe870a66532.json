@@ -1,0 +1,1720 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/10693?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:58.234Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/vwcfvPzYO3Gz975yRXp6DYSSbzo.jpg",
+    "belongs_to_collection": {
+      "id": 55422,
+      "name": "Peter Pan - Colección",
+      "poster_path": "/tbIG22orIndTSsPOvWyLjhTjvJO.jpg",
+      "backdrop_path": "/AnhKboZjfeGuHI6qg7pp9RCesTF.jpg"
+    },
+    "budget": 4000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "id": 10693,
+    "imdb_id": "tt0046183",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Peter Pan",
+    "overview": "Uno de los grandes clásicos de la factoría Walt Disney, que relata las aventuras en el País de Nunca Jamás de Peter Pan, su compañera Campanilla, su amiga Wendy y los Niños Perdidos, en su lucha contra el malvado Capitán Garfio.",
+    "popularity": 8.5063,
+    "poster_path": "/tDvGRWSdqT31ADijJf9OhbTbQ77.jpg",
+    "production_companies": [
+      {
+        "id": 3166,
+        "logo_path": "/jmPS1qPfKnISciDF7RnUbh48jvK.png",
+        "name": "Walt Disney Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1953-02-05",
+    "revenue": 87400000,
+    "runtime": 77,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¡Vivirá en tu corazón para siempre!",
+    "title": "Peter Pan",
+    "video": false,
+    "vote_average": 7.185,
+    "vote_count": 5905,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 50997,
+          "known_for_department": "Acting",
+          "name": "Bobby Driscoll",
+          "original_name": "Bobby Driscoll",
+          "popularity": 0.8785,
+          "profile_path": "/9eLGaM1C4pAfTODHlHupHmEVCX3.jpg",
+          "cast_id": 1,
+          "character": "Peter Pan (voice)",
+          "credit_id": "52fe43a49251416c7501854f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 67228,
+          "known_for_department": "Acting",
+          "name": "Kathryn Beaumont",
+          "original_name": "Kathryn Beaumont",
+          "popularity": 0.5902,
+          "profile_path": "/dHQ51n2i2vjdt4bdgAYXWvJQips.jpg",
+          "cast_id": 2,
+          "character": "Wendy Darling (voice)",
+          "credit_id": "52fe43a49251416c75018553",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16421,
+          "known_for_department": "Acting",
+          "name": "Hans Conried",
+          "original_name": "Hans Conried",
+          "popularity": 0.8043,
+          "profile_path": "/rftuT9tTEqVoEDqqJZEQicnXHVH.jpg",
+          "cast_id": 3,
+          "character": "Captain Hook / Mr. Darling (voice)",
+          "credit_id": "52fe43a49251416c75018557",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 67230,
+          "known_for_department": "Acting",
+          "name": "Bill Thompson",
+          "original_name": "Bill Thompson",
+          "popularity": 0.9017,
+          "profile_path": "/4l8jV6jZ9k06B62MH1rdtCho3Ag.jpg",
+          "cast_id": 4,
+          "character": "Mr. Smee (voice)",
+          "credit_id": "52fe43a49251416c7501855b",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 93897,
+          "known_for_department": "Acting",
+          "name": "Heather Angel",
+          "original_name": "Heather Angel",
+          "popularity": 0.7997,
+          "profile_path": "/aL4rV0rDtnNjHocXITevohuj9e2.jpg",
+          "cast_id": 10,
+          "character": "Mrs. Darling (voice)",
+          "credit_id": "52fe43a49251416c7501857d",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 143574,
+          "known_for_department": "Acting",
+          "name": "Paul Collins",
+          "original_name": "Paul Collins",
+          "popularity": 0.9179,
+          "profile_path": "/7GH8XG7Rsn9t7eTVGVdYqU50tHp.jpg",
+          "cast_id": 11,
+          "character": "John Darling (voice)",
+          "credit_id": "52fe43a49251416c75018581",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1079611,
+          "known_for_department": "Acting",
+          "name": "Tommy Luske",
+          "original_name": "Tommy Luske",
+          "popularity": 0.2788,
+          "profile_path": "/4IiEXH2YbOlqkicJraeIVAiDdJN.jpg",
+          "cast_id": 12,
+          "character": "Michael Darling (voice)",
+          "credit_id": "52fe43a49251416c75018585",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 61676,
+          "known_for_department": "Acting",
+          "name": "Candy Candido",
+          "original_name": "Candy Candido",
+          "popularity": 0.4987,
+          "profile_path": "/vFGHGz8Qb209Uq8CzioknBAFtM7.jpg",
+          "cast_id": 13,
+          "character": "Indian Chief (voice)",
+          "credit_id": "52fe43a49251416c75018589",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 48962,
+          "known_for_department": "Acting",
+          "name": "Tom Conway",
+          "original_name": "Tom Conway",
+          "popularity": 0.9583,
+          "profile_path": "/1cFsjRGnhKLrp1LSajFki6uLS5P.jpg",
+          "cast_id": 14,
+          "character": "Narrator (voice)",
+          "credit_id": "52fe43a49251416c7501858d",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 15098,
+          "known_for_department": "Acting",
+          "name": "June Foray",
+          "original_name": "June Foray",
+          "popularity": 1.2112,
+          "profile_path": "/6s5sWcOPGtVdbMFtZwkWadArj2I.jpg",
+          "cast_id": 26,
+          "character": "Mermaid / Squaw (voice) (uncredited)",
+          "credit_id": "5ab859909251414906003c79",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1213183,
+          "known_for_department": "Acting",
+          "name": "Margaret Kerry",
+          "original_name": "Margaret Kerry",
+          "popularity": 0.3829,
+          "profile_path": "/2NjASi90GoetXCQHnAMnbI65uHG.jpg",
+          "cast_id": 28,
+          "character": "Mermaid (voice, uncredited)",
+          "credit_id": "5c1e6ef39251416805bf4279",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 215695,
+          "known_for_department": "Acting",
+          "name": "Jeffrey Silver",
+          "original_name": "Jeffrey Silver",
+          "popularity": 0.1577,
+          "profile_path": null,
+          "cast_id": 29,
+          "character": "Lost Boy (voice, uncredited)",
+          "credit_id": "5ef184022e2b2c0037718274",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1056672,
+          "known_for_department": "Acting",
+          "name": "Tony Butala",
+          "original_name": "Tony Butala",
+          "popularity": 0.1595,
+          "profile_path": null,
+          "cast_id": 60,
+          "character": "Lost Boy (voice)",
+          "credit_id": "645f85c5ef8b32011b1361b6",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1055407,
+          "known_for_department": "Acting",
+          "name": "Carol Coombs",
+          "original_name": "Carol Coombs",
+          "popularity": 0.2602,
+          "profile_path": null,
+          "cast_id": 61,
+          "character": "(voice) (uncredited)",
+          "credit_id": "64f12a7eebb99d00ad8bcd3f",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1005363,
+          "known_for_department": "Acting",
+          "name": "Karen Kester",
+          "original_name": "Karen Kester",
+          "popularity": 0.1587,
+          "profile_path": null,
+          "cast_id": 62,
+          "character": "(voice) (uncredited)",
+          "credit_id": "64f12ab277d23b010d6be5b2",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1224636,
+          "known_for_department": "Acting",
+          "name": "Bill Lee",
+          "original_name": "Bill Lee",
+          "popularity": 0.4397,
+          "profile_path": "/eS8aQgJy4nNMIs5t7DyKDHTotXl.jpg",
+          "cast_id": 85,
+          "character": "Pirate (Uncredited)",
+          "credit_id": "6a2874b205697ce414c96f16",
+          "order": 15
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 64864,
+          "known_for_department": "Visual Effects",
+          "name": "Clyde Geronimi",
+          "original_name": "Clyde Geronimi",
+          "popularity": 0.9773,
+          "profile_path": "/eAeqN6fPYuzKjGRSaR2jqhSeeMq.jpg",
+          "credit_id": "52fe43a49251416c75018561",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 11434,
+          "known_for_department": "Directing",
+          "name": "Wilfred Jackson",
+          "original_name": "Wilfred Jackson",
+          "popularity": 0.7723,
+          "profile_path": "/rTszyDc1jFOQQrzSYgnxEVLxd8W.jpg",
+          "credit_id": "52fe43a49251416c75018567",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2106,
+          "known_for_department": "Production",
+          "name": "Walt Disney",
+          "original_name": "Walt Disney",
+          "popularity": 2.2821,
+          "profile_path": "/xtnOuQtUHv2Pu0ryhsqGKpAPCmK.jpg",
+          "credit_id": "52fe43a49251416c75018573",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 64868,
+          "known_for_department": "Sound",
+          "name": "Oliver Wallace",
+          "original_name": "Oliver Wallace",
+          "popularity": 0.4126,
+          "profile_path": null,
+          "credit_id": "52fe43a49251416c75018579",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 57316,
+          "known_for_department": "Writing",
+          "name": "Bill Peet",
+          "original_name": "Bill Peet",
+          "popularity": 0.8534,
+          "profile_path": null,
+          "credit_id": "607cdbb7f8595800414c09d0",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 63670,
+          "known_for_department": "Writing",
+          "name": "Winston Hibler",
+          "original_name": "Winston Hibler",
+          "popularity": 0.7733,
+          "profile_path": "/f6LAlCVRPLYejk0S6RhJNoVs5EX.jpg",
+          "credit_id": "607cdbc1713ed4003fdcbddf",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 64867,
+          "known_for_department": "Writing",
+          "name": "Joe Rinaldi",
+          "original_name": "Joe Rinaldi",
+          "popularity": 0.3046,
+          "profile_path": null,
+          "credit_id": "607cdbcb7776f0006dd1f3ee",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 71211,
+          "known_for_department": "Writing",
+          "name": "Milt Banta",
+          "original_name": "Milt Banta",
+          "popularity": 0.4718,
+          "profile_path": null,
+          "credit_id": "607cdbdb7776f000298b36cb",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 148822,
+          "known_for_department": "Writing",
+          "name": "Ralph Wright",
+          "original_name": "Ralph Wright",
+          "popularity": 0.7536,
+          "profile_path": null,
+          "credit_id": "607cdbff7e34830040f50457",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 67373,
+          "known_for_department": "Writing",
+          "name": "William Cottrell",
+          "original_name": "William Cottrell",
+          "popularity": 0.6063,
+          "profile_path": "/hvxdQSp6Lg8PpTGcjLi6aTfyC6P.jpg",
+          "credit_id": "607cdc0d031deb0029aa8730",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 115754,
+          "known_for_department": "Visual Effects",
+          "name": "Les Clark",
+          "original_name": "Les Clark",
+          "popularity": 0.578,
+          "profile_path": "/3MBRk8Nm3m5FG8hcVCXKWzGhnJS.jpg",
+          "credit_id": "56575b98c3a3681970009993",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 57314,
+          "known_for_department": "Visual Effects",
+          "name": "Wolfgang Reitherman",
+          "original_name": "Wolfgang Reitherman",
+          "popularity": 0.6721,
+          "profile_path": "/biIAk3hrc7Ed2ZnjadMiMS1EswM.jpg",
+          "credit_id": "5658bd749251416dce003942",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22066,
+          "known_for_department": "Visual Effects",
+          "name": "Eric Larson",
+          "original_name": "Eric Larson",
+          "popularity": 0.1611,
+          "profile_path": "/gNrUDEgF3qgspHxLNGR01byJZGx.jpg",
+          "credit_id": "565a075492514161ae000a8e",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 109453,
+          "known_for_department": "Visual Effects",
+          "name": "Ward Kimball",
+          "original_name": "Ward Kimball",
+          "popularity": 0.453,
+          "profile_path": "/pKzM72rZmdkxugLzurHp1NKRWgj.jpg",
+          "credit_id": "565a150092514161b1000cac",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 138170,
+          "known_for_department": "Visual Effects",
+          "name": "Milt Kahl",
+          "original_name": "Milt Kahl",
+          "popularity": 0.4388,
+          "profile_path": "/3Kh10dBqHTNDbXmsEoD7GAISelz.jpg",
+          "credit_id": "565a18d192514161be000d3b",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 63646,
+          "known_for_department": "Visual Effects",
+          "name": "Frank Thomas",
+          "original_name": "Frank Thomas",
+          "popularity": 0.7258,
+          "profile_path": "/ex3jyUogtwMt2zQgzmh3cwEz8ds.jpg",
+          "credit_id": "565a1bdc92514161ac000c89",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 143786,
+          "known_for_department": "Visual Effects",
+          "name": "Ollie Johnston",
+          "original_name": "Ollie Johnston",
+          "popularity": 0.3612,
+          "profile_path": "/7LShcoYbJg7vfXV2lSjzTlGAGb.jpg",
+          "credit_id": "565a238092514161c1000ecd",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 69003,
+          "known_for_department": "Visual Effects",
+          "name": "John Lounsbery",
+          "original_name": "John Lounsbery",
+          "popularity": 0.4592,
+          "profile_path": "/sHvTdMA98zyOEn3Mfffz1zApBaL.jpg",
+          "credit_id": "565a28ab92514161ae000f0a",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2117,
+          "known_for_department": "Sound",
+          "name": "Robert O. Cook",
+          "original_name": "Robert O. Cook",
+          "popularity": 0.2725,
+          "profile_path": null,
+          "credit_id": "61d709682495ab00654b2098",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2113,
+          "known_for_department": "Sound",
+          "name": "C.O. Slyfield",
+          "original_name": "C.O. Slyfield",
+          "popularity": 0.1489,
+          "profile_path": null,
+          "credit_id": "61d7097752dc7f006b080a3b",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1432117,
+          "known_for_department": "Crew",
+          "name": "Harold J. Steck",
+          "original_name": "Harold J. Steck",
+          "popularity": 0.1053,
+          "profile_path": null,
+          "credit_id": "61d7098cbb2602001c7995b2",
+          "department": "Sound",
+          "job": "Sound Recordist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 123192,
+          "known_for_department": "Directing",
+          "name": "Ub Iwerks",
+          "original_name": "Ub Iwerks",
+          "popularity": 0.7454,
+          "profile_path": "/8zD9v1AeqDF5PJ6VioIK2FA4GuA.jpg",
+          "credit_id": "61d709b277c01f008d434a2d",
+          "department": "Visual Effects",
+          "job": "Visual Effects"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 115754,
+          "known_for_department": "Visual Effects",
+          "name": "Les Clark",
+          "original_name": "Les Clark",
+          "popularity": 0.578,
+          "profile_path": "/3MBRk8Nm3m5FG8hcVCXKWzGhnJS.jpg",
+          "credit_id": "61d709df52dc7f006b080ba4",
+          "department": "Visual Effects",
+          "job": "Animation Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 150117,
+          "known_for_department": "Art",
+          "name": "Claude Coats",
+          "original_name": "Claude Coats",
+          "popularity": 0.3688,
+          "profile_path": null,
+          "credit_id": "61d709f3e194b00041481c4d",
+          "department": "Art",
+          "job": "Conceptual Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 150111,
+          "known_for_department": "Visual Effects",
+          "name": "Marc Davis",
+          "original_name": "Marc Davis",
+          "popularity": 0.3985,
+          "profile_path": "/kcgYkmiBXNfqrDoJu1ytu55rC5N.jpg",
+          "credit_id": "61d70a05f6fd18001de2f356",
+          "department": "Visual Effects",
+          "job": "Animation Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 226599,
+          "known_for_department": "Visual Effects",
+          "name": "Norman Ferguson",
+          "original_name": "Norman Ferguson",
+          "popularity": 0.3116,
+          "profile_path": "/fp0NPNlKl08kKbEgrlgvmxJJC7L.jpg",
+          "credit_id": "61d70c0b52dc7f00417df60b",
+          "department": "Visual Effects",
+          "job": "Animation Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1415527,
+          "known_for_department": "Writing",
+          "name": "John Hench",
+          "original_name": "John Hench",
+          "popularity": 0.21,
+          "profile_path": null,
+          "credit_id": "61d70c2ba22d3e008dad63af",
+          "department": "Art",
+          "job": "Conceptual Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 143786,
+          "known_for_department": "Visual Effects",
+          "name": "Ollie Johnston",
+          "original_name": "Ollie Johnston",
+          "popularity": 0.3612,
+          "profile_path": "/7LShcoYbJg7vfXV2lSjzTlGAGb.jpg",
+          "credit_id": "61d70c54bb2602005b9c1531",
+          "department": "Visual Effects",
+          "job": "Animation Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 138170,
+          "known_for_department": "Visual Effects",
+          "name": "Milt Kahl",
+          "original_name": "Milt Kahl",
+          "popularity": 0.4388,
+          "profile_path": "/3Kh10dBqHTNDbXmsEoD7GAISelz.jpg",
+          "credit_id": "61d70c66d48cee00422916ef",
+          "department": "Visual Effects",
+          "job": "Animation Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 109453,
+          "known_for_department": "Visual Effects",
+          "name": "Ward Kimball",
+          "original_name": "Ward Kimball",
+          "popularity": 0.453,
+          "profile_path": "/pKzM72rZmdkxugLzurHp1NKRWgj.jpg",
+          "credit_id": "61d70c7ae194b0001cbcc7e4",
+          "department": "Visual Effects",
+          "job": "Animation Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22066,
+          "known_for_department": "Visual Effects",
+          "name": "Eric Larson",
+          "original_name": "Eric Larson",
+          "popularity": 0.1611,
+          "profile_path": "/gNrUDEgF3qgspHxLNGR01byJZGx.jpg",
+          "credit_id": "61d70cb9899da200677312c6",
+          "department": "Visual Effects",
+          "job": "Animation Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 69003,
+          "known_for_department": "Visual Effects",
+          "name": "John Lounsbery",
+          "original_name": "John Lounsbery",
+          "popularity": 0.4592,
+          "profile_path": "/sHvTdMA98zyOEn3Mfffz1zApBaL.jpg",
+          "credit_id": "61d70cce2495ab009afca49b",
+          "department": "Visual Effects",
+          "job": "Animation Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 57314,
+          "known_for_department": "Visual Effects",
+          "name": "Wolfgang Reitherman",
+          "original_name": "Wolfgang Reitherman",
+          "popularity": 0.6721,
+          "profile_path": "/biIAk3hrc7Ed2ZnjadMiMS1EswM.jpg",
+          "credit_id": "61d70d70f6fd18001de2fc16",
+          "department": "Visual Effects",
+          "job": "Animation Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 63646,
+          "known_for_department": "Visual Effects",
+          "name": "Frank Thomas",
+          "original_name": "Frank Thomas",
+          "popularity": 0.7258,
+          "profile_path": "/ex3jyUogtwMt2zQgzmh3cwEz8ds.jpg",
+          "credit_id": "61d70d88bb2602001c799f6d",
+          "department": "Visual Effects",
+          "job": "Animation Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 150111,
+          "known_for_department": "Visual Effects",
+          "name": "Marc Davis",
+          "original_name": "Marc Davis",
+          "popularity": 0.3985,
+          "profile_path": "/kcgYkmiBXNfqrDoJu1ytu55rC5N.jpg",
+          "credit_id": "565c6edc925141692500844a",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 77612,
+          "known_for_department": "Art",
+          "name": "Mary Blair",
+          "original_name": "Mary Blair",
+          "popularity": 0.2418,
+          "profile_path": "/zbxspVXBRnUVKi9C8orcwcAUuvt.jpg",
+          "credit_id": "565dd0099251416da1002944",
+          "department": "Art",
+          "job": "Conceptual Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1060554,
+          "known_for_department": "Art",
+          "name": "Art Landy",
+          "original_name": "Art Landy",
+          "popularity": 0.2356,
+          "profile_path": null,
+          "credit_id": "65e439c420e6a5018652597e",
+          "department": "Art",
+          "job": "Background Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 11429,
+          "known_for_department": "Directing",
+          "name": "Hamilton Luske",
+          "original_name": "Hamilton Luske",
+          "popularity": 1.1879,
+          "profile_path": "/bEccjwuG6QGc4V0AtA87rexRHYo.jpg",
+          "credit_id": "58246f19c3a3684bfb00a532",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 150112,
+          "known_for_department": "Visual Effects",
+          "name": "Clair Weeks",
+          "original_name": "Clair Weeks",
+          "popularity": 0.0798,
+          "profile_path": null,
+          "credit_id": "660234ecd38b58016419e7a3",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 14687,
+          "known_for_department": "Writing",
+          "name": "J.M. Barrie",
+          "original_name": "J.M. Barrie",
+          "popularity": 0.5136,
+          "profile_path": "/gbApVvWseqj1JSAA3KHWUBiNqgM.jpg",
+          "credit_id": "6618cdbeb9a0bd016310e787",
+          "department": "Writing",
+          "job": "Theatre Play"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1012323,
+          "known_for_department": "Sound",
+          "name": "Sammy Fain",
+          "original_name": "Sammy Fain",
+          "popularity": 0.3204,
+          "profile_path": null,
+          "credit_id": "641b98be142ef100d9bb5d6b",
+          "department": "Sound",
+          "job": "Songs"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1208374,
+          "known_for_department": "Sound",
+          "name": "Sammy Cahn",
+          "original_name": "Sammy Cahn",
+          "popularity": 0.2939,
+          "profile_path": "/rg82MjeELpcdKaLDydUguWLMCGM.jpg",
+          "credit_id": "641b98c9a3e4ba00f6e81353",
+          "department": "Writing",
+          "job": "Lyricist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 64868,
+          "known_for_department": "Sound",
+          "name": "Oliver Wallace",
+          "original_name": "Oliver Wallace",
+          "popularity": 0.4126,
+          "profile_path": null,
+          "credit_id": "641b98e224b333007cf44cc0",
+          "department": "Sound",
+          "job": "Songs"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 64866,
+          "known_for_department": "Writing",
+          "name": "Erdman Penner",
+          "original_name": "Erdman Penner",
+          "popularity": 0.5163,
+          "profile_path": null,
+          "credit_id": "641b98ef95c0af00d4e3bce9",
+          "department": "Writing",
+          "job": "Lyricist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 64869,
+          "known_for_department": "Editing",
+          "name": "Donald Halliday",
+          "original_name": "Donald Halliday",
+          "popularity": 0.1843,
+          "profile_path": null,
+          "credit_id": "5ac5c5a20e0a2649670077b4",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1653448,
+          "known_for_department": "Directing",
+          "name": "Sylvia Roemer",
+          "original_name": "Sylvia Roemer",
+          "popularity": 0.2894,
+          "profile_path": null,
+          "credit_id": "676b53e71c8f54d1c664a568",
+          "department": "Art",
+          "job": "Painter"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 143787,
+          "known_for_department": "Visual Effects",
+          "name": "Hal King",
+          "original_name": "Hal King",
+          "popularity": 0.2711,
+          "profile_path": null,
+          "credit_id": "692efcabf60261a1115127fa",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 148810,
+          "known_for_department": "Visual Effects",
+          "name": "Cliff Nordberg",
+          "original_name": "Cliff Nordberg",
+          "popularity": 0.195,
+          "profile_path": null,
+          "credit_id": "692efcb740ea8bbe5f51271e",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 222578,
+          "known_for_department": "Visual Effects",
+          "name": "Fred Moore",
+          "original_name": "Fred Moore",
+          "popularity": 0.2581,
+          "profile_path": null,
+          "credit_id": "692efcc673ac51019264b133",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 148176,
+          "known_for_department": "Visual Effects",
+          "name": "Bob Carlson",
+          "original_name": "Bob Carlson",
+          "popularity": 0.2885,
+          "profile_path": null,
+          "credit_id": "692efcd664eff66050286d17",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 150110,
+          "known_for_department": "Visual Effects",
+          "name": "Hal Ambro",
+          "original_name": "Hal Ambro",
+          "popularity": 0.1447,
+          "profile_path": null,
+          "credit_id": "692efce2567356891c399260",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 222239,
+          "known_for_department": "Visual Effects",
+          "name": "Harvey Toombs",
+          "original_name": "Harvey Toombs",
+          "popularity": 0.3315,
+          "profile_path": null,
+          "credit_id": "692efcf1154b9a8eea51289e",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 198369,
+          "known_for_department": "Visual Effects",
+          "name": "Ken O'Brien",
+          "original_name": "Ken O'Brien",
+          "popularity": 0.1629,
+          "profile_path": null,
+          "credit_id": "692efd04b59ad404fd64b03f",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 138174,
+          "known_for_department": "Visual Effects",
+          "name": "Don Lusk",
+          "original_name": "Don Lusk",
+          "popularity": 0.46,
+          "profile_path": null,
+          "credit_id": "692efd15c25ba18e9126f3b6",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 148174,
+          "known_for_department": "Visual Effects",
+          "name": "Bill Justice",
+          "original_name": "Bill Justice",
+          "popularity": 0.0915,
+          "profile_path": null,
+          "credit_id": "692efd2b27c66bc3a339946f",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 148223,
+          "known_for_department": "Visual Effects",
+          "name": "Judge Whitaker",
+          "original_name": "Judge Whitaker",
+          "popularity": 0.157,
+          "profile_path": "/zvjD5NEDAJkGkKTCKbaUZH4TuR1.jpg",
+          "credit_id": "692efd3b762bc107d464b124",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 150758,
+          "known_for_department": "Visual Effects",
+          "name": "Marvin Woodward",
+          "original_name": "Marvin Woodward",
+          "popularity": 0.2826,
+          "profile_path": null,
+          "credit_id": "692efd4f615e82c85d6e2f19",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 551639,
+          "known_for_department": "Visual Effects",
+          "name": "Jerry Hathcock",
+          "original_name": "Jerry Hathcock",
+          "popularity": 0.2592,
+          "profile_path": null,
+          "credit_id": "692efd64063f0b75683992df",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 224698,
+          "known_for_department": "Visual Effects",
+          "name": "Hugh Fraser",
+          "original_name": "Hugh Fraser",
+          "popularity": 0.2129,
+          "profile_path": null,
+          "credit_id": "692efd76850c525bd8286c83",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 67607,
+          "known_for_department": "Visual Effects",
+          "name": "Art Stevens",
+          "original_name": "Art Stevens",
+          "popularity": 0.3932,
+          "profile_path": "/aWqF7H6iRN9wmNyPAbHRG4qguiN.jpg",
+          "credit_id": "692efd86d64c0d3106399360",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 63647,
+          "known_for_department": "Visual Effects",
+          "name": "Eric Cleworth",
+          "original_name": "Eric Cleworth",
+          "popularity": 0.2697,
+          "profile_path": null,
+          "credit_id": "692efd98615e82c85d6e2f1c",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 150739,
+          "known_for_department": "Acting",
+          "name": "Thurl Ravenscroft",
+          "original_name": "Thurl Ravenscroft",
+          "popularity": 0.78,
+          "profile_path": "/bG8r0mdyU0lvhllYAAjRAJupWqq.jpg",
+          "credit_id": "6a27700daae7153063c2e86d",
+          "department": "Sound",
+          "job": "Vocals"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1224636,
+          "known_for_department": "Acting",
+          "name": "Bill Lee",
+          "original_name": "Bill Lee",
+          "popularity": 0.4397,
+          "profile_path": "/eS8aQgJy4nNMIs5t7DyKDHTotXl.jpg",
+          "credit_id": "6a287451a340d64f797c2670",
+          "department": "Sound",
+          "job": "Vocals"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 937785,
+          "known_for_department": "Acting",
+          "name": "Gloria Wood",
+          "original_name": "Gloria Wood",
+          "popularity": 0.2645,
+          "profile_path": "/fNNN3Wpgo7dYNzPYXGpiHjOpm6T.jpg",
+          "credit_id": "6a287460d1145721167c2653",
+          "department": "Sound",
+          "job": "Vocals"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5449,
+          "known_for_department": "Writing",
+          "name": "Ted Sears",
+          "original_name": "Ted Sears",
+          "popularity": 0.8003,
+          "profile_path": null,
+          "credit_id": "6a60e46fa833870349db011e",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 64866,
+          "known_for_department": "Writing",
+          "name": "Erdman Penner",
+          "original_name": "Erdman Penner",
+          "popularity": 0.5163,
+          "profile_path": null,
+          "credit_id": "6a60e48c7eaff5d8ebd29ddf",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "AT",
+          "release_dates": [
+            {
+              "certification": "6",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1954-12-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "AU",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1953-10-15T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "L",
+              "descriptors": [],
+              "iso_639_1": "pt",
+              "note": "",
+              "release_date": "1953-04-10T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "fr",
+              "note": "VHS, Québec",
+              "release_date": "1990-09-21T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "fr",
+              "note": "VHS, Québec, restoration, new dub",
+              "release_date": "1998-03-03T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "0",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1953-12-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "DK",
+          "release_dates": [
+            {
+              "certification": "A",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1953-12-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "ES",
+          "release_dates": [
+            {
+              "certification": "APTA",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "Disney +",
+              "release_date": "2021-07-02T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FI",
+          "release_dates": [
+            {
+              "certification": "S",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1953-12-18T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Cannes Film Festival, in competition",
+              "release_date": "1953-04-15T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "TP",
+              "descriptors": [],
+              "iso_639_1": "fr",
+              "note": "",
+              "release_date": "1953-12-18T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "fr",
+              "note": "VHS/LD, restoration, new dub (Walt Disney)",
+              "release_date": "1996-08-21T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "VHS/DVD, restoration",
+              "release_date": "2002-02-12T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DVD, digital restoration",
+              "release_date": "2007-02-21T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "BD, new digital restoration",
+              "release_date": "2012-12-12T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1953-07-27T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "VHS",
+              "release_date": "1993-03-15T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "VHS",
+              "release_date": "1998-02-02T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "VHS",
+              "release_date": "2001-06-18T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DVD",
+              "release_date": "2002-03-18T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DVD",
+              "release_date": "2007-03-12T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Blu-ray / DVD",
+              "release_date": "2012-11-05T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "GR",
+          "release_dates": [
+            {
+              "certification": "K",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1953-12-26T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IE",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1953-07-27T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-06-29T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "T",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1953-12-16T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "JP",
+          "release_dates": [
+            {
+              "certification": "PG12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1955-03-09T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "ALL",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1957-06-13T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "A",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1953-11-11T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NL",
+          "release_dates": [
+            {
+              "certification": "AL",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1953-12-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "NO",
+          "release_dates": [
+            {
+              "certification": "6",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1953-02-05T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "PT",
+          "release_dates": [
+            {
+              "certification": "M/3",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1954-04-08T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SE",
+          "release_dates": [
+            {
+              "certification": "Btl",
+              "descriptors": [],
+              "iso_639_1": "sv",
+              "note": "Cut version",
+              "release_date": "1953-12-21T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "Btl",
+              "descriptors": [],
+              "iso_639_1": "sv",
+              "note": "Uncut version",
+              "release_date": "1984-03-23T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "Btl",
+              "descriptors": [],
+              "iso_639_1": "sv",
+              "note": "New Swedish dub",
+              "release_date": "1992-07-31T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "Btl",
+              "descriptors": [],
+              "iso_639_1": "sv",
+              "note": "Re-release",
+              "release_date": "1965-12-17T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "Btl",
+              "descriptors": [],
+              "iso_639_1": "sv",
+              "note": "VHS release",
+              "release_date": "1993-02-11T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "Btl",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Blu-ray release",
+              "release_date": "2013-01-02T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1989-07-14T00:00:00.000Z",
+              "type": 2
+            },
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1953-02-05T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2018-05-29T00:00:00.000Z",
+              "type": 4
+            },
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "VHS",
+              "release_date": "1990-09-21T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "VHS, restoration",
+              "release_date": "1998-03-03T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DVD, restoration",
+              "release_date": "1999-11-23T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "VHS / DVD",
+              "release_date": "2002-02-12T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DVD",
+              "release_date": "2007-03-06T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Blu-ray / DVD",
+              "release_date": "2013-02-05T00:00:00.000Z",
+              "type": 5
+            },
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Blu-ray / DVD",
+              "release_date": "2018-06-05T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Peter Pan 1",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Peter Pans heitere Abenteuer",
+          "type": "Originaltitle"
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Les Aventures de Peter Pan",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "KR",
+          "title": "피터팬",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "Peter Pan: 1",
+          "type": "Castellano"
+        },
+        {
+          "iso_3166_1": "BR",
+          "title": "As Aventuras de Peter Pan",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "PT",
+          "title": "As Aventuras de Peter Pan",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Peter Pan",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "GR",
+          "title": "Πίτερ Παν",
+          "type": "Νεότερος"
+        },
+        {
+          "iso_3166_1": "GR",
+          "title": "Πήτερ Παν",
+          "type": "Αρχικός"
+        },
+        {
+          "iso_3166_1": "RS",
+          "title": "Petar Pan",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "AZ",
+          "title": "Piter Pan",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

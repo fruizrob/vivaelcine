@@ -1,0 +1,191 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1543552?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:12.620Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1543552,
+    "imdb_id": "tt0120015",
+    "origin_country": [
+      "CH"
+    ],
+    "original_language": "en",
+    "original_title": "Ricardo, Miriam y Fidel",
+    "overview": "",
+    "popularity": 0.389,
+    "poster_path": "/tCsXEBOlCP8dHiDdjd35HgLqjDd.jpg",
+    "production_companies": [
+      {
+        "id": 98580,
+        "logo_path": null,
+        "name": "Christian Frei Filmproductions",
+        "origin_country": "CH"
+      },
+      {
+        "id": 26027,
+        "logo_path": "/sHNTPJu0ePn5PqHRcA6nncNWN0L.png",
+        "name": "Teleclub",
+        "origin_country": "CH"
+      },
+      {
+        "id": 319,
+        "logo_path": null,
+        "name": "Frenetic Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CH",
+        "name": "Switzerland"
+      }
+    ],
+    "release_date": "1997-04-21",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ricardo, Miriam y Fidel",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 73645,
+          "known_for_department": "Directing",
+          "name": "Christian Frei",
+          "original_name": "Christian Frei",
+          "popularity": 0.2262,
+          "profile_path": "/xT0uG8Et4eR8qfSjLe1ylybvgXG.jpg",
+          "credit_id": "68bf3415adad6c15461f57df",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 73645,
+          "known_for_department": "Directing",
+          "name": "Christian Frei",
+          "original_name": "Christian Frei",
+          "popularity": 0.2262,
+          "profile_path": "/xT0uG8Et4eR8qfSjLe1ylybvgXG.jpg",
+          "credit_id": "68bf341d8d71c7c8b68cf23c",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 36239,
+          "known_for_department": "Camera",
+          "name": "Peter Indergand",
+          "original_name": "Peter Indergand",
+          "popularity": 0.1159,
+          "profile_path": null,
+          "credit_id": "68bf3426efa96fc7f71f5cbc",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 73645,
+          "known_for_department": "Directing",
+          "name": "Christian Frei",
+          "original_name": "Christian Frei",
+          "popularity": 0.2262,
+          "profile_path": "/xT0uG8Et4eR8qfSjLe1ylybvgXG.jpg",
+          "credit_id": "68bf343424af1eee5498c4df",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1033115,
+          "known_for_department": "Writing",
+          "name": "Martin Witz",
+          "original_name": "Martin Witz",
+          "popularity": 0.1897,
+          "profile_path": "/clMWLLUgkl0khDj63265DwLPrZ8.jpg",
+          "credit_id": "68bf343defa96fc7f71f5cc4",
+          "department": "Sound",
+          "job": "Location Sound Mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5678542,
+          "known_for_department": "Editing",
+          "name": "Damaris Betancourt",
+          "original_name": "Damaris Betancourt",
+          "popularity": 0.0479,
+          "profile_path": null,
+          "credit_id": "68bf34440502aac347947d5d",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1617357,
+          "known_for_department": "Editing",
+          "name": "Jorge Abello",
+          "original_name": "Jorge Abello",
+          "popularity": 0.1617,
+          "profile_path": null,
+          "credit_id": "68bf3452e2761164679bcbeb",
+          "department": "Editing",
+          "job": "Editor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Festival Int. du Cinéma Documentaire Nyon",
+              "release_date": "1997-04-21T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1148919?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:55.402Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1148919,
+    "imdb_id": null,
+    "origin_country": [
+      "PL"
+    ],
+    "original_language": "pl",
+    "original_title": "Irytujące buczenie lodówki",
+    "overview": "",
+    "popularity": 0.1608,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 21778,
+        "logo_path": "/pKaywrtWfuwLKmocmexmgYLsHhf.png",
+        "name": "Lodz Film School",
+        "origin_country": "PL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PL",
+        "name": "Poland"
+      }
+    ],
+    "release_date": "1998-01-01",
+    "revenue": 0,
+    "runtime": 9,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Irytujące buczenie lodówki",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 136562,
+          "known_for_department": "Acting",
+          "name": "Marta Lipińska",
+          "original_name": "Marta Lipińska",
+          "popularity": 0.173,
+          "profile_path": "/87bY60ZCr7HKLVJC2em1TvlS7jX.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "64a724f2957e6d00c5dc82fc",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 28834,
+          "known_for_department": "Acting",
+          "name": "Leon Niemczyk",
+          "original_name": "Leon Niemczyk",
+          "popularity": 0.748,
+          "profile_path": "/e1Zb5lIptXAPowqqOVUpvLzRonm.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "64a724f965c26c00ca9e0071",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4150005,
+          "known_for_department": "Acting",
+          "name": "Magdalena Leubstein",
+          "original_name": "Magdalena Leubstein",
+          "popularity": 0.0845,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "64a72504957e6d0139cf12b5",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1651810,
+          "known_for_department": "Acting",
+          "name": "Tomasz Kazmierczak",
+          "original_name": "Tomasz Kazmierczak",
+          "popularity": 0.1621,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "64a7250c65c26c00aedcc52c",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1274354,
+          "known_for_department": "Directing",
+          "name": "Łukasz Barczyk",
+          "original_name": "Łukasz Barczyk",
+          "popularity": 0.0937,
+          "profile_path": null,
+          "credit_id": "64a7252065c26c012df989b8",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1274354,
+          "known_for_department": "Directing",
+          "name": "Łukasz Barczyk",
+          "original_name": "Łukasz Barczyk",
+          "popularity": 0.0937,
+          "profile_path": null,
+          "credit_id": "64a72529f056d501390430a8",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4150006,
+          "known_for_department": "Production",
+          "name": "Leon Żychowicz",
+          "original_name": "Leon Żychowicz",
+          "popularity": 0.0461,
+          "profile_path": null,
+          "credit_id": "64a7253365c26c010ce405c5",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1998-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

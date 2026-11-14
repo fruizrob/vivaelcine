@@ -1,0 +1,86 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/697636?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:20.879Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 697636,
+    "imdb_id": "tt0449316",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Mi gran noche",
+    "overview": "Mi gran noche",
+    "popularity": 0.1697,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2004-10-07",
+    "revenue": 0,
+    "runtime": 10,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mi gran noche",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 532227,
+          "known_for_department": "Directing",
+          "name": "Arturo Ripstein",
+          "original_name": "Arturo Ripstein",
+          "popularity": 0.7871,
+          "profile_path": "/eau7zoKtACn6GyO0RNbePCaHzmv.jpg",
+          "credit_id": "5ea69be235c30a001fbff886",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 532227,
+          "known_for_department": "Directing",
+          "name": "Arturo Ripstein",
+          "original_name": "Arturo Ripstein",
+          "popularity": 0.7871,
+          "profile_path": "/eau7zoKtACn6GyO0RNbePCaHzmv.jpg",
+          "credit_id": "5ea69be9b39e350026e9fa2b",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2004-10-07T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

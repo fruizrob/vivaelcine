@@ -1,0 +1,144 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/35048?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:28.349Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 35048,
+    "imdb_id": "tt1324892",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Ross Noble: Fizzy Logic",
+    "overview": "",
+    "popularity": 0.2761,
+    "poster_path": "/4aZBJcSLRl0AOzTcZACqfcoVXyA.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2007-11-12",
+    "revenue": 0,
+    "runtime": 128,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ross Noble: Fizzy Logic",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 4,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 90440,
+          "known_for_department": "Acting",
+          "name": "Ross Noble",
+          "original_name": "Ross Noble",
+          "popularity": 0.5641,
+          "profile_path": "/9oGbE5dvzkIDhIOSp9nnEPbCwDu.jpg",
+          "cast_id": 5,
+          "character": "Himself",
+          "credit_id": "52fe458e9251416c910366d9",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 113644,
+          "known_for_department": "Directing",
+          "name": "Peter Callow",
+          "original_name": "Peter Callow",
+          "popularity": 0.1118,
+          "profile_path": null,
+          "credit_id": "52fe458e9251416c910366c3",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 90440,
+          "known_for_department": "Acting",
+          "name": "Ross Noble",
+          "original_name": "Ross Noble",
+          "popularity": 0.5641,
+          "profile_path": "/9oGbE5dvzkIDhIOSp9nnEPbCwDu.jpg",
+          "credit_id": "52fe458e9251416c910366d5",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 90440,
+          "known_for_department": "Acting",
+          "name": "Ross Noble",
+          "original_name": "Ross Noble",
+          "popularity": 0.5641,
+          "profile_path": "/9oGbE5dvzkIDhIOSp9nnEPbCwDu.jpg",
+          "credit_id": "52fe458e9251416c910366c9",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 90440,
+          "known_for_department": "Acting",
+          "name": "Ross Noble",
+          "original_name": "Ross Noble",
+          "popularity": 0.5641,
+          "profile_path": "/9oGbE5dvzkIDhIOSp9nnEPbCwDu.jpg",
+          "credit_id": "52fe458e9251416c910366cf",
+          "department": "Production",
+          "job": "Executive Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2007-11-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "GB",
+          "title": "Ross Noble - Fizzy Logic",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

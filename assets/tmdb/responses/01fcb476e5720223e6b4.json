@@ -1,0 +1,135 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1569816?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:49.025Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1569816,
+    "imdb_id": null,
+    "origin_country": [
+      "PE"
+    ],
+    "original_language": "es",
+    "original_title": "La Ofrenda",
+    "overview": "Cortometraje animado realizado en el Laboratorio RAD Pukllay.",
+    "popularity": 0.0917,
+    "poster_path": "/fNbIMnJP5L068xkIXefF5txxYV8.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "PE",
+        "name": "Peru"
+      }
+    ],
+    "release_date": "2024-05-25",
+    "revenue": 0,
+    "runtime": 1,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Ofrenda",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5777068,
+          "known_for_department": "Directing",
+          "name": "Sam Glenni",
+          "original_name": "Sam Glenni",
+          "popularity": 0.024,
+          "profile_path": null,
+          "credit_id": "68ff8d417e635775063bff17",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5777070,
+          "known_for_department": "Art",
+          "name": "Ana Claudia Tucto",
+          "original_name": "Ana Claudia Tucto",
+          "popularity": 0.0486,
+          "profile_path": null,
+          "credit_id": "68ff8d81e68bf5b5aeda0667",
+          "department": "Art",
+          "job": "Art Direction"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4636626,
+          "known_for_department": "Directing",
+          "name": "Yuliana Brutti",
+          "original_name": "Yuliana Brutti",
+          "popularity": 0.0563,
+          "profile_path": null,
+          "credit_id": "68ff8d992f70d4064ca310de",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4636626,
+          "known_for_department": "Directing",
+          "name": "Yuliana Brutti",
+          "original_name": "Yuliana Brutti",
+          "popularity": 0.0563,
+          "profile_path": null,
+          "credit_id": "68ff8dadaaea3320369275d6",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4638253,
+          "known_for_department": "Sound",
+          "name": "Nacho Rozental",
+          "original_name": "Nacho Rozental",
+          "popularity": 0.0497,
+          "profile_path": "/99iZ4vsdLt2JmecnHDTwPDf78YS.jpg",
+          "credit_id": "6ab5bd111d39546f1b19a40f",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2024-05-25T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

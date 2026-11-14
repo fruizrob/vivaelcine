@@ -1,0 +1,128 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/538384?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:06.857Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/tBvXZivAXqRTE2i7tJlE96miWMK.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 538384,
+    "imdb_id": "tt11637946",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Tauromaquia",
+    "overview": "El dramático desenlace del encuentro entre un toro y un torero.",
+    "popularity": 0.2821,
+    "poster_path": "/yj7cIgIadLfqHteiUnmrLrzskxY.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2015-07-23",
+    "revenue": 0,
+    "runtime": 3,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Tauromaquia",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2093570,
+          "known_for_department": "Directing",
+          "name": "Christian Arredondo Narváez",
+          "original_name": "Christian Arredondo Narváez",
+          "popularity": 0.082,
+          "profile_path": "/pKiyX4TEcNK7J5TCEjsATpGgCjD.jpg",
+          "credit_id": "5b5b5a4c0e0a262e9f0014c0",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2093570,
+          "known_for_department": "Directing",
+          "name": "Christian Arredondo Narváez",
+          "original_name": "Christian Arredondo Narváez",
+          "popularity": 0.082,
+          "profile_path": "/pKiyX4TEcNK7J5TCEjsATpGgCjD.jpg",
+          "credit_id": "5b5b5a6592514152240014fc",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2093570,
+          "known_for_department": "Directing",
+          "name": "Christian Arredondo Narváez",
+          "original_name": "Christian Arredondo Narváez",
+          "popularity": 0.082,
+          "profile_path": "/pKiyX4TEcNK7J5TCEjsATpGgCjD.jpg",
+          "credit_id": "5b5b5a6b92514152340013e9",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2093571,
+          "known_for_department": "Crew",
+          "name": "Omar Sigler",
+          "original_name": "Omar Sigler",
+          "popularity": 0.0303,
+          "profile_path": null,
+          "credit_id": "5b5b5a960e0a262e920016e5",
+          "department": "Crew",
+          "job": "Compositor"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "xx",
+              "note": "Guanajuato International Film Festival",
+              "release_date": "2015-07-23T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

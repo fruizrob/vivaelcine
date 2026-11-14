@@ -1,0 +1,90 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1222976?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:17.869Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1222976,
+    "imdb_id": null,
+    "origin_country": [
+      "AU",
+      "CA"
+    ],
+    "original_language": "it",
+    "original_title": "Il Presepio di Michele Pascuzzi",
+    "overview": "",
+    "popularity": 0.077,
+    "poster_path": "/zsD5gVX3eqlyIkRbo4zjrWnnZY6.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2023-12-25",
+    "revenue": 0,
+    "runtime": 7,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Il Presepio di Michele Pascuzzi",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4288690,
+          "known_for_department": "Directing",
+          "name": "Danial Mirza",
+          "original_name": "Danial Mirza",
+          "popularity": 0.0918,
+          "profile_path": null,
+          "credit_id": "6738f444624a85b8899eb60b",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "it",
+              "note": "",
+              "release_date": "2023-12-25T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

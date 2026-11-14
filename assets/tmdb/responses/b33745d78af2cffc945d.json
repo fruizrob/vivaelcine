@@ -1,0 +1,595 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/486237?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:40.409Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": {
+      "id": 598003,
+      "name": "Gabino Barrera Collection",
+      "poster_path": null,
+      "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 37,
+        "name": "Western"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 486237,
+    "imdb_id": "tt0319139",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "La Captura De Gabino Barrera",
+    "overview": "",
+    "popularity": 0.638,
+    "poster_path": "/q50VAktEHwtvCY3Nd0N3J5LfkOy.jpg",
+    "production_companies": [
+      {
+        "id": 4875,
+        "logo_path": null,
+        "name": "Estudios América",
+        "origin_country": "MX"
+      },
+      {
+        "id": 2463,
+        "logo_path": null,
+        "name": "Filmex",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "1970-04-15",
+    "revenue": 0,
+    "runtime": 85,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Captura De Gabino Barrera",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 6,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1031537,
+          "known_for_department": "Acting",
+          "name": "Antonio Aguilar",
+          "original_name": "Antonio Aguilar",
+          "popularity": 0.7756,
+          "profile_path": "/yaBvT37fAhYJn8LXE7Qs9yXSGL6.jpg",
+          "cast_id": 1,
+          "character": "Gabino Barrera, hijo",
+          "credit_id": "5a051c90c3a3686ac700713a",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1043524,
+          "known_for_department": "Acting",
+          "name": "Eleazar García",
+          "original_name": "Eleazar García",
+          "popularity": 0.4901,
+          "profile_path": "/5tPrI8AYwAjas1lEOsAqgZI1n81.jpg",
+          "cast_id": 2,
+          "character": "Chelelo",
+          "credit_id": "5a051c9ec3a3686a8c00730d",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1043525,
+          "known_for_department": "Acting",
+          "name": "Alejandro Reyna",
+          "original_name": "Alejandro Reyna",
+          "popularity": 0.3068,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Plácido",
+          "credit_id": "5a051ca9c3a3686af100710f",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1507616,
+          "known_for_department": "Acting",
+          "name": "Amadee Chabot",
+          "original_name": "Amadee Chabot",
+          "popularity": 0.542,
+          "profile_path": "/qHX8vT7w80apkn06okGhzeliadQ.jpg",
+          "cast_id": 4,
+          "character": "Joan Carson",
+          "credit_id": "5a051cc3c3a3686af100713b",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1032547,
+          "known_for_department": "Acting",
+          "name": "Julián Bravo",
+          "original_name": "Julián Bravo",
+          "popularity": 0.42,
+          "profile_path": "/1WnJ8BTzFoVzgireJ2UDJZNSXpZ.jpg",
+          "cast_id": 5,
+          "character": "Julián Ramírez",
+          "credit_id": "5a051ce8c3a3686a38006af1",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1043529,
+          "known_for_department": "Acting",
+          "name": "Raúl Meraz",
+          "original_name": "Raúl Meraz",
+          "popularity": 0.2799,
+          "profile_path": "/59UsfcaYSNwJUEfz5P4BFsW2hae.jpg",
+          "cast_id": 6,
+          "character": "Luis Martínez",
+          "credit_id": "5a051cf39251417dc1007446",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 105151,
+          "known_for_department": "Acting",
+          "name": "Víctor Alcocer",
+          "original_name": "Víctor Alcocer",
+          "popularity": 0.3385,
+          "profile_path": "/wYqEAhliDtKSGLZ2oMW6DxmTo23.jpg",
+          "cast_id": 7,
+          "character": "Dr. Díaz",
+          "credit_id": "5a051d049251417e1c00721a",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 85427,
+          "known_for_department": "Acting",
+          "name": "Pascual García Peña",
+          "original_name": "Pascual García Peña",
+          "popularity": 0.5974,
+          "profile_path": "/dtOL4Q3JyeNS0t0Vkfwel8brKBg.jpg",
+          "cast_id": 8,
+          "character": "Melitón",
+          "credit_id": "5a051d12c3a3686ab6006ef3",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1359286,
+          "known_for_department": "Acting",
+          "name": "Ramon Ayala",
+          "original_name": "Ramon Ayala",
+          "popularity": 0.1897,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Himself",
+          "credit_id": "64bc6f9aeb79c200e28d2b7f",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 974930,
+          "known_for_department": "Acting",
+          "name": "Cornelio Reyna",
+          "original_name": "Cornelio Reyna",
+          "popularity": 0.2073,
+          "profile_path": "/tHdZ48GjOJgN90uX6baQT9GTzeP.jpg",
+          "cast_id": 15,
+          "character": "Himself",
+          "credit_id": "64bc702e58efd300ff1b2cb7",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1128241,
+          "known_for_department": "Acting",
+          "name": "Stillman Segar",
+          "original_name": "Stillman Segar",
+          "popularity": 0.2127,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "",
+          "credit_id": "68a7394f835607b2a625f6b0",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6633478,
+          "known_for_department": "Acting",
+          "name": "Elena Cole",
+          "original_name": "Elena Cole",
+          "popularity": 0.0059,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Doris Peterson",
+          "credit_id": "6af382893be12e561112837a",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 36621,
+          "known_for_department": "Acting",
+          "name": "Miguel Ángel Álvarez",
+          "original_name": "Miguel Ángel Álvarez",
+          "popularity": 0.2769,
+          "profile_path": "/7lFPu9cJMSG2WjGdUVm3EXdm2k.jpg",
+          "cast_id": 18,
+          "character": "Pedro",
+          "credit_id": "6af3829584b70b6d6dd9cc06",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 30306,
+          "known_for_department": "Acting",
+          "name": "Manuel Dondé",
+          "original_name": "Manuel Dondé",
+          "popularity": 0.409,
+          "profile_path": "/1nTh2RhETVbbslyF06f1IEWHnAO.jpg",
+          "cast_id": 19,
+          "character": "",
+          "credit_id": "6af382a12d8474944cddfef8",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1126626,
+          "known_for_department": "Production",
+          "name": "Chuck Anderson",
+          "original_name": "Chuck Anderson",
+          "popularity": 0.1216,
+          "profile_path": null,
+          "cast_id": 20,
+          "character": "",
+          "credit_id": "6af382abd42d528b2212832d",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 102299,
+          "known_for_department": "Acting",
+          "name": "Carlos Nieto",
+          "original_name": "Carlos Nieto",
+          "popularity": 0.3862,
+          "profile_path": "/zzFkaRZhAAgIVcw4q98WOUl4SuX.jpg",
+          "cast_id": 21,
+          "character": "Inspector Frank Martínez",
+          "credit_id": "6af382b484510fb150ddff1e",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1066889,
+          "known_for_department": "Acting",
+          "name": "Inés Murillo",
+          "original_name": "Inés Murillo",
+          "popularity": 0.1988,
+          "profile_path": "/ahNP2cCzo5nSUE2wStvj6oFtnZg.jpg",
+          "cast_id": 22,
+          "character": "",
+          "credit_id": "6af382be2d8474944cddfefe",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1090678,
+          "known_for_department": "Acting",
+          "name": "Carlos Suárez",
+          "original_name": "Carlos Suárez",
+          "popularity": 0.3093,
+          "profile_path": null,
+          "cast_id": 23,
+          "character": "",
+          "credit_id": "6af382c83f8b43b8a8ddfede",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3051332,
+          "known_for_department": "Acting",
+          "name": "Michel Grayeb",
+          "original_name": "Michel Grayeb",
+          "popularity": 0.0742,
+          "profile_path": null,
+          "cast_id": 24,
+          "character": "",
+          "credit_id": "6af382d3ebbb41163cddff72",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 31887,
+          "known_for_department": "Acting",
+          "name": "Jaime Fernández",
+          "original_name": "Jaime Fernández",
+          "popularity": 0.6795,
+          "profile_path": null,
+          "cast_id": 25,
+          "character": "",
+          "credit_id": "6af382dd6688645905d9cd24",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 105128,
+          "known_for_department": "Acting",
+          "name": "María Duval",
+          "original_name": "María Duval",
+          "popularity": 0.4195,
+          "profile_path": "/ulcBoJjUsVvUwTFHWkV7youDveq.jpg",
+          "cast_id": 26,
+          "character": "",
+          "credit_id": "6af382e6811543c6f0ddfe56",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6633486,
+          "known_for_department": "Acting",
+          "name": "Liza Castro",
+          "original_name": "Liza Castro",
+          "popularity": 0.0059,
+          "profile_path": null,
+          "cast_id": 27,
+          "character": "",
+          "credit_id": "6af382f09b09612123d9ccec",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 623776,
+          "known_for_department": "Acting",
+          "name": "Miguel Ángel Ferriz Sr.",
+          "original_name": "Miguel Ángel Ferriz Sr.",
+          "popularity": 0.2845,
+          "profile_path": "/2IibcS45XLz6LA5vxtn33RZlFU.jpg",
+          "cast_id": 28,
+          "character": "",
+          "credit_id": "6af38300b09835a52faf62db",
+          "order": 22
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1028011,
+          "known_for_department": "Directing",
+          "name": "René Cardona",
+          "original_name": "René Cardona",
+          "popularity": 0.4426,
+          "profile_path": "/9ph4xtzSsIWSKfR0S5BKqLdBSX2.jpg",
+          "credit_id": "5a051c7dc3a3686a8c0072d6",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 236210,
+          "known_for_department": "Writing",
+          "name": "Rafael García Travesí",
+          "original_name": "Rafael García Travesí",
+          "popularity": 0.24,
+          "profile_path": null,
+          "credit_id": "5cc28df7925141593ef3ecc6",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 236210,
+          "known_for_department": "Writing",
+          "name": "Rafael García Travesí",
+          "original_name": "Rafael García Travesí",
+          "popularity": 0.24,
+          "profile_path": null,
+          "credit_id": "5cc28dfe9251413a1cf3f666",
+          "department": "Crew",
+          "job": "Script"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1043465,
+          "known_for_department": "Sound",
+          "name": "Enrico C. Cabiati",
+          "original_name": "Enrico C. Cabiati",
+          "popularity": 0.1969,
+          "profile_path": null,
+          "credit_id": "5cc28e0f0e0a264d93ed36aa",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 55122,
+          "known_for_department": "Editing",
+          "name": "Federico Landeros",
+          "original_name": "Federico Landeros",
+          "popularity": 0.0965,
+          "profile_path": null,
+          "credit_id": "5cc28e2e9251413a1cf3f678",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1043466,
+          "known_for_department": "Camera",
+          "name": "Raúl Domínguez",
+          "original_name": "Raúl Domínguez",
+          "popularity": 0.2463,
+          "profile_path": null,
+          "credit_id": "5cc28e46c3a368776c8eae75",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1106941,
+          "known_for_department": "Art",
+          "name": "José Méndez",
+          "original_name": "José Méndez",
+          "popularity": 0.2392,
+          "profile_path": null,
+          "credit_id": "6af73e6d62e5c9f2fd00acf7",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1802114,
+          "known_for_department": "Art",
+          "name": "Octavio Ocampo",
+          "original_name": "Octavio Ocampo",
+          "popularity": 0.0924,
+          "profile_path": "/6l34qTimhTs6QdwZ3DtE4hIOsWA.jpg",
+          "credit_id": "6af73e79208c5e4056bec15c",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1771669,
+          "known_for_department": "Production",
+          "name": "Jacobo Derechín",
+          "original_name": "Jacobo Derechín",
+          "popularity": 0.0627,
+          "profile_path": null,
+          "credit_id": "6af73e8676459715813a149b",
+          "department": "Production",
+          "job": "Production Manager"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1077594,
+          "known_for_department": "Camera",
+          "name": "Armando Castillón",
+          "original_name": "Armando Castillón",
+          "popularity": 0.2185,
+          "profile_path": null,
+          "credit_id": "6af73e92de50777cbbbec173",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 933211,
+          "known_for_department": "Directing",
+          "name": "Fernando Durán Rojas",
+          "original_name": "Fernando Durán Rojas",
+          "popularity": 0.3376,
+          "profile_path": "/zuYJjRoxPC915tWnIy5rCHsZjf3.jpg",
+          "credit_id": "6af73ea0b6238da7d53a07c5",
+          "department": "Directing",
+          "job": "Assistant Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1163743,
+          "known_for_department": "Crew",
+          "name": "Enrique Gordillo",
+          "original_name": "Enrique Gordillo",
+          "popularity": 0.1388,
+          "profile_path": null,
+          "credit_id": "6af73eaed22c3cb913633d6e",
+          "department": "Crew",
+          "job": "Special Effects"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1095199,
+          "known_for_department": "Crew",
+          "name": "Ricardo Sáinz",
+          "original_name": "Ricardo Sáinz",
+          "popularity": 0.0929,
+          "profile_path": null,
+          "credit_id": "6af73ebfc61aaad1933a0481",
+          "department": "Crew",
+          "job": "Special Effects"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "MX",
+          "release_dates": [
+            {
+              "certification": "B-15",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1970-04-15T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

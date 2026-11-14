@@ -1,0 +1,135 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1144034?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:55.088Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1144034,
+    "imdb_id": null,
+    "origin_country": [
+      "PL"
+    ],
+    "original_language": "pl",
+    "original_title": "Lodołamacze",
+    "overview": "",
+    "popularity": 0.2556,
+    "poster_path": "/d2e5llEm7wEmFkHAEZVfwQWvxiI.jpg",
+    "production_companies": [
+      {
+        "id": 24654,
+        "logo_path": null,
+        "name": "Wytwórnia Filmów Dokumentalnych",
+        "origin_country": "PL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PL",
+        "name": "Poland"
+      }
+    ],
+    "release_date": "1963-01-02",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Polish",
+        "iso_639_1": "pl",
+        "name": "Polski"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lodołamacze",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 589276,
+          "known_for_department": "Camera",
+          "name": "Sergiusz Sprudin",
+          "original_name": "Sergiusz Sprudin",
+          "popularity": 0.3797,
+          "profile_path": null,
+          "credit_id": "64970c1562f33501462875c5",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 589276,
+          "known_for_department": "Camera",
+          "name": "Sergiusz Sprudin",
+          "original_name": "Sergiusz Sprudin",
+          "popularity": 0.3797,
+          "profile_path": null,
+          "credit_id": "64970c1db34409011c7b47c6",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1458302,
+          "known_for_department": "Camera",
+          "name": "Mikołaj Sprudin",
+          "original_name": "Mikołaj Sprudin",
+          "popularity": 0.1327,
+          "profile_path": null,
+          "credit_id": "64970c25955c6500ac88d8f4",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1458302,
+          "known_for_department": "Camera",
+          "name": "Mikołaj Sprudin",
+          "original_name": "Mikołaj Sprudin",
+          "popularity": 0.1327,
+          "profile_path": null,
+          "credit_id": "64970c2ceb79c200ad714987",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1963-01-02T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

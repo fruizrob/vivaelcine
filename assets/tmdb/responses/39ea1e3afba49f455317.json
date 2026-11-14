@@ -1,0 +1,380 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/193649?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:36.734Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/wDaKI2u41eMZb6EGGOGK66fhHiB.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 193649,
+    "imdb_id": "tt0064550",
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Komm, liebe Maid und mache",
+    "overview": "Un conde y una condesa cuya vida amorosa está perdiendo brillo, invitan a algunas personas",
+    "popularity": 1.2567,
+    "poster_path": "/u5dbPDy92xSPt0mRhj3EK5NHgaT.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "1969-01-29",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ven, querida damisela, y hazlo",
+    "video": false,
+    "vote_average": 4.5,
+    "vote_count": 11,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16312,
+          "known_for_department": "Acting",
+          "name": "Sieghardt Rupp",
+          "original_name": "Sieghardt Rupp",
+          "popularity": 0.4407,
+          "profile_path": "/vXyYnA0v2mB5BGHBuOuNLVF8yrk.jpg",
+          "cast_id": 7,
+          "character": "Georg",
+          "credit_id": "57a0ea55925141675b00008c",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 38144,
+          "known_for_department": "Acting",
+          "name": "Michaela May",
+          "original_name": "Michaela May",
+          "popularity": 0.792,
+          "profile_path": "/dFCn6vA0eNQ8b5y3fceS1k4gsnm.jpg",
+          "cast_id": 8,
+          "character": "Comtesse Annette",
+          "credit_id": "57a0ea6c92514108eb0024db",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 46206,
+          "known_for_department": "Acting",
+          "name": "Angelika Ott",
+          "original_name": "Angelika Ott",
+          "popularity": 0.3732,
+          "profile_path": "/bQgxO7aej0TXvOMqNztcOkI4s52.jpg",
+          "cast_id": 9,
+          "character": "Sophie/Sabine",
+          "credit_id": "57a0eb2c9251413e2b00106d",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1660394,
+          "known_for_department": "Acting",
+          "name": "Caterina Alt",
+          "original_name": "Caterina Alt",
+          "popularity": 0.1374,
+          "profile_path": "/405VAp0Su5RRTaiDgOP4km2lKFD.jpg",
+          "cast_id": 12,
+          "character": "Arabella/Isabella",
+          "credit_id": "57a0eb70c3a368470e000151",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1268588,
+          "known_for_department": "Acting",
+          "name": "Francy Fair",
+          "original_name": "Francy Fair",
+          "popularity": 0.3211,
+          "profile_path": "/29GqumMFywFRavKPTC0zfcN9ZrJ.jpg",
+          "cast_id": 13,
+          "character": "Eugenie",
+          "credit_id": "57a0eb84c3a3681237000f70",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6254,
+          "known_for_department": "Acting",
+          "name": "Gustav Knuth",
+          "original_name": "Gustav Knuth",
+          "popularity": 0.4922,
+          "profile_path": "/1bB83bPDWPQCh39efGpD9KnN4o1.jpg",
+          "cast_id": 10,
+          "character": "Bürgermeister",
+          "credit_id": "57a0eb3d92514108eb002564",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 44434,
+          "known_for_department": "Acting",
+          "name": "Edwige Fenech",
+          "original_name": "Edwige Fenech",
+          "popularity": 1.9071,
+          "profile_path": "/AplCfkkWGoPdh6FgOI1sKvlg9IY.jpg",
+          "cast_id": 1,
+          "character": "Felicita",
+          "credit_id": "52fe4cd49251416c91101897",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 26900,
+          "known_for_department": "Acting",
+          "name": "Walter Buschhoff",
+          "original_name": "Walter Buschhoff",
+          "popularity": 0.7974,
+          "profile_path": "/6Jka7SPRlwanDRg5Djezt7nyGkD.jpg",
+          "cast_id": 11,
+          "character": "Phileas Leuwenstam",
+          "credit_id": "57a0eb52925141056d002899",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 22537,
+          "known_for_department": "Acting",
+          "name": "Sissy Löwinger",
+          "original_name": "Sissy Löwinger",
+          "popularity": 0.3243,
+          "profile_path": "/5ZS0TGqOuEue5w7eFFDfLW0lDrV.jpg",
+          "cast_id": 14,
+          "character": "Therese",
+          "credit_id": "57a0eb97c3a368479d000142",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1511773,
+          "known_for_department": "Acting",
+          "name": "Ivan Nesbitt",
+          "original_name": "Ivan Nesbitt",
+          "popularity": 0.0635,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Manuel da Silva",
+          "credit_id": "57a0ebaf92514167ae000157",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1615387,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Mathilde Böhacker",
+          "original_name": "Mathilde Böhacker",
+          "popularity": 0.0411,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Regina",
+          "credit_id": "62d313c5d4653700508e9588",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5796,
+          "known_for_department": "Acting",
+          "name": "Ralf Wolter",
+          "original_name": "Ralf Wolter",
+          "popularity": 0.4841,
+          "profile_path": "/ndE1KW9QE4xeGGibQJtUjqqD4ih.jpg",
+          "cast_id": 17,
+          "character": "Toni",
+          "credit_id": "57a0ebcac3a36847a500016c",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32019,
+          "known_for_department": "Acting",
+          "name": "Joachim Hansen",
+          "original_name": "Joachim Hansen",
+          "popularity": 0.4614,
+          "profile_path": "/ymdfV866AwpQlTXPu7CAsZYSzpQ.jpg",
+          "cast_id": 18,
+          "character": "Fabian von Weyden",
+          "credit_id": "57a0ebe09251413e2b0010e5",
+          "order": 12
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 18959,
+          "known_for_department": "Writing",
+          "name": "Kurt Nachmann",
+          "original_name": "Kurt Nachmann",
+          "popularity": 0.3018,
+          "profile_path": null,
+          "credit_id": "52fe4cd49251416c911018a3",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 49337,
+          "known_for_department": "Directing",
+          "name": "Kurt Junek",
+          "original_name": "Kurt Junek",
+          "popularity": 0.0994,
+          "profile_path": null,
+          "credit_id": "52fe4cd49251416c911018a9",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 47267,
+          "known_for_department": "Editing",
+          "name": "Traude Krappl-Maass",
+          "original_name": "Traude Krappl-Maass",
+          "popularity": 0.253,
+          "profile_path": null,
+          "credit_id": "52fe4cd49251416c911018af",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 137564,
+          "known_for_department": "Directing",
+          "name": "Jozef Zachar",
+          "original_name": "Jozef Zachar",
+          "popularity": 0.3207,
+          "profile_path": "/tG2BEyBUb7hTZ77GfVlQYzcjJco.jpg",
+          "credit_id": "54bb4abf92514148f0004e4d",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1969-01-29T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1972-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "The Brazen Women of Balzac",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Die tolldreisten Geschichten nach Honoré de Balzac",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "BR",
+          "title": "Sedentas de Amor",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FI",
+          "title": "Käkilinna",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "FR",
+          "title": "Les vierges folichonnes",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "GB",
+          "title": "Sex Is a Pleasure",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "HK",
+          "title": "Love Is Pleasure",
+          "type": "(English title) (première title)"
+        },
+        {
+          "iso_3166_1": "IT",
+          "title": "Alle dame del castello piace fare solo quello",
+          "type": "(DVD title)"
+        },
+        {
+          "iso_3166_1": "IT",
+          "title": "Alle dame del castello piace molto fare quello...",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "SI",
+          "title": "Zgeckljive zgodbe",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

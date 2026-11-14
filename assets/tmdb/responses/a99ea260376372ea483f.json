@@ -1,0 +1,50 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Los+vencedores&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T02:25:54.794Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/kspIPjo5AUumuO29Eht0UdMELeH.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1661239,
+        "title": "Los vencedores",
+        "original_language": "es",
+        "original_title": "Los vencedores",
+        "overview": "",
+        "popularity": 0.4049,
+        "poster_path": "/hJVeuvHc7xmeYHhCs1iypk6nPy.jpg",
+        "release_date": "2026-04-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dYCmzdD0INOsNRoJOjqCLsirl4M.jpg",
+        "genre_ids": [
+          18,
+          10752
+        ],
+        "id": 3012,
+        "title": "Los vencedores",
+        "original_language": "en",
+        "original_title": "The Victors",
+        "overview": "Junio de 1944. Tras un duro adiestramiento, un contingente de soldados británicos que debe llevar a cabo una misión en Italia, ocupa un pueblo. El cabo Baker se enamora de una joven que ha perdido a su marido en la guerra, pero tiene que irse con su grupo a Francia, justamente al día siguiente del desembarco de los aliados en Normandía. En Francia, el sargento Craig inicia una relación con una mujer que vive atemorizada por los constantes bombardeos. El próximo destino del grupo es Bélgica, donde el cabo Tower decide desertar para estar con Regine, una violinista a la que acaba de conocer.",
+        "popularity": 0.8685,
+        "poster_path": "/bVzJNdrhSjEzeyLle0rbJaH7Xon.jpg",
+        "release_date": "1963-11-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 29
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  }
+}

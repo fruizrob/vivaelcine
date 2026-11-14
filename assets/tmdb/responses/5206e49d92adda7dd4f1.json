@@ -1,0 +1,174 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1766948?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:27:06.618Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1766948,
+    "imdb_id": null,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_title": "Trabajo hecho",
+    "overview": "",
+    "popularity": 0.1147,
+    "poster_path": "/7NSdvPKuaiA82wXVoSyluqvAket.jpg",
+    "production_companies": [
+      {
+        "id": 310082,
+        "logo_path": null,
+        "name": "WIP Animation Studio",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CL",
+        "name": "Chile"
+      }
+    ],
+    "release_date": "2026-08-17",
+    "revenue": 0,
+    "runtime": 11,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Trabajo hecho",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466967,
+          "known_for_department": "Directing",
+          "name": "Jaime Freire",
+          "original_name": "Jaime Freire",
+          "popularity": 0.0412,
+          "profile_path": null,
+          "credit_id": "6aa15bd0fcaea82df3aac21a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466969,
+          "known_for_department": "Production",
+          "name": "Gabriela Planella",
+          "original_name": "Gabriela Planella",
+          "popularity": 0.0817,
+          "profile_path": null,
+          "credit_id": "6aa15be6ded37ff867aac1bf",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1974703,
+          "known_for_department": "Camera",
+          "name": "Philippe Rippes",
+          "original_name": "Philippe Rippes",
+          "popularity": 0.1013,
+          "profile_path": null,
+          "credit_id": "6aa15bfc603e6edf18aac04b",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466969,
+          "known_for_department": "Production",
+          "name": "Gabriela Planella",
+          "original_name": "Gabriela Planella",
+          "popularity": 0.0817,
+          "profile_path": null,
+          "credit_id": "6aa15c0cafcbef7a730eb871",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466970,
+          "known_for_department": "Sound",
+          "name": "Daniel Bahamondes",
+          "original_name": "Daniel Bahamondes",
+          "popularity": 0.0248,
+          "profile_path": null,
+          "credit_id": "6aa15c1f0de8d1413b31979e",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6466967,
+          "known_for_department": "Directing",
+          "name": "Jaime Freire",
+          "original_name": "Jaime Freire",
+          "popularity": 0.0412,
+          "profile_path": null,
+          "credit_id": "6aa15c2e0d31d4a218e83270",
+          "department": "Visual Effects",
+          "job": "Animation"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Festival CHILEMONOS",
+              "release_date": "2026-05-25T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "IT",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Imaginaria International Animation Film Festival",
+              "release_date": "2026-08-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

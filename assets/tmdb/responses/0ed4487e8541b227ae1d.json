@@ -1,0 +1,137 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/238597?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T02:26:25.363Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 238597,
+    "imdb_id": "tt3380848",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Ross Noble - Mindblender",
+    "overview": "",
+    "popularity": 0.2201,
+    "poster_path": "/jUWyk9LvafNkp8GegfpeLwZhr8C.jpg",
+    "production_companies": [
+      {
+        "id": 90344,
+        "logo_path": null,
+        "name": "Stunt Baby Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2013-11-17",
+    "revenue": 0,
+    "runtime": 130,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ross Noble - Mindblender",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 90440,
+          "known_for_department": "Acting",
+          "name": "Ross Noble",
+          "original_name": "Ross Noble",
+          "popularity": 0.7686,
+          "profile_path": "/9oGbE5dvzkIDhIOSp9nnEPbCwDu.jpg",
+          "cast_id": 2,
+          "character": "Himself",
+          "credit_id": "52fe4e80c3a36847f8294809",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 90440,
+          "known_for_department": "Acting",
+          "name": "Ross Noble",
+          "original_name": "Ross Noble",
+          "popularity": 0.7686,
+          "profile_path": "/9oGbE5dvzkIDhIOSp9nnEPbCwDu.jpg",
+          "credit_id": "52fe4e80c3a36847f8294805",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 113644,
+          "known_for_department": "Directing",
+          "name": "Peter Callow",
+          "original_name": "Peter Callow",
+          "popularity": 0.1781,
+          "profile_path": null,
+          "credit_id": "6976609980832b8a201a0e42",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 90440,
+          "known_for_department": "Acting",
+          "name": "Ross Noble",
+          "original_name": "Ross Noble",
+          "popularity": 0.7686,
+          "profile_path": "/9oGbE5dvzkIDhIOSp9nnEPbCwDu.jpg",
+          "credit_id": "697660a39511ad0892a372fe",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "15",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "2013-11-17T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}
