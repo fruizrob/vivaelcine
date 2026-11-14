@@ -23,6 +23,16 @@ Checked November 4, 2026. Source review only; no iPhone/Android Instagram handof
 
 [React Native Share's Instagram Stories documentation](https://react-native-share.github.io/react-native-share/docs/share-single#share-instagram-stories) documents its `INSTAGRAM_STORIES` target and platform setup. This is a native-app reference, not a drop-in API for this static website. Meta's official [Sharing to Stories page](https://developers.facebook.com/docs/instagram-platform/sharing-to-stories/) could not be fetched during research (HTTP 429); its contents were not independently verified here.
 
+## Story artwork
+
+The 1080 × 1920 Canvas composition uses the same verified poster identity and festival selection as screening details and agenda cards. Single films use TMDB's `w780` image size, contained without cropping. A confirmed world premiere takes precedence; otherwise the mark says **Primera aparición registrada** (or preserves a recorded territorial premiere scope). Festival artwork comes from the existing local assets. The mark includes its year; programmes identify the individual film and never borrow its poster for the whole programme. Separately titled parts only use their own poster/history keys.
+
+Artwork loads in parallel with anonymous image requests and a four-second limit. Failed posters or logos are omitted independently; unknown festival identities retain their name. If Canvas export rejects artwork, generation retries without images. The PNG is fully prepared before the share click, preserving the existing native sharing flow. Closing or replacing a preview invalidates pending generation. Short screening links remain available through **Copiar enlace**.
+
+## Artwork validation
+
+November 14, 2026: `npm test` passed all 156 tests and checked 219 generated programme pages and 194 short links. Regression tests cover image identity, premiere semantics, failed images, export retries, and closing/replacing pending previews. Headless Chrome at 390 × 900 and 1440 × 900 verified keyboard Story activation, Escape/focus return, real CDN artwork, 1080 × 1920 PNG downloads, retained short links and calendar controls, and export with the poster CDN blocked. All 194 screenings were checked in artwork and text layouts (388 compositions) for text bounds; artwork dimensions were simulated for that catalogue layout check. No physical-phone Instagram handoff was tested for this change.
+
 ## Suggested application here
 
 Use YTStories as a card-layout reference, Kaiser's Canvas example to understand image-file creation, and Google's guide for capability detection and download fallback. Generate the screening card locally; offer file sharing, image download, and a separate copyable deep link. Validate Instagram handoff on physical iOS and Android devices before promising a direct Stories flow.

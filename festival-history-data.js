@@ -52,6 +52,7 @@ export function festivalMark(festival, event) {
   const label = `${subject ? `${subject} · ` : ''}${appearance.festival} · ${appearance.date.slice(0, 4)} · ${scope}`;
   return {
     name, id: mark?.id || 'other', label, subject,
+    year: appearance.date.slice(0, 4), scope,
     logo: mark ? `./assets/festivals/${mark.id}.${mark.extension || 'svg'}` : null,
   };
 }
