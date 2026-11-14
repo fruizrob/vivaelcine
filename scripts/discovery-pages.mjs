@@ -102,11 +102,13 @@ export function buildPages(festivals, sources, asOf) {
     const last = events.at(-1).date;
     const source = sources[festival.id];
     const name = `${festival.name} · ${first.slice(0, 4)}`;
-    const days = festival.days.map(day => `<li>${link(dayPath(festival, day.date), dateLabel(day.date))} <span>${events.filter(event => event.date === day.date).length} funciones</span></li>`).join('\n');
+    const eventLabel = events.some(event => festival.films[event.filmId].kind === 'activity') ? 'eventos' : 'funciones';
+    const recordedLabel = eventLabel === 'eventos' ? 'Eventos registrados' : 'Funciones registradas';
+    const days = festival.days.map(day => `<li>${link(dayPath(festival, day.date), dateLabel(day.date))} <span>${events.filter(event => event.date === day.date).length} ${eventLabel}</span></li>`).join('\n');
     pages.set(editionPath(festival), frame(editionPath(festival), `Programación de ${name}`,
-      `${festival.name}: ${events.length} funciones registradas del ${first} al ${last} en ${festival.city || 'Santiago'}. Horarios, salas y fuentes por día.`,
+      `${festival.name}: ${events.length} ${recordedLabel.toLowerCase()} del ${first} al ${last} en ${festival.city || 'Santiago'}. Horarios, salas y fuentes por día.`,
       `<h1>Programación de ${esc(name)}</h1>${status(first, last, asOf)}
-      <p>Funciones registradas del <time datetime="${first}">${esc(dateLabel(first))}</time> al <time datetime="${last}">${esc(dateLabel(last))}</time>. Estos límites describen nuestra programación; no una confirmación independiente de apertura y clausura.</p>
+      <p>${recordedLabel} del <time datetime="${first}">${esc(dateLabel(first))}</time> al <time datetime="${last}">${esc(dateLabel(last))}</time>. Estos límites describen nuestra programación; no una confirmación independiente de apertura y clausura.</p>
       <p>${link(`/?festival=${festival.id}`, 'Ver en la agenda', 'button')}</p>
       <nav aria-label="Días de programación"><ul class="days">${days}</ul></nav>
       ${provenance(festival, source)}`, asOf));
@@ -131,6 +133,7 @@ export function buildPages(festivals, sources, asOf) {
       const path = screeningPath(event);
       const official = event.source || film.source;
       const ticket = event.ticketUrl || film.ticketUrl;
+      const activity = film.kind === 'activity';
       const other = events.filter(other => other.filmId === event.filmId && other.id !== event.id);
       const description = `${title} en ${festival.name}: ${dateLabel(event.date)}, ${clock(event.start)}, ${roomLocation(room)}. ${duration === null ? 'Duración no publicada.' : `${duration} min.`}`;
       const eventSource = { ...source, scheduleUrl: festival.programUrl ? `${new URL(festival.programUrl, `${origin}/`).href}${event.sourcePage ? `#page=${event.sourcePage}` : ''}` : official };
@@ -140,12 +143,12 @@ export function buildPages(festivals, sources, asOf) {
         <dl><div><dt>Fecha y hora</dt><dd><time datetime="${zonedStart(event.date, event.start, festival.timeZone)}">${esc(dateLabel(event.date))}, ${clock(event.start)}</time> · ${esc(festival.timeZone)}</dd></div>
         <div><dt>Sede y sala</dt><dd>${esc(roomLocation(room))}</dd></div>
         <div><dt>Duración</dt><dd>${duration === null ? 'No publicada para esta función' : `${duration} min${film.durationKind === 'sum' ? ' (suma de cortometrajes)' : ''}`}</dd></div>
-        <div><dt>Final</dt><dd>${end === null ? 'Desconocido' : `${clock(end, true)} estimado por metraje; excluye presentaciones y conversatorios`}</dd></div>
+        <div><dt>Final</dt><dd>${end === null ? 'Desconocido' : `${clock(end, true)} ${activity ? 'según horario publicado' : 'estimado por metraje; excluye presentaciones y conversatorios'}`}</dd></div>
         ${film.free === true ? '<div><dt>Entrada</dt><dd>Gratuita según la fuente; cupos sin confirmar</dd></div>' : ''}</dl>
-        <p class="actions">${link(ticket || official, ticket ? 'Entradas' : 'Ficha oficial', 'button')} ${link(screeningUrl(festival, event, `${origin}/`).slice(origin.length), 'Ver en la agenda')}</p>
+        <p class="actions">${link(film.registrationUrl || ticket || official, film.registrationUrl ? 'Inscribirse' : ticket ? 'Entradas' : activity ? 'Actividad oficial' : 'Ficha oficial', 'button')} ${link(screeningUrl(festival, event, `${origin}/`).slice(origin.length), 'Ver en la agenda')}</p>
         <p>Fecha programada según la fuente consultada; confirma cambios y condiciones con el organizador.</p>
         ${event.note ? `<p>${esc(event.note)}</p>` : ''}${film.note ? `<p>${esc(film.note)}</p>` : ''}
-        ${films(festival, event, film)}
+        ${activity ? '' : films(festival, event, film)}
         <p>${link(official, film.components ? 'Programa en la fuente' : 'Ficha en la fuente')}${event.durationSource ? ` · ${link(event.durationSource, 'Fuente del metraje de esta parte')}` : ''}</p>
         ${other.length ? `<section><h2>${event.title ? 'Otras partes o funciones de la obra' : 'Otras funciones'}</h2><ul class="alternatives">${other.map(other => `<li>${link(screeningPath(other), `${other.title || title} · ${dateLabel(other.date)}, ${clock(other.start)} · ${roomLocation(festival.rooms.find(room => room.id === other.roomId))}`)}</li>`).join('')}</ul></section>` : ''}
         ${provenance(festival, eventSource, event)}`, asOf));

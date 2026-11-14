@@ -111,7 +111,8 @@ test('collections, unknown winners and individual parts retain their own facts',
   assert.ok(programme.includes('79 min (suma de cortometrajes)'));
   const borges = htmlFor('biografia-de-jorge-luis-borges');
   assert.ok(borges.includes('parte 1</h1>'));
-  assert.ok(borges.includes('No publicada para esta función'));
+  assert.ok(borges.includes('130 min'));
+  assert.ok(borges.includes('13:10 estimado por metraje'));
   assert.ok(!borges.includes('323 min estimado'));
   const part = fidocs.events.find(event => event.title === 'La Batalla de Chile — parte I');
   const partHtml = pages.get(screeningPath(part));
@@ -125,6 +126,20 @@ test('collections, unknown winners and individual parts retain their own facts',
   const foco = htmlFor('foco-federico-luis');
   assert.ok(foco.includes('77 min'));
   assert.ok(foco.includes('suman 78 min'));
+});
+
+test('parallel activity pages preserve registration and published ends without invented film facts', () => {
+  for (const event of fidocs.events.filter(event => fidocs.films[event.filmId].kind === 'activity')) {
+    const record = fidocs.films[event.filmId];
+    const html = pages.get(screeningPath(event));
+    assert.ok(html.includes('según horario publicado'));
+    assert.ok(!html.includes('estimado por metraje'));
+    assert.ok(!html.includes('Películas del programa'));
+    if (record.registrationUrl) {
+      assert.ok(html.includes(`href="${esc(record.registrationUrl)}">`) || html.includes(`href="${esc(record.registrationUrl)}" class="button">`));
+      assert.ok(html.includes('Inscribirse</a>'));
+    } else assert.ok(html.includes('Gratuita según la fuente'));
+  }
 });
 
 test('date-only retrieval observations never turn into per-screening checks or live claims', () => {
