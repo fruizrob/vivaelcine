@@ -2,11 +2,12 @@
 
 Film festival schedules organized by time and screening room. Each festival has an independent agenda; more will be added as new festivals are announced.
 
-Switch between **SANFIC22**, **FIDOCS 30**, and **FICVIÑA 38** in the header. Time runs horizontally, rooms vertically, and blocks match published runtimes. Search, venue and section filters, zoom, and screening details work within the selected festival.
+Switch between **SANFIC22**, **FIDOCS 30**, **FICVIÑA 38**, and **AMOR 9** in the header. Time runs horizontally, rooms vertically, and blocks use verified film runtimes or explicit session windows. Search, venue and section filters, zoom, and screening details work within the selected festival.
 
 - [SANFIC22](https://vivaelcine.cl/?festival=sanfic-2026): November 2–8, 2026. The original 100 screenings across seven rooms.
 - [FIDOCS 30](https://vivaelcine.cl/?festival=fidocs-2026): November 13–19, 2026. All 51 official film listings, normalized into 48 screening blocks, plus four parallel activities across seven spaces. November 13 refresh includes Borges part runtimes, admission and registration details. Sourced independently from [FIDOCS](https://fidocs.cl/programacion/).
 - [FICVIÑA 38](https://vivaelcine.cl/?festival=ficvina-2026): November 23–28, 2026, plus November 20–21 previews. All 42 screening blocks from the official PDF, containing 85 films across six spaces. [Sources, conflicts and regeneration](docs/festivals/ficvina-2026.md). The 13 talks are collected separately in the source manifest.
+- **AMOR 9**: November 24–29, 2026; regional extension December 1–5. Partial agenda: four confirmed M100 sessions on November 25, 26, 28 and 29, containing 15 films. The complete acquired catalogue contains 24 films; nine await a timetable. [Sources, matching audit and regeneration](docs/festivals/amor-2026.md).
 
 ## Development
 

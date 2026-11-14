@@ -1,9 +1,9 @@
-import { applyFilmMetadata } from './film-metadata.js';
-import { festivals, festivalFor } from './data.js?v=20261113-fidocs';
-import { clock, durationOf, endOf, initialDay, roomLocation, yearOf } from './core.js?v=20261112-selection';
-import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange, timelineWidth } from './timeline.js?v=20261112-zoom';
-import { screeningUrl } from './story.js?v=20261114-artwork';
-import { appleCalendarUrl, googleCalendarUrl, setupSharing } from './sharing.js?v=20261114-apple-calendar-artwork';
+import { applyFilmMetadata } from './film-metadata.js?v=20261114-facts';
+import { festivals, festivalFor } from './data.js?v=20261114-amor';
+import { clock, durationOf, endOf, initialDay, roomLocation, yearOf } from './core.js?v=20261114-facts';
+import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange, timelineWidth } from './timeline.js?v=20261114-facts';
+import { screeningUrl } from './story.js?v=20261114-amor-artwork';
+import { appleCalendarUrl, googleCalendarUrl, setupSharing } from './sharing.js?v=20261114-amor-calendar';
 import { renderFestivalHistory } from './festival-history.js?v=20261105-premieres';
 import { renderFilmPoster } from './film-poster.js?v=20261114-story';
 import { archiveNavigation, hasExplicitSelection } from './archive-navigation.js?v=20261112-archive';
@@ -68,6 +68,7 @@ function renderFestival() {
   const last = data.days.at(-1).date;
   const format = new Intl.DateTimeFormat('es-CL', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' });
   $('#festival-dates').textContent = format.formatRange(new Date(`${first}T12:00:00Z`), new Date(`${last}T12:00:00Z`));
+  if (data.programmeStatus === 'partial') $('#festival-dates').textContent += ' · Programación parcial';
   $('#program-source').href = data.programUrl || data.sourceUrl;
   $('#festival-source').href = data.sourceUrl;
   $('#festival-source').textContent = `${data.name} ↗`;
@@ -141,7 +142,7 @@ function renderDetail() {
   const year = yearOf(event, film);
   const facts = [
     duration === null ? 'Duración por confirmar' : `${duration} min`,
-    film.countries, film.language,
+    event.countries || film.countries, film.language,
   ].filter(Boolean);
   $('#film-detail').innerHTML = `
     <p class="film-section" style="color:${section.ink}">${esc(section.label)}</p>
@@ -149,7 +150,7 @@ function renderDetail() {
       ${renderFilmPoster(data, event)}
       <div class="film-heading-text">
         <h2 id="film-title">${esc(event.title || film.title)}${year ? ` <span class="film-year">(${year})</span>` : ''}</h2>
-        ${film.director ? `<p class="film-director">${esc(film.director)}</p>` : ''}
+        ${(event.director || film.director) ? `<p class="film-director">${esc(event.director || film.director)}</p>` : ''}
         <p class="film-meta">${facts.map(esc).join(' · ')}</p>
         ${film.alias ? `<p class="film-meta">${esc(film.alias)}</p>` : ''}
         ${film.free ? '<p class="film-admission">Entrada gratuita</p>' : ''}
@@ -313,7 +314,8 @@ window.addEventListener('resize', resizeTimeline);
 
 const venues = new Map(data.rooms.map(room => [room.venueId, room.venue]));
 $('#venue').insertAdjacentHTML('beforeend', [...venues].map(([id, title]) => `<option value="${id}">${esc(title)}</option>`).join(''));
-$('#legend').innerHTML = Object.entries(data.sections).map(([id, section]) => `
+const scheduledSections = new Set(data.events.map(event => data.films[event.filmId].section));
+$('#legend').innerHTML = Object.entries(data.sections).filter(([id]) => scheduledSections.has(id)).map(([id, section]) => `
   <button class="legend-button" data-section="${id}" aria-pressed="false" style="${sectionStyle(section)}">
     <span class="legend-dot" aria-hidden="true"></span>${esc(section.label)}
   </button>
@@ -324,7 +326,7 @@ renderSchedule();
 if (requestedScreening) showDetail(requestedScreening.id);
 
 // The agenda works immediately, even if the optional local snapshot is unavailable.
-fetch('./data/tmdb-festival-history.json?v=20261114-ficvina-tmdb', { signal: AbortSignal.timeout(5000) })
+fetch('./data/tmdb-festival-history.json?v=20261114-amor', { signal: AbortSignal.timeout(5000) })
   .then(response => { if (!response.ok) throw new Error('History unavailable'); return response.json(); })
   .then(snapshot => {
     data.festivalHistory = snapshot.films || {};

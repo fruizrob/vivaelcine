@@ -29,7 +29,7 @@ export function calendarFile(festival, event) {
   const end = endOf(event, festival.films);
   const url = agendaScreeningUrl(festival, event, origin);
   const description = [
-    festival.name, film.director,
+    festival.name, event.director || film.director,
     end === null ? 'Duración por confirmar.' : '', url,
   ].filter(Boolean).join('\n');
   const lines = [

@@ -47,3 +47,30 @@ test('uncertain versions publish no TMDB facts; Wilma uses its accepted ID despi
   assert.equal(snapshot.metadata['sanfic-2026/wilma-quiere-mas'].tmdbId, 1465390);
   assert.equal(snapshot.metadata['sanfic-2026/wilma-quiere-mas'].year, 2025);
 });
+
+test('verified film facts preserve local billing, raw inputs and explicit session windows', () => {
+  const raw = { id: 'f', films: {
+    single: { title: 'Título local', year: 2026, director: 'Alias', duration: 90, countries: 'Chile', synopsis: 'Festival' },
+    programme: { title: 'Programa', duration: 120, components: [{ filmId: 'short', title: 'Corto', duration: 12 }] },
+  }, events: [{ id: 'single', filmId: 'single', start: 1200 },
+    { id: 'discussion', filmId: 'single', start: 1200, duration: 150 },
+    { id: 'part', filmId: 'single', title: 'Parte', start: 1200, duration: null }] };
+  const festival = applyFilmMetadata(structuredClone(raw), {
+    'f/single': { tmdbId: 1, year: 2025, title: 'Provider', originalTitle: 'Original',
+      directors: ['Credited Name'], runtime: 95, countries: ['Brazil'], synopsis: 'Provider synopsis' },
+    'f/short': { tmdbId: 2, year: null, runtime: 14, directors: [], countries: [], synopsis: '' },
+    'f/part': { tmdbId: 3, runtime: 100, directors: ['Part Director'] },
+  });
+  assert.equal(festival.films.single.title, 'Título local');
+  assert.equal(festival.films.single.director, 'Credited Name');
+  assert.equal(festival.films.single.originalTitle, 'Original');
+  assert.equal(festival.films.single.synopsis, 'Provider synopsis');
+  assert.equal(festival.films.single.countries, 'Brazil');
+  assert.equal(durationOf(festival.events[0], festival.films), 95);
+  assert.equal(durationOf(festival.events[1], festival.films), 150);
+  assert.equal(durationOf(festival.events[2], festival.films), null);
+  assert.equal(festival.events[2].filmRuntime, 100);
+  assert.equal(festival.films.programme.duration, 120);
+  assert.equal(festival.films.programme.components[0].duration, 14);
+  assert.equal(raw.films.single.duration, 90);
+});

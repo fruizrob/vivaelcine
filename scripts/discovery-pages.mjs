@@ -48,10 +48,10 @@ export function frame(path, title, description, body, asOf, sharing = false) {
 </head>
 <body>
   <a class="skip-link" href="#programme">Ir al contenido</a>
-  <header><a class="brand" href="/">¡Viva el Cine!</a><nav aria-label="Programación">${link('/festivales/fidocs-2026/', 'FIDOCS 30')} ${link('/festivales/sanfic-2026/', 'SANFIC22')}</nav></header>
+  <header><a class="brand" href="/">¡Viva el Cine!</a><nav aria-label="Programación">${link('/', 'Agenda de festivales')}</nav></header>
   <main id="programme">${body}</main>
   ${sharing ? `<footer><p>Página generada para el <time datetime="${asOf}">${asOf}</time>. Confirma cambios y condiciones con el organizador.</p></footer>` : `<footer><p>Página generada para el <time datetime="${asOf}">${esc(dateLabel(asOf))}</time>. El estado temporal usa esa fecha; no confirma realización ni disponibilidad.</p>
-  <p>Cobertura: SANFIC22 y FIDOCS 30 en Santiago. ${link('/', 'Abrir agenda interactiva')}.</p>
+  <p>${link('/', 'Abrir agenda interactiva')}.</p>
   <p><a href="https://www.themoviedb.org"><img src="/assets/tmdb-logo.svg" width="80" height="11" alt="TMDB"></a> <span lang="en">This product uses the TMDB API but is not endorsed or certified by TMDB.</span></p></footer>`}
 </body>
 </html>
@@ -85,7 +85,7 @@ function films(festival, event, film) {
   const title = event.title || film.title;
   const year = yearOf(event, film);
   const yearSource = event.yearSource || film.yearSource;
-  const details = [esc(film.director), year && (yearSource ? link(yearSource, year) : esc(year)), esc(film.countries)].filter(Boolean).join(' · ');
+  const details = [esc(event.director || film.director), year && (yearSource ? link(yearSource, year) : esc(year)), esc(event.countries || film.countries)].filter(Boolean).join(' · ');
   const alternate = !event.title && film.originalTitle && film.originalTitle.toLowerCase() !== title.toLowerCase();
   return `<p>${details}</p>
     ${event.title ? `<p>Obra: ${esc(film.title)}</p>` : ''}
@@ -104,10 +104,15 @@ export function buildPages(festivals, sources, asOf) {
     const name = `${festival.name} · ${first.slice(0, 4)}`;
     const eventLabel = events.some(event => festival.films[event.filmId].kind === 'activity') ? 'eventos' : 'funciones';
     const recordedLabel = eventLabel === 'eventos' ? 'Eventos registrados' : 'Funciones registradas';
-    const days = festival.days.map(day => `<li>${link(dayPath(festival, day.date), dateLabel(day.date))} <span>${events.filter(event => event.date === day.date).length} ${eventLabel}</span></li>`).join('\n');
+    const days = festival.days.map(day => {
+      const count = events.filter(event => event.date === day.date).length;
+      const label = count === 1 ? (eventLabel === 'eventos' ? 'evento' : 'función') : eventLabel;
+      return `<li>${link(dayPath(festival, day.date), dateLabel(day.date))} <span>${count} ${label}</span></li>`;
+    }).join('\n');
     pages.set(editionPath(festival), frame(editionPath(festival), `Programación de ${name}`,
       `${festival.name}: ${events.length} ${recordedLabel.toLowerCase()} del ${first} al ${last} en ${festival.city || 'Santiago'}. Horarios, salas y fuentes por día.`,
       `<h1>Programación de ${esc(name)}</h1>${status(first, last, asOf)}
+      ${festival.programmeStatus === 'partial' ? '<p>Programación parcial: solo horarios confirmados. Otras sedes y funciones pendientes de publicación.</p>' : ''}
       <p>${recordedLabel} del <time datetime="${first}">${esc(dateLabel(first))}</time> al <time datetime="${last}">${esc(dateLabel(last))}</time>. Estos límites describen nuestra programación; no una confirmación independiente de apertura y clausura.</p>
       <p>${link(`/?festival=${festival.id}`, 'Ver en la agenda', 'button')}</p>
       <nav aria-label="Días de programación"><ul class="days">${days}</ul></nav>
