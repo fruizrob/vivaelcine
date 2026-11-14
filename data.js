@@ -1,5 +1,5 @@
 import sanfic from './data/sanfic-2026.js?v=20261105-tmdb-years';
-import fidocs from './data/fidocs-2026.js?v=20261105-years';
+import fidocs from './data/fidocs-2026.js?v=20261113-program';
 import { nextScreeningDay, todayFor } from './core.js?v=20261112-selection';
 import ficvina from './data/ficvina-2026.js?v=20261113';
 

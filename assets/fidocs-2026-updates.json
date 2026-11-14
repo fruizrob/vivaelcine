@@ -1,0 +1,44 @@
+{
+  "updated": "2026-11-13",
+  "programUrl": "https://fidocs.cl/wp-content/uploads/2026/11/Programacion-FIDOCS-30.pdf",
+  "programSha256": "475a080ab66cb058f7db050be28e3944a2139bf95eeb2612d2e0978bb1b2045b",
+  "sources": [
+    {"url":"https://fidocs.cl/wp-content/uploads/2026/11/Programacion-FIDOCS-30.pdf","facts":"Borges parts 130/89/104 min; four parallel activities; Sergio Bravo Q&A; screening context and printed shorts sequence; conflicting Cortos #1 and La Batalla totals."},
+    {"url":"https://fidocs.cl/actividades-paralelas/","facts":"Four standalone activities, published intervals, venues, admission and registration links; Performance mortuoria presentation before Revolutionaries Never Die."},
+    {"url":"https://fidocs.cl/foco-restauraciones/","facts":"Current FIDOCS 30 section confirms Sergio Bravo screening is free."}
+  ],
+  "sections": {
+    "actividades-paralelas": {"label":"Actividades paralelas","color":"#e3e8f0","edge":"#7b8ba6","ink":"#394c6b"}
+  },
+  "rooms": [
+    {"id":"udp-biblioteca","venueId":"udp","venue":"Universidad Diego Portales","shortVenue":"UDP","name":"Auditorio Biblioteca Nicanor Parra"}
+  ],
+  "filmUpdates": {
+    "sergio-bravo": {"qa":true,"free":true,"note":"Q&A al terminar la función; duración del conversatorio no publicada.","qaSource":"https://fidocs.cl/wp-content/uploads/2026/11/Programacion-FIDOCS-30.pdf","freeSource":"https://fidocs.cl/foco-restauraciones/"},
+    "revolutionaries-never-die": {"note":"Al inicio de la función: presentación de Performance mortuoria. Colección de esquelas cinematográficas, de Ivana Peric Maluk. Incluida con la entrada; duración de la presentación no publicada.","noteSource":"https://fidocs.cl/actividades-paralelas/"},
+    "dans-la-gueule-de-l-ogre": {"note":"FIDOCS + INEDIT. Q&A al terminar la película; duración del conversatorio no publicada.","noteSource":"https://fidocs.cl/wp-content/uploads/2026/11/Programacion-FIDOCS-30.pdf"},
+    "merci-d-etre-venu": {"note":"Función de clausura.","noteSource":"https://fidocs.cl/wp-content/uploads/2026/11/Programacion-FIDOCS-30.pdf"},
+    "el-tren-fluvial": {"note":"Función al aire libre.","noteSource":"https://fidocs.cl/wp-content/uploads/2026/11/Programacion-FIDOCS-30.pdf"},
+    "cortos-emergentes-1": {"note":"Incluye Q&A; duración del conversatorio no publicada. Los cinco cortometrajes suman 79 min; el programa PDF indica 80 min. Se conserva la suma de las fichas individuales.","noteSource":"https://fidocs.cl/wp-content/uploads/2026/11/Programacion-FIDOCS-30.pdf"},
+    "la-batalla-de-chile-parte-i-ii-y-iii": {"note":"Las tres partes suman 263 min (96, 88 y 79). El encabezado del programa PDF indica 323 min, en contradicción con sus propios metrajes individuales.","noteSource":"https://fidocs.cl/wp-content/uploads/2026/11/Programacion-FIDOCS-30.pdf"}
+  },
+  "eventUpdates": {
+    "fidocs-2026-biografia-de-jorge-luis-borges-14-0660": {"duration":130,"durationSource":"https://fidocs.cl/wp-content/uploads/2026/11/Programacion-FIDOCS-30.pdf","note":"Franja publicada en el programa: 11:00–13:15. Metraje de esta parte: 130 min."},
+    "fidocs-2026-biografia-de-jorge-luis-borges-14-0855": {"duration":89,"durationSource":"https://fidocs.cl/wp-content/uploads/2026/11/Programacion-FIDOCS-30.pdf","note":"Franja publicada en el programa: 14:15–15:45. Metraje de esta parte: 89 min."},
+    "fidocs-2026-biografia-de-jorge-luis-borges-14-0960": {"duration":104,"durationSource":"https://fidocs.cl/wp-content/uploads/2026/11/Programacion-FIDOCS-30.pdf","note":"Franja publicada en el programa: 16:00–17:45. Metraje de esta parte: 104 min."}
+  },
+  "componentOrders": {
+    "cortos-emergentes-1": ["donde-anida-la-lluvia","jacinto","ya-no-hace-tanto-frio-en-la-primavera","quintil","formas-de-ganar-el-cielo"],
+    "cortos-emergentes-2": ["norte-claro-sur-oscuro","las-piedras-que-se-esconden-en-el-rio","pensaba-que-te-habias-olvidado-de-escribirme","un-verano-te-conoci","que-lejos-estan-las-fuentes-y-los-pajaros"]
+  },
+  "activities": [
+    {"id":"foro-nuevas-voces","title":"Foro Nuevas Voces","duration":90,"durationKind":"scheduled","section":"actividades-paralelas","source":"https://fidocs.cl/actividades-paralelas/","registrationUrl":"https://docs.google.com/forms/d/e/1FAIpQLSdH3Xx_AhL1hh86kVszeu6U2gUnG7_zVzEgNIn3aYo7S_2V2A/viewform","note":"FIDOCS Industria. Inscripción previa para público oyente; cupos limitados.","date":"2026-11-13","start":720,"roomId":"sala-k"},
+    {"id":"panel-30-anos-de-fidocs","title":"Panel: 30 años de FIDOCS","duration":90,"durationKind":"scheduled","section":"actividades-paralelas","source":"https://fidocs.cl/actividades-paralelas/","registrationUrl":"https://docs.google.com/forms/d/e/1FAIpQLSeMiYjXLXCjr_9fbxCGSEDBVYd0cDG53_Knnz1uLwCPTXwIOw/viewform","note":"Escuela FIDOCS. Modera María Paz Peirano. Inscripción previa; cupos limitados.","date":"2026-11-15","start":600,"roomId":"ceina-cine"},
+    {"id":"chris-marker-en-america-latina","title":"Chris Marker en América Latina — lanzamiento de libro","duration":60,"durationKind":"scheduled","section":"actividades-paralelas","source":"https://fidocs.cl/actividades-paralelas/","free":true,"note":"Libro de Carolina Amaral de Aguiar, presentado por Eduardo Russo y Claudia Aravena. Sin inscripción previa; se recomienda llegar 15 minutos antes.","date":"2026-11-16","start":1020,"roomId":"sala-k"},
+    {"id":"masterclass-susana-de-sousa-dias","title":"Masterclass Susana de Sousa Dias: Contra archivos disidentes","duration":120,"durationKind":"scheduled","section":"actividades-paralelas","source":"https://fidocs.cl/actividades-paralelas/","registrationUrl":"https://docs.google.com/forms/d/1gWVTb0C0H9loeSYVSyWl5Og_AZrlMhR6W8bVKBGWnmQ/viewform?edit_requested=true","note":"Escuela FIDOCS + Cátedra Raúl Ruiz UDP. Modera Camila José Donoso. Vergara 324, Santiago. Inscripción previa; cupos limitados.","date":"2026-11-17","start":690,"roomId":"udp-biblioteca"}
+  ],
+  "uncertainties": [
+    {"filmId":"cortos-emergentes-1","issue":"PDF publishes 80 minutes; the five detail-page runtimes sum to 79. Preserve the component sum.","source":"https://fidocs.cl/wp-content/uploads/2026/11/Programacion-FIDOCS-30.pdf"},
+    {"filmId":"la-batalla-de-chile-parte-i-ii-y-iii","issue":"PDF header says 323 minutes; its own parts total 263 (96/88/79). Preserve the verified part runtimes and 263-minute aggregate.","source":"https://fidocs.cl/wp-content/uploads/2026/11/Programacion-FIDOCS-30.pdf"}
+  ]
+}

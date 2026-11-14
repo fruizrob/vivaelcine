@@ -1,5 +1,5 @@
 import { applyFilmMetadata } from './film-metadata.js';
-import { festivals, festivalFor } from './data.js?v=20261113-ficvina';
+import { festivals, festivalFor } from './data.js?v=20261113-fidocs';
 import { clock, durationOf, endOf, initialDay, roomLocation, yearOf } from './core.js?v=20261112-selection';
 import { drawTimeline, escapeHtml as esc, sectionStyle, timelineRange, timelineWidth } from './timeline.js?v=20261112-zoom';
 import { screeningUrl } from './story.js?v=20261112-short-links';
@@ -124,6 +124,7 @@ function renderDetail() {
   const finish = endOf(event, data.films);
   const source = event.source || film.source;
   const ticket = event.ticketUrl || film.ticketUrl;
+  const registration = film.registrationUrl;
   const letterboxd = event.letterboxd || film.letterboxd;
   const ratingTitle = event.letterboxd ? event.title || film.title : film.title;
   const notes = [...new Set([event.note, film.note].filter(Boolean))];
@@ -151,7 +152,8 @@ function renderDetail() {
     </p>
     ${notes.map(note => `<p>${esc(note)}</p>`).join('')}
     <div class="detail-links">
-      <a href="${esc(source)}" target="_blank" rel="noopener">${source === ticket ? 'Entradas' : film.components ? 'Programa' : 'Ficha'} ↗</a>
+      <a href="${esc(source)}" target="_blank" rel="noopener">${film.kind === 'activity' ? 'Actividad' : source === ticket ? 'Entradas' : film.components ? 'Programa' : 'Ficha'} ↗</a>
+      ${registration ? `<a href="${esc(registration)}" target="_blank" rel="noopener">Inscribirse ↗</a>` : ''}
       ${ticket && ticket !== source ? `<a href="${esc(ticket)}" target="_blank" rel="noopener">Entradas ↗</a>` : ''}
       ${letterboxd ? `<a href="https://letterboxd.com/film/${esc(letterboxd)}/" target="_blank" rel="noopener">Letterboxd ↗</a>` : ''}
     </div>
@@ -172,7 +174,7 @@ function renderDetail() {
     ` : ''}
     ${film.aliasSources ? `<p class="alias-sources">${film.aliasSources.map((url, index) => `<a href="${esc(url)}" target="_blank" rel="noopener">${index ? 'Festival de San Sebastián' : 'Distribuidora'} ↗</a>`).join(' · ')}</p>` : ''}
     <section class="screenings" aria-labelledby="screenings-title">
-      <h3 id="screenings-title">Funciones</h3>
+      <h3 id="screenings-title">${film.kind === 'activity' ? 'Horario' : 'Funciones'}</h3>
       ${renderScreenings(event.filmId)}
     </section>
   `;

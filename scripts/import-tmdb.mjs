@@ -20,6 +20,7 @@ export function filmCatalogue(registry = festivals) {
   for (const festival of registry) {
     for (const event of festival.events) {
       const film = festival.films[event.filmId];
+      if (film.kind === 'activity') continue;
       if (film.components) {
         for (const component of film.components) {
           const id = component.filmId || `${event.filmId}/${component.title}`;
