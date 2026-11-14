@@ -70,5 +70,7 @@ Other named festival venues have no screenings in this PDF; no times are inferre
 - `scripts/import-ficvina-2026.mjs`: offline generation using Node's standard library.
 
 Run `node scripts/import-ficvina-2026.mjs`, then `npm test`.
+After schedule changes, run `npm run generate:pages` before testing to refresh
+the public festival/day/screening pages, sitemap and short sharing links.
 When the organizer revises the PDF, visually review both pages and update the
 manifest and its hash together before regenerating. Publication is a separate step.

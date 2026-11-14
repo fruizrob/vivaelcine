@@ -23,6 +23,7 @@ const days = [...new Set(source.events.map(event => event.date))].sort().map(dat
 });
 const schedule = {
   id: 'ficvina-2026', name: 'FICVIÑA 38', edition: 38, year: 2026,
+  city: 'Viña del Mar',
   updated: source.collected, timeZone: 'America/Santiago',
   sourceUrl: 'https://cinevina.cl/', programUrl: './assets/programacion-ficvina-2026.pdf',
   festivalDates: { start: '2026-11-23', end: '2026-11-28' },
