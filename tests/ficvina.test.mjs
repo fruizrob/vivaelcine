@@ -13,7 +13,7 @@ const filters = { search: '', venue: '', section: '' };
 
 test('FICVIÑA preserves every PDF screening, including previews and the double bill', () => {
   assert.equal(festival.id, 'ficvina-2026');
-  assert.equal(festivals.length, 3);
+  assert.ok(festivals.includes(festival));
   assert.equal(festival.events.length, 42);
   assert.deepEqual(festival.days.map(day => festival.events.filter(event => event.date === day.date).length), [1, 1, 1, 8, 9, 8, 9, 5]);
   for (const [roomId, count] of Object.entries({ 'cinemark': 12, 'cine-arte': 14, 'teatro-municipal': 13, 'playa-los-marineros': 1, 'muelle-vergara': 1, 'von-schroeders': 1 })) {

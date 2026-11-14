@@ -47,12 +47,13 @@ function renderEvent(event, lane, room, data, dayEvents, range) {
     ? `--unknown-label-width:calc(var(--plot-width)*${(nextInRoom.start - event.start) / span} - 12px);`
     : '';
   const title = event.title || film.title;
+  const director = event.director || film.director;
   const year = yearOf(event, film);
   const timeRange = unknown ? clock(event.start) : `${clock(event.start)}–${clock(finish, true)}`;
   const length = unknown ? 'Duración por confirmar' : `${duration} min`;
   const datedTitle = `${title}${year ? ` (${year})` : ''}`;
   const mark = festivalMark(data, event);
-  const label = `${datedTitle}.${film.director ? ` ${film.director}.` : ''} ${timeRange}. ${roomLocation(room)}. ${length}.${mark ? ` ${mark.subject ? 'Incluye ' : ''}${mark.label}.` : ''} Ver detalle.`;
+  const label = `${datedTitle}.${director ? ` ${director}.` : ''} ${timeRange}. ${roomLocation(room)}. ${length}.${mark ? ` ${mark.subject ? 'Incluye ' : ''}${mark.label}.` : ''} Ver detalle.`;
   const slug = event.letterboxd || film.letterboxd;
   const score = ratings[slug];
   const hasRating = !isShort && !unknown && Number.isFinite(score);
@@ -61,12 +62,12 @@ function renderEvent(event, lane, room, data, dayEvents, range) {
     <article class="event${unknown ? ' unknown' : isShort ? ' short' : ''}${hasRating ? ' has-rating' : ''}${year ? ' has-year' : ''}${mark ? ' has-festival' : ''}" data-event="${event.id}"
       style="left:${(event.start - range.start) / span * 100}%;width:${unknown ? 0 : duration / span * 100}%;--lane:${lane};${shortLabel}${unknownLabel}${sectionStyle(data.sections[film.section])}">
       <button class="event-main" data-detail="${event.id}" aria-label="${escapeHtml(label)}"
-        title="${escapeHtml([datedTitle, film.director, timeRange, length, mark?.label].filter(Boolean).join(' · '))}">
+        title="${escapeHtml([datedTitle, director, timeRange, length, mark?.label].filter(Boolean).join(' · '))}">
         <span class="event-time"><span class="event-start">${clock(event.start)}</span>${year ? `<span class="event-year">${year}</span>` : ''}</span>
         <span class="event-content">
           <span class="event-title">${escapeHtml(title)}</span>
           <span class="event-credits">
-            ${film.director ? `<span class="event-director">${escapeHtml(film.director)}</span>` : ''}
+            ${director ? `<span class="event-director">${escapeHtml(director)}</span>` : ''}
             <span class="event-duration">${escapeHtml(length)}</span>
           </span>
         </span>

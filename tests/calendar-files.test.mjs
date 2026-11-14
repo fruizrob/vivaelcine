@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
-import { festivals } from '../data.js';
+import { loadInputs } from '../scripts/generate-pages.mjs';
 import { endOf, roomLocation } from '../core.js';
 import { appleCalendarUrl } from '../sharing.js';
 import { agendaScreeningUrl } from '../screening-links.js';
@@ -19,6 +19,7 @@ const decodeText = value => value.replace(/\\([\\,;n])/g, (_, char) => char === 
 const instant = value => Date.parse(value.replace(/^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/, '$1-$2-$3T$4:$5:$6Z'));
 
 test('each screening has a distinct served calendar file matching its visible action', async () => {
+  const { festivals } = await loadInputs();
   const files = buildCalendarFiles(festivals);
   assert.equal(files.size, festivals.reduce((count, festival) => count + festival.events.length, 0));
   for (const festival of festivals) {

@@ -92,7 +92,8 @@ export async function drawStory(canvas, festival, event, { artwork = true } = {}
   const titleY = posterImage ? (mark ? 1120 : 992) : 440;
   const titleHeight = drawText(ctx, event.title || film.title, titleY, posterImage ? 76 : 108, posterImage ? 144 : 400, 'Georgia');
   let creditsY = titleY + titleHeight + 16;
-  if (film.director) creditsY += drawText(ctx, film.director, creditsY, 32, 64, 'Arial', '#706d64') + 12;
+  const director = event.director || film.director;
+  if (director) creditsY += drawText(ctx, director, creditsY, 32, 64, 'Arial', '#706d64') + 12;
   const year = yearOf(event, film);
   const duration = durationOf(event, festival.films);
   const metadata = [year, duration ? `${duration} min` : null].filter(Boolean).join(' · ');

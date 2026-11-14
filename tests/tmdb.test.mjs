@@ -18,6 +18,7 @@ const premiere = (note, date = '2015-02-09', type = 1) => ({ note, release_date:
 test('catalogue covers every screening, programme member and separate part without repeated screenings', () => {
   const catalogue = filmCatalogue();
   const expected = new Set();
+  for (const festival of festivals) for (const id of festival.unscheduledFilmIds || []) expected.add(`${festival.id}/${id}`);
   for (const festival of festivals) for (const event of festival.events) {
     const film = festival.films[event.filmId];
     if (film.kind === 'activity') {

@@ -18,6 +18,9 @@ export function filmCatalogue(registry = festivals) {
     originalTitle: film.originalTitle?.replace(/^Foco [^:]+:\s*/, ''),
   });
   for (const festival of registry) {
+    for (const id of festival.unscheduledFilmIds || []) {
+      add(`${festival.id}/${id}`, festival.films[id]);
+    }
     for (const event of festival.events) {
       const film = festival.films[event.filmId];
       if (film.kind === 'activity') continue;
@@ -164,6 +167,12 @@ export async function collectFilms(entries, rawRequest, progress = () => {}, {
     }
     if (match) metadata[key] = {
       tmdbId: match.id,
+      title: match.title,
+      originalTitle: match.original_title,
+      directors: match.credits.crew.filter(person => person.job === 'Director').map(person => person.name),
+      runtime: match.runtime,
+      countries: (match.production_countries || []).map(country => country.name),
+      synopsis: match.overview,
       year: /^\d{4}-\d{2}-\d{2}$/.test(match.release_date || '') ? Number(match.release_date.slice(0, 4)) : null,
       source: `https://www.themoviedb.org/movie/${match.id}`,
       releases: (match.release_dates.results || []).flatMap(country => country.release_dates.map(release => ({

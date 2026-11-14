@@ -59,6 +59,6 @@ export function roomLocation(room) {
 export function matches(event, film, filters) {
   if (filters.venue && event.venueId !== filters.venue) return false;
   if (filters.section && film.section !== filters.section) return false;
-  const components = (film.components || []).flatMap(part => [part.title, part.director]);
-  return normalize([event.title, film.title, film.originalTitle, film.director, film.countries, film.alias, ...components].join(' ')).includes(normalize(filters.search).trim());
+  const components = (film.components || []).flatMap(part => [part.title, part.originalTitle, part.director]);
+  return normalize([event.title, event.originalTitle, event.director, event.countries, film.title, film.originalTitle, film.director, film.countries, film.alias, ...components].join(' ')).includes(normalize(filters.search).trim());
 }

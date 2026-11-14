@@ -1,4 +1,4 @@
-import { setupStory } from './story.js?v=20261114-artwork';
+import { setupStory } from './story.js?v=20261114-amor-artwork';
 import { sharedScreeningUrl as screeningUrl } from './screening-links.js?v=20261112-short-links';
 import { clock, endOf, roomLocation } from './core.js?v=20261112-selection';
 
@@ -24,7 +24,7 @@ export function googleCalendarUrl(festival, event, pageUrl) {
   const end = endOf(event, festival.films);
   const details = [
     festival.name,
-    film.director,
+    event.director || film.director,
     end == null ? 'Duración por confirmar.' : '',
     screeningUrl(festival, event, pageUrl),
   ].filter(Boolean).join('\n');

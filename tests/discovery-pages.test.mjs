@@ -108,7 +108,8 @@ test('collections, unknown winners and individual parts retain their own facts',
   assert.equal(components.length, 5);
   assert.ok(programme.includes('Películas del programa'));
   for (const component of components) assert.ok(programme.includes(`>${esc(component.title)}</a>`));
-  assert.ok(programme.includes('79 min (suma de cortometrajes)'));
+  const total = components.reduce((minutes, film) => minutes + film.duration, 0);
+  assert.ok(programme.includes(`${total} min (suma de cortometrajes)`));
   const borges = htmlFor('biografia-de-jorge-luis-borges');
   assert.ok(borges.includes('parte 1</h1>'));
   assert.ok(borges.includes('130 min'));
