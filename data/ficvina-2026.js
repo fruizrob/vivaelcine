@@ -4,6 +4,7 @@ export default {
 "name":"FICVIÑA 38",
 "edition":38,
 "year":2026,
+"city":"Viña del Mar",
 "updated":"2026-11-13",
 "timeZone":"America/Santiago",
 "sourceUrl":"https://cinevina.cl/",
