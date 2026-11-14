@@ -1,0 +1,135 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/379443?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:16:18.114Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 379443,
+    "imdb_id": "",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Transvestite Castle",
+    "overview": "",
+    "popularity": 0.0965,
+    "poster_path": "/e7GPXxx2yXPFTgFp3jaxuON3Qtt.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1980-01-01",
+    "revenue": 0,
+    "runtime": 60,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Transvestite Castle",
+    "video": true,
+    "vote_average": 9.5,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3522909,
+          "known_for_department": "Acting",
+          "name": "Angelque",
+          "original_name": "Angelque",
+          "popularity": 0.0506,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Countess",
+          "credit_id": "6266c2f75b4fed00506d77d2",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3522912,
+          "known_for_department": "Acting",
+          "name": "Heather",
+          "original_name": "Heather",
+          "popularity": 0.0353,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Lady",
+          "credit_id": "6266c30e7390c000ab74f1af",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3522913,
+          "known_for_department": "Acting",
+          "name": "Martin Majors",
+          "original_name": "Martin Majors",
+          "popularity": 0.0323,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "6266c3212b113d00675dce80",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3522904,
+          "known_for_department": "Directing",
+          "name": "Kern Vore",
+          "original_name": "Kern Vore",
+          "popularity": 0.0371,
+          "profile_path": null,
+          "credit_id": "6266c2b15ab81a0068f038da",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3522904,
+          "known_for_department": "Directing",
+          "name": "Kern Vore",
+          "original_name": "Kern Vore",
+          "popularity": 0.0371,
+          "profile_path": null,
+          "credit_id": "6266c28e64f716017535039c",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "1980-01-01T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

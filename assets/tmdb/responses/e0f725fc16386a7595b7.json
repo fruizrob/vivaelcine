@@ -1,0 +1,194 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/420811?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:44.055Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 420811,
+    "imdb_id": "tt5601854",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Rose Red",
+    "overview": "",
+    "popularity": 0.7086,
+    "poster_path": "/ySkQpXGqLLicI76sFN13tLzg6lT.jpg",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Planned",
+    "tagline": "",
+    "title": "Rose Red",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1777622,
+          "known_for_department": "Production",
+          "name": "Tara Farney",
+          "original_name": "Tara Farney",
+          "popularity": 0.075,
+          "profile_path": null,
+          "credit_id": "58caa9f3c3a36841b600c377",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1676103,
+          "known_for_department": "Production",
+          "name": "Adam Rodin",
+          "original_name": "Adam Rodin",
+          "popularity": 0.136,
+          "profile_path": null,
+          "credit_id": "58caab18c3a36841af00d2aa",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 33624,
+          "known_for_department": "Production",
+          "name": "Tripp Vinson",
+          "original_name": "Tripp Vinson",
+          "popularity": 0.235,
+          "profile_path": "/8mtbrKRNinqy1T3oClISPgkoZDC.jpg",
+          "credit_id": "58caa8ffc3a368415000dc82",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1529878,
+          "known_for_department": "Writing",
+          "name": "Justin Merz",
+          "original_name": "Justin Merz",
+          "popularity": 0.1079,
+          "profile_path": null,
+          "credit_id": "58caaabac3a368419300d71e",
+          "department": "Production",
+          "job": "Co-Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1529878,
+          "known_for_department": "Writing",
+          "name": "Justin Merz",
+          "original_name": "Justin Merz",
+          "popularity": 0.1079,
+          "profile_path": null,
+          "credit_id": "58caac159251415da100dd63",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 228135,
+          "known_for_department": "Writing",
+          "name": "Evan Daugherty",
+          "original_name": "Evan Daugherty",
+          "popularity": 0.4457,
+          "profile_path": "/gyZAjiCCf2ujWzQZLLAA2Enag3R.jpg",
+          "credit_id": "58caab6a9251415dd600d3fb",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5448,
+          "known_for_department": "Writing",
+          "name": "Wilhelm Grimm",
+          "original_name": "Wilhelm Grimm",
+          "popularity": 0.6916,
+          "profile_path": "/awKfzrm9PdJWGXW8EozymYUNz4h.jpg",
+          "credit_id": "5d393b7ae54d5d018edd624c",
+          "department": "Writing",
+          "job": "Characters"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 38794,
+          "known_for_department": "Writing",
+          "name": "Kristin Gore",
+          "original_name": "Kristin Gore",
+          "popularity": 0.3017,
+          "profile_path": "/k38vs3pMGp6KTBsd2UTFRnYJTJ1.jpg",
+          "credit_id": "5d393bacd40d4c001424de20",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 38748,
+          "known_for_department": "Writing",
+          "name": "Jacob Grimm",
+          "original_name": "Jacob Grimm",
+          "popularity": 0.5805,
+          "profile_path": "/4HTsSB1QyKnZJOeEFTWlMEeHaYo.jpg",
+          "credit_id": "5d393b43e54d5d4654dd2271",
+          "department": "Writing",
+          "job": "Characters"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

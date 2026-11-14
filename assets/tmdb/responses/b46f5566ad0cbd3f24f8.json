@@ -1,0 +1,90 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=%C2%A1Salsa%21&include_adult=false&language=es-ES&year=2024",
+  "retrievedAt": "2026-11-14T05:13:44.729Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/2E3Ra97ULhhqp7u1mUJjj3JjLWf.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1337401,
+        "title": "Salsal por L",
+        "original_language": "tl",
+        "original_title": "Salsa Ni L",
+        "overview": "L, una atractiva profesora de baile, elige a Rey, un rico hombre de negocios, en lugar de a Lukas, su compañero de baile. Pero cuando Lukas siente que algo no anda bien, sabe que L está en grave peligro.",
+        "popularity": 1.0311,
+        "poster_path": "/nPs4YHLydIw0bmNERg85ydrUJ0W.jpg",
+        "release_date": "2024-10-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qp27iCujemlXDtBT40eBIxAHeGN.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          35
+        ],
+        "id": 1281066,
+        "title": "¡Salsa!",
+        "original_language": "es",
+        "original_title": "¡Salsa!",
+        "overview": "Margarita, una mujer libre y apasionada por la salsa, se aleja de su matrimonio en busca de su propia identidad. Su camino se cruza con el de Liana, una turista sorda. Al ver en Liana un mundo ajeno al suyo, Margarita encuentra la compañía perfecta para explorar su verdadero ser y decide enseñarle a Liana a bailar, entendiendo su sordera como una oportunidad para un tipo de comunicación diferente, táctil y corpórea.",
+        "popularity": 0.4283,
+        "poster_path": "/dp5Vqu9zw9az38d7aqnYV64LhTQ.jpg",
+        "release_date": "2024-06-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1375532,
+        "title": "Salsa Queer",
+        "original_language": "en",
+        "original_title": "Salsa Queer",
+        "overview": "A medida que el DJ aumenta el ritmo de la pista de baile, la temperatura ssube mientras los bailarines se provocan y conectan entre sí.",
+        "popularity": 0.2852,
+        "poster_path": "/AdT4YH8rzGNqja3AG0sdwevB2Nn.jpg",
+        "release_date": "2024-01-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7LEeOpAoSZPZYAOPLSVu152I9GH.jpg",
+        "genre_ids": [
+          35,
+          27,
+          18,
+          28
+        ],
+        "id": 1314323,
+        "title": "Šalša",
+        "original_language": "hr",
+        "original_title": "Šalša",
+        "overview": "",
+        "popularity": 0.419,
+        "poster_path": "/ucvZxw5kvoPfUokXe7nK0xxMRjA.jpg",
+        "release_date": "2024-07-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 4
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 4
+  }
+}

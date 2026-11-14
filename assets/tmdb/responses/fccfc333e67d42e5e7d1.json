@@ -1,0 +1,297 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/388672?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:26.230Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/5AGqDDH3Ft71npsnSqTRPZYs2Dj.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "id": 388672,
+    "imdb_id": "tt0013455",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "On the High Seas",
+    "overview": "",
+    "popularity": 0.519,
+    "poster_path": "/rEcVDkpHqbHlTj5mC3lYjp48NxS.jpg",
+    "production_companies": [
+      {
+        "id": 72164,
+        "logo_path": null,
+        "name": "Irvin V. Willat Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1922-09-17",
+    "revenue": 0,
+    "runtime": 60,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "On the High Seas",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1082887,
+          "known_for_department": "Acting",
+          "name": "Dorothy Dalton",
+          "original_name": "Dorothy Dalton",
+          "popularity": 0.4589,
+          "profile_path": "/5lYth9c0YNYeSkUd3zAj6vnrdtC.jpg",
+          "cast_id": 5,
+          "character": "Leone Deveraux",
+          "credit_id": "56eec6f69251412d6e00097a",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 93910,
+          "known_for_department": "Acting",
+          "name": "Jack Holt",
+          "original_name": "Jack Holt",
+          "popularity": 0.5587,
+          "profile_path": "/4xfh3Mlpqx8tZ991rhVTov0ILtN.jpg",
+          "cast_id": 6,
+          "character": "Jim Dorn",
+          "credit_id": "56eec70b9251415e6200b5f6",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 13558,
+          "known_for_department": "Acting",
+          "name": "Mitchell Lewis",
+          "original_name": "Mitchell Lewis",
+          "popularity": 0.4025,
+          "profile_path": "/u8t8u4huDqvZKvcBwQKxOFIJiT5.jpg",
+          "cast_id": 7,
+          "character": "Joe Polack",
+          "credit_id": "56eec720c3a368225900a3a0",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 108105,
+          "known_for_department": "Acting",
+          "name": "Winter Hall",
+          "original_name": "Winter Hall",
+          "popularity": 0.575,
+          "profile_path": "/jDN707Y6PhbruDCGGHkvpuFSTmc.jpg",
+          "cast_id": 8,
+          "character": "John Deveraux",
+          "credit_id": "56eec7369251415e6200b5fe",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1404240,
+          "known_for_department": "Acting",
+          "name": "Michael Dark",
+          "original_name": "Michael Dark",
+          "popularity": 0.2086,
+          "profile_path": "/r4qN37HW9w9t77vCCkMpu3jmJYN.jpg",
+          "cast_id": 9,
+          "character": "Harold Van Allen",
+          "credit_id": "56eec74d9251415d060014a1",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 130491,
+          "known_for_department": "Acting",
+          "name": "William Boyd",
+          "original_name": "William Boyd",
+          "popularity": 0.8239,
+          "profile_path": "/iQNPrDYIzyHRFHmUWe3gjVA2s4r.jpg",
+          "cast_id": 10,
+          "character": "Dick Deveraux",
+          "credit_id": "56eec78f9251417dc200101d",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 233136,
+          "known_for_department": "Directing",
+          "name": "Otto Brower",
+          "original_name": "Otto Brower",
+          "popularity": 0.4485,
+          "profile_path": null,
+          "cast_id": 12,
+          "character": "Lt. Gray, USN",
+          "credit_id": "618ef5ff63e6fb008dcbde91",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1327229,
+          "known_for_department": "Acting",
+          "name": "James Gordon",
+          "original_name": "James Gordon",
+          "popularity": 0.2443,
+          "profile_path": "/ngVF1uIAGqnZULYGu43OzRV6VfR.jpg",
+          "cast_id": 13,
+          "character": "Captain of S.S. Andren",
+          "credit_id": "618ef60fe741462e486697ec",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1208231,
+          "known_for_department": "Acting",
+          "name": "Alice Knowland",
+          "original_name": "Alice Knowland",
+          "popularity": 0.2421,
+          "profile_path": "/c9cttIozUASDkLddBoVyOCm55xT.jpg",
+          "cast_id": 14,
+          "character": "Aunt Emily",
+          "credit_id": "618ef61e63d937006072da3e",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3307144,
+          "known_for_department": "Acting",
+          "name": "Vernon Tremaine",
+          "original_name": "Vernon Tremaine",
+          "popularity": 0.0848,
+          "profile_path": null,
+          "cast_id": 15,
+          "character": "Maid",
+          "credit_id": "618ef62ed75bd600643e99f4",
+          "order": 9
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1157584,
+          "known_for_department": "Directing",
+          "name": "Irvin Willat",
+          "original_name": "Irvin Willat",
+          "popularity": 0.451,
+          "profile_path": "/juhRdyNkKcSyHGCGuk8mHtyI0Bd.jpg",
+          "credit_id": "56eec6909251415d0600147c",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1177373,
+          "known_for_department": "Writing",
+          "name": "Edward Sheldon",
+          "original_name": "Edward Sheldon",
+          "popularity": 0.214,
+          "profile_path": null,
+          "credit_id": "56eec6a2c3a368225100bcd2",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1096002,
+          "known_for_department": "Camera",
+          "name": "Charles Schoenbaum",
+          "original_name": "Charles Schoenbaum",
+          "popularity": 0.1402,
+          "profile_path": null,
+          "credit_id": "56eec6d59251415e6200b5eb",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1157584,
+          "known_for_department": "Directing",
+          "name": "Irvin Willat",
+          "original_name": "Irvin Willat",
+          "popularity": 0.451,
+          "profile_path": "/juhRdyNkKcSyHGCGuk8mHtyI0Bd.jpg",
+          "credit_id": "56eec6c4c3a368226e00bd59",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1489994,
+          "known_for_department": "Writing",
+          "name": "Eugenie Magnus Ingleton",
+          "original_name": "Eugenie Magnus Ingleton",
+          "popularity": 0.2432,
+          "profile_path": "/evrnwDDR7uEghNdWJAE14reu8bj.jpg",
+          "credit_id": "5d5e1bcb4a52f852b7d96db6",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1922-09-17T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1282595?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:13.489Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1282595,
+    "imdb_id": "tt1600015",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Pete Carroll's Trip to Seattle Delayed",
+    "overview": "",
+    "popularity": 0.6271,
+    "poster_path": "/pISdTQn6vLwlCCw4CAuZAL9ijE9.jpg",
+    "production_companies": [
+      {
+        "id": 21213,
+        "logo_path": "/wV3mBqWgfgdRtFEkh6hHpHW9Cb1.png",
+        "name": "Funny or Die",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2010-01-01",
+    "revenue": 0,
+    "runtime": 3,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pete Carroll's Trip to Seattle Delayed",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 119592,
+          "known_for_department": "Acting",
+          "name": "Aubrey Plaza",
+          "original_name": "Aubrey Plaza",
+          "popularity": 3.5317,
+          "profile_path": "/ejtGfjOAvUHBdVc3xTIV1HtJBi9.jpg",
+          "cast_id": 2,
+          "character": "Aubrey Plaza",
+          "credit_id": "6630d79e242f9401291e8295",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 71403,
+          "known_for_department": "Acting",
+          "name": "Rob Riggle",
+          "original_name": "Rob Riggle",
+          "popularity": 1.9504,
+          "profile_path": "/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg",
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "6630d7a46a300b012a6093ec",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2525463,
+          "known_for_department": "Acting",
+          "name": "Pete Carroll",
+          "original_name": "Pete Carroll",
+          "popularity": 0.1728,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "69ef62f252feb6b54f029b2c",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1061773,
+          "known_for_department": "Directing",
+          "name": "Jake Szymanski",
+          "original_name": "Jake Szymanski",
+          "popularity": 0.6002,
+          "profile_path": "/9gHwR9DJr0AA0bY6kHdp5xpT3Ab.jpg",
+          "credit_id": "6630d76b4a4bfc0129e12e99",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2010-01-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

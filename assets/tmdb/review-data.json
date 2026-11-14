@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T04:37:41.352Z",
+  "generatedAt": "2026-11-14T05:25:50.964Z",
   "rows": [
     {
       "key": "sanfic-2026/el-tigre-del-este",
@@ -167,6 +167,63 @@
           ],
           "retrievedAt": "2026-11-05T16:45:34.239Z",
           "fingerprint": "f814fc9a46af5639bfa935570559e2a59eb72ab963148c66800525f074a65b4a"
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/por-que-migran-los-peces",
+      "title": "¿Por qué migran los peces?",
+      "festival": "AMOR 9",
+      "originalTitle": "",
+      "director": "Camila Pujana, Stefanie Mora",
+      "duration": 14,
+      "year": 2026,
+      "countries": "Colombia",
+      "source": "https://www.m100.cl/programacion/cine/9-amor-festival-internacional-de-cine-lgbt/",
+      "yearSource": "",
+      "letterboxd": "",
+      "sourceFingerprint": "7f7ae67a738f1b68a0f8c92a90cacbaa0882d3be5d7e9d18a492918af4125b0f",
+      "status": "matched",
+      "reason": null,
+      "candidates": [
+        {
+          "id": 1741814,
+          "title": "¿Por qué migran los peces?",
+          "originalTitle": "¿Por qué migran los peces?",
+          "year": null,
+          "duration": 14,
+          "directors": [
+            "Camila Pujana",
+            "Stefanie Mora"
+          ],
+          "directorIds": [
+            4693907,
+            3705069
+          ],
+          "imdbId": null,
+          "overview": "Sofía viaja a Ibiza por trabajo durante el verano. Antes de regresar a casa al final de la temporada, invita a Luciana. Entre paseos, encuentros fortuitos y atardeceres junto al mar, Luciana descubre la isla a través de los ojos de Sofía, y en su mirada confirma una verdad que había intuido durante meses, pero que no se había atrevido a nombrar.",
+          "countries": "Colombia",
+          "poster": "/yDNLnUi4jAovCCMADm0ZkwsUl5V.jpg",
+          "problems": [
+            "year"
+          ],
+          "registryStatus": "accepted",
+          "evidence": [
+            {
+              "source": "https://www.m100.cl/programacion/cine/9-amor-festival-internacional-de-cine-lgbt/",
+              "note": "Official AMOR or venue observation; agent-verified primary evidence, not human approval."
+            },
+            {
+              "source": "https://www.m100.cl/programacion/cine/9-amor-festival-internacional-de-cine-lgbt/",
+              "note": "Exact title and both directors Camila Pujana / Stefanie Mora, 14 minutes; Sofía invites Luciana to Ibiza at the end of summer, matching the TMDB synopsis and named characters. Provider release date absent; retain venue year."
+            },
+            {
+              "source": "assets/tmdb/responses/9a103af78448c8b39822.json",
+              "note": "Full TMDB details, credits, release dates and alternate titles inspected."
+            }
+          ],
+          "retrievedAt": "2026-11-14T05:13:30.569Z",
+          "fingerprint": "4eb5b30c6afc0772135666556c731573d2cf421478975f8c8453300dfaec5420"
         }
       ]
     },
@@ -3242,6 +3299,62 @@
       ]
     },
     {
+      "key": "amor-2026/cielo-de-enero",
+      "title": "Cielo de enero",
+      "festival": "AMOR 9",
+      "originalTitle": "",
+      "director": "Sofía Plesky",
+      "duration": 20,
+      "year": 2026,
+      "countries": "Argentina",
+      "source": "https://www.m100.cl/programacion/cine/9-amor-festival-internacional-de-cine-lgbt/",
+      "yearSource": "",
+      "letterboxd": "",
+      "sourceFingerprint": "7bbdf3893c0e65f2705d709bdc1e93ad6a54221e367c1c8c145581b6c9f18067",
+      "status": "matched",
+      "reason": null,
+      "candidates": [
+        {
+          "id": 1812491,
+          "title": "Cielo de enero",
+          "originalTitle": "Cielo de enero",
+          "year": null,
+          "duration": null,
+          "directors": [
+            "Sofía Plesky"
+          ],
+          "directorIds": [
+            6587000
+          ],
+          "imdbId": null,
+          "overview": "Durante unas vacaciones, dos jóvenes descubren un sentimiento nuevo y afrontan sus dudas.",
+          "countries": "",
+          "poster": "/4h1Bv3HM4X6gT5kHIpJww67opJy.jpg",
+          "problems": [
+            "year",
+            "runtime"
+          ],
+          "registryStatus": "accepted",
+          "evidence": [
+            {
+              "source": "https://www.m100.cl/programacion/cine/9-amor-festival-internacional-de-cine-lgbt/",
+              "note": "Official AMOR or venue observation; agent-verified primary evidence, not human approval."
+            },
+            {
+              "source": "https://www.ochoymedio.net/programa-4-%C2%B7-lo-prohibido-nos-queda-bien/",
+              "note": "Unusual exact title, Sofía Plesky and two young women during family summer holidays corroborate work identity. TMDB lacks year/runtime; retain venue year and duration."
+            },
+            {
+              "source": "assets/tmdb/responses/bce8033a5c88a75819a2.json",
+              "note": "Full TMDB details, credits, release dates and alternate titles inspected."
+            }
+          ],
+          "retrievedAt": "2026-11-14T05:13:05.412Z",
+          "fingerprint": "6c17d78d1b1c19a0eafd188e5d51f6591e4e5ad4026454775ceccb667b6846b1"
+        }
+      ]
+    },
+    {
       "key": "ficvina-2026/ciudad-jardin",
       "title": "Ciudad jardín",
       "festival": "FICVIÑA 38",
@@ -3436,6 +3549,60 @@
       ]
     },
     {
+      "key": "amor-2026/corazon-danzante-cuando-el-amor-es-baile",
+      "title": "Corazón danzante, cuando el amor es baile",
+      "festival": "AMOR 9",
+      "originalTitle": "",
+      "director": "Arturo Nicolás Dávila Zelada",
+      "duration": 25,
+      "year": 2026,
+      "countries": "Perú",
+      "source": "https://www.amorfestival.com/pelicula/corazon-danzante-cuando-el-amor-es-baile/",
+      "yearSource": "",
+      "letterboxd": "",
+      "sourceFingerprint": "44aab22d389450c92ff7f43a53559b4e2aee6bdf99ff6a6c7d5fc0159b67845f",
+      "status": "unmatched",
+      "reason": "no_accepted_candidate",
+      "candidates": [
+        {
+          "id": 1214883,
+          "title": "Corazón danzante",
+          "originalTitle": "Corazón danzante",
+          "year": 2023,
+          "duration": 13,
+          "directors": [
+            "Amaranta R. Saavedra"
+          ],
+          "directorIds": [
+            4417901
+          ],
+          "imdbId": null,
+          "overview": "",
+          "countries": "",
+          "poster": "/lkDx7l0Wbqp9tKEaP73ZydLx37S.jpg",
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": "rejected",
+          "evidence": [
+            {
+              "source": "assets/tmdb/responses/4397fb1c93d968cf03e9.json",
+              "note": "Different director Amaranta R. Saavedra and different 2023 work, versus the official 2026 Arturo Nicolás Dávila Zelada film. Agent rejection, not human review."
+            },
+            {
+              "source": "https://www.amorfestival.com/pelicula/corazon-danzante-cuando-el-amor-es-baile/",
+              "note": "Official credits and synopsis preserved in assets/amor-2026/film-corazon-danzante-cuando-el-amor-es-baile.html."
+            }
+          ],
+          "retrievedAt": "2026-11-14T05:16:17.056Z",
+          "fingerprint": "e9678cdcbaaead6935634037ff4d5296d0f004df2b66599a4547a72bddbb8b2a"
+        }
+      ]
+    },
+    {
       "key": "ficvina-2026/habitar-cortos/Criaturas que gritan",
       "title": "Criaturas que gritan",
       "festival": "FICVIÑA 38",
@@ -3550,6 +3717,66 @@
           ],
           "retrievedAt": "2026-11-14T02:27:07.294Z",
           "fingerprint": "69087341aa2d8eff7e05911f5f3598e752bbb8f6bb5470cf8bba76cc7a8ea326"
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/delay",
+      "title": "Delay",
+      "festival": "AMOR 9",
+      "originalTitle": "",
+      "director": "Daryl Wang",
+      "duration": 15,
+      "year": 2025,
+      "countries": "China",
+      "source": "https://www.amorfestival.com/pelicula/delay/",
+      "yearSource": "",
+      "letterboxd": "",
+      "sourceFingerprint": "46d62f8a7d10f667369f6e065d649192614aaa0c7cbf543a03670a183eedc227",
+      "status": "matched",
+      "reason": null,
+      "candidates": [
+        {
+          "id": 1536107,
+          "title": "Delay",
+          "originalTitle": "远方延误",
+          "year": 2025,
+          "duration": 15,
+          "directors": [
+            "Wang Hanxuan"
+          ],
+          "directorIds": [
+            4438443
+          ],
+          "imdbId": "tt38267167",
+          "overview": "After getting married and having a son, a middle-aged man finally comes out as gay and divorces his wife. At his son’s wedding, the son invites his gay friends, but hesitates to invite his father as it may take time to bridge the distance between them.",
+          "countries": "China, United States of America",
+          "poster": "/oMK91X7aMqVmdRiKxklRsR1p8l.jpg",
+          "problems": [
+            "title",
+            "director"
+          ],
+          "registryStatus": "accepted",
+          "evidence": [
+            {
+              "source": "https://www.amorfestival.com/pelicula/delay/",
+              "note": "Official AMOR or venue observation; agent-verified primary evidence, not human approval."
+            },
+            {
+              "source": "https://www.allersretoursasso.fr/coming-of-age-2026-delay/",
+              "note": "Primary exhibitor explicitly links Delay / 远方延误 and Hanxuan WANG / Daryl WANG / 王瀚渲; gay Chinese father travelling to heterosexual son’s Paris wedding. Chinese cast Wei Wu / Bo-Xiao Wang / Chu-Wen Zhang matches the AMOR cast."
+            },
+            {
+              "source": "assets/tmdb/responses/a96516635dc47205579d.json",
+              "note": "Full TMDB details, credits, release dates and alternate titles inspected."
+            },
+            {
+              "source": "assets/tmdb/responses/6ef8ac683286d07cdf6c.json",
+              "note": "English title, synopsis and director transliteration."
+            }
+          ],
+          "retrievedAt": "2026-11-14T05:14:48.805Z",
+          "fingerprint": "334605a508c3cba54e500aeaacd2ce47cd47b36032accf9bea66c0646cf8dcb3"
         }
       ]
     },
@@ -4901,6 +5128,62 @@
       "status": "unmatched",
       "reason": "no_accepted_candidate",
       "candidates": []
+    },
+    {
+      "key": "amor-2026/grandma-nai-who-played-favorites",
+      "title": "Grandma Nai who played favorites",
+      "festival": "AMOR 9",
+      "originalTitle": "",
+      "director": "Chheangkea Chheangkea",
+      "duration": 19,
+      "year": 2025,
+      "countries": "Camboya, Francia, Estados Unidos",
+      "source": "https://www.amorfestival.com/pelicula/grandma-nai-who-played-favorites/",
+      "yearSource": "",
+      "letterboxd": "",
+      "sourceFingerprint": "83f3a713c3c7b3b65621504636978ba3e8286dbf51d1da584c0c86ae67f1c8ab",
+      "status": "matched",
+      "reason": null,
+      "candidates": [
+        {
+          "id": 1403490,
+          "title": "La abuela Nai, que tenía favoritos",
+          "originalTitle": "ចៅសំណព្វចិត្ត",
+          "year": 2025,
+          "duration": 19,
+          "directors": [
+            "Chheangkea"
+          ],
+          "directorIds": [
+            3199138
+          ],
+          "imdbId": "tt35002936",
+          "overview": "En una visita a su familia, la abuela Nai regresa del más allá al enterarse de que su nieto gay está a punto de comprometerse con una mujer.",
+          "countries": "Cambodia, France, United States of America",
+          "poster": "/u9w6Xki5q1fAESEa3gUiGbuMVQp.jpg",
+          "problems": [
+            "title",
+            "director"
+          ],
+          "registryStatus": "accepted",
+          "evidence": [
+            {
+              "source": "https://www.amorfestival.com/pelicula/grandma-nai-who-played-favorites/",
+              "note": "Official AMOR or venue observation; agent-verified primary evidence, not human approval."
+            },
+            {
+              "source": "https://www.frameline.org/news/grandma-nai-who-played-favorites/",
+              "note": "Primary funder/exhibitor links English and Khmer titles and director Chheangkea; deceased Nai leaves afterlife to stop gay grandson’s engagement to a woman. The duplicated Chheangkea name in AMOR is not a second director. Cast Bonrotanak Rith, Saroeun Nay, Phalla Im matches."
+            },
+            {
+              "source": "assets/tmdb/responses/b0d5804ccafbd4a31286.json",
+              "note": "Full TMDB details, credits, release dates and alternate titles inspected."
+            }
+          ],
+          "retrievedAt": "2026-11-14T05:13:17.312Z",
+          "fingerprint": "dcc9b523c1b74fe399274a8e84a04f90ee4c051da16c588c4e2c7a25882c10a0"
+        }
+      ]
     },
     {
       "key": "sanfic-2026/bloque-01-cortometrajes/Grietas atraviesan este vidrio multicolor",
@@ -7835,6 +8118,61 @@
       ]
     },
     {
+      "key": "amor-2026/on-the-sea",
+      "title": "On the sea",
+      "festival": "AMOR 9",
+      "originalTitle": "",
+      "director": "Helen Walsh",
+      "duration": 111,
+      "year": 2025,
+      "countries": "Reino Unido",
+      "source": "https://www.amorfestival.com/pelicula/on-the-sea/",
+      "yearSource": "",
+      "letterboxd": "",
+      "sourceFingerprint": "ba894454e6c5febe94830db2e203cd517566a9c95c72fc0407f09e6b55dff179",
+      "status": "matched",
+      "reason": null,
+      "candidates": [
+        {
+          "id": 1507796,
+          "title": "On the Sea",
+          "originalTitle": "On the Sea",
+          "year": 2025,
+          "duration": 115,
+          "directors": [
+            "Helen Walsh"
+          ],
+          "directorIds": [
+            1525718
+          ],
+          "imdbId": "tt31936369",
+          "overview": "In a rural town in North Wales, mussel harvester Jack has been married to his wife Maggie for over half of his life. He is troubled by his son Tom, who has little interest in the family trade. When Jack crosses paths with Daniel, an itinerant deckhand, their attraction poses an impossible dilemma.",
+          "countries": "United Kingdom",
+          "poster": "/hP4JpQe7F7rcs5lOH97fM7kaSFs.jpg",
+          "problems": [
+            "runtime"
+          ],
+          "registryStatus": "accepted",
+          "evidence": [
+            {
+              "source": "https://www.amorfestival.com/pelicula/on-the-sea/",
+              "note": "Official AMOR or venue observation; agent-verified primary evidence, not human approval."
+            },
+            {
+              "source": "https://www.amorfestival.com/pelicula/on-the-sea/",
+              "note": "Exact title/director Helen Walsh; AMOR cast Barry Ward, Lorne MacFadyen, Liz White, Henry Lawfull and Celyn Jones matches cached TMDB credits. Source 111 vs provider 115 minutes; work identity verified, exact screening cut unconfirmed."
+            },
+            {
+              "source": "assets/tmdb/responses/dc7274e01450e546c7c6.json",
+              "note": "Full TMDB details, credits, release dates and alternate titles inspected."
+            }
+          ],
+          "retrievedAt": "2026-11-14T05:14:49.201Z",
+          "fingerprint": "72a8e589d85dd5616c82226cdbdebfbce5ac18d2d61066c234a3cec02526a72b"
+        }
+      ]
+    },
+    {
       "key": "ficvina-2026/universos-1/Pan",
       "title": "Pan",
       "festival": "FICVIÑA 38",
@@ -8774,6 +9112,61 @@
       ]
     },
     {
+      "key": "amor-2026/playa-escondida",
+      "title": "Playa escondida",
+      "festival": "AMOR 9",
+      "originalTitle": "",
+      "director": "Ro Olivares",
+      "duration": 120,
+      "year": 2025,
+      "countries": "Chile",
+      "source": "https://www.amorfestival.com/pelicula/playa-escondida/",
+      "yearSource": "",
+      "letterboxd": "",
+      "sourceFingerprint": "cd2096f05b5185a61caa03c932a37454f2c9a349908ea1758d09eef871579966",
+      "status": "matched",
+      "reason": null,
+      "candidates": [
+        {
+          "id": 1714233,
+          "title": "Hidden Beach",
+          "originalTitle": "Playa Escondida",
+          "year": 2025,
+          "duration": 111,
+          "directors": [
+            "Ro Olivares"
+          ],
+          "directorIds": [
+            6284307
+          ],
+          "imdbId": null,
+          "overview": "Tras una discusión con su padre, Tomás (26) se va junto a su mejor amigo Lucas (25) y otros compañeros del ballet a la casa que la familia tiene en la playa.  Estando radicado en Playa Escondida, Tomás satisface sus deseos pagando por sexo casual a hombres del pueblo, al tiempo que descubre secretos de su familia.  Cuando decide retomar su carrera de bailarín, es descubierto en sus andanzas y su vida da un violento giro.",
+          "countries": "Chile",
+          "poster": "/lxnQxvYdOvfdsDOyUo2EMk20LWW.jpg",
+          "problems": [
+            "runtime"
+          ],
+          "registryStatus": "accepted",
+          "evidence": [
+            {
+              "source": "https://www.amorfestival.com/pelicula/playa-escondida/",
+              "note": "Official AMOR or venue observation; agent-verified primary evidence, not human approval."
+            },
+            {
+              "source": "https://www.m100.cl/programacion/cine/9-amor-festival-internacional-de-cine-lgbt/",
+              "note": "Spanish original title, Ro Olivares, Tomás the ballet dancer living at the beach after a conflict with his father, and cast Nicolás Zambrano, Joaquín Rodríguez, Alejandro Trejo, Silvia Novak and Marco Reyes corroborate identity. Venue 120 vs TMDB 111 minutes; no explicit session window is published."
+            },
+            {
+              "source": "assets/tmdb/responses/54c2523f95b7301902e0.json",
+              "note": "Full TMDB details, credits, release dates and alternate titles inspected."
+            }
+          ],
+          "retrievedAt": "2026-11-14T05:13:29.952Z",
+          "fingerprint": "579cc7feb82662bffe91bf2053c0fcbe20716a19af44afcef8c1fd7a54dabcd5"
+        }
+      ]
+    },
+    {
       "key": "fidocs-2026/por-dentro-somos-color-version-cine-expandido",
       "title": "Por dentro somos color",
       "festival": "FIDOCS 30",
@@ -9356,6 +9749,59 @@
       "status": "needs_review",
       "reason": "review_pending",
       "candidates": []
+    },
+    {
+      "key": "amor-2026/rose",
+      "title": "Rose",
+      "festival": "AMOR 9",
+      "originalTitle": "",
+      "director": "Markus Schleinzer",
+      "duration": 94,
+      "year": 2026,
+      "countries": "Alemania, Austria",
+      "source": "https://www.amorfestival.com/pelicula/rose/",
+      "yearSource": "",
+      "letterboxd": "",
+      "sourceFingerprint": "9702c99993c1de254d56a4733c836b910ebca59659cab0c20357bd94e830c8c5",
+      "status": "matched",
+      "reason": null,
+      "candidates": [
+        {
+          "id": 1176962,
+          "title": "Rose",
+          "originalTitle": "Rose",
+          "year": 2026,
+          "duration": 94,
+          "directors": [
+            "Markus Schleinzer"
+          ],
+          "directorIds": [
+            28605
+          ],
+          "imdbId": "tt25399154",
+          "overview": "En medio de la agitación de la Guerra de los Treinta Años, un misterioso soldado aparece en una apartada aldea protestante afirmando ser el heredero de una mansión abandonada hace mucho tiempo. Su búsqueda de reconocimiento y aceptación se ve complicada por un secreto: ha llegado a la aldea bajo una identidad y un nombre falsos, y fingiendo pertenecer a otro género. Sin embargo, Rose —que es el verdadero nombre del soldado— no se detendrá ante nada para lograr sus objetivos.",
+          "countries": "Austria, Germany",
+          "poster": "/flnb7COkqD4dZNZiCacNkai22vz.jpg",
+          "problems": [],
+          "registryStatus": "accepted",
+          "evidence": [
+            {
+              "source": "https://www.amorfestival.com/pelicula/rose/",
+              "note": "Official AMOR or venue observation; agent-verified primary evidence, not human approval."
+            },
+            {
+              "source": "https://www.amorfestival.com/pelicula/rose/",
+              "note": "Markus Schleinzer, Sandra Hüller as a soldier concealing gender in a German village during the seventeenth century, plus Caro Braun, Marisa Growaldt and Godehard Giese establish this Rose despite truncated broad title search."
+            },
+            {
+              "source": "assets/tmdb/responses/c4125eb29737e5a1e78d.json",
+              "note": "Full TMDB details, credits, release dates and alternate titles inspected."
+            }
+          ],
+          "retrievedAt": "2026-11-14T05:13:31.200Z",
+          "fingerprint": "3bcca6a6b437e193a664deae82de25aac7b7c66e308a32798537781145c285bf"
+        }
+      ]
     },
     {
       "key": "ficvina-2026/ruca-1/Ross",
@@ -10695,6 +11141,63 @@
       "candidates": []
     },
     {
+      "key": "amor-2026/terra",
+      "title": "Terra",
+      "festival": "AMOR 9",
+      "originalTitle": "",
+      "director": "Amadis T. Loyer",
+      "duration": 15,
+      "year": 2026,
+      "countries": "Chile, Brasil",
+      "source": "https://www.amorfestival.com/pelicula/terra/",
+      "yearSource": "",
+      "letterboxd": "",
+      "sourceFingerprint": "de167ce32721450283119e2e552214968689b632b3fa2d5643d4b7fc900dd883",
+      "status": "matched",
+      "reason": null,
+      "candidates": [
+        {
+          "id": 1677375,
+          "title": "Terra",
+          "originalTitle": "Terra",
+          "year": 2026,
+          "duration": 14,
+          "directors": [
+            "Amadis T. Loyer"
+          ],
+          "directorIds": [
+            4909756
+          ],
+          "imdbId": null,
+          "overview": "Un joven inmigrante redescubre sus documentos brasileños y su apellido materno perdido, “Terra”, navegando las dualidades entre Brasil y Chile en busca de su propia identidad.",
+          "countries": "Chile, Brazil",
+          "poster": "/7koKDnDuEf0XLd6ie37CWlIoSBd.jpg",
+          "problems": [],
+          "registryStatus": "accepted",
+          "evidence": [
+            {
+              "source": "https://sanfic.com/movies/terra/",
+              "note": "Exact title/director, same Brazil/Chile identity-document story and countries. One-minute runtime difference; search truncation is not evidence against this verified work."
+            },
+            {
+              "source": "https://www.amorfestival.com/pelicula/terra/",
+              "note": "Official AMOR or venue observation; agent-verified primary evidence, not human approval."
+            },
+            {
+              "source": "https://www.amorfestival.com/pelicula/terra/",
+              "note": "Amadis T. Loyer and distinctive rediscovery of Brazilian nationality documents and lost maternal surname Terra between Brazil and Chile corroborate the same work despite truncated common-title search."
+            },
+            {
+              "source": "assets/tmdb/responses/637e30c356ddb6555ade.json",
+              "note": "Full TMDB details, credits, release dates and alternate titles inspected."
+            }
+          ],
+          "retrievedAt": "2026-11-05T22:02:28.477Z",
+          "fingerprint": "93136415f58db7df0957c45c59e6160f62a52692b544bcf555b7685dd7bffadb"
+        }
+      ]
+    },
+    {
       "key": "sanfic-2026/bloque-03-cortometrajes/Terra",
       "title": "Terra",
       "festival": "SANFIC22",
@@ -10732,6 +11235,18 @@
             {
               "source": "https://sanfic.com/movies/terra/",
               "note": "Exact title/director, same Brazil/Chile identity-document story and countries. One-minute runtime difference; search truncation is not evidence against this verified work."
+            },
+            {
+              "source": "https://www.amorfestival.com/pelicula/terra/",
+              "note": "Official AMOR or venue observation; agent-verified primary evidence, not human approval."
+            },
+            {
+              "source": "https://www.amorfestival.com/pelicula/terra/",
+              "note": "Amadis T. Loyer and distinctive rediscovery of Brazilian nationality documents and lost maternal surname Terra between Brazil and Chile corroborate the same work despite truncated common-title search."
+            },
+            {
+              "source": "assets/tmdb/responses/637e30c356ddb6555ade.json",
+              "note": "Full TMDB details, credits, release dates and alternate titles inspected."
             }
           ],
           "retrievedAt": "2026-11-05T22:02:28.477Z",
@@ -11176,6 +11691,66 @@
       ]
     },
     {
+      "key": "amor-2026/the-wind-in-ash",
+      "title": "The wind in ash",
+      "festival": "AMOR 9",
+      "originalTitle": "",
+      "director": "Kun Sun",
+      "duration": 18,
+      "year": 2024,
+      "countries": "China",
+      "source": "https://www.amorfestival.com/pelicula/the-wind-in-ash/",
+      "yearSource": "",
+      "letterboxd": "",
+      "sourceFingerprint": "95ca8c610eb00f52ddd2c99b390539208d206275ef5d805042f6c1783516d67e",
+      "status": "matched",
+      "reason": null,
+      "candidates": [
+        {
+          "id": 1677762,
+          "title": "The Wind in Ash",
+          "originalTitle": "Xiaoxiao",
+          "year": 2025,
+          "duration": 18,
+          "directors": [
+            "Kun Sun"
+          ],
+          "directorIds": [
+            3652231
+          ],
+          "imdbId": "tt36072077",
+          "overview": "A tomboy returns to their hometown after their father passes away. As they help their mother prepare for the funeral, unspoken tensions rise to the surface.",
+          "countries": "China",
+          "poster": "/pZaGDafwpIqcb8TSlvLEW6Sa4q0.jpg",
+          "problems": [
+            "title",
+            "year"
+          ],
+          "registryStatus": "accepted",
+          "evidence": [
+            {
+              "source": "https://www.amorfestival.com/pelicula/the-wind-in-ash/",
+              "note": "Official AMOR or venue observation; agent-verified primary evidence, not human approval."
+            },
+            {
+              "source": "https://kinoathens.org/en/films/the-wind-in-ash/",
+              "note": "Primary exhibitor confirms Kun Sun, 18 minutes, cast Yan Lin and Peixin Li and return for father’s funeral. English TMDB details explicitly use The Wind in Ash, original Xiaoxiao, same funeral/mother plot; work release year 2025 overrides AMOR 2024."
+            },
+            {
+              "source": "assets/tmdb/responses/2a76a61dfe46640624ac.json",
+              "note": "Full TMDB details, credits, release dates and alternate titles inspected."
+            },
+            {
+              "source": "assets/tmdb/responses/3c56354fdc693345b8e4.json",
+              "note": "English title, synopsis and director transliteration."
+            }
+          ],
+          "retrievedAt": "2026-11-14T05:14:49.056Z",
+          "fingerprint": "3571785704b753e096be3767466fe3dce11dcba7cb13fa4fc8e45a0e99e4b195"
+        }
+      ]
+    },
+    {
       "key": "ficvina-2026/universos-1/Tinku",
       "title": "Tinku",
       "festival": "FICVIÑA 38",
@@ -11280,6 +11855,591 @@
       ]
     },
     {
+      "key": "amor-2026/travesti-travesti-travesti",
+      "title": "Travesti travesti travesti",
+      "festival": "AMOR 9",
+      "originalTitle": "",
+      "director": "Yoksan Xu",
+      "duration": 15,
+      "year": 2024,
+      "countries": "Chile",
+      "source": "https://www.amorfestival.com/pelicula/travesti-travesti-travesti/",
+      "yearSource": "",
+      "letterboxd": "",
+      "sourceFingerprint": "f7d45a75945bc0906ea2c75d9ce96706088eeb02606d7d423083abef42bf37db",
+      "status": "unmatched",
+      "reason": "no_accepted_candidate",
+      "candidates": [
+        {
+          "id": 1111134,
+          "title": "Operación Travesti",
+          "originalTitle": "Operación Travesti",
+          "year": 2024,
+          "duration": 64,
+          "directors": [
+            "Rodrigo Ottaviano"
+          ],
+          "directorIds": [
+            4002640
+          ],
+          "imdbId": "tt27505487",
+          "overview": "Una parábola, retrato o registro alrededor del álbum \"Travesti\", de Daniel Melero. Una entropía donde confluyen los entretelones de su producción, la presentación aniversario –veinticinco años después– y la trayectoria sinuosa de un artista transversal.",
+          "countries": "Argentina",
+          "poster": "/3HCwnMBxKBOxzopaGEADk58Y4Yd.jpg",
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:46.316Z",
+          "fingerprint": "b0e45ba36fef4dd1861f8e59244ddf9c909facbd2e362c0377b6dcab8ae48b00"
+        },
+        {
+          "id": 1273410,
+          "title": "Sagrada Travesti do Evangelho",
+          "originalTitle": "Sagrada Travesti do Evangelho",
+          "year": 2024,
+          "duration": null,
+          "directors": [
+            "Júlia F. Cândida"
+          ],
+          "directorIds": [
+            4648217
+          ],
+          "imdbId": null,
+          "overview": "",
+          "countries": "Brazil",
+          "poster": "/avO1tzxhZWCgxitAHDGGRNem3u3.jpg",
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:46.679Z",
+          "fingerprint": "39104d9ce6ac91c4028e7386030d65e49338672ffe151a1344ae2c10af4659eb"
+        },
+        {
+          "id": 1427078,
+          "title": "Siempre Travesti",
+          "originalTitle": "Siempre Travesti",
+          "year": 2024,
+          "duration": 10,
+          "directors": [
+            "Julio César Ayca"
+          ],
+          "directorIds": [
+            5216936
+          ],
+          "imdbId": null,
+          "overview": "",
+          "countries": "Peru",
+          "poster": "/qHNTgp8JpxaGPMvlwG5tQ7koFE2.jpg",
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:46.520Z",
+          "fingerprint": "8dec33360af5fb9bc88bfb0f67468372fa143d53b6bcd22d3a444f8c2a75bdd9"
+        },
+        {
+          "id": 1569573,
+          "title": "Venganza travestí",
+          "originalTitle": "Venganza travestí",
+          "year": 2024,
+          "duration": null,
+          "directors": [
+            "Tina Paparelli"
+          ],
+          "directorIds": [
+            5776108
+          ],
+          "imdbId": "tt35537323",
+          "overview": "",
+          "countries": "Spain",
+          "poster": "/2OCVvFLSq1VaLPLoLz6QeDKjZwd.jpg",
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:46.835Z",
+          "fingerprint": "c82012374802d51083fc603b64529062350c94bd263c4797e572fcf59f9e0c4c"
+        },
+        {
+          "id": 40349,
+          "title": "Amigo de plumas finas",
+          "originalTitle": "Fine Feathered Friend",
+          "year": 1942,
+          "duration": 8,
+          "directors": [
+            "Joseph Barbera",
+            "William Hanna"
+          ],
+          "directorIds": [
+            13594,
+            13620
+          ],
+          "imdbId": "tt0034731",
+          "overview": "Jerry saca provecho de una gallina para evitar ser atrapado por Tom.",
+          "countries": "United States of America",
+          "poster": "/2rVZAdIGb1X8uvspayjkHWPWb4w.jpg",
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:49.821Z",
+          "fingerprint": "94e8311c353aae0222c7d7ca104ee7b506bd8869ff7fd59af0592c498e8c7ef7"
+        },
+        {
+          "id": 351326,
+          "title": "El marqués, la menor y el travesti",
+          "originalTitle": "El marqués, la menor y el travesti",
+          "year": 1983,
+          "duration": 75,
+          "directors": [
+            "Alfonso Balcázar"
+          ],
+          "directorIds": [
+            230667
+          ],
+          "imdbId": "tt0084306",
+          "overview": "Alicia viene a quedarse con su tío en el castillo donde trabaja como sirviente, haciéndose pasar por millonaria para conquistar al marqués, pero Alicia se lía con el mozo de cuadras y el marqués se siente atraído por Claudia.",
+          "countries": "Spain",
+          "poster": "/8sjulrC0lpD22YZK4LWiE5s5urQ.jpg",
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:49.296Z",
+          "fingerprint": "9ef396cb4c3d555984fd2135c47ad35b9de1a816a82fd21bf10ba6211d202de2"
+        },
+        {
+          "id": 69132,
+          "title": "El travesti",
+          "originalTitle": "La Travestie",
+          "year": 1988,
+          "duration": 107,
+          "directors": [
+            "Yves Boisset"
+          ],
+          "directorIds": [
+            32940
+          ],
+          "imdbId": "tt0096301",
+          "overview": "Nicole es una abogada de unos treinta años que está insatisfecha con su vida amorosa y laboral y quiere encontrar nuevas experiencias. Con el fin de escapar y huir de todo lo que le rodea, roba dinero del bufete y se marcha a París. Aspirando a una mejor suerte tanto en el trabajo como en las relaciones sentimentales, se hace pasar por hombre y, sin darse cuenta, se verá implicada en una espiral personal y sentimental bastante complicada, descubriendo que su doble vida le proporciona un extraño placer, aunque seguirá siendo insuficiente.",
+          "countries": "France",
+          "poster": "/5WohE01Ek2UxBdle1g9GwZImrlG.jpg",
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:47.197Z",
+          "fingerprint": "b75203fde121b70d1e587d7f130f1e6c61214a181f1a24091c05bf5bdc0d475b"
+        },
+        {
+          "id": 1380219,
+          "title": "Entrada Travesti",
+          "originalTitle": "Entrada Travesti",
+          "year": 2025,
+          "duration": 19,
+          "directors": [
+            "J Triangular"
+          ],
+          "directorIds": [
+            3638363
+          ],
+          "imdbId": "tt35791904",
+          "overview": "",
+          "countries": "Colombia",
+          "poster": "/dSqcKyBnTm2sA4YQZfU7qMgoLBl.jpg",
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:47.881Z",
+          "fingerprint": "b4b9215e43fffe6879f80182f60567febf420b662b5fb5b747ba528674fd7e05"
+        },
+        {
+          "id": 821044,
+          "title": "Eu, Travesti?",
+          "originalTitle": "Eu, Travesti?",
+          "year": 2014,
+          "duration": 4,
+          "directors": [
+            "Leandro Santos"
+          ],
+          "directorIds": [
+            2664714
+          ],
+          "imdbId": null,
+          "overview": "",
+          "countries": "Brazil",
+          "poster": "/cNKX72XTvm3I9VyUnqFgxckkTzv.jpg",
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:47.729Z",
+          "fingerprint": "810b03680fd5a80358f7771cc3010f961ac2efe81729f4f014af8658923fc7bf"
+        },
+        {
+          "id": 602289,
+          "title": "Invasión Travesti",
+          "originalTitle": "Invasión Travesti",
+          "year": 2000,
+          "duration": 50,
+          "directors": [
+            "Paco Cabezas",
+            "Jerónimo de los Santos"
+          ],
+          "directorIds": [
+            79279,
+            2312364
+          ],
+          "imdbId": "tt0269369",
+          "overview": "",
+          "countries": "Spain",
+          "poster": "/bq9YRjUPFmyehqKXkhingd6Gn3C.jpg",
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:48.249Z",
+          "fingerprint": "74bd17fe3448374e35b4671216fdbd86d9cfdc80d75269a70e013a5c41763223"
+        },
+        {
+          "id": 426049,
+          "title": "La ingenua, la lesbiana y el travesti",
+          "originalTitle": "La ingenua, la lesbiana y el travesti",
+          "year": 1983,
+          "duration": 73,
+          "directors": [
+            "Alfonso Balcázar"
+          ],
+          "directorIds": [
+            230667
+          ],
+          "imdbId": "tt0084137",
+          "overview": "El pintor Manolo ofrece a la autoestopista Virginia que pose como modelo. Su amigo Pepe la seduce y, como Manolo no logra conquistar a ninguna mujer, le trae un travestido.",
+          "countries": "Spain",
+          "poster": "/vjcjqiu1GOGaqHz3fUWSd2i87PW.jpg",
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:49.140Z",
+          "fingerprint": "f0ebb096bd857c22605f139d3bac1f706f10c6f5f8c3c419eea2c3c0b9149953"
+        },
+        {
+          "id": 1042375,
+          "title": "Lamento de Força Travesti",
+          "originalTitle": "Lamento de Força Travesti",
+          "year": 2022,
+          "duration": 5,
+          "directors": [
+            "Renna Costa"
+          ],
+          "directorIds": [
+            3764418
+          ],
+          "imdbId": null,
+          "overview": "",
+          "countries": "",
+          "poster": "/4SeOkhQLNd8jXCCCRIw5YSfbWmH.jpg",
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:49.455Z",
+          "fingerprint": "5edb9790d5ca9e3fb6615439231ef78bb639ae8c3b42361f642791b56179ed45"
+        },
+        {
+          "id": 1437441,
+          "title": "Le Prince travesti",
+          "originalTitle": "Le Prince travesti",
+          "year": 1972,
+          "duration": null,
+          "directors": [
+            "Jacques Charon"
+          ],
+          "directorIds": [
+            584304
+          ],
+          "imdbId": null,
+          "overview": "",
+          "countries": "",
+          "poster": null,
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:48.770Z",
+          "fingerprint": "34538924caa1ea8ebc43e3bf48d00f8112c888b1ea9dee567119bad986203b55"
+        },
+        {
+          "id": 316070,
+          "title": "Mi novia el…",
+          "originalTitle": "Mi novia el…",
+          "year": 1975,
+          "duration": 83,
+          "directors": [
+            "Enrique Cahen Salaberry"
+          ],
+          "directorIds": [
+            1021726
+          ],
+          "imdbId": "tt0182317",
+          "overview": "Laucha, un tipo normal de mediana edad que vive con su madre mayor y trabaja en una fábrica, asiste a un espectáculo del artista travestido Dominique, por el que desarrolla una inesperada fijación.",
+          "countries": "Argentina",
+          "poster": "/uTGHfxVCEtBNFpU2FV79srLZ7uM.jpg",
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:50.192Z",
+          "fingerprint": "495943ac98e1af914f5d5b3ae7891452e9d121056a1961396a080d260f773796"
+        },
+        {
+          "id": 723497,
+          "title": "Profissão: Travesti",
+          "originalTitle": "Profissão: Travesti",
+          "year": 1981,
+          "duration": 38,
+          "directors": [
+            "Olívio Tavares de Araujo"
+          ],
+          "directorIds": [
+            2582537
+          ],
+          "imdbId": null,
+          "overview": "",
+          "countries": "Brazil",
+          "poster": null,
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:48.935Z",
+          "fingerprint": "be67235b925827aa6805707de4fa6ed851a4553e52f94f2e3ca853c4ee84dfee"
+        },
+        {
+          "id": 1549466,
+          "title": "Santa travesti",
+          "originalTitle": "Santa travesti",
+          "year": 2025,
+          "duration": 5,
+          "directors": [
+            "Manu Portillo"
+          ],
+          "directorIds": [
+            1909998
+          ],
+          "imdbId": null,
+          "overview": "",
+          "countries": "",
+          "poster": "/ro4eism69NM39j81MdNuQNx9r4U.jpg",
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:47.345Z",
+          "fingerprint": "d9ac48cd06047ea0decc8d09be156e6b31226aa9b31ce0021a04e6828b238ccb"
+        },
+        {
+          "id": 1409107,
+          "title": "Santa Travesti",
+          "originalTitle": "Santa Travesti",
+          "year": 2016,
+          "duration": 10,
+          "directors": [
+            "Fred Amado Jimenez de la Rosa"
+          ],
+          "directorIds": [
+            5146879
+          ],
+          "imdbId": null,
+          "overview": "",
+          "countries": "",
+          "poster": "/z0F3RL9D0J0v65nz0aPPLH2WfZc.jpg",
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:48.091Z",
+          "fingerprint": "c6ee28d4d305df0a505a8999cae47c4f751ae744da082450d9e6ed12f62ef92d"
+        },
+        {
+          "id": 176107,
+          "title": "Slightly Dangerous",
+          "originalTitle": "Slightly Dangerous",
+          "year": 1943,
+          "duration": 94,
+          "directors": [
+            "Wesley Ruggles"
+          ],
+          "directorIds": [
+            21311
+          ],
+          "imdbId": "tt0036365",
+          "overview": "Una chica de pueblo cambia de identidad para triunfar en Nueva York, y su novio resulta sospechoso de su \"desaparición\".",
+          "countries": "United States of America",
+          "poster": "/yYQOGnAXqcm7mfCJy7T0qr30iDX.jpg",
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:49.664Z",
+          "fingerprint": "430bd5b23f7eadb87f64e85cd4f213d98a63f10b52a07826fba30e8a0b3508dd"
+        },
+        {
+          "id": 1816124,
+          "title": "Soy travesti",
+          "originalTitle": "Soy travesti",
+          "year": null,
+          "duration": 88,
+          "directors": [
+            "Marisol S. Rodríguez"
+          ],
+          "directorIds": [
+            6597166
+          ],
+          "imdbId": null,
+          "overview": "Un joven decide revelar su verdadera identidad, pero debe enfrentarse al rechazo y al desprecio de quienes lo rodean.",
+          "countries": "",
+          "poster": "/qW3rXKB8e2qYHud6ENLOeg2uhxV.jpg",
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:47.567Z",
+          "fingerprint": "b9132a8261ccc8c52b18ed54ab107394164833a256764bf771fd96eb7aa5e1f9"
+        },
+        {
+          "id": 1624544,
+          "title": "Summa Daemoniaca Travesti",
+          "originalTitle": "Summa Daemoniaca Travesti",
+          "year": 2026,
+          "duration": 6,
+          "directors": [
+            "Natalia González Martín"
+          ],
+          "directorIds": [
+            5871131
+          ],
+          "imdbId": null,
+          "overview": "Cuando el terror te coloca en situaciones extremas, la solución la suele tener una espiritista transgénero. Una extraña visita que cambiará para siempre el rumbo de esta maldición. Pero, ¿realmente cómo se derrota a una travesti demoniaca?",
+          "countries": "Spain",
+          "poster": "/vDS3LZC3jn41BlreD2oMhWQxyiI.jpg",
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:48.616Z",
+          "fingerprint": "e578d051fb631eb3bb038321717c7060ff9fe06bf519d7a392e42eacacad7c86"
+        },
+        {
+          "id": 883764,
+          "title": "Travesía Travesti",
+          "originalTitle": "Travesía Travesti",
+          "year": 2021,
+          "duration": 93,
+          "directors": [
+            "Nicolás Videla"
+          ],
+          "directorIds": [
+            1317119
+          ],
+          "imdbId": "tt20371480",
+          "overview": "",
+          "countries": "",
+          "poster": "/7Pj1hLF75TgTo2eJXRbLNmukBhh.jpg",
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ],
+          "registryStatus": null,
+          "evidence": [],
+          "retrievedAt": "2026-11-14T05:13:48.400Z",
+          "fingerprint": "0b7b859c4f03e0afeaa48f2284cb8c1bf414ce4477568144a0b9272292329efa"
+        }
+      ]
+    },
+    {
       "key": "ficvina-2026/universos-2/TV entreaberta",
       "title": "TV entreaberta",
       "festival": "FICVIÑA 38",
@@ -11346,6 +12506,63 @@
       "status": "unmatched",
       "reason": "no_accepted_candidate",
       "candidates": []
+    },
+    {
+      "key": "amor-2026/ultramarino",
+      "title": "Ultramarino",
+      "festival": "AMOR 9",
+      "originalTitle": "",
+      "director": "Maren Zubeldia, Silvia Guglielmotti",
+      "duration": 16,
+      "year": 2026,
+      "countries": "España",
+      "source": "https://www.amorfestival.com/pelicula/ultramarino/",
+      "yearSource": "",
+      "letterboxd": "",
+      "sourceFingerprint": "eefa207f277683e198af9d675bebfead62e132eeeb86eca563e626fc20adc038",
+      "status": "matched",
+      "reason": null,
+      "candidates": [
+        {
+          "id": 1542685,
+          "title": "Ultramarino",
+          "originalTitle": "Ultramarino",
+          "year": 2026,
+          "duration": 19,
+          "directors": [
+            "Maren Zubeldia",
+            "Silvina Guglielmotti"
+          ],
+          "directorIds": [
+            5675728,
+            3008433
+          ],
+          "imdbId": "tt38776887",
+          "overview": "Zazu, a las puertas de la adolescencia y en plena búsqueda de su identidad, deberá optar por mantener la tradición o enfrentarse a ella.",
+          "countries": "Spain",
+          "poster": "/unTN9AASY487jNbGSvpWRCwehLP.jpg",
+          "problems": [
+            "director"
+          ],
+          "registryStatus": "accepted",
+          "evidence": [
+            {
+              "source": "https://www.amorfestival.com/pelicula/ultramarino/",
+              "note": "Official AMOR or venue observation; agent-verified primary evidence, not human approval."
+            },
+            {
+              "source": "https://www.kulturklik.euskadi.eus/noticia/2025/11/21/maren-zubeldia-y-silvina-guglielmotti-yo-creo-que-la-sensacion-que-tendra-el-publico-cuando-vea-por-primera-vez-ultramarino-sera-esa-creacion-de-un-nuevo-referente-/webkklik00-detalle/es/",
+              "note": "Basque audiovisual primary interview confirms Maren Zubeldia and Silvina Guglielmotti (festival misspells Silvia), nonbinary teenager Zazu and fishing-village traditions. AMOR and TMDB cast Zai Arakistain, Iraia Elias, Mariasun Pagoaga, Josean Bengoetxea and Nerea Arriola match."
+            },
+            {
+              "source": "assets/tmdb/responses/6cb09327bbe41e488bac.json",
+              "note": "Full TMDB details, credits, release dates and alternate titles inspected."
+            }
+          ],
+          "retrievedAt": "2026-11-14T05:13:50.517Z",
+          "fingerprint": "aaee8ec3641c3849a9708127b597c4a89501465762c30e9a57cb9504f6b1f940"
+        }
+      ]
     },
     {
       "key": "fidocs-2026/un-minuto-de-sombra-no-nos-ciega",

@@ -1,0 +1,132 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1712960?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:34.461Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1712960,
+    "imdb_id": "tt38042121",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Caitlin Peluffo: Prosciutto Rose",
+    "overview": "",
+    "popularity": 0.4046,
+    "poster_path": "/wlyB7FFNzZTr3yBErQAmFpSrgb9.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2026-06-11",
+    "revenue": 0,
+    "runtime": 46,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Caitlin Peluffo: Prosciutto Rose",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3277767,
+          "known_for_department": "Acting",
+          "name": "Caitlin Peluffo",
+          "original_name": "Caitlin Peluffo",
+          "popularity": 0.2473,
+          "profile_path": "/ak1ez2hBY6iRllPIdCUT45wylvT.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "6a2b68254ddc4a3c6cbb9bbd",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3277767,
+          "known_for_department": "Acting",
+          "name": "Caitlin Peluffo",
+          "original_name": "Caitlin Peluffo",
+          "popularity": 0.2473,
+          "profile_path": "/ak1ez2hBY6iRllPIdCUT45wylvT.jpg",
+          "credit_id": "6a2b6b9a8d6abb5d25e3b8a9",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1066810,
+          "known_for_department": "Directing",
+          "name": "Matt Ott",
+          "original_name": "Matt Ott",
+          "popularity": 0.1505,
+          "profile_path": null,
+          "credit_id": "6a2c492fa29db31f38b876bd",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3277767,
+          "known_for_department": "Acting",
+          "name": "Caitlin Peluffo",
+          "original_name": "Caitlin Peluffo",
+          "popularity": 0.2473,
+          "profile_path": "/ak1ez2hBY6iRllPIdCUT45wylvT.jpg",
+          "credit_id": "6a2c4974facbb2db2241e99a",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1066810,
+          "known_for_department": "Directing",
+          "name": "Matt Ott",
+          "original_name": "Matt Ott",
+          "popularity": 0.1505,
+          "profile_path": null,
+          "credit_id": "6a2c4995065a7f2e7241e992",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2026-06-11T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

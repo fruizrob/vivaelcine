@@ -1,0 +1,195 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1714216?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:37.609Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/q8hH4pchrT3Q3thQ9cMWDqhFsIp.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1714216,
+    "imdb_id": "tt43338404",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Rose's House",
+    "overview": "",
+    "popularity": 0.336,
+    "poster_path": "/2HuoIg9xPzZ3lU0EwFqqdTSyncV.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2026-06-13",
+    "revenue": 0,
+    "runtime": 20,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rose's House",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6286651,
+          "known_for_department": "Acting",
+          "name": "Martine Rose",
+          "original_name": "Martine Rose",
+          "popularity": 0.0568,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Self",
+          "credit_id": "6a2fca539ce4eafe3ac789b3",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6188482,
+          "known_for_department": "Production",
+          "name": "Naomi Abel-Hirsch",
+          "original_name": "Naomi Abel-Hirsch",
+          "popularity": 0.0996,
+          "profile_path": null,
+          "credit_id": "6a2e03580ac3b98fdc07d166",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6188482,
+          "known_for_department": "Production",
+          "name": "Naomi Abel-Hirsch",
+          "original_name": "Naomi Abel-Hirsch",
+          "popularity": 0.0996,
+          "profile_path": null,
+          "credit_id": "6a2e038da6eb925a28902186",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5396636,
+          "known_for_department": "Editing",
+          "name": "Will Glass",
+          "original_name": "Will Glass",
+          "popularity": 0.1029,
+          "profile_path": null,
+          "credit_id": "6a2fc5254c258971c264b999",
+          "department": "Editing",
+          "job": "Color Grading"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6286594,
+          "known_for_department": "Crew",
+          "name": "Nina Oyens",
+          "original_name": "Nina Oyens",
+          "popularity": 0.0347,
+          "profile_path": null,
+          "credit_id": "6a2fc5ad4c258971c264b9a8",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3893076,
+          "known_for_department": "Editing",
+          "name": "Yu-Pu Pon",
+          "original_name": "Yu-Pu Pon",
+          "popularity": 0.0616,
+          "profile_path": null,
+          "credit_id": "6a2fc5ed91d26d8ec864b9db",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4560789,
+          "known_for_department": "Sound",
+          "name": "Em Edwards",
+          "original_name": "Em Edwards",
+          "popularity": 0.1368,
+          "profile_path": null,
+          "credit_id": "6a2fc5fecd9ce8a4025ee906",
+          "department": "Sound",
+          "job": "Sound Designer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2720028,
+          "known_for_department": "Sound",
+          "name": "Will Rowe",
+          "original_name": "Will Rowe",
+          "popularity": 0.1307,
+          "profile_path": null,
+          "credit_id": "6a2fc639ebe21e9eb628fb95",
+          "department": "Sound",
+          "job": "Sound"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4121304,
+          "known_for_department": "Sound",
+          "name": "Jack McCartney",
+          "original_name": "Jack McCartney",
+          "popularity": 0.1132,
+          "profile_path": null,
+          "credit_id": "6a2fcac4f3d413f1fb28fbc3",
+          "department": "Sound",
+          "job": "Sound"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Sheffield DocFest",
+              "release_date": "2026-06-13T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

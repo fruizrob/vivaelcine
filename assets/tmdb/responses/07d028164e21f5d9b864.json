@@ -1,0 +1,642 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/910759?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:16.503Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/A6Mh2Y3Chk8qvaYvirQRQDT5icx.jpg",
+    "belongs_to_collection": {
+      "id": 941070,
+      "name": "The Wedding Veil Collection",
+      "poster_path": "/wB8NpN7TybnIgg8LnJNoF8suap7.jpg",
+      "backdrop_path": "/4QgSte6Y0wsv9U6mswYBuFg6gBm.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10770,
+        "name": "Película de TV"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 910759,
+    "imdb_id": "tt16287754",
+    "origin_country": [
+      "CA",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Wedding Veil",
+    "overview": "",
+    "popularity": 0.7231,
+    "poster_path": "/uCCARiIgQsILKfopQ7yqiDBGCf4.jpg",
+    "production_companies": [
+      {
+        "id": 166637,
+        "logo_path": null,
+        "name": "Veil Road Productions",
+        "origin_country": "CA"
+      },
+      {
+        "id": 3958,
+        "logo_path": "/xkdYNmOW6e4gjgp4NSLRt0W5UIj.png",
+        "name": "Front Street Pictures",
+        "origin_country": "CA"
+      },
+      {
+        "id": 77762,
+        "logo_path": "/bZDPLLJmJzHZwMsdSF8t1Zp67L7.png",
+        "name": "Beth Grossbard Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 7188,
+        "logo_path": "/4lh5AHeYmjH0EITJLnWNbvu6PI0.png",
+        "name": "UFO International Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 6528,
+        "logo_path": "/jhRZoi5n3y079Mu5pLqFNpzLhB5.png",
+        "name": "Lisa Demberg Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2022-01-08",
+    "revenue": 0,
+    "runtime": 84,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Wedding Veil",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 48,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 22082,
+          "known_for_department": "Acting",
+          "name": "Lacey Chabert",
+          "original_name": "Lacey Chabert",
+          "popularity": 2.4811,
+          "profile_path": "/1q9Xe7QVi5oayhPMEiRPgd6FFKG.jpg",
+          "cast_id": 1,
+          "character": "Avery",
+          "credit_id": "61a8a77238469a0028d66444",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1515481,
+          "known_for_department": "Acting",
+          "name": "Kevin McGarry",
+          "original_name": "Kevin McGarry",
+          "popularity": 1.2395,
+          "profile_path": "/JDXtYzUBK17wkQOodRf6SuFDiY.jpg",
+          "cast_id": 4,
+          "character": "Peter",
+          "credit_id": "61a8a782180dea009886f644",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 74607,
+          "known_for_department": "Acting",
+          "name": "Autumn Reeser",
+          "original_name": "Autumn Reeser",
+          "popularity": 1.2728,
+          "profile_path": "/ftDOWocmtT9YSZhV6bVrbsywIad.jpg",
+          "cast_id": 2,
+          "character": "Emma",
+          "credit_id": "61a8a7770486380045bba1cb",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1212016,
+          "known_for_department": "Acting",
+          "name": "Alison Sweeney",
+          "original_name": "Alison Sweeney",
+          "popularity": 0.9256,
+          "profile_path": "/xSFd60uTym5aTbQRGKOZ8EPxBDX.jpg",
+          "cast_id": 3,
+          "character": "Tracy",
+          "credit_id": "61a8a77c9a64350044e7ebcf",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1397812,
+          "known_for_department": "Acting",
+          "name": "Fiona Vroom",
+          "original_name": "Fiona Vroom",
+          "popularity": 1.1478,
+          "profile_path": "/lDQOOPQDBDjD0vFIhVcl65HFn0f.jpg",
+          "cast_id": 6,
+          "character": "Lucy",
+          "credit_id": "61bcdec40443c9001c0f7595",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1676100,
+          "known_for_department": "Acting",
+          "name": "Zachary Gulka",
+          "original_name": "Zachary Gulka",
+          "popularity": 0.432,
+          "profile_path": "/xPPJ0BK9HnOJLfr1lGtkQaUQk3B.jpg",
+          "cast_id": 7,
+          "character": "Jason",
+          "credit_id": "61bcdecda6a4c100613fff23",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 77622,
+          "known_for_department": "Acting",
+          "name": "Catherine Lough Haggquist",
+          "original_name": "Catherine Lough Haggquist",
+          "popularity": 0.7201,
+          "profile_path": "/3q6uhNYa7Dapl09YtqVrwndmj1l.jpg",
+          "cast_id": 22,
+          "character": "Sonya",
+          "credit_id": "61c1e46d54508d001a006c27",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 35704,
+          "known_for_department": "Acting",
+          "name": "Karen Kruper",
+          "original_name": "Karen Kruper",
+          "popularity": 0.7404,
+          "profile_path": "/GrlrdWJPTbX3h9efs9131Y7m4i.jpg",
+          "cast_id": 23,
+          "character": "Grace",
+          "credit_id": "61c1e4758b959e009a8a90b4",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 189719,
+          "known_for_department": "Acting",
+          "name": "Christine Willes",
+          "original_name": "Christine Willes",
+          "popularity": 0.4756,
+          "profile_path": "/bOSrIT6eir8mzwO7KfA6NaFbKMh.jpg",
+          "cast_id": 24,
+          "character": "Hilda",
+          "credit_id": "61c1e47f0102c90041f915f5",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 185330,
+          "known_for_department": "Acting",
+          "name": "Greg Rogers",
+          "original_name": "Greg Rogers",
+          "popularity": 0.6788,
+          "profile_path": "/kH2SBMPLE5zQnxSWy8Vi9WEFZnT.jpg",
+          "cast_id": 25,
+          "character": "Frederick",
+          "credit_id": "61c1e48be2586000605ef3bc",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5354,
+          "known_for_department": "Acting",
+          "name": "Kwesi Ameyaw",
+          "original_name": "Kwesi Ameyaw",
+          "popularity": 0.8101,
+          "profile_path": "/34xshC6FVZMfbKIocnBLjqQSLPw.jpg",
+          "cast_id": 26,
+          "character": "Drew",
+          "credit_id": "61c1e4940102c90065a2e617",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 84490,
+          "known_for_department": "Acting",
+          "name": "David Kaye",
+          "original_name": "David Kaye",
+          "popularity": 1.2089,
+          "profile_path": "/izxtFSio5twcVA1oJWPvobxpcZj.jpg",
+          "cast_id": 27,
+          "character": "Jeff",
+          "credit_id": "61c1e5db1f98d1008ee08f0b",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1942733,
+          "known_for_department": "Acting",
+          "name": "Thomas Darya",
+          "original_name": "Thomas Darya",
+          "popularity": 0.3261,
+          "profile_path": "/goLrGoXK7qGBjY9EHyrxYvLd8ie.jpg",
+          "cast_id": 28,
+          "character": "Ryan",
+          "credit_id": "61c1e5e88b959e009a8a92c0",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1516211,
+          "known_for_department": "Acting",
+          "name": "Emily Maddison",
+          "original_name": "Emily Maddison",
+          "popularity": 0.4581,
+          "profile_path": "/cGfJnsrslN75ju7Dpmv8NgyHDgI.jpg",
+          "cast_id": 29,
+          "character": "Nina",
+          "credit_id": "61c1e5f48b959e009a8a92c5",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1368543,
+          "known_for_department": "Acting",
+          "name": "Natalie von Rotsburg",
+          "original_name": "Natalie von Rotsburg",
+          "popularity": 0.3641,
+          "profile_path": "/s57KAJqYJxeZxUQ3FIDQhoAAOrh.jpg",
+          "cast_id": 30,
+          "character": "Minister",
+          "credit_id": "61c1e5fdbb10570063f0b92e",
+          "order": 14
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 110468,
+          "known_for_department": "Directing",
+          "name": "Terry Ingram",
+          "original_name": "Terry Ingram",
+          "popularity": 0.8021,
+          "profile_path": "/iJIumt1U6KknXM3rl9TIMLI5S7D.jpg",
+          "credit_id": "61a8a7a6a24c50002c5aae0f",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1564950,
+          "known_for_department": "Writing",
+          "name": "Judith Berg",
+          "original_name": "Judith Berg",
+          "popularity": 0.1771,
+          "profile_path": null,
+          "credit_id": "61bcdedf873f00001b1e8b14",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1564951,
+          "known_for_department": "Writing",
+          "name": "Sandra Berg",
+          "original_name": "Sandra Berg",
+          "popularity": 0.3462,
+          "profile_path": null,
+          "credit_id": "61bcdee6498ef9009fd25b54",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 72702,
+          "known_for_department": "Production",
+          "name": "Lisa Demberg",
+          "original_name": "Lisa Demberg",
+          "popularity": 0.2211,
+          "profile_path": null,
+          "credit_id": "61bcdef74da3d4001d760a03",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1902686,
+          "known_for_department": "Production",
+          "name": "Beth Grossbard",
+          "original_name": "Beth Grossbard",
+          "popularity": 0.2136,
+          "profile_path": null,
+          "credit_id": "61bcdeffa44d0900428ad5c8",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1638054,
+          "known_for_department": "Production",
+          "name": "Allen Lewis",
+          "original_name": "Allen Lewis",
+          "popularity": 0.2997,
+          "profile_path": "/oJpT5X3E7FwmPUMX6Wo4YUDU9Am.jpg",
+          "credit_id": "61c1e3ab544c410041eccbc2",
+          "department": "Production",
+          "job": "Supervising Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 22082,
+          "known_for_department": "Acting",
+          "name": "Lacey Chabert",
+          "original_name": "Lacey Chabert",
+          "popularity": 2.4811,
+          "profile_path": "/1q9Xe7QVi5oayhPMEiRPgd6FFKG.jpg",
+          "credit_id": "61c1e3bc8b959e001bcf63f5",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 110468,
+          "known_for_department": "Directing",
+          "name": "Terry Ingram",
+          "original_name": "Terry Ingram",
+          "popularity": 0.8021,
+          "profile_path": "/iJIumt1U6KknXM3rl9TIMLI5S7D.jpg",
+          "credit_id": "61c1e3c521c4ca006275f9da",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32733,
+          "known_for_department": "Production",
+          "name": "Harvey Kahn",
+          "original_name": "Harvey Kahn",
+          "popularity": 0.5961,
+          "profile_path": "/ubVjGFqrhZ3ksVgIDhNBQXgrGq6.jpg",
+          "credit_id": "61c1e3ccdb4ed60042b12db1",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3354514,
+          "known_for_department": "Writing",
+          "name": "Lori Wilde",
+          "original_name": "Lori Wilde",
+          "popularity": 0.1757,
+          "profile_path": null,
+          "credit_id": "61c1e3df2ac4990093d32e76",
+          "department": "Writing",
+          "job": "Book"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1902685,
+          "known_for_department": "Camera",
+          "name": "William McKnight",
+          "original_name": "William McKnight",
+          "popularity": 0.1561,
+          "profile_path": null,
+          "credit_id": "61c1e3f41f98d1008ee08c1c",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1314980,
+          "known_for_department": "Art",
+          "name": "Trevor Belcourt",
+          "original_name": "Trevor Belcourt",
+          "popularity": 0.2204,
+          "profile_path": null,
+          "credit_id": "61c1e3fce2586000605ef2fa",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 91885,
+          "known_for_department": "Editing",
+          "name": "Alison Grace",
+          "original_name": "Alison Grace",
+          "popularity": 0.1892,
+          "profile_path": null,
+          "credit_id": "61c1e4035ff34e005f50117b",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 435006,
+          "known_for_department": "Production",
+          "name": "Jackie Lind",
+          "original_name": "Jackie Lind",
+          "popularity": 0.6402,
+          "profile_path": "/dmNtnTIM84x6CFUJ9gdxMPUdyRD.jpg",
+          "credit_id": "61c1e40a48333a00886e0eb4",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3557340,
+          "known_for_department": "Art",
+          "name": "Chris Hibbins",
+          "original_name": "Chris Hibbins",
+          "popularity": 0.1187,
+          "profile_path": null,
+          "credit_id": "635103684ca676007a524387",
+          "department": "Art",
+          "job": "Assistant Set Decoration"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2560557,
+          "known_for_department": "Camera",
+          "name": "Allister Foster",
+          "original_name": "Allister Foster",
+          "popularity": 0.2316,
+          "profile_path": null,
+          "credit_id": "664e586bde88d6df72bb0931",
+          "department": "Camera",
+          "job": "Still Photographer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1927047,
+          "known_for_department": "Sound",
+          "name": "Mikel Hurwitz",
+          "original_name": "Mikel Hurwitz",
+          "popularity": 0.174,
+          "profile_path": "/1TXvPM8IAqWzKdYLOR0gvIQbtYQ.jpg",
+          "credit_id": "6754e62bf1829b66fbb4da20",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3748897,
+          "known_for_department": "Art",
+          "name": "Hayley MacDonald",
+          "original_name": "Hayley MacDonald",
+          "popularity": 0.1211,
+          "profile_path": null,
+          "credit_id": "67ac6143f71a3783e1bb4ca4",
+          "department": "Art",
+          "job": "Set Dresser"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3509503,
+          "known_for_department": "Directing",
+          "name": "Stephanie Wells",
+          "original_name": "Stephanie Wells",
+          "popularity": 0.193,
+          "profile_path": null,
+          "credit_id": "6aebe076f44a8f1d7c703d6e",
+          "department": "Directing",
+          "job": "Second Assistant Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "fr",
+              "note": "RTL TVi",
+              "release_date": "2024-03-06T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "L",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "VOD",
+              "release_date": "2022-05-15T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "SK",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "DOMA",
+              "release_date": "2025-06-21T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "G",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Hallmark Channel",
+              "release_date": "2022-01-08T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Wedding Veil Wishes 1",
+          "type": "production title"
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "Wedding Veil 1: Something Old",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "US",
+          "title": "Wedding Veil Wishes: Avery's Story",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/594652?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:12.595Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 594652,
+    "imdb_id": null,
+    "origin_country": [
+      "FI"
+    ],
+    "original_language": "fi",
+    "original_title": "Pelin viivyttäminen",
+    "overview": "",
+    "popularity": 0.1771,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 5975,
+        "logo_path": "/vvjgoKygWWYZvYyidT3RmOCq5If.png",
+        "name": "YLE",
+        "origin_country": "FI"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FI",
+        "name": "Finland"
+      }
+    ],
+    "release_date": "2017-01-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pelin viivyttäminen",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1500684,
+          "known_for_department": "Directing",
+          "name": "Mika Taanila",
+          "original_name": "Mika Taanila",
+          "popularity": 0.1632,
+          "profile_path": "/aRinEE11qPBWRhoDWKnRvqiXjXd.jpg",
+          "credit_id": "5cb1a77dc3a3683c20ad8993",
+          "department": "Sound",
+          "job": "Music"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1500684,
+          "known_for_department": "Directing",
+          "name": "Mika Taanila",
+          "original_name": "Mika Taanila",
+          "popularity": 0.1632,
+          "profile_path": "/aRinEE11qPBWRhoDWKnRvqiXjXd.jpg",
+          "credit_id": "5cb1a7429251412fb0255194",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1500684,
+          "known_for_department": "Directing",
+          "name": "Mika Taanila",
+          "original_name": "Mika Taanila",
+          "popularity": 0.1632,
+          "profile_path": "/aRinEE11qPBWRhoDWKnRvqiXjXd.jpg",
+          "credit_id": "5cb1a7529251412fa3255807",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1500684,
+          "known_for_department": "Directing",
+          "name": "Mika Taanila",
+          "original_name": "Mika Taanila",
+          "popularity": 0.1632,
+          "profile_path": "/aRinEE11qPBWRhoDWKnRvqiXjXd.jpg",
+          "credit_id": "5cb2892d0e0a260ad6c2a2cc",
+          "department": "Writing",
+          "job": "Screenplay"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FI",
+          "release_dates": [
+            {
+              "certification": "S",
+              "descriptors": [],
+              "iso_639_1": "fi",
+              "note": "",
+              "release_date": "2017-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "US",
+          "title": "Delay of Game",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

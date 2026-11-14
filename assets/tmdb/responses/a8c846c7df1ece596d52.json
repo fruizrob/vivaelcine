@@ -1,0 +1,216 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1559702?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:19.926Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/1Qk9JsquNk9QpSjcTkOGBWJKfCX.jpg",
+    "belongs_to_collection": {
+      "id": 1730090,
+      "name": "Coleção O Bebê de Juliano",
+      "poster_path": null,
+      "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1559702,
+    "imdb_id": null,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "O Bebê de Juliano",
+    "overview": "",
+    "popularity": 0.1166,
+    "poster_path": "/yj39xQBfk6xpJBtRH1iFwfQNJId.jpg",
+    "production_companies": [
+      {
+        "id": 276554,
+        "logo_path": null,
+        "name": "Curta com Nóix",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2025-10-14",
+    "revenue": 52,
+    "runtime": 12,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "O Bebê de Juliano",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5726314,
+          "known_for_department": "Acting",
+          "name": "Juliano Jr.",
+          "original_name": "Juliano Jr.",
+          "popularity": 0.0372,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Juliano",
+          "credit_id": "68e7afbad9c7043f694a94cc",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5726312,
+          "known_for_department": "Acting",
+          "name": "Mateus Pedro de Bem",
+          "original_name": "Mateus Pedro de Bem",
+          "popularity": 0.0434,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Mateus Pedro",
+          "credit_id": "68e7afcf9e831c29e3b7ac18",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5726316,
+          "known_for_department": "Acting",
+          "name": "Gabrielly Cordeiro",
+          "original_name": "Gabrielly Cordeiro",
+          "popularity": 0.0257,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Gabrielly",
+          "credit_id": "68e7afdef62d4d43855f6335",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5726317,
+          "known_for_department": "Acting",
+          "name": "Miguel Quirino",
+          "original_name": "Miguel Quirino",
+          "popularity": 0.0323,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Dr. Armando Taranto Juniô",
+          "credit_id": "68e7aff2c0813c3376aa1402",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4606543,
+          "known_for_department": "Directing",
+          "name": "Mateus Velter",
+          "original_name": "Mateus Velter",
+          "popularity": 0.0508,
+          "profile_path": "/ypzWrzFunMeOlnIEx5ilWouEMKM.jpg",
+          "credit_id": "68e7b03acc649faa5541de5d",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4606543,
+          "known_for_department": "Directing",
+          "name": "Mateus Velter",
+          "original_name": "Mateus Velter",
+          "popularity": 0.0508,
+          "profile_path": "/ypzWrzFunMeOlnIEx5ilWouEMKM.jpg",
+          "credit_id": "68e7b058269fecc38a5f6300",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4606543,
+          "known_for_department": "Directing",
+          "name": "Mateus Velter",
+          "original_name": "Mateus Velter",
+          "popularity": 0.0508,
+          "profile_path": "/ypzWrzFunMeOlnIEx5ilWouEMKM.jpg",
+          "credit_id": "68e7b06b54369a5c8eaa160a",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4606543,
+          "known_for_department": "Directing",
+          "name": "Mateus Velter",
+          "original_name": "Mateus Velter",
+          "popularity": 0.0508,
+          "profile_path": "/ypzWrzFunMeOlnIEx5ilWouEMKM.jpg",
+          "credit_id": "68e7b07bff0033301a4a959c",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5726314,
+          "known_for_department": "Acting",
+          "name": "Juliano Jr.",
+          "original_name": "Juliano Jr.",
+          "popularity": 0.0372,
+          "profile_path": null,
+          "credit_id": "68e7b08aa9bc85072641dc4d",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "14",
+              "descriptors": [
+                "Violence"
+              ],
+              "iso_639_1": "pt",
+              "note": "",
+              "release_date": "2025-10-14T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

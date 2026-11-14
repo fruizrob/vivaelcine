@@ -1,0 +1,167 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1519562?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:39.873Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1519562,
+    "imdb_id": "tt0496120",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Rose Leaves",
+    "overview": "",
+    "popularity": 0.6713,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 90606,
+        "logo_path": null,
+        "name": "Reliance Film Company",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1915-04-21",
+    "revenue": 0,
+    "runtime": 12,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rose Leaves",
+    "video": false,
+    "vote_average": 10,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1388073,
+          "known_for_department": "Acting",
+          "name": "Mae Gaston",
+          "original_name": "Mae Gaston",
+          "popularity": 0.3991,
+          "profile_path": "/qfPoFF2RXjuL7nBgkODQ0BmkfAJ.jpg",
+          "cast_id": 2,
+          "character": "Mildred Harrison • Wife • Rose Harrison • Daughter",
+          "credit_id": "68850a3b317a5cfe9cf78a58",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 8840,
+          "known_for_department": "Acting",
+          "name": "Maxfield Stanley",
+          "original_name": "Maxfield Stanley",
+          "popularity": 0.3117,
+          "profile_path": "/53PPR702ehVelBmwwVy8xjdpWcC.jpg",
+          "cast_id": 5,
+          "character": "Dick",
+          "credit_id": "68850a7e90c737dad716bf4d",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1377310,
+          "known_for_department": "Acting",
+          "name": "Lucille Young",
+          "original_name": "Lucille Young",
+          "popularity": 0.5216,
+          "profile_path": "/b22d4sw1eRVljNIlQS9MjLhlaug.jpg",
+          "cast_id": 6,
+          "character": "Vera Darocq",
+          "credit_id": "68850a886d678e7159d9ac9e",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1406784,
+          "known_for_department": "Acting",
+          "name": "Raymond Wells",
+          "original_name": "Raymond Wells",
+          "popularity": 0.5849,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Harrison",
+          "credit_id": "68850a246199336bf124615e",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 98038,
+          "known_for_department": "Acting",
+          "name": "Ray Myers",
+          "original_name": "Ray Myers",
+          "popularity": 0.2502,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Ruiz",
+          "credit_id": "68850a4f4993f24968246864",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1154422,
+          "known_for_department": "Acting",
+          "name": "Ben Lewis",
+          "original_name": "Ben Lewis",
+          "popularity": 0.2154,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Miller",
+          "credit_id": "68850a73889cf9581e246523",
+          "order": 5
+        }
+      ],
+      "crew": []
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1915-04-21T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

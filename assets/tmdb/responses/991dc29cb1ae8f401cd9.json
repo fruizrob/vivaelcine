@@ -1,0 +1,30 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=No+money+no+honey&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-14T05:13:21.507Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/z3py4NKca2ofqObdozuRIWEOh1l.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1589698,
+        "title": "No Money No Honey",
+        "original_language": "es",
+        "original_title": "No Money No Honey",
+        "overview": "",
+        "popularity": 0.5256,
+        "poster_path": "/ips8shgWn3Emyl85ZwbmwtwOPnW.jpg",
+        "release_date": "2026-09-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

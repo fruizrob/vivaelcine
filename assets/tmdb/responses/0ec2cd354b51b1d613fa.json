@@ -1,0 +1,96 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1257088?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:12.964Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1257088,
+    "imdb_id": null,
+    "origin_country": [
+      "RU"
+    ],
+    "original_language": "ru",
+    "original_title": "Без опозданий",
+    "overview": "",
+    "popularity": 0.0765,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 148838,
+        "logo_path": null,
+        "name": "Usaaa",
+        "origin_country": "RU"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "RU",
+        "name": "Russia"
+      }
+    ],
+    "release_date": "2024-03-15",
+    "revenue": 0,
+    "runtime": 1,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Без опозданий",
+    "video": false,
+    "vote_average": 9.5,
+    "vote_count": 1,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4584072,
+          "known_for_department": "Directing",
+          "name": "Natalia Komarova",
+          "original_name": "Natalia Komarova",
+          "popularity": 0.075,
+          "profile_path": null,
+          "credit_id": "65edbf4378570e0187fce31d",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "RU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2024-03-15T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

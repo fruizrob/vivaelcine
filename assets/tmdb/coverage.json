@@ -1,18 +1,3074 @@
 {
-  "generatedAt": "2026-11-14T04:37:41.185Z",
+  "generatedAt": "2026-11-14T05:25:50.795Z",
   "coverage": {
-    "total": 219,
-    "queried": 216,
+    "total": 243,
+    "queried": 240,
     "unannounced": 3,
-    "matched": 167,
-    "unmatched": 28,
+    "matched": 189,
+    "unmatched": 30,
     "ambiguous": 0,
     "needsReview": 21,
     "retained": 0,
-    "withFestivalHistory": 85,
-    "appearances": 195
+    "withFestivalHistory": 96,
+    "appearances": 220
   },
   "films": [
+    {
+      "key": "amor-2026/algo-novo-que-contar",
+      "title": "Algo novo que contar",
+      "status": "matched",
+      "filmId": "amor-2026/algo-novo-que-contar",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1403251,
+      "appearances": 0,
+      "boundTmdbId": 1403251,
+      "catalogueYear": 2025,
+      "tmdbYear": 2025,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "ES",
+          "certification": "A",
+          "descriptors": [],
+          "iso_639_1": "gl",
+          "note": "",
+          "release_date": "2025-09-07T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1403251,
+          "title": "Algo Novo que Contar",
+          "year": "2025",
+          "runtime": 21,
+          "directors": [
+            "Paula Pereira"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/cielo-de-enero",
+      "title": "Cielo de enero",
+      "status": "matched",
+      "filmId": "amor-2026/cielo-de-enero",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "year",
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1812491,
+      "appearances": 0,
+      "boundTmdbId": 1812491,
+      "catalogueYear": 2026,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1812491,
+          "title": "Cielo de enero",
+          "year": "",
+          "runtime": 0,
+          "directors": [
+            "Sofía Plesky"
+          ],
+          "problems": [
+            "year",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/corazon-danzante-cuando-el-amor-es-baile",
+      "title": "Corazón danzante, cuando el amor es baile",
+      "status": "unmatched",
+      "filmId": "amor-2026/corazon-danzante-cuando-el-amor-es-baile",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Corazón danzante, cuando el amor es baile",
+            "year": "2026",
+            "page": 1
+          },
+          {
+            "query": "Corazón danzante, cuando el amor es baile",
+            "year": null,
+            "page": 1
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": 2026,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": []
+    },
+    {
+      "key": "amor-2026/delay",
+      "title": "Delay",
+      "status": "matched",
+      "filmId": "amor-2026/delay",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "title",
+        "director"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1536107,
+      "appearances": 1,
+      "boundTmdbId": 1536107,
+      "catalogueYear": 2025,
+      "tmdbYear": 2025,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "HK",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Hong Kong Lesbian & Gay Film Festival",
+          "release_date": "2026-09-08T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bangkok International Film Festival",
+          "release_date": "2025-10-13T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1536107,
+          "title": "远方延误",
+          "year": "2025",
+          "runtime": 15,
+          "directors": [
+            "王瀚渲"
+          ],
+          "problems": [
+            "title",
+            "director"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/dreams-sex-love",
+      "title": "Dreams (Sex Love)",
+      "status": "matched",
+      "filmId": "amor-2026/dreams-sex-love",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1228682,
+      "appearances": 3,
+      "boundTmdbId": 1228682,
+      "catalogueYear": 2024,
+      "tmdbYear": 2024,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Sydney Film Festival",
+          "release_date": "2025-06-04T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Melbourne International Film Festival",
+          "release_date": "2025-08-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "New Farm Queer Film Festival",
+          "release_date": "2025-10-08T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Pink Screens Festival (Brussels)",
+          "release_date": "2025-10-30T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Imovision European Film Festival",
+          "release_date": "2025-04-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CN",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Beijing International Film Festival",
+          "release_date": "2025-04-22T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "es",
+          "note": "Festival Internacional del Nuevo Cine Latinoamericano",
+          "release_date": "2025-12-07T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CZ",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Mezipatra Queer Film Festival",
+          "release_date": "2025-11-07T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "EE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festheart",
+          "release_date": "2025-09-26T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Glasgow Film Festival",
+          "release_date": "2025-03-08T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "HK",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Hong Kong International Film Festival",
+          "release_date": "2025-04-20T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ID",
+          "certification": "17+",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Jakarta World Cinema",
+          "release_date": "2025-09-28T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "LV",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Riga International Film Festival",
+          "release_date": "2025-10-18T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "MO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Macao International Queer Film Festival",
+          "release_date": "2025-06-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Leiden International Film Festival",
+          "release_date": "2025-10-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "013 International Film Festival",
+          "release_date": "2025-10-15T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Vega Scene, Oslo",
+          "release_date": "2024-09-23T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NZ",
+          "certification": "PG",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "New Zealand International Film Festival",
+          "release_date": "2025-08-02T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "BNP Paribas New Horizons International Film Festival",
+          "release_date": "2025-07-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PT",
+          "certification": "M/12",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "LEFFEST - Lisboa Film Festival",
+          "release_date": "2025-11-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "RS",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival Autorskog Filma",
+          "release_date": "2025-11-22T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bangkok International Film Festival",
+          "release_date": "2025-09-28T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TR",
+          "certification": "13+",
+          "descriptors": [
+            "Negative examples"
+          ],
+          "iso_639_1": "",
+          "note": "Istanbul Film Festival",
+          "release_date": "2025-04-15T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Kuir Film Fest",
+          "release_date": "2026-01-25T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TW",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Taipei Film Festival",
+          "release_date": "2025-06-23T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "UA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Sunny Bunny LGBTQIA+ Film Festival",
+          "release_date": "2025-04-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Sonoma International Film Festival",
+          "release_date": "2025-03-21T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "UY",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Uruguay International Film Festival",
+          "release_date": "2025-04-13T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1228682,
+          "title": "Sueños en Oslo",
+          "year": "2024",
+          "runtime": 111,
+          "directors": [
+            "Dag Johan Haugerud"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/el-velo-o-veu",
+      "title": "El Velo (O Véu)",
+      "status": "matched",
+      "filmId": "amor-2026/el-velo-o-veu",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1526695,
+      "appearances": 0,
+      "boundTmdbId": 1526695,
+      "catalogueYear": 2025,
+      "tmdbYear": 2025,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Rio LGBTQIA+ International Film Festival",
+          "release_date": "2026-07-04T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ID",
+          "certification": "17+",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Jakarta Film Week",
+          "release_date": "2026-10-22T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "KR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bucheon International Fantastic Film Festival",
+          "release_date": "2026-07-04T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "UA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Kyiv International Short Film Festival ",
+          "release_date": "2026-09-17T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1526695,
+          "title": "O Véu",
+          "year": "2025",
+          "runtime": 20,
+          "directors": [
+            "Gabriel Motta"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/feito-pipa",
+      "title": "Feito Pipa",
+      "status": "matched",
+      "filmId": "amor-2026/feito-pipa",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1393615,
+      "appearances": 4,
+      "boundTmdbId": 1393615,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "BE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Film Fest Gent",
+          "release_date": "2026-10-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Pink Screens Queer Film Festival",
+          "release_date": "2026-11-02T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "pt",
+          "note": "Gramado Film Festival",
+          "release_date": "2026-08-15T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Rio de Janeiro International Film Festival",
+          "release_date": "2026-10-06T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "São Paulo International Film Festival",
+          "release_date": "2026-10-21T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Inside Out 2SLGBTQ+ Film Festival",
+          "release_date": "2026-05-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CN",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Shanghai International Film Festival",
+          "release_date": "2026-06-13T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival Internacional de Cine de Cartagena de Indias",
+          "release_date": "2026-04-14T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CZ",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Zlín Film Festival",
+          "release_date": "2026-05-28T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "DE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "FilmFest Hamburg",
+          "release_date": "2026-09-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "DK",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "MIX Copenhagen LGBTQIA+ Film Festival",
+          "release_date": "2026-11-04T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "EE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festheart",
+          "release_date": "2026-09-26T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ID",
+          "certification": "17+",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Jakarta World Cinema",
+          "release_date": "2026-11-02T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ID",
+          "certification": "17+",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bandung World Cinema",
+          "release_date": "2026-11-16T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PH",
+          "certification": "PG",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "QCinema International Film Festival",
+          "release_date": "2026-11-13T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "TAURON Young Horizons International Film Festival",
+          "release_date": "2026-09-26T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Queer Lisboa",
+          "release_date": "2026-09-18T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "UA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Kyiv International Film Festival Molodist",
+          "release_date": "2026-10-26T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "NewFest",
+          "release_date": "2026-10-22T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1393615,
+          "title": "Feito Pipa",
+          "year": "2026",
+          "runtime": 93,
+          "directors": [
+            "Allan Deberton"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/grandma-nai-who-played-favorites",
+      "title": "Grandma Nai who played favorites",
+      "status": "matched",
+      "filmId": "amor-2026/grandma-nai-who-played-favorites",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "title",
+        "director"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1403490,
+      "appearances": 1,
+      "boundTmdbId": 1403490,
+      "catalogueYear": 2025,
+      "tmdbYear": 2025,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "DE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Hamburg International Queer Film Festival ",
+          "release_date": "2026-10-16T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "HK",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Fresh Wave International Short Film Festival",
+          "release_date": "2025-12-07T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "KR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bucheon International Fantastic Film Festival",
+          "release_date": "2025-07-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "GRANDMA NAI WHO PLAYED FAVORITES",
+          "release_date": "2025-11-14T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bangkok International Film Festival",
+          "release_date": "2025-10-13T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TW",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Golden Harvest Awards",
+          "release_date": "2025-05-04T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "UA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Lviv International Film Festival Wiz-Art",
+          "release_date": "2025-09-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Queer West Film Fest",
+          "release_date": "2025-06-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ZA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Durban International Film Festival",
+          "release_date": "2025-07-18T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1403490,
+          "title": "La abuela Nai, que tenía favoritos",
+          "year": "2025",
+          "runtime": 19,
+          "directors": [
+            "Chheangkea"
+          ],
+          "problems": [
+            "title",
+            "director"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/jim-queen",
+      "title": "Jim Queen",
+      "status": "matched",
+      "filmId": "amor-2026/jim-queen",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1061798,
+      "appearances": 3,
+      "boundTmdbId": 1061798,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Sydney Film Festival ",
+          "release_date": "2026-06-09T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "New Farm Queer Film Festival",
+          "release_date": "2026-08-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Melbourne International Film Festival",
+          "release_date": "2026-08-08T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Queer Screen Film Fest",
+          "release_date": "2026-09-02T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Adelaide Film Festival",
+          "release_date": "2026-10-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Darwin International Film Festival",
+          "release_date": "2026-09-12T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Melbourne Queer Film Festival",
+          "release_date": "2026-11-20T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Capital Film Festival",
+          "release_date": "2026-10-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Rio de Janeiro International Film Festival ",
+          "release_date": "2026-10-02T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Fantasia Festival",
+          "release_date": "2026-08-02T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Vancouver International Film Festival",
+          "release_date": "2026-10-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ES",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Atlantida Mallorca Film Festival",
+          "release_date": "2026-08-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Annecy International Animation Film Festival",
+          "release_date": "2026-06-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "HK",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Hong Kong French Film Festival",
+          "release_date": "2026-11-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "IT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Torino Film Festival",
+          "release_date": "2026-11-30T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NZ",
+          "certification": "R16",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "New Zealand International Film Festival",
+          "release_date": "2026-07-31T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "QCinema International Film Festival",
+          "release_date": "2026-11-13T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Fantastic Fest 2026",
+          "release_date": "2026-09-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Animation Is Film Festival ",
+          "release_date": "2026-10-17T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1061798,
+          "title": "Jim Queen",
+          "year": "2026",
+          "runtime": 85,
+          "directors": [
+            "Marco Nguyen",
+            "Nicolas Athané"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/jugo-en-polvo",
+      "title": "Jugo en Polvo",
+      "status": "matched",
+      "filmId": "amor-2026/jugo-en-polvo",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1491904,
+      "appearances": 0,
+      "boundTmdbId": 1491904,
+      "catalogueYear": 2025,
+      "tmdbYear": 2025,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "CL",
+          "certification": "TE",
+          "descriptors": [],
+          "iso_639_1": "es",
+          "note": "",
+          "release_date": "2025-10-16T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1491904,
+          "title": "Jugo en polvo",
+          "year": "2025",
+          "runtime": 19,
+          "directors": [
+            "Sofía Flores Pinto"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/julian",
+      "title": "Julian",
+      "status": "matched",
+      "filmId": "amor-2026/julian",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1421539,
+      "appearances": 1,
+      "boundTmdbId": 1421539,
+      "catalogueYear": 2025,
+      "tmdbYear": 2025,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Sydney Film Festival",
+          "release_date": "2026-06-06T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Film Fest Gent",
+          "release_date": "2025-10-08T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "DE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Hamburg International Queer Film Festival ",
+          "release_date": "2026-10-14T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival Chéries Chéris",
+          "release_date": "2025-11-25T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "HK",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Hong Kong Lesbian & Gay Film Festival",
+          "release_date": "2026-09-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "MO",
+          "certification": "D",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Macao International Queer Film Festival",
+          "release_date": "2026-06-12T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Leiden International Film Festival",
+          "release_date": "2025-10-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bangkok International Film Festival",
+          "release_date": "2025-10-02T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "UA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Sunny Bunny International LGBTQ+ Film Festival",
+          "release_date": "2026-04-20T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1421539,
+          "title": "Julian",
+          "year": "2025",
+          "runtime": 91,
+          "directors": [
+            "Cato Kusters"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/la-hora-de-irse",
+      "title": "La hora de irse",
+      "status": "matched",
+      "filmId": "amor-2026/la-hora-de-irse",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1614670,
+      "appearances": 1,
+      "boundTmdbId": 1614670,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "UA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Kyiv International Short Film Festival",
+          "release_date": "2026-09-17T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1614670,
+          "title": "La hora de irse",
+          "year": "2026",
+          "runtime": 20,
+          "directors": [
+            "Renzo Cozza"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/la-vida-de-una-mujer-la-vie-dune-femme",
+      "title": "La vida de una mujer (La vie d’une femme)",
+      "status": "matched",
+      "filmId": "amor-2026/la-vida-de-una-mujer-la-vie-dune-femme",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1258181,
+      "appearances": 2,
+      "boundTmdbId": 1258181,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "AT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Vienna International Film Festival",
+          "release_date": "2026-10-23T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Brussels International Film Festival",
+          "release_date": "2026-09-11T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FI",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Helsinki International Film Festival",
+          "release_date": "2026-09-22T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Cabourg Film Festival ",
+          "release_date": "2026-06-11T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "HK",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Hong Kong French Film Festival",
+          "release_date": "2026-11-20T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "IL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Haifa International Film Festival",
+          "release_date": "2026-09-27T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "SK",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Cinematik International Film Festival",
+          "release_date": "2026-09-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bangkok International Film Festival",
+          "release_date": "2026-09-18T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1258181,
+          "title": "La vida de una mujer",
+          "year": "2026",
+          "runtime": 98,
+          "directors": [
+            "Charline Bourgeois-Tacquet"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/maspalomas",
+      "title": "Maspalomas",
+      "status": "matched",
+      "filmId": "amor-2026/maspalomas",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1400214,
+      "appearances": 2,
+      "boundTmdbId": 1400214,
+      "catalogueYear": 2025,
+      "tmdbYear": 2025,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Mardi Gras Film Festival",
+          "release_date": "2026-02-25T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Europa Film Festival",
+          "release_date": "2026-02-20T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "São Paulo International Film Festival",
+          "release_date": "2025-10-28T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Cinespaña Festival",
+          "release_date": "2025-10-06T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "12",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival Chéries Chéris",
+          "release_date": "2025-11-20T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Cabourg Film Festival ",
+          "release_date": "2026-06-11T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "HK",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Hong Kong Lesbian & Gay Film Festival",
+          "release_date": "2026-09-12T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "PELÍCULA>PELIKULA Manila Spanish Film Festival",
+          "release_date": "2026-10-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "UA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Sunny Bunny International LGBTQ+ Film Festival",
+          "release_date": "2026-04-21T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1400214,
+          "title": "Maspalomas",
+          "year": "2025",
+          "runtime": 115,
+          "directors": [
+            "Aitor Arregi",
+            "Jose Mari Goenaga"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/no-money-no-honey",
+      "title": "No money no honey",
+      "status": "matched",
+      "filmId": "fidocs-2026/no-money-no-honey",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1589698,
+      "appearances": 0,
+      "boundTmdbId": 1589698,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Camden International Film Festival",
+          "release_date": "2026-09-19T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1589698,
+          "title": "No Money No Honey",
+          "year": "2026",
+          "runtime": 80,
+          "directors": [
+            "Nicole Costa"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/on-the-sea",
+      "title": "On the sea",
+      "status": "matched",
+      "filmId": "amor-2026/on-the-sea",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1507796,
+      "appearances": 0,
+      "boundTmdbId": 1507796,
+      "catalogueYear": 2025,
+      "tmdbYear": 2025,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Mardi Gras Film Festival",
+          "release_date": "2026-02-18T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Geelong Pride Film Festival",
+          "release_date": "2026-05-09T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "DE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Hamburg International Queer Film Festival ",
+          "release_date": "2026-10-16T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "18",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Edinburgh International Film Festival",
+          "release_date": "2025-08-16T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Belfast Film Festival",
+          "release_date": "2025-11-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "KR",
+          "certification": "15",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Seoul International Pride Film Festival",
+          "release_date": "2026-11-06T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1507796,
+          "title": "On the Sea",
+          "year": "2025",
+          "runtime": 115,
+          "directors": [
+            "Helen Walsh"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/playa-escondida",
+      "title": "Playa escondida",
+      "status": "matched",
+      "filmId": "amor-2026/playa-escondida",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "runtime"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1714233,
+      "appearances": 0,
+      "boundTmdbId": 1714233,
+      "catalogueYear": 2025,
+      "tmdbYear": 2025,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "CL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival Internacional de Cine de Rengo",
+          "release_date": "2025-11-26T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1714233,
+          "title": "Hidden Beach",
+          "year": "2025",
+          "runtime": 111,
+          "directors": [
+            "Ro Olivares"
+          ],
+          "problems": [
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/por-que-migran-los-peces",
+      "title": "¿Por qué migran los peces?",
+      "status": "matched",
+      "filmId": "amor-2026/por-que-migran-los-peces",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "year"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1741814,
+      "appearances": 0,
+      "boundTmdbId": 1741814,
+      "catalogueYear": 2026,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1741814,
+          "title": "¿Por qué migran los peces?",
+          "year": "",
+          "runtime": 14,
+          "directors": [
+            "Camila Pujana",
+            "Stefanie Mora"
+          ],
+          "problems": [
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/rose",
+      "title": "Rose",
+      "status": "matched",
+      "filmId": "amor-2026/rose",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1176962,
+      "appearances": 6,
+      "boundTmdbId": 1176962,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "AT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Diagonale Festival of Austrian Film",
+          "release_date": "2026-03-18T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Sydney Film Festival ",
+          "release_date": "2026-06-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "New Farm Queer Film Festival",
+          "release_date": "2026-08-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Melbourne International Film Festival",
+          "release_date": "2026-08-09T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Adelaide Film Festival",
+          "release_date": "2026-10-16T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "AU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Melbourne Queer Film Festival",
+          "release_date": "2026-11-14T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Sarajevo Film Festival",
+          "release_date": "2026-08-15T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Brussels International Film Festival",
+          "release_date": "2026-09-06T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Rio de Janeiro International Film Festival",
+          "release_date": "2026-10-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Vancouver International Film Festival",
+          "release_date": "2026-10-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Forest City Film Festival",
+          "release_date": "2026-10-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Festival du Nouveau Cinéma",
+          "release_date": "2026-10-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Windsor International Film Festival",
+          "release_date": "2026-10-29T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "MUBI Fest",
+          "release_date": "2026-10-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CN",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Beijing International Film Festival",
+          "release_date": "2026-04-19T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CN",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Yangtze River Delta International Youth Film Festival",
+          "release_date": "2026-10-18T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "CO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "MUBI Fest Bogotá",
+          "release_date": "2026-10-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "DE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "MUBI Fest Berlin",
+          "release_date": "2026-10-04T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "EG",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "El Gouna Film Festival",
+          "release_date": "2026-10-22T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ES",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Valladolid International Film Festival",
+          "release_date": "2026-10-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ES",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Rizoma Festival",
+          "release_date": "2026-11-22T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ES",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Sevilla European Film Festival",
+          "release_date": "2026-11-08T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "FR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "La Rochelle International Film Festival ",
+          "release_date": "2026-07-02T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bath Film Festival",
+          "release_date": "2026-10-23T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "MUBI Fest London / Inverness Film Festival",
+          "release_date": "2026-11-13T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Belfast Film Festival",
+          "release_date": "2026-11-07T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Leeds International Film Festival",
+          "release_date": "2026-10-29T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "International Film Festival Glasgow",
+          "release_date": "2026-11-11T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "CINECITY Brighton Film Festival",
+          "release_date": "2026-11-08T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GB",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Cheltenham Film Festival",
+          "release_date": "2026-11-03T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "GR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Athens International Film Festival",
+          "release_date": "2026-10-09T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "HK",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Hong Kong International Film Festival",
+          "release_date": "2026-04-09T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "HR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Zagreb Film Festival",
+          "release_date": "2026-11-12T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "HU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Miskolc International Film Festival",
+          "release_date": "2026-09-09T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ID",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Jakarta Film Week",
+          "release_date": "2026-10-23T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ID",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Jakarta World Cinema",
+          "release_date": "2026-11-02T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "ID",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bandung World Cinema",
+          "release_date": "2026-11-16T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "IE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Cork International Film Festival",
+          "release_date": "2026-11-15T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "IL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Jerusalem Film Festival",
+          "release_date": "2026-07-16T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "IL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "de",
+          "note": "Haifa Film Festival",
+          "release_date": "2026-09-26T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "IN",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "en",
+          "note": "Dharamshala International Film Festival",
+          "release_date": "2026-10-29T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "IN",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Dharamshala International Film Festival",
+          "release_date": "2026-10-31T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "IT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bellaria Film Festival",
+          "release_date": "2026-05-07T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "LT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "European Film Festival Scanorama",
+          "release_date": "2026-11-07T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "LU",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Luxembourg City Film Festival",
+          "release_date": "2026-03-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "LV",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Riga International Film Festival",
+          "release_date": "2026-10-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "MN",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Ulaanbaatar International Film Festival",
+          "release_date": "2026-10-18T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "MY",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "KinoFest German Film Festival",
+          "release_date": "2026-10-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Film by the Sea International Film Festival",
+          "release_date": "2026-09-20T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Parool Film Fest",
+          "release_date": "2026-10-08T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Norwegian International Film Festival",
+          "release_date": "2026-08-23T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bergen International Film Festival",
+          "release_date": "2026-10-14T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "NZ",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "New Zealand International Film Festival",
+          "release_date": "2026-07-30T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "KinoFest",
+          "release_date": "2026-10-15T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PL",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "New Horizons International Film Festival",
+          "release_date": "2026-07-26T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "PT",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "IndieLisboa International Film Festival ",
+          "release_date": "2026-05-04T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "RO",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Transilvania International Film Festival",
+          "release_date": "2026-06-13T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "SE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Stockholm International Film Festival",
+          "release_date": "2026-11-13T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "SG",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Singapore International Film Festival",
+          "release_date": "2026-10-25T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "SI",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Ljubljana International Film Festival",
+          "release_date": "2026-11-13T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TH",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Bangkok International Film Festival",
+          "release_date": "2026-09-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Istanbul Film Festival",
+          "release_date": "2026-04-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Ayvalık International Film Festival",
+          "release_date": "2026-09-17T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "TW",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Taipei Film Festival",
+          "release_date": "2026-06-27T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "UA",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Austrian Film Week",
+          "release_date": "2026-05-23T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Telluride Film Festival",
+          "release_date": "2026-09-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Mill Valley Film Festival",
+          "release_date": "2026-10-08T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Hamptons International Film Festival",
+          "release_date": "2026-10-10T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "New Hampshire Film Festival / Chicago International Film Festival / Middleburg Film Festival",
+          "release_date": "2026-10-16T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Orcas Island Film Festival",
+          "release_date": "2026-10-14T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Montclair Film Festival",
+          "release_date": "2026-10-21T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Virginia Film Festival",
+          "release_date": "2026-10-23T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "IFFBoston Fall Focus",
+          "release_date": "2026-10-11T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "SCAD Savannah Film Festival",
+          "release_date": "2026-10-26T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Vermont International Film Festival",
+          "release_date": "2026-10-22T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Denver Film Festival",
+          "release_date": "2026-10-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Miami Film Festival GEMS",
+          "release_date": "2026-10-31T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Key West Film Festival",
+          "release_date": "2026-11-19T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "VN",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "KinoFest 2026",
+          "release_date": "2026-11-05T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1176962,
+          "title": "Rose",
+          "year": "2026",
+          "runtime": 94,
+          "directors": [
+            "Markus Schleinzer"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/salsa",
+      "title": "¡Salsa!",
+      "status": "matched",
+      "filmId": "amor-2026/salsa",
+      "method": "strict_rule_v1",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1281066,
+      "appearances": 0,
+      "boundTmdbId": 1281066,
+      "catalogueYear": 2024,
+      "tmdbYear": 2024,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "BE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Pink Screens Festival (Brussels)",
+          "release_date": "2025-11-01T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Tribeca  Film Festival",
+          "release_date": "2024-06-07T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1281066,
+          "title": "¡Salsa!",
+          "year": "2024",
+          "runtime": 14,
+          "directors": [
+            "Antonina Kerguelén Román"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/terra",
+      "title": "Terra",
+      "status": "matched",
+      "filmId": "sanfic-2026/bloque-03-cortometrajes/Terra",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1677375,
+      "appearances": 0,
+      "boundTmdbId": 1677375,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "BR",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "pt",
+          "note": "FID:RIO",
+          "release_date": "2026-07-31T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1677375,
+          "title": "Terra",
+          "year": "2026",
+          "runtime": 14,
+          "directors": [
+            "Amadis T. Loyer"
+          ],
+          "problems": []
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/the-wind-in-ash",
+      "title": "The wind in ash",
+      "status": "matched",
+      "filmId": "amor-2026/the-wind-in-ash",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "title",
+        "year"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1677762,
+      "appearances": 1,
+      "boundTmdbId": 1677762,
+      "catalogueYear": 2024,
+      "tmdbYear": 2025,
+      "yearStatus": "tmdb_authoritative",
+      "unclassifiedPremieres": [
+        {
+          "country": "DE",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "Hamburg International Queer Film Festival ",
+          "release_date": "2026-10-15T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "country": "US",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "",
+          "release_date": "2025-12-01T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1677762,
+          "title": "Xiaoxiao",
+          "year": "2025",
+          "runtime": 18,
+          "directors": [
+            "Kun Sun"
+          ],
+          "problems": [
+            "title",
+            "year"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/travesti-travesti-travesti",
+      "title": "Travesti travesti travesti",
+      "status": "unmatched",
+      "filmId": "amor-2026/travesti-travesti-travesti",
+      "method": null,
+      "reason": "no_accepted_candidate",
+      "retained": false,
+      "discrepancies": [],
+      "search": {
+        "queries": [
+          {
+            "query": "Travesti travesti travesti",
+            "year": "2024",
+            "page": 1
+          },
+          {
+            "query": "Travesti travesti travesti",
+            "year": null,
+            "page": 1
+          },
+          {
+            "query": "Travesti travesti travesti",
+            "year": null,
+            "page": 2
+          }
+        ],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": null,
+      "appearances": 0,
+      "boundTmdbId": null,
+      "catalogueYear": 2024,
+      "tmdbYear": null,
+      "yearStatus": "catalogue_fallback",
+      "unclassifiedPremieres": [],
+      "candidates": [
+        {
+          "id": 1111134,
+          "title": "Operación Travesti",
+          "year": "2024",
+          "runtime": 64,
+          "directors": [
+            "Rodrigo Ottaviano"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1427078,
+          "title": "Siempre Travesti",
+          "year": "2024",
+          "runtime": 10,
+          "directors": [
+            "Julio César Ayca"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1273410,
+          "title": "Sagrada Travesti do Evangelho",
+          "year": "2024",
+          "runtime": 0,
+          "directors": [
+            "Júlia F. Cândida"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1569573,
+          "title": "Venganza travestí",
+          "year": "2024",
+          "runtime": 0,
+          "directors": [
+            "Tina Paparelli"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "runtime"
+          ]
+        },
+        {
+          "id": 69132,
+          "title": "El travesti",
+          "year": "1988",
+          "runtime": 107,
+          "directors": [
+            "Yves Boisset"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1549466,
+          "title": "Santa travesti",
+          "year": "2025",
+          "runtime": 5,
+          "directors": [
+            "Manu Portillo"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1816124,
+          "title": "Soy travesti",
+          "year": "",
+          "runtime": 88,
+          "directors": [
+            "Marisol S. Rodríguez"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 821044,
+          "title": "Eu, Travesti?",
+          "year": "2014",
+          "runtime": 4,
+          "directors": [
+            "Leandro Santos"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1380219,
+          "title": "Entrada Travesti",
+          "year": "2025",
+          "runtime": 19,
+          "directors": [
+            "J Triangular"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1409107,
+          "title": "Santa Travesti",
+          "year": "2016",
+          "runtime": 10,
+          "directors": [
+            "Fred Amado Jimenez de la Rosa"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 602289,
+          "title": "Invasión Travesti",
+          "year": "2000",
+          "runtime": 50,
+          "directors": [
+            "Paco Cabezas",
+            "Jerónimo de los Santos"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 883764,
+          "title": "Travesía Travesti",
+          "year": "2021",
+          "runtime": 93,
+          "directors": [
+            "Nicolás Videla"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1624544,
+          "title": "Summa Daemoniaca Travesti",
+          "year": "2026",
+          "runtime": 6,
+          "directors": [
+            "Natalia González Martín"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1437441,
+          "title": "Le Prince travesti",
+          "year": "1972",
+          "runtime": 0,
+          "directors": [
+            "Jacques Charon"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 723497,
+          "title": "Profissão: Travesti",
+          "year": "1981",
+          "runtime": 38,
+          "directors": [
+            "Olívio Tavares de Araujo"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 426049,
+          "title": "La ingenua, la lesbiana y el travesti",
+          "year": "1983",
+          "runtime": 73,
+          "directors": [
+            "Alfonso Balcázar"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 351326,
+          "title": "El marqués, la menor y el travesti",
+          "year": "1983",
+          "runtime": 75,
+          "directors": [
+            "Alfonso Balcázar"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 1042375,
+          "title": "Lamento de Força Travesti",
+          "year": "2022",
+          "runtime": 5,
+          "directors": [
+            "Renna Costa"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 176107,
+          "title": "Slightly Dangerous",
+          "year": "1943",
+          "runtime": 94,
+          "directors": [
+            "Wesley Ruggles"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 40349,
+          "title": "Amigo de plumas finas",
+          "year": "1942",
+          "runtime": 8,
+          "directors": [
+            "Joseph Barbera",
+            "William Hanna"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        },
+        {
+          "id": 316070,
+          "title": "Mi novia el…",
+          "year": "1975",
+          "runtime": 83,
+          "directors": [
+            "Enrique Cahen Salaberry"
+          ],
+          "problems": [
+            "title",
+            "director",
+            "year",
+            "runtime"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "amor-2026/ultramarino",
+      "title": "Ultramarino",
+      "status": "matched",
+      "filmId": "amor-2026/ultramarino",
+      "method": "manual",
+      "reason": null,
+      "retained": false,
+      "discrepancies": [
+        "director"
+      ],
+      "search": {
+        "queries": [],
+        "truncated": false,
+        "maxPages": 2,
+        "maxCandidates": 40
+      },
+      "tmdbId": 1542685,
+      "appearances": 0,
+      "boundTmdbId": 1542685,
+      "catalogueYear": 2026,
+      "tmdbYear": 2026,
+      "yearStatus": "consistent",
+      "unclassifiedPremieres": [
+        {
+          "country": "ES",
+          "certification": "",
+          "descriptors": [],
+          "iso_639_1": "",
+          "note": "",
+          "release_date": "2025-09-24T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "candidates": [
+        {
+          "id": 1542685,
+          "title": "Ultramarino",
+          "year": "2026",
+          "runtime": 19,
+          "directors": [
+            "Maren Zubeldia",
+            "Silvina Guglielmotti"
+          ],
+          "problems": [
+            "director"
+          ]
+        }
+      ]
+    },
     {
       "key": "ficvina-2026/31-minutos",
       "title": "31 minutos, la película",

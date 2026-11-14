@@ -1,0 +1,334 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1604238?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:40.380Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 1604238,
+    "imdb_id": null,
+    "origin_country": [
+      "ID"
+    ],
+    "original_language": "id",
+    "original_title": "Rose",
+    "overview": "",
+    "popularity": 0.5593,
+    "poster_path": null,
+    "production_companies": [
+      {
+        "id": 117091,
+        "logo_path": "/bZPFJ5OvQfbguvcpJmaCMuDtOfk.png",
+        "name": "Summerland",
+        "origin_country": "ID"
+      },
+      {
+        "id": 102972,
+        "logo_path": "/7ASWYyZB8yrD9056qk4dz2UliNj.png",
+        "name": "Movie Studio Bali",
+        "origin_country": "ID"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ID",
+        "name": "Indonesia"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Indonesian",
+        "iso_639_1": "id",
+        "name": "Bahasa indonesia"
+      }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Rose",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1185538,
+          "known_for_department": "Acting",
+          "name": "Pevita Pearce",
+          "original_name": "Pevita Pearce",
+          "popularity": 0.8016,
+          "profile_path": "/kLmhQZQSEZ4qqbHvJmtjaWJV5Xt.jpg",
+          "cast_id": 1,
+          "character": "Rose Pandanwangi",
+          "credit_id": "694e48236b4ff0c5b0074861",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1773691,
+          "known_for_department": "Acting",
+          "name": "Refal Hady",
+          "original_name": "Refal Hady",
+          "popularity": 0.3198,
+          "profile_path": "/5EzHYzTCCrSI6eflhjKYc7mNl4k.jpg",
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "694e4851a72dd476db072b56",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1203392,
+          "known_for_department": "Acting",
+          "name": "Afgansyah Reza",
+          "original_name": "Afgansyah Reza",
+          "popularity": 0.2667,
+          "profile_path": "/oBzOUvnQNb9gWQl0iUbCnlXg2KR.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "6967bddc5f8e511173487d3b",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2310501,
+          "known_for_department": "Acting",
+          "name": "Ridho Hafiedz",
+          "original_name": "Ridho Hafiedz",
+          "popularity": 0.0955,
+          "profile_path": "/mlGGg6h4gg1VpQX0rBw6hsCHm0P.jpg",
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "6aa544ae5bbba89a7f222178",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3802889,
+          "known_for_department": "Acting",
+          "name": "Ony Seroja-Hafiedz",
+          "original_name": "Ony Seroja-Hafiedz",
+          "popularity": 0.2209,
+          "profile_path": "/baBEYgPCyvoHzlckp20FGDRuFEw.jpg",
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "6aa544bd21c02469c335dc9e",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2240606,
+          "known_for_department": "Acting",
+          "name": "Maya Hasan",
+          "original_name": "Maya Hasan",
+          "popularity": 0.2932,
+          "profile_path": "/yDc3vG8WCRSh5cnSQdFPQu2kySf.jpg",
+          "cast_id": 10,
+          "character": "",
+          "credit_id": "6aa544d24600b99299a825c0",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2087318,
+          "known_for_department": "Production",
+          "name": "Janna Soekasah",
+          "original_name": "Janna Soekasah",
+          "popularity": 0.1503,
+          "profile_path": "/7HA64QYe7l4kq4ZY3MbjbqpXIpI.jpg",
+          "cast_id": 11,
+          "character": "",
+          "credit_id": "6aa544dfd968c94086a82325",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2021578,
+          "known_for_department": "Acting",
+          "name": "Anjasmara",
+          "original_name": "Anjasmara",
+          "popularity": 0.3887,
+          "profile_path": "/mbijUfJ4TTadYsICL8sU57xqHVZ.jpg",
+          "cast_id": 12,
+          "character": "",
+          "credit_id": "6aa5450041cde9672c35dc42",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1157593,
+          "known_for_department": "Acting",
+          "name": "Rahayu Saraswati",
+          "original_name": "Rahayu Saraswati",
+          "popularity": 0.2557,
+          "profile_path": "/b999TOsDiVLH4IiZuS8ZD0ySlkS.jpg",
+          "cast_id": 13,
+          "character": "Ayu",
+          "credit_id": "6aa54512086b3e20d307047b",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1158144,
+          "known_for_department": "Acting",
+          "name": "Happy Salma",
+          "original_name": "Happy Salma",
+          "popularity": 0.5782,
+          "profile_path": "/4xUBznXkccTNZ4Rqb2P0YX8YpET.jpg",
+          "cast_id": 14,
+          "character": "",
+          "credit_id": "6aa54521ce22feb998070484",
+          "order": 9
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2137583,
+          "known_for_department": "Directing",
+          "name": "Razka Robby Ertanto",
+          "original_name": "Razka Robby Ertanto",
+          "popularity": 0.2887,
+          "profile_path": "/5g67zziMT5tB2KICEOvfm06haPa.jpg",
+          "credit_id": "694e48760b16c9b9f9154d19",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3654912,
+          "known_for_department": "Directing",
+          "name": "Kristine Joy A. De Leon",
+          "original_name": "Kristine Joy A. De Leon",
+          "popularity": 0.1852,
+          "profile_path": null,
+          "credit_id": "694e48f2ec0d74776bb1c292",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1454165,
+          "known_for_department": "Acting",
+          "name": "Chelsea Islan",
+          "original_name": "Chelsea Islan",
+          "popularity": 0.457,
+          "profile_path": "/j5kfa8wHq0rMPbLMaXI5T6UbF22.jpg",
+          "credit_id": "6aa543deb6bc433c4b070474",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2137583,
+          "known_for_department": "Directing",
+          "name": "Razka Robby Ertanto",
+          "original_name": "Razka Robby Ertanto",
+          "popularity": 0.2887,
+          "profile_path": "/5g67zziMT5tB2KICEOvfm06haPa.jpg",
+          "credit_id": "6aa543fb1c0b4bbbf3070420",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1399113,
+          "known_for_department": "Art",
+          "name": "Vida Sylvia",
+          "original_name": "Vida Sylvia",
+          "popularity": 0.3144,
+          "profile_path": "/k0vpSib3sntA78z5jPKYlHjaAKI.jpg",
+          "credit_id": "6aa5453f62d89d09a0d53a33",
+          "department": "Production",
+          "job": "Production Designer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2419637,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Aktris Handradjasa",
+          "original_name": "Aktris Handradjasa",
+          "popularity": 0.3131,
+          "profile_path": "/ETMjHt3IOmEEFyhXn9gfnkzQs9.jpg",
+          "credit_id": "6aa5454d1c0b4bbbf307042a",
+          "department": "Costume & Make-Up",
+          "job": "Makeup & Hair"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1496774,
+          "known_for_department": "Camera",
+          "name": "Odyssey Flores",
+          "original_name": "Odyssey Flores",
+          "popularity": 0.2565,
+          "profile_path": "/6Igy0jLN5PHh76uz7FdgPdVx59l.jpg",
+          "credit_id": "6aa54562c6d40bdde135dca2",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1381755,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Retno Ratih Damayanti",
+          "original_name": "Retno Ratih Damayanti",
+          "popularity": 0.1423,
+          "profile_path": "/1zvkN6rfGSflTnLeeyTub9e0EDz.jpg",
+          "credit_id": "6aa5459136ea867d7e74a3ec",
+          "department": "Costume & Make-Up",
+          "job": "Costume Designer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "ID",
+          "title": "Rose Pandanwangi",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

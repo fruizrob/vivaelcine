@@ -1,0 +1,31 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Jim+Queen&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-14T05:13:17.687Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/gZDF8oChSplhdwTCjFR1SHwKw8s.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 1061798,
+        "title": "Jim Queen",
+        "original_language": "fr",
+        "original_title": "Jim Queen",
+        "overview": "En la escena gay parisina, Jim es el rey de Gym Queens, la comunidad más sexy y codiciada de las redes sociales. Un día, se da cuenta de que ha sido infectado por Heterosis, un extraño virus que diezma la comunidad y convierte a los gays en... ¡heterosexuales! Jim pierde su trono y es abandonado por todo su entorno. Todos menos un seguidor: Lucien, un escuálido joven virgen. Juntos, emprenden un viaje a través del Marais (el pueblo gay parisino), en busca del misterioso doctor Ragoult, que afirma haber encontrado una cura para el virus. Esta cura no sólo podría salvar a Jim, sino también evitar la extinción de la homosexualidad.",
+        "popularity": 6.5041,
+        "poster_path": "/mpF0hbb9Z0SUuYSxLK2PUYImFjJ.jpg",
+        "release_date": "2026-06-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 101
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

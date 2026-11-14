@@ -1,0 +1,213 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/585044?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:07.881Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 585044,
+    "imdb_id": "tt3830514",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "A Delay",
+    "overview": "",
+    "popularity": 0.1316,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2014-01-01",
+    "revenue": 0,
+    "runtime": 30,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "A Delay",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2251660,
+          "known_for_department": "Acting",
+          "name": "Tanya Cubric",
+          "original_name": "Tanya Cubric",
+          "popularity": 0.1243,
+          "profile_path": "/32DLjxV3ZGHJbMf4Vhra7FxOg1t.jpg",
+          "cast_id": 1,
+          "character": "Isabella",
+          "credit_id": "5c761695925141689256185e",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2251663,
+          "known_for_department": "Acting",
+          "name": "Komal Amin",
+          "original_name": "Komal Amin",
+          "popularity": 0.1388,
+          "profile_path": "/fPnaW1hKqd8PvbPMWg5L1buyhaj.jpg",
+          "cast_id": 2,
+          "character": "Dina",
+          "credit_id": "5c7616a692514168975655cc",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2251664,
+          "known_for_department": "Acting",
+          "name": "Emma Bown",
+          "original_name": "Emma Bown",
+          "popularity": 0.0895,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Madeleine",
+          "credit_id": "5c7616b7925141688c56368c",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1856231,
+          "known_for_department": "Acting",
+          "name": "Tim Charles",
+          "original_name": "Tim Charles",
+          "popularity": 0.1396,
+          "profile_path": "/762zdbRpdUy21EEhfwTKMcLoPoX.jpg",
+          "cast_id": 4,
+          "character": "Vincent",
+          "credit_id": "5c7616cf92514168955629d4",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1297678,
+          "known_for_department": "Acting",
+          "name": "Jeremi Durand",
+          "original_name": "Jeremi Durand",
+          "popularity": 0.1548,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Victor",
+          "credit_id": "5c7616f4c3a3684818d52930",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1691413,
+          "known_for_department": "Production",
+          "name": "Géraldine Feraud-Miniconi",
+          "original_name": "Géraldine Feraud-Miniconi",
+          "popularity": 0.0628,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "5c761704c3a3684846d5cacc",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1359412,
+          "known_for_department": "Acting",
+          "name": "Toby Liszt",
+          "original_name": "Toby Liszt",
+          "popularity": 0.1058,
+          "profile_path": null,
+          "cast_id": 7,
+          "character": "Francis",
+          "credit_id": "5c76171e0e0a260b491c73f0",
+          "order": 6
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2251668,
+          "known_for_department": "Directing",
+          "name": "Lo Xu-Ming Tong",
+          "original_name": "Lo Xu-Ming Tong",
+          "popularity": 0.0837,
+          "profile_path": null,
+          "credit_id": "5c7617310e0a260b5d1c724f",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2251668,
+          "known_for_department": "Directing",
+          "name": "Lo Xu-Ming Tong",
+          "original_name": "Lo Xu-Ming Tong",
+          "popularity": 0.0837,
+          "profile_path": null,
+          "credit_id": "5c76173a9251416895562ab2",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2251670,
+          "known_for_department": "Crew",
+          "name": "Avolio Kane",
+          "original_name": "Avolio Kane",
+          "popularity": 0.0746,
+          "profile_path": null,
+          "credit_id": "5c76174fc3a3684820d58657",
+          "department": "Crew",
+          "job": "Cinematography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "GB",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2014-01-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

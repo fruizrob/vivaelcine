@@ -1,0 +1,31 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Dreams+%28Sex+Love%29&include_adult=false&language=es-ES&year=2024",
+  "retrievedAt": "2026-11-14T05:13:13.689Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/gjUk32ohE9A05Y4NK9bbkCkAgMB.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 1228682,
+        "title": "Sueños en Oslo",
+        "original_language": "no",
+        "original_title": "Drømmer",
+        "overview": "Johanne es una chica que se enamora perdidamente de su profesora de francés, experimentando su primer amor intenso. Deseando preservar sus sentimientos, la joven documenta sus emociones y experiencias por escrito. Cuando su madre y su abuela leen lo que ha escrito, al principio reaccionan con sorpresa ante su contenido íntimo, pero pronto quedan cautivadas por sus cualidades literarias. Mientras debaten sobre la moralidad y las posibles consecuencias de publicar los escritos de Johanne, ésta navega por el contraste entre los ideales románticos y la realidad, sumergiéndose en un viaje a través de las intensas emociones del autodescubrimiento, el amor y la sexualidad.",
+        "popularity": 1.3871,
+        "poster_path": "/5BRlnpdZTzt2JDujAizDwDYQCNs.jpg",
+        "release_date": "2024-10-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 107
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/67043?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:13.111Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/zUkj11S2rJkR5avBoqZzpCFAuFx.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 67043,
+    "imdb_id": "tt0039623",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Mickey's Delayed Date",
+    "overview": "Mickey, profundamente dormido, recibe la llamada de Minnie, que le espera a la entrada de una fiesta.",
+    "popularity": 1.0234,
+    "poster_path": "/esH8T5lpF1VtaoY4OuYkux0p2Wo.jpg",
+    "production_companies": [
+      {
+        "id": 3166,
+        "logo_path": "/jmPS1qPfKnISciDF7RnUbh48jvK.png",
+        "name": "Walt Disney Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1947-10-03",
+    "revenue": 0,
+    "runtime": 7,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mickey Mouse: La cita retrasada de Mickey",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 70,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2106,
+          "known_for_department": "Production",
+          "name": "Walt Disney",
+          "original_name": "Walt Disney",
+          "popularity": 2.5834,
+          "profile_path": "/xtnOuQtUHv2Pu0ryhsqGKpAPCmK.jpg",
+          "cast_id": 14,
+          "character": "Mickey Mouse (voice)",
+          "credit_id": "52fe4755c3a368484e0c1405",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 217748,
+          "known_for_department": "Acting",
+          "name": "Ruth Clifford",
+          "original_name": "Ruth Clifford",
+          "popularity": 0.5185,
+          "profile_path": "/l5x0tNNX59PmF03566UqNu140OT.jpg",
+          "cast_id": 15,
+          "character": "Minnie Mouse (voice)",
+          "credit_id": "52fe4755c3a368484e0c1409",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5462,
+          "known_for_department": "Acting",
+          "name": "Pinto Colvig",
+          "original_name": "Pinto Colvig",
+          "popularity": 0.7979,
+          "profile_path": "/jslBLHuV1cOKsyx763CA1RqsrQU.jpg",
+          "cast_id": 16,
+          "character": "Pluto (voice)",
+          "credit_id": "52fe4755c3a368484e0c140d",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 551639,
+          "known_for_department": "Visual Effects",
+          "name": "Jerry Hathcock",
+          "original_name": "Jerry Hathcock",
+          "popularity": 0.1706,
+          "profile_path": null,
+          "credit_id": "52fe4755c3a368484e0c13c5",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 150755,
+          "known_for_department": "Visual Effects",
+          "name": "George Nicholas",
+          "original_name": "George Nicholas",
+          "popularity": 0.2165,
+          "profile_path": null,
+          "credit_id": "52fe4755c3a368484e0c13d1",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2106,
+          "known_for_department": "Production",
+          "name": "Walt Disney",
+          "original_name": "Walt Disney",
+          "popularity": 2.5834,
+          "profile_path": "/xtnOuQtUHv2Pu0ryhsqGKpAPCmK.jpg",
+          "credit_id": "52fe4755c3a368484e0c13bf",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 148253,
+          "known_for_department": "Visual Effects",
+          "name": "Jack Boyd",
+          "original_name": "Jack Boyd",
+          "popularity": 0.201,
+          "profile_path": null,
+          "credit_id": "52fe4755c3a368484e0c13d7",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 106834,
+          "known_for_department": "Directing",
+          "name": "Charles August Nichols",
+          "original_name": "Charles August Nichols",
+          "popularity": 0.545,
+          "profile_path": "/snW6gzNEMN3sWJeddHwz3ljhVN3.jpg",
+          "credit_id": "52fe4755c3a368484e0c1413",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 64868,
+          "known_for_department": "Sound",
+          "name": "Oliver Wallace",
+          "original_name": "Oliver Wallace",
+          "popularity": 0.2948,
+          "profile_path": null,
+          "credit_id": "52fe4755c3a368484e0c13ef",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 150051,
+          "known_for_department": "Visual Effects",
+          "name": "Harry Holt",
+          "original_name": "Harry Holt",
+          "popularity": 0.1777,
+          "profile_path": null,
+          "credit_id": "52fe4755c3a368484e0c13f5",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 148180,
+          "known_for_department": "Visual Effects",
+          "name": "George Kreisl",
+          "original_name": "George Kreisl",
+          "popularity": 0.2988,
+          "profile_path": null,
+          "credit_id": "52fe4755c3a368484e0c13cb",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 222314,
+          "known_for_department": "Writing",
+          "name": "Art Scott",
+          "original_name": "Art Scott",
+          "popularity": 0.1501,
+          "profile_path": null,
+          "credit_id": "52fe4755c3a368484e0c13e9",
+          "department": "Writing",
+          "job": "Story"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 150758,
+          "known_for_department": "Visual Effects",
+          "name": "Marvin Woodward",
+          "original_name": "Marvin Woodward",
+          "popularity": 0.2883,
+          "profile_path": null,
+          "credit_id": "52fe4755c3a368484e0c13fb",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 573996,
+          "known_for_department": "Visual Effects",
+          "name": "Robert W. Youngquist",
+          "original_name": "Robert W. Youngquist",
+          "popularity": 0.1044,
+          "profile_path": null,
+          "credit_id": "52fe4755c3a368484e0c1401",
+          "department": "Visual Effects",
+          "job": "Animation"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1060554,
+          "known_for_department": "Art",
+          "name": "Art Landy",
+          "original_name": "Art Landy",
+          "popularity": 0.2121,
+          "profile_path": null,
+          "credit_id": "52fe4755c3a368484e0c13dd",
+          "department": "Art",
+          "job": "Background Designer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 570145,
+          "known_for_department": "Directing",
+          "name": "Karl Karpé",
+          "original_name": "Karl Karpé",
+          "popularity": 0.1962,
+          "profile_path": null,
+          "credit_id": "569f59719251413849001988",
+          "department": "Directing",
+          "job": "Layout"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "NR",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "",
+              "release_date": "1947-10-03T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "DE",
+          "title": "Tanzabend",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "La cita retrasada de Mickey",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "IT",
+          "title": "Topolino fa tardi",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "SE",
+          "title": "Musse Pigg - Tur i oturen",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "ES",
+          "title": "Mickey olvida su cita",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "DE",
+          "title": "Micky geht zur Party",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

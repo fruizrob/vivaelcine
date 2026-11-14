@@ -1,0 +1,365 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/26120?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:23.071Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/A2Yv9KcK1u10NIYWzdXCVp3M54i.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 26120,
+    "imdb_id": "tt0438327",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Plagues and Pleasures on the Salton Sea",
+    "overview": "",
+    "popularity": 0.4887,
+    "poster_path": "/sJFqayhJbkKYpa5YtIUh9gyssbe.jpg",
+    "production_companies": [
+      {
+        "id": 213259,
+        "logo_path": "/1Q8t7S0ZeoubTIlZV7aXQObGvVU.png",
+        "name": "Tilapia Film",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2006-02-24",
+    "revenue": 0,
+    "runtime": 57,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Plagues and Pleasures on the Salton Sea",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 11,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 10367,
+          "known_for_department": "Directing",
+          "name": "John Waters",
+          "original_name": "John Waters",
+          "popularity": 2.4082,
+          "profile_path": "/4foU1kJ24CJwz2RVZgyc7oxMs4i.jpg",
+          "cast_id": 1,
+          "character": "Self - Narrator (voice)",
+          "credit_id": "52fe44eec3a368484e03ef95",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 67949,
+          "known_for_department": "Acting",
+          "name": "Sonny Bono",
+          "original_name": "Sonny Bono",
+          "popularity": 0.9358,
+          "profile_path": "/lf3RiHakkpqcoAYeJJhDzmpr4H6.jpg",
+          "cast_id": 12,
+          "character": "Himself (archival footage)",
+          "credit_id": "52fe44eec3a368484e03efd5",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1034532,
+          "known_for_department": "Acting",
+          "name": "Norm Niver",
+          "original_name": "Norm Niver",
+          "popularity": 0.0899,
+          "profile_path": null,
+          "cast_id": 13,
+          "character": "Himself",
+          "credit_id": "52fe44eec3a368484e03efd9",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1034533,
+          "known_for_department": "Acting",
+          "name": "Petre Melvin",
+          "original_name": "Petre Melvin",
+          "popularity": 0.0501,
+          "profile_path": null,
+          "cast_id": 14,
+          "character": "Himself",
+          "credit_id": "52fe44eec3a368484e03efdd",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1034534,
+          "known_for_department": "Acting",
+          "name": "Leonard Knight",
+          "original_name": "Leonard Knight",
+          "popularity": 0.1185,
+          "profile_path": "/5mPG4LyuFjW7H56oHvJ7GyGw9rI.jpg",
+          "cast_id": 15,
+          "character": "Himself",
+          "credit_id": "52fe44eec3a368484e03efe1",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1034535,
+          "known_for_department": "Acting",
+          "name": "Bobbie Todhunter",
+          "original_name": "Bobbie Todhunter",
+          "popularity": 0.147,
+          "profile_path": null,
+          "cast_id": 16,
+          "character": "Herself",
+          "credit_id": "52fe44eec3a368484e03efe5",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1034536,
+          "known_for_department": "Acting",
+          "name": "Steve Horvitz",
+          "original_name": "Steve Horvitz",
+          "popularity": 0.0699,
+          "profile_path": null,
+          "cast_id": 17,
+          "character": "Himself",
+          "credit_id": "52fe44eec3a368484e03efe9",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1034537,
+          "known_for_department": "Acting",
+          "name": "Lechon Rainey",
+          "original_name": "Lechon Rainey",
+          "popularity": 0.0639,
+          "profile_path": null,
+          "cast_id": 18,
+          "character": "Herself",
+          "credit_id": "52fe44eec3a368484e03efed",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1034538,
+          "known_for_department": "Acting",
+          "name": "Paul Clement",
+          "original_name": "Paul Clement",
+          "popularity": 0.0307,
+          "profile_path": null,
+          "cast_id": 19,
+          "character": "Himself",
+          "credit_id": "52fe44eec3a368484e03eff1",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 935512,
+          "known_for_department": "Acting",
+          "name": "Newt Gingrich",
+          "original_name": "Newt Gingrich",
+          "popularity": 0.458,
+          "profile_path": "/A1ehXjF0gY8bax7tF1be9R1JbkM.jpg",
+          "cast_id": 20,
+          "character": "Self (archival footage)",
+          "credit_id": "68cb72a58558ad780ccf44a1",
+          "order": 9
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 226622,
+          "known_for_department": "Directing",
+          "name": "Chris Metzler",
+          "original_name": "Chris Metzler",
+          "popularity": 0.189,
+          "profile_path": null,
+          "credit_id": "52fe44eec3a368484e03ef9b",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 226623,
+          "known_for_department": "Editing",
+          "name": "Jeff Springer",
+          "original_name": "Jeff Springer",
+          "popularity": 0.0921,
+          "profile_path": null,
+          "credit_id": "52fe44eec3a368484e03efa1",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1034528,
+          "known_for_department": "Production",
+          "name": "Chris Metzler\t",
+          "original_name": "Chris Metzler\t",
+          "popularity": 0.1196,
+          "profile_path": null,
+          "credit_id": "52fe44eec3a368484e03efa7",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1034529,
+          "known_for_department": "Sound",
+          "name": "Bill Elm",
+          "original_name": "Bill Elm",
+          "popularity": 0.1007,
+          "profile_path": null,
+          "credit_id": "52fe44eec3a368484e03efad",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 226622,
+          "known_for_department": "Directing",
+          "name": "Chris Metzler",
+          "original_name": "Chris Metzler",
+          "popularity": 0.189,
+          "profile_path": null,
+          "credit_id": "52fe44eec3a368484e03efb9",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 226623,
+          "known_for_department": "Editing",
+          "name": "Jeff Springer",
+          "original_name": "Jeff Springer",
+          "popularity": 0.0921,
+          "profile_path": null,
+          "credit_id": "52fe44eec3a368484e03efbf",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 226623,
+          "known_for_department": "Editing",
+          "name": "Jeff Springer",
+          "original_name": "Jeff Springer",
+          "popularity": 0.0921,
+          "profile_path": null,
+          "credit_id": "52fe44eec3a368484e03efc5",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1034530,
+          "known_for_department": "Sound",
+          "name": "Scott Hirsch",
+          "original_name": "Scott Hirsch",
+          "popularity": 0.1306,
+          "profile_path": null,
+          "credit_id": "52fe44eec3a368484e03efcb",
+          "department": "Sound",
+          "job": "Sound mixer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1034531,
+          "known_for_department": "Visual Effects",
+          "name": "Josh Kurz",
+          "original_name": "Josh Kurz",
+          "popularity": 0.0441,
+          "profile_path": null,
+          "credit_id": "52fe44eec3a368484e03efd1",
+          "department": "Visual Effects",
+          "job": "Visual Effects"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "Boulder International Film Festival",
+              "release_date": "2005-02-20T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "Milwaukee International Film Festival",
+              "release_date": "2004-10-29T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "en",
+              "note": "Slamdance Film Festival",
+              "release_date": "2004-01-12T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2006-02-24T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

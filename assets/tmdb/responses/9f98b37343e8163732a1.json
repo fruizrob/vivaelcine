@@ -1,0 +1,203 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1272985?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:16:17.367Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/fSV3nPawVKbfTMXjEvdKoWQ83WM.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1272985,
+    "imdb_id": "tt32085309",
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Dancing Heartbeats",
+    "overview": "",
+    "popularity": 0.1982,
+    "poster_path": "/3g1EfuwgKU3N6DMQjZwhk6uAR9F.jpg",
+    "production_companies": [
+      {
+        "id": 16975,
+        "logo_path": null,
+        "name": "Lichtblick Film- und Fernsehproduktion (I)",
+        "origin_country": "DE"
+      },
+      {
+        "id": 46,
+        "logo_path": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+        "name": "WDR",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2024-05-09",
+    "revenue": 0,
+    "runtime": 92,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dancing Heartbeats",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4646593,
+          "known_for_department": "Directing",
+          "name": "Lisa Wagner",
+          "original_name": "Lisa Wagner",
+          "popularity": 0.0241,
+          "profile_path": null,
+          "credit_id": "661782717e12f0017cf1c7a4",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4646593,
+          "known_for_department": "Directing",
+          "name": "Lisa Wagner",
+          "original_name": "Lisa Wagner",
+          "popularity": 0.0241,
+          "profile_path": null,
+          "credit_id": "6617828cd8f44e017c2eb07c",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4646596,
+          "known_for_department": "Writing",
+          "name": "Elke Brugger",
+          "original_name": "Elke Brugger",
+          "popularity": 0.0799,
+          "profile_path": null,
+          "credit_id": "66178294d133240186e45109",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4646597,
+          "known_for_department": "Crew",
+          "name": "Julia Lemke",
+          "original_name": "Julia Lemke",
+          "popularity": 0.0179,
+          "profile_path": null,
+          "credit_id": "661782befd6300016310e359",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 967498,
+          "known_for_department": "Editing",
+          "name": "Mechthild Barth",
+          "original_name": "Mechthild Barth",
+          "popularity": 0.2457,
+          "profile_path": null,
+          "credit_id": "661782d27d41aa01310019c8",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2219539,
+          "known_for_department": "Production",
+          "name": "Lino Rettinger",
+          "original_name": "Lino Rettinger",
+          "popularity": 0.113,
+          "profile_path": null,
+          "credit_id": "661782f7813831014a753104",
+          "department": "Production",
+          "job": "Producer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "de",
+              "note": "Achtung Berlin Filmfestival",
+              "release_date": "2024-04-11T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Hofer Filmtage",
+              "release_date": "2023-10-27T00:00:00.000Z",
+              "type": 1
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2024-05-09T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Playa+escondida&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:30.113Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/rmHrpkd6xzh5GzGyjOKlFHOMAlz.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          10751
+        ],
+        "id": 1714233,
+        "title": "Hidden Beach",
+        "original_language": "es",
+        "original_title": "Playa Escondida",
+        "overview": "Tras una discusión con su padre, Tomás (26) se va junto a su mejor amigo Lucas (25) y otros compañeros del ballet a la casa que la familia tiene en la playa.  Estando radicado en Playa Escondida, Tomás satisface sus deseos pagando por sexo casual a hombres del pueblo, al tiempo que descubre secretos de su familia.  Cuando decide retomar su carrera de bailarín, es descubierto en sus andanzas y su vida da un violento giro.",
+        "popularity": 0.4569,
+        "poster_path": "/lxnQxvYdOvfdsDOyUo2EMk20LWW.jpg",
+        "release_date": "2025-11-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

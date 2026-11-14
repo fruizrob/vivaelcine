@@ -1,0 +1,179 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1753197?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:35.138Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/hiUPwiIVn5SjvYHyTsV1f7zXJKw.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1753197,
+    "imdb_id": null,
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Rose de Nuit",
+    "overview": "",
+    "popularity": 0.055,
+    "poster_path": "/5woSq9gKzrwcFIljvqqfYSsIq9l.jpg",
+    "production_companies": [
+      {
+        "id": 189744,
+        "logo_path": null,
+        "name": "Independent",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2026-05-25",
+    "revenue": 0,
+    "runtime": 4,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rose de Nuit",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425293,
+          "known_for_department": "Acting",
+          "name": "Elizabeth Warrick",
+          "original_name": "Elizabeth Warrick",
+          "popularity": 0.0202,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Rose",
+          "credit_id": "6a8743067ddd1e4de267578f",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425294,
+          "known_for_department": "Acting",
+          "name": "Gabriel Belletti",
+          "original_name": "Gabriel Belletti",
+          "popularity": 0.0766,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "Lover n°1",
+          "credit_id": "6a87432eebc796ac794cb93d",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425296,
+          "known_for_department": "Acting",
+          "name": "Kassandra Jarnot",
+          "original_name": "Kassandra Jarnot",
+          "popularity": 0.0287,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Lover n°2",
+          "credit_id": "6a87434bf4b13507711f6952",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6425300,
+          "known_for_department": "Acting",
+          "name": "Enzo Lefebvre",
+          "original_name": "Enzo Lefebvre",
+          "popularity": 0.01,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "“Customer”",
+          "credit_id": "6a87439c9fa41a487dd15c82",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6425303,
+          "known_for_department": "Directing",
+          "name": "Gabriel Midoz",
+          "original_name": "Gabriel Midoz",
+          "popularity": 0.0511,
+          "profile_path": "/3qVwxXN77V3qcOzftMgnsXRsj23.jpg",
+          "credit_id": "6a8743c587f36f565e1f6b0c",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6425303,
+          "known_for_department": "Directing",
+          "name": "Gabriel Midoz",
+          "original_name": "Gabriel Midoz",
+          "popularity": 0.0511,
+          "profile_path": "/3qVwxXN77V3qcOzftMgnsXRsj23.jpg",
+          "credit_id": "6a8744097ddd1e4de2675796",
+          "department": "Writing",
+          "job": "Scenario Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 6419122,
+          "known_for_department": "Directing",
+          "name": "Noémie Marre",
+          "original_name": "Noémie Marre",
+          "popularity": 0.0881,
+          "profile_path": null,
+          "credit_id": "6a920441e3c262a1758c6c2d",
+          "department": "Directing",
+          "job": "Assistant Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "fr",
+              "note": "",
+              "release_date": "2026-05-25T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

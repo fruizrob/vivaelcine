@@ -1,0 +1,93 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/862993?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:09.815Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/spmEYFQnAnVT7XXRTGyVpTlKNqR.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "Música"
+      }
+    ],
+    "homepage": "",
+    "id": 862993,
+    "imdb_id": null,
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_title": "Jan Delay & Disko No. 1: Earth, Wind & Feiern Live 2021",
+    "overview": "",
+    "popularity": 0.4176,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2021-07-24",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Jan Delay & Disko No. 1: Earth, Wind & Feiern Live 2021",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1051347,
+          "known_for_department": "Acting",
+          "name": "Jan Delay",
+          "original_name": "Jan Delay",
+          "popularity": 0.3499,
+          "profile_path": "/48nF1khxxjVYDMPrrgigpEmK4oR.jpg",
+          "cast_id": 1,
+          "character": "Jan Delay",
+          "credit_id": "611d8d99cc9683007e131af5",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2152550,
+          "known_for_department": "Directing",
+          "name": "Catharina Kleber",
+          "original_name": "Catharina Kleber",
+          "popularity": 0.1255,
+          "profile_path": null,
+          "credit_id": "611d8dcb3876510045f4bfad",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "DE",
+          "release_dates": [
+            {
+              "certification": "0",
+              "descriptors": [],
+              "iso_639_1": "de",
+              "note": "",
+              "release_date": "2021-07-24T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

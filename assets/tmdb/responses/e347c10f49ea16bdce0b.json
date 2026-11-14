@@ -1,0 +1,31 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=La+vida+de+una+mujer+%28La+vie+d%E2%80%99une+femme%29&include_adult=false&language=es-ES&year=2026",
+  "retrievedAt": "2026-11-14T05:13:20.612Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/rFST4zAaG20VSIxSvYO57nhkkV4.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 1258181,
+        "title": "La vida de una mujer",
+        "original_language": "fr",
+        "original_title": "La vie d'une femme",
+        "overview": "",
+        "popularity": 1.5254,
+        "poster_path": "/vDyFe09xYy10XQkEp3OBr2w89wn.jpg",
+        "release_date": "2026-09-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.402,
+        "vote_count": 46
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}

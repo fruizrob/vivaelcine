@@ -1,0 +1,85 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1082279?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:08.400Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1082279,
+    "imdb_id": "tt26624298",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Day Delay",
+    "overview": "",
+    "popularity": 0.1198,
+    "poster_path": "/lhY5izioVhToWF4gfbAPXNxIIA6.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 60,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Day Delay",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2836496,
+          "known_for_department": "Acting",
+          "name": "Susana Marroig",
+          "original_name": "Susana Marroig",
+          "popularity": 0.0636,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Paola",
+          "credit_id": "63dd69c4ddd52d0084829f26",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3904654,
+          "known_for_department": "Directing",
+          "name": "Enrique Ortega",
+          "original_name": "Enrique Ortega",
+          "popularity": 0.0767,
+          "profile_path": null,
+          "credit_id": "63dd69d58741c40099b38fe1",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": []
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

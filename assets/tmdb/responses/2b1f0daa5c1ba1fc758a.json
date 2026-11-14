@@ -1,0 +1,691 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/20106?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:36.188Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/bZ56yw30p5rS9Zc5nY7qKa8a2Ez.jpg",
+    "belongs_to_collection": {
+      "id": 297299,
+      "name": "Mais qui a tué Pamela Rose ? - Saga",
+      "poster_path": "/fREA4sN9BapI5QkpzkXFwaApPj6.jpg",
+      "backdrop_path": "/pD13x0I82FgWcOZh9lYNwmyBczR.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 20106,
+    "imdb_id": "tt0338828",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Mais qui a tué Pamela Rose ?",
+    "overview": "",
+    "popularity": 0.9682,
+    "poster_path": "/1m1hLUtU5xwPWUNOX7FVOyS0ekb.jpg",
+    "production_companies": [
+      {
+        "id": 9,
+        "logo_path": "/h4zSRszvKHr1tjqEp8voJVahuza.png",
+        "name": "Gaumont",
+        "origin_country": "FR"
+      },
+      {
+        "id": 22355,
+        "logo_path": null,
+        "name": "KL Production",
+        "origin_country": ""
+      },
+      {
+        "id": 2490,
+        "logo_path": null,
+        "name": "LGM Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 6586,
+        "logo_path": null,
+        "name": "TPS Star",
+        "origin_country": "FR"
+      },
+      {
+        "id": 104,
+        "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+        "name": "Canal+",
+        "origin_country": "FR"
+      },
+      {
+        "id": 356,
+        "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+        "name": "TF1 Films Production",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2003-06-04",
+    "revenue": 0,
+    "runtime": 95,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mais qui a tué Pamela Rose ?",
+    "video": false,
+    "vote_average": 6.007,
+    "vote_count": 362,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22306,
+          "known_for_department": "Acting",
+          "name": "Kad Merad",
+          "original_name": "Kad Merad",
+          "popularity": 0.7347,
+          "profile_path": "/n4hjy7VFVgzRx5WVsElv4AKdotB.jpg",
+          "cast_id": 1,
+          "character": "Richard Bullit",
+          "credit_id": "52fe43d7c3a368484e00145b",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 61985,
+          "known_for_department": "Acting",
+          "name": "Olivier Baroux",
+          "original_name": "Olivier Baroux",
+          "popularity": 0.4545,
+          "profile_path": "/9y6vUWtCFCJwnoI4f6VVzFlQfkI.jpg",
+          "cast_id": 2,
+          "character": "Douglas Riper",
+          "credit_id": "52fe43d7c3a368484e00145f",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 47337,
+          "known_for_department": "Acting",
+          "name": "Gérard Darmon",
+          "original_name": "Gérard Darmon",
+          "popularity": 0.6905,
+          "profile_path": "/nYup2VXH5zZunl0WoQFy1dTlu1s.jpg",
+          "cast_id": 3,
+          "character": "Phil Canon",
+          "credit_id": "52fe43d7c3a368484e001463",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16922,
+          "known_for_department": "Acting",
+          "name": "Jean-Paul Rouve",
+          "original_name": "Jean-Paul Rouve",
+          "popularity": 0.592,
+          "profile_path": "/kU1AyNsgsyEGjNbvBo9EOHJaeUz.jpg",
+          "cast_id": 4,
+          "character": "shérif Steve Marley",
+          "credit_id": "52fe43d7c3a368484e001467",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 85626,
+          "known_for_department": "Acting",
+          "name": "Bénédicte Loyen",
+          "original_name": "Bénédicte Loyen",
+          "popularity": 0.3777,
+          "profile_path": "/eLngU0258aIJvK76wN0P8PXucXr.jpg",
+          "cast_id": 5,
+          "character": "Ginger",
+          "credit_id": "52fe43d7c3a368484e00146b",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 7278,
+          "known_for_department": "Acting",
+          "name": "Lionel Abelanski",
+          "original_name": "Lionel Abelanski",
+          "popularity": 0.4273,
+          "profile_path": "/z1cw7HrXU6IKpwhkZwN8iXK8qEa.jpg",
+          "cast_id": 6,
+          "character": "Thomas Filbee",
+          "credit_id": "52fe43d7c3a368484e00146f",
+          "order": 5
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 21550,
+          "known_for_department": "Acting",
+          "name": "Julie Bataille",
+          "original_name": "Julie Bataille",
+          "popularity": 0.5074,
+          "profile_path": "/dEWYrEkaAmSjRKPmijRhNjr47Wl.jpg",
+          "cast_id": 7,
+          "character": "Pamela Rose",
+          "credit_id": "52fe43d7c3a368484e001473",
+          "order": 6
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 6556,
+          "known_for_department": "Acting",
+          "name": "Manuel Le Lièvre",
+          "original_name": "Manuel Le Lièvre",
+          "popularity": 0.2995,
+          "profile_path": "/EmSdfds0SV57w2RPD8f2eLAfzu.jpg",
+          "cast_id": 8,
+          "character": "Luke Ribisi",
+          "credit_id": "52fe43d7c3a368484e001477",
+          "order": 7
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 85627,
+          "known_for_department": "Acting",
+          "name": "Greg Germain",
+          "original_name": "Greg Germain",
+          "popularity": 0.2601,
+          "profile_path": "/kV5baQPDhNv5992s7z6vRDHFUVD.jpg",
+          "cast_id": 9,
+          "character": "Johnson",
+          "credit_id": "52fe43d7c3a368484e00147b",
+          "order": 8
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 33161,
+          "known_for_department": "Acting",
+          "name": "François Cluzet",
+          "original_name": "François Cluzet",
+          "popularity": 1.3972,
+          "profile_path": "/f6PO7Lkrem1N4UmklxHro2k6Jto.jpg",
+          "cast_id": 10,
+          "character": "Gibson",
+          "credit_id": "52fe43d7c3a368484e00147f",
+          "order": 9
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4275,
+          "known_for_department": "Acting",
+          "name": "Alain Chabat",
+          "original_name": "Alain Chabat",
+          "popularity": 1.1454,
+          "profile_path": "/xRjymE6LIJd0useKWN2R1WgKDRy.jpg",
+          "cast_id": 11,
+          "character": "Peter Mc Gray",
+          "credit_id": "52fe43d7c3a368484e001483",
+          "order": 10
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 19163,
+          "known_for_department": "Acting",
+          "name": "Virginie Ledoyen",
+          "original_name": "Virginie Ledoyen",
+          "popularity": 1.8525,
+          "profile_path": "/sIx8EAaGqEaveQtUrCzQOqmoY2J.jpg",
+          "cast_id": 16,
+          "character": "La femme de ménage",
+          "credit_id": "645ea6a6b234b900e488ac80",
+          "order": 11
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 93531,
+          "known_for_department": "Acting",
+          "name": "Jean-Noël Brouté",
+          "original_name": "Jean-Noël Brouté",
+          "popularity": 0.2511,
+          "profile_path": "/vf4zSHL7UcwyOcpyrQ0BKOw54Fq.jpg",
+          "cast_id": 17,
+          "character": "Le médecin légiste",
+          "credit_id": "645ea6e5b234b901724b7b3c",
+          "order": 12
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 76820,
+          "known_for_department": "Acting",
+          "name": "Marina Foïs",
+          "original_name": "Marina Foïs",
+          "popularity": 1.0994,
+          "profile_path": "/dLPo5cyKoH4Y8TNRkl2GIrd4Oae.jpg",
+          "cast_id": 18,
+          "character": "La cliente de la pharmacie",
+          "credit_id": "645ea70b5ab81a00fdcf195e",
+          "order": 13
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 96413,
+          "known_for_department": "Acting",
+          "name": "Thierry Frémont",
+          "original_name": "Thierry Frémont",
+          "popularity": 0.6511,
+          "profile_path": "/yUwC2WiydDrCy5TL7xOjdP1PXjM.jpg",
+          "cast_id": 19,
+          "character": "Mike (not credited)",
+          "credit_id": "645ea72c83ee670122777d03",
+          "order": 14
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 35900,
+          "known_for_department": "Acting",
+          "name": "Jean-Claude Leguay",
+          "original_name": "Jean-Claude Leguay",
+          "popularity": 0.3051,
+          "profile_path": "/xmpIbYAY8PiHSBbwHhFh9vrI4zV.jpg",
+          "cast_id": 20,
+          "character": "Le chef démineur",
+          "credit_id": "645ea784651fcf00fc912865",
+          "order": 15
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1595046,
+          "known_for_department": "Acting",
+          "name": "Xavier Letourneur",
+          "original_name": "Xavier Letourneur",
+          "popularity": 0.2547,
+          "profile_path": "/lLo3r4EJUBSqZajoMp58oZr7h0m.jpg",
+          "cast_id": 21,
+          "character": "Le capitaine Donuts",
+          "credit_id": "645ea7ac651fcf01706191c3",
+          "order": 16
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 225004,
+          "known_for_department": "Acting",
+          "name": "Joseph Malerba",
+          "original_name": "Joseph Malerba",
+          "popularity": 0.4433,
+          "profile_path": "/izzmErfTiOmidVWwvTMPVjX5pem.jpg",
+          "cast_id": 22,
+          "character": "Le pharmacien",
+          "credit_id": "645ea7d083ee670164ce3eb5",
+          "order": 17
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 132542,
+          "known_for_department": "Acting",
+          "name": "Maurice Barthélemy",
+          "original_name": "Maurice Barthélemy",
+          "popularity": 0.4561,
+          "profile_path": "/c4HDaCHBjycQb9hX3D2y7sAU1PR.jpg",
+          "cast_id": 24,
+          "character": "Conducteur Ferrari",
+          "credit_id": "645ea80f651fcf00fc912889",
+          "order": 18
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 78421,
+          "known_for_department": "Acting",
+          "name": "Nicolas Marié",
+          "original_name": "Nicolas Marié",
+          "popularity": 0.8925,
+          "profile_path": "/qbfZbRhyAi3rgerGmxoXAvQbQN8.jpg",
+          "cast_id": 25,
+          "character": "Le présentateur",
+          "credit_id": "645ea8321f98d100e35dc848",
+          "order": 19
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 93532,
+          "known_for_department": "Acting",
+          "name": "Laurent Lafitte",
+          "original_name": "Laurent Lafitte",
+          "popularity": 1.6987,
+          "profile_path": "/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg",
+          "cast_id": 26,
+          "character": "Ambulancier",
+          "credit_id": "645ea854b234b900e488acd7",
+          "order": 20
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 4058884,
+          "known_for_department": "Acting",
+          "name": "Emmanuelle Cosso",
+          "original_name": "Emmanuelle Cosso",
+          "popularity": 0.0704,
+          "profile_path": null,
+          "cast_id": 27,
+          "character": "Madame Marky",
+          "credit_id": "645ea8906f6a9901602bbdf4",
+          "order": 21
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2661085,
+          "known_for_department": "Acting",
+          "name": "Astou Vedel",
+          "original_name": "Astou Vedel",
+          "popularity": 0.1258,
+          "profile_path": null,
+          "cast_id": 28,
+          "character": "FBI woman (not credited)",
+          "credit_id": "645ea8b41f98d100feb2b002",
+          "order": 22
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 22306,
+          "known_for_department": "Acting",
+          "name": "Kad Merad",
+          "original_name": "Kad Merad",
+          "popularity": 0.7347,
+          "profile_path": "/n4hjy7VFVgzRx5WVsElv4AKdotB.jpg",
+          "credit_id": "52fe43d7c3a368484e00148f",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 85340,
+          "known_for_department": "Directing",
+          "name": "Eric Lartigau",
+          "original_name": "Eric Lartigau",
+          "popularity": 0.3273,
+          "profile_path": "/vuTPNtxlqyF7A0EGXa1SZAMkmiN.jpg",
+          "credit_id": "52fe43d7c3a368484e001489",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 52344,
+          "known_for_department": "Writing",
+          "name": "Julien Rappeneau",
+          "original_name": "Julien Rappeneau",
+          "popularity": 0.2824,
+          "profile_path": "/eNlDw3qi7jhM5eUoSLG145BVHbT.jpg",
+          "credit_id": "52fe43d7c3a368484e00149b",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 61985,
+          "known_for_department": "Acting",
+          "name": "Olivier Baroux",
+          "original_name": "Olivier Baroux",
+          "popularity": 0.4545,
+          "profile_path": "/9y6vUWtCFCJwnoI4f6VVzFlQfkI.jpg",
+          "credit_id": "52fe43d7c3a368484e001495",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 32256,
+          "known_for_department": "Production",
+          "name": "Franck Chorot",
+          "original_name": "Franck Chorot",
+          "popularity": 0.1462,
+          "profile_path": "/tOa1Amu8Wky73fuykkLwnSninyY.jpg",
+          "credit_id": "645ea8ffb234b901724b7bba",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 567996,
+          "known_for_department": "Camera",
+          "name": "Régis Blondeau",
+          "original_name": "Régis Blondeau",
+          "popularity": 0.1329,
+          "profile_path": null,
+          "credit_id": "645ea9445ab81a00fdcf19e2",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 446672,
+          "known_for_department": "Editing",
+          "name": "Stéphane Mazalaigue",
+          "original_name": "Stéphane Mazalaigue",
+          "popularity": 0.1439,
+          "profile_path": null,
+          "credit_id": "645ea96f5ab81a013dacdda9",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1021802,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Marie-Laure Lasson",
+          "original_name": "Marie-Laure Lasson",
+          "popularity": 0.2893,
+          "profile_path": null,
+          "credit_id": "68995744534d091d3892f31b",
+          "department": "Costume & Make-Up",
+          "job": "Costume Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1147653,
+          "known_for_department": "Art",
+          "name": "Sylvie Olivé",
+          "original_name": "Sylvie Olivé",
+          "popularity": 0.2299,
+          "profile_path": null,
+          "credit_id": "689957507335a303ce6d6cea",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 52349,
+          "known_for_department": "Production",
+          "name": "Cyril Colbeau-Justin",
+          "original_name": "Cyril Colbeau-Justin",
+          "popularity": 0.1771,
+          "profile_path": "/ll8sejIqnmFVWquQkyNXT04fehX.jpg",
+          "credit_id": "68995766124b7c08f45d1274",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 52354,
+          "known_for_department": "Editing",
+          "name": "Hugues Darmois",
+          "original_name": "Hugues Darmois",
+          "popularity": 0.2814,
+          "profile_path": null,
+          "credit_id": "68995777e99a7048a95e3702",
+          "department": "Production",
+          "job": "Executive Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 52350,
+          "known_for_department": "Production",
+          "name": "Jean-Baptiste Dupont",
+          "original_name": "Jean-Baptiste Dupont",
+          "popularity": 0.2907,
+          "profile_path": "/nBT4f0n3itTeWjOcsvda0kwFuoe.jpg",
+          "credit_id": "6899578fa7690a8e086d6c74",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2814906,
+          "known_for_department": "Production",
+          "name": "Philippe Page",
+          "original_name": "Philippe Page",
+          "popularity": 0.1141,
+          "profile_path": null,
+          "credit_id": "6899579f820d9b4d1392f243",
+          "department": "Production",
+          "job": "Casting"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 16366,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Frédérique Arguello",
+          "original_name": "Frédérique Arguello",
+          "popularity": 0.2208,
+          "profile_path": null,
+          "credit_id": "689957b7bff3489cac5d12d8",
+          "department": "Costume & Make-Up",
+          "job": "Hairstylist"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 52351,
+          "known_for_department": "Sound",
+          "name": "Erwann Kermorvant",
+          "original_name": "Erwann Kermorvant",
+          "popularity": 0.2464,
+          "profile_path": "/ewWWoANAzJaLOJseCfWL9gSAjzN.jpg",
+          "credit_id": "689957d8fea27b5940e24e4c",
+          "department": "Sound",
+          "job": "Original Music Composer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1300817,
+          "known_for_department": "Sound",
+          "name": "Alain Lévy",
+          "original_name": "Alain Lévy",
+          "popularity": 0.2777,
+          "profile_path": null,
+          "credit_id": "689957e8524ec651e6b6fe20",
+          "department": "Sound",
+          "job": "Sound"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CZ",
+          "release_dates": [
+            {
+              "certification": "12+",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2004-01-15T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "FR",
+          "release_dates": [
+            {
+              "certification": "U",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2003-06-04T00:00:00.000Z",
+              "type": 3
+            },
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Novo19",
+              "release_date": "2026-01-15T00:00:00.000Z",
+              "type": 6
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "FR",
+          "title": "Mais qui a tue pamela rose",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "UA",
+          "title": "Булліт і Ріпер",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "UA",
+          "title": "Колишніх агентів не буває",
+          "type": ""
+        },
+        {
+          "iso_3166_1": "CZ",
+          "title": "Absolutně Scary",
+          "type": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1587834?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:22.553Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "id": 1587834,
+    "imdb_id": null,
+    "origin_country": [
+      "HU"
+    ],
+    "original_language": "hu",
+    "original_title": "Ház a Tengeren",
+    "overview": "",
+    "popularity": 0.1014,
+    "poster_path": "/mhUunnxjqt2gksfv1N4EMcgIk9W.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "HU",
+        "name": "Hungary"
+      }
+    ],
+    "release_date": "2025-10-16",
+    "revenue": 0,
+    "runtime": 15,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ház a Tengeren",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5840029,
+          "known_for_department": "Directing",
+          "name": "Tünde Nagy",
+          "original_name": "Tünde Nagy",
+          "popularity": 0.0448,
+          "profile_path": null,
+          "credit_id": "6926ceca000b8dd82ca7568c",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PL",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2025-10-16T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

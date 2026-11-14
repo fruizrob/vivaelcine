@@ -1,0 +1,159 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1757388?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:19.444Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 785,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 1757388,
+    "imdb_id": null,
+    "origin_country": [
+      "PE"
+    ],
+    "original_language": "es",
+    "original_title": "Feliz cumpleaños, Julián.",
+    "overview": "",
+    "popularity": 0.0566,
+    "poster_path": "/xX6W2H0U6X7GJVwHEIPLuxInBV4.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "PE",
+        "name": "Peru"
+      }
+    ],
+    "release_date": "2025-12-12",
+    "revenue": 0,
+    "runtime": 13,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Feliz cumpleaños, Julián.",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3605917,
+          "known_for_department": "Directing",
+          "name": "Luciano Perochena",
+          "original_name": "Luciano Perochena",
+          "popularity": 0.0628,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Julián",
+          "credit_id": "6a90ddf1b0c2f9c3d1b3d871",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6440495,
+          "known_for_department": "Acting",
+          "name": "Evis Sánchez",
+          "original_name": "Evis Sánchez",
+          "popularity": 0.0935,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Alfonso",
+          "credit_id": "6a90deb2ac2a4fe2b737f5ed",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6440496,
+          "known_for_department": "Acting",
+          "name": "Jaqueline Obregón",
+          "original_name": "Jaqueline Obregón",
+          "popularity": 0.0454,
+          "profile_path": null,
+          "cast_id": 5,
+          "character": "Olga",
+          "credit_id": "6a90dec09de11dada5f7df6d",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6046814,
+          "known_for_department": "Acting",
+          "name": "Mary Gallegos",
+          "original_name": "Mary Gallegos",
+          "popularity": 0.069,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "Martha",
+          "credit_id": "6a90ded30e49c3a738f7df5c",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6440492,
+          "known_for_department": "Directing",
+          "name": "André Carnero",
+          "original_name": "André Carnero",
+          "popularity": 0.0877,
+          "profile_path": null,
+          "credit_id": "6a90de0f844a7666659ffa85",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 6440492,
+          "known_for_department": "Directing",
+          "name": "André Carnero",
+          "original_name": "André Carnero",
+          "popularity": 0.0877,
+          "profile_path": null,
+          "credit_id": "6a90de495e697f35110def90",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "PE",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "es",
+              "note": "",
+              "release_date": "2025-12-12T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

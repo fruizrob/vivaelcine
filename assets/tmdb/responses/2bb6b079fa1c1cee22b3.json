@@ -1,0 +1,67 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Dancing+Heart&include_adult=false&language=es-ES",
+  "retrievedAt": "2026-11-14T05:16:17.212Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/fSV3nPawVKbfTMXjEvdKoWQ83WM.jpg",
+        "genre_ids": [
+          99
+        ],
+        "id": 1272985,
+        "title": "Dancing Heartbeats",
+        "original_language": "de",
+        "original_title": "Dancing Heartbeats",
+        "overview": "",
+        "popularity": 0.1982,
+        "poster_path": "/3g1EfuwgKU3N6DMQjZwhk6uAR9F.jpg",
+        "release_date": "2024-05-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/olFrXt0DbDxk1k2SDc82hwLkSSK.jpg",
+        "genre_ids": [
+          18,
+          10402
+        ],
+        "id": 300666,
+        "title": "Bravetown",
+        "original_language": "en",
+        "original_title": "Bravetown",
+        "overview": "Josh es un adolescente neoyorquino con un gran talento musical. Después de un cargo menor por consumo de drogas, deberá asistir a terapia y pasar un tiempo con su padre, que vive en un pequeño pueblo en Dakota del Norte.",
+        "popularity": 1.0571,
+        "poster_path": "/1XQvhq0bM9Odwr1Nf1fY6QsWOMM.jpg",
+        "release_date": "2015-05-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 309
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1214883,
+        "title": "Corazón danzante",
+        "original_language": "es",
+        "original_title": "Corazón danzante",
+        "overview": "",
+        "popularity": 0.0756,
+        "poster_path": "/lkDx7l0Wbqp9tKEaP73ZydLx37S.jpg",
+        "release_date": "2023-10-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 3
+  }
+}

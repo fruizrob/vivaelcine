@@ -1,0 +1,128 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/748874?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:27.952Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/tTpjHnOzTS1zlsp1hTlH30BS2zk.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 748874,
+    "imdb_id": "tt12363784",
+    "origin_country": [
+      "MU",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The House on Seahorse Bay",
+    "overview": "",
+    "popularity": 0.3096,
+    "poster_path": "/5oBlYWgU2CMAmLezBpE8koSudf8.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2019-06-01",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The House on Seahorse Bay",
+    "video": true,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 16744,
+          "known_for_department": "Acting",
+          "name": "Antony Coleman",
+          "original_name": "Antony Coleman",
+          "popularity": 0.172,
+          "profile_path": "/eY0Et6Wt6cuZKx1M7ALuJ19VSyg.jpg",
+          "cast_id": 2,
+          "character": "Charlie Coleman",
+          "credit_id": "697d7364324096a80c61636d",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5975081,
+          "known_for_department": "Acting",
+          "name": "Andrew Buckland",
+          "original_name": "Andrew Buckland",
+          "popularity": 0.0402,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "Ben",
+          "credit_id": "697d73c4e34b25a7111bb9e9",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5975083,
+          "known_for_department": "Acting",
+          "name": "Reegan Finkel",
+          "original_name": "Reegan Finkel",
+          "popularity": 0.0529,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "Lucy Coleman",
+          "credit_id": "697d73db905fe415f86162ac",
+          "order": 2
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 88969,
+          "known_for_department": "Acting",
+          "name": "Daniel Buckland",
+          "original_name": "Daniel Buckland",
+          "popularity": 0.1356,
+          "profile_path": null,
+          "credit_id": "5f77275b9a64350037a430e8",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CA",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2019-06-01T00:00:00.000Z",
+              "type": 3
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

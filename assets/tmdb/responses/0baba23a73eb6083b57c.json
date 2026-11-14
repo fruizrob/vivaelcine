@@ -1,0 +1,110 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1246844?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:08.247Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documental"
+      }
+    ],
+    "homepage": "",
+    "id": 1246844,
+    "imdb_id": null,
+    "origin_country": [
+      "VE"
+    ],
+    "original_language": "es",
+    "original_title": "The Delay",
+    "overview": "",
+    "popularity": 0.1257,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2013-01-01",
+    "revenue": 0,
+    "runtime": 15,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Delay",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2458857,
+          "known_for_department": "Editing",
+          "name": "Daniel Paz Mireles",
+          "original_name": "Daniel Paz Mireles",
+          "popularity": 0.0651,
+          "profile_path": null,
+          "credit_id": "65d278e71684f70187d04b0a",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 3135303,
+          "known_for_department": "Camera",
+          "name": "Giuliano Salvatore",
+          "original_name": "Giuliano Salvatore",
+          "popularity": 0.0382,
+          "profile_path": null,
+          "credit_id": "65d279198de0ae017cd815d4",
+          "department": "Crew",
+          "job": "Cinematography"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2458857,
+          "known_for_department": "Editing",
+          "name": "Daniel Paz Mireles",
+          "original_name": "Daniel Paz Mireles",
+          "popularity": 0.0651,
+          "profile_path": null,
+          "credit_id": "65d279008de0ae017cd815c0",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "CZ",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "2013-01-01T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1536107?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:06.674Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/41c7jaYwPXNdhLlUusPViGzPmeS.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1536107,
+    "imdb_id": "tt38267167",
+    "origin_country": [
+      "CN",
+      "US"
+    ],
+    "original_language": "zh",
+    "original_title": "远方延误",
+    "overview": "",
+    "popularity": 0.1527,
+    "poster_path": "/oMK91X7aMqVmdRiKxklRsR1p8l.jpg",
+    "production_companies": [
+      {
+        "id": 255383,
+        "logo_path": "/odTt53ILugjI1mXQkXfI4SusRgI.png",
+        "name": "Obluda Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-09-21",
+    "revenue": 0,
+    "runtime": 15,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "远方延误",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1065763,
+          "known_for_department": "Acting",
+          "name": "吴伟",
+          "original_name": "吴伟",
+          "popularity": 0.203,
+          "profile_path": "/78ksJqsHBEV7nyBsUbFbLFJrhFI.jpg",
+          "cast_id": 11,
+          "character": "",
+          "credit_id": "690451b69fc590e8bdf92128",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5669348,
+          "known_for_department": "Acting",
+          "name": "王博霄",
+          "original_name": "王博霄",
+          "popularity": 0.0936,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "68b8c911f7675287ff946255",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 3202724,
+          "known_for_department": "Acting",
+          "name": "张楚文",
+          "original_name": "张楚文",
+          "popularity": 0.2642,
+          "profile_path": "/10zTbwDsoIJLFCHh3CwNPeMbeq4.jpg",
+          "cast_id": 10,
+          "character": "",
+          "credit_id": "69044f1bf91e2e972fe12018",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 5669350,
+          "known_for_department": "Acting",
+          "name": "Yan Dong-Nan",
+          "original_name": "Yan Dong-Nan",
+          "popularity": 0.0436,
+          "profile_path": null,
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "68b8c92bb6a42c807c1f3daa",
+          "order": 3
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4438443,
+          "known_for_department": "Directing",
+          "name": "王瀚渲",
+          "original_name": "王瀚渲",
+          "popularity": 0.0325,
+          "profile_path": null,
+          "credit_id": "68adac66e1319e8ffb8d2c77",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4438443,
+          "known_for_department": "Directing",
+          "name": "王瀚渲",
+          "original_name": "王瀚渲",
+          "popularity": 0.0325,
+          "profile_path": null,
+          "credit_id": "68b26986fdfc0d69c43cc7ab",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5717215,
+          "known_for_department": "Production",
+          "name": "REN Guang",
+          "original_name": "REN Guang",
+          "popularity": 0.0338,
+          "profile_path": null,
+          "credit_id": "68d9c883dbc4b02213e1bd80",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5717216,
+          "known_for_department": "Writing",
+          "name": "MEN Tiankuo",
+          "original_name": "MEN Tiankuo",
+          "popularity": 0.0341,
+          "profile_path": null,
+          "credit_id": "68d9c892dfa796eac8bb0ab8",
+          "department": "Writing",
+          "job": "Co-Writer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5717218,
+          "known_for_department": "Camera",
+          "name": "LIU Shuailiang",
+          "original_name": "LIU Shuailiang",
+          "popularity": 0.0345,
+          "profile_path": null,
+          "credit_id": "68d9c8a2dd8cdf84fa2de696",
+          "department": "Camera",
+          "job": "Director of Photography"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "HK",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Hong Kong Lesbian & Gay Film Festival",
+              "release_date": "2026-09-08T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "KR",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Busan International Film Festival",
+              "release_date": "2025-09-21T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        },
+        {
+          "iso_3166_1": "TH",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Bangkok International Film Festival",
+              "release_date": "2025-10-13T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

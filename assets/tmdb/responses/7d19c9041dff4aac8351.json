@@ -1,0 +1,334 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/1682882?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:32.891Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/AfE1KhkXu9Z6w1cTTbG9rRYkpvv.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 1682882,
+    "imdb_id": "tt43424369",
+    "origin_country": [
+      "IT",
+      "FR",
+      "MA"
+    ],
+    "original_language": "fr",
+    "original_title": "Le rose di Marrakech",
+    "overview": "",
+    "popularity": 0.8059,
+    "poster_path": "/4TLNLELyFjSfCEsGiZZC3qxIHAa.jpg",
+    "production_companies": [
+      {
+        "id": 858,
+        "logo_path": "/6NwjE3AuYKMuGNJdAG8TzmhmioV.png",
+        "name": "Tessalit Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 74131,
+        "logo_path": "/oVzt9p39giEcvkFerQ29eXuO3Ap.png",
+        "name": "Asmara Films",
+        "origin_country": "IT"
+      },
+      {
+        "id": 155990,
+        "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+        "name": "RAI Cinema",
+        "origin_country": "IT"
+      },
+      {
+        "id": 15316,
+        "logo_path": "/8vhiICXCGJcoGJwn590vhCn3r9E.png",
+        "name": "Agora Films",
+        "origin_country": "MA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "MA",
+        "name": "Morocco"
+      }
+    ],
+    "release_date": "2026-10-06",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Le rose di Marrakech",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 20234,
+          "known_for_department": "Acting",
+          "name": "Fanny Ardant",
+          "original_name": "Fanny Ardant",
+          "popularity": 1.242,
+          "profile_path": "/q8Hj88E3ME5z795haGMqVDwFDjp.jpg",
+          "cast_id": 2,
+          "character": "Madame Isabelle",
+          "credit_id": "69ef351f2de4e67aeb28e1ce",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1748169,
+          "known_for_department": "Acting",
+          "name": "Nisrin Erradi",
+          "original_name": "Nisrin Erradi",
+          "popularity": 0.344,
+          "profile_path": "/waZ3ReAi7iMLXrkKWHnXfBb10nk.jpg",
+          "cast_id": 3,
+          "character": "Leila",
+          "credit_id": "6a46fe310a6e08510bec5c9a",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1672646,
+          "known_for_department": "Acting",
+          "name": "Ahmed Hammoud",
+          "original_name": "Ahmed Hammoud",
+          "popularity": 0.2998,
+          "profile_path": "/nla4uIY9P1luxq9hWGDESGsW7Hb.jpg",
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "6a46fe48d782bc2b284754f3",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 4331620,
+          "known_for_department": "Acting",
+          "name": "جليلة التلمسي",
+          "original_name": "جليلة التلمسي",
+          "popularity": 0.3935,
+          "profile_path": "/cdrqQORKweCjx2jLwjzYe0NoGxe.jpg",
+          "cast_id": 8,
+          "character": "",
+          "credit_id": "6ab1a5a799cd82f6f7924d2d",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1638627,
+          "known_for_department": "Acting",
+          "name": "Boubker Fahmi",
+          "original_name": "Boubker Fahmi",
+          "popularity": 0.1378,
+          "profile_path": null,
+          "cast_id": 9,
+          "character": "",
+          "credit_id": "6ab1a5adde441e34a9919ad8",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1589114,
+          "known_for_department": "Directing",
+          "name": "Ginevra Elkann",
+          "original_name": "Ginevra Elkann",
+          "popularity": 0.2884,
+          "profile_path": "/gxNNuaEtkBl88y790HuSAuO3rA9.jpg",
+          "credit_id": "69ef35034ff1a8b9dc6b2239",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1589114,
+          "known_for_department": "Directing",
+          "name": "Ginevra Elkann",
+          "original_name": "Ginevra Elkann",
+          "popularity": 0.2884,
+          "profile_path": "/gxNNuaEtkBl88y790HuSAuO3rA9.jpg",
+          "credit_id": "6ab1a558bceb1edbcf924ce2",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1086529,
+          "known_for_department": "Directing",
+          "name": "Babak Jalali",
+          "original_name": "Babak Jalali",
+          "popularity": 0.3605,
+          "profile_path": "/jtndsfRXbQBeptkjBB129bj8Mhf.jpg",
+          "credit_id": "6ab1a5664455a80899e32f9e",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 112484,
+          "known_for_department": "Writing",
+          "name": "Chiara Barzini",
+          "original_name": "Chiara Barzini",
+          "popularity": 0.3937,
+          "profile_path": "/d8HGpB3lohd7b1xeTRqY57ryswk.jpg",
+          "credit_id": "6ab1a56ee2c893b5f2157d14",
+          "department": "Writing",
+          "job": "Writer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1438845,
+          "known_for_department": "Editing",
+          "name": "Francesca Calvelli",
+          "original_name": "Francesca Calvelli",
+          "popularity": 0.199,
+          "profile_path": "/yvjYL2pUGDIEyvLXjMdEqx80Kkp.jpg",
+          "credit_id": "6ab1a5c14016583796e32faa",
+          "department": "Editing",
+          "job": "Editor"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 3013659,
+          "known_for_department": "Camera",
+          "name": "Simone D'Arcangelo",
+          "original_name": "Simone D'Arcangelo",
+          "popularity": 0.2071,
+          "profile_path": null,
+          "credit_id": "6ab1a5cbe99070bb68a0387a",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1589114,
+          "known_for_department": "Directing",
+          "name": "Ginevra Elkann",
+          "original_name": "Ginevra Elkann",
+          "popularity": 0.2884,
+          "profile_path": "/gxNNuaEtkBl88y790HuSAuO3rA9.jpg",
+          "credit_id": "6ab1a5d721db3d71bace578c",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1125522,
+          "known_for_department": "Production",
+          "name": "Souad Lamriki",
+          "original_name": "Souad Lamriki",
+          "popularity": 0.115,
+          "profile_path": "/pGSJd8e5tsZFn92dsIYay1m0aoS.jpg",
+          "credit_id": "6ab1a5e0a6f4273eabc63252",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 20634,
+          "known_for_department": "Production",
+          "name": "Fabrizio Mosca",
+          "original_name": "Fabrizio Mosca",
+          "popularity": 0.2289,
+          "profile_path": null,
+          "credit_id": "6ab1a5e8ee43e3d22f30acaa",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 20680,
+          "known_for_department": "Production",
+          "name": "Jean Bréhat",
+          "original_name": "Jean Bréhat",
+          "popularity": 0.2428,
+          "profile_path": null,
+          "credit_id": "6ab1a5f47c9e48000162cd04",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 5152075,
+          "known_for_department": "Sound",
+          "name": "Houda Jouaij",
+          "original_name": "Houda Jouaij",
+          "popularity": 0.1078,
+          "profile_path": null,
+          "credit_id": "6ad640ab88c2986053becf35",
+          "department": "Sound",
+          "job": "Sound"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "BR",
+          "release_dates": [
+            {
+              "certification": "12",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Rio de Janeiro International Film Festival",
+              "release_date": "2026-10-06T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

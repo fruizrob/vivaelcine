@@ -1,0 +1,101 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/617879?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:10.868Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 617879,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Reverse of Deja-Vu on Television, with Slight Delay",
+    "overview": "",
+    "popularity": 0.2282,
+    "poster_path": "/88fzC1Uw9YDBp4Y7gPbQ9BoTFAq.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1985-01-01",
+    "revenue": 0,
+    "runtime": 7,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Reverse of Deja-Vu on Television, with Slight Delay",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2369762,
+          "known_for_department": "Acting",
+          "name": "Penelope Wehrli",
+          "original_name": "Penelope Wehrli",
+          "popularity": 0.0334,
+          "profile_path": null,
+          "cast_id": 1,
+          "character": "Voice",
+          "credit_id": "5d37bdb860c51d7a1681375b",
+          "order": 0
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1274018,
+          "known_for_department": "Directing",
+          "name": "David Blair",
+          "original_name": "David Blair",
+          "popularity": 0.1882,
+          "profile_path": null,
+          "credit_id": "5d37bdc3ab684974f587c92c",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 1274018,
+          "known_for_department": "Directing",
+          "name": "David Blair",
+          "original_name": "David Blair",
+          "popularity": 0.1882,
+          "profile_path": null,
+          "credit_id": "5d37bdca60c51d00128487c9",
+          "department": "Writing",
+          "job": "Writer"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "",
+              "release_date": "1985-01-01T00:00:00.000Z",
+              "type": 5
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/709147?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:43.516Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/9fvBoARgPsbAVfLVmm02cvyz8Fm.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 709147,
+    "imdb_id": "tt4681668",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Melany Rose",
+    "overview": "",
+    "popularity": 0.4415,
+    "poster_path": "/uR21Dw8Lmd7V1S6PEqIfGWq50zU.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2020-03-22",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Melany Rose",
+    "video": false,
+    "vote_average": 3,
+    "vote_count": 2,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1315802,
+          "known_for_department": "Acting",
+          "name": "Dawn Hamil",
+          "original_name": "Dawn Hamil",
+          "popularity": 0.2218,
+          "profile_path": "/puouHFc5qSKFw2pSmztVDfKeeW9.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5ece94a8528b2e00206501c6",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1186517,
+          "known_for_department": "Acting",
+          "name": "Steven Marlow",
+          "original_name": "Steven Marlow",
+          "popularity": 0.1478,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5ece94af528b2e001e646070",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2656557,
+          "known_for_department": "Acting",
+          "name": "Joseph Bishop",
+          "original_name": "Joseph Bishop",
+          "popularity": 0.1413,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "5ece94b9aaec710021665efa",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2656558,
+          "known_for_department": "Acting",
+          "name": "Philip Edward McFarlin",
+          "original_name": "Philip Edward McFarlin",
+          "popularity": 0.0865,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "5ece94c5e61e6d001ecbae53",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 1473350,
+          "known_for_department": "Acting",
+          "name": "Kimberly Battista",
+          "original_name": "Kimberly Battista",
+          "popularity": 0.5084,
+          "profile_path": "/x7eltxFt3FhtSsKkPgG11eHLG1o.jpg",
+          "cast_id": 5,
+          "character": "",
+          "credit_id": "5ece94ce528b2e0020650216",
+          "order": 4
+        },
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 1544750,
+          "known_for_department": "Acting",
+          "name": "Pokey Spears",
+          "original_name": "Pokey Spears",
+          "popularity": 0.1617,
+          "profile_path": "/4ezPO5RM9FXG54eOn0V8L2Bg5cN.jpg",
+          "cast_id": 6,
+          "character": "",
+          "credit_id": "5ece94e1e61e6d001ecbaebd",
+          "order": 5
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 0,
+          "id": 2656559,
+          "known_for_department": "Directing",
+          "name": "Javan Garza",
+          "original_name": "Javan Garza",
+          "popularity": 0.0298,
+          "profile_path": null,
+          "credit_id": "5ece94f321c4ca001fdb699f",
+          "department": "Directing",
+          "job": "Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "US",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "{\"folded_name\"=>\"English\", \"english_name\"=>\"English\", \"iso_639_1\"=>\"en\", \"native_name\"=>\"English\"}",
+              "note": "",
+              "release_date": "2020-03-22T00:00:00.000Z",
+              "type": 4
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": []
+    }
+  }
+}

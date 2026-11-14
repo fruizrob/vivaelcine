@@ -1,0 +1,251 @@
+{
+  "url": "https://api.themoviedb.org/3/movie/743123?append_to_response=credits%2Crelease_dates%2Calternative_titles&language=es-ES",
+  "retrievedAt": "2026-11-14T05:13:12.238Z",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 743123,
+    "imdb_id": null,
+    "origin_country": [
+      "RU"
+    ],
+    "original_language": "ru",
+    "original_title": "Делай, что хочешь",
+    "overview": "",
+    "popularity": 0.1874,
+    "poster_path": "/mQ9IHuOh9kmdtRKz8WxkUndSQ4m.jpg",
+    "production_companies": [
+      {
+        "id": 102867,
+        "logo_path": "/mlIBTCf8DzAOfoBt9VgjA8iB8YA.png",
+        "name": "Moscow School of New Cinema",
+        "origin_country": "RU"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "RU",
+        "name": "Russia"
+      }
+    ],
+    "release_date": "2020-09-16",
+    "revenue": 0,
+    "runtime": 84,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Делай, что хочешь",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0,
+    "credits": {
+      "cast": [
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2009631,
+          "known_for_department": "Acting",
+          "name": "Семён Штейнберг",
+          "original_name": "Семён Штейнберг",
+          "popularity": 0.3856,
+          "profile_path": "/4duvJrwNp9BKbQg2U1B7ZJe8Vrm.jpg",
+          "cast_id": 1,
+          "character": "",
+          "credit_id": "5f60cdb0156cc70037dad861",
+          "order": 0
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2779163,
+          "known_for_department": "Acting",
+          "name": "Evgeny Skukovsky",
+          "original_name": "Evgeny Skukovsky",
+          "popularity": 0.0724,
+          "profile_path": null,
+          "cast_id": 2,
+          "character": "",
+          "credit_id": "5f60cdbf069f0e00359e3e64",
+          "order": 1
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2755516,
+          "known_for_department": "Acting",
+          "name": "Maxim Selyutin",
+          "original_name": "Maxim Selyutin",
+          "popularity": 0.0549,
+          "profile_path": null,
+          "cast_id": 3,
+          "character": "",
+          "credit_id": "5f60cded069f0e0036a075c8",
+          "order": 2
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2779164,
+          "known_for_department": "Acting",
+          "name": "Vasily Skukovsky",
+          "original_name": "Vasily Skukovsky",
+          "popularity": 0.0163,
+          "profile_path": null,
+          "cast_id": 4,
+          "character": "",
+          "credit_id": "5f60ce281684f700353cab36",
+          "order": 3
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 4916611,
+          "known_for_department": "Acting",
+          "name": "Дмитрий Витов",
+          "original_name": "Дмитрий Витов",
+          "popularity": 0.0943,
+          "profile_path": "/8UgmZt0PnLpVtAg2vsvHGoT9HGK.jpg",
+          "cast_id": 12,
+          "character": "",
+          "credit_id": "66d4361a50e1c0815518029e",
+          "order": 4
+        }
+      ],
+      "crew": [
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2779165,
+          "known_for_department": "Directing",
+          "name": "Anna Kravchenko",
+          "original_name": "Anna Kravchenko",
+          "popularity": 0.1028,
+          "profile_path": null,
+          "credit_id": "5f60ce69d8cc4a003afdfaa2",
+          "department": "Directing",
+          "job": "Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2779165,
+          "known_for_department": "Directing",
+          "name": "Anna Kravchenko",
+          "original_name": "Anna Kravchenko",
+          "popularity": 0.1028,
+          "profile_path": null,
+          "credit_id": "5f60ce72fd7aa4003ae345ac",
+          "department": "Writing",
+          "job": "Screenplay"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2779168,
+          "known_for_department": "Costume & Make-Up",
+          "name": "Анна Брауде",
+          "original_name": "Анна Брауде",
+          "popularity": 0.1702,
+          "profile_path": null,
+          "credit_id": "5f60ced831234500376a07e1",
+          "department": "Art",
+          "job": "Production Design"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2779165,
+          "known_for_department": "Directing",
+          "name": "Anna Kravchenko",
+          "original_name": "Anna Kravchenko",
+          "popularity": 0.1028,
+          "profile_path": null,
+          "credit_id": "5f60ce6e3f7e1d0034951dbd",
+          "department": "Production",
+          "job": "Producer"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2779167,
+          "known_for_department": "Sound",
+          "name": "Ekaterina Zaytseva",
+          "original_name": "Ekaterina Zaytseva",
+          "popularity": 0.1117,
+          "profile_path": null,
+          "credit_id": "5f60ceb2706b9f003907b1d9",
+          "department": "Sound",
+          "job": "Sound Director"
+        },
+        {
+          "adult": false,
+          "gender": 1,
+          "id": 2779165,
+          "known_for_department": "Directing",
+          "name": "Anna Kravchenko",
+          "original_name": "Anna Kravchenko",
+          "popularity": 0.1028,
+          "profile_path": null,
+          "credit_id": "5f60ce77069f0e00349f6ebc",
+          "department": "Camera",
+          "job": "Director of Photography"
+        },
+        {
+          "adult": false,
+          "gender": 2,
+          "id": 2779166,
+          "known_for_department": "Sound",
+          "name": "Ilya Smelkov",
+          "original_name": "Ilya Smelkov",
+          "popularity": 0.0834,
+          "profile_path": null,
+          "credit_id": "5f60ce95fd7aa4003bf45b5a",
+          "department": "Sound",
+          "job": "Sound Director"
+        }
+      ]
+    },
+    "release_dates": {
+      "results": [
+        {
+          "iso_3166_1": "RU",
+          "release_dates": [
+            {
+              "certification": "",
+              "descriptors": [],
+              "iso_639_1": "",
+              "note": "Amur Autumn Film and Theater Open Russia Festival",
+              "release_date": "2020-09-16T00:00:00.000Z",
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "alternative_titles": {
+      "titles": [
+        {
+          "iso_3166_1": "RU",
+          "title": "Delay, shto khochesh",
+          "type": "transliteration"
+        }
+      ]
+    }
+  }
+}

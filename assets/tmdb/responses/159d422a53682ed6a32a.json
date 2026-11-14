@@ -1,0 +1,31 @@
+{
+  "url": "https://api.themoviedb.org/3/search/movie?query=Algo+novo+que+contar&include_adult=false&language=es-ES&year=2025",
+  "retrievedAt": "2026-11-14T05:13:04.752Z",
+  "data": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/2IYl9X2axYgdDf8yNJYUCI2DMLA.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 1403251,
+        "title": "Algo Novo que Contar",
+        "original_language": "gl",
+        "original_title": "Algo Novo que Contar",
+        "overview": "Xoana pasa un verano más en una casa de alquiler, acompañada de su hermana Silvia, que invita a sus amigas a pasar unos días con ellas. En el grupo está Emma, ​​una chica con la que Xoana tiene un romance. Xoana es virgen, y conforme pasan los días se hace más claro que puede terminar teniendo sexo con Emma, ​​lo que la aterroriza. A excepción de su hermana, nadie sabe que Xoana es virgen, lo que la angustia por la presión social que existe con el sexo. Xoana busca arreglar las cosas con Emma.",
+        "popularity": 0.3708,
+        "poster_path": "/7FSo26Fpm8XSV3r5uK5IQzLth44.jpg",
+        "release_date": "2025-09-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }
+}
