@@ -1,6 +1,18 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { readFile } from 'node:fs/promises';
+import { readFile, mkdtemp } from 'node:fs/promises';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
+import { reviewData } from '../scripts/tmdb-review-data.mjs';
+
+test('review rows use the registered festival name, including FICVIÑA', async () => {
+  const key = 'ficvina-2026/film';
+  const cache = await mkdtemp(join(tmpdir(), 'vivaelcine-queue-festival-'));
+  const queue = await reviewData(new Map([[key, { title: 'Film', director: 'Director' }]]),
+    [{ key, status: 'unmatched', candidates: [] }], { films: [] }, cache,
+    [{ id: 'ficvina-2026', name: 'FICVIÑA 38' }]);
+  assert.equal(queue.rows[0].festival, 'FICVIÑA 38');
+});
 
 test('sourced queue approvals reference unchanged catalogue/candidates and one provider identity per film', async () => {
   const queue = JSON.parse(await readFile(new URL('../assets/tmdb/review-data.json', import.meta.url), 'utf8'));
