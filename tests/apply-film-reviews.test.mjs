@@ -9,7 +9,7 @@ const load = async path => JSON.parse(await readFile(new URL(path, import.meta.u
 test('reviewed batch replays idempotently offline, retaining evidence, explicit rejections and uncertain versions', async () => {
   const registry = await load('../data/film-identities.json');
   const reviews = await load('../data/film-review-decisions.json');
-  const observations = await load('../assets/tmdb/review-data.json');
+  const observations = await load('./fixtures/review-observations-20261105.json');
   const request = tmdbClient({ cacheDir: new URL('../assets/tmdb/responses/', import.meta.url).pathname, offline: true });
   // Replay the historical batch against its saved catalogue observations. New
   // source facts (such as the Borges part runtimes) correctly invalidate it today.

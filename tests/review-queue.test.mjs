@@ -14,8 +14,8 @@ test('review rows use the registered festival name, including FICVIÑA', async (
   assert.equal(queue.rows[0].festival, 'FICVIÑA 38');
 });
 
-test('sourced queue approvals reference unchanged catalogue/candidates and one provider identity per film', async () => {
-  const queue = JSON.parse(await readFile(new URL('../assets/tmdb/review-data.json', import.meta.url), 'utf8'));
+test('historical sourced approvals retain their catalogue/candidate observations and one provider identity per film', async () => {
+  const queue = JSON.parse(await readFile(new URL('./fixtures/review-observations-20261105.json', import.meta.url), 'utf8'));
   const decisions = JSON.parse(await readFile(new URL('../data/film-review-decisions.json', import.meta.url), 'utf8'));
   assert.equal(decisions.version, 1);
   const keys = new Set(), providerIds = new Set();
