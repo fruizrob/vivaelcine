@@ -2,10 +2,11 @@
 
 Film festival schedules organized by time and screening room. Each festival has an independent agenda; more will be added as new festivals are announced.
 
-Switch between **SANFIC22** and **FIDOCS 30** in the header. Time runs horizontally, rooms vertically, and blocks match published runtimes. Search, venue and section filters, zoom, and screening details work within the selected festival.
+Switch between **SANFIC22**, **FIDOCS 30**, and **FICVIÑA 38** in the header. Time runs horizontally, rooms vertically, and blocks match published runtimes. Search, venue and section filters, zoom, and screening details work within the selected festival.
 
 - [SANFIC22](https://vivaelcine.cl/?festival=sanfic-2026): November 2–8, 2026. The original 100 screenings across seven rooms.
 - [FIDOCS 30](https://vivaelcine.cl/?festival=fidocs-2026): November 13–19, 2026. All 51 official listings, normalized into 48 screening blocks across six spaces. Sourced independently from [FIDOCS](https://fidocs.cl/programacion/).
+- [FICVIÑA 38](https://vivaelcine.cl/?festival=ficvina-2026): November 23–28, 2026, plus November 20–21 previews. All 42 screening blocks from the official PDF, containing 85 films across six spaces. [Sources, conflicts and regeneration](docs/festivals/ficvina-2026.md). The 13 talks are collected separately in the source manifest.
 
 ## Development
 

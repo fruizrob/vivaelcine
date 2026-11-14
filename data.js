@@ -1,6 +1,7 @@
 import sanfic from './data/sanfic-2026.js?v=20261105-tmdb-years';
 import fidocs from './data/fidocs-2026.js?v=20261105-years';
 import { nextScreeningDay, todayFor } from './core.js?v=20261112-selection';
+import ficvina from './data/ficvina-2026.js?v=20261113';
 
 export const festivals = [
   {
@@ -12,6 +13,7 @@ export const festivals = [
     range: { start: 900, end: 1500 },
   },
   { ...fidocs, id: 'fidocs-2026', name: 'FIDOCS 30', sourceUrl: 'https://fidocs.cl/programacion/' },
+  ficvina,
 ];
 
 export function festivalFor(search = '', now = new Date(), catalogue = festivals) {
